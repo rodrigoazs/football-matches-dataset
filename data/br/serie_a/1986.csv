@@ -1,0 +1,681 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+0,1986-08-30,Coritiba,0,1,São Paulo,False,False,first
+1,1986-08-31,Remo,1,1,Ceará,False,False,first
+2,1986-08-31,Bangu,0,1,Fluminense-RJ,False,False,first
+3,1986-08-31,Sampaio Corrêa,1,2,Sport,False,False,first
+4,1986-08-31,Sobradinho,0,1,Internacional-RS,False,False,first
+5,1986-09-02,Coritiba,1,0,Internacional-RS,False,False,first
+6,1986-09-02,Fluminense-RJ,1,0,Operário-MS,False,False,first
+7,1986-09-02,Remo,0,0,Sport,False,False,first
+8,1986-09-02,Sampaio Corrêa,0,3,Ceará,False,False,first
+9,1986-09-02,Sobradinho,1,1,São Paulo,False,False,first
+10,1986-09-06,Sport,1,0,Coritiba,False,False,first
+11,1986-09-07,Internacional-RS,2,0,Fluminense-RJ,False,False,first
+12,1986-09-07,São Paulo,1,1,Bangu,False,False,first
+13,1986-09-07,Operário-MS,0,1,Sampaio Corrêa,False,False,first
+14,1986-09-07,Ceará,1,2,Sobradinho,False,False,first
+15,1986-09-10,Sport,1,0,Sobradinho,False,False,first
+16,1986-09-10,Ceará,1,0,Coritiba,False,False,first
+17,1986-09-10,Fluminense-RJ,0,0,Sampaio Corrêa,False,False,first
+18,1986-09-10,Internacional-RS,1,1,Bangu,False,False,first
+19,1986-09-11,Operário-MS,2,1,Remo,False,False,first
+20,1986-09-13,Fluminense-RJ,1,0,Coritiba,False,False,first
+21,1986-09-14,São Paulo,4,0,Ceará,False,False,first
+22,1986-09-14,Sport,0,0,Internacional-RS,False,False,first
+23,1986-09-14,Sobradinho,1,0,Remo,False,False,first
+24,1986-09-14,Bangu,2,0,Operário-MS,False,False,first
+25,1986-09-17,Bangu,3,0,Sobradinho,False,False,first
+26,1986-09-17,Internacional-RS,1,1,Ceará,False,False,first
+27,1986-09-17,Coritiba,0,0,Sampaio Corrêa,False,False,first
+28,1986-09-18,Remo,1,1,Fluminense-RJ,False,False,first
+29,1986-09-30,Operário-MS,1,2,São Paulo,False,False,first
+30,1986-09-21,São Paulo,0,0,Internacional-RS,False,False,first
+31,1986-09-21,Sobradinho,0,1,Fluminense-RJ,False,False,first
+32,1986-09-21,Coritiba,1,1,Remo,False,False,first
+33,1986-09-21,Sampaio Corrêa,0,0,Bangu,False,False,first
+34,1986-09-21,Sport,4,1,Operário-MS,False,False,first
+35,1986-09-24,Ceará,0,0,Operário-MS,False,False,first
+36,1986-09-24,Bangu,1,0,Coritiba,False,False,first
+37,1986-09-24,Internacional-RS,3,1,Remo,False,False,first
+38,1986-09-24,São Paulo,4,0,Sampaio Corrêa,False,False,first
+39,1986-09-25,Fluminense-RJ,0,1,Sport,False,False,first
+40,1986-09-28,Fluminense-RJ,2,3,São Paulo,False,False,first
+41,1986-09-28,Sampaio Corrêa,0,2,Internacional-RS,False,False,first
+42,1986-09-28,Remo,2,2,Bangu,False,False,first
+43,1986-09-28,Ceará,0,0,Sport,False,False,first
+44,1986-10-07,Operário-MS,2,1,Sobradinho,False,False,first
+45,1986-10-01,Sport,0,1,Bangu,False,False,first
+46,1986-10-01,Ceará,0,2,Fluminense-RJ,False,False,first
+47,1986-10-01,Sobradinho,2,1,Sampaio Corrêa,False,False,first
+48,1986-10-02,Remo,0,2,São Paulo,False,False,first
+49,1986-10-02,Operário-MS,2,0,Coritiba,False,False,first
+50,1986-10-05,São Paulo,3,2,Sport,False,False,first
+51,1986-10-05,Bangu,0,1,Ceará,False,False,first
+52,1986-10-05,Internacional-RS,3,1,Operário-MS,False,False,first
+53,1986-10-05,Coritiba,1,1,Sobradinho,False,False,first
+54,1986-10-05,Sampaio Corrêa,2,2,Remo,False,False,first
+55,1986-08-31,Corinthians,3,0,Goiás,False,False,first
+56,1986-08-31,Joinville,2,0,Atlético-PR,False,False,first
+57,1986-08-31,Botafogo-PB,0,1,América-RJ,False,False,first
+58,1986-08-31,Sergipe,0,4,Ponte Preta,False,False,first
+59,1986-09-02,Flamengo,4,1,Paysandu,False,False,first
+60,1986-09-02,Grêmio,2,1,Atlético-PR,False,False,first
+61,1986-09-02,Botafogo-PB,1,4,Ponte Preta,False,False,first
+62,1986-09-02,Sergipe,1,0,América-RJ,False,False,first
+63,1986-09-04,Corinthians,1,0,Paysandu,False,False,first
+64,1986-09-04,Flamengo,0,0,Goiás,False,False,first
+65,1986-09-07,América-RJ,0,2,Flamengo,False,False,first
+66,1986-09-07,Atlético-PR,0,0,Botafogo-PB,False,False,first
+67,1986-09-07,Goiás,0,0,Joinville,False,False,first
+68,1986-09-07,Paysandu,1,0,Grêmio,False,False,first
+69,1986-09-07,Ponte Preta,1,1,Corinthians,False,False,first
+70,1986-09-10,Goiás,1,1,Grêmio,False,False,first
+71,1986-09-11,Ponte Preta,0,1,Flamengo,False,False,first
+72,1986-09-11,América-RJ,0,0,Corinthians,False,False,first
+73,1986-09-11,Paysandu,1,1,Joinville,False,False,first
+74,1986-09-11,Atlético-PR,1,0,Sergipe,False,False,first
+75,1986-09-14,Corinthians,6,0,Sergipe,False,False,first
+76,1986-09-14,Grêmio,0,0,Flamengo,False,False,first
+77,1986-09-14,Goiás,0,0,Atlético-PR,False,False,first
+78,1986-09-14,Botafogo-PB,3,2,Joinville,False,False,first
+79,1986-09-14,Ponte Preta,1,0,Paysandu,False,False,first
+80,1986-09-17,Flamengo,1,0,Sergipe,False,False,first
+81,1986-09-17,Paysandu,0,1,América-RJ,False,False,first
+82,1986-09-18,Grêmio,5,2,Botafogo-PB,False,False,first
+83,1986-09-18,Atlético-PR,4,0,Ponte Preta,False,False,first
+84,1986-09-18,Joinville,1,0,Corinthians,False,False,first
+85,1986-09-21,América-RJ,3,1,Ponte Preta,False,False,first
+86,1986-09-21,Flamengo,2,3,Corinthians,False,False,first
+87,1986-09-21,Grêmio,5,1,Joinville,False,False,first
+88,1986-09-21,Paysandu,1,2,Goiás,False,False,first
+89,1986-09-22,Sergipe,1,0,Botafogo-PB,False,False,first
+90,1986-09-24,América-RJ,0,0,Atlético-PR,False,False,first
+91,1986-09-24,Botafogo-PB,0,1,Corinthians,False,False,first
+92,1986-09-24,Joinville,1,2,Flamengo,False,False,first
+93,1986-09-25,Ponte Preta,1,0,Goiás,False,False,first
+94,1986-09-25,Sergipe,0,0,Grêmio,False,False,first
+95,1986-09-28,Atlético-PR,4,0,Paysandu,False,False,first
+96,1986-09-28,Goiás,3,2,América-RJ,False,False,first
+97,1986-09-28,Corinthians,1,2,Grêmio,False,False,first
+98,1986-09-28,Flamengo,2,0,Botafogo-PB,False,False,first
+99,1986-09-29,Joinville,1,1,Sergipe,False,False,first
+100,1986-10-01,Corinthians,0,0,Atlético-PR,False,False,first
+101,1986-10-01,Grêmio,0,2,Ponte Preta,False,False,first
+102,1986-10-01,Joinville,4,1,América-RJ,False,False,first
+103,1986-10-01,Botafogo-PB,1,0,Goiás,False,False,first
+104,1986-10-03,Sergipe,2,1,Paysandu,False,False,first
+105,1986-10-05,América-RJ,2,0,Grêmio,False,False,first
+106,1986-10-05,Atlético-PR,2,1,Flamengo,False,False,first
+107,1986-10-05,Goiás,2,0,Sergipe,False,False,first
+108,1986-10-05,Ponte Preta,4,1,Joinville,False,False,first
+109,1986-10-08,Botafogo-PB,2,0,Paysandu,False,False,first
+110,1986-08-31,Atlético-GO,2,1,Piauí,False,False,first
+111,1986-08-31,Bahia,4,0,Rio Branco,False,False,first
+112,1986-08-31,Guarani,1,0,Cruzeiro,False,False,first
+113,1986-08-31,Náutico,1,0,Vasco da Gama,False,False,first
+114,1986-08-31,Operário-MT,2,1,Tuna Luso,False,False,first
+115,1986-09-02,Atlético-GO,1,0,Tuna Luso,False,False,first
+116,1986-09-02,Náutico,0,1,Rio Branco,False,False,first
+117,1986-09-02,Operário-MT,0,0,Piauí,False,False,first
+118,1986-09-02,Cruzeiro,2,3,Santos,False,False,first
+119,1986-09-04,Vasco da Gama,0,1,Bahia,False,False,first
+120,1986-09-06,Tuna Luso,3,1,Náutico,False,False,first
+121,1986-09-07,Cruzeiro,2,0,Atlético-GO,False,False,first
+122,1986-09-07,Piauí,1,3,Bahia,False,False,first
+123,1986-09-07,Rio Branco,0,0,Santos,False,False,first
+124,1986-09-07,Vasco da Gama,0,1,Guarani,False,False,first
+125,1986-09-10,Tuna Luso,0,3,Bahia,False,False,first
+126,1986-09-10,Rio Branco,0,0,Guarani,False,False,first
+127,1986-09-10,Piauí,1,0,Náutico,False,False,first
+128,1986-09-11,Santos,0,0,Vasco da Gama,False,False,first
+129,1986-09-11,Operário-MT,0,2,Cruzeiro,False,False,first
+130,1986-09-13,Atlético-GO,1,0,Guarani,False,False,first
+131,1986-09-14,Bahia,3,0,Santos,False,False,first
+132,1986-09-14,Vasco da Gama,0,0,Cruzeiro,False,False,first
+133,1986-09-14,Tuna Luso,0,0,Rio Branco,False,False,first
+134,1986-09-14,Náutico,3,1,Operário-MT,False,False,first
+135,1986-09-17,Bahia,2,1,Operário-MT,False,False,first
+136,1986-09-17,Atlético-GO,0,1,Santos,False,False,first
+137,1986-09-17,Rio Branco,4,0,Piauí,False,False,first
+138,1986-09-17,Guarani,1,0,Náutico,False,False,first
+139,1986-09-17,Cruzeiro,3,1,Tuna Luso,False,False,first
+140,1986-09-21,Bahia,1,0,Náutico,False,False,first
+141,1986-09-21,Santos,0,1,Guarani,False,False,first
+142,1986-09-21,Rio Branco,1,0,Vasco da Gama,False,False,first
+143,1986-09-30,Operário-MT,0,3,Atlético-GO,False,False,first
+144,1986-10-09,Piauí,1,2,Tuna Luso,False,False,first
+145,1986-09-24,Guarani,1,1,Bahia,False,False,first
+146,1986-09-24,Náutico,1,0,Atlético-GO,False,False,first
+147,1986-09-24,Piauí,0,3,Cruzeiro,False,False,first
+148,1986-09-24,Tuna Luso,0,3,Vasco da Gama,False,False,first
+149,1986-09-25,Santos,3,0,Operário-MT,False,False,first
+150,1986-09-27,Bahia,1,1,Atlético-GO,False,False,first
+151,1986-09-27,Cruzeiro,0,0,Rio Branco,False,False,first
+152,1986-09-28,Guarani,2,0,Operário-MT,False,False,first
+153,1986-09-28,Santos,5,0,Náutico,False,False,first
+154,1986-10-07,Vasco da Gama,2,0,Piauí,False,False,first
+155,1986-10-02,Atlético-GO,0,0,Vasco da Gama,False,False,first
+156,1986-10-02,Guarani,8,2,Piauí,False,False,first
+157,1986-10-02,Operário-MT,0,2,Rio Branco,False,False,first
+158,1986-10-02,Santos,2,0,Tuna Luso,False,False,first
+159,1986-10-02,Náutico,1,0,Cruzeiro,False,False,first
+160,1986-10-05,Cruzeiro,0,0,Bahia,False,False,first
+161,1986-10-05,Piauí,0,2,Santos,False,False,first
+162,1986-10-05,Rio Branco,2,1,Atlético-GO,False,False,first
+163,1986-10-05,Tuna Luso,1,4,Guarani,False,False,first
+164,1986-10-05,Vasco da Gama,6,0,Operário-MT,False,False,first
+165,1986-08-31,Atlético-MG,1,1,Santa Cruz,False,False,first
+166,1986-08-31,Comercial,1,1,Botafogo-RJ,False,False,first
+167,1986-08-31,Fortaleza,0,0,CSA,False,False,first
+168,1986-08-31,Nacional,1,0,Alecrim,False,False,first
+169,1986-08-31,Portuguesa,2,0,Vitória,False,False,first
+170,1986-09-02,Fortaleza,2,0,Alecrim,False,False,first
+171,1986-09-04,Portuguesa,1,1,Santa Cruz,False,False,first
+172,1986-09-04,Vitória,0,0,Atlético-MG,False,False,first
+173,1986-09-04,Nacional,0,0,CSA,False,False,first
+174,1986-09-30,Palmeiras,2,0,Botafogo-RJ,False,False,first
+175,1986-09-06,Botafogo-RJ,2,0,Fortaleza,False,False,first
+176,1986-09-07,Alecrim,2,2,Portuguesa,False,False,first
+177,1986-09-07,CSA,0,2,Atlético-MG,False,False,first
+178,1986-09-07,Santa Cruz,2,1,Palmeiras,False,False,first
+179,1986-09-07,Vitória,2,0,Comercial,False,False,first
+180,1986-09-10,CSA,4,0,Portuguesa,False,False,first
+181,1986-09-10,Alecrim,1,2,Atlético-MG,False,False,first
+182,1986-09-10,Palmeiras,2,2,Vitória,False,False,first
+183,1986-09-10,Botafogo-RJ,0,0,Nacional,False,False,first
+184,1986-09-11,Santa Cruz,0,0,Comercial,False,False,first
+185,1986-09-13,Vitória,0,0,Botafogo-RJ,False,False,first
+186,1986-09-14,Atlético-MG,1,0,Palmeiras,False,False,first
+187,1986-09-14,Portuguesa,2,1,Nacional,False,False,first
+188,1986-09-14,Fortaleza,0,1,Comercial,False,False,first
+189,1986-09-14,Alecrim,1,0,Santa Cruz,False,False,first
+190,1986-09-17,Palmeiras,6,0,Fortaleza,False,False,first
+191,1986-09-17,Santa Cruz,2,0,CSA,False,False,first
+192,1986-09-17,Atlético-MG,0,0,Nacional,False,False,first
+193,1986-09-18,Botafogo-RJ,2,1,Alecrim,False,False,first
+194,1986-09-30,Comercial,1,1,Portuguesa,False,False,first
+195,1986-09-20,Santa Cruz,1,3,Vitória,False,False,first
+196,1986-09-21,CSA,2,1,Alecrim,False,False,first
+197,1986-09-21,Atlético-MG,2,1,Portuguesa,False,False,first
+198,1986-09-21,Nacional,0,1,Fortaleza,False,False,first
+199,1986-09-21,Palmeiras,4,2,Comercial,False,False,first
+200,1986-09-24,Alecrim,1,1,Vitória,False,False,first
+201,1986-09-24,CSA,1,1,Botafogo-RJ,False,False,first
+202,1986-09-24,Nacional,2,1,Palmeiras,False,False,first
+203,1986-09-25,Fortaleza,0,1,Portuguesa,False,False,first
+204,1986-09-25,Comercial,1,2,Atlético-MG,False,False,first
+205,1986-09-28,Atlético-MG,4,0,Fortaleza,False,False,first
+206,1986-09-28,Portuguesa,0,0,Palmeiras,False,False,first
+207,1986-09-28,Vitória,0,0,CSA,False,False,first
+208,1986-10-07,Botafogo-RJ,2,0,Santa Cruz,False,False,first
+209,1986-10-07,Comercial,2,1,Nacional,False,False,first
+210,1986-10-01,Fortaleza,2,2,Vitória,False,False,first
+211,1986-10-01,Nacional,3,1,Santa Cruz,False,False,first
+212,1986-10-02,Palmeiras,3,0,Alecrim,False,False,first
+213,1986-10-02,Portuguesa,2,1,Botafogo-RJ,False,False,first
+214,1986-10-02,Comercial,1,0,CSA,False,False,first
+215,1986-10-05,Vitória,2,2,Nacional,False,False,first
+216,1986-10-05,Santa Cruz,3,2,Fortaleza,False,False,first
+217,1986-10-05,CSA,1,0,Palmeiras,False,False,first
+218,1986-10-05,Botafogo-RJ,2,4,Atlético-MG,False,False,first
+219,1986-10-09,Alecrim,0,0,Comercial,False,False,first
+220,1986-09-06,River,2,2,Guarany,False,False,first
+221,1986-09-07,Rio Negro,1,1,América-RN,False,False,first
+222,1986-09-07,Moto Clube,1,0,Sport Belém,False,False,first
+223,1986-09-07,Treze,1,0,Ferroviário,False,False,first
+224,1986-09-09,Sport Belém,0,0,Maranhão,False,False,first
+225,1986-09-10,Treze,1,0,Guarany,False,False,first
+226,1986-09-10,Moto Clube,1,0,América-RN,False,False,first
+227,1986-09-11,River,1,1,Ferroviário,False,False,first
+228,1986-09-13,América-RN,0,0,Treze,False,False,first
+229,1986-09-14,Rio Negro,0,0,River,False,False,first
+230,1986-09-14,Maranhão,2,3,Moto Clube,False,False,first
+231,1986-09-14,Guarany,0,0,Ferroviário,False,False,first
+232,1986-09-18,Sport Belém,1,2,Treze,False,False,first
+233,1986-09-18,River,1,2,Moto Clube,False,False,first
+234,1986-09-18,Ferroviário,2,3,Maranhão,False,False,first
+235,1986-09-18,Guarany,1,0,Rio Negro,False,False,first
+236,1986-09-20,Moto Clube,0,1,Rio Negro,False,False,first
+237,1986-09-21,América-RN,1,0,Sport Belém,False,False,first
+238,1986-09-21,Treze,2,0,River,False,False,first
+239,1986-09-21,Guarany,2,1,Maranhão,False,False,first
+240,1986-09-24,Maranhão,2,0,River,False,False,first
+241,1986-09-25,Ferroviário,0,0,América-RN,False,False,first
+242,1986-09-25,Sport Belém,1,0,Guarany,False,False,first
+243,1986-09-25,Rio Negro,0,0,Treze,False,False,first
+244,1986-09-27,Maranhão,0,0,Rio Negro,False,False,first
+245,1986-09-27,América-RN,3,0,Guarany,False,False,first
+246,1986-09-28,Ferroviário,3,1,Sport Belém,False,False,first
+247,1986-09-28,Treze,2,0,Moto Clube,False,False,first
+248,1986-10-02,River,0,4,América-RN,False,False,first
+249,1986-10-02,Rio Negro,2,0,Sport Belém,False,False,first
+250,1986-10-02,Maranhão,1,0,Treze,False,False,first
+251,1986-10-02,Moto Clube,1,1,Ferroviário,False,False,first
+252,1986-10-02,América-RN,0,1,Maranhão,False,False,first
+253,1986-10-02,Sport Belém,2,2,River,False,False,first
+254,1986-10-02,Guarany,3,1,Moto Clube,False,False,first
+255,1986-10-02,Ferroviário,0,1,Rio Negro,False,False,first
+256,1986-09-06,CRB,2,1,Taguatinga,False,False,first
+257,1986-09-07,Central,2,1,Desportiva,False,False,first
+258,1986-09-07,Goytacaz,0,1,Americano,False,False,first
+259,1986-09-07,Catuense,0,0,Fluminense-BA,False,False,first
+260,1986-09-10,Goytacaz,1,2,Desportiva,False,False,first
+261,1986-09-11,Americano,3,0,Confiança,False,False,first
+262,1986-09-11,Catuense,4,3,Taguatinga,False,False,first
+263,1986-09-11,CRB,2,0,Fluminense-BA,False,False,first
+264,1986-09-14,Desportiva,0,0,Catuense,False,False,first
+265,1986-09-14,Central,2,0,CRB,False,False,first
+266,1986-09-14,Confiança,2,1,Goytacaz,False,False,first
+267,1986-09-14,Taguatinga,3,0,Fluminense-BA,False,False,first
+268,1986-09-17,CRB,1,2,Goytacaz,False,False,first
+269,1986-09-17,Americano,0,1,Catuense,False,False,first
+270,1986-09-18,Fluminense-BA,1,0,Confiança,False,False,first
+271,1986-09-18,Taguatinga,2,1,Central,False,False,first
+272,1986-09-20,Desportiva,1,2,Americano,False,False,first
+273,1986-09-21,Catuense,0,0,CRB,False,False,first
+274,1986-09-21,Taguatinga,3,1,Confiança,False,False,first
+275,1986-09-21,Goytacaz,1,0,Central,False,False,first
+276,1986-09-24,Confiança,0,0,CRB,False,False,first
+277,1986-09-25,Fluminense-BA,1,1,Desportiva,False,False,first
+278,1986-09-25,Americano,1,0,Taguatinga,False,False,first
+279,1986-09-25,Central,1,0,Catuense,False,False,first
+280,1986-09-28,Desportiva,1,0,Taguatinga,False,False,first
+281,1986-09-28,Fluminense-BA,2,2,Americano,False,False,first
+282,1986-09-28,Catuense,2,3,Goytacaz,False,False,first
+283,1986-09-28,Confiança,0,1,Central,False,False,first
+284,1986-10-01,CRB,1,0,Desportiva,False,False,first
+285,1986-10-02,Central,2,0,Americano,False,False,first
+286,1986-10-02,Confiança,2,2,Catuense,False,False,first
+287,1986-10-02,Goytacaz,2,1,Fluminense,False,False,first
+288,1986-10-05,Desportiva,3,0,Confiança,False,False,first
+289,1986-10-05,Americano,2,0,CRB,False,False,first
+290,1986-10-05,Taguatinga,2,2,Goytacaz,False,False,first
+291,1986-10-05,Fluminense-BA,2,2,Central,False,False,first
+292,1986-09-06,América-MG,2,2,Itumbiara,False,False,first
+293,1986-09-07,Mixto,2,1,Anápolis,False,False,first
+294,1986-09-16,Internacional-SP,2,0,Uberlândia,False,False,first
+295,1986-09-30,Santo André,1,1,Juventus,False,False,first
+296,1986-09-10,Mixto,0,0,Uberlândia,False,False,first
+297,1986-09-10,América-MG,1,1,Juventus,False,False,first
+298,1986-09-11,Santo André,0,0,Itumbiara,False,False,first
+299,1986-09-11,Anápolis,2,0,Ubiratan,False,False,first
+300,1986-09-14,Internacional-SP,3,1,Santo André,False,False,first
+301,1986-09-14,Uberlândia,0,1,América-MG,False,False,first
+302,1986-09-14,Ubiratan,4,2,Mixto,False,False,first
+303,1986-09-14,Juventus,0,0,Itumbiara,False,False,first
+304,1986-09-17,Santo André,3,2,Mixto,False,False,first
+305,1986-09-17,Juventus,1,0,Internacional-SP,False,False,first
+306,1986-09-17,Anápolis,2,0,América-MG,False,False,first
+307,1986-09-17,Itumbiara,0,0,Ubiratan,False,False,first
+308,1986-09-21,Uberlândia,1,1,Anápolis,False,False,first
+309,1986-09-21,América-MG,0,1,Santo André,False,False,first
+310,1986-09-21,Juventus,1,0,Ubiratan,False,False,first
+311,1986-09-24,Internacional-SP,2,0,América-MG,False,False,first
+312,1986-09-25,Itumbiara,1,0,Uberlândia,False,False,first
+313,1986-09-25,Anápolis,0,1,Juventus,False,False,first
+314,1986-09-25,Ubiratan,0,0,Santo André,False,False,first
+315,1986-09-28,Uberlândia,0,0,Juventus,False,False,first
+316,1986-09-28,Itumbiara,1,1,Anápolis,False,False,first
+317,1986-09-28,América-MG,6,1,Mixto,False,False,first
+318,1986-09-28,Ubiratan,1,1,Internacional-SP,False,False,first
+319,1986-10-01,Internacional-SP,4,0,Anápolis,False,False,first
+320,1986-10-02,Santo André,2,1,Uberlândia,False,False,first
+321,1986-10-02,Ubiratan,0,0,América-MG,False,False,first
+322,1986-10-02,Mixto,2,2,Itumbiara,False,False,first
+323,1986-10-05,Anápolis,1,0,Santo André,False,False,first
+324,1986-10-05,Juventus,3,0,Mixto,False,False,first
+325,1986-10-05,Itumbiara,0,2,Internacional-SP,False,False,first
+326,1986-09-07,Criciúma,2,0,Novo Hamburgo,False,False,first
+327,1986-09-07,Brasil,0,0,Juventude,False,False,first
+328,1986-09-07,Avaí,0,1,Marcílio Dias,False,False,first
+329,1986-09-07,Londrina,2,0,Cascavel,False,False,first
+330,1986-09-10,Brasil,1,2,Novo Hamburgo,False,False,first
+331,1986-09-11,Juventude,1,1,Pinheiros,False,False,first
+332,1986-09-11,Londrina,1,0,Marcílio Dias,False,False,first
+333,1986-09-11,Avaí,1,1,Cascavel,False,False,first
+334,1986-09-14,Criciúma,1,0,Avaí,False,False,first
+335,1986-09-14,Novo Hamburgo,1,1,Londrina,False,False,first
+336,1986-09-14,Pinheiros,3,1,Brasil,False,False,first
+337,1986-09-14,Marcílio Dias,1,0,Cascavel,False,False,first
+338,1986-09-17,Avaí,2,0,Brasil,False,False,first
+339,1986-09-18,Marcílio Dias,1,1,Criciúma,False,False,first
+340,1986-09-18,Juventude,1,1,Londrina,False,False,first
+341,1986-09-18,Cascavel,1,1,Pinheiros,False,False,first
+342,1986-09-21,Novo Hamburgo,1,0,Juventude,False,False,first
+343,1986-09-21,Brasil,1,2,Criciúma,False,False,first
+344,1986-09-21,Marcílio Dias,1,1,Pinheiros,False,False,first
+345,1986-09-21,Londrina,0,1,Avaí,False,False,first
+346,1986-09-24,Criciúma,3,1,Londrina,False,False,first
+347,1986-09-25,Cascavel,2,3,Novo Hamburgo,False,False,first
+348,1986-09-25,Pinheiros,1,0,Avaí,False,False,first
+349,1986-09-25,Juventude,2,0,Marcílio Dias,False,False,first
+350,1986-09-28,Novo Hamburgo,0,2,Marcílio Dias,False,False,first
+351,1986-09-28,Cascavel,1,1,Juventude,False,False,first
+352,1986-09-28,Londrina,1,2,Brasil,False,False,first
+353,1986-09-28,Pinheiros,1,2,Criciúma,False,False,first
+354,1986-10-01,Criciúma,1,0,Juventude,False,False,first
+355,1986-10-01,Brasil,3,1,Cascavel,False,False,first
+356,1986-10-02,Pinheiros,1,2,Londrina,False,False,first
+357,1986-10-02,Avaí,1,0,Novo Hamburgo,False,False,first
+358,1986-10-05,Novo Hamburgo,1,2,Pinheiros,False,False,first
+359,1986-10-05,Juventude,2,0,Avaí,False,False,first
+360,1986-10-05,Marcílio Dias,2,1,Brasil,False,False,first
+361,1986-10-05,Cascavel,0,0,Criciúma,False,False,first
+362,1986-10-12,Ponte Preta,0,2,São Paulo,False,False,second
+363,1986-10-12,Santos,0,1,Treze,False,False,second
+364,1986-10-12,América-RJ,1,0,Bangu,False,False,second
+365,1986-10-15,Bangu,0,0,Ponte Preta,False,False,second
+366,1986-10-15,Palmeiras,4,1,Treze,False,False,second
+367,1986-10-15,Santos,1,0,América-RJ,False,False,second
+368,1986-10-19,São Paulo,2,0,Santos,False,False,second
+369,1986-10-19,Ponte Preta,0,0,Palmeiras,False,False,second
+370,1986-10-19,Treze,1,0,Bangu,False,False,second
+371,1986-10-22,São Paulo,2,0,Bangu,False,False,second
+372,1986-10-22,Treze,1,0,Ponte Preta,False,False,second
+373,1986-10-22,Botafogo-RJ,1,1,Joinville,False,False,second
+374,1986-10-22,América-RJ,1,1,Palmeiras,False,False,second
+375,1986-10-25,Santos,1,1,Ponte Preta,False,False,second
+376,1986-10-25,Botafogo-RJ,2,0,Treze,False,False,second
+377,1986-10-26,São Paulo,1,1,América-RJ,False,False,second
+378,1986-10-26,Bangu,0,1,Palmeiras,False,False,second
+379,1986-10-29,Palmeiras,1,0,Santos,False,False,second
+380,1986-10-29,Bangu,1,0,Botafogo-RJ,False,False,second
+381,1986-10-29,Ponte Preta,3,1,América-RJ,False,False,second
+382,1986-10-29,Treze,0,0,Joinville,False,False,second
+383,1986-11-01,Santos,2,0,Bangu,False,False,second
+384,1986-11-02,São Paulo,0,0,Palmeiras,False,False,second
+385,1986-11-02,América-RJ,1,0,Treze,False,False,second
+386,1986-11-02,Joinville,1,0,Ponte Preta,False,False,second
+387,1986-11-05,Bangu,1,1,Joinville,False,False,second
+388,1986-11-06,Ponte Preta,1,0,Botafogo-RJ,False,False,second
+389,1986-11-09,Palmeiras,3,2,Botafogo-RJ,False,False,second
+390,1986-11-09,Joinville,0,0,São Paulo,False,False,second
+391,1986-11-12,Treze,1,0,São Paulo,False,False,second
+392,1986-11-12,América-RJ,2,1,Botafogo-RJ,False,False,second
+393,1986-11-13,Joinville,0,0,Santos,False,False,second
+394,1986-11-16,Botafogo-RJ,2,3,Santos,False,False,second
+395,1986-11-16,Palmeiras,2,0,Joinville,False,False,second
+396,1986-11-19,Joinville,2,0,América-RJ,False,False,second
+397,1986-11-20,São Paulo,5,0,Botafogo-RJ,False,False,second
+398,1986-11-23,Santos,0,0,São Paulo,False,False,second
+399,1986-11-23,América-RJ,2,1,Ponte Preta,False,False,second
+400,1986-11-23,Joinville,0,0,Palmeiras,False,False,second
+401,1986-11-23,Treze,0,1,Botafogo-RJ,False,False,second
+402,1986-11-26,Palmeiras,1,1,América-RJ,False,False,second
+403,1986-11-26,Bangu,1,1,Santos,False,False,second
+404,1986-11-26,Joinville,3,0,Treze,False,False,second
+405,1986-11-26,Botafogo-RJ,0,0,Ponte Preta,False,False,second
+406,1986-11-29,Palmeiras,2,0,Ponte Preta,False,False,second
+407,1986-11-30,Santos,0,0,Botafogo-RJ,False,False,second
+408,1986-11-30,América-RJ,0,0,São Paulo,False,False,second
+409,1986-11-30,Joinville,4,0,Bangu,False,False,second
+410,1986-12-03,Palmeiras,2,2,Bangu,False,False,second
+411,1986-12-03,São Paulo,4,1,Treze,False,False,second
+412,1986-12-03,Ponte Preta,2,0,Joinville,False,False,second
+413,1986-12-04,América-RJ,0,0,Botafogo-RJ,False,False,second
+414,1986-12-07,Santos,1,1,Palmeiras,False,False,second
+415,1986-12-07,Botafogo-RJ,0,0,São Paulo,False,False,second
+416,1986-12-07,América-RJ,1,1,Joinville,False,False,second
+417,1986-12-07,Bangu,1,0,Treze,False,False,second
+418,1986-12-10,Joinville,1,0,Botafogo-RJ,False,False,second
+419,1986-12-10,Treze,0,0,Santos,False,False,second
+420,1986-12-10,São Paulo,6,1,Ponte Preta,False,False,second
+421,1986-12-10,Bangu,1,1,América-RJ,False,False,second
+422,1986-12-13,Botafogo-RJ,0,0,Bangu,False,False,second
+423,1986-12-13,Ponte Preta,1,1,Treze,False,False,second
+424,1986-12-14,Palmeiras,2,2,São Paulo,False,False,second
+425,1986-12-14,Santos,0,0,Joinville,False,False,second
+426,1986-01-24,São Paulo,5,0,Joinville,False,False,second
+427,1986-01-25,América-RJ,1,0,Santos,False,False,second
+428,1986-01-25,Treze,0,2,Palmeiras,False,False,second
+429,1986-01-25,Ponte Preta,1,2,Bangu,False,False,second
+430,1986-01-28,Bangu,1,0,São Paulo,False,False,second
+431,1986-01-28,Ponte Preta,0,0,Santos,False,False,second
+432,1986-01-28,Treze,1,1,América-RJ,False,False,second
+433,1986-01-29,Botafogo-RJ,1,0,Palmeiras,False,False,second
+434,1986-10-12,Atlético-GO,0,2,Fluminense-RJ,False,False,second
+435,1986-10-12,Flamengo,1,1,Grêmio,False,False,second
+436,1986-10-16,Flamengo,2,1,Atlético-GO,False,False,second
+437,1986-10-16,Fluminense-RJ,2,0,Central,False,False,second
+438,1986-10-16,Grêmio,1,1,Vitória,False,False,second
+439,1986-10-19,Flamengo,0,0,Fluminense-RJ,False,False,second
+440,1986-10-19,Central,1,0,Vitória,False,False,second
+441,1986-10-19,Atlético-GO,0,3,Guarani,False,False,second
+442,1986-10-22,Guarani,2,1,Grêmio,False,False,second
+443,1986-10-22,Central,2,1,Flamengo,False,False,second
+444,1986-10-23,Fluminense-RJ,1,0,Vitória,False,False,second
+445,1986-10-23,Goiás,0,2,Santa Cruz,False,False,second
+446,1986-10-29,Atlético-GO,0,1,Grêmio,False,False,second
+447,1986-10-29,Vitória,2,1,Goiás,False,False,second
+448,1986-10-30,Guarani,3,0,Central,False,False,second
+449,1986-10-30,Santa Cruz,1,1,Fluminense-RJ,False,False,second
+450,1986-10-26,Grêmio,1,0,Fluminense-RJ,False,False,second
+451,1986-10-26,Flamengo,0,0,Guarani,False,False,second
+452,1986-10-26,Central,1,1,Atlético-GO,False,False,second
+453,1986-10-27,Vitória,1,1,Santa Cruz,False,False,second
+454,1986-11-01,Atlético-GO,1,0,Vitória,False,False,second
+455,1986-11-02,Goiás,0,4,Flamengo,False,False,second
+456,1986-11-02,Central,2,2,Grêmio,False,False,second
+457,1986-11-02,Fluminense-RJ,1,2,Guarani,False,False,second
+458,1986-11-05,Guarani,3,1,Santa Cruz,False,False,second
+459,1986-11-05,Goiás,1,1,Central,False,False,second
+460,1986-11-08,Santa Cruz,1,1,Atlético-GO,False,False,second
+461,1986-11-09,Grêmio,0,3,Goiás,False,False,second
+462,1986-11-09,Vitória,0,1,Flamengo,False,False,second
+463,1986-11-12,Santa Cruz,0,0,Central,False,False,second
+464,1986-11-13,Goiás,1,2,Fluminense-RJ,False,False,second
+465,1986-11-16,Grêmio,0,1,Santa Cruz,False,False,second
+466,1986-11-16,Atlético-GO,1,1,Goiás,False,False,second
+467,1986-11-16,Vitória,0,2,Guarani,False,False,second
+468,1986-11-19,Guarani,0,1,Goiás,False,False,second
+469,1986-11-19,Santa Cruz,0,1,Flamengo,False,False,second
+470,1986-11-22,Flamengo,1,2,Goiás,False,False,second
+471,1986-11-23,Central,1,5,Fluminense-RJ,False,False,second
+472,1986-11-23,Vitória,1,0,Grêmio,False,False,second
+473,1986-11-23,Atlético-GO,3,1,Santa Cruz,False,False,second
+474,1986-11-26,Flamengo,5,0,Central,False,False,second
+475,1986-11-26,Goiás,0,0,Guarani,False,False,second
+476,1986-11-26,Grêmio,4,2,Atlético-GO,False,False,second
+477,1986-11-26,Santa Cruz,2,2,Vitória,False,False,second
+478,1986-11-29,Santa Cruz,0,0,Grêmio,False,False,second
+479,1986-11-30,Fluminense-RJ,1,0,Flamengo,False,False,second
+480,1986-11-30,Goiás,2,2,Atlético-GO,False,False,second
+481,1986-11-30,Guarani,4,0,Vitória,False,False,second
+482,1986-12-03,Vitória,1,0,Central,False,False,second
+483,1986-12-03,Santa Cruz,1,1,Guarani,False,False,second
+484,1986-12-03,Atlético-GO,0,0,Flamengo,False,False,second
+485,1986-12-03,Fluminense-RJ,2,0,Goiás,False,False,second
+486,1986-12-06,Fluminense,0,0,Atlético-GO,False,False,second
+487,1986-12-07,Goiás,2,1,Vitória,False,False,second
+488,1986-12-07,Central,1,3,Guarani,False,False,second
+489,1986-12-07,Grêmio,2,0,Flamengo,False,False,second
+490,1986-12-10,Santa Cruz,1,1,Goiás,False,False,second
+491,1986-12-10,Atlético-GO,2,0,Central,False,False,second
+492,1986-12-10,Fluminense-RJ,1,0,Grêmio,False,False,second
+493,1986-12-11,Guarani,0,0,Flamengo,False,False,second
+494,1986-12-13,Vitória,0,0,Atlético-GO,False,False,second
+495,1986-12-14,Guarani,0,0,Fluminense-RJ,False,False,second
+496,1986-12-14,Goiás,0,0,Grêmio,False,False,second
+497,1986-12-14,Central,0,0,Santa Cruz,False,False,second
+498,1986-01-24,Fluminense-RJ,2,0,Santa Cruz,False,False,second
+499,1986-01-25,Flamengo,2,0,Vitória,False,False,second
+500,1986-01-25,Grêmio,0,1,Guarani,False,False,second
+501,1986-01-25,Central,2,2,Goiás,False,False,second
+502,1986-01-28,Guarani,2,0,Atlético-GO,False,False,second
+503,1986-01-28,Flamengo,0,1,Santa Cruz,False,False,second
+504,1986-01-28,Vitória,2,1,Fluminense-RJ,False,False,second
+505,1986-01-28,Grêmio,3,0,Central,False,False,second
+506,1986-10-12,Cruzeiro,5,1,Internacional-SP,False,False,second
+507,1986-10-12,Bahia,0,0,Atlético-PR,False,False,second
+508,1986-10-16,Atlético-PR,1,1,Cruzeiro,False,False,second
+509,1986-10-16,Bahia,2,0,CSA,False,False,second
+510,1986-10-19,Bahia,1,0,Sport,False,False,second
+511,1986-10-19,Internacional-SP,1,0,Atlético-PR,False,False,second
+512,1986-10-19,Portuguesa,0,0,Cruzeiro,False,False,second
+513,1986-10-22,Sport,1,2,Portuguesa,False,False,second
+514,1986-10-22,CSA,0,0,Atlético-PR,False,False,second
+515,1986-10-23,Internacional-SP,1,1,Bahia,False,False,second
+516,1986-10-23,Cruzeiro,3,1,Comercial,False,False,second
+517,1986-10-26,Bahia,1,0,Cruzeiro,False,False,second
+518,1986-10-26,Sport,3,2,Internacional-SP,False,False,second
+519,1986-10-26,Portuguesa,0,0,CSA,False,False,second
+520,1986-10-26,Atlético-PR,2,1,Náutico,False,False,second
+521,1986-10-29,Comercial,1,2,Bahia,False,False,second
+522,1986-10-29,Portuguesa,4,0,Náutico,False,False,second
+523,1986-10-29,Cruzeiro,0,0,Sport,False,False,second
+524,1986-10-29,CSA,1,1,Internacional-SP,False,False,second
+525,1986-11-01,Portuguesa,2,0,Bahia,False,False,second
+526,1986-11-01,Náutico,3,1,Comercial,False,False,second
+527,1986-11-02,Sport,1,1,Atlético-PR,False,False,second
+528,1986-11-02,Cruzeiro,2,0,CSA,False,False,second
+529,1986-11-05,Náutico,1,1,CSA,False,False,second
+530,1986-11-05,Comercial,1,0,Portuguesa,False,False,second
+531,1986-11-09,Atlético-PR,1,1,Portuguesa,False,False,second
+532,1986-11-09,CSA,1,0,Sport,False,False,second
+533,1986-11-09,Náutico,1,1,Cruzeiro,False,False,second
+534,1986-11-09,Comercial,0,0,Internacional-SP,False,False,second
+535,1986-11-12,Internacional-SP,1,2,Náutico,False,False,second
+536,1986-11-12,Comercial,2,1,Sport,False,False,second
+537,1986-11-16,Sport,0,2,Náutico,False,False,second
+538,1986-11-16,Internacional-SP,1,1,Portuguesa,False,False,second
+539,1986-11-16,Atlético-PR,1,0,Comercial,False,False,second
+540,1986-11-19,CSA,0,0,Comercial,False,False,second
+541,1986-11-20,Náutico,0,1,Bahia,False,False,second
+542,1986-11-23,Atlético-PR,3,1,Bahia,False,False,second
+543,1986-11-23,Comercial,0,1,Náutico,False,False,second
+544,1986-11-23,Sport,2,1,Cruzeiro,False,False,second
+545,1986-11-23,CSA,1,1,Portuguesa,False,False,second
+546,1986-11-26,Cruzeiro,2,0,Portuguesa,False,False,second
+547,1986-11-26,Internacional-SP,2,1,Sport,False,False,second
+548,1986-11-26,Comercial,0,3,CSA,False,False,second
+549,1986-11-27,Náutico,1,0,Atlético-PR,False,False,second
+550,1986-11-30,Náutico,1,0,Sport,False,False,second
+551,1986-11-30,Portuguesa,3,2,Comercial,False,False,second
+552,1986-11-30,Cruzeiro,1,0,Atlético-PR,False,False,second
+553,1986-11-30,Bahia,2,1,Internacional-SP,False,False,second
+554,1986-12-03,Atlético-PR,2,0,Sport,False,False,second
+555,1986-12-03,Comercial,3,3,Cruzeiro,False,False,second
+556,1986-12-03,CSA,1,0,Bahia,False,False,second
+557,1986-12-04,Portuguesa,0,0,Internacional-SP,False,False,second
+558,1986-12-07,Internacional-SP,1,0,Cruzeiro,False,False,second
+559,1986-12-07,Sport,3,1,CSA,False,False,second
+560,1986-12-07,Comercial,0,0,Atlético-PR,False,False,second
+561,1986-12-07,Bahia,1,0,Náutico,False,False,second
+562,1986-12-10,Atlético-PR,2,2,Internacional-SP,False,False,second
+563,1986-12-10,CSA,2,1,Náutico,False,False,second
+564,1986-12-10,Bahia,0,1,Portuguesa,False,False,second
+565,1986-12-11,Sport,1,1,Comercial,False,False,second
+566,1986-12-14,Atlético-PR,2,1,CSA,False,False,second
+567,1986-12-14,Cruzeiro,2,1,Bahia,False,False,second
+568,1986-12-14,Internacional-SP,2,0,Comercial,False,False,second
+569,1986-12-14,Náutico,0,2,Portuguesa,False,False,second
+570,1986-01-25,Portuguesa,1,1,Sport,False,False,second
+571,1986-01-25,Náutico,0,1,Internacional-SP,False,False,second
+572,1986-01-25,Bahia,3,1,Comercial,False,False,second
+573,1986-01-25,CSA,0,1,Cruzeiro,False,False,second
+574,1986-01-28,Portuguesa,1,0,Atlético-PR,False,False,second
+575,1986-01-28,Cruzeiro,1,0,Náutico,False,False,second
+576,1986-01-28,Sport,0,1,Bahia,False,False,second
+577,1986-01-28,Internacional-SP,2,0,CSA,False,False,second
+578,1986-10-12,Corinthians,1,1,Criciúma,False,False,second
+579,1986-10-12,Internacional-RS,2,0,Ceará,False,False,second
+580,1986-10-12,Rio Branco,0,1,Atlético-MG,False,False,second
+581,1986-10-15,Atlético-MG,2,0,Ceará,False,False,second
+582,1986-10-15,Nacional,2,1,Rio Branco,False,False,second
+583,1986-10-16,Criciúma,1,1,Internacional-RS,False,False,second
+584,1986-10-19,Internacional-RS,2,2,Corinthians,False,False,second
+585,1986-10-19,Atlético-MG,1,0,Nacional,False,False,second
+586,1986-10-19,Ceará,3,0,Rio Branco,False,False,second
+587,1986-10-19,Vasco da Gama,2,0,Criciúma,False,False,second
+588,1986-10-22,Corinthians,4,0,Ceará,False,False,second
+589,1986-10-22,Criciúma,2,1,Nacional,False,False,second
+590,1986-10-23,Sobradinho,1,3,Vasco da Gama,False,False,second
+591,1986-10-26,Atlético-MG,1,0,Internacional-RS,False,False,second
+592,1986-10-26,Nacional,1,3,Corinthians,False,False,second
+593,1986-10-26,Criciúma,0,0,Rio Branco,False,False,second
+594,1986-11-12,Ceará,2,2,Vasco da Gama,False,False,second
+595,1986-10-29,Sobradinho,0,5,Corinthians,False,False,second
+596,1986-10-29,Ceará,1,2,Nacional,False,False,second
+597,1986-10-29,Vasco da Gama,1,2,Rio Branco,False,False,second
+598,1986-10-30,Atlético-MG,1,1,Criciúma,False,False,second
+599,1986-11-02,Corinthians,1,2,Atlético-MG,False,False,second
+600,1986-11-02,Nacional,2,1,Internacional-RS,False,False,second
+601,1986-11-02,Criciúma,2,0,Ceará,False,False,second
+602,1986-11-02,Rio Branco,2,3,Sobradinho,False,False,second
+603,1986-11-05,Vasco da Gama,2,1,Nacional,False,False,second
+604,1986-11-05,Internacional-RS,3,1,Sobradinho,False,False,second
+605,1986-11-09,Rio Branco,1,2,Corinthians,False,False,second
+606,1986-11-09,Vasco da Gama,0,0,Atlético-MG,False,False,second
+607,1986-11-09,Ceará,3,1,Sobradinho,False,False,second
+608,1986-11-12,Sobradinho,0,1,Criciúma,False,False,second
+609,1986-11-16,Corinthians,0,0,Vasco da Gama,False,False,second
+610,1986-11-16,Rio Branco,2,1,Internacional-RS,False,False,second
+611,1986-11-16,Sobradinho,1,1,Atlético-MG,False,False,second
+612,1986-11-19,Internacional-RS,0,1,Vasco da Gama,False,False,second
+613,1986-11-19,Nacional,1,1,Sobradinho,False,False,second
+614,1986-11-23,Atlético-MG,0,1,Corinthians,False,False,second
+615,1986-11-23,Nacional,0,0,Ceará,False,False,second
+616,1986-11-23,Sobradinho,2,3,Rio Branco,False,False,second
+617,1986-11-23,Vasco da Gama,2,3,Internacional-RS,False,False,second
+618,1986-11-26,Rio Branco,1,1,Vasco da Gama,False,False,second
+619,1986-11-26,Sobradinho,0,2,Ceará,False,False,second
+620,1986-11-26,Criciúma,1,2,Atlético-MG,False,False,second
+621,1986-11-27,Corinthians,1,0,Nacional,False,False,second
+622,1986-11-30,Internacional-RS,2,0,Criciúma,False,False,second
+623,1986-11-30,Ceará,0,0,Corinthians,False,False,second
+624,1986-11-30,Vasco da Gama,4,0,Sobradinho,False,False,second
+625,1986-11-30,Nacional,2,1,Atlético-MG,False,False,second
+626,1986-12-03,Atlético-MG,1,0,Rio Branco,False,False,second
+627,1986-12-03,Internacional-RS,2,1,Nacional,False,False,second
+628,1986-12-03,Criciúma,1,0,Vasco da Gama,False,False,second
+629,1986-12-04,Corinthians,0,0,Sobradinho,False,False,second
+630,1986-12-07,Rio Branco,3,0,Nacional,False,False,second
+631,1986-12-07,Atlético-MG,1,0,Vasco da Gama,False,False,second
+632,1986-12-07,Corinthians,1,1,Internacional-RS,False,False,second
+633,1986-12-07,Ceará,2,0,Criciúma,False,False,second
+634,1986-12-10,Criciúma,1,0,Corinthians,False,False,second
+635,1986-12-10,Internacional-RS,5,1,Rio Branco,False,False,second
+636,1986-12-10,Ceará,2,0,Atlético-MG,False,False,second
+637,1986-12-10,Sobradinho,2,1,Nacional,False,False,second
+638,1986-12-14,Vasco da Gama,1,1,Corinthians,False,False,second
+639,1986-12-14,Internacional-RS,0,2,Atlético-MG,False,False,second
+640,1986-12-14,Criciúma,1,0,Sobradinho,False,False,second
+641,1986-12-14,Rio Branco,2,0,Ceará,False,False,second
+642,1987-01-25,Atlético-MG,1,1,Sobradinho,False,False,second
+643,1987-01-25,Ceará,1,1,Internacional-RS,False,False,second
+644,1987-01-25,Nacional,1,2,Vasco da Gama,False,False,second
+645,1987-01-25,Rio Branco,1,1,Criciúma,False,False,second
+646,1987-01-28,Corinthians,1,0,Rio Branco,False,False,second
+647,1987-01-28,Vasco da Gama,3,1,Ceará,False,False,second
+648,1987-01-28,Sobradinho,0,3,Internacional-RS,False,False,second
+649,1987-01-28,Nacional,0,1,Criciúma,False,False,second
+650,1987-01-31,Vasco da Gama,0,3,Guarani,False,False,third
+651,1987-02-04,Guarani,2,0,Vasco da Gama,False,False,third
+652,1987-02-01,Flamengo,1,1,Atlético-MG,False,False,third
+653,1987-02-01,Atlético-MG,1,0,Flamengo,False,False,third
+654,1987-02-01,Internacional-SP,2,1,São Paulo,False,False,third
+655,1987-02-01,São Paulo,3,0,Internacional-SP,False,False,third
+656,1987-02-01,Criciúma,2,1,Fluminense-RJ,False,False,third
+657,1987-02-01,Fluminense-RJ,1,0,Criciúma,False,False,third
+658,1987-02-04,América-RJ,1,0,Portuguesa,False,False,third
+659,1987-02-01,Portuguesa,0,0,América-RJ,False,False,third
+660,1987-02-04,Bahia,2,0,Palmeiras,False,False,third
+661,1987-02-05,Palmeiras,1,0,Bahia,False,False,third
+662,1987-02-01,Joinville,1,1,Cruzeiro,False,False,third
+663,1987-02-05,Cruzeiro,1,1,Joinville,False,False,third
+664,1987-02-01,Grêmio,0,0,Corinthians,False,False,third
+665,1987-02-05,Corinthians,1,1,Grêmio,False,False,third
+666,1987-02-08,Bahia,2,2,Guarani,False,False,quarter
+667,1987-02-11,Guarani,1,0,Bahia,False,False,quarter
+668,1987-02-08,Cruzeiro,0,0,Atlético-MG,False,False,quarter
+669,1987-02-11,Atlético-MG,1,1,Cruzeiro,False,False,quarter
+670,1987-02-08,Fluminense-RJ,1,0,São Paulo,False,False,quarter
+671,1987-02-11,São Paulo,2,0,Fluminense-RJ,False,False,quarter
+672,1987-02-08,Corinthians,0,2,América-RJ,False,False,quarter
+673,1987-02-11,América-RJ,1,2,Corinthians,False,False,quarter
+674,1987-02-15,Atlético-MG,0,0,Guarani,False,False,semi
+675,1987-02-18,Guarani,2,1,Atlético-MG,False,False,semi
+676,1987-02-15,São Paulo,1,0,América-RJ,False,False,semi
+677,1987-02-18,América-RJ,1,1,São Paulo,False,False,semi
+678,1987-02-22,São Paulo,1,1,Guarani,False,False,final
+679,1987-02-25,Guarani,1,1,São Paulo,False,False,final
