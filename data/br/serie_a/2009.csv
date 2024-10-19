@@ -1,0 +1,381 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+0,2009-05-09,Sport,1,1,Barueri,False,False,first
+1,2009-05-09,Palmeiras,2,1,Coritiba,False,False,first
+2,2009-05-09,Avaí,2,2,Atlético-MG,False,False,first
+3,2009-05-10,Corinthians,0,1,Internacional,False,False,first
+4,2009-05-10,Fluminense,1,0,São Paulo,False,False,first
+5,2009-05-10,Cruzeiro,2,0,Flamengo,False,False,first
+6,2009-05-10,Atlético-PR,0,2,Vitória,False,False,first
+7,2009-05-10,Grêmio,1,1,Santos,False,False,first
+8,2009-05-10,Santo André,1,1,Botafogo,False,False,first
+9,2009-05-10,Goiás,3,3,Náutico,False,False,first
+10,2009-05-16,Flamengo,0,0,Avaí,False,False,first
+11,2009-05-16,Coritiba,2,4,Santo André,False,False,first
+12,2009-05-16,Atlético-MG,2,1,Grêmio,False,False,first
+13,2009-05-17,Santos,3,3,Goiás,False,False,first
+14,2009-05-17,São Paulo,2,2,Atlético-PR,False,False,first
+15,2009-05-17,Barueri,0,0,Fluminense,False,False,first
+16,2009-05-17,Internacional,2,0,Palmeiras,False,False,first
+17,2009-05-17,Botafogo,0,0,Corinthians,False,False,first
+18,2009-05-17,Vitória,1,0,Sport,False,False,first
+19,2009-05-17,Náutico,2,0,Cruzeiro,False,False,first
+20,2009-05-23,Corinthians,2,1,Barueri,False,False,first
+21,2009-05-23,Cruzeiro,2,0,Vitória,False,False,first
+22,2009-05-23,Goiás,0,1,Internacional,False,False,first
+23,2009-05-24,Atlético-PR,2,3,Náutico,False,False,first
+24,2009-05-24,Grêmio,2,0,Botafogo,False,False,first
+25,2009-05-24,Fluminense,1,4,Santos,False,False,first
+26,2009-05-24,Palmeiras,0,0,São Paulo,False,False,first
+27,2009-05-24,Santo André,1,2,Flamengo,False,False,first
+28,2009-05-24,Sport,2,3,Atlético-MG,False,False,first
+29,2009-05-24,Avaí,2,2,Coritiba,False,False,first
+30,2009-05-30,Botafogo,2,2,Sport,False,False,first
+31,2009-05-30,Coritiba,1,3,Goiás,False,False,first
+32,2009-05-30,Atlético-MG,0,0,Santo André,False,False,first
+33,2009-05-31,Flamengo,2,1,Atlético-PR,False,False,first
+34,2009-05-31,São Paulo,3,0,Cruzeiro,False,False,first
+35,2009-05-31,Santos,3,1,Corinthians,False,False,first
+36,2009-05-31,Náutico,1,1,Fluminense,False,False,first
+37,2009-05-31,Vitória,1,0,Grêmio,False,False,first
+38,2009-05-31,Barueri,2,2,Palmeiras,False,False,first
+39,2009-05-31,Internacional,2,1,Avaí,False,False,first
+40,2009-06-04,Grêmio,3,0,Náutico,False,False,first
+41,2009-06-04,Santo André,3,3,Santos,False,False,first
+42,2009-06-06,Corinthians,2,0,Coritiba,False,False,first
+43,2009-06-07,Palmeiras,2,1,Vitória,False,False,first
+44,2009-06-07,Sport,4,2,Flamengo,False,False,first
+45,2009-06-07,Avaí,0,0,São Paulo,False,False,first
+46,2009-06-07,Atlético-PR,0,4,Atlético-MG,False,False,first
+47,2009-06-07,Cruzeiro,1,1,Internacional,False,False,first
+48,2009-06-07,Fluminense,1,0,Botafogo,False,False,first
+49,2009-06-07,Goiás,2,2,Barueri,False,False,first
+50,2009-06-13,São Paulo,1,1,Santo André,False,False,first
+51,2009-06-13,Sport,0,1,Atlético-PR,False,False,first
+52,2009-06-13,Botafogo,2,0,Santos,False,False,first
+53,2009-06-14,Coritiba,5,0,Flamengo,False,False,first
+54,2009-06-14,Fluminense,0,0,Grêmio,False,False,first
+55,2009-06-14,Goiás,0,0,Corinthians,False,False,first
+56,2009-06-14,Atlético-MG,3,0,Náutico,False,False,first
+57,2009-06-14,Palmeiras,3,1,Cruzeiro,False,False,first
+58,2009-06-14,Internacional,0,0,Vitória,False,False,first
+59,2009-06-14,Barueri,3,1,Avaí,False,False,first
+60,2009-06-20,Atlético-PR,2,2,Palmeiras,False,False,first
+61,2009-06-20,Vitória,4,3,Botafogo,False,False,first
+62,2009-06-20,Santo André,2,1,Sport,False,False,first
+63,2009-06-20,Grêmio,2,2,Goiás,False,False,first
+64,2009-06-20,Náutico,0,1,Coritiba,False,False,first
+65,2009-06-20,Avaí,3,2,Fluminense,False,False,first
+66,2009-06-21,Corinthians,3,1,São Paulo,False,False,first
+67,2009-06-21,Santos,2,3,Atlético-MG,False,False,first
+68,2009-06-21,Flamengo,4,0,Internacional,False,False,first
+69,2009-06-21,Cruzeiro,2,4,Barueri,False,False,first
+70,2009-06-27,Cruzeiro,1,0,Avaí,False,False,first
+71,2009-06-27,Botafogo,1,4,Goiás,False,False,first
+72,2009-06-27,São Paulo,2,0,Náutico,False,False,first
+73,2009-06-27,Barueri,4,2,Atlético-MG,False,False,first
+74,2009-06-27,Atlético-PR,1,0,Corinthians,False,False,first
+75,2009-06-28,Palmeiras,1,1,Santos,False,False,first
+76,2009-06-28,Internacional,3,0,Coritiba,False,False,first
+77,2009-06-28,Sport,3,1,Grêmio,False,False,first
+78,2009-06-28,Fluminense,0,0,Flamengo,False,False,first
+79,2009-06-28,Vitória,4,1,Santo André,False,False,first
+80,2009-07-04,Santos,1,0,Sport,False,False,first
+81,2009-07-04,Santo André,1,1,Barueri,False,False,first
+82,2009-07-04,Flamengo,2,1,Vitória,False,False,first
+83,2009-07-05,Coritiba,2,0,São Paulo,False,False,first
+84,2009-07-05,Goiás,1,0,Cruzeiro,False,False,first
+85,2009-07-05,Grêmio,4,1,Atlético-PR,False,False,first
+86,2009-07-05,Atlético-MG,1,1,Botafogo,False,False,first
+87,2009-07-05,Avaí,0,3,Palmeiras,False,False,first
+88,2009-07-05,Náutico,0,2,Internacional,False,False,first
+89,2009-07-08,Corinthians,4,2,Fluminense,False,False,first
+90,2009-07-11,Avaí,1,2,Botafogo,False,False,first
+91,2009-07-11,Barueri,3,1,Coritiba,False,False,first
+92,2009-07-11,Palmeiras,4,1,Náutico,False,False,first
+93,2009-07-12,São Paulo,2,2,Flamengo,False,False,first
+94,2009-07-12,Atlético-PR,3,2,Internacional,False,False,first
+95,2009-07-12,Grêmio,3,0,Corinthians,False,False,first
+96,2009-07-12,Cruzeiro,0,3,Atlético-MG,False,False,first
+97,2009-07-12,Vitória,6,2,Santos,False,False,first
+98,2009-07-12,Fluminense,0,1,Santo André,False,False,first
+99,2009-07-12,Sport,1,0,Goiás,False,False,first
+100,2009-07-15,Coritiba,2,1,Grêmio,False,False,first
+101,2009-07-15,Goiás,0,2,Avaí,False,False,first
+102,2009-07-15,Santo André,1,0,Atlético-PR,False,False,first
+103,2009-07-15,Santos,3,3,Barueri,False,False,first
+104,2009-07-15,Internacional,4,2,Fluminense,False,False,first
+105,2009-07-15,Flamengo,1,2,Palmeiras,False,False,first
+106,2009-07-16,Atlético-MG,2,0,São Paulo,False,False,first
+107,2009-07-16,Náutico,1,1,Vitória,False,False,first
+108,2009-07-16,Corinthians,4,3,Sport,False,False,first
+109,2009-08-27,Botafogo,1,1,Cruzeiro,False,False,first
+110,2009-07-18,Fluminense,1,4,Goiás,False,False,first
+111,2009-07-18,Palmeiras,1,0,Santo André,False,False,first
+112,2009-07-19,Vitória,0,0,Atlético-MG,False,False,first
+113,2009-07-19,Cruzeiro,1,2,Corinthians,False,False,first
+114,2009-07-19,Grêmio,2,1,Internacional,False,False,first
+115,2009-07-19,São Paulo,2,1,Santos,False,False,first
+116,2009-07-19,Atlético-PR,0,0,Coritiba,False,False,first
+117,2009-07-19,Barueri,4,0,Náutico,False,False,first
+118,2009-07-19,Sport,1,3,Avaí,False,False,first
+119,2009-07-19,Flamengo,2,2,Botafogo,False,False,first
+120,2009-07-22,Avaí,1,0,Grêmio,False,False,first
+121,2009-07-22,Santo André,0,2,Cruzeiro,False,False,first
+122,2009-07-22,Santos,1,0,Atlético-PR,False,False,first
+123,2009-07-22,Internacional,2,2,São Paulo,False,False,first
+124,2009-07-22,Goiás,2,1,Palmeiras,False,False,first
+125,2009-07-22,Náutico,2,2,Botafogo,False,False,first
+126,2009-07-22,Flamengo,1,1,Barueri,False,False,first
+127,2009-07-22,Coritiba,1,1,Sport,False,False,first
+128,2009-07-22,Corinthians,2,1,Vitória,False,False,first
+129,2009-07-22,Atlético-MG,2,1,Fluminense,False,False,first
+130,2009-07-25,Grêmio,3,2,Santo André,False,False,first
+131,2009-07-25,Atlético-PR,1,3,Avaí,False,False,first
+132,2009-07-25,Botafogo,3,2,Internacional,False,False,first
+133,2009-07-26,Corinthians,0,3,Palmeiras,False,False,first
+134,2009-07-26,Santos,1,2,Flamengo,False,False,first
+135,2009-07-26,Atlético-MG,0,1,Goiás,False,False,first
+136,2009-07-26,Sport,3,3,Náutico,False,False,first
+137,2009-07-26,Barueri,1,2,São Paulo,False,False,first
+138,2009-07-26,Fluminense,1,1,Cruzeiro,False,False,first
+139,2009-07-26,Vitória,1,0,Coritiba,False,False,first
+140,2009-07-29,Coritiba,2,2,Botafogo,False,False,first
+141,2009-07-29,Cruzeiro,1,0,Sport,False,False,first
+142,2009-07-29,Internacional,3,2,Barueri,False,False,first
+143,2009-07-29,Goiás,3,0,Atlético-PR,False,False,first
+144,2009-07-29,Náutico,1,2,Santos,False,False,first
+145,2009-07-29,Palmeiras,1,0,Fluminense,False,False,first
+146,2009-07-29,Santo André,1,1,Corinthians,False,False,first
+147,2009-07-30,Avaí,4,0,Vitória,False,False,first
+148,2009-07-30,São Paulo,2,1,Grêmio,False,False,first
+149,2009-07-30,Flamengo,3,1,Atlético-MG,False,False,first
+150,2009-08-01,Sport,0,1,Palmeiras,False,False,first
+151,2009-08-01,Botafogo,2,1,Barueri,False,False,first
+152,2009-08-02,Corinthians,0,0,Avaí,False,False,first
+153,2009-08-02,Atlético-PR,1,0,Fluminense,False,False,first
+154,2009-08-02,Vitória,0,1,São Paulo,False,False,first
+155,2009-08-02,Flamengo,1,1,Náutico,False,False,first
+156,2009-08-02,Grêmio,4,1,Cruzeiro,False,False,first
+157,2009-08-02,Atlético-MG,3,2,Coritiba,False,False,first
+158,2009-08-02,Santo André,1,2,Goiás,False,False,first
+159,2009-08-26,Santos,3,3,Internacional,False,False,first
+160,2009-08-05,Cruzeiro,0,2,Atlético-PR,False,False,first
+161,2009-08-05,São Paulo,3,1,Botafogo,False,False,first
+162,2009-08-05,Avaí,1,0,Santo André,False,False,first
+163,2009-08-05,Goiás,3,2,Flamengo,False,False,first
+164,2009-08-05,Náutico,1,0,Corinthians,False,False,first
+165,2009-08-05,Coritiba,0,1,Santos,False,False,first
+166,2009-08-06,Fluminense,5,1,Sport,False,False,first
+167,2009-08-06,Barueri,4,0,Vitória,False,False,first
+168,2009-08-06,Palmeiras,1,1,Grêmio,False,False,first
+169,2009-09-02,Internacional,3,0,Atlético-MG,False,False,first
+170,2009-08-08,Santos,2,2,Avaí,False,False,first
+171,2009-08-08,Náutico,2,1,Santo André,False,False,first
+172,2009-08-08,Botafogo,0,1,Atlético-PR,False,False,first
+173,2009-08-09,Flamengo,1,0,Corinthians,False,False,first
+174,2009-08-09,Vitória,2,2,Fluminense,False,False,first
+175,2009-08-09,Coritiba,1,3,Cruzeiro,False,False,first
+176,2009-08-09,São Paulo,3,1,Goiás,False,False,first
+177,2009-08-09,Barueri,1,0,Grêmio,False,False,first
+178,2009-08-10,Internacional,3,0,Sport,False,False,first
+179,2009-08-12,Atlético-MG,1,1,Palmeiras,False,False,first
+180,2009-08-15,Palmeiras,1,1,Botafogo,False,False,first
+181,2009-08-15,Avaí,2,1,Náutico,False,False,first
+182,2009-08-15,Santo André,0,2,Internacional,False,False,first
+183,2009-08-16,Corinthians,2,0,Atlético-MG,False,False,first
+184,2009-08-16,Sport,1,2,São Paulo,False,False,first
+185,2009-08-16,Grêmio,4,1,Flamengo,False,False,first
+186,2009-08-16,Fluminense,1,3,Coritiba,False,False,first
+187,2009-08-16,Goiás,3,2,Vitória,False,False,first
+188,2009-08-16,Atlético-PR,3,0,Barueri,False,False,first
+189,2009-08-16,Cruzeiro,0,0,Santos,False,False,first
+190,2009-08-19,Santos,1,0,Grêmio,False,False,first
+191,2009-08-19,Vitória,2,1,Atlético-PR,False,False,first
+192,2009-08-19,Botafogo,1,2,Santo André,False,False,first
+193,2009-08-19,Barueri,2,1,Sport,False,False,first
+194,2009-08-19,Coritiba,1,0,Palmeiras,False,False,first
+195,2009-08-19,Internacional,1,2,Corinthians,False,False,first
+196,2009-08-19,São Paulo,1,0,Fluminense,False,False,first
+197,2009-08-20,Flamengo,1,2,Cruzeiro,False,False,first
+198,2009-08-20,Náutico,2,0,Goiás,False,False,first
+199,2009-08-20,Atlético-MG,2,2,Avaí,False,False,first
+200,2009-08-22,Santo André,1,0,Coritiba,False,False,first
+201,2009-08-22,Sport,2,0,Vitória,False,False,first
+202,2009-08-22,Palmeiras,2,1,Internacional,False,False,first
+203,2009-08-23,Corinthians,3,3,Botafogo,False,False,first
+204,2009-08-23,Atlético-PR,1,0,São Paulo,False,False,first
+205,2009-08-23,Grêmio,4,1,Atlético-MG,False,False,first
+206,2009-08-23,Fluminense,0,0,Barueri,False,False,first
+207,2009-08-23,Goiás,2,1,Santos,False,False,first
+208,2009-08-23,Avaí,3,0,Flamengo,False,False,first
+209,2009-08-23,Cruzeiro,4,2,Náutico,False,False,first
+210,2009-08-26,Barueri,2,2,Corinthians,False,False,first
+211,2009-08-29,Náutico,3,0,Atlético-PR,False,False,first
+212,2009-08-29,Flamengo,3,0,Santo André,False,False,first
+213,2009-08-29,Coritiba,2,0,Avaí,False,False,first
+214,2009-08-30,São Paulo,0,0,Palmeiras,False,False,first
+215,2009-08-30,Santos,2,0,Fluminense,False,False,first
+216,2009-08-30,Atlético-MG,1,1,Sport,False,False,first
+217,2009-08-30,Internacional,4,0,Goiás,False,False,first
+218,2009-08-30,Vitória,3,3,Cruzeiro,False,False,first
+219,2009-08-30,Botafogo,3,3,Grêmio,False,False,first
+220,2009-09-02,Corinthians,2,1,Santos,False,False,first
+221,2009-09-05,Palmeiras,2,1,Barueri,False,False,first
+222,2009-09-05,Grêmio,1,1,Vitória,False,False,first
+223,2009-09-05,Sport,2,1,Botafogo,False,False,first
+224,2009-09-06,Atlético-PR,0,0,Flamengo,False,False,first
+225,2009-09-06,Goiás,2,2,Coritiba,False,False,first
+226,2009-09-06,Cruzeiro,1,2,São Paulo,False,False,first
+227,2009-09-06,Santo André,1,2,Atlético-MG,False,False,first
+228,2009-09-06,Avaí,0,2,Internacional,False,False,first
+229,2009-09-06,Fluminense,1,1,Náutico,False,False,first
+230,2009-09-12,São Paulo,2,0,Avaí,False,False,first
+231,2009-09-12,Flamengo,3,0,Sport,False,False,first
+232,2009-09-13,Santos,1,0,Santo André,False,False,first
+233,2009-09-13,Internacional,2,3,Cruzeiro,False,False,first
+234,2009-09-13,Vitória,3,2,Palmeiras,False,False,first
+235,2009-09-13,Atlético-MG,2,1,Atlético-PR,False,False,first
+236,2009-09-13,Barueri,3,1,Goiás,False,False,first
+237,2009-09-13,Náutico,0,2,Grêmio,False,False,first
+238,2009-09-13,Botafogo,0,0,Fluminense,False,False,first
+239,2009-09-16,Coritiba,1,1,Corinthians,False,False,first
+240,2009-09-19,Atlético-PR,1,0,Sport,False,False,first
+241,2009-09-19,Vitória,2,0,Internacional,False,False,first
+242,2009-09-19,Náutico,0,0,Atlético-MG,False,False,first
+243,2009-09-20,Avaí,4,0,Barueri,False,False,first
+244,2009-09-20,Santo André,1,1,São Paulo,False,False,first
+245,2009-09-20,Grêmio,5,1,Fluminense,False,False,first
+246,2009-09-20,Corinthians,1,4,Goiás,False,False,first
+247,2009-09-20,Santos,0,0,Botafogo,False,False,first
+248,2009-09-20,Flamengo,3,0,Coritiba,False,False,first
+249,2009-09-23,Cruzeiro,1,2,Palmeiras,False,False,first
+250,2009-09-26,Palmeiras,2,1,Atlético-PR,False,False,first
+251,2009-09-26,Barueri,0,1,Cruzeiro,False,False,first
+252,2009-09-27,São Paulo,1,1,Corinthians,False,False,first
+253,2009-09-27,Coritiba,2,0,Náutico,False,False,first
+254,2009-09-27,Internacional,0,0,Flamengo,False,False,first
+255,2009-09-27,Fluminense,3,2,Avaí,False,False,first
+256,2009-09-27,Goiás,2,1,Grêmio,False,False,first
+257,2009-09-27,Sport,2,1,Santo André,False,False,first
+258,2009-09-27,Atlético-MG,3,1,Santos,False,False,first
+259,2009-09-27,Botafogo,1,3,Vitória,False,False,first
+260,2009-09-30,Náutico,1,2,São Paulo,False,False,first
+261,2009-10-03,Corinthians,1,3,Atlético-PR,False,False,first
+262,2009-10-03,Santo André,1,0,Vitória,False,False,first
+263,2009-10-03,Atlético-MG,2,1,Barueri,False,False,first
+264,2009-10-04,Santos,1,3,Palmeiras,False,False,first
+265,2009-10-04,Grêmio,3,3,Sport,False,False,first
+266,2009-10-04,Goiás,1,3,Botafogo,False,False,first
+267,2009-10-04,Flamengo,2,0,Fluminense,False,False,first
+268,2009-10-04,Coritiba,2,0,Internacional,False,False,first
+269,2009-10-04,Avaí,2,2,Cruzeiro,False,False,first
+270,2009-10-08,Barueri,0,0,Santo André,False,False,first
+271,2009-10-08,Sport,0,1,Santos,False,False,first
+272,2009-10-08,São Paulo,2,2,Coritiba,False,False,first
+273,2009-10-08,Atlético-PR,0,0,Grêmio,False,False,first
+274,2009-10-08,Internacional,3,1,Náutico,False,False,first
+275,2009-10-08,Fluminense,1,1,Corinthians,False,False,first
+276,2009-10-08,Vitória,3,3,Flamengo,False,False,first
+277,2009-10-09,Palmeiras,2,2,Avaí,False,False,first
+278,2009-10-09,Cruzeiro,3,0,Goiás,False,False,first
+279,2009-10-09,Botafogo,3,1,Atlético-MG,False,False,first
+280,2009-10-10,Corinthians,2,1,Grêmio,False,False,first
+281,2009-10-10,Santo André,1,2,Fluminense,False,False,first
+282,2009-10-10,Flamengo,2,1,São Paulo,False,False,first
+283,2009-10-10,Coritiba,1,2,Barueri,False,False,first
+284,2009-10-10,Internacional,1,1,Atlético-PR,False,False,first
+285,2009-10-12,Santos,0,0,Vitória,False,False,first
+286,2009-10-12,Goiás,1,1,Sport,False,False,first
+287,2009-10-12,Náutico,3,0,Palmeiras,False,False,first
+288,2009-10-12,Atlético-MG,0,1,Cruzeiro,False,False,first
+289,2009-10-12,Botafogo,2,2,Avaí,False,False,first
+290,2009-10-17,São Paulo,0,1,Atlético-MG,False,False,first
+291,2009-10-17,Barueri,0,0,Santos,False,False,first
+292,2009-10-17,Avaí,2,1,Goiás,False,False,first
+293,2009-10-18,Palmeiras,0,2,Flamengo,False,False,first
+294,2009-10-18,Grêmio,2,0,Coritiba,False,False,first
+295,2009-10-18,Fluminense,2,2,Internacional,False,False,first
+296,2009-10-18,Sport,2,0,Corinthians,False,False,first
+297,2009-10-18,Atlético-PR,3,0,Santo André,False,False,first
+298,2009-10-18,Vitória,3,1,Náutico,False,False,first
+299,2009-10-18,Cruzeiro,1,0,Botafogo,False,False,first
+300,2009-10-21,Santo André,2,0,Palmeiras,False,False,first
+301,2009-10-24,Náutico,2,1,Barueri,False,False,first
+302,2009-10-24,Atlético-MG,1,0,Vitória,False,False,first
+303,2009-10-25,Santos,3,4,São Paulo,False,False,first
+304,2009-10-25,Coritiba,3,2,Atlético-PR,False,False,first
+305,2009-10-25,Internacional,1,0,Grêmio,False,False,first
+306,2009-10-25,Goiás,2,2,Fluminense,False,False,first
+307,2009-10-25,Avaí,2,2,Sport,False,False,first
+308,2009-10-25,Botafogo,0,1,Flamengo,False,False,first
+309,2009-10-25,Corinthians,0,1,Cruzeiro,False,False,first
+310,2009-10-28,Atlético-PR,1,1,Santos,False,False,first
+311,2009-10-28,Botafogo,1,0,Náutico,False,False,first
+312,2009-10-28,Grêmio,3,1,Avaí,False,False,first
+313,2009-10-28,Cruzeiro,3,2,Santo André,False,False,first
+314,2009-10-28,São Paulo,1,0,Internacional,False,False,first
+315,2009-10-28,Barueri,2,0,Flamengo,False,False,first
+316,2009-10-28,Vitória,0,1,Corinthians,False,False,first
+317,2009-10-29,Palmeiras,4,0,Goiás,False,False,first
+318,2009-10-29,Fluminense,2,1,Atlético-MG,False,False,first
+319,2009-10-29,Sport,1,1,Coritiba,False,False,first
+320,2009-10-31,São Paulo,1,0,Barueri,False,False,first
+321,2009-10-31,Flamengo,1,0,Santos,False,False,first
+322,2009-10-31,Avaí,2,0,Atlético-PR,False,False,first
+323,2009-11-01,Palmeiras,2,2,Corinthians,False,False,first
+324,2009-11-01,Coritiba,1,0,Vitória,False,False,first
+325,2009-11-01,Internacional,0,1,Botafogo,False,False,first
+326,2009-11-01,Goiás,2,3,Atlético-MG,False,False,first
+327,2009-11-01,Santo André,2,0,Grêmio,False,False,first
+328,2009-11-01,Náutico,3,2,Sport,False,False,first
+329,2009-11-01,Cruzeiro,2,3,Fluminense,False,False,first
+330,2009-11-04,Grêmio,1,1,São Paulo,False,False,first
+331,2009-11-07,Santos,3,1,Náutico,False,False,first
+332,2009-11-07,Vitória,0,1,Avaí,False,False,first
+333,2009-11-07,Sport,1,2,Cruzeiro,False,False,first
+334,2009-11-08,Corinthians,2,0,Santo André,False,False,first
+335,2009-11-08,Fluminense,1,0,Palmeiras,False,False,first
+336,2009-11-08,Atlético-MG,1,3,Flamengo,False,False,first
+337,2009-11-08,Barueri,1,1,Internacional,False,False,first
+338,2009-11-08,Atlético-PR,2,0,Goiás,False,False,first
+339,2009-11-08,Botafogo,2,0,Coritiba,False,False,first
+340,2009-11-11,Palmeiras,2,2,Sport,False,False,first
+341,2009-11-14,São Paulo,2,0,Vitória,False,False,first
+342,2009-11-14,Coritiba,2,1,Atlético-MG,False,False,first
+343,2009-11-14,Cruzeiro,1,1,Grêmio,False,False,first
+344,2009-11-15,Barueri,3,0,Botafogo,False,False,first
+345,2009-11-15,Náutico,0,2,Flamengo,False,False,first
+346,2009-11-15,Avaí,3,1,Corinthians,False,False,first
+347,2009-11-15,Internacional,3,1,Santos,False,False,first
+348,2009-11-15,Fluminense,2,1,Atlético-PR,False,False,first
+349,2009-11-15,Goiás,2,1,Santo André,False,False,first
+350,2009-11-18,Grêmio,2,0,Palmeiras,False,False,first
+351,2009-11-21,Corinthians,2,3,Náutico,False,False,first
+352,2009-11-21,Atlético-PR,1,1,Cruzeiro,False,False,first
+353,2009-11-22,Santos,4,0,Coritiba,False,False,first
+354,2009-11-22,Santo André,4,2,Avaí,False,False,first
+355,2009-11-22,Botafogo,3,2,São Paulo,False,False,first
+356,2009-11-22,Sport,0,3,Fluminense,False,False,first
+357,2009-11-22,Vitória,2,1,Barueri,False,False,first
+358,2009-11-22,Flamengo,0,0,Goiás,False,False,first
+359,2009-11-22,Atlético-MG,0,1,Internacional,False,False,first
+360,2009-11-29,Corinthians,0,2,Flamengo,False,False,first
+361,2009-11-29,Palmeiras,3,1,Atlético-MG,False,False,first
+362,2009-11-29,Santo André,5,3,Náutico,False,False,first
+363,2009-11-29,Atlético-PR,2,0,Botafogo,False,False,first
+364,2009-11-29,Grêmio,4,2,Barueri,False,False,first
+365,2009-11-29,Fluminense,4,0,Vitória,False,False,first
+366,2009-11-29,Goiás,4,2,São Paulo,False,False,first
+367,2009-11-29,Sport,1,2,Internacional,False,False,first
+368,2009-11-29,Cruzeiro,4,1,Coritiba,False,False,first
+369,2009-11-29,Avaí,2,2,Santos,False,False,first
+370,2009-12-05,Atlético-MG,0,3,Corinthians,False,False,first
+371,2009-12-05,Náutico,0,1,Avaí,False,False,first
+372,2009-12-06,São Paulo,4,0,Sport,False,False,first
+373,2009-12-06,Santos,1,2,Cruzeiro,False,False,first
+374,2009-12-06,Barueri,0,0,Atlético-PR,False,False,first
+375,2009-12-06,Internacional,4,1,Santo André,False,False,first
+376,2009-12-06,Flamengo,2,1,Grêmio,False,False,first
+377,2009-12-06,Vitória,2,2,Goiás,False,False,first
+378,2009-12-06,Botafogo,2,1,Palmeiras,False,False,first
+379,2009-12-06,Coritiba,1,1,Fluminense,False,False,first

@@ -1,0 +1,387 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,category
+0,2001-08-01,Guarani,1,3,Palmeiras,False,False,first
+1,2001-08-01,Botafogo-RJ,1,1,América,False,False,first
+2,2001-08-01,Portuguesa,0,1,Goiás,False,False,first
+3,2001-08-01,Flamengo,0,0,Ponte Preta,False,False,first
+4,2001-08-01,Corinthians,2,0,Vitória,False,False,first
+5,2001-08-01,Paraná,1,0,Cruzeiro,False,False,first
+6,2001-08-01,Internacional,0,2,Juventude,False,False,first
+7,2001-08-01,Sport,1,1,Fluminense,False,False,first
+8,2001-08-01,Bahia,5,0,São Caetano,False,False,first
+9,2001-08-01,Botafogo-SP,2,2,São Paulo,False,False,first
+10,2001-08-01,Gama,0,0,Vasco da Gama,False,False,first
+11,2001-08-01,Atlético-MG,1,1,Coritiba,False,False,first
+12,2001-08-02,Santos,1,1,Santa Cruz,False,False,first
+13,2001-08-02,Atlético-PR,2,0,Grêmio,False,False,first
+14,2001-08-04,Palmeiras,2,1,Bahia,False,False,first
+15,2001-08-04,Fluminense,2,0,Botafogo-SP,False,False,first
+16,2001-08-04,América,0,0,Portuguesa,False,False,first
+17,2001-08-04,Juventude,1,4,Atlético-MG,False,False,first
+18,2001-08-05,Ponte Preta,2,2,Corinthians,False,False,first
+19,2001-08-05,Vasco da Gama,7,1,Guarani,False,False,first
+20,2001-08-05,São Paulo,0,0,Gama,False,False,first
+21,2001-08-05,Cruzeiro,1,2,Atlético-PR,False,False,first
+22,2001-08-05,Coritiba,3,2,Internacional,False,False,first
+23,2001-08-05,Grêmio,2,1,Paraná,False,False,first
+24,2001-08-05,Santa Cruz,0,4,Botafogo-RJ,False,False,first
+25,2001-08-05,Vitória,1,1,Santos,False,False,first
+26,2001-08-05,São Caetano,2,0,Sport,False,False,first
+27,2001-08-05,Goiás,2,0,Flamengo,False,False,first
+28,2001-08-08,Juventude,0,0,Palmeiras,False,False,first
+29,2001-08-08,Coritiba,1,0,Vasco da Gama,False,False,first
+30,2001-08-08,Vitória,2,1,São Paulo,False,False,first
+31,2001-08-08,Corinthians,3,2,Botafogo-SP,False,False,first
+32,2001-08-08,Cruzeiro,0,0,Ponte Preta,False,False,first
+33,2001-08-08,Grêmio,0,0,Goiás,False,False,first
+34,2001-08-08,Santa Cruz,1,2,Internacional,False,False,first
+35,2001-08-08,Flamengo,0,1,Paraná,False,False,first
+36,2001-08-08,Gama,1,1,Santos,False,False,first
+37,2001-08-08,São Caetano,0,0,Atlético-PR,False,False,first
+38,2001-08-09,Botafogo-RJ,3,2,Bahia,False,False,first
+39,2001-08-09,Guarani,1,1,Fluminense,False,False,first
+40,2001-08-09,Portuguesa,2,1,Sport,False,False,first
+41,2001-08-09,América,0,1,Atlético-MG,False,False,first
+42,2001-08-11,Vasco da Gama,1,1,Juventude,False,False,first
+43,2001-08-11,São Paulo,3,1,Santa Cruz,False,False,first
+44,2001-08-11,Atlético-PR,4,0,Flamengo,False,False,first
+45,2001-08-11,Botafogo-SP,1,4,Cruzeiro,False,False,first
+46,2001-08-12,Paraná,3,1,Corinthians,False,False,first
+47,2001-08-12,Ponte Preta,3,1,Botafogo-RJ,False,False,first
+48,2001-08-12,Fluminense,1,1,Vitória,False,False,first
+49,2001-08-12,Atlético-MG,3,0,Guarani,False,False,first
+50,2001-08-12,Internacional,2,0,Gama,False,False,first
+51,2001-08-12,Sport,2,1,Grêmio,False,False,first
+52,2001-08-12,Bahia,2,1,Portuguesa,False,False,first
+53,2001-08-12,Goiás,0,0,São Caetano,False,False,first
+54,2001-08-12,Santos,2,0,Coritiba,False,False,first
+55,2001-08-12,Palmeiras,3,1,América,False,False,first
+56,2001-08-15,Flamengo,2,1,Sport,False,False,first
+57,2001-08-15,Corinthians,0,0,Juventude,False,False,first
+58,2001-08-15,Cruzeiro,0,3,América,False,False,first
+59,2001-08-15,Paraná,1,2,Ponte Preta,False,False,first
+60,2001-08-15,Santa Cruz,3,2,Palmeiras,False,False,first
+61,2001-08-15,Vitória,1,0,Vasco da Gama,False,False,first
+62,2001-08-15,São Caetano,1,1,Fluminense,False,False,first
+63,2001-08-16,Internacional,2,0,Bahia,False,False,first
+64,2001-08-16,Botafogo-RJ,0,1,Goiás,False,False,first
+65,2001-08-16,Portuguesa,1,0,Coritiba,False,False,first
+66,2001-08-16,Atlético-PR,1,0,Atlético-MG,False,False,first
+67,2001-08-16,Guarani,1,2,São Paulo,False,False,first
+68,2001-08-16,Botafogo-SP,0,1,Santos,False,False,first
+69,2001-08-16,Gama,2,1,Grêmio,False,False,first
+70,2001-08-18,Vasco da Gama,1,1,Santa Cruz,False,False,first
+71,2001-08-18,Palmeiras,3,1,Paraná,False,False,first
+72,2001-08-18,América,0,1,São Caetano,False,False,first
+73,2001-08-19,Sport,2,1,Corinthians,False,False,first
+74,2001-08-19,Bahia,0,2,Flamengo,False,False,first
+75,2001-08-19,Fluminense,4,3,Gama,False,False,first
+76,2001-08-19,São Paulo,2,1,Atlético-PR,False,False,first
+77,2001-08-19,Atlético-MG,2,0,Botafogo-SP,False,False,first
+78,2001-08-19,Coritiba,3,2,Cruzeiro,False,False,first
+79,2001-08-19,Grêmio,0,0,Vitória,False,False,first
+80,2001-08-19,Ponte Preta,2,1,Portuguesa,False,False,first
+81,2001-08-19,Goiás,0,1,Internacional,False,False,first
+82,2001-08-19,Santos,0,0,Botafogo-RJ,False,False,first
+83,2001-08-19,Juventude,1,0,Guarani,False,False,first
+84,2001-08-25,Fluminense,3,2,Santa Cruz,False,False,first
+85,2001-08-25,Palmeiras,3,2,Goiás,False,False,first
+86,2001-08-25,Paraná,0,1,Portuguesa,False,False,first
+87,2001-08-26,Bahia,1,0,Corinthians,False,False,first
+88,2001-08-26,Botafogo-SP,1,0,Flamengo,False,False,first
+89,2001-08-26,Vasco da Gama,4,0,Atlético-PR,False,False,first
+90,2001-08-26,São Paulo,4,0,Ponte Preta,False,False,first
+91,2001-08-26,Atlético-MG,3,0,Vitória,False,False,first
+92,2001-08-26,Coritiba,1,1,São Caetano,False,False,first
+93,2001-08-26,Grêmio,3,1,América,False,False,first
+94,2001-08-26,Sport,0,1,Cruzeiro,False,False,first
+95,2001-08-26,Guarani,2,2,Internacional,False,False,first
+96,2001-08-26,Gama,0,0,Botafogo-RJ,False,False,first
+97,2001-08-26,Santos,2,2,Juventude,False,False,first
+98,2001-08-29,Corinthians,2,2,Gama,False,False,first
+99,2001-08-29,América,1,1,Vasco da Gama,False,False,first
+100,2001-08-29,Atlético-PR,1,1,Santos,False,False,first
+101,2001-08-29,Internacional,2,0,Botafogo-SP,False,False,first
+102,2001-08-29,Santa Cruz,1,1,Atlético-MG,False,False,first
+103,2001-08-29,Vitória,1,3,Palmeiras,False,False,first
+104,2001-08-29,Ponte Preta,3,2,Grêmio,False,False,first
+105,2001-08-29,Goiás,2,0,Fluminense,False,False,first
+106,2001-08-29,São Caetano,4,1,Paraná,False,False,first
+107,2001-08-29,Juventude,3,3,São Paulo,False,False,first
+108,2001-08-29,Botafogo-RJ,3,1,Sport,False,False,first
+109,2001-08-30,Flamengo,0,1,Coritiba,False,False,first
+110,2001-08-30,Portuguesa,1,2,Guarani,False,False,first
+111,2001-08-30,Cruzeiro,1,1,Bahia,False,False,first
+112,2001-09-01,Fluminense,2,1,Juventude,False,False,first
+113,2001-09-01,Palmeiras,2,0,Atlético-PR,False,False,first
+114,2001-09-01,Paraná,3,0,Internacional,False,False,first
+115,2001-09-01,Atlético-MG,3,0,Sport,False,False,first
+116,2001-09-02,Santa Cruz,2,1,Flamengo,False,False,first
+117,2001-09-02,América,4,4,Corinthians,False,False,first
+118,2001-09-02,Vasco da Gama,2,2,Botafogo-SP,False,False,first
+119,2001-09-02,São Paulo,0,1,Bahia,False,False,first
+120,2001-09-02,Coritiba,2,3,Botafogo-RJ,False,False,first
+121,2001-09-02,Grêmio,1,0,Guarani,False,False,first
+122,2001-09-02,Vitória,2,2,Cruzeiro,False,False,first
+123,2001-09-02,Gama,0,1,Portuguesa,False,False,first
+124,2001-09-02,Santos,1,2,Goiás,False,False,first
+125,2001-09-02,Ponte Preta,3,6,São Caetano,False,False,first
+126,2001-09-06,Flamengo,2,0,Santos,False,False,first
+127,2001-09-06,São Caetano,1,0,Palmeiras,False,False,first
+128,2001-09-08,Botafogo-RJ,0,2,Paraná,False,False,first
+129,2001-09-08,Corinthians,3,2,Coritiba,False,False,first
+130,2001-09-08,Cruzeiro,4,1,Santa Cruz,False,False,first
+131,2001-09-09,Atlético-PR,1,2,Fluminense,False,False,first
+132,2001-09-09,Goiás,2,3,São Paulo,False,False,first
+133,2001-09-09,Flamengo,1,1,América,False,False,first
+134,2001-09-09,Internacional,2,2,Ponte Preta,False,False,first
+135,2001-09-09,Sport,3,3,Vasco da Gama,False,False,first
+136,2001-09-09,Bahia,4,0,Atlético-MG,False,False,first
+137,2001-09-09,Guarani,1,1,Santos,False,False,first
+138,2001-09-09,Botafogo-SP,0,1,Palmeiras,False,False,first
+139,2001-09-09,São Caetano,3,2,Gama,False,False,first
+140,2001-09-09,Juventude,1,2,Grêmio,False,False,first
+141,2001-09-09,Portuguesa,3,2,Vitória,False,False,first
+142,2001-09-15,Fluminense,2,0,Ponte Preta,False,False,first
+143,2001-09-15,São Paulo,1,3,Paraná,False,False,first
+144,2001-09-15,Guarani,2,0,Cruzeiro,False,False,first
+145,2001-09-15,Vitória,2,0,Internacional,False,False,first
+146,2001-09-16,Palmeiras,3,0,Sport,False,False,first
+147,2001-09-16,Goiás,2,3,Corinthians,False,False,first
+148,2001-09-16,Juventude,1,1,Flamengo,False,False,first
+149,2001-09-16,Vasco da Gama,0,1,Bahia,False,False,first
+150,2001-09-16,Atlético-MG,2,1,Gama,False,False,first
+151,2001-09-16,Atlético-PR,3,1,Portuguesa,False,False,first
+152,2001-09-16,Grêmio,2,0,Coritiba,False,False,first
+153,2001-09-16,Santa Cruz,0,1,São Caetano,False,False,first
+154,2001-09-16,Botafogo-SP,0,2,Botafogo-RJ,False,False,first
+155,2001-09-16,Santos,3,0,América,False,False,first
+156,2001-09-19,Botafogo-RJ,0,2,Guarani,False,False,first
+157,2001-09-19,Corinthians,2,2,Santa Cruz,False,False,first
+158,2001-09-19,Cruzeiro,1,2,Goiás,False,False,first
+159,2001-09-19,Paraná,2,0,Vasco da Gama,False,False,first
+160,2001-09-19,Internacional,4,4,Atlético-PR,False,False,first
+161,2001-09-19,Sport,0,2,Santos,False,False,first
+162,2001-09-19,Ponte Preta,4,3,Atlético-MG,False,False,first
+163,2001-09-19,Gama,1,1,Palmeiras,False,False,first
+164,2001-09-19,São Caetano,0,1,Botafogo-SP,False,False,first
+165,2001-09-20,Bahia,1,1,Grêmio,False,False,first
+166,2001-09-20,Flamengo,1,1,Vitória,False,False,first
+167,2001-09-20,Portuguesa,1,2,Juventude,False,False,first
+168,2001-09-20,América,1,0,Fluminense,False,False,first
+169,2001-09-20,Coritiba,0,1,São Paulo,False,False,first
+170,2001-09-22,Vasco da Gama,2,1,Goiás,False,False,first
+171,2001-09-22,Palmeiras,0,2,Ponte Preta,False,False,first
+172,2001-09-22,Gama,1,1,Cruzeiro,False,False,first
+173,2001-09-23,Atlético-PR,3,2,Corinthians,False,False,first
+174,2001-09-23,Guarani,1,3,Flamengo,False,False,first
+175,2001-09-23,Fluminense,3,1,Coritiba,False,False,first
+176,2001-09-23,São Paulo,4,1,América,False,False,first
+177,2001-09-23,Atlético-MG,4,0,Paraná,False,False,first
+178,2001-09-23,Internacional,2,0,Sport,False,False,first
+179,2001-09-23,Santa Cruz,0,0,Portuguesa,False,False,first
+180,2001-09-23,Vitória,3,1,Botafogo-RJ,False,False,first
+181,2001-09-23,Botafogo-SP,1,2,Grêmio,False,False,first
+182,2001-09-23,Santos,5,1,Bahia,False,False,first
+183,2001-09-23,Juventude,0,3,São Caetano,False,False,first
+184,2001-09-29,Botafogo-RJ,1,3,Atlético-PR,False,False,first
+185,2001-09-29,Paraná,1,0,Santos,False,False,first
+186,2001-09-29,Portuguesa,1,0,Botafogo-SP,False,False,first
+187,2001-09-29,América,0,2,Internacional,False,False,first
+188,2001-09-30,Flamengo,1,2,Gama,False,False,first
+189,2001-09-30,Corinthians,0,3,Guarani,False,False,first
+190,2001-09-30,Cruzeiro,3,0,Juventude,False,False,first
+191,2001-09-30,Coritiba,4,1,Palmeiras,False,False,first
+192,2001-09-30,Bahia,1,1,Fluminense,False,False,first
+193,2001-09-30,Ponte Preta,2,2,Vasco da Gama,False,False,first
+194,2001-09-30,Sport,1,0,São Paulo,False,False,first
+195,2001-09-30,Goiás,1,2,Atlético-MG,False,False,first
+196,2001-09-30,São Caetano,0,2,Vitória,False,False,first
+197,2001-10-18,Grêmio,1,0,Santa Cruz,False,False,first
+198,2001-10-02,Portuguesa,3,0,Internacional,False,False,first
+199,2001-10-02,Paraná,1,2,América,False,False,first
+200,2001-10-03,Vasco da Gama,3,0,Cruzeiro,False,False,first
+201,2001-10-03,Corinthians,4,2,Palmeiras,False,False,first
+202,2001-10-03,Atlético-MG,4,0,Botafogo-RJ,False,False,first
+203,2001-10-03,Coritiba,1,1,Juventude,False,False,first
+204,2001-10-03,Grêmio,1,1,Fluminense,False,False,first
+205,2001-10-03,Santa Cruz,1,5,Atlético-PR,False,False,first
+206,2001-10-03,Vitória,1,0,Sport,False,False,first
+207,2001-10-03,Ponte Preta,1,1,Gama,False,False,first
+208,2001-10-03,Botafogo-SP,1,1,Guarani,False,False,first
+209,2001-10-03,Goiás,3,0,Bahia,False,False,first
+210,2001-10-03,Santos,1,0,São Paulo,False,False,first
+211,2001-10-06,Vasco da Gama,5,1,Flamengo,False,False,first
+212,2001-10-06,Corinthians,3,1,Portuguesa,False,False,first
+213,2001-10-06,Botafogo-RJ,1,2,Fluminense,False,False,first
+214,2001-10-06,São Paulo,0,1,Palmeiras,False,False,first
+215,2001-10-06,Cruzeiro,2,2,Atlético-MG,False,False,first
+216,2001-10-06,América,1,4,Ponte Preta,False,False,first
+217,2001-10-06,Atlético-PR,1,1,Paraná,False,False,first
+218,2001-10-06,Grêmio,1,0,Internacional,False,False,first
+219,2001-10-06,Sport,1,1,Coritiba,False,False,first
+220,2001-10-06,Guarani,1,0,Goiás,False,False,first
+221,2001-10-06,Gama,1,1,Vitória,False,False,first
+222,2001-10-06,Santos,1,2,São Caetano,False,False,first
+223,2001-10-06,Juventude,0,2,Botafogo-SP,False,False,first
+224,2001-10-06,Bahia,2,1,Santa Cruz,False,False,first
+225,2001-10-09,América,2,0,Gama,False,False,first
+226,2001-10-10,Botafogo-RJ,2,2,Flamengo,False,False,first
+227,2001-10-10,Cruzeiro,1,0,Corinthians,False,False,first
+228,2001-10-10,Coritiba,0,0,Botafogo-SP,False,False,first
+229,2001-10-10,Internacional,2,0,Vasco da Gama,False,False,first
+230,2001-10-10,Santa Cruz,3,2,Paraná,False,False,first
+231,2001-10-10,Vitória,4,1,Guarani,False,False,first
+232,2001-10-10,Ponte Preta,1,5,Atlético-PR,False,False,first
+233,2001-10-10,Goiás,2,3,Sport,False,False,first
+234,2001-10-10,São Caetano,2,0,Portuguesa,False,False,first
+235,2001-10-10,Juventude,2,2,Bahia,False,False,first
+236,2001-10-10,Palmeiras,2,1,Santos,False,False,first
+237,2001-10-11,São Paulo,1,1,Grêmio,False,False,first
+238,2001-10-11,Fluminense,3,2,Atlético-MG,False,False,first
+239,2001-10-13,Vasco da Gama,3,1,Botafogo-RJ,False,False,first
+240,2001-10-13,Portuguesa,2,0,Palmeiras,False,False,first
+241,2001-10-13,Paraná,2,1,Vitória,False,False,first
+242,2001-10-13,Gama,2,0,Santa Cruz,False,False,first
+243,2001-10-14,Fluminense,1,1,São Paulo,False,False,first
+244,2001-10-14,Corinthians,1,2,Flamengo,False,False,first
+245,2001-10-14,Atlético-MG,0,1,Santos,False,False,first
+246,2001-10-14,Atlético-PR,3,2,América,False,False,first
+247,2001-10-14,Grêmio,2,0,Cruzeiro,False,False,first
+248,2001-10-14,Sport,1,1,Juventude,False,False,first
+249,2001-10-14,Bahia,3,2,Ponte Preta,False,False,first
+250,2001-10-14,Guarani,1,0,Coritiba,False,False,first
+251,2001-10-14,Botafogo-SP,0,0,Goiás,False,False,first
+252,2001-10-14,São Caetano,3,1,Internacional,False,False,first
+253,2001-10-20,Vasco da Gama,1,2,São Caetano,False,False,first
+254,2001-10-20,América,2,2,Botafogo-SP,False,False,first
+255,2001-10-21,São Paulo,1,0,Portuguesa,False,False,first
+256,2001-10-21,Corinthians,1,2,Grêmio,False,False,first
+257,2001-10-21,Cruzeiro,1,0,Fluminense,False,False,first
+258,2001-10-21,Coritiba,0,0,Atlético-PR,False,False,first
+259,2001-10-21,Internacional,2,2,Botafogo-RJ,False,False,first
+260,2001-10-21,Sport,1,2,Santa Cruz,False,False,first
+261,2001-10-21,Vitória,1,1,Bahia,False,False,first
+262,2001-10-21,Ponte Preta,1,1,Guarani,False,False,first
+263,2001-10-21,Goiás,2,0,Gama,False,False,first
+264,2001-10-21,Juventude,1,1,Paraná,False,False,first
+265,2001-10-21,Flamengo,1,2,Atlético-MG,False,False,first
+266,2001-10-27,São Paulo,0,0,São Caetano,False,False,first
+267,2001-10-27,Paraná,0,1,Sport,False,False,first
+268,2001-10-28,Grêmio,2,0,Flamengo,False,False,first
+269,2001-10-28,Santos,0,2,Corinthians,False,False,first
+270,2001-10-28,Botafogo-RJ,3,0,Cruzeiro,False,False,first
+271,2001-10-28,Vasco da Gama,2,2,Fluminense,False,False,first
+272,2001-10-28,Palmeiras,1,2,Internacional,False,False,first
+273,2001-10-28,Atlético-MG,1,0,Portuguesa,False,False,first
+274,2001-10-28,Coritiba,1,0,Gama,False,False,first
+275,2001-10-28,Santa Cruz,1,3,Ponte Preta,False,False,first
+276,2001-10-28,Vitória,1,0,América,False,False,first
+277,2001-10-28,Guarani,2,1,Bahia,False,False,first
+278,2001-10-28,Botafogo-SP,0,2,Atlético-PR,False,False,first
+279,2001-10-28,Goiás,2,1,Juventude,False,False,first
+280,2001-11-02,Flamengo,0,1,Fluminense,False,False,first
+281,2001-11-02,São Paulo,1,1,Corinthians,False,False,first
+282,2001-11-02,América,1,2,Coritiba,False,False,first
+283,2001-11-02,Gama,3,2,Paraná,False,False,first
+284,2001-11-04,Botafogo-RJ,3,1,Palmeiras,False,False,first
+285,2001-11-04,Portuguesa,5,4,Vasco da Gama,False,False,first
+286,2001-11-04,Cruzeiro,1,0,São Caetano,False,False,first
+287,2001-11-04,Atlético-PR,2,1,Goiás,False,False,first
+288,2001-11-04,Internacional,1,0,Atlético-MG,False,False,first
+289,2001-11-04,Sport,0,1,Guarani,False,False,first
+290,2001-11-04,Bahia,1,0,Botafogo-SP,False,False,first
+291,2001-11-04,Ponte Preta,5,2,Vitória,False,False,first
+292,2001-11-04,Juventude,2,0,Santa Cruz,False,False,first
+293,2001-11-04,Santos,4,2,Grêmio,False,False,first
+294,2001-11-07,Botafogo-RJ,1,3,Grêmio,False,False,first
+295,2001-11-07,Palmeiras,2,6,Fluminense,False,False,first
+296,2001-11-07,América,3,1,Sport,False,False,first
+297,2001-11-07,Atlético-PR,6,3,Bahia,False,False,first
+298,2001-11-07,Internacional,1,4,São Paulo,False,False,first
+299,2001-11-07,Gama,5,0,Guarani,False,False,first
+300,2001-11-07,Vitória,0,0,Juventude,False,False,first
+301,2001-11-08,Cruzeiro,0,1,Flamengo,False,False,first
+302,2001-11-08,Vasco da Gama,1,0,Corinthians,False,False,first
+303,2001-11-08,Portuguesa,0,0,Santos,False,False,first
+304,2001-11-08,Paraná,1,1,Coritiba,False,False,first
+305,2001-11-08,Santa Cruz,3,2,Goiás,False,False,first
+306,2001-11-08,Ponte Preta,3,3,Botafogo-SP,False,False,first
+307,2001-11-08,São Caetano,5,2,Atlético-MG,False,False,first
+308,2001-11-10,Fluminense,0,1,Internacional,False,False,first
+309,2001-11-10,São Paulo,3,1,Botafogo-RJ,False,False,first
+310,2001-11-10,Juventude,2,0,Atlético-PR,False,False,first
+311,2001-11-10,Sport,1,2,Gama,False,False,first
+312,2001-11-11,Flamengo,0,2,Portuguesa,False,False,first
+313,2001-11-11,Corinthians,0,1,São Caetano,False,False,first
+314,2001-11-11,Coritiba,2,0,Vitória,False,False,first
+315,2001-11-11,Grêmio,3,0,Palmeiras,False,False,first
+316,2001-11-11,Bahia,3,0,Paraná,False,False,first
+317,2001-11-11,Guarani,0,2,América,False,False,first
+318,2001-11-11,Botafogo-SP,1,0,Santa Cruz,False,False,first
+319,2001-11-11,Goiás,2,1,Ponte Preta,False,False,first
+320,2001-11-11,Atlético-MG,2,1,Vasco da Gama,False,False,first
+321,2001-11-11,Santos,4,2,Cruzeiro,False,False,first
+322,2001-11-13,Atlético-PR,2,1,Sport,False,False,first
+323,2001-11-15,Vasco da Gama,2,0,Grêmio,False,False,first
+324,2001-11-15,Portuguesa,1,3,Cruzeiro,False,False,first
+325,2001-11-15,Botafogo-RJ,2,4,Corinthians,False,False,first
+326,2001-11-15,São Paulo,3,1,Flamengo,False,False,first
+327,2001-11-15,Atlético-MG,2,1,Palmeiras,False,False,first
+328,2001-11-15,Paraná,0,1,Fluminense,False,False,first
+329,2001-11-15,Internacional,3,0,Santos,False,False,first
+330,2001-11-15,Santa Cruz,2,1,América,False,False,first
+331,2001-11-15,Bahia,2,1,Gama,False,False,first
+332,2001-11-15,Ponte Preta,1,0,Juventude,False,False,first
+333,2001-11-15,Botafogo-SP,2,0,Vitória,False,False,first
+334,2001-11-15,Goiás,2,1,Coritiba,False,False,first
+335,2001-11-15,São Caetano,2,0,Guarani,False,False,first
+336,2001-11-18,Fluminense,0,0,Portuguesa,False,False,first
+337,2001-11-18,Flamengo,1,0,Internacional,False,False,first
+338,2001-11-18,Palmeiras,1,3,Vasco da Gama,False,False,first
+339,2001-11-18,Corinthians,2,2,Atlético-MG,False,False,first
+340,2001-11-18,Cruzeiro,1,4,São Paulo,False,False,first
+341,2001-11-18,América,1,2,Bahia,False,False,first
+342,2001-11-18,Coritiba,1,0,Santa Cruz,False,False,first
+343,2001-11-18,Grêmio,1,2,São Caetano,False,False,first
+344,2001-11-18,Sport,1,2,Botafogo-SP,False,False,first
+345,2001-11-18,Vitória,1,0,Goiás,False,False,first
+346,2001-11-18,Guarani,1,0,Paraná,False,False,first
+347,2001-11-18,Gama,4,1,Atlético-PR,False,False,first
+348,2001-11-18,Santos,1,2,Ponte Preta,False,False,first
+349,2001-11-18,Juventude,1,3,Botafogo-RJ,False,False,first
+350,2001-11-24,Fluminense,2,1,Santos,False,False,first
+351,2001-11-24,Portuguesa,2,1,Botafogo-RJ,False,False,first
+352,2001-11-24,Bahia,1,1,Coritiba,False,False,first
+353,2001-11-25,Internacional,0,2,Corinthians,False,False,first
+354,2001-11-25,São Caetano,2,0,Flamengo,False,False,first
+355,2001-11-25,Vasco da Gama,7,1,São Paulo,False,False,first
+356,2001-11-25,Palmeiras,2,1,Cruzeiro,False,False,first
+357,2001-11-25,Atlético-MG,2,0,Grêmio,False,False,first
+358,2001-11-25,Atlético-PR,2,2,Guarani,False,False,first
+359,2001-11-25,Santa Cruz,1,1,Vitória,False,False,first
+360,2001-11-25,Ponte Preta,2,1,Sport,False,False,first
+361,2001-11-25,Botafogo-SP,0,2,Paraná,False,False,first
+362,2001-11-25,Goiás,3,0,América,False,False,first
+363,2001-11-25,Juventude,2,1,Gama,False,False,first
+364,2001-12-01,Botafogo-RJ,2,4,São Caetano,False,False,first
+365,2001-12-02,Flamengo,2,0,Palmeiras,False,False,first
+366,2001-12-02,Corinthians,1,2,Fluminense,False,False,first
+367,2001-12-02,São Paulo,3,0,Atlético-MG,False,False,first
+368,2001-12-02,Cruzeiro,4,2,Internacional,False,False,first
+369,2001-12-02,América,1,1,Juventude,False,False,first
+370,2001-12-02,Coritiba,1,2,Ponte Preta,False,False,first
+371,2001-12-02,Paraná,3,1,Goiás,False,False,first
+372,2001-12-02,Grêmio,3,1,Portuguesa,False,False,first
+373,2001-12-02,Sport,0,1,Bahia,False,False,first
+374,2001-12-02,Vitória,2,4,Atlético-PR,False,False,first
+375,2001-12-02,Guarani,1,2,Santa Cruz,False,False,first
+376,2001-12-02,Gama,5,0,Botafogo-SP,False,False,first
+377,2001-12-02,Santos,2,2,Vasco da Gama,False,False,first
+378,2001-12-05,São Caetano,0,0,Bahia,False,False,quarter
+379,2001-12-05,Atlético-PR,2,1,São Paulo,False,False,quarter
+380,2001-12-05,Fluminense,1,1,Ponte Preta,False,False,quarter
+381,2001-12-05,Atlético-MG,3,0,Grêmio,False,False,quarter
+382,2001-12-09,São Caetano,2,1,Atlético-MG,False,False,semi
+383,2001-12-09,Atlético-PR,3,2,Fluminense,False,False,semi
+384,2001-12-16,Atlético-PR,4,2,São Caetano,False,False,final
+385,2001-12-23,São Caetano,0,1,Atlético-PR,False,False,final

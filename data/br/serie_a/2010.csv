@@ -1,0 +1,381 @@
+,date,home_team,home_score,away_score,away_team,neutral
+0,2010-05-08,Botafogo,3,3,Santos,False
+1,2010-05-08,Atlético-GO,0,0,Grêmio,False
+2,2010-05-08,Palmeiras,1,0,Vitória,False
+3,2010-05-09,Flamengo,1,1,São Paulo,False
+4,2010-05-09,Atlético-MG,2,1,Vasco da Gama,False
+5,2010-05-09,Internacional,1,2,Cruzeiro,False
+6,2010-05-09,Corinthians,2,1,Atlético-PR,False
+7,2010-05-09,Ceará,1,0,Fluminense,False
+8,2010-05-09,Guarani,1,0,Goiás,False
+9,2010-05-09,Avaí,6,1,Prudente,False
+10,2010-05-15,Fluminense,1,0,Atlético-GO,False
+11,2010-05-15,Prudente,4,0,Atlético-MG,False
+12,2010-05-15,Vitória,1,1,Flamengo,False
+13,2010-05-16,São Paulo,1,2,Botafogo,False
+14,2010-05-16,Grêmio,1,2,Corinthians,False
+15,2010-05-16,Goiás,2,3,Internacional,False
+16,2010-05-16,Santos,1,1,Ceará,False
+17,2010-05-16,Vasco da Gama,0,0,Palmeiras,False
+18,2010-05-16,Cruzeiro,2,2,Avaí,False
+19,2010-05-16,Atlético-PR,2,2,Guarani,False
+20,2010-05-22,Atlético-GO,1,2,Santos,False
+21,2010-05-22,Palmeiras,4,2,Grêmio,False
+22,2010-05-22,Botafogo,3,0,Goiás,False
+23,2010-05-23,Corinthians,1,0,Fluminense,False
+24,2010-05-23,Atlético-MG,3,1,Atlético-PR,False
+25,2010-05-23,Internacional,0,2,São Paulo,False
+26,2010-05-23,Ceará,1,0,Vitória,False
+27,2010-05-23,Avaí,2,0,Vasco da Gama,False
+28,2010-05-23,Flamengo,3,1,Prudente,False
+29,2010-05-23,Guarani,2,2,Cruzeiro,False
+30,2010-05-26,Vitória,4,3,Atlético-MG,False
+31,2010-05-26,Grêmio,3,0,Avaí,False
+32,2010-05-26,Fluminense,2,1,Flamengo,False
+33,2010-05-26,São Paulo,1,0,Palmeiras,False
+34,2010-05-26,Prudente,2,2,Corinthians,False
+35,2010-05-26,Cruzeiro,1,0,Botafogo,False
+36,2010-05-26,Santos,3,1,Guarani,False
+37,2010-05-27,Vasco da Gama,3,2,Internacional,False
+38,2010-05-27,Atlético-PR,2,1,Atlético-GO,False
+39,2010-05-27,Goiás,0,0,Ceará,False
+40,2010-05-29,Flamengo,1,1,Grêmio,False
+41,2010-05-29,Palmeiras,0,0,Prudente,False
+42,2010-05-29,Avaí,0,0,Vitória,False
+43,2010-05-30,Corinthians,4,2,Santos,False
+44,2010-05-30,Guarani,0,0,São Paulo,False
+45,2010-05-30,Atlético-MG,1,3,Fluminense,False
+46,2010-05-30,Internacional,4,1,Atlético-PR,False
+47,2010-05-30,Ceará,1,0,Cruzeiro,False
+48,2010-05-30,Atlético-GO,1,3,Goiás,False
+49,2010-05-30,Botafogo,1,1,Vasco da Gama,False
+50,2010-06-02,Atlético-PR,3,2,Botafogo,False
+51,2010-06-02,Fluminense,2,1,Vitória,False
+52,2010-06-02,Prudente,1,0,Atlético-GO,False
+53,2010-06-02,Ceará,2,0,Avaí,False
+54,2010-06-02,Palmeiras,0,1,Flamengo,False
+55,2010-06-02,Goiás,2,1,São Paulo,False
+56,2010-06-02,Cruzeiro,0,0,Santos,False
+57,2010-06-03,Grêmio,2,1,Atlético-MG,False
+58,2010-06-03,Vasco da Gama,0,1,Guarani,False
+59,2010-06-03,Corinthians,2,0,Internacional,False
+60,2010-06-05,Avaí,0,3,Fluminense,False
+61,2010-06-05,Flamengo,1,2,Goiás,False
+62,2010-06-05,Vitória,1,0,Atlético-PR,False
+63,2010-06-06,São Paulo,3,1,Grêmio,False
+64,2010-06-06,Santos,4,0,Vasco da Gama,False
+65,2010-06-06,Botafogo,2,2,Corinthians,False
+66,2010-06-06,Atlético-MG,0,1,Ceará,False
+67,2010-06-06,Internacional,1,1,Palmeiras,False
+68,2010-06-06,Guarani,1,0,Prudente,False
+69,2010-06-06,Atlético-GO,2,1,Cruzeiro,False
+70,2010-07-14,Grêmio,1,1,Vitória,False
+71,2010-07-14,Atlético-PR,0,2,Cruzeiro,False
+72,2010-07-14,São Paulo,1,2,Avaí,False
+73,2010-07-14,Flamengo,1,0,Botafogo,False
+74,2010-07-14,Guarani,0,3,Internacional,False
+75,2010-07-14,Goiás,0,0,Vasco da Gama,False
+76,2010-07-14,Ceará,0,0,Corinthians,False
+77,2010-07-15,Palmeiras,2,1,Santos,False
+78,2010-07-15,Atlético-MG,3,2,Atlético-GO,False
+79,2010-07-15,Fluminense,1,1,Prudente,False
+80,2010-07-17,Vitória,3,2,São Paulo,False
+81,2010-07-17,Vasco da Gama,3,1,Atlético-PR,False
+82,2010-07-18,Cruzeiro,1,0,Goiás,False
+83,2010-07-18,Corinthians,1,0,Atlético-MG,False
+84,2010-07-18,Atlético-GO,0,1,Flamengo,False
+85,2010-07-18,Avaí,4,2,Palmeiras,False
+86,2010-07-18,Internacional,2,1,Ceará,False
+87,2010-07-18,Santos,0,1,Fluminense,False
+88,2010-07-18,Botafogo,1,1,Guarani,False
+89,2010-07-18,Prudente,2,0,Grêmio,False
+90,2010-07-21,Atlético-MG,1,2,Internacional,False
+91,2010-07-21,Vitória,2,2,Goiás,False
+92,2010-07-21,São Paulo,1,1,Prudente,False
+93,2010-07-21,Flamengo,1,1,Avaí,False
+94,2010-07-21,Atlético-PR,2,0,Santos,False
+95,2010-07-21,Grêmio,1,1,Vasco da Gama,False
+96,2010-07-21,Atlético-GO,3,1,Corinthians,False
+97,2010-07-22,Fluminense,1,0,Cruzeiro,False
+98,2010-07-22,Guarani,1,1,Ceará,False
+99,2010-07-22,Palmeiras,2,2,Botafogo,False
+100,2010-07-24,Avaí,0,0,Atlético-MG,False
+101,2010-07-24,Vasco da Gama,2,0,Atlético-GO,False
+102,2010-07-24,Prudente,0,0,Vitória,False
+103,2010-07-25,Santos,1,0,São Paulo,False
+104,2010-07-25,Cruzeiro,2,2,Grêmio,False
+105,2010-07-25,Internacional,1,0,Flamengo,False
+106,2010-07-25,Goiás,0,2,Atlético-PR,False
+107,2010-07-25,Ceará,0,0,Palmeiras,False
+108,2010-07-25,Corinthians,3,1,Guarani,False
+109,2010-07-25,Botafogo,1,1,Fluminense,False
+110,2010-07-31,Fluminense,3,1,Atlético-PR,False
+111,2010-07-31,Atlético-GO,1,1,Guarani,False
+112,2010-07-31,São Paulo,2,1,Ceará,False
+113,2010-08-01,Palmeiras,1,1,Corinthians,False
+114,2010-08-01,Vitória,1,3,Botafogo,False
+115,2010-08-01,Avaí,4,1,Goiás,False
+116,2010-08-01,Internacional,0,0,Grêmio,False
+117,2010-08-01,Atlético-MG,0,1,Cruzeiro,False
+118,2010-08-01,Prudente,1,2,Santos,False
+119,2010-08-01,Flamengo,0,0,Vasco da Gama,False
+120,2010-08-07,Botafogo,3,0,Atlético-MG,False
+121,2010-08-07,Guarani,4,1,Avaí,False
+122,2010-08-08,Atlético-PR,1,1,São Paulo,False
+123,2010-08-08,Corinthians,1,0,Flamengo,False
+124,2010-08-08,Goiás,1,1,Palmeiras,False
+125,2010-08-08,Ceará,0,0,Atlético-GO,False
+126,2010-08-08,Grêmio,1,2,Fluminense,False
+127,2010-08-08,Vasco da Gama,1,0,Vitória,False
+128,2010-08-08,Cruzeiro,0,0,Prudente,False
+129,2010-10-13,Santos,1,0,Internacional,False
+130,2010-08-14,Atlético-GO,0,2,Botafogo,False
+131,2010-08-14,Palmeiras,2,0,Atlético-PR,False
+132,2010-08-14,Flamengo,1,0,Ceará,False
+133,2010-08-14,Atlético-MG,3,1,Guarani,False
+134,2010-08-15,São Paulo,2,2,Cruzeiro,False
+135,2010-08-15,Prudente,1,2,Vasco da Gama,False
+136,2010-08-15,Avaí,3,2,Corinthians,False
+137,2010-08-15,Fluminense,3,0,Internacional,False
+138,2010-08-15,Vitória,4,2,Santos,False
+139,2010-08-15,Grêmio,2,0,Goiás,False
+140,2010-08-21,Goiás,1,2,Prudente,False
+141,2010-08-21,Botafogo,1,0,Avaí,False
+142,2010-08-22,Cruzeiro,0,1,Vitória,False
+143,2010-08-22,Santos,2,0,Atlético-MG,False
+144,2010-08-22,Guarani,0,0,Palmeiras,False
+145,2010-08-22,Atlético-PR,1,0,Flamengo,False
+146,2010-08-22,Internacional,1,1,Atlético-GO,False
+147,2010-08-22,Ceará,2,1,Grêmio,False
+148,2010-08-22,Corinthians,3,0,São Paulo,False
+149,2010-08-22,Vasco da Gama,2,2,Fluminense,False
+150,2010-08-25,Goiás,0,3,Fluminense,False
+151,2010-08-25,Avaí,0,1,Internacional,False
+152,2010-08-25,Botafogo,1,0,Ceará,False
+153,2010-08-25,Prudente,0,1,Atlético-PR,False
+154,2010-08-25,São Paulo,0,0,Vasco da Gama,False
+155,2010-08-25,Cruzeiro,1,0,Corinthians,False
+156,2010-08-25,Grêmio,1,2,Santos,False
+157,2010-08-26,Flamengo,0,0,Atlético-MG,False
+158,2010-08-26,Vitória,1,1,Guarani,False
+159,2010-08-26,Palmeiras,0,3,Atlético-GO,False
+160,2010-08-28,Internacional,1,0,Botafogo,False
+161,2010-08-28,Vasco da Gama,1,1,Cruzeiro,False
+162,2010-08-28,Ceará,2,2,Prudente,False
+163,2010-08-28,Santos,2,0,Goiás,False
+164,2010-08-29,Corinthians,2,1,Vitória,False
+165,2010-08-29,Guarani,2,1,Flamengo,False
+166,2010-08-29,Atlético-MG,1,2,Palmeiras,False
+167,2010-08-29,Fluminense,2,2,São Paulo,False
+168,2010-08-29,Atlético-GO,2,2,Avaí,False
+169,2010-08-29,Atlético-PR,1,1,Grêmio,False
+170,2010-09-01,Vitória,0,0,Internacional,False
+171,2010-09-01,Grêmio,1,0,Guarani,False
+172,2010-09-01,Prudente,0,1,Botafogo,False
+173,2010-09-01,Goiás,1,3,Atlético-MG,False
+174,2010-09-01,Cruzeiro,1,0,Flamengo,False
+175,2010-09-01,Atlético-PR,2,1,Ceará,False
+176,2010-09-01,Fluminense,1,1,Palmeiras,False
+177,2010-09-02,Santos,2,1,Avaí,False
+178,2010-09-02,São Paulo,2,1,Atlético-GO,False
+179,2010-10-13,Vasco da Gama,2,0,Corinthians,False
+180,2010-09-04,Botafogo,2,2,Grêmio,False
+181,2010-09-04,Ceará,0,2,Vasco da Gama,False
+182,2010-09-04,Corinthians,5,1,Goiás,False
+183,2010-09-05,Avaí,0,1,Atlético-PR,False
+184,2010-09-05,Palmeiras,2,3,Cruzeiro,False
+185,2010-09-05,Guarani,2,1,Fluminense,False
+186,2010-09-05,Atlético-MG,2,3,São Paulo,False
+187,2010-09-05,Flamengo,0,0,Santos,False
+188,2010-09-05,Atlético-GO,4,1,Vitória,False
+189,2010-09-05,Internacional,2,0,Prudente,False
+190,2010-09-08,São Paulo,2,0,Flamengo,False
+191,2010-09-08,Fluminense,3,1,Ceará,False
+192,2010-09-08,Cruzeiro,1,0,Internacional,False
+193,2010-09-08,Grêmio,2,0,Atlético-GO,False
+194,2010-09-08,Goiás,3,1,Guarani,False
+195,2010-09-08,Vitória,1,1,Palmeiras,False
+196,2010-09-08,Atlético-PR,1,1,Corinthians,False
+197,2010-09-09,Prudente,1,1,Avaí,False
+198,2010-09-09,Santos,0,1,Botafogo,False
+199,2010-09-09,Vasco da Gama,1,1,Atlético-MG,False
+200,2010-09-11,Flamengo,2,2,Vitória,False
+201,2010-09-11,Atlético-GO,2,1,Fluminense,False
+202,2010-09-11,Corinthians,0,1,Grêmio,False
+203,2010-09-12,Palmeiras,0,0,Vasco da Gama,False
+204,2010-09-12,Botafogo,2,0,São Paulo,False
+205,2010-09-12,Guarani,1,0,Atlético-PR,False
+206,2010-09-12,Atlético-MG,1,0,Prudente,False
+207,2010-09-12,Internacional,0,0,Goiás,False
+208,2010-09-12,Ceará,2,1,Santos,False
+209,2010-09-12,Avaí,1,2,Cruzeiro,False
+210,2010-09-15,Santos,4,2,Atlético-GO,False
+211,2010-09-15,Fluminense,1,2,Corinthians,False
+212,2010-09-15,Prudente,1,2,Flamengo,False
+213,2010-09-15,Cruzeiro,4,2,Guarani,False
+214,2010-09-15,Grêmio,1,2,Palmeiras,False
+215,2010-09-15,Goiás,4,1,Botafogo,False
+216,2010-09-15,Vitória,0,0,Ceará,False
+217,2010-09-15,Atlético-PR,2,1,Atlético-MG,False
+218,2010-09-16,São Paulo,1,3,Internacional,False
+219,2010-09-16,Vasco da Gama,1,1,Avaí,False
+220,2010-09-18,Corinthians,3,0,Prudente,False
+221,2010-09-18,Atlético-GO,1,2,Atlético-PR,False
+222,2010-09-18,Botafogo,2,2,Cruzeiro,False
+223,2010-09-19,Palmeiras,0,2,São Paulo,False
+224,2010-09-19,Flamengo,3,3,Fluminense,False
+225,2010-09-19,Guarani,0,0,Santos,False
+226,2010-09-19,Atlético-MG,2,3,Vitória,False
+227,2010-09-19,Internacional,1,0,Vasco da Gama,False
+228,2010-09-19,Ceará,1,1,Goiás,False
+229,2010-09-19,Avaí,0,3,Grêmio,False
+230,2010-09-22,São Paulo,2,1,Guarani,False
+231,2010-09-22,Santos,2,3,Corinthians,False
+232,2010-09-22,Vasco da Gama,2,2,Botafogo,False
+233,2010-09-22,Prudente,0,1,Palmeiras,False
+234,2010-09-22,Cruzeiro,2,0,Ceará,False
+235,2010-09-22,Grêmio,2,2,Flamengo,False
+236,2010-09-22,Goiás,1,3,Atlético-GO,False
+237,2010-09-22,Atlético-PR,1,0,Internacional,False
+238,2010-09-23,Fluminense,5,1,Atlético-MG,False
+239,2010-09-23,Vitória,3,0,Avaí,False
+240,2010-09-25,São Paulo,0,3,Goiás,False
+241,2010-09-25,Atlético-GO,3,0,Prudente,False
+242,2010-09-25,Guarani,1,0,Vasco da Gama,False
+243,2010-09-25,Santos,4,1,Cruzeiro,False
+244,2010-09-25,Flamengo,1,3,Palmeiras,False
+245,2010-09-26,Botafogo,1,1,Atlético-PR,False
+246,2010-09-26,Atlético-MG,1,2,Grêmio,False
+247,2010-09-26,Internacional,3,2,Corinthians,False
+248,2010-09-26,Vitória,1,2,Fluminense,False
+249,2010-09-26,Avaí,5,0,Ceará,False
+250,2010-09-28,Vasco da Gama,3,1,Santos,False
+251,2010-09-28,Goiás,1,1,Flamengo,False
+252,2010-09-29,Corinthians,1,1,Botafogo,False
+253,2010-09-29,Palmeiras,2,0,Internacional,False
+254,2010-09-29,Fluminense,1,0,Avaí,False
+255,2010-09-29,Prudente,4,2,Guarani,False
+256,2010-09-29,Cruzeiro,3,0,Atlético-GO,False
+257,2010-09-29,Grêmio,4,2,São Paulo,False
+258,2010-09-29,Ceará,0,0,Atlético-MG,False
+259,2010-09-29,Atlético-PR,1,0,Vitória,False
+260,2010-10-01,Vasco da Gama,3,2,Goiás,False
+261,2010-10-02,Corinthians,2,2,Ceará,False
+262,2010-10-02,Santos,1,1,Palmeiras,False
+263,2010-10-02,Botafogo,1,1,Flamengo,False
+264,2010-10-02,Prudente,1,1,Fluminense,False
+265,2010-10-02,Cruzeiro,0,0,Atlético-PR,False
+266,2010-10-02,Internacional,3,0,Guarani,False
+267,2010-10-02,Atlético-GO,2,3,Atlético-MG,False
+268,2010-10-02,Vitória,0,3,Grêmio,False
+269,2010-10-02,Avaí,0,0,São Paulo,False
+270,2010-10-06,São Paulo,2,0,Vitória,False
+271,2010-10-06,Fluminense,0,3,Santos,False
+272,2010-10-06,Guarani,1,1,Botafogo,False
+273,2010-10-06,Atlético-MG,2,1,Corinthians,False
+274,2010-10-06,Grêmio,4,0,Prudente,False
+275,2010-10-06,Ceará,1,0,Internacional,False
+276,2010-10-06,Atlético-PR,0,0,Vasco da Gama,False
+277,2010-10-07,Flamengo,2,0,Atlético-GO,False
+278,2010-10-07,Palmeiras,4,1,Avaí,False
+279,2010-10-07,Goiás,0,1,Cruzeiro,False
+280,2010-10-09,Santos,2,0,Atlético-PR,False
+281,2010-10-09,Prudente,2,3,São Paulo,False
+282,2010-10-09,Vasco da Gama,3,3,Grêmio,False
+283,2010-10-10,Corinthians,3,4,Atlético-GO,False
+284,2010-10-10,Botafogo,0,0,Palmeiras,False
+285,2010-10-10,Cruzeiro,1,0,Fluminense,False
+286,2010-10-10,Internacional,1,0,Atlético-MG,False
+287,2010-10-10,Goiás,1,0,Vitória,False
+288,2010-10-10,Ceará,2,0,Guarani,False
+289,2010-10-10,Avaí,2,2,Flamengo,False
+290,2010-10-16,Flamengo,3,0,Internacional,False
+291,2010-10-16,Atlético-PR,2,1,Goiás,False
+292,2010-10-17,São Paulo,4,3,Santos,False
+293,2010-10-17,Palmeiras,1,1,Ceará,False
+294,2010-10-17,Fluminense,0,0,Botafogo,False
+295,2010-10-17,Guarani,0,0,Corinthians,False
+296,2010-10-17,Atlético-MG,2,0,Avaí,False
+297,2010-10-17,Grêmio,2,1,Cruzeiro,False
+298,2010-10-17,Atlético-GO,2,0,Vasco da Gama,False
+299,2010-10-17,Vitória,2,0,Prudente,False
+300,2010-10-23,Guarani,0,1,Atlético-GO,False
+301,2010-10-23,Botafogo,1,0,Vitória,False
+302,2010-10-24,Corinthians,1,0,Palmeiras,False
+303,2010-10-24,Santos,2,3,Prudente,False
+304,2010-10-24,Vasco da Gama,1,1,Flamengo,False
+305,2010-10-24,Cruzeiro,3,4,Atlético-MG,False
+306,2010-10-24,Grêmio,2,2,Internacional,False
+307,2010-10-24,Goiás,1,0,Avaí,False
+308,2010-10-24,Ceará,2,0,São Paulo,False
+309,2010-10-24,Atlético-PR,2,2,Fluminense,False
+310,2010-10-27,Flamengo,1,1,Corinthians,False
+311,2010-10-28,Atlético-GO,1,1,Ceará,False
+312,2010-10-28,Fluminense,2,0,Grêmio,False
+313,2010-10-28,São Paulo,2,1,Atlético-PR,False
+314,2010-10-30,Palmeiras,3,2,Goiás,False
+315,2010-10-30,Prudente,0,2,Cruzeiro,False
+316,2010-10-30,Atlético-MG,0,2,Botafogo,False
+317,2010-10-30,Internacional,1,1,Santos,False
+318,2010-10-30,Vitória,4,2,Vasco da Gama,False
+319,2010-10-30,Avaí,1,0,Guarani,False
+320,2010-11-03,Corinthians,4,0,Avaí,False
+321,2010-11-03,Santos,1,1,Vitória,False
+322,2010-11-03,Botafogo,3,2,Atlético-GO,False
+323,2010-11-03,Guarani,0,0,Atlético-MG,False
+324,2010-11-03,Cruzeiro,0,2,São Paulo,False
+325,2010-11-03,Internacional,0,0,Fluminense,False
+326,2010-11-03,Goiás,0,2,Grêmio,False
+327,2010-11-03,Ceará,2,2,Flamengo,False
+328,2010-11-04,Vasco da Gama,2,1,Prudente,False
+329,2010-11-04,Atlético-PR,1,0,Palmeiras,False
+330,2010-11-06,Grêmio,5,1,Ceará,False
+331,2010-11-06,Atlético-GO,2,2,Internacional,False
+332,2010-11-06,Atlético-MG,2,2,Santos,False
+333,2010-11-07,São Paulo,0,2,Corinthians,False
+334,2010-11-07,Palmeiras,1,0,Guarani,False
+335,2010-11-07,Flamengo,0,1,Atlético-PR,False
+336,2010-11-07,Fluminense,1,0,Vasco da Gama,False
+337,2010-11-07,Prudente,4,1,Goiás,False
+338,2010-11-07,Vitória,0,1,Cruzeiro,False
+339,2010-11-07,Avaí,0,0,Botafogo,False
+340,2010-11-10,Ceará,2,2,Botafogo,False
+341,2010-11-13,Corinthians,1,0,Cruzeiro,False
+342,2010-11-13,Santos,0,0,Grêmio,False
+343,2010-11-13,Atlético-MG,4,1,Flamengo,False
+344,2010-11-14,Vasco da Gama,1,1,São Paulo,False
+345,2010-11-14,Fluminense,1,1,Goiás,False
+346,2010-11-14,Guarani,1,1,Vitória,False
+347,2010-11-14,Internacional,2,3,Avaí,False
+348,2010-11-14,Atlético-GO,3,0,Palmeiras,False
+349,2010-11-14,Atlético-PR,2,1,Prudente,False
+350,2010-11-20,Grêmio,3,1,Atlético-PR,False
+351,2010-11-20,Prudente,1,1,Ceará,False
+352,2010-11-20,Flamengo,2,1,Guarani,False
+353,2010-11-21,São Paulo,1,4,Fluminense,False
+354,2010-11-21,Palmeiras,0,2,Atlético-MG,False
+355,2010-11-21,Botafogo,1,2,Internacional,False
+356,2010-11-21,Cruzeiro,3,1,Vasco da Gama,False
+357,2010-11-21,Goiás,1,4,Santos,False
+358,2010-11-21,Vitória,1,1,Corinthians,False
+359,2010-11-21,Avaí,3,0,Atlético-GO,False
+360,2010-11-28,Corinthians,2,0,Vasco da Gama,False
+361,2010-11-28,Palmeiras,1,2,Fluminense,False
+362,2010-11-28,Flamengo,1,2,Cruzeiro,False
+363,2010-11-28,Botafogo,3,1,Prudente,False
+364,2010-11-28,Guarani,0,3,Grêmio,False
+365,2010-11-28,Atlético-MG,3,1,Goiás,False
+366,2010-11-28,Internacional,1,1,Vitória,False
+367,2010-11-28,Atlético-GO,1,1,São Paulo,False
+368,2010-11-28,Ceará,1,1,Atlético-PR,False
+369,2010-11-28,Avaí,3,2,Santos,False
+370,2010-12-02,Prudente,0,3,Internacional,False
+371,2010-12-05,São Paulo,4,0,Atlético-MG,False
+372,2010-12-05,Santos,0,0,Flamengo,False
+373,2010-12-05,Vasco da Gama,2,0,Ceará,False
+374,2010-12-05,Fluminense,1,0,Guarani,False
+375,2010-12-05,Cruzeiro,2,1,Palmeiras,False
+376,2010-12-05,Grêmio,3,0,Botafogo,False
+377,2010-12-05,Goiás,1,1,Corinthians,False
+378,2010-12-05,Vitória,0,0,Atlético-Go,False
+379,2010-12-05,Atlético-PR,1,0,Avaí,False

@@ -1,0 +1,473 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+0,2005-04-23,Paraná,0,2,Goiás,False,False,first
+1,2005-04-23,São Caetano,2,2,Palmeiras,False,False,first
+2,2005-04-23,Flamengo,1,1,Cruzeiro,False,False,first
+3,2005-04-23,Atlético-MG,4,1,Figueirense,False,False,first
+4,2005-04-24,Santos,4,1,Paysandu,False,False,first
+5,2005-04-24,Internacional,0,2,Botafogo,False,False,first
+6,2005-04-24,Fortaleza,0,1,Coritiba,False,False,first
+7,2005-04-24,Atlético-PR,0,1,Ponte Preta,False,False,first
+8,2005-04-24,Fluminense,2,1,São Paulo,False,False,first
+9,2005-04-24,Corinthians,2,2,Juventude,False,False,first
+10,2005-04-30,São Paulo,1,1,Paraná,False,False,first
+11,2005-04-30,Ponte Preta,3,3,Atlético-MG,False,False,first
+12,2005-04-30,Palmeiras,2,1,Brasiliense,False,False,first
+13,2005-04-30,Vasco da Gama,0,0,Fortaleza,False,False,first
+14,2005-04-30,Goiás,0,0,São Caetano,False,False,first
+15,2005-05-01,Juventude,1,0,Atlético-PR,False,False,first
+16,2005-05-01,Figueirense,0,1,Flamengo,False,False,first
+17,2005-05-01,Paysandu,1,2,Fluminense,False,False,first
+18,2005-05-01,Coritiba,2,3,Santos,False,False,first
+19,2005-05-01,Botafogo,3,1,Corinthians,False,False,first
+20,2005-05-01,Cruzeiro,3,2,Internacional,False,False,first
+21,2005-05-07,Santos,2,1,Atlético-PR,False,False,first
+22,2005-05-07,Goiás,0,0,Figueirense,False,False,first
+23,2005-05-07,Paraná,2,2,Juventude,False,False,first
+24,2005-05-07,Ponte Preta,2,0,Paysandu,False,False,first
+25,2005-05-08,Internacional,1,0,Flamengo,False,False,first
+26,2005-05-08,São Caetano,2,1,Fortaleza,False,False,first
+27,2005-05-08,Vasco da Gama,0,1,Botafogo,False,False,first
+28,2005-05-08,Coritiba,1,0,Palmeiras,False,False,first
+29,2005-05-08,Fluminense,2,1,Cruzeiro,False,False,first
+30,2005-05-08,Atlético-MG,0,1,Brasiliense,False,False,first
+31,2005-05-08,Corinthians,1,5,São Paulo,False,False,first
+32,2005-05-14,Fortaleza,2,1,Ponte Preta,False,False,first
+33,2005-05-14,Figueirense,1,2,Internacional,False,False,first
+34,2005-05-14,São Paulo,1,0,Coritiba,False,False,first
+35,2005-05-14,Botafogo,2,1,Atlético-MG,False,False,first
+36,2005-05-15,Juventude,4,1,Vasco da Gama,False,False,first
+37,2005-05-15,Paysandu,3,2,São Caetano,False,False,first
+38,2005-05-15,Flamengo,2,1,Santos,False,False,first
+39,2005-05-15,Atlético-PR,1,2,Corinthians,False,False,first
+40,2005-05-15,Cruzeiro,3,1,Goiás,False,False,first
+41,2005-05-15,Palmeiras,1,2,Paraná,False,False,first
+42,2005-05-15,Brasiliense,0,3,Fluminense,False,False,first
+43,2005-05-21,Juventude,2,0,Paysandu,False,False,first
+44,2005-05-21,Paraná,1,1,Ponte Preta,False,False,first
+45,2005-05-21,Fortaleza,2,0,Brasiliense,False,False,first
+46,2005-05-21,Fluminense,2,4,Coritiba,False,False,first
+47,2005-05-21,Goiás,4,0,Botafogo,False,False,first
+48,2005-05-22,Santos,3,0,Atlético-MG,False,False,first
+49,2005-05-22,São Caetano,1,0,Flamengo,False,False,first
+50,2005-05-22,Vasco da Gama,3,1,São Paulo,False,False,first
+51,2005-05-22,Atlético-PR,1,3,Internacional,False,False,first
+52,2005-05-22,Cruzeiro,2,0,Palmeiras,False,False,first
+53,2005-05-22,Corinthians,2,1,Figueirense,False,False,first
+54,2005-05-28,Paysandu,1,0,Goiás,False,False,first
+55,2005-05-28,São Paulo,1,1,Cruzeiro,False,False,first
+56,2005-05-28,Figueirense,2,0,São Caetano,False,False,first
+57,2005-05-29,Internacional,1,0,Fortaleza,False,False,first
+58,2005-05-29,Ponte Preta,4,2,Vasco da Gama,False,False,first
+59,2005-05-29,Flamengo,0,0,Fluminense,False,False,first
+60,2005-05-29,Coritiba,1,2,Juventude,False,False,first
+61,2005-05-29,Botafogo,2,0,Atlético-PR,False,False,first
+62,2005-05-29,Atlético-MG,0,1,Corinthians,False,False,first
+63,2005-05-29,Palmeiras,2,1,Santos,False,False,first
+64,2005-05-29,Brasiliense,1,0,Paraná,False,False,first
+65,2005-06-11,Paraná,3,0,Fortaleza,False,False,first
+66,2005-06-11,São Caetano,2,0,Brasiliense,False,False,first
+67,2005-06-11,Cruzeiro,1,2,Ponte Preta,False,False,first
+68,2005-06-11,Atlético-PR,0,0,Figueirense,False,False,first
+69,2005-06-11,Botafogo,3,2,Juventude,False,False,first
+70,2005-06-11,Goiás,2,1,Palmeiras,False,False,first
+71,2005-06-12,Santos,1,1,Fluminense,False,False,first
+72,2005-06-12,Internacional,1,1,Atlético-MG,False,False,first
+73,2005-06-12,Paysandu,2,2,São Paulo,False,False,first
+74,2005-06-12,Vasco da Gama,2,2,Coritiba,False,False,first
+75,2005-06-12,Corinthians,4,2,Flamengo,False,False,first
+76,2005-06-18,Figueirense,3,3,Paysandu,False,False,first
+77,2005-06-18,Palmeiras,5,2,Vasco da Gama,False,False,first
+78,2005-06-18,Brasiliense,2,4,Corinthians,False,False,first
+79,2005-06-18,Ponte Preta,2,0,Goiás,False,False,first
+80,2005-06-18,Flamengo,1,1,Atlético-PR,False,False,first
+81,2005-06-18,Atlético-MG,2,3,São Caetano,False,False,first
+82,2005-06-19,São Paulo,1,0,Botafogo,False,False,first
+83,2005-06-19,Juventude,0,0,Cruzeiro,False,False,first
+84,2005-06-19,Fortaleza,0,0,Santos,False,False,first
+85,2005-06-19,Coritiba,2,1,Paraná,False,False,first
+86,2005-06-19,Fluminense,3,0,Internacional,False,False,first
+87,2005-06-25,São Paulo,1,3,Internacional,False,False,first
+88,2005-06-25,Juventude,1,3,Ponte Preta,False,False,first
+89,2005-06-25,Paraná,1,0,Atlético-MG,False,False,first
+90,2005-06-25,Flamengo,3,4,Brasiliense,False,False,first
+91,2005-06-26,São Caetano,1,3,Santos,False,False,first
+92,2005-06-26,Paysandu,2,1,Palmeiras,False,False,first
+93,2005-06-26,Atlético-PR,0,0,Fortaleza,False,False,first
+94,2005-06-26,Botafogo,0,1,Figueirense,False,False,first
+95,2005-06-26,Cruzeiro,3,3,Vasco da Gama,False,False,first
+96,2005-06-26,Corinthians,0,1,Fluminense,False,False,first
+97,2005-06-26,Goiás,2,1,Coritiba,False,False,first
+98,2005-07-02,Ponte Preta,1,0,São Paulo,False,False,first
+99,2005-07-02,Vasco da Gama,1,2,Goiás,False,False,first
+100,2005-07-02,Coritiba,3,1,Paysandu,False,False,first
+101,2005-07-02,Fluminense,0,1,Paraná,False,False,first
+102,2005-07-03,Santos,0,0,Juventude,False,False,first
+103,2005-07-03,Internacional,2,1,São Caetano,False,False,first
+104,2005-07-03,Figueirense,0,0,Cruzeiro,False,False,first
+105,2005-07-03,Fortaleza,2,1,Corinthians,False,False,first
+106,2005-07-03,Atlético-MG,3,1,Flamengo,False,False,first
+107,2005-07-03,Palmeiras,4,1,Botafogo,False,False,first
+108,2005-07-03,Brasiliense,2,1,Atlético-PR,False,False,first
+109,2005-07-09,São Paulo,2,0,Flamengo,False,False,first
+110,2005-07-09,Juventude,2,1,Brasiliense,False,False,first
+111,2005-07-09,Paraná,3,0,Figueirense,False,False,first
+112,2005-07-09,São Caetano,2,1,Ponte Preta,False,False,first
+113,2005-07-09,Paysandu,1,2,Fortaleza,False,False,first
+114,2005-07-10,Vasco da Gama,2,4,Internacional,False,False,first
+115,2005-07-10,Atlético-PR,1,0,Coritiba,False,False,first
+116,2005-07-10,Botafogo,1,2,Fluminense,False,False,first
+117,2005-07-10,Cruzeiro,2,1,Atlético-MG,False,False,first
+118,2005-07-10,Corinthians,3,1,Palmeiras,False,False,first
+119,2005-07-10,Goiás,3,4,Santos,False,False,first
+120,2005-07-16,Ponte Preta,2,1,Figueirense,False,False,first
+121,2005-07-16,Paysandu,1,2,Cruzeiro,False,False,first
+122,2005-07-16,Goiás,1,3,Brasiliense,False,False,first
+123,2005-07-16,Paraná,2,3,Corinthians,False,False,first
+124,2005-07-16,Fluminense,0,1,São Caetano,False,False,first
+125,2005-07-17,Santos,2,1,São Paulo,False,False,first
+126,2005-07-17,Internacional,5,2,Juventude,False,False,first
+127,2005-07-17,Flamengo,1,0,Vasco da Gama,False,False,first
+128,2005-07-17,Coritiba,0,3,Botafogo,False,False,first
+129,2005-07-17,Atlético-MG,2,3,Atlético-PR,False,False,first
+130,2005-07-17,Palmeiras,1,2,Fortaleza,False,False,first
+131,2005-07-20,Santos,2,3,Vasco da Gama,False,False,first
+132,2005-07-20,Internacional,2,3,Goiás,False,False,first
+133,2005-07-20,Figueirense,1,4,Palmeiras,False,False,first
+134,2005-07-20,São Caetano,1,1,Paraná,False,False,first
+135,2005-07-20,Fortaleza,1,3,Atlético-MG,False,False,first
+136,2005-07-20,Atlético-PR,3,2,Fluminense,False,False,first
+137,2005-07-20,Botafogo,4,2,Ponte Preta,False,False,first
+138,2005-07-20,Brasiliense,3,3,São Paulo,False,False,first
+139,2005-07-21,Cruzeiro,2,2,Coritiba,False,False,first
+140,2005-07-21,Corinthians,3,2,Paysandu,False,False,first
+141,2005-07-21,Flamengo,3,4,Juventude,False,False,first
+142,2005-07-23,São Paulo,0,1,São Caetano,False,False,first
+143,2005-07-23,Paraná,2,0,Atlético-PR,False,False,first
+144,2005-07-23,Goiás,2,1,Fortaleza,False,False,first
+145,2005-07-23,Botafogo,1,1,Brasiliense,False,False,first
+146,2005-07-24,Juventude,1,4,Figueirense,False,False,first
+147,2005-07-24,Ponte Preta,2,1,Fluminense,False,False,first
+148,2005-07-24,Paysandu,1,2,Internacional,False,False,first
+149,2005-07-24,Vasco da Gama,2,3,Corinthians,False,False,first
+150,2005-07-24,Coritiba,3,2,Flamengo,False,False,first
+151,2005-07-24,Cruzeiro,3,2,Santos,False,False,first
+152,2005-07-24,Palmeiras,1,0,Atlético-MG,False,False,first
+153,2005-07-27,Santos,0,1,Ponte Preta,False,False,first
+154,2005-07-27,São Caetano,0,1,Botafogo,False,False,first
+155,2005-07-27,Fortaleza,2,0,Juventude,False,False,first
+156,2005-07-27,Atlético-PR,7,2,Vasco da Gama,False,False,first
+157,2005-07-27,Fluminense,1,1,Goiás,False,False,first
+158,2005-07-27,Atlético-MG,0,0,São Paulo,False,False,first
+159,2005-07-27,Corinthians,4,3,Cruzeiro,False,False,first
+160,2005-07-28,Internacional,0,2,Paraná,False,False,first
+161,2005-07-28,Figueirense,0,0,Coritiba,False,False,first
+162,2005-07-28,Flamengo,0,0,Palmeiras,False,False,first
+163,2005-07-28,Brasiliense,0,0,Paysandu,False,False,first
+164,2005-07-30,Vasco da Gama,3,2,São Caetano,False,False,first
+165,2005-07-30,Cruzeiro,3,0,Fortaleza,False,False,first
+166,2005-07-30,Goiás,3,1,Atlético-MG,False,False,first
+167,2005-07-31,Santos,4,2,Corinthians,False,False,first
+168,2005-07-31,Juventude,2,1,São Paulo,False,False,first
+169,2005-07-31,Figueirense,1,1,Fluminense,False,False,first
+170,2005-07-31,Ponte Preta,1,1,Internacional,False,False,first
+171,2005-07-31,Paysandu,3,4,Paraná,False,False,first
+172,2005-07-31,Coritiba,1,1,Brasiliense,False,False,first
+173,2005-07-31,Botafogo,0,2,Flamengo,False,False,first
+174,2005-07-31,Palmeiras,1,1,Atlético-PR,False,False,first
+175,2005-08-03,Internacional,0,1,Santos,False,False,first
+176,2005-08-03,Paraná,2,0,Botafogo,False,False,first
+177,2005-08-03,São Caetano,1,1,Juventude,False,False,first
+178,2005-08-03,Flamengo,1,0,Ponte Preta,False,False,first
+179,2005-08-03,Atlético-PR,1,0,Goiás,False,False,first
+180,2005-08-03,Atlético-MG,2,2,Paysandu,False,False,first
+181,2005-08-03,Corinthians,3,0,Coritiba,False,False,first
+182,2005-08-03,Brasiliense,1,2,Cruzeiro,False,False,first
+183,2005-08-04,São Paulo,3,3,Palmeiras,False,False,first
+184,2005-08-04,Fortaleza,5,2,Figueirense,False,False,first
+185,2005-08-04,Fluminense,3,2,Vasco da Gama,False,False,first
+186,2005-08-06,Atlético-PR,5,4,Cruzeiro,False,False,first
+187,2005-08-06,Botafogo,2,0,Paysandu,False,False,first
+188,2005-08-06,Corinthians,0,2,São Caetano,False,False,first
+189,2005-08-07,São Paulo,0,1,Goiás,False,False,first
+190,2005-08-07,Juventude,1,2,Palmeiras,False,False,first
+191,2005-08-07,Paraná,1,1,Santos,False,False,first
+192,2005-08-07,Ponte Preta,0,3,Coritiba,False,False,first
+193,2005-08-07,Fortaleza,2,1,Flamengo,False,False,first
+194,2005-08-07,Vasco da Gama,2,1,Figueirense,False,False,first
+195,2005-08-07,Atlético-MG,1,2,Fluminense,False,False,first
+196,2005-08-07,Brasiliense,0,0,Internacional,False,False,first
+197,2005-08-10,Internacional,0,0,Corinthians,False,False,first
+198,2005-08-10,Figueirense,3,1,São Paulo,False,False,first
+199,2005-08-10,São Caetano,3,2,Atlético-PR,False,False,first
+200,2005-08-10,Paysandu,0,2,Vasco da Gama,False,False,first
+201,2005-08-10,Coritiba,1,0,Atlético-MG,False,False,first
+202,2005-08-10,Cruzeiro,4,1,Botafogo,False,False,first
+203,2005-08-10,Palmeiras,2,1,Ponte Preta,False,False,first
+204,2005-08-11,Fluminense,2,0,Fortaleza,False,False,first
+205,2005-08-11,Flamengo,1,1,Paraná,False,False,first
+206,2005-08-11,Goiás,1,0,Juventude,False,False,first
+207,2005-08-11,Santos,1,1,Brasiliense,False,False,first
+208,2005-08-13,Coritiba,2,2,São Caetano,False,False,first
+209,2005-08-13,Palmeiras,3,2,Internacional,False,False,first
+210,2005-08-13,Paysandu,2,1,Atlético-PR,False,False,first
+211,2005-08-14,São Paulo,3,2,Fortaleza,False,False,first
+212,2005-08-14,Juventude,2,0,Fluminense,False,False,first
+213,2005-08-14,Figueirense,2,2,Brasiliense,False,False,first
+214,2005-08-14,Ponte Preta,3,5,Corinthians,False,False,first
+215,2005-08-14,Vasco da Gama,2,1,Atlético-MG,False,False,first
+216,2005-08-14,Botafogo,3,3,Santos,False,False,first
+217,2005-08-14,Cruzeiro,0,1,Paraná,False,False,first
+218,2005-08-14,Goiás,2,0,Flamengo,False,False,first
+219,2005-08-20,Atlético-PR,4,2,São Paulo,False,False,first
+220,2005-08-20,São Caetano,0,1,Cruzeiro,False,False,first
+221,2005-08-20,Atlético-MG,2,1,Juventude,False,False,first
+222,2005-08-21,Santos,4,3,Figueirense,False,False,first
+223,2005-08-21,Internacional,3,2,Coritiba,False,False,first
+224,2005-08-21,Paraná,0,0,Vasco da Gama,False,False,first
+225,2005-08-21,Fortaleza,3,1,Botafogo,False,False,first
+226,2005-08-21,Flamengo,2,1,Paysandu,False,False,first
+227,2005-08-21,Fluminense,2,2,Palmeiras,False,False,first
+228,2005-08-21,Corinthians,1,1,Goiás,False,False,first
+229,2005-08-21,Brasiliense,4,0,Ponte Preta,False,False,first
+230,2005-08-24,São Paulo,1,1,Fluminense,False,False,first
+231,2005-08-24,Juventude,1,0,Corinthians,False,False,first
+232,2005-08-24,Ponte Preta,0,2,Atlético-PR,False,False,first
+233,2005-08-24,Paysandu,2,3,Santos,False,False,first
+234,2005-08-24,Vasco da Gama,1,0,Brasiliense,False,False,first
+235,2005-08-24,Cruzeiro,0,0,Flamengo,False,False,first
+236,2005-08-24,Palmeiras,2,1,São Caetano,False,False,first
+237,2005-08-24,Goiás,1,1,Paraná,False,False,first
+238,2005-08-25,Figueirense,0,1,Atlético-MG,False,False,first
+239,2005-08-25,Coritiba,2,0,Fortaleza,False,False,first
+240,2005-08-25,Botafogo,0,1,Internacional,False,False,first
+241,2005-08-27,São Caetano,0,1,Goiás,False,False,first
+242,2005-08-27,Atlético-PR,2,2,Juventude,False,False,first
+243,2005-08-27,Brasiliense,3,2,Palmeiras,False,False,first
+244,2005-08-28,Santos,2,0,Coritiba,False,False,first
+245,2005-08-28,Internacional,4,1,Cruzeiro,False,False,first
+246,2005-08-28,Paraná,0,4,São Paulo,False,False,first
+247,2005-08-28,Fortaleza,4,2,Vasco da Gama,False,False,first
+248,2005-08-28,Flamengo,2,2,Figueirense,False,False,first
+249,2005-08-28,Fluminense,5,2,Paysandu,False,False,first
+250,2005-08-28,Atlético-MG,1,0,Ponte Preta,False,False,first
+251,2005-08-28,Corinthians,3,3,Botafogo,False,False,first
+252,2005-09-07,São Paulo,3,2,Corinthians,False,False,first
+253,2005-09-07,Juventude,2,0,Paraná,False,False,first
+254,2005-09-07,Figueirense,3,0,Goiás,False,False,first
+255,2005-09-07,Fortaleza,5,2,São Caetano,False,False,first
+256,2005-09-07,Paysandu,2,2,Ponte Preta,False,False,first
+257,2005-09-07,Atlético-PR,3,3,Santos,False,False,first
+258,2005-09-07,Botafogo,2,2,Vasco da Gama,False,False,first
+259,2005-09-07,Cruzeiro,2,6,Fluminense,False,False,first
+260,2005-09-07,Brasiliense,1,2,Atlético-MG,False,False,first
+261,2005-09-08,Flamengo,1,1,Internacional,False,False,first
+262,2005-09-08,Palmeiras,1,1,Coritiba,False,False,first
+263,2005-09-10,São Caetano,1,2,Paysandu,False,False,first
+264,2005-09-10,Goiás,1,0,Cruzeiro,False,False,first
+265,2005-09-10,Fluminense,3,0,Brasiliense,False,False,first
+266,2005-09-11,Santos,0,0,Flamengo,False,False,first
+267,2005-09-11,Internacional,3,0,Figueirense,False,False,first
+268,2005-09-11,Paraná,1,3,Palmeiras,False,False,first
+269,2005-09-11,Ponte Preta,2,1,Fortaleza,False,False,first
+270,2005-09-11,Vasco da Gama,5,2,Juventude,False,False,first
+271,2005-09-11,Coritiba,1,4,São Paulo,False,False,first
+272,2005-09-11,Atlético-MG,0,2,Botafogo,False,False,first
+273,2005-09-11,Corinthians,2,0,Atlético-PR,False,False,first
+274,2005-09-17,Ponte Preta,1,0,Paraná,False,False,first
+275,2005-09-17,Paysandu,3,0,Juventude,False,False,first
+276,2005-09-17,Flamengo,2,0,São Caetano,False,False,first
+277,2005-09-17,Palmeiras,2,1,Cruzeiro,False,False,first
+278,2005-09-18,São Paulo,4,2,Vasco da Gama,False,False,first
+279,2005-09-18,Internacional,3,2,Atlético-PR,False,False,first
+280,2005-09-18,Figueirense,2,3,Corinthians,False,False,first
+281,2005-09-18,Coritiba,0,0,Fluminense,False,False,first
+282,2005-09-18,Botafogo,3,1,Goiás,False,False,first
+283,2005-09-18,Atlético-MG,3,0,Santos,False,False,first
+284,2005-09-18,Brasiliense,0,2,Fortaleza,False,False,first
+285,2005-09-21,Santos,2,1,Palmeiras,False,False,first
+286,2005-09-21,Paraná,4,1,Brasiliense,False,False,first
+287,2005-09-21,São Caetano,0,1,Figueirense,False,False,first
+288,2005-09-21,Fortaleza,1,2,Internacional,False,False,first
+289,2005-09-21,Fluminense,2,2,Flamengo,False,False,first
+290,2005-09-21,Cruzeiro,2,3,São Paulo,False,False,first
+291,2005-09-21,Goiás,4,1,Paysandu,False,False,first
+292,2005-09-22,Corinthians,1,1,Atlético-MG,False,False,first
+293,2005-09-22,Vasco da Gama,0,0,Ponte Preta,False,False,first
+294,2005-09-22,Atlético-PR,2,0,Botafogo,False,False,first
+295,2005-09-22,Juventude,0,0,Coritiba,False,False,first
+296,2005-09-24,São Paulo,4,1,Paysandu,False,False,first
+297,2005-09-24,Brasiliense,1,1,São Caetano,False,False,first
+298,2005-09-24,Fortaleza,2,2,Paraná,False,False,first
+299,2005-09-25,Flamengo,1,3,Corinthians,False,False,first
+300,2005-09-25,Juventude,0,0,Botafogo,False,False,first
+301,2005-09-25,Figueirense,2,0,Atlético-PR,False,False,first
+302,2005-09-25,Ponte Preta,2,3,Cruzeiro,False,False,first
+303,2005-09-25,Coritiba,2,0,Vasco da Gama,False,False,first
+304,2005-09-25,Fluminense,4,3,Santos,False,False,first
+305,2005-09-25,Atlético-MG,1,1,Internacional,False,False,first
+306,2005-09-25,Palmeiras,3,1,Goiás,False,False,first
+307,2005-10-01,Paraná,3,2,Coritiba,False,False,first
+308,2005-10-01,Cruzeiro,2,0,Juventude,False,False,first
+309,2005-10-01,Goiás,4,1,Ponte Preta,False,False,first
+310,2005-10-01,Paysandu,3,1,Figueirense,False,False,first
+311,2005-10-01,Santos,0,0,Fortaleza,False,False,first
+312,2005-10-01,São Caetano,3,1,Atlético-MG,False,False,first
+313,2005-10-02,Internacional,2,2,Fluminense,False,False,first
+314,2005-10-02,Vasco da Gama,0,0,Palmeiras,False,False,first
+315,2005-10-02,Atlético-PR,2,0,Flamengo,False,False,first
+316,2005-10-02,Botafogo,1,1,São Paulo,False,False,first
+317,2005-10-02,Corinthians,3,2,Brasiliense,False,False,first
+318,2005-10-04,Atlético-MG,0,1,Paraná,False,False,first
+319,2005-10-04,Santos,2,0,São Caetano,False,False,first
+320,2005-10-04,Ponte Preta,3,2,Juventude,False,False,first
+321,2005-10-04,Coritiba,0,2,Goiás,False,False,first
+322,2005-10-05,Internacional,3,0,São Paulo,False,False,first
+323,2005-10-05,Figueirense,1,0,Botafogo,False,False,first
+324,2005-10-05,Fortaleza,1,4,Atlético-PR,False,False,first
+325,2005-10-05,Vasco da Gama,3,3,Cruzeiro,False,False,first
+326,2005-10-05,Fluminense,0,2,Corinthians,False,False,first
+327,2005-10-05,Palmeiras,5,3,Paysandu,False,False,first
+328,2005-10-05,Brasiliense,2,3,Flamengo,False,False,first
+329,2005-10-08,Juventude,3,1,Santos,False,False,first
+330,2005-10-08,Paraná,6,1,Fluminense,False,False,first
+331,2005-10-08,Botafogo,1,2,Palmeiras,False,False,first
+332,2005-10-08,Corinthians,3,0,Fortaleza,False,False,first
+333,2005-10-08,Goiás,4,3,Vasco da Gama,False,False,first
+334,2005-10-08,Cruzeiro,4,0,Figueirense,False,False,first
+335,2005-10-11,Paysandu,2,1,Coritiba,False,False,first
+336,2005-10-11,São Caetano,1,1,Internacional,False,False,first
+337,2005-10-11,São Paulo,3,2,Ponte Preta,False,False,first
+338,2005-10-11,Flamengo,1,2,Atlético-MG,False,False,first
+339,2005-10-11,Atlético-PR,4,0,Brasiliense,False,False,first
+340,2005-10-12,Vasco da Gama,3,3,Figueirense,False,False,first
+341,2005-10-12,Cruzeiro,2,2,Botafogo,False,False,first
+342,2005-10-12,Juventude,3,4,Fluminense,False,False,first
+343,2005-10-13,Santos,2,3,Corinthians,False,False,first
+344,2005-10-15,Fortaleza,1,2,Paysandu,False,False,first
+345,2005-10-15,Fluminense,3,2,Botafogo,False,False,first
+346,2005-10-15,Figueirense,2,0,Paraná,False,False,first
+347,2005-10-15,Brasiliense,1,0,Juventude,False,False,first
+348,2005-10-15,Coritiba,1,2,Atlético-PR,False,False,first
+349,2005-10-16,Santos,1,1,Goiás,False,False,first
+350,2005-10-16,Internacional,3,1,Vasco da Gama,False,False,first
+351,2005-10-16,Ponte Preta,1,2,São Caetano,False,False,first
+352,2005-10-16,Flamengo,1,6,São Paulo,False,False,first
+353,2005-10-16,Atlético-MG,0,1,Cruzeiro,False,False,first
+354,2005-10-16,Palmeiras,1,1,Corinthians,False,False,first
+355,2005-10-19,Vasco da Gama,1,0,Botafogo,False,False,first
+356,2005-10-19,Juventude,2,2,Figueirense,False,False,first
+357,2005-10-19,Paysandu,4,1,Cruzeiro,False,False,first
+358,2005-10-19,Ponte Preta,2,0,São Paulo,False,False,first
+359,2005-10-21,São Caetano,2,2,Fluminense,False,False,first
+360,2005-10-21,Brasiliense,1,2,Goiás,False,False,first
+361,2005-10-22,São Paulo,1,2,Santos,False,False,first
+362,2005-10-22,Juventude,2,1,Internacional,False,False,first
+363,2005-10-22,Figueirense,4,0,Ponte Preta,False,False,first
+364,2005-10-22,Fortaleza,1,1,Palmeiras,False,False,first
+365,2005-10-22,Vasco da Gama,2,1,Flamengo,False,False,first
+366,2005-10-22,Atlético-PR,2,0,Atlético-MG,False,False,first
+367,2005-10-22,Botafogo,2,0,Coritiba,False,False,first
+368,2005-10-22,Cruzeiro,4,3,Paysandu,False,False,first
+369,2005-10-22,Corinthians,1,0,Paraná,False,False,first
+370,2005-10-24,São Paulo,1,1,Corinthians,False,False,first
+371,2005-10-24,Fluminense,1,1,Brasiliense,False,False,first
+372,2005-10-25,Coritiba,0,3,Cruzeiro,False,False,first
+373,2005-10-25,Goiás,0,1,Internacional,False,False,first
+374,2005-10-26,Juventude,2,2,Flamengo,False,False,first
+375,2005-10-26,Vasco da Gama,1,3,Santos,False,False,first
+376,2005-10-26,Atlético-MG,2,3,Fortaleza,False,False,first
+377,2005-10-26,Palmeiras,2,2,Figueirense,False,False,first
+378,2005-10-27,Ponte Preta,0,1,Botafogo,False,False,first
+379,2005-10-27,Fluminense,4,1,Atlético-PR,False,False,first
+380,2005-10-27,São Paulo,1,2,Brasiliense,False,False,first
+381,2005-10-27,Paysandu,0,2,Corinthians,False,False,first
+382,2005-10-28,Paraná,1,3,São Caetano,False,False,first
+383,2005-10-28,Internacional,3,2,Coritiba,False,False,first
+384,2005-10-29,Fortaleza,1,1,Goiás,False,False,first
+385,2005-10-29,Figueirense,4,3,Juventude,False,False,first
+386,2005-10-30,Santos,1,2,Cruzeiro,False,False,first
+387,2005-10-30,São Caetano,0,1,São Paulo,False,False,first
+388,2005-10-30,Atlético-PR,2,1,Paraná,False,False,first
+389,2005-10-30,Fluminense,4,3,Ponte Preta,False,False,first
+390,2005-10-30,Atlético-MG,1,3,Palmeiras,False,False,first
+391,2005-10-30,Corinthians,1,1,Vasco da Gama,False,False,first
+392,2005-10-30,Brasiliense,0,0,Botafogo,False,False,first
+393,2005-10-31,Flamengo,2,1,Coritiba,False,False,first
+394,2005-10-31,Internacional,1,0,Paysandu,False,False,first
+395,2005-11-02,São Paulo,2,2,Atlético-MG,False,False,first
+396,2005-11-02,Juventude,2,0,Fortaleza,False,False,first
+397,2005-11-02,Ponte Preta,2,1,Santos,False,False,first
+398,2005-11-02,Goiás,1,2,Fluminense,False,False,first
+399,2005-11-02,Cruzeiro,2,1,Corinthians,False,False,first
+400,2005-11-03,Paysandu,2,1,Brasiliense,False,False,first
+401,2005-11-03,Vasco da Gama,2,1,Atlético-PR,False,False,first
+402,2005-11-03,Coritiba,4,1,Figueirense,False,False,first
+403,2005-11-03,Botafogo,1,0,São Caetano,False,False,first
+404,2005-11-03,Palmeiras,0,1,Flamengo,False,False,first
+405,2005-11-03,Paraná,3,1,Internacional,False,False,first
+406,2005-11-05,São Paulo,3,1,Juventude,False,False,first
+407,2005-11-05,Fortaleza,3,1,Cruzeiro,False,False,first
+408,2005-11-06,Internacional,2,1,Ponte Preta,False,False,first
+409,2005-11-06,Paraná,2,0,Paysandu,False,False,first
+410,2005-11-06,São Caetano,1,2,Vasco da Gama,False,False,first
+411,2005-11-06,Flamengo,3,1,Botafogo,False,False,first
+412,2005-11-06,Atlético-PR,4,0,Palmeiras,False,False,first
+413,2005-11-06,Fluminense,2,0,Figueirense,False,False,first
+414,2005-11-06,Atlético-MG,1,2,Goiás,False,False,first
+415,2005-11-06,Corinthians,7,1,Santos,False,False,first
+416,2005-11-06,Brasiliense,1,1,Coritiba,False,False,first
+417,2005-11-12,Figueirense,1,0,Fortaleza,False,False,first
+418,2005-11-12,Botafogo,2,0,Paraná,False,False,first
+419,2005-11-12,Paysandu,0,2,Atlético-MG,False,False,first
+420,2005-11-12,Palmeiras,2,1,São Paulo,False,False,first
+421,2005-11-13,Santos,0,4,Internacional,False,False,first
+422,2005-11-13,Juventude,3,1,São Caetano,False,False,first
+423,2005-11-13,Ponte Preta,2,2,Flamengo,False,False,first
+424,2005-11-13,Vasco da Gama,2,0,Fluminense,False,False,first
+425,2005-11-13,Coritiba,0,1,Corinthians,False,False,first
+426,2005-11-13,Cruzeiro,1,0,Brasiliense,False,False,first
+427,2005-11-13,Goiás,4,2,Atlético-PR,False,False,first
+428,2005-11-16,Santos,0,0,Paraná,False,False,first
+429,2005-11-16,Internacional,1,0,Brasiliense,False,False,first
+430,2005-11-16,Figueirense,5,1,Vasco da Gama,False,False,first
+431,2005-11-16,São Caetano,1,0,Corinthians,False,False,first
+432,2005-11-16,Flamengo,3,0,Fortaleza,False,False,first
+433,2005-11-16,Palmeiras,3,2,Juventude,False,False,first
+434,2005-11-16,Goiás,3,0,São Paulo,False,False,first
+435,2005-11-17,Fluminense,0,2,Atlético-MG,False,False,first
+436,2005-11-17,Cruzeiro,1,2,Atlético-PR,False,False,first
+437,2005-11-17,Paysandu,2,0,Botafogo,False,False,first
+438,2005-11-17,Coritiba,2,1,Ponte Preta,False,False,first
+439,2005-11-19,São Paulo,4,2,Figueirense,False,False,first
+440,2005-11-19,Juventude,2,1,Goiás,False,False,first
+441,2005-11-19,Brasiliense,1,0,Santos,False,False,first
+442,2005-11-20,Paraná,0,1,Flamengo,False,False,first
+443,2005-11-20,Ponte Preta,2,6,Palmeiras,False,False,first
+444,2005-11-20,Fortaleza,5,1,Fluminense,False,False,first
+445,2005-11-20,Vasco da Gama,4,0,Paysandu,False,False,first
+446,2005-11-20,Atlético-PR,2,2,São Caetano,False,False,first
+447,2005-11-20,Botafogo,2,1,Cruzeiro,False,False,first
+448,2005-11-20,Atlético-MG,1,0,Coritiba,False,False,first
+449,2005-11-20,Corinthians,1,1,Internacional,False,False,first
+450,2005-11-27,Santos,2,1,Botafogo,False,False,first
+451,2005-11-27,Internacional,2,1,Palmeiras,False,False,first
+452,2005-11-27,Paraná,2,0,Cruzeiro,False,False,first
+453,2005-11-27,São Caetano,1,1,Coritiba,False,False,first
+454,2005-11-27,Fortaleza,1,0,São Paulo,False,False,first
+455,2005-11-27,Flamengo,0,0,Goiás,False,False,first
+456,2005-11-27,Atlético-PR,3,2,Paysandu,False,False,first
+457,2005-11-27,Fluminense,1,2,Juventude,False,False,first
+458,2005-11-27,Atlético-MG,0,0,Vasco da Gama,False,False,first
+459,2005-11-27,Corinthians,3,1,Ponte Preta,False,False,first
+460,2005-11-27,Brasiliense,0,2,Figueirense,False,False,first
+461,2005-12-04,São Paulo,3,1,Atlético-PR,False,False,first
+462,2005-12-04,Juventude,1,3,Atlético-MG,False,False,first
+463,2005-12-04,Figueirense,3,1,Santos,False,False,first
+464,2005-12-04,Ponte Preta,3,1,Brasiliense,False,False,first
+465,2005-12-04,Paysandu,1,4,Flamengo,False,False,first
+466,2005-12-04,Vasco da Gama,3,1,Paraná,False,False,first
+467,2005-12-04,Coritiba,1,0,Internacional,False,False,first
+468,2005-12-04,Botafogo,2,0,Fortaleza,False,False,first
+469,2005-12-04,Cruzeiro,1,3,São Caetano,False,False,first
+470,2005-12-04,Palmeiras,3,2,Fluminense,False,False,first
+471,2005-12-04,Goiás,3,2,Corinthians,False,False,first

@@ -1,0 +1,217 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+0,1992-01-26,Corinthians,1,4,Vasco da Gama,False,False,first
+1,1992-01-26,Botafogo,3,1,Atlético-PR,False,False,first
+2,1992-01-26,Cruzeiro,2,0,Guarani,False,False,first
+3,1992-01-26,Náutico,0,0,Sport,False,False,first
+4,1992-01-26,Paysandu,2,1,Goiás,False,False,first
+5,1992-01-27,Portuguesa,2,2,Fluminense,False,False,first
+6,1992-01-27,Internacional,0,1,Bragantino,False,False,first
+7,1992-01-29,Palmeiras,1,1,Atlético-MG,False,False,first
+8,1992-01-29,Santos,1,1,São Paulo,False,False,first
+9,1992-01-29,Bahia,1,1,Flamengo,False,False,first
+10,1992-02-01,Internacional,4,1,Palmeiras,False,False,first
+11,1992-02-01,Atlético-MG,0,2,Botafogo,False,False,first
+12,1992-02-02,Corinthians,1,1,Santos,False,False,first
+13,1992-02-02,Bragantino,0,0,São Paulo,False,False,first
+14,1992-02-02,Fluminense,1,0,Paysandu,False,False,first
+15,1992-02-02,Sport,0,0,Cruzeiro,False,False,first
+16,1992-02-02,Atlético-PR,0,0,Náutico,False,False,first
+17,1992-02-02,Guarani,1,3,Flamengo,False,False,first
+18,1992-02-02,Bahia,2,1,Portuguesa,False,False,first
+19,1992-02-02,Vasco da Gama,1,1,Goiás,False,False,first
+20,1992-02-08,Palmeiras,3,0,Fluminense,False,False,first
+21,1992-02-08,Goiás,1,0,Santos,False,False,first
+22,1992-02-09,Botafogo,2,2,Flamengo,False,False,first
+23,1992-02-09,São Paulo,2,1,Bahia,False,False,first
+24,1992-02-09,Portuguesa,1,1,Internacional,False,False,first
+25,1992-02-09,Bragantino,0,0,Sport,False,False,first
+26,1992-02-09,Paysandu,1,0,Cruzeiro,False,False,first
+27,1992-02-09,Náutico,2,0,Guarani,False,False,first
+28,1992-02-10,Atlético-MG,0,1,Corinthians,False,False,first
+29,1992-02-10,Atlético-PR,0,2,Vasco da Gama,False,False,first
+30,1992-02-15,Palmeiras,1,2,Flamengo,False,False,first
+31,1992-02-15,São Paulo,2,0,Atlético-MG,False,False,first
+32,1992-02-15,Atlético-PR,0,2,Portuguesa,False,False,first
+33,1992-02-16,Corinthians,2,0,Náutico,False,False,first
+34,1992-02-16,Vasco da Gama,2,0,Paysandu,False,False,first
+35,1992-02-16,Cruzeiro,3,0,Bragantino,False,False,first
+36,1992-02-16,Sport,1,0,Botafogo,False,False,first
+37,1992-02-16,Bahia,1,1,Goiás,False,False,first
+38,1992-02-17,Santos,1,0,Guarani,False,False,first
+39,1992-02-17,Internacional,1,0,Fluminense,False,False,first
+40,1992-02-19,Flamengo,3,2,São Paulo,False,False,first
+41,1992-02-19,Portuguesa,3,2,Corinthians,False,False,first
+42,1992-02-19,Bragantino,1,0,Palmeiras,False,False,first
+43,1992-02-19,Botafogo,3,1,Bahia,False,False,first
+44,1992-02-19,Goiás,0,0,Atlético-MG,False,False,first
+45,1992-02-20,Vasco da Gama,1,1,Fluminense,False,False,first
+46,1992-02-20,Santos,2,1,Paysandu,False,False,first
+47,1992-02-20,Cruzeiro,4,0,Atlético-PR,False,False,first
+48,1992-02-20,Guarani,1,3,Sport,False,False,first
+49,1992-02-20,Náutico,2,2,Internacional,False,False,first
+50,1992-02-22,Botafogo,2,4,Corinthians,False,False,first
+51,1992-02-23,Atlético-MG,0,4,Vasco da Gama,False,False,first
+52,1992-02-23,Fluminense,4,0,Santos,False,False,first
+53,1992-02-23,São Paulo,0,1,Guarani,False,False,first
+54,1992-02-23,Paysandu,0,0,Palmeiras,False,False,first
+55,1992-02-23,Goiás,1,2,Internacional,False,False,first
+56,1992-02-23,Bragantino,1,0,Náutico,False,False,first
+57,1992-02-23,Bahia,2,3,Atlético-PR,False,False,first
+58,1992-02-24,Flamengo,1,2,Cruzeiro,False,False,first
+59,1992-02-24,Sport,0,0,Portuguesa,False,False,first
+60,1992-03-07,Santos,2,0,Flamengo,False,False,first
+61,1992-03-07,Corinthians,0,0,Sport,False,False,first
+62,1992-03-07,Portuguesa,0,1,Bragantino,False,False,first
+63,1992-03-08,São Paulo,0,4,Palmeiras,False,False,first
+64,1992-03-08,Internacional,2,0,Atlético-MG,False,False,first
+65,1992-03-08,Fluminense,2,1,Bahia,False,False,first
+66,1992-03-08,Atlético-PR,2,0,Goiás,False,False,first
+67,1992-03-08,Náutico,5,1,Paysandu,False,False,first
+68,1992-03-09,Vasco da Gama,1,2,Guarani,False,False,first
+69,1992-03-09,Cruzeiro,1,1,Botafogo,False,False,first
+70,1992-03-11,Internacional,1,0,São Paulo,False,False,first
+71,1992-03-11,Atlético-MG,1,1,Flamengo,False,False,first
+72,1992-03-11,Guarani,1,0,Palmeiras,False,False,first
+73,1992-03-11,Sport,2,2,Santos,False,False,first
+74,1992-03-11,Goiás,2,2,Fluminense,False,False,first
+75,1992-03-11,Paysandu,3,2,Portuguesa,False,False,first
+76,1992-03-11,Bragantino,1,1,Atlético-PR,False,False,first
+77,1992-03-12,Corinthians,0,0,Cruzeiro,False,False,first
+78,1992-03-12,Vasco da Gama,3,1,Bahia,False,False,first
+79,1992-03-12,Botafogo,3,2,Náutico,False,False,first
+80,1992-03-14,Flamengo,0,1,Bragantino,False,False,first
+81,1992-03-14,Atlético-MG,2,3,Atlético-PR,False,False,first
+82,1992-03-15,Fluminense,1,2,Botafogo,False,False,first
+83,1992-03-15,Palmeiras,1,2,Vasco da Gama,False,False,first
+84,1992-03-15,Goiás,4,2,Náutico,False,False,first
+85,1992-03-15,Sport,3,0,Paysandu,False,False,first
+86,1992-03-16,Internacional,2,0,Cruzeiro,False,False,first
+87,1992-03-16,Santos,2,0,Portuguesa,False,False,first
+88,1992-03-18,Bahia,0,0,Guarani,False,False,first
+89,1992-03-25,São Paulo,0,0,Corinthians,False,False,first
+90,1992-03-21,Paysandu,1,2,Corinthians,False,False,first
+91,1992-03-21,Náutico,0,0,Flamengo,False,False,first
+92,1992-03-22,Vasco da Gama,1,0,Sport,False,False,first
+93,1992-03-22,Fluminense,1,0,Atlético-MG,False,False,first
+94,1992-03-22,Santos,0,1,Bragantino,False,False,first
+95,1992-03-22,Portuguesa,1,2,Guarani,False,False,first
+96,1992-03-22,Cruzeiro,2,0,Goiás,False,False,first
+97,1992-03-23,Botafogo,2,0,Palmeiras,False,False,first
+98,1992-03-23,São Paulo,5,0,Atlético-PR,False,False,first
+99,1992-03-23,Internacional,1,1,Bahia,False,False,first
+100,1992-03-28,Portuguesa,1,3,Botafogo,False,False,first
+101,1992-03-29,Vasco da Gama,4,2,Flamengo,False,False,first
+102,1992-03-29,Palmeiras,1,2,Corinthians,False,False,first
+103,1992-03-29,Atlético-MG,2,0,Cruzeiro,False,False,first
+104,1992-03-29,Sport,0,0,São Paulo,False,False,first
+105,1992-03-29,Guarani,0,0,Goiás,False,False,first
+106,1992-03-29,Bahia,3,0,Náutico,False,False,first
+107,1992-03-29,Bragantino,3,1,Paysandu,False,False,first
+108,1992-03-30,Santos,4,0,Internacional,False,False,first
+109,1992-03-30,Atlético-PR,1,0,Fluminense,False,False,first
+110,1992-04-04,Cruzeiro,0,2,São Paulo,False,False,first
+111,1992-04-04,Paysandu,0,2,Botafogo,False,False,first
+112,1992-04-05,Flamengo,2,0,Atlético-PR,False,False,first
+113,1992-04-05,Fluminense,3,0,Bragantino,False,False,first
+114,1992-04-05,Guarani,1,0,Internacional,False,False,first
+115,1992-04-05,Náutico,0,4,Atlético-MG,False,False,first
+116,1992-04-05,Goiás,5,2,Sport,False,False,first
+117,1992-04-06,Palmeiras,1,1,Santos,False,False,first
+118,1992-04-06,Portuguesa,1,1,Vasco da Gama,False,False,first
+119,1992-04-06,Bahia,0,2,Corinthians,False,False,first
+120,1992-04-11,Santos,0,0,Atlético-MG,False,False,first
+121,1992-04-11,São Paulo,1,0,Fluminense,False,False,first
+122,1992-04-12,Corinthians,1,3,Flamengo,False,False,first
+123,1992-04-12,Botafogo,1,2,Vasco da Gama,False,False,first
+124,1992-04-12,Portuguesa,0,2,Palmeiras,False,False,first
+125,1992-04-12,Cruzeiro,0,0,Náutico,False,False,first
+126,1992-04-12,Sport,0,1,Bahia,False,False,first
+127,1992-04-12,Paysandu,3,0,Guarani,False,False,first
+128,1992-04-13,Internacional,1,1,Atlético-PR,False,False,first
+129,1992-04-13,Bragantino,2,0,Goiás,False,False,first
+130,1992-04-18,Guarani,1,0,Corinthians,False,False,first
+131,1992-04-18,São Paulo,0,1,Portuguesa,False,False,first
+132,1992-04-18,Bahia,0,1,Palmeiras,False,False,first
+133,1992-04-19,Fluminense,1,1,Flamengo,False,False,first
+134,1992-04-19,Botafogo,6,0,Goiás,False,False,first
+135,1992-04-19,Atlético-MG,2,1,Bragantino,False,False,first
+136,1992-04-19,Paysandu,0,1,Internacional,False,False,first
+137,1992-04-20,Náutico,0,2,Santos,False,False,first
+138,1992-04-20,Atlético-PR,1,1,Sport,False,False,first
+139,1992-05-06,Vasco da Gama,0,1,Cruzeiro,False,False,first
+140,1992-04-25,Bragantino,0,0,Vasco da Gama,False,False,first
+141,1992-04-25,Goiás,1,1,São Paulo,False,False,first
+142,1992-04-26,Corinthians,1,1,Internacional,False,False,first
+143,1992-04-26,Palmeiras,1,0,Cruzeiro,False,False,first
+144,1992-04-26,Botafogo,2,0,Santos,False,False,first
+145,1992-04-26,Flamengo,1,2,Sport,False,False,first
+146,1992-04-26,Atlético-MG,1,0,Portuguesa,False,False,first
+147,1992-04-26,Bahia,4,0,Paysandu,False,False,first
+148,1992-04-27,Náutico,1,1,Fluminense,False,False,first
+149,1992-04-27,Atlético-PR,1,1,Guarani,False,False,first
+150,1992-05-02,Internacional,0,2,Botafogo,False,False,first
+151,1992-05-02,Santos,2,2,Atlético-PR,False,False,first
+152,1992-05-02,Palmeiras,3,0,Goiás,False,False,first
+153,1992-05-03,São Paulo,1,0,Vasco da Gama,False,False,first
+154,1992-05-03,Fluminense,0,0,Guarani,False,False,first
+155,1992-05-03,Flamengo,4,1,Paysandu,False,False,first
+156,1992-05-03,Cruzeiro,1,1,Bahia,False,False,first
+157,1992-05-03,Sport,0,0,Atlético-MG,False,False,first
+158,1992-05-03,Portuguesa,3,1,Náutico,False,False,first
+159,1992-05-04,Bragantino,1,1,Corinthians,False,False,first
+160,1992-05-09,Santos,1,2,Cruzeiro,False,False,first
+161,1992-05-09,Goiás,4,2,Corinthians,False,False,first
+162,1992-05-09,Portuguesa,1,1,Flamengo,False,False,first
+163,1992-05-10,São Paulo,3,0,Botafogo,False,False,first
+164,1992-05-10,Vasco da Gama,2,0,Internacional,False,False,first
+165,1992-05-10,Guarani,2,0,Bragantino,False,False,first
+166,1992-05-10,Fluminense,1,1,Sport,False,False,first
+167,1992-05-10,Atlético-MG,1,0,Bahia,False,False,first
+168,1992-05-10,Atlético-PR,3,2,Paysandu,False,False,first
+169,1992-05-11,Náutico,1,0,Palmeiras,False,False,first
+170,1992-05-23,Corinthians,1,0,Fluminense,False,False,first
+171,1992-05-23,Paysandu,3,0,São Paulo,False,False,first
+172,1992-05-24,Botafogo,0,2,Bragantino,False,False,first
+173,1992-05-24,Palmeiras,1,0,Atlético-PR,False,False,first
+174,1992-05-24,Flamengo,3,1,Goiás,False,False,first
+175,1992-05-24,Guarani,0,1,Atlético-MG,False,False,first
+176,1992-05-24,Cruzeiro,1,1,Portuguesa,False,False,first
+177,1992-05-24,Internacional,0,0,Sport,False,False,first
+178,1992-05-25,Bahia,0,2,Santos,False,False,first
+179,1992-05-25,Náutico,1,1,Vasco da Gama,False,False,first
+180,1992-05-26,Fluminense,1,1,Cruzeiro,False,False,first
+181,1992-05-31,Vasco da Gama,0,0,Santos,False,False,first
+182,1992-05-31,Flamengo,2,0,Internacional,False,False,first
+183,1992-05-31,São Paulo,2,0,Náutico,False,False,first
+184,1992-05-31,Atlético-PR,0,1,Corinthians,False,False,first
+185,1992-05-31,Guarani,2,1,Botafogo,False,False,first
+186,1992-05-31,Sport,0,2,Palmeiras,False,False,first
+187,1992-05-31,Bragantino,0,0,Bahia,False,False,first
+188,1992-05-31,Goiás,1,1,Portuguesa,False,False,first
+189,1992-05-31,Atlético-MG,0,0,Paysandu,False,False,first
+190,1992-06-07,Vasco da Gama,3,3,Santos,False,False,second
+191,1992-06-14,Flamengo,1,0,São Paulo,False,False,second
+192,1992-06-20,Santos,1,0,Flamengo,False,False,second
+193,1992-06-21,São Paulo,2,2,Vasco da Gama,False,False,second
+194,1992-06-27,Santos,1,1,São Paulo,False,False,second
+195,1992-06-28,Flamengo,1,1,Vasco da Gama,False,False,second
+196,1992-07-01,São Paulo,1,0,Santos,False,False,second
+197,1992-07-01,Vasco da Gama,0,2,Flamengo,False,False,second
+198,1992-07-04,São Paulo,2,0,Flamengo,False,False,second
+199,1992-07-05,Santos,1,1,Vasco da Gama,False,False,second
+200,1992-07-08,Vasco da Gama,3,0,São Paulo,False,False,second
+201,1992-07-08,Flamengo,3,1,Santos,False,False,second
+202,1992-06-06,Botafogo,2,1,Cruzeiro,False,False,second
+203,1992-06-07,Bragantino,2,1,Corinthians,False,False,second
+204,1992-06-13,Corinthians,0,1,Botafogo,False,False,second
+205,1992-06-13,Cruzeiro,1,0,Bragantino,False,False,second
+206,1992-06-20,Cruzeiro,1,3,Corinthians,False,False,second
+207,1992-06-21,Bragantino,1,1,Botafogo,False,False,second
+208,1992-06-27,Botafogo,0,1,Bragantino,False,False,second
+209,1992-07-28,Corinthians,3,1,Cruzeiro,False,False,second
+210,1992-07-04,Cruzeiro,1,2,Botafogo,False,False,second
+211,1992-07-05,Corinthians,1,1,Bragantino,False,False,second
+212,1992-07-09,Botafogo,1,0,Corinthians,False,False,second
+213,1992-07-09,Bragantino,1,0,Cruzeiro,False,False,second
+214,1992-07-12,Flamengo,3,0,Botafogo,False,False,final
+215,1992-07-19,Botafogo,2,2,Flamengo,False,False,final
