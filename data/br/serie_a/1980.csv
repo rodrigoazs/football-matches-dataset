@@ -1,0 +1,307 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+0,1980-02-23,Corinthians,3,2,Joinville,False,False,first
+1,1980-02-24,Colorado,2,0,CRB,False,False,first
+2,1980-02-24,Portuguesa,1,0,Bahia,False,False,first
+3,1980-02-24,Operário-MS,1,1,Cruzeiro,False,False,first
+4,1980-02-24,Remo,1,3,Botafogo-RJ,False,False,first
+5,1980-02-27,Botafogo-RJ,4,0,Portuguesa,False,False,first
+6,1980-02-27,Cruzeiro,0,0,Remo,False,False,first
+7,1980-02-27,CRB,2,0,Joinville,False,False,first
+8,1980-02-27,Bahia,2,3,Corinthians,False,False,first
+9,1980-02-27,Colorado,2,0,Operário-MS,False,False,first
+10,1980-03-01,Bahia,1,0,CRB,False,False,first
+11,1980-03-01,Cruzeiro,0,0,Colorado,False,False,first
+12,1980-03-02,Corinthians,2,0,Botafogo-RJ,False,False,first
+13,1980-03-02,Joinville,4,1,Portuguesa,False,False,first
+14,1980-03-02,Operário-MS,0,1,Remo,False,False,first
+15,1980-03-05,Botafogo-RJ,3,1,CRB,False,False,first
+16,1980-03-05,Operário-MS,0,1,Corinthians,False,False,first
+17,1980-03-05,Remo,1,1,Bahia,False,False,first
+18,1980-03-05,Joinville,1,1,Colorado,False,False,first
+19,1980-03-12,Portuguesa,0,3,Cruzeiro,False,False,first
+20,1980-03-08,Cruzeiro,2,1,Joinville,False,False,first
+21,1980-03-09,Colorado,1,0,Remo,False,False,first
+22,1980-03-09,CRB,1,3,Operário-MS,False,False,first
+23,1980-03-09,Bahia,3,2,Botafogo-RJ,False,False,first
+24,1980-03-09,Corinthians,0,0,Portuguesa,False,False,first
+25,1980-03-12,Joinville,3,0,Remo,False,False,first
+26,1980-03-15,Botafogo-RJ,2,0,Colorado,False,False,first
+27,1980-03-16,Corinthians,3,1,Cruzeiro,False,False,first
+28,1980-03-16,CRB,4,1,Portuguesa,False,False,first
+29,1980-03-16,Operário-MS,1,0,Bahia,False,False,first
+30,1980-03-19,Remo,1,0,Corinthians,False,False,first
+31,1980-03-19,Botafogo-RJ,1,1,Operário-MS,False,False,first
+32,1980-03-19,Bahia,0,0,Joinville,False,False,first
+33,1980-03-20,Portuguesa,3,1,Colorado,False,False,first
+34,1980-03-20,Cruzeiro,0,0,CRB,False,False,first
+35,1980-03-23,Joinville,4,0,Operário-MS,False,False,first
+36,1980-03-23,Portuguesa,0,1,Remo,False,False,first
+37,1980-03-23,Colorado,1,0,Bahia,False,False,first
+38,1980-03-23,CRB,1,2,Corinthians,False,False,first
+39,1980-03-23,Cruzeiro,2,1,Botafogo-RJ,False,False,first
+40,1980-03-30,Remo,1,0,CRB,False,False,first
+41,1980-03-30,Operário-MS,2,1,Portuguesa,False,False,first
+42,1980-03-30,Bahia,3,0,Cruzeiro,False,False,first
+43,1980-03-30,Corinthians,4,1,Colorado,False,False,first
+44,1980-03-30,Botafogo-RJ,0,0,Joinville,False,False,first
+45,1980-02-24,Palmeiras,1,1,Vitória,False,False,first
+46,1980-02-24,Ceará,2,1,Flamengo-PI,False,False,first
+47,1980-02-24,Desportiva,1,0,Guarani,False,False,first
+48,1980-02-24,América-RN,1,0,Vila Nova,False,False,first
+49,1980-02-24,Fluminense,2,3,Atlético-MG,False,False,first
+50,1980-02-27,Ceará,1,1,América-RN,False,False,first
+51,1980-02-27,Guarani,1,2,Fluminense,False,False,first
+52,1980-02-27,Flamengo-PI,0,0,Vitória,False,False,first
+53,1980-02-27,Vila Nova,1,0,Desportiva,False,False,first
+54,1980-02-27,Atlético-MG,2,0,Palmeiras,False,False,first
+55,1980-03-02,Palmeiras,0,0,Guarani,False,False,first
+56,1980-03-02,Vitória,1,1,Fluminense,False,False,first
+57,1980-03-02,Vila Nova,0,0,Ceará,False,False,first
+58,1980-03-02,América-RN,1,1,Desportiva,False,False,first
+59,1980-03-02,Atlético-MG,2,0,Flamengo-PI,False,False,first
+60,1980-03-05,Fluminense,4,0,Vila Nova,False,False,first
+61,1980-03-05,Desportiva,1,4,Atlético-MG,False,False,first
+62,1980-03-05,Guarani,3,0,Flamengo-PI,False,False,first
+63,1980-03-05,Vitória,0,5,Ceará,False,False,first
+64,1980-03-06,Palmeiras,4,1,América-RN,False,False,first
+65,1980-03-09,Atlético-MG,2,0,Guarani,False,False,first
+66,1980-03-09,Flamengo-PI,3,0,América-RN,False,False,first
+67,1980-03-09,Ceará,0,0,Desportiva,False,False,first
+68,1980-03-09,Fluminense,0,0,Palmeiras,False,False,first
+69,1980-03-15,Palmeiras,4,0,Vila Nova,False,False,first
+70,1980-03-16,Guarani,1,0,Ceará,False,False,first
+71,1980-03-16,Flamengo-PI,2,2,Fluminense,False,False,first
+72,1980-03-16,América-RN,0,0,Atlético-MG,False,False,first
+73,1980-03-16,Vitória,4,2,Desportiva,False,False,first
+74,1980-03-19,Atlético-MG,5,1,Vitória,False,False,first
+75,1980-03-19,Desportiva,1,0,Palmeiras,False,False,first
+76,1980-03-19,Vila Nova,2,1,Flamengo-PI,False,False,first
+77,1980-03-19,Fluminense,4,2,Ceará,False,False,first
+78,1980-03-20,Guarani,1,1,América-RN,False,False,first
+79,1980-03-22,Fluminense,3,1,Desportiva,False,False,first
+80,1980-03-23,Flamengo-PI,1,4,Palmeiras,False,False,first
+81,1980-03-23,Vitória,8,1,América-RN,False,False,first
+82,1980-03-23,Ceará,2,1,Atlético-MG,False,False,first
+83,1980-03-23,Vila Nova,1,1,Guarani,False,False,first
+84,1980-03-30,Palmeiras,3,1,Ceará,False,False,first
+85,1980-03-30,América-RN,0,0,Fluminense,False,False,first
+86,1980-03-30,Atlético-MG,3,1,Vila Nova,False,False,first
+87,1980-03-30,Guarani,2,0,Vitória,False,False,first
+88,1980-03-30,Desportiva,3,1,Flamengo-PI,False,False,first
+89,1980-02-23,Internacional,1,2,Itabaiana,False,False,first
+90,1980-02-24,Santos,0,1,Flamengo-RJ,False,False,first
+91,1980-02-24,São Paulo-RS,3,2,Botafogo-PB,False,False,first
+92,1980-02-24,Náutico,0,0,Ferroviário,False,False,first
+93,1980-02-24,Mixto,1,3,Ponte Preta,False,False,first
+94,1980-02-27,Botafogo-PB,2,1,Itabaiana,False,False,first
+95,1980-02-27,Internacional,3,1,Mixto,False,False,first
+96,1980-02-27,Ferroviário,1,1,Santos,False,False,first
+97,1980-03-12,São Paulo-RS,1,1,Náutico,False,False,first
+98,1980-03-01,Náutico,0,1,Botafogo-PB,False,False,first
+99,1980-03-02,São Paulo-RS,1,1,Mixto,False,False,first
+100,1980-03-02,Itabaiana,0,2,Santos,False,False,first
+101,1980-03-02,Ponte Preta,0,0,Ferroviário,False,False,first
+102,1980-03-02,Flamengo-RJ,1,0,Internacional,False,False,first
+103,1980-03-05,Santos,2,1,Ponte Preta,False,False,first
+104,1980-03-05,Internacional,3,2,Ferroviário,False,False,first
+105,1980-03-05,Itabaiana,2,0,São Paulo-RS,False,False,first
+106,1980-03-05,Mixto,3,1,Náutico,False,False,first
+107,1980-03-06,Flamengo-RJ,1,2,Botafogo-PB,False,False,first
+108,1980-03-08,Náutico,0,2,Internacional,False,False,first
+109,1980-03-08,Ferroviário,2,1,Itabaiana,False,False,first
+110,1980-03-09,Santos,2,0,São Paulo-RS,False,False,first
+111,1980-03-09,Mixto,0,2,Flamengo-RJ,False,False,first
+112,1980-03-23,Ponte Preta,6,2,Botafogo-PB,False,False,first
+113,1980-03-12,Ponte Preta,3,1,Itabaiana,False,False,first
+114,1980-03-12,Flamengo-RJ,2,1,Ferroviário,False,False,first
+115,1980-03-16,Itabaiana,3,2,Mixto,False,False,first
+116,1980-03-16,Ferroviário,1,0,São Paulo-RS,False,False,first
+117,1980-03-16,Internacional,1,0,Ponte Preta,False,False,first
+118,1980-03-16,Náutico,2,2,Flamengo-RJ,False,False,first
+119,1980-03-16,Botafogo-PB,0,3,Santos,False,False,first
+120,1980-03-13,Botafogo-PB,2,1,Internacional,False,False,first
+121,1980-03-19,Ponte Preta,4,0,São Paulo-RS,False,False,first
+122,1980-03-19,Ferroviário,1,2,Mixto,False,False,first
+123,1980-03-20,Flamengo-RJ,5,0,Itabaiana,False,False,first
+124,1980-03-23,Santos,4,1,Náutico,False,False,first
+125,1980-03-23,São Paulo-RS,0,0,Flamengo-RJ,False,False,first
+126,1980-03-26,Ponte Preta,1,2,Náutico,False,False,first
+127,1980-03-27,Santos,1,0,Internacional,False,False,first
+128,1980-03-27,Botafogo-PB,2,0,Mixto,False,False,first
+129,1980-03-30,Mixto,1,2,Santos,False,False,first
+130,1980-03-30,Internacional,2,1,São Paulo-RS,False,False,first
+131,1980-03-30,Ferroviário,1,1,Botafogo-PB,False,False,first
+132,1980-03-30,Itabaiana,0,5,Náutico,False,False,first
+133,1980-03-30,Flamengo-RJ,2,2,Ponte Preta,False,False,first
+134,1980-02-23,Vasco da Gama,1,0,América-RJ,False,False,first
+135,1980-02-24,Gama,2,0,Maranhão,False,False,first
+136,1980-02-24,Grêmio,0,0,São Paulo-SP,False,False,first
+137,1980-02-24,Atlético-GO,1,1,Coritiba,False,False,first
+138,1980-02-24,Nacional,0,2,Santa Cruz,False,False,first
+139,1980-02-27,Gama,0,2,Nacional,False,False,first
+140,1980-02-27,Coritiba,2,2,Grêmio,False,False,first
+141,1980-02-27,Santa Cruz,3,1,Atlético-GO,False,False,first
+142,1980-02-27,Maranhão,0,1,América-RJ,False,False,first
+143,1980-02-27,São Paulo-SP,1,2,Vasco da Gama,False,False,first
+144,1980-03-01,América-RJ,2,4,Grêmio,False,False,first
+145,1980-03-01,São Paulo-SP,2,0,Maranhão,False,False,first
+146,1980-03-02,Nacional,0,0,Atlético-GO,False,False,first
+147,1980-03-02,Santa Cruz,1,1,Gama,False,False,first
+148,1980-03-02,Vasco da Gama,0,1,Coritiba,False,False,first
+149,1980-03-05,Vasco da Gama,1,0,Nacional,False,False,first
+150,1980-03-05,Coritiba,2,0,Maranhão,False,False,first
+151,1980-03-06,Grêmio,0,0,Santa Cruz,False,False,first
+152,1980-03-06,América-RJ,0,0,Gama,False,False,first
+153,1980-03-26,Atlético-GO,0,0,São Paulo-SP,False,False,first
+154,1980-03-08,São Paulo-SP,5,3,Coritiba,False,False,first
+155,1980-03-09,Santa Cruz,2,1,América-RJ,False,False,first
+156,1980-03-09,Grêmio,3,1,Vasco da Gama,False,False,first
+157,1980-03-09,Gama,1,1,Atlético-GO,False,False,first
+158,1980-03-12,Maranhão,0,0,Nacional,False,False,first
+159,1980-03-15,América-RJ,1,1,Atlético-GO,False,False,first
+160,1980-03-16,Coritiba,2,1,Gama,False,False,first
+161,1980-03-16,Vasco da Gama,2,0,Santa Cruz,False,False,first
+162,1980-03-16,Nacional,2,2,São Paulo-SP,False,False,first
+163,1980-03-16,Maranhão,1,1,Grêmio,False,False,first
+164,1980-03-12,Atlético-GO,1,0,Vasco da Gama,False,False,first
+165,1980-03-19,Grêmio,5,1,Gama,False,False,first
+166,1980-03-19,São Paulo-SP,2,0,América-RJ,False,False,first
+167,1980-03-19,Coritiba,3,0,Nacional,False,False,first
+168,1980-03-19,Santa Cruz,1,1,Maranhão,False,False,first
+169,1980-03-23,Gama,2,2,São Paulo-SP,False,False,first
+170,1980-03-23,América-RJ,4,0,Nacional,False,False,first
+171,1980-03-23,Grêmio,0,1,Atlético-GO,False,False,first
+172,1980-03-23,Santa Cruz,2,1,Coritiba,False,False,first
+173,1980-03-26,Maranhão,0,0,Vasco da Gama,False,False,first
+174,1980-03-30,Atlético-GO,5,1,Maranhão,False,False,first
+175,1980-03-30,São Paulo-SP,3,1,Santa Cruz,False,False,first
+176,1980-03-30,Coritiba,1,0,América-RJ,False,False,first
+177,1980-03-30,Nacional,0,3,Grêmio,False,False,first
+178,1980-03-30,Vasco da Gama,5,1,Gama,False,False,first
+179,1980-04-06,Corinthians,1,1,Vasco da Gama,False,False,second
+180,1980-04-06,Vitória,1,0,Náutico,False,False,second
+181,1980-04-03,Vasco da Gama,2,0,Vitória,False,False,second
+182,1980-04-13,Náutico,1,2,Corinthians,False,False,second
+183,1980-04-09,Vasco da Gama,2,2,Náutico,False,False,second
+184,1980-04-26,Corinthians,5,0,Vitória,False,False,second
+185,1980-04-21,Vitória,2,6,Corinthians,False,False,second
+186,1980-04-21,Náutico,0,1,Vasco da Gama,False,False,second
+187,1980-05-03,Náutico,2,0,Vitória,False,False,second
+188,1980-05-04,Vasco da Gama,5,2,Corinthians,False,False,second
+189,1980-05-07,Vitória,0,5,Vasco da Gama,False,False,second
+190,1980-05-07,Corinthians,3,0,Náutico,False,False,second
+191,1980-04-06,Americano,0,1,Ceará,False,False,second
+192,1980-04-06,Botafogo-RJ,3,3,São Paulo-SP,False,False,second
+193,1980-04-13,Ceará,1,3,Botafogo-RJ,False,False,second
+194,1980-04-13,Americano,0,0,São Paulo-SP,False,False,second
+195,1980-04-17,São Paulo-SP,2,1,Ceará,False,False,second
+196,1980-04-17,Botafogo-RJ,2,0,Americano,False,False,second
+197,1980-04-20,São Paulo-SP,3,0,Botafogo-RJ,False,False,second
+198,1980-04-21,Ceará,0,0,Americano,False,False,second
+199,1980-04-27,Americano,1,0,Botafogo-RJ,False,False,second
+200,1980-04-27,Ceará,3,3,São Paulo-SP,False,False,second
+201,1980-05-04,São Paulo-SP,4,1,Americano,False,False,second
+202,1980-05-04,Botafogo-RJ,3,1,Ceará,False,False,second
+203,1980-04-06,Internacional,5,0,Bahia,False,False,second
+204,1980-04-06,Atlético-GO,0,2,Atlético-MG,False,False,second
+205,1980-04-09,Atlético-MG,1,2,Internacional,False,False,second
+206,1980-04-13,Bahia,2,1,Atlético-GO,False,False,second
+207,1980-04-03,Atlético-GO,1,4,Internacional,False,False,second
+208,1980-04-20,Bahia,0,1,Atlético-MG,False,False,second
+209,1980-04-23,Internacional,1,3,Atlético-MG,False,False,second
+210,1980-04-27,Atlético-GO,2,1,Bahia,False,False,second
+211,1980-05-04,Bahia,1,3,Internacional,False,False,second
+212,1980-05-04,Atlético-MG,3,1,Atlético-GO,False,False,second
+213,1980-05-07,Internacional,4,0,Atlético-GO,False,False,second
+214,1980-05-07,Atlético-MG,5,1,Bahia,False,False,second
+215,1980-04-05,Sport,2,1,Botafogo-PB,False,False,second
+216,1980-04-06,Cruzeiro,3,1,Fluminense,False,False,second
+217,1980-04-12,Fluminense,2,1,Sport,False,False,second
+218,1980-04-13,Botafogo-PB,0,3,Cruzeiro,False,False,second
+219,1980-04-16,Sport,0,1,Cruzeiro,False,False,second
+220,1980-04-17,Botafogo-PB,1,1,Fluminense,False,False,second
+221,1980-04-20,Cruzeiro,1,1,Botafogo-PB,False,False,second
+222,1980-04-20,Sport,1,1,Fluminense,False,False,second
+223,1980-04-27,Fluminense,0,0,Cruzeiro,False,False,second
+224,1980-04-27,Botafogo-PB,1,1,Sport,False,False,second
+225,1980-05-03,Cruzeiro,2,0,Sport,False,False,second
+226,1980-05-03,Fluminense,4,0,Botafogo-PB,False,False,second
+227,1980-04-05,Santos,4,1,Guarani,False,False,second
+228,1980-04-06,Joinville,1,1,América-RJ,False,False,second
+229,1980-04-13,Santos,0,1,América-RJ,False,False,second
+230,1980-04-13,Guarani,2,0,Joinville,False,False,second
+231,1980-04-20,América-RJ,1,0,Guarani,False,False,second
+232,1980-04-20,Joinville,2,0,Santos,False,False,second
+233,1980-04-23,América-RJ,0,2,Santos,False,False,second
+234,1980-04-23,Joinville,0,0,Guarani,False,False,second
+235,1980-04-27,Guarani,1,0,América-RJ,False,False,second
+236,1980-04-27,Santos,2,0,Joinville,False,False,second
+237,1980-05-04,América-RJ,2,2,Joinville,False,False,second
+238,1980-05-04,Guarani,1,1,Santos,False,False,second
+239,1980-05-04,Guarani,3,2,América-RJ,False,False,second
+240,1980-04-06,Palmeiras,2,3,Bangu,False,False,second
+241,1980-04-06,Santa Cruz,0,0,Flamengo-RJ,False,False,second
+242,1980-04-13,Bangu,1,1,Santa Cruz,False,False,second
+243,1980-04-13,Flamengo-RJ,6,2,Palmeiras,False,False,second
+244,1980-04-16,Flamengo-RJ,2,1,Bangu,False,False,second
+245,1980-04-16,Palmeiras,1,0,Santa Cruz,False,False,second
+246,1980-04-20,Bangu,0,1,Palmeiras,False,False,second
+247,1980-04-21,Flamengo-RJ,2,1,Santa Cruz,False,False,second
+248,1980-04-27,Palmeiras,2,2,Flamengo-RJ,False,False,second
+249,1980-04-27,Santa Cruz,4,1,Bangu,False,False,second
+250,1980-05-04,Santa Cruz,2,2,Palmeiras,False,False,second
+251,1980-05-04,Bangu,0,3,Flamengo-RJ,False,False,second
+252,1980-04-06,Remo,0,1,Coritiba,False,False,second
+253,1980-04-06,Desportiva,3,1,Ferroviário,False,False,second
+254,1980-04-12,Ferroviário,0,0,Remo,False,False,second
+255,1980-04-13,Desportiva,0,0,Coritiba,False,False,second
+256,1980-04-16,Coritiba,7,1,Ferroviário,False,False,second
+257,1980-04-16,Remo,5,0,Desportiva,False,False,second
+258,1980-04-20,Coritiba,1,0,Remo,False,False,second
+259,1980-04-20,Ferroviário,0,1,Desportiva,False,False,second
+260,1980-04-26,Ferroviário,1,1,Coritiba,False,False,second
+261,1980-04-27,Desportiva,3,1,Remo,False,False,second
+262,1980-05-04,Coritiba,7,1,Desportiva,False,False,second
+263,1980-05-04,Remo,2,1,Ferroviário,False,False,second
+264,1980-04-05,Grêmio,0,2,Ponte Preta,False,False,second
+265,1980-04-05,Colorado,5,0,América-SP,False,False,second
+266,1980-04-13,Colorado,0,1,Ponte Preta,False,False,second
+267,1980-04-13,América-SP,1,3,Grêmio,False,False,second
+268,1980-04-16,Grêmio,3,2,Colorado,False,False,second
+269,1980-04-16,Ponte Preta,3,2,América-SP,False,False,second
+270,1980-04-20,América-SP,2,0,Colorado,False,False,second
+271,1980-04-20,Ponte Preta,0,1,Grêmio,False,False,second
+272,1980-04-27,Colorado,0,1,Grêmio,False,False,second
+273,1980-04-27,América-SP,1,2,Ponte Preta,False,False,second
+274,1980-05-03,Ponte Preta,0,2,Colorado,False,False,second
+275,1980-05-04,Grêmio,5,0,América-SP,False,False,second
+276,1980-05-11,Vasco da Gama,1,1,Fluminense,False,False,third
+277,1980-05-11,São Paulo-SP,0,0,Atlético-MG,False,False,third
+278,1980-05-14,Fluminense,0,2,Atlético-MG,False,False,third
+279,1980-05-15,Vasco da Gama,2,1,São Paulo-SP,False,False,third
+280,1980-05-18,São Paulo-SP,3,2,Fluminense,False,False,third
+281,1980-05-18,Atlético-MG,0,0,Vasco da Gama,False,False,third
+282,1980-05-11,Cruzeiro,0,0,Palmeiras,False,False,third
+283,1980-05-11,Guarani,1,2,Internacional,False,False,third
+284,1980-05-14,Internacional,2,1,Palmeiras,False,False,third
+285,1980-05-15,Cruzeiro,0,2,Guarani,False,False,third
+286,1980-05-18,Palmeiras,0,0,Guarani,False,False,third
+287,1980-05-18,Internacional,1,0,Cruzeiro,False,False,third
+288,1980-05-10,Santos,3,0,Ponte Preta,False,False,third
+289,1980-05-10,Flamengo-RJ,3,0,Desportiva,False,False,third
+290,1980-05-14,Ponte Preta,1,1,Flamengo-RJ,False,False,third
+291,1980-05-15,Santos,0,0,Desportiva,False,False,third
+292,1980-05-18,Flamengo-RJ,2,0,Santos,False,False,third
+293,1980-05-18,Desportiva,2,1,Ponte Preta,False,False,third
+294,1980-05-11,Coritiba,1,0,Corinthians,False,False,third
+295,1980-05-11,Grêmio,1,0,Botafogo-RJ,False,False,third
+296,1980-05-14,Coritiba,1,0,Botafogo-RJ,False,False,third
+297,1980-05-14,Corinthians,5,0,Grêmio,False,False,third
+298,1980-05-17,Botafogo-RJ,1,1,Corinthians,False,False,third
+299,1980-05-17,Grêmio,1,0,Coritiba,False,False,third
+300,1980-05-21,Atlético-MG,1,1,Internacional,False,False,semi
+301,1980-05-25,Internacional,0,3,Atlético-MG,False,False,semi
+302,1980-05-21,Coritiba,0,2,Flamengo-RJ,False,False,semi
+303,1980-05-25,Flamengo-RJ,4,3,Coritiba,False,False,semi
+304,1980-05-28,Atlético-MG,1,0,Flamengo-RJ,False,False,final
+305,1980-06-01,Flamengo-RJ,3,2,Atlético-MG,False,False,final
