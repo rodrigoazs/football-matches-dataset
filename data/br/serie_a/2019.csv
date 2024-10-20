@@ -1,0 +1,381 @@
+,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+0,2019-04-27,Sao Paulo,2,0,Botafogo-RJ,False,False,first
+1,2019-04-27,Atletico-MG,2,1,Avai,False,False,first
+2,2019-04-27,Chapecoense,2,0,Internacional,False,False,first
+3,2019-04-27,Flamengo,3,1,Cruzeiro,False,False,first
+4,2019-04-28,Gremio,1,2,Santos,False,False,first
+5,2019-04-28,Ceara,4,0,CSA,False,False,first
+6,2019-04-28,Bahia,3,2,Corinthians,False,False,first
+7,2019-04-28,Athletico-PR,4,1,Vasco,False,False,first
+8,2019-04-28,Palmeiras,4,0,Fortaleza,False,False,first
+9,2019-04-28,Fluminense,0,1,Goias,False,False,first
+10,2019-05-01,CSA,1,1,Palmeiras,False,False,first
+11,2019-05-01,Internacional,2,1,Flamengo,False,False,first
+12,2019-05-01,Corinthians,1,0,Chapecoense,False,False,first
+13,2019-05-01,Cruzeiro,1,0,Ceara,False,False,first
+14,2019-05-01,Avai,1,1,Gremio,False,False,first
+15,2019-05-01,Goias,1,2,Sao Paulo,False,False,first
+16,2019-05-01,Vasco,1,2,Atletico-MG,False,False,first
+17,2019-05-01,Fortaleza,2,1,Athletico-PR,False,False,first
+18,2019-05-02,Santos,2,1,Fluminense,False,False,first
+19,2019-05-02,Botafogo-RJ,3,2,Bahia,False,False,first
+20,2019-05-04,Palmeiras,1,0,Internacional,False,False,first
+21,2019-05-04,Vasco,1,1,Corinthians,False,False,first
+22,2019-05-04,Ceara,1,2,Atletico-MG,False,False,first
+23,2019-05-05,Chapecoense,1,1,Athletico-PR,False,False,first
+24,2019-05-05,Botafogo-RJ,1,0,Fortaleza,False,False,first
+25,2019-05-05,CSA,0,0,Santos,False,False,first
+26,2019-05-05,Cruzeiro,2,1,Goias,False,False,first
+27,2019-05-05,Sao Paulo,1,1,Flamengo,False,False,first
+28,2019-05-05,Gremio,4,5,Fluminense,False,False,first
+29,2019-05-05,Bahia,1,0,Avai,False,False,first
+30,2019-05-11,Fluminense,0,1,Botafogo-RJ,False,False,first
+31,2019-05-11,Corinthians,0,0,Gremio,False,False,first
+32,2019-05-11,Goias,2,1,Ceara,False,False,first
+33,2019-05-12,Atletico-MG,0,2,Palmeiras,False,False,first
+34,2019-05-12,Flamengo,2,1,Chapecoense,False,False,first
+35,2019-05-12,Internacional,3,1,Cruzeiro,False,False,first
+36,2019-05-12,Santos,3,0,Vasco,False,False,first
+37,2019-05-12,Athletico-PR,1,0,Bahia,False,False,first
+38,2019-05-12,Fortaleza,0,1,Sao Paulo,False,False,first
+39,2019-05-12,Avai,0,0,CSA,False,False,first
+40,2019-05-18,Fluminense,4,1,Cruzeiro,False,False,first
+41,2019-05-18,Atletico-MG,2,1,Flamengo,False,False,first
+42,2019-05-18,Palmeiras,4,0,Santos,False,False,first
+43,2019-05-19,Sao Paulo,0,0,Bahia,False,False,first
+44,2019-05-19,Athletico-PR,0,2,Corinthians,False,False,first
+45,2019-05-19,Chapecoense,1,3,Fortaleza,False,False,first
+46,2019-05-19,Internacional,2,0,CSA,False,False,first
+47,2019-05-19,Goias,1,0,Botafogo-RJ,False,False,first
+48,2019-05-19,Vasco,1,1,Avai,False,False,first
+49,2019-05-19,Ceara,2,1,Gremio,False,False,first
+50,2019-05-25,Botafogo-RJ,0,1,Palmeiras,False,False,first
+51,2019-05-25,Gremio,1,0,Atletico-MG,False,False,first
+52,2019-05-26,Santos,0,0,Internacional,False,False,first
+53,2019-05-26,Flamengo,3,2,Athletico-PR,False,False,first
+54,2019-05-26,Fortaleza,1,1,Vasco,False,False,first
+55,2019-05-26,Cruzeiro,1,2,Chapecoense,False,False,first
+56,2019-05-26,Bahia,3,2,Fluminense,False,False,first
+57,2019-05-26,Corinthians,1,0,Sao Paulo,False,False,first
+58,2019-05-27,Avai,1,2,Ceara,False,False,first
+59,2019-05-27,CSA,1,0,Goias,False,False,first
+60,2019-06-01,Flamengo,2,0,Fortaleza,False,False,first
+61,2019-06-01,Bahia,1,0,Gremio,False,False,first
+62,2019-06-02,Botafogo-RJ,1,0,Vasco,False,False,first
+63,2019-06-02,Sao Paulo,1,1,Cruzeiro,False,False,first
+64,2019-06-02,Ceara,0,1,Santos,False,False,first
+65,2019-06-02,Athletico-PR,3,0,Fluminense,False,False,first
+66,2019-06-02,Atletico-MG,4,0,CSA,False,False,first
+67,2019-06-02,Chapecoense,1,2,Palmeiras,False,False,first
+68,2019-06-02,Internacional,2,0,Avai,False,False,first
+69,2019-06-07,Vasco,2,1,Internacional,False,False,first
+70,2019-06-08,Palmeiras,1,0,Athletico-PR,False,False,first
+71,2019-06-08,Gremio,1,0,Fortaleza,False,False,first
+72,2019-06-08,Cruzeiro,0,0,Corinthians,False,False,first
+73,2019-06-08,Ceara,0,0,Bahia,False,False,first
+74,2019-06-08,Avai,0,0,Sao Paulo,False,False,first
+75,2019-06-09,Fluminense,0,0,Flamengo,False,False,first
+76,2019-06-09,Santos,3,1,Atletico-MG,False,False,first
+77,2019-06-09,CSA,1,2,Botafogo-RJ,False,False,first
+78,2019-06-10,Goias,3,1,Chapecoense,False,False,first
+79,2019-06-12,Botafogo-RJ,0,1,Gremio,False,False,first
+80,2019-06-12,Fortaleza,2,1,Cruzeiro,False,False,first
+81,2019-06-12,Internacional,3,1,Bahia,False,False,first
+82,2019-06-12,CSA,0,2,Flamengo,False,False,first
+83,2019-06-12,Santos,1,0,Corinthians,False,False,first
+84,2019-06-13,Goias,2,1,Athletico-PR,False,False,first
+85,2019-06-13,Vasco,1,0,Ceara,False,False,first
+86,2019-06-13,Chapecoense,1,1,Fluminense,False,False,first
+87,2019-06-13,Palmeiras,2,0,Avai,False,False,first
+88,2019-06-13,Atletico-MG,1,1,Sao Paulo,False,False,first
+89,2019-07-13,Fortaleza,2,0,Avai,False,False,first
+90,2019-07-13,Gremio,2,1,Vasco,False,False,first
+91,2019-07-13,Bahia,0,1,Santos,False,False,first
+92,2019-07-13,Sao Paulo,1,1,Palmeiras,False,False,first
+93,2019-07-14,Flamengo,6,1,Goias,False,False,first
+94,2019-07-14,Athletico-PR,1,0,Internacional,False,False,first
+95,2019-07-14,Cruzeiro,0,0,Botafogo-RJ,False,False,first
+96,2019-07-14,Corinthians,1,0,CSA,False,False,first
+97,2019-07-14,Chapecoense,1,2,Atletico-MG,False,False,first
+98,2019-07-15,Fluminense,1,1,Ceara,False,False,first
+99,2019-07-20,Vasco,2,1,Fluminense,False,False,first
+100,2019-07-20,CSA,0,4,Athletico-PR,False,False,first
+101,2019-07-20,Bahia,0,0,Cruzeiro,False,False,first
+102,2019-07-20,Internacional,1,1,Gremio,False,False,first
+103,2019-07-20,Ceara,2,0,Palmeiras,False,False,first
+104,2019-07-21,Botafogo-RJ,0,1,Santos,False,False,first
+105,2019-07-21,Corinthians,1,1,Flamengo,False,False,first
+106,2019-07-21,Atletico-MG,2,2,Fortaleza,False,False,first
+107,2019-07-21,Avai,0,0,Goias,False,False,first
+108,2019-07-22,Sao Paulo,4,0,Chapecoense,False,False,first
+109,2019-07-27,Cruzeiro,0,2,Athletico-PR,False,False,first
+110,2019-07-27,Palmeiras,1,1,Vasco,False,False,first
+111,2019-07-27,Internacional,1,0,Ceara,False,False,first
+112,2019-07-27,Fluminense,1,2,Sao Paulo,False,False,first
+113,2019-07-28,Chapecoense,0,0,Bahia,False,False,first
+114,2019-07-28,Flamengo,3,2,Botafogo-RJ,False,False,first
+115,2019-07-28,Santos,3,1,Avai,False,False,first
+116,2019-07-28,Fortaleza,1,3,Corinthians,False,False,first
+117,2019-07-28,Goias,0,0,Atletico-MG,False,False,first
+118,2019-07-29,CSA,0,0,Gremio,False,False,first
+119,2019-08-03,Fluminense,2,1,Internacional,False,False,first
+120,2019-08-03,Ceara,2,1,Fortaleza,False,False,first
+121,2019-08-04,Santos,6,1,Goias,False,False,first
+122,2019-08-04,Avai,0,2,Botafogo-RJ,False,False,first
+123,2019-08-04,Bahia,3,0,Flamengo,False,False,first
+124,2019-08-04,Corinthians,1,1,Palmeiras,False,False,first
+125,2019-08-04,Vasco,0,0,CSA,False,False,first
+126,2019-08-04,Atletico-MG,2,0,Cruzeiro,False,False,first
+127,2019-08-05,Gremio,3,3,Chapecoense,False,False,first
+128,2019-08-07,Corinthians,2,0,Goias,False,False,first
+129,2019-08-10,Ceara,4,1,Chapecoense,False,False,first
+130,2019-08-10,Sao Paulo,3,2,Santos,False,False,first
+131,2019-08-10,Flamengo,3,1,Gremio,False,False,first
+132,2019-08-10,Atletico-MG,2,1,Fluminense,False,False,first
+133,2019-08-11,Internacional,0,0,Corinthians,False,False,first
+134,2019-08-11,Palmeiras,2,2,Bahia,False,False,first
+135,2019-08-11,Avai,2,2,Cruzeiro,False,False,first
+136,2019-08-11,Botafogo-RJ,2,1,Athletico-PR,False,False,first
+137,2019-08-11,Goias,0,1,Vasco,False,False,first
+138,2019-08-12,CSA,0,2,Fortaleza,False,False,first
+139,2019-08-17,Athletico-PR,1,0,Atletico-MG,False,False,first
+140,2019-08-17,Corinthians,2,0,Botafogo-RJ,False,False,first
+141,2019-08-17,Fortaleza,0,1,Internacional,False,False,first
+142,2019-08-17,Vasco,1,4,Flamengo,False,False,first
+143,2019-08-17,Gremio,1,1,Palmeiras,False,False,first
+144,2019-08-18,Fluminense,0,1,CSA,False,False,first
+145,2019-08-18,Cruzeiro,2,0,Santos,False,False,first
+146,2019-08-18,Bahia,1,1,Goias,False,False,first
+147,2019-08-18,Sao Paulo,1,0,Ceara,False,False,first
+148,2019-08-18,Chapecoense,1,0,Avai,False,False,first
+149,2019-08-21,Athletico-PR,0,1,Sao Paulo,False,False,first
+150,2019-08-24,Atletico-MG,0,1,Bahia,False,False,first
+151,2019-08-24,Gremio,2,1,Athletico-PR,False,False,first
+152,2019-08-25,Goias,2,1,Internacional,False,False,first
+153,2019-08-25,Vasco,2,0,Sao Paulo,False,False,first
+154,2019-08-25,Santos,3,3,Fortaleza,False,False,first
+155,2019-08-25,CSA,1,1,Cruzeiro,False,False,first
+156,2019-08-25,Ceara,0,3,Flamengo,False,False,first
+157,2019-08-25,Avai,1,1,Corinthians,False,False,first
+158,2019-08-26,Botafogo-RJ,0,0,Chapecoense,False,False,first
+159,2019-08-31,Sao Paulo,0,0,Gremio,False,False,first
+160,2019-08-31,Bahia,1,0,CSA,False,False,first
+161,2019-08-31,Athletico-PR,1,0,Ceara,False,False,first
+162,2019-08-31,Chapecoense,0,1,Santos,False,False,first
+163,2019-08-31,Internacional,3,2,Botafogo-RJ,False,False,first
+164,2019-09-01,Flamengo,3,0,Palmeiras,False,False,first
+165,2019-09-01,Fortaleza,2,0,Goias,False,False,first
+166,2019-09-01,Cruzeiro,1,0,Vasco,False,False,first
+167,2019-09-01,Corinthians,1,0,Atletico-MG,False,False,first
+168,2019-09-02,Fluminense,0,1,Avai,False,False,first
+169,2019-09-07,Corinthians,2,2,Ceara,False,False,first
+170,2019-09-07,Vasco,0,2,Bahia,False,False,first
+171,2019-09-07,Avai,0,3,Flamengo,False,False,first
+172,2019-09-07,Fortaleza,0,1,Fluminense,False,False,first
+173,2019-09-07,Internacional,1,0,Sao Paulo,False,False,first
+174,2019-09-07,Goias,1,2,Palmeiras,False,False,first
+175,2019-09-08,Cruzeiro,1,4,Gremio,False,False,first
+176,2019-09-08,Santos,1,1,Athletico-PR,False,False,first
+177,2019-09-08,Botafogo-RJ,2,1,Atletico-MG,False,False,first
+178,2019-09-08,CSA,2,0,Chapecoense,False,False,first
+179,2019-09-10,Palmeiras,3,0,Fluminense,False,False,first
+180,2019-09-14,Flamengo,1,0,Santos,False,False,first
+181,2019-09-14,Chapecoense,1,2,Vasco,False,False,first
+182,2019-09-14,Palmeiras,1,0,Cruzeiro,False,False,first
+183,2019-09-14,Ceara,0,0,Botafogo-RJ,False,False,first
+184,2019-09-15,Atletico-MG,1,3,Internacional,False,False,first
+185,2019-09-15,Athletico-PR,0,1,Avai,False,False,first
+186,2019-09-15,Gremio,3,0,Goias,False,False,first
+187,2019-09-15,Fluminense,1,0,Corinthians,False,False,first
+188,2019-09-15,Bahia,1,1,Fortaleza,False,False,first
+189,2019-09-15,Sao Paulo,1,1,CSA,False,False,first
+190,2019-09-21,Botafogo-RJ,1,2,Sao Paulo,False,False,first
+191,2019-09-21,Cruzeiro,1,2,Flamengo,False,False,first
+192,2019-09-21,Corinthians,2,1,Bahia,False,False,first
+193,2019-09-21,Santos,0,3,Gremio,False,False,first
+194,2019-09-22,Internacional,1,0,Chapecoense,False,False,first
+195,2019-09-22,Vasco,1,1,Athletico-PR,False,False,first
+196,2019-09-22,Fortaleza,0,1,Palmeiras,False,False,first
+197,2019-09-22,CSA,1,0,Ceara,False,False,first
+198,2019-09-22,Goias,3,0,Fluminense,False,False,first
+199,2019-09-23,Avai,1,0,Atletico-MG,False,False,first
+200,2019-09-25,Ceara,0,0,Cruzeiro,False,False,first
+201,2019-09-25,Bahia,2,0,Botafogo-RJ,False,False,first
+202,2019-09-25,Flamengo,3,1,Internacional,False,False,first
+203,2019-09-25,Sao Paulo,0,1,Goias,False,False,first
+204,2019-09-26,Palmeiras,6,2,CSA,False,False,first
+205,2019-09-26,Fluminense,1,1,Santos,False,False,first
+206,2019-09-26,Gremio,6,1,Avai,False,False,first
+207,2019-09-26,Athletico-PR,4,1,Fortaleza,False,False,first
+208,2019-09-28,Flamengo,0,0,Sao Paulo,False,False,first
+209,2019-09-29,Corinthians,1,0,Vasco,False,False,first
+210,2019-09-29,Athletico-PR,1,1,Chapecoense,False,False,first
+211,2019-09-29,Santos,2,0,CSA,False,False,first
+212,2019-09-29,Internacional,1,1,Palmeiras,False,False,first
+213,2019-09-29,Fluminense,2,1,Gremio,False,False,first
+214,2019-09-29,Atletico-MG,2,1,Ceara,False,False,first
+215,2019-09-30,Avai,0,2,Bahia,False,False,first
+216,2019-09-30,Fortaleza,1,0,Botafogo-RJ,False,False,first
+217,2019-09-30,Goias,1,0,Cruzeiro,False,False,first
+218,2019-10-02,Atletico-MG,1,2,Vasco,False,False,first
+219,2019-10-02,Chapecoense,0,1,Corinthians,False,False,first
+220,2019-10-05,Vasco,0,1,Santos,False,False,first
+221,2019-10-05,Sao Paulo,2,1,Fortaleza,False,False,first
+222,2019-10-05,Gremio,0,0,Corinthians,False,False,first
+223,2019-10-05,Bahia,1,2,Athletico-PR,False,False,first
+224,2019-10-05,Cruzeiro,1,1,Internacional,False,False,first
+225,2019-10-06,Chapecoense,0,1,Flamengo,False,False,first
+226,2019-10-06,Palmeiras,1,1,Atletico-MG,False,False,first
+227,2019-10-06,Botafogo-RJ,0,1,Fluminense,False,False,first
+228,2019-10-06,Ceara,0,1,Goias,False,False,first
+229,2019-10-06,CSA,3,1,Avai,False,False,first
+230,2019-10-09,Botafogo-RJ,3,1,Goias,False,False,first
+231,2019-10-09,CSA,1,0,Internacional,False,False,first
+232,2019-10-09,Fortaleza,2,0,Chapecoense,False,False,first
+233,2019-10-09,Gremio,2,1,Ceara,False,False,first
+234,2019-10-09,Bahia,0,0,Sao Paulo,False,False,first
+235,2019-10-09,Cruzeiro,0,0,Fluminense,False,False,first
+236,2019-10-09,Santos,2,0,Palmeiras,False,False,first
+237,2019-10-10,Corinthians,2,2,Athletico-PR,False,False,first
+238,2019-10-10,Avai,0,0,Vasco,False,False,first
+239,2019-10-10,Flamengo,3,1,Atletico-MG,False,False,first
+240,2019-10-12,Goias,1,0,CSA,False,False,first
+241,2019-10-12,Fluminense,2,0,Bahia,False,False,first
+242,2019-10-12,Palmeiras,1,0,Botafogo-RJ,False,False,first
+243,2019-10-13,Athletico-PR,0,2,Flamengo,False,False,first
+244,2019-10-13,Internacional,0,0,Santos,False,False,first
+245,2019-10-13,Vasco,1,0,Fortaleza,False,False,first
+246,2019-10-13,Ceara,1,0,Avai,False,False,first
+247,2019-10-13,Sao Paulo,1,0,Corinthians,False,False,first
+248,2019-10-13,Atletico-MG,1,4,Gremio,False,False,first
+249,2019-10-13,Chapecoense,1,1,Cruzeiro,False,False,first
+250,2019-10-16,CSA,2,2,Atletico-MG,False,False,first
+251,2019-10-16,Gremio,0,1,Bahia,False,False,first
+252,2019-10-16,Fortaleza,1,2,Flamengo,False,False,first
+253,2019-10-16,Cruzeiro,1,0,Sao Paulo,False,False,first
+254,2019-10-16,Palmeiras,1,0,Chapecoense,False,False,first
+255,2019-10-16,Vasco,2,1,Botafogo-RJ,False,False,first
+256,2019-10-16,Goias,2,2,Corinthians,False,False,first
+257,2019-10-17,Fluminense,1,2,Athletico-PR,False,False,first
+258,2019-10-17,Santos,2,1,Ceara,False,False,first
+259,2019-10-17,Avai,0,2,Internacional,False,False,first
+260,2019-10-19,Fortaleza,2,1,Gremio,False,False,first
+261,2019-10-19,Corinthians,1,2,Cruzeiro,False,False,first
+262,2019-10-20,Internacional,0,1,Vasco,False,False,first
+263,2019-10-20,Sao Paulo,1,0,Avai,False,False,first
+264,2019-10-20,Atletico-MG,2,0,Santos,False,False,first
+265,2019-10-20,Flamengo,2,0,Fluminense,False,False,first
+266,2019-10-20,Chapecoense,2,2,Goias,False,False,first
+267,2019-10-20,Athletico-PR,1,1,Palmeiras,False,False,first
+268,2019-10-21,Bahia,1,2,Ceara,False,False,first
+269,2019-10-21,Botafogo-RJ,2,1,CSA,False,False,first
+270,2019-10-26,Cruzeiro,1,1,Fortaleza,False,False,first
+271,2019-10-26,Corinthians,0,0,Santos,False,False,first
+272,2019-10-26,Ceara,1,1,Vasco,False,False,first
+273,2019-10-26,Bahia,2,3,Internacional,False,False,first
+274,2019-10-26,Fluminense,1,1,Chapecoense,False,False,first
+275,2019-10-27,Athletico-PR,4,1,Goias,False,False,first
+276,2019-10-27,Gremio,3,0,Botafogo-RJ,False,False,first
+277,2019-10-27,Sao Paulo,2,0,Atletico-MG,False,False,first
+278,2019-10-27,Avai,1,2,Palmeiras,False,False,first
+279,2019-10-27,Flamengo,1,0,CSA,False,False,first
+280,2019-10-30,Palmeiras,3,0,Sao Paulo,False,False,first
+281,2019-10-30,Atletico-MG,0,2,Chapecoense,False,False,first
+282,2019-10-30,Avai,1,3,Fortaleza,False,False,first
+283,2019-10-30,Vasco,1,3,Gremio,False,False,first
+284,2019-10-30,Ceara,2,0,Fluminense,False,False,first
+285,2019-10-30,CSA,2,1,Corinthians,False,False,first
+286,2019-10-31,Santos,1,0,Bahia,False,False,first
+287,2019-10-31,Goias,2,2,Flamengo,False,False,first
+288,2019-10-31,Internacional,1,1,Athletico-PR,False,False,first
+289,2019-10-31,Botafogo-RJ,0,2,Cruzeiro,False,False,first
+290,2019-11-02,Fortaleza,2,2,Atletico-MG,False,False,first
+291,2019-11-02,Palmeiras,1,0,Ceara,False,False,first
+292,2019-11-02,Fluminense,0,0,Vasco,False,False,first
+293,2019-11-02,Chapecoense,0,3,Sao Paulo,False,False,first
+294,2019-11-03,Athletico-PR,1,0,CSA,False,False,first
+295,2019-11-03,Flamengo,4,1,Corinthians,False,False,first
+296,2019-11-03,Gremio,2,0,Internacional,False,False,first
+297,2019-11-03,Santos,4,1,Botafogo-RJ,False,False,first
+298,2019-11-03,Cruzeiro,1,1,Bahia,False,False,first
+299,2019-11-03,Goias,2,0,Avai,False,False,first
+300,2019-11-06,Athletico-PR,0,0,Cruzeiro,False,False,first
+301,2019-11-06,Corinthians,3,2,Fortaleza,False,False,first
+302,2019-11-06,Atletico-MG,2,0,Goias,False,False,first
+303,2019-11-06,Avai,1,2,Santos,False,False,first
+304,2019-11-06,Vasco,1,2,Palmeiras,False,False,first
+305,2019-11-06,Bahia,1,1,Chapecoense,False,False,first
+306,2019-11-07,Ceara,2,0,Internacional,False,False,first
+307,2019-11-07,Sao Paulo,0,2,Fluminense,False,False,first
+308,2019-11-07,Botafogo-RJ,0,1,Flamengo,False,False,first
+309,2019-11-07,Gremio,2,1,CSA,False,False,first
+310,2019-11-09,Goias,0,3,Santos,False,False,first
+311,2019-11-09,Palmeiras,1,1,Corinthians,False,False,first
+312,2019-11-10,Sao Paulo,0,1,Athletico-PR,False,False,first
+313,2019-11-10,Internacional,2,1,Fluminense,False,False,first
+314,2019-11-10,Cruzeiro,0,0,Atletico-MG,False,False,first
+315,2019-11-10,Flamengo,3,1,Bahia,False,False,first
+316,2019-11-10,Chapecoense,0,1,Gremio,False,False,first
+317,2019-11-10,Fortaleza,1,0,Ceara,False,False,first
+318,2019-11-10,CSA,0,3,Vasco,False,False,first
+319,2019-11-11,Botafogo-RJ,2,0,Avai,False,False,first
+320,2019-11-13,Flamengo,4,4,Vasco,False,False,first
+321,2019-11-16,Santos,1,1,Sao Paulo,False,False,first
+322,2019-11-16,Fluminense,1,1,Atletico-MG,False,False,first
+323,2019-11-17,Athletico-PR,1,0,Botafogo-RJ,False,False,first
+324,2019-11-17,Gremio,0,1,Flamengo,False,False,first
+325,2019-11-17,Bahia,1,1,Palmeiras,False,False,first
+326,2019-11-17,Chapecoense,1,0,Ceara,False,False,first
+327,2019-11-17,Corinthians,0,0,Internacional,False,False,first
+328,2019-11-17,Fortaleza,3,0,CSA,False,False,first
+329,2019-11-18,Vasco,1,1,Goias,False,False,first
+330,2019-11-18,Cruzeiro,0,0,Avai,False,False,first
+331,2019-11-23,Santos,4,1,Cruzeiro,False,False,first
+332,2019-11-24,Atletico-MG,0,1,Athletico-PR,False,False,first
+333,2019-11-24,Palmeiras,1,2,Gremio,False,False,first
+334,2019-11-24,Goias,4,3,Bahia,False,False,first
+335,2019-11-24,Botafogo-RJ,1,0,Corinthians,False,False,first
+336,2019-11-24,Internacional,2,2,Fortaleza,False,False,first
+337,2019-11-24,Avai,0,1,Chapecoense,False,False,first
+338,2019-11-24,Ceara,1,1,Sao Paulo,False,False,first
+339,2019-11-25,CSA,0,1,Fluminense,False,False,first
+340,2019-11-27,Internacional,1,2,Goias,False,False,first
+341,2019-11-27,Chapecoense,0,1,Botafogo-RJ,False,False,first
+342,2019-11-27,Athletico-PR,2,0,Gremio,False,False,first
+343,2019-11-27,Bahia,1,1,Atletico-MG,False,False,first
+344,2019-11-27,Corinthians,3,0,Avai,False,False,first
+345,2019-11-27,Flamengo,4,1,Ceara,False,False,first
+346,2019-11-28,Fluminense,1,0,Palmeiras,False,False,first
+347,2019-11-28,Fortaleza,2,1,Santos,False,False,first
+348,2019-11-28,Sao Paulo,1,0,Vasco,False,False,first
+349,2019-11-28,Cruzeiro,0,1,CSA,False,False,first
+350,2019-11-30,Botafogo-RJ,0,1,Internacional,False,False,first
+351,2019-11-30,Ceara,1,1,Athletico-PR,False,False,first
+352,2019-12-01,Palmeiras,1,3,Flamengo,False,False,first
+353,2019-12-01,Avai,1,1,Fluminense,False,False,first
+354,2019-12-01,Goias,1,2,Fortaleza,False,False,first
+355,2019-12-01,CSA,1,2,Bahia,False,False,first
+356,2019-12-01,Atletico-MG,2,1,Corinthians,False,False,first
+357,2019-12-01,Santos,2,0,Chapecoense,False,False,first
+358,2019-12-01,Gremio,3,0,Sao Paulo,False,False,first
+359,2019-12-02,Vasco,1,0,Cruzeiro,False,False,first
+360,2019-12-04,Athletico-PR,1,0,Santos,False,False,first
+361,2019-12-04,Atletico-MG,2,0,Botafogo-RJ,False,False,first
+362,2019-12-04,Ceara,0,1,Corinthians,False,False,first
+363,2019-12-04,Chapecoense,3,0,CSA,False,False,first
+364,2019-12-04,Fluminense,0,0,Fortaleza,False,False,first
+365,2019-12-04,Sao Paulo,2,1,Internacional,False,False,first
+366,2019-12-05,Gremio,2,0,Cruzeiro,False,False,first
+367,2019-12-05,Palmeiras,5,1,Goias,False,False,first
+368,2019-12-05,Bahia,1,1,Vasco,False,False,first
+369,2019-12-05,Flamengo,6,1,Avai,False,False,first
+370,2019-12-08,Corinthians,1,2,Fluminense,False,False,first
+371,2019-12-08,Botafogo-RJ,1,1,Ceara,False,False,first
+372,2019-12-08,Internacional,2,1,Atletico-MG,False,False,first
+373,2019-12-08,CSA,1,2,Sao Paulo,False,False,first
+374,2019-12-08,Cruzeiro,0,2,Palmeiras,False,False,first
+375,2019-12-08,Goias,3,2,Gremio,False,False,first
+376,2019-12-08,Vasco,1,1,Chapecoense,False,False,first
+377,2019-12-08,Fortaleza,2,1,Bahia,False,False,first
+378,2019-12-08,Santos,4,0,Flamengo,False,False,first
+379,2019-12-08,Avai,0,0,Athletico-PR,False,False,first
