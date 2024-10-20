@@ -1,381 +1,381 @@
 ,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,2017-05-13,Flamengo/RJ,1,1,Atlético/MG,False,False,first
-1,2017-05-13,Corinthians/SP,1,1,Chapecoense/SC,False,False,first
-2,2017-05-14,Fluminense/RJ,3,2,Santos/SP,False,False,first
+0,2017-05-13,Flamengo,1,1,Atlético-MG,False,False,first
+1,2017-05-13,Corinthians,1,1,Chapecoense,False,False,first
+2,2017-05-14,Fluminense,3,2,Santos,False,False,first
 3,2017-05-14,Ponte Preta/SP,4,0,Sport/PE,False,False,first
-4,2017-05-14,Palmeiras/SP,4,0,Vasco da Gama/RJ,False,False,first
-5,2017-05-14,Cruzeiro/MG,1,0,São Paulo/SP,False,False,first
-6,2017-05-14,Bahia/BA,6,2,Atlético/PR,False,False,first
+4,2017-05-14,Palmeiras,4,0,Vasco da Gama,False,False,first
+5,2017-05-14,Cruzeiro,1,0,São Paulo,False,False,first
+6,2017-05-14,Bahia/BA,6,2,Atlético-PR,False,False,first
 7,2017-05-14,Avaí/SC,0,0,Vitória/BA,False,False,first
-8,2017-05-14,Grêmio/RS,2,0,Botafogo/RJ,False,False,first
-9,2017-05-15,Coritiba/PR,4,1,Atlético/GO,False,False,first
-10,2017-05-20,Santos/SP,1,0,Coritiba/PR,False,False,first
-11,2017-05-20,Chapecoense/SC,1,0,Palmeiras/SP,False,False,first
-12,2017-05-20,Atlético/GO,0,3,Flamengo/RJ,False,False,first
-13,2017-05-21,Vasco da Gama/RJ,2,1,Bahia/BA,False,False,first
-14,2017-05-21,Vitória/BA,0,1,Corinthians/SP,False,False,first
-15,2017-05-21,Atlético/MG,1,2,Fluminense/RJ,False,False,first
-16,2017-05-21,Atlético/PR,0,2,Grêmio/RS,False,False,first
-17,2017-05-21,Botafogo/RJ,2,0,Ponte Preta/SP,False,False,first
-18,2017-05-21,Sport/PE,1,1,Cruzeiro/MG,False,False,first
-19,2017-05-22,São Paulo/SP,2,0,Avaí/SC,False,False,first
-20,2017-05-27,Vitória/BA,0,1,Coritiba/PR,False,False,first
-21,2017-05-27,Vasco da Gama/RJ,3,2,Fluminense/RJ,False,False,first
-22,2017-05-27,São Paulo/SP,2,0,Palmeiras/SP,False,False,first
-23,2017-05-28,Atlético/MG,2,2,Ponte Preta/SP,False,False,first
-24,2017-05-28,Atlético/PR,1,1,Flamengo/RJ,False,False,first
-25,2017-05-28,Santos/SP,0,1,Cruzeiro/MG,False,False,first
-26,2017-05-28,Atlético/GO,0,1,Corinthians/SP,False,False,first
-27,2017-05-28,Sport/PE,4,3,Grêmio/RS,False,False,first
-28,2017-05-28,Botafogo/RJ,1,0,Bahia/BA,False,False,first
-29,2017-05-29,Chapecoense/SC,2,0,Avaí/SC,False,False,first
-30,2017-06-03,Coritiba/PR,1,0,Atlético/PR,False,False,first
-31,2017-06-03,Fluminense/RJ,2,1,Vitória/BA,False,False,first
-32,2017-06-03,Corinthians/SP,2,0,Santos/SP,False,False,first
-33,2017-06-04,Flamengo/RJ,0,0,Botafogo/RJ,False,False,first
+8,2017-05-14,Grêmio,2,0,Botafogo,False,False,first
+9,2017-05-15,Coritiba,4,1,Atlético-GO,False,False,first
+10,2017-05-20,Santos,1,0,Coritiba,False,False,first
+11,2017-05-20,Chapecoense,1,0,Palmeiras,False,False,first
+12,2017-05-20,Atlético-GO,0,3,Flamengo,False,False,first
+13,2017-05-21,Vasco da Gama,2,1,Bahia/BA,False,False,first
+14,2017-05-21,Vitória/BA,0,1,Corinthians,False,False,first
+15,2017-05-21,Atlético-MG,1,2,Fluminense,False,False,first
+16,2017-05-21,Atlético-PR,0,2,Grêmio,False,False,first
+17,2017-05-21,Botafogo,2,0,Ponte Preta/SP,False,False,first
+18,2017-05-21,Sport/PE,1,1,Cruzeiro,False,False,first
+19,2017-05-22,São Paulo,2,0,Avaí/SC,False,False,first
+20,2017-05-27,Vitória/BA,0,1,Coritiba,False,False,first
+21,2017-05-27,Vasco da Gama,3,2,Fluminense,False,False,first
+22,2017-05-27,São Paulo,2,0,Palmeiras,False,False,first
+23,2017-05-28,Atlético-MG,2,2,Ponte Preta/SP,False,False,first
+24,2017-05-28,Atlético-PR,1,1,Flamengo,False,False,first
+25,2017-05-28,Santos,0,1,Cruzeiro,False,False,first
+26,2017-05-28,Atlético-GO,0,1,Corinthians,False,False,first
+27,2017-05-28,Sport/PE,4,3,Grêmio,False,False,first
+28,2017-05-28,Botafogo,1,0,Bahia/BA,False,False,first
+29,2017-05-29,Chapecoense,2,0,Avaí/SC,False,False,first
+30,2017-06-03,Coritiba,1,0,Atlético-PR,False,False,first
+31,2017-06-03,Fluminense,2,1,Vitória/BA,False,False,first
+32,2017-06-03,Corinthians,2,0,Santos,False,False,first
+33,2017-06-04,Flamengo,0,0,Botafogo,False,False,first
 34,2017-06-04,Avaí/SC,1,0,Sport/PE,False,False,first
-35,2017-06-04,Palmeiras/SP,0,0,Atlético/MG,False,False,first
-36,2017-06-04,Grêmio/RS,2,0,Vasco da Gama/RJ,False,False,first
-37,2017-06-04,Ponte Preta/SP,1,0,São Paulo/SP,False,False,first
-38,2017-06-04,Cruzeiro/MG,0,2,Chapecoense/SC,False,False,first
-39,2017-06-05,Bahia/BA,3,0,Atlético/GO,False,False,first
-40,2017-06-06,Fluminense/RJ,1,1,Atlético/PR,False,False,first
-41,2017-06-07,Santos/SP,1,0,Botafogo/RJ,False,False,first
-42,2017-06-07,Coritiba/PR,1,0,Palmeiras/SP,False,False,first
-43,2017-06-07,Atlético/MG,1,0,Avaí/SC,False,False,first
-44,2017-06-07,Sport/PE,2,0,Flamengo/RJ,False,False,first
-45,2017-06-07,Vasco da Gama/RJ,2,5,Corinthians/SP,False,False,first
-46,2017-06-08,Chapecoense/SC,3,6,Grêmio/RS,False,False,first
-47,2017-06-08,Bahia/BA,1,0,Cruzeiro/MG,False,False,first
-48,2017-06-08,São Paulo/SP,2,0,Vitória/BA,False,False,first
-49,2017-06-08,Atlético/GO,3,0,Ponte Preta/SP,False,False,first
-50,2017-06-10,Palmeiras/SP,3,1,Fluminense/RJ,False,False,first
-51,2017-06-10,Vasco da Gama/RJ,2,1,Sport/PE,False,False,first
-52,2017-06-11,Botafogo/RJ,2,2,Coritiba/PR,False,False,first
-53,2017-06-11,Corinthians/SP,3,2,São Paulo/SP,False,False,first
-54,2017-06-11,Vitória/BA,2,0,Atlético/MG,False,False,first
-55,2017-06-11,Ponte Preta/SP,3,2,Chapecoense/SC,False,False,first
-56,2017-06-11,Avaí/SC,1,1,Flamengo/RJ,False,False,first
-57,2017-06-11,Atlético/PR,0,2,Santos/SP,False,False,first
-58,2017-06-11,Cruzeiro/MG,2,0,Atlético/GO,False,False,first
-59,2017-06-12,Grêmio/RS,1,0,Bahia/BA,False,False,first
-60,2017-06-14,Flamengo/RJ,2,0,Ponte Preta/SP,False,False,first
-61,2017-06-14,Sport/PE,0,0,São Paulo/SP,False,False,first
-62,2017-06-14,Vitória/BA,2,2,Botafogo/RJ,False,False,first
-63,2017-06-14,Atlético/GO,3,1,Avaí/SC,False,False,first
-64,2017-06-14,Atlético/MG,0,1,Atlético/PR,False,False,first
-65,2017-06-14,Santos/SP,1,0,Palmeiras/SP,False,False,first
-66,2017-06-14,Chapecoense/SC,2,1,Vasco da Gama/RJ,False,False,first
-67,2017-06-14,Corinthians/SP,1,0,Cruzeiro/MG,False,False,first
-68,2017-06-15,Fluminense/RJ,0,2,Grêmio/RS,False,False,first
-69,2017-06-15,Coritiba/PR,0,0,Bahia/BA,False,False,first
-70,2017-06-17,Santos/SP,0,0,Ponte Preta/SP,False,False,first
-71,2017-06-17,Atlético/GO,0,1,Atlético/PR,False,False,first
-72,2017-06-17,Vasco da Gama/RJ,1,0,Avaí/SC,False,False,first
-73,2017-06-18,Coritiba/PR,0,0,Corinthians/SP,False,False,first
-74,2017-06-18,Bahia/BA,2,4,Palmeiras/SP,False,False,first
-75,2017-06-18,Fluminense/RJ,2,2,Flamengo/RJ,False,False,first
-76,2017-06-18,Chapecoense/SC,0,2,Botafogo/RJ,False,False,first
-77,2017-06-18,São Paulo/SP,1,2,Atlético/MG,False,False,first
+35,2017-06-04,Palmeiras,0,0,Atlético-MG,False,False,first
+36,2017-06-04,Grêmio,2,0,Vasco da Gama,False,False,first
+37,2017-06-04,Ponte Preta/SP,1,0,São Paulo,False,False,first
+38,2017-06-04,Cruzeiro,0,2,Chapecoense,False,False,first
+39,2017-06-05,Bahia/BA,3,0,Atlético-GO,False,False,first
+40,2017-06-06,Fluminense,1,1,Atlético-PR,False,False,first
+41,2017-06-07,Santos,1,0,Botafogo,False,False,first
+42,2017-06-07,Coritiba,1,0,Palmeiras,False,False,first
+43,2017-06-07,Atlético-MG,1,0,Avaí/SC,False,False,first
+44,2017-06-07,Sport/PE,2,0,Flamengo,False,False,first
+45,2017-06-07,Vasco da Gama,2,5,Corinthians,False,False,first
+46,2017-06-08,Chapecoense,3,6,Grêmio,False,False,first
+47,2017-06-08,Bahia/BA,1,0,Cruzeiro,False,False,first
+48,2017-06-08,São Paulo,2,0,Vitória/BA,False,False,first
+49,2017-06-08,Atlético-GO,3,0,Ponte Preta/SP,False,False,first
+50,2017-06-10,Palmeiras,3,1,Fluminense,False,False,first
+51,2017-06-10,Vasco da Gama,2,1,Sport/PE,False,False,first
+52,2017-06-11,Botafogo,2,2,Coritiba,False,False,first
+53,2017-06-11,Corinthians,3,2,São Paulo,False,False,first
+54,2017-06-11,Vitória/BA,2,0,Atlético-MG,False,False,first
+55,2017-06-11,Ponte Preta/SP,3,2,Chapecoense,False,False,first
+56,2017-06-11,Avaí/SC,1,1,Flamengo,False,False,first
+57,2017-06-11,Atlético-PR,0,2,Santos,False,False,first
+58,2017-06-11,Cruzeiro,2,0,Atlético-GO,False,False,first
+59,2017-06-12,Grêmio,1,0,Bahia/BA,False,False,first
+60,2017-06-14,Flamengo,2,0,Ponte Preta/SP,False,False,first
+61,2017-06-14,Sport/PE,0,0,São Paulo,False,False,first
+62,2017-06-14,Vitória/BA,2,2,Botafogo,False,False,first
+63,2017-06-14,Atlético-GO,3,1,Avaí/SC,False,False,first
+64,2017-06-14,Atlético-MG,0,1,Atlético-PR,False,False,first
+65,2017-06-14,Santos,1,0,Palmeiras,False,False,first
+66,2017-06-14,Chapecoense,2,1,Vasco da Gama,False,False,first
+67,2017-06-14,Corinthians,1,0,Cruzeiro,False,False,first
+68,2017-06-15,Fluminense,0,2,Grêmio,False,False,first
+69,2017-06-15,Coritiba,0,0,Bahia/BA,False,False,first
+70,2017-06-17,Santos,0,0,Ponte Preta/SP,False,False,first
+71,2017-06-17,Atlético-GO,0,1,Atlético-PR,False,False,first
+72,2017-06-17,Vasco da Gama,1,0,Avaí/SC,False,False,first
+73,2017-06-18,Coritiba,0,0,Corinthians,False,False,first
+74,2017-06-18,Bahia/BA,2,4,Palmeiras,False,False,first
+75,2017-06-18,Fluminense,2,2,Flamengo,False,False,first
+76,2017-06-18,Chapecoense,0,2,Botafogo,False,False,first
+77,2017-06-18,São Paulo,1,2,Atlético-MG,False,False,first
 78,2017-06-18,Sport/PE,1,3,Vitória/BA,False,False,first
-79,2017-06-19,Cruzeiro/MG,3,3,Grêmio/RS,False,False,first
-80,2017-06-21,Botafogo/RJ,3,1,Vasco da Gama/RJ,False,False,first
-81,2017-06-21,Palmeiras/SP,1,0,Atlético/GO,False,False,first
-82,2017-06-21,Vitória/BA,0,2,Santos/SP,False,False,first
-83,2017-06-21,Avaí/SC,0,3,Fluminense/RJ,False,False,first
-84,2017-06-21,Atlético/MG,2,2,Sport/PE,False,False,first
-85,2017-06-21,Atlético/PR,1,0,São Paulo/SP,False,False,first
-86,2017-06-22,Flamengo/RJ,5,1,Chapecoense/SC,False,False,first
-87,2017-06-22,Grêmio/RS,2,0,Coritiba/PR,False,False,first
-88,2017-06-22,Ponte Preta/SP,1,0,Cruzeiro/MG,False,False,first
-89,2017-06-22,Corinthians/SP,3,0,Bahia/BA,False,False,first
-90,2017-06-24,Santos/SP,0,1,Sport/PE,False,False,first
-91,2017-06-25,Vasco da Gama/RJ,1,0,Atlético/GO,False,False,first
-92,2017-06-25,São Paulo/SP,1,1,Fluminense/RJ,False,False,first
-93,2017-06-25,Cruzeiro/MG,2,0,Coritiba/PR,False,False,first
-94,2017-06-25,Atlético/PR,4,1,Vitória/BA,False,False,first
-95,2017-06-25,Grêmio/RS,0,1,Corinthians/SP,False,False,first
-96,2017-06-25,Ponte Preta/SP,1,2,Palmeiras/SP,False,False,first
-97,2017-06-25,Chapecoense/SC,0,1,Atlético/MG,False,False,first
-98,2017-06-25,Bahia/BA,0,1,Flamengo/RJ,False,False,first
-99,2017-06-26,Botafogo/RJ,0,2,Avaí/SC,False,False,first
-100,2017-07-01,Palmeiras/SP,1,0,Grêmio/RS,False,False,first
-101,2017-07-01,Atlético/GO,1,1,Santos/SP,False,False,first
-102,2017-07-02,Flamengo/RJ,2,0,São Paulo/SP,False,False,first
-103,2017-07-02,Corinthians/SP,1,0,Botafogo/RJ,False,False,first
-104,2017-07-02,Atlético/MG,3,1,Cruzeiro/MG,False,False,first
-105,2017-07-02,Sport/PE,1,0,Atlético/PR,False,False,first
+79,2017-06-19,Cruzeiro,3,3,Grêmio,False,False,first
+80,2017-06-21,Botafogo,3,1,Vasco da Gama,False,False,first
+81,2017-06-21,Palmeiras,1,0,Atlético-GO,False,False,first
+82,2017-06-21,Vitória/BA,0,2,Santos,False,False,first
+83,2017-06-21,Avaí/SC,0,3,Fluminense,False,False,first
+84,2017-06-21,Atlético-MG,2,2,Sport/PE,False,False,first
+85,2017-06-21,Atlético-PR,1,0,São Paulo,False,False,first
+86,2017-06-22,Flamengo,5,1,Chapecoense,False,False,first
+87,2017-06-22,Grêmio,2,0,Coritiba,False,False,first
+88,2017-06-22,Ponte Preta/SP,1,0,Cruzeiro,False,False,first
+89,2017-06-22,Corinthians,3,0,Bahia/BA,False,False,first
+90,2017-06-24,Santos,0,1,Sport/PE,False,False,first
+91,2017-06-25,Vasco da Gama,1,0,Atlético-GO,False,False,first
+92,2017-06-25,São Paulo,1,1,Fluminense,False,False,first
+93,2017-06-25,Cruzeiro,2,0,Coritiba,False,False,first
+94,2017-06-25,Atlético-PR,4,1,Vitória/BA,False,False,first
+95,2017-06-25,Grêmio,0,1,Corinthians,False,False,first
+96,2017-06-25,Ponte Preta/SP,1,2,Palmeiras,False,False,first
+97,2017-06-25,Chapecoense,0,1,Atlético-MG,False,False,first
+98,2017-06-25,Bahia/BA,0,1,Flamengo,False,False,first
+99,2017-06-26,Botafogo,0,2,Avaí/SC,False,False,first
+100,2017-07-01,Palmeiras,1,0,Grêmio,False,False,first
+101,2017-07-01,Atlético-GO,1,1,Santos,False,False,first
+102,2017-07-02,Flamengo,2,0,São Paulo,False,False,first
+103,2017-07-02,Corinthians,1,0,Botafogo,False,False,first
+104,2017-07-02,Atlético-MG,3,1,Cruzeiro,False,False,first
+105,2017-07-02,Sport/PE,1,0,Atlético-PR,False,False,first
 106,2017-07-02,Vitória/BA,0,0,Bahia/BA,False,False,first
 107,2017-07-02,Avaí/SC,0,0,Ponte Preta/SP,False,False,first
-108,2017-07-02,Coritiba/PR,2,2,Vasco da Gama/RJ,False,False,first
-109,2017-07-03,Fluminense/RJ,3,3,Chapecoense/SC,False,False,first
-110,2017-07-08,Atlético/GO,1,2,Vitória/BA,False,False,first
-111,2017-07-08,Vasco da Gama/RJ,0,1,Flamengo/RJ,False,False,first
-112,2017-07-08,Corinthians/SP,2,0,Ponte Preta/SP,False,False,first
-113,2017-07-09,Chapecoense/SC,1,1,Atlético/PR,False,False,first
-114,2017-07-09,Cruzeiro/MG,3,1,Palmeiras/SP,False,False,first
-115,2017-07-09,Bahia/BA,1,1,Fluminense/RJ,False,False,first
-116,2017-07-09,Santos/SP,3,2,São Paulo/SP,False,False,first
-117,2017-07-09,Grêmio/RS,0,2,Avaí/SC,False,False,first
-118,2017-07-09,Botafogo/RJ,1,1,Atlético/MG,False,False,first
-119,2017-07-10,Coritiba/PR,0,3,Sport/PE,False,False,first
-120,2017-07-12,Fluminense/RJ,0,1,Botafogo/RJ,False,False,first
-121,2017-07-12,Atlético/MG,0,1,Santos/SP,False,False,first
+108,2017-07-02,Coritiba,2,2,Vasco da Gama,False,False,first
+109,2017-07-03,Fluminense,3,3,Chapecoense,False,False,first
+110,2017-07-08,Atlético-GO,1,2,Vitória/BA,False,False,first
+111,2017-07-08,Vasco da Gama,0,1,Flamengo,False,False,first
+112,2017-07-08,Corinthians,2,0,Ponte Preta/SP,False,False,first
+113,2017-07-09,Chapecoense,1,1,Atlético-PR,False,False,first
+114,2017-07-09,Cruzeiro,3,1,Palmeiras,False,False,first
+115,2017-07-09,Bahia/BA,1,1,Fluminense,False,False,first
+116,2017-07-09,Santos,3,2,São Paulo,False,False,first
+117,2017-07-09,Grêmio,0,2,Avaí/SC,False,False,first
+118,2017-07-09,Botafogo,1,1,Atlético-MG,False,False,first
+119,2017-07-10,Coritiba,0,3,Sport/PE,False,False,first
+120,2017-07-12,Fluminense,0,1,Botafogo,False,False,first
+121,2017-07-12,Atlético-MG,0,1,Santos,False,False,first
 122,2017-07-12,Ponte Preta/SP,0,3,Bahia/BA,False,False,first
-123,2017-07-12,Atlético/PR,0,2,Cruzeiro/MG,False,False,first
-124,2017-07-12,Palmeiras/SP,0,2,Corinthians/SP,False,False,first
-125,2017-07-12,Vitória/BA,1,4,Vasco da Gama/RJ,False,False,first
-126,2017-07-13,Avaí/SC,1,4,Coritiba/PR,False,False,first
-127,2017-07-13,Flamengo/RJ,0,1,Grêmio/RS,False,False,first
-128,2017-07-13,São Paulo/SP,2,2,Atlético/GO,False,False,first
-129,2017-07-13,Sport/PE,3,0,Chapecoense/SC,False,False,first
-130,2017-07-15,Corinthians/SP,2,2,Atlético/PR,False,False,first
-131,2017-07-16,Palmeiras/SP,4,2,Vitória/BA,False,False,first
-132,2017-07-16,Chapecoense/SC,2,0,São Paulo/SP,False,False,first
-133,2017-07-16,Cruzeiro/MG,1,1,Flamengo/RJ,False,False,first
-134,2017-07-16,Grêmio/RS,3,1,Ponte Preta/SP,False,False,first
-135,2017-07-16,Vasco da Gama/RJ,0,0,Santos/SP,False,False,first
-136,2017-07-16,Atlético/GO,1,2,Atlético/MG,False,False,first
+123,2017-07-12,Atlético-PR,0,2,Cruzeiro,False,False,first
+124,2017-07-12,Palmeiras,0,2,Corinthians,False,False,first
+125,2017-07-12,Vitória/BA,1,4,Vasco da Gama,False,False,first
+126,2017-07-13,Avaí/SC,1,4,Coritiba,False,False,first
+127,2017-07-13,Flamengo,0,1,Grêmio,False,False,first
+128,2017-07-13,São Paulo,2,2,Atlético-GO,False,False,first
+129,2017-07-13,Sport/PE,3,0,Chapecoense,False,False,first
+130,2017-07-15,Corinthians,2,2,Atlético-PR,False,False,first
+131,2017-07-16,Palmeiras,4,2,Vitória/BA,False,False,first
+132,2017-07-16,Chapecoense,2,0,São Paulo,False,False,first
+133,2017-07-16,Cruzeiro,1,1,Flamengo,False,False,first
+134,2017-07-16,Grêmio,3,1,Ponte Preta/SP,False,False,first
+135,2017-07-16,Vasco da Gama,0,0,Santos,False,False,first
+136,2017-07-16,Atlético-GO,1,2,Atlético-MG,False,False,first
 137,2017-07-16,Bahia/BA,1,1,Avaí/SC,False,False,first
-138,2017-07-16,Coritiba/PR,1,2,Fluminense/RJ,False,False,first
-139,2017-07-17,Botafogo/RJ,2,1,Sport/PE,False,False,first
-140,2017-07-19,Santos/SP,1,0,Chapecoense/SC,False,False,first
-141,2017-07-19,Ponte Preta/SP,4,0,Coritiba/PR,False,False,first
-142,2017-07-19,Avaí/SC,0,0,Corinthians/SP,False,False,first
-143,2017-07-19,Vitória/BA,1,3,Grêmio/RS,False,False,first
-144,2017-07-19,Flamengo/RJ,2,2,Palmeiras/SP,False,False,first
-145,2017-07-19,São Paulo/SP,1,0,Vasco da Gama/RJ,False,False,first
-146,2017-07-19,Atlético/MG,0,2,Bahia/BA,False,False,first
-147,2017-07-20,Sport/PE,4,0,Atlético/GO,False,False,first
-148,2017-07-20,Atlético/PR,0,0,Botafogo/RJ,False,False,first
-149,2017-07-20,Fluminense/RJ,1,1,Cruzeiro/MG,False,False,first
-150,2017-07-22,Vitória/BA,1,2,Chapecoense/SC,False,False,first
-151,2017-07-22,Flamengo/RJ,2,1,Coritiba/PR,False,False,first
-152,2017-07-23,Santos/SP,3,0,Bahia/BA,False,False,first
-153,2017-07-23,Avaí/SC,1,0,Cruzeiro/MG,False,False,first
-154,2017-07-23,Fluminense/RJ,0,1,Corinthians/SP,False,False,first
-155,2017-07-23,Sport/PE,0,2,Palmeiras/SP,False,False,first
-156,2017-07-23,Atlético/GO,1,1,Botafogo/RJ,False,False,first
-157,2017-07-23,Atlético/MG,1,2,Vasco da Gama/RJ,False,False,first
-158,2017-07-23,Atlético/PR,0,2,Ponte Preta/SP,False,False,first
-159,2017-07-24,São Paulo/SP,1,1,Grêmio/RS,False,False,first
-160,2017-07-29,Botafogo/RJ,3,4,São Paulo/SP,False,False,first
-161,2017-07-29,Palmeiras/SP,2,0,Avaí/SC,False,False,first
-162,2017-07-30,Chapecoense/SC,1,2,Atlético/GO,False,False,first
-163,2017-07-30,Corinthians/SP,1,1,Flamengo/RJ,False,False,first
+138,2017-07-16,Coritiba,1,2,Fluminense,False,False,first
+139,2017-07-17,Botafogo,2,1,Sport/PE,False,False,first
+140,2017-07-19,Santos,1,0,Chapecoense,False,False,first
+141,2017-07-19,Ponte Preta/SP,4,0,Coritiba,False,False,first
+142,2017-07-19,Avaí/SC,0,0,Corinthians,False,False,first
+143,2017-07-19,Vitória/BA,1,3,Grêmio,False,False,first
+144,2017-07-19,Flamengo,2,2,Palmeiras,False,False,first
+145,2017-07-19,São Paulo,1,0,Vasco da Gama,False,False,first
+146,2017-07-19,Atlético-MG,0,2,Bahia/BA,False,False,first
+147,2017-07-20,Sport/PE,4,0,Atlético-GO,False,False,first
+148,2017-07-20,Atlético-PR,0,0,Botafogo,False,False,first
+149,2017-07-20,Fluminense,1,1,Cruzeiro,False,False,first
+150,2017-07-22,Vitória/BA,1,2,Chapecoense,False,False,first
+151,2017-07-22,Flamengo,2,1,Coritiba,False,False,first
+152,2017-07-23,Santos,3,0,Bahia/BA,False,False,first
+153,2017-07-23,Avaí/SC,1,0,Cruzeiro,False,False,first
+154,2017-07-23,Fluminense,0,1,Corinthians,False,False,first
+155,2017-07-23,Sport/PE,0,2,Palmeiras,False,False,first
+156,2017-07-23,Atlético-GO,1,1,Botafogo,False,False,first
+157,2017-07-23,Atlético-MG,1,2,Vasco da Gama,False,False,first
+158,2017-07-23,Atlético-PR,0,2,Ponte Preta/SP,False,False,first
+159,2017-07-24,São Paulo,1,1,Grêmio,False,False,first
+160,2017-07-29,Botafogo,3,4,São Paulo,False,False,first
+161,2017-07-29,Palmeiras,2,0,Avaí/SC,False,False,first
+162,2017-07-30,Chapecoense,1,2,Atlético-GO,False,False,first
+163,2017-07-30,Corinthians,1,1,Flamengo,False,False,first
 164,2017-07-30,Bahia/BA,1,3,Sport/PE,False,False,first
-165,2017-07-30,Coritiba/PR,0,2,Atlético/MG,False,False,first
-166,2017-07-30,Cruzeiro/MG,0,0,Vitória/BA,False,False,first
-167,2017-07-30,Grêmio/RS,1,1,Santos/SP,False,False,first
-168,2017-07-31,Vasco da Gama/RJ,0,1,Atlético/PR,False,False,first
+165,2017-07-30,Coritiba,0,2,Atlético-MG,False,False,first
+166,2017-07-30,Cruzeiro,0,0,Vitória/BA,False,False,first
+167,2017-07-30,Grêmio,1,1,Santos,False,False,first
+168,2017-07-31,Vasco da Gama,0,1,Atlético-PR,False,False,first
 169,2017-08-02,Vitória/BA,3,1,Ponte Preta/SP,False,False,first
-170,2017-08-02,Atlético/MG,0,2,Corinthians/SP,False,False,first
-171,2017-08-02,Sport/PE,2,2,Fluminense/RJ,False,False,first
-172,2017-08-02,Chapecoense/SC,1,1,Bahia/BA,False,False,first
-173,2017-08-02,Botafogo/RJ,1,2,Palmeiras/SP,False,False,first
-174,2017-08-02,Santos/SP,3,2,Flamengo/RJ,False,False,first
-175,2017-08-02,Atlético/GO,0,1,Grêmio/RS,False,False,first
-176,2017-08-03,Atlético/PR,5,0,Avaí/SC,False,False,first
-177,2017-08-03,Vasco da Gama/RJ,0,3,Cruzeiro/MG,False,False,first
-178,2017-08-03,São Paulo/SP,1,2,Coritiba/PR,False,False,first
-179,2017-08-05,Fluminense/RJ,3,1,Atlético/GO,False,False,first
-180,2017-08-05,Corinthians/SP,3,1,Sport/PE,False,False,first
-181,2017-08-06,Flamengo/RJ,0,2,Vitória/BA,False,False,first
-182,2017-08-06,Bahia/BA,2,1,São Paulo/SP,False,False,first
-183,2017-08-06,Cruzeiro/MG,0,0,Botafogo/RJ,False,False,first
-184,2017-08-06,Grêmio/RS,2,0,Atlético/MG,False,False,first
-185,2017-08-06,Coritiba/PR,2,0,Chapecoense/SC,False,False,first
-186,2017-08-06,Palmeiras/SP,0,1,Atlético/PR,False,False,first
-187,2017-08-06,Ponte Preta/SP,0,0,Vasco da Gama/RJ,False,False,first
-188,2017-08-06,Avaí/SC,0,0,Santos/SP,False,False,first
-189,2017-08-09,Ponte Preta/SP,0,0,Fluminense/RJ,False,False,first
-190,2017-08-12,Atlético/GO,1,0,Coritiba/PR,False,False,first
+170,2017-08-02,Atlético-MG,0,2,Corinthians,False,False,first
+171,2017-08-02,Sport/PE,2,2,Fluminense,False,False,first
+172,2017-08-02,Chapecoense,1,1,Bahia/BA,False,False,first
+173,2017-08-02,Botafogo,1,2,Palmeiras,False,False,first
+174,2017-08-02,Santos,3,2,Flamengo,False,False,first
+175,2017-08-02,Atlético-GO,0,1,Grêmio,False,False,first
+176,2017-08-03,Atlético-PR,5,0,Avaí/SC,False,False,first
+177,2017-08-03,Vasco da Gama,0,3,Cruzeiro,False,False,first
+178,2017-08-03,São Paulo,1,2,Coritiba,False,False,first
+179,2017-08-05,Fluminense,3,1,Atlético-GO,False,False,first
+180,2017-08-05,Corinthians,3,1,Sport/PE,False,False,first
+181,2017-08-06,Flamengo,0,2,Vitória/BA,False,False,first
+182,2017-08-06,Bahia/BA,2,1,São Paulo,False,False,first
+183,2017-08-06,Cruzeiro,0,0,Botafogo,False,False,first
+184,2017-08-06,Grêmio,2,0,Atlético-MG,False,False,first
+185,2017-08-06,Coritiba,2,0,Chapecoense,False,False,first
+186,2017-08-06,Palmeiras,0,1,Atlético-PR,False,False,first
+187,2017-08-06,Ponte Preta/SP,0,0,Vasco da Gama,False,False,first
+188,2017-08-06,Avaí/SC,0,0,Santos,False,False,first
+189,2017-08-09,Ponte Preta/SP,0,0,Fluminense,False,False,first
+190,2017-08-12,Atlético-GO,1,0,Coritiba,False,False,first
 191,2017-08-12,Vitória/BA,0,1,Avaí/SC,False,False,first
-192,2017-08-13,São Paulo/SP,3,2,Cruzeiro/MG,False,False,first
-193,2017-08-13,Vasco da Gama/RJ,1,1,Palmeiras/SP,False,False,first
-194,2017-08-13,Atlético/MG,2,0,Flamengo/RJ,False,False,first
+192,2017-08-13,São Paulo,3,2,Cruzeiro,False,False,first
+193,2017-08-13,Vasco da Gama,1,1,Palmeiras,False,False,first
+194,2017-08-13,Atlético-MG,2,0,Flamengo,False,False,first
 195,2017-08-13,Sport/PE,0,0,Ponte Preta/SP,False,False,first
-196,2017-08-13,Botafogo/RJ,1,0,Grêmio/RS,False,False,first
-197,2017-08-13,Atlético/PR,4,1,Bahia/BA,False,False,first
-198,2017-08-14,Santos/SP,0,0,Fluminense/RJ,False,False,first
-199,2017-08-19,Corinthians/SP,0,1,Vitória/BA,False,False,first
-200,2017-08-19,Flamengo/RJ,2,0,Atlético/GO,False,False,first
-201,2017-08-20,Ponte Preta/SP,2,1,Botafogo/RJ,False,False,first
-202,2017-08-20,Avaí/SC,1,1,São Paulo/SP,False,False,first
-203,2017-08-20,Grêmio/RS,0,0,Atlético/PR,False,False,first
-204,2017-08-20,Bahia/BA,3,0,Vasco da Gama/RJ,False,False,first
-205,2017-08-20,Cruzeiro/MG,2,0,Sport/PE,False,False,first
-206,2017-08-20,Coritiba/PR,0,0,Santos/SP,False,False,first
-207,2017-08-20,Palmeiras/SP,0,2,Chapecoense/SC,False,False,first
-208,2017-08-21,Fluminense/RJ,2,1,Atlético/MG,False,False,first
-209,2017-08-23,Chapecoense/SC,0,1,Corinthians/SP,False,False,first
-210,2017-08-26,Fluminense/RJ,0,1,Vasco da Gama/RJ,False,False,first
-211,2017-08-26,Corinthians/SP,0,1,Atlético/GO,False,False,first
-212,2017-08-27,Bahia/BA,1,2,Botafogo/RJ,False,False,first
-213,2017-08-27,Ponte Preta/SP,1,2,Atlético/MG,False,False,first
-214,2017-08-27,Flamengo/RJ,2,0,Atlético/PR,False,False,first
-215,2017-08-27,Palmeiras/SP,4,2,São Paulo/SP,False,False,first
-216,2017-08-27,Cruzeiro/MG,1,1,Santos/SP,False,False,first
-217,2017-08-27,Avaí/SC,1,0,Chapecoense/SC,False,False,first
-218,2017-08-28,Coritiba/PR,0,1,Vitória/BA,False,False,first
-219,2017-09-02,Grêmio/RS,5,0,Sport/PE,False,False,first
-220,2017-09-09,Atlético/MG,1,1,Palmeiras/SP,False,False,first
-221,2017-09-09,Vasco da Gama/RJ,1,0,Grêmio/RS,False,False,first
-222,2017-09-09,São Paulo/SP,2,2,Ponte Preta/SP,False,False,first
-223,2017-09-10,Atlético/PR,1,1,Coritiba/PR,False,False,first
-224,2017-09-10,Santos/SP,2,0,Corinthians/SP,False,False,first
-225,2017-09-10,Vitória/BA,2,2,Fluminense/RJ,False,False,first
+196,2017-08-13,Botafogo,1,0,Grêmio,False,False,first
+197,2017-08-13,Atlético-PR,4,1,Bahia/BA,False,False,first
+198,2017-08-14,Santos,0,0,Fluminense,False,False,first
+199,2017-08-19,Corinthians,0,1,Vitória/BA,False,False,first
+200,2017-08-19,Flamengo,2,0,Atlético-GO,False,False,first
+201,2017-08-20,Ponte Preta/SP,2,1,Botafogo,False,False,first
+202,2017-08-20,Avaí/SC,1,1,São Paulo,False,False,first
+203,2017-08-20,Grêmio,0,0,Atlético-PR,False,False,first
+204,2017-08-20,Bahia/BA,3,0,Vasco da Gama,False,False,first
+205,2017-08-20,Cruzeiro,2,0,Sport/PE,False,False,first
+206,2017-08-20,Coritiba,0,0,Santos,False,False,first
+207,2017-08-20,Palmeiras,0,2,Chapecoense,False,False,first
+208,2017-08-21,Fluminense,2,1,Atlético-MG,False,False,first
+209,2017-08-23,Chapecoense,0,1,Corinthians,False,False,first
+210,2017-08-26,Fluminense,0,1,Vasco da Gama,False,False,first
+211,2017-08-26,Corinthians,0,1,Atlético-GO,False,False,first
+212,2017-08-27,Bahia/BA,1,2,Botafogo,False,False,first
+213,2017-08-27,Ponte Preta/SP,1,2,Atlético-MG,False,False,first
+214,2017-08-27,Flamengo,2,0,Atlético-PR,False,False,first
+215,2017-08-27,Palmeiras,4,2,São Paulo,False,False,first
+216,2017-08-27,Cruzeiro,1,1,Santos,False,False,first
+217,2017-08-27,Avaí/SC,1,0,Chapecoense,False,False,first
+218,2017-08-28,Coritiba,0,1,Vitória/BA,False,False,first
+219,2017-09-02,Grêmio,5,0,Sport/PE,False,False,first
+220,2017-09-09,Atlético-MG,1,1,Palmeiras,False,False,first
+221,2017-09-09,Vasco da Gama,1,0,Grêmio,False,False,first
+222,2017-09-09,São Paulo,2,2,Ponte Preta/SP,False,False,first
+223,2017-09-10,Atlético-PR,1,1,Coritiba,False,False,first
+224,2017-09-10,Santos,2,0,Corinthians,False,False,first
+225,2017-09-10,Vitória/BA,2,2,Fluminense,False,False,first
 226,2017-09-10,Sport/PE,0,1,Avaí/SC,False,False,first
-227,2017-09-10,Botafogo/RJ,2,0,Flamengo/RJ,False,False,first
-228,2017-09-10,Chapecoense/SC,1,2,Cruzeiro/MG,False,False,first
-229,2017-09-11,Atlético/GO,1,1,Bahia/BA,False,False,first
-230,2017-09-16,Ponte Preta/SP,1,3,Atlético/GO,False,False,first
-231,2017-09-16,Botafogo/RJ,2,0,Santos/SP,False,False,first
-232,2017-09-17,Avaí/SC,1,1,Atlético/MG,False,False,first
-233,2017-09-17,Vitória/BA,1,2,São Paulo/SP,False,False,first
-234,2017-09-17,Atlético/PR,3,1,Fluminense/RJ,False,False,first
-235,2017-09-17,Corinthians/SP,1,0,Vasco da Gama/RJ,False,False,first
-236,2017-09-17,Grêmio/RS,0,1,Chapecoense/SC,False,False,first
-237,2017-09-17,Flamengo/RJ,2,0,Sport/PE,False,False,first
-238,2017-09-17,Cruzeiro/MG,1,0,Bahia/BA,False,False,first
-239,2017-09-18,Palmeiras/SP,1,0,Coritiba/PR,False,False,first
-240,2017-09-23,Santos/SP,1,0,Atlético/PR,False,False,first
-241,2017-09-23,Flamengo/RJ,1,1,Avaí/SC,False,False,first
-242,2017-09-24,São Paulo/SP,1,1,Corinthians/SP,False,False,first
-243,2017-09-24,Coritiba/PR,2,3,Botafogo/RJ,False,False,first
-244,2017-09-24,Atlético/GO,1,2,Cruzeiro/MG,False,False,first
-245,2017-09-24,Fluminense/RJ,0,1,Palmeiras/SP,False,False,first
-246,2017-09-24,Chapecoense/SC,1,0,Ponte Preta/SP,False,False,first
-247,2017-09-24,Atlético/MG,1,3,Vitória/BA,False,False,first
-248,2017-09-24,Bahia/BA,1,0,Grêmio/RS,False,False,first
-249,2017-09-25,Sport/PE,1,1,Vasco da Gama/RJ,False,False,first
-250,2017-09-30,Bahia/BA,1,1,Coritiba/PR,False,False,first
-251,2017-09-30,Vasco da Gama/RJ,1,1,Chapecoense/SC,False,False,first
-252,2017-09-30,Palmeiras/SP,0,1,Santos/SP,False,False,first
-253,2017-10-01,Botafogo/RJ,2,3,Vitória/BA,False,False,first
-254,2017-10-01,Cruzeiro/MG,1,1,Corinthians/SP,False,False,first
-255,2017-10-01,Grêmio/RS,1,0,Fluminense/RJ,False,False,first
-256,2017-10-01,São Paulo/SP,1,0,Sport/PE,False,False,first
-257,2017-10-01,Avaí/SC,0,2,Atlético/GO,False,False,first
-258,2017-10-01,Atlético/PR,0,2,Atlético/MG,False,False,first
-259,2017-10-02,Ponte Preta/SP,1,0,Flamengo/RJ,False,False,first
-260,2017-10-07,Cruzeiro/MG,2,1,Ponte Preta/SP,False,False,first
-261,2017-10-11,Corinthians/SP,3,1,Coritiba/PR,False,False,first
-262,2017-10-11,Atlético/PR,2,2,Atlético/GO,False,False,first
-263,2017-10-11,Botafogo/RJ,2,1,Chapecoense/SC,False,False,first
-264,2017-10-11,Atlético/MG,1,0,São Paulo/SP,False,False,first
-265,2017-10-11,Grêmio/RS,0,1,Cruzeiro/MG,False,False,first
-266,2017-10-11,Avaí/SC,1,2,Vasco da Gama/RJ,False,False,first
-267,2017-10-12,Palmeiras/SP,2,2,Bahia/BA,False,False,first
-268,2017-10-12,Flamengo/RJ,1,1,Fluminense/RJ,False,False,first
+227,2017-09-10,Botafogo,2,0,Flamengo,False,False,first
+228,2017-09-10,Chapecoense,1,2,Cruzeiro,False,False,first
+229,2017-09-11,Atlético-GO,1,1,Bahia/BA,False,False,first
+230,2017-09-16,Ponte Preta/SP,1,3,Atlético-GO,False,False,first
+231,2017-09-16,Botafogo,2,0,Santos,False,False,first
+232,2017-09-17,Avaí/SC,1,1,Atlético-MG,False,False,first
+233,2017-09-17,Vitória/BA,1,2,São Paulo,False,False,first
+234,2017-09-17,Atlético-PR,3,1,Fluminense,False,False,first
+235,2017-09-17,Corinthians,1,0,Vasco da Gama,False,False,first
+236,2017-09-17,Grêmio,0,1,Chapecoense,False,False,first
+237,2017-09-17,Flamengo,2,0,Sport/PE,False,False,first
+238,2017-09-17,Cruzeiro,1,0,Bahia/BA,False,False,first
+239,2017-09-18,Palmeiras,1,0,Coritiba,False,False,first
+240,2017-09-23,Santos,1,0,Atlético-PR,False,False,first
+241,2017-09-23,Flamengo,1,1,Avaí/SC,False,False,first
+242,2017-09-24,São Paulo,1,1,Corinthians,False,False,first
+243,2017-09-24,Coritiba,2,3,Botafogo,False,False,first
+244,2017-09-24,Atlético-GO,1,2,Cruzeiro,False,False,first
+245,2017-09-24,Fluminense,0,1,Palmeiras,False,False,first
+246,2017-09-24,Chapecoense,1,0,Ponte Preta/SP,False,False,first
+247,2017-09-24,Atlético-MG,1,3,Vitória/BA,False,False,first
+248,2017-09-24,Bahia/BA,1,0,Grêmio,False,False,first
+249,2017-09-25,Sport/PE,1,1,Vasco da Gama,False,False,first
+250,2017-09-30,Bahia/BA,1,1,Coritiba,False,False,first
+251,2017-09-30,Vasco da Gama,1,1,Chapecoense,False,False,first
+252,2017-09-30,Palmeiras,0,1,Santos,False,False,first
+253,2017-10-01,Botafogo,2,3,Vitória/BA,False,False,first
+254,2017-10-01,Cruzeiro,1,1,Corinthians,False,False,first
+255,2017-10-01,Grêmio,1,0,Fluminense,False,False,first
+256,2017-10-01,São Paulo,1,0,Sport/PE,False,False,first
+257,2017-10-01,Avaí/SC,0,2,Atlético-GO,False,False,first
+258,2017-10-01,Atlético-PR,0,2,Atlético-MG,False,False,first
+259,2017-10-02,Ponte Preta/SP,1,0,Flamengo,False,False,first
+260,2017-10-07,Cruzeiro,2,1,Ponte Preta/SP,False,False,first
+261,2017-10-11,Corinthians,3,1,Coritiba,False,False,first
+262,2017-10-11,Atlético-PR,2,2,Atlético-GO,False,False,first
+263,2017-10-11,Botafogo,2,1,Chapecoense,False,False,first
+264,2017-10-11,Atlético-MG,1,0,São Paulo,False,False,first
+265,2017-10-11,Grêmio,0,1,Cruzeiro,False,False,first
+266,2017-10-11,Avaí/SC,1,2,Vasco da Gama,False,False,first
+267,2017-10-12,Palmeiras,2,2,Bahia/BA,False,False,first
+268,2017-10-12,Flamengo,1,1,Fluminense,False,False,first
 269,2017-10-12,Vitória/BA,1,2,Sport/PE,False,False,first
-270,2017-10-12,Ponte Preta/SP,1,1,Santos/SP,False,False,first
-271,2017-10-14,São Paulo/SP,2,1,Atlético/PR,False,False,first
-272,2017-10-14,Vasco da Gama/RJ,1,0,Botafogo/RJ,False,False,first
-273,2017-10-15,Sport/PE,1,1,Atlético/MG,False,False,first
-274,2017-10-15,Chapecoense/SC,0,1,Flamengo/RJ,False,False,first
-275,2017-10-15,Atlético/GO,1,3,Palmeiras/SP,False,False,first
-276,2017-10-15,Fluminense/RJ,1,0,Avaí/SC,False,False,first
-277,2017-10-15,Bahia/BA,2,0,Corinthians/SP,False,False,first
-278,2017-10-15,Coritiba/PR,0,1,Grêmio/RS,False,False,first
-279,2017-10-16,Santos/SP,2,2,Vitória/BA,False,False,first
-280,2017-10-18,Atlético/MG,2,3,Chapecoense/SC,False,False,first
-281,2017-10-18,Atlético/GO,0,1,Vasco da Gama/RJ,False,False,first
-282,2017-10-18,Coritiba/PR,1,0,Cruzeiro/MG,False,False,first
-283,2017-10-18,Fluminense/RJ,3,1,São Paulo/SP,False,False,first
-284,2017-10-18,Avaí/SC,1,1,Botafogo/RJ,False,False,first
-285,2017-10-18,Corinthians/SP,0,0,Grêmio/RS,False,False,first
-286,2017-10-19,Palmeiras/SP,2,0,Ponte Preta/SP,False,False,first
-287,2017-10-19,Sport/PE,1,1,Santos/SP,False,False,first
-288,2017-10-19,Flamengo/RJ,4,1,Bahia/BA,False,False,first
-289,2017-10-19,Vitória/BA,2,3,Atlético/PR,False,False,first
-290,2017-10-21,Vasco da Gama/RJ,1,1,Coritiba/PR,False,False,first
+270,2017-10-12,Ponte Preta/SP,1,1,Santos,False,False,first
+271,2017-10-14,São Paulo,2,1,Atlético-PR,False,False,first
+272,2017-10-14,Vasco da Gama,1,0,Botafogo,False,False,first
+273,2017-10-15,Sport/PE,1,1,Atlético-MG,False,False,first
+274,2017-10-15,Chapecoense,0,1,Flamengo,False,False,first
+275,2017-10-15,Atlético-GO,1,3,Palmeiras,False,False,first
+276,2017-10-15,Fluminense,1,0,Avaí/SC,False,False,first
+277,2017-10-15,Bahia/BA,2,0,Corinthians,False,False,first
+278,2017-10-15,Coritiba,0,1,Grêmio,False,False,first
+279,2017-10-16,Santos,2,2,Vitória/BA,False,False,first
+280,2017-10-18,Atlético-MG,2,3,Chapecoense,False,False,first
+281,2017-10-18,Atlético-GO,0,1,Vasco da Gama,False,False,first
+282,2017-10-18,Coritiba,1,0,Cruzeiro,False,False,first
+283,2017-10-18,Fluminense,3,1,São Paulo,False,False,first
+284,2017-10-18,Avaí/SC,1,1,Botafogo,False,False,first
+285,2017-10-18,Corinthians,0,0,Grêmio,False,False,first
+286,2017-10-19,Palmeiras,2,0,Ponte Preta/SP,False,False,first
+287,2017-10-19,Sport/PE,1,1,Santos,False,False,first
+288,2017-10-19,Flamengo,4,1,Bahia/BA,False,False,first
+289,2017-10-19,Vitória/BA,2,3,Atlético-PR,False,False,first
+290,2017-10-21,Vasco da Gama,1,1,Coritiba,False,False,first
 291,2017-10-22,Bahia/BA,2,1,Vitória/BA,False,False,first
-292,2017-10-22,Cruzeiro/MG,1,3,Atlético/MG,False,False,first
-293,2017-10-22,Atlético/PR,2,1,Sport/PE,False,False,first
-294,2017-10-22,Santos/SP,1,0,Atlético/GO,False,False,first
-295,2017-10-22,São Paulo/SP,2,0,Flamengo/RJ,False,False,first
-296,2017-10-22,Grêmio/RS,1,3,Palmeiras/SP,False,False,first
-297,2017-10-22,Chapecoense/SC,2,0,Fluminense/RJ,False,False,first
+292,2017-10-22,Cruzeiro,1,3,Atlético-MG,False,False,first
+293,2017-10-22,Atlético-PR,2,1,Sport/PE,False,False,first
+294,2017-10-22,Santos,1,0,Atlético-GO,False,False,first
+295,2017-10-22,São Paulo,2,0,Flamengo,False,False,first
+296,2017-10-22,Grêmio,1,3,Palmeiras,False,False,first
+297,2017-10-22,Chapecoense,2,0,Fluminense,False,False,first
 298,2017-10-22,Ponte Preta/SP,1,2,Avaí/SC,False,False,first
-299,2017-10-23,Botafogo/RJ,2,1,Corinthians/SP,False,False,first
-300,2017-10-28,Atlético/PR,0,0,Chapecoense/SC,False,False,first
-301,2017-10-28,São Paulo/SP,2,1,Santos/SP,False,False,first
-302,2017-10-28,Flamengo/RJ,0,0,Vasco da Gama/RJ,False,False,first
-303,2017-10-29,Atlético/MG,0,0,Botafogo/RJ,False,False,first
-304,2017-10-29,Fluminense/RJ,1,1,Bahia/BA,False,False,first
-305,2017-10-29,Ponte Preta/SP,1,0,Corinthians/SP,False,False,first
-306,2017-10-29,Vitória/BA,1,1,Atlético/GO,False,False,first
-307,2017-10-29,Sport/PE,3,4,Coritiba/PR,False,False,first
-308,2017-10-29,Avaí/SC,2,2,Grêmio/RS,False,False,first
-309,2017-10-30,Palmeiras/SP,2,2,Cruzeiro/MG,False,False,first
-310,2017-11-04,Coritiba/PR,4,0,Avaí/SC,False,False,first
-311,2017-11-04,Santos/SP,3,1,Atlético/MG,False,False,first
-312,2017-11-04,Botafogo/RJ,1,2,Fluminense/RJ,False,False,first
-313,2017-11-04,Atlético/GO,0,1,São Paulo/SP,False,False,first
-314,2017-11-05,Corinthians/SP,3,2,Palmeiras/SP,False,False,first
-315,2017-11-05,Cruzeiro/MG,1,0,Atlético/PR,False,False,first
-316,2017-11-05,Grêmio/RS,3,1,Flamengo/RJ,False,False,first
+299,2017-10-23,Botafogo,2,1,Corinthians,False,False,first
+300,2017-10-28,Atlético-PR,0,0,Chapecoense,False,False,first
+301,2017-10-28,São Paulo,2,1,Santos,False,False,first
+302,2017-10-28,Flamengo,0,0,Vasco da Gama,False,False,first
+303,2017-10-29,Atlético-MG,0,0,Botafogo,False,False,first
+304,2017-10-29,Fluminense,1,1,Bahia/BA,False,False,first
+305,2017-10-29,Ponte Preta/SP,1,0,Corinthians,False,False,first
+306,2017-10-29,Vitória/BA,1,1,Atlético-GO,False,False,first
+307,2017-10-29,Sport/PE,3,4,Coritiba,False,False,first
+308,2017-10-29,Avaí/SC,2,2,Grêmio,False,False,first
+309,2017-10-30,Palmeiras,2,2,Cruzeiro,False,False,first
+310,2017-11-04,Coritiba,4,0,Avaí/SC,False,False,first
+311,2017-11-04,Santos,3,1,Atlético-MG,False,False,first
+312,2017-11-04,Botafogo,1,2,Fluminense,False,False,first
+313,2017-11-04,Atlético-GO,0,1,São Paulo,False,False,first
+314,2017-11-05,Corinthians,3,2,Palmeiras,False,False,first
+315,2017-11-05,Cruzeiro,1,0,Atlético-PR,False,False,first
+316,2017-11-05,Grêmio,3,1,Flamengo,False,False,first
 317,2017-11-05,Bahia/BA,2,0,Ponte Preta/SP,False,False,first
-318,2017-11-05,Vasco da Gama/RJ,1,1,Vitória/BA,False,False,first
-319,2017-11-05,Chapecoense/SC,1,1,Sport/PE,False,False,first
-320,2017-11-08,Sport/PE,1,2,Botafogo/RJ,False,False,first
-321,2017-11-08,Atlético/PR,0,1,Corinthians/SP,False,False,first
+318,2017-11-05,Vasco da Gama,1,1,Vitória/BA,False,False,first
+319,2017-11-05,Chapecoense,1,1,Sport/PE,False,False,first
+320,2017-11-08,Sport/PE,1,2,Botafogo,False,False,first
+321,2017-11-08,Atlético-PR,0,1,Corinthians,False,False,first
 322,2017-11-08,Avaí/SC,1,2,Bahia/BA,False,False,first
-323,2017-11-08,Ponte Preta/SP,0,1,Grêmio/RS,False,False,first
-324,2017-11-08,Vitória/BA,3,1,Palmeiras/SP,False,False,first
-325,2017-11-08,Flamengo/RJ,2,0,Cruzeiro/MG,False,False,first
-326,2017-11-08,Santos/SP,1,2,Vasco da Gama/RJ,False,False,first
-327,2017-11-09,São Paulo/SP,2,2,Chapecoense/SC,False,False,first
-328,2017-11-09,Atlético/MG,3,2,Atlético/GO,False,False,first
-329,2017-11-09,Fluminense/RJ,2,2,Coritiba/PR,False,False,first
-330,2017-11-11,Botafogo/RJ,0,1,Atlético/PR,False,False,first
-331,2017-11-11,Corinthians/SP,1,0,Avaí/SC,False,False,first
-332,2017-11-12,Grêmio/RS,1,1,Vitória/BA,False,False,first
-333,2017-11-12,Vasco da Gama/RJ,1,1,São Paulo/SP,False,False,first
-334,2017-11-12,Atlético/GO,2,0,Sport/PE,False,False,first
-335,2017-11-12,Palmeiras/SP,2,0,Flamengo/RJ,False,False,first
-336,2017-11-12,Bahia/BA,2,2,Atlético/MG,False,False,first
-337,2017-11-12,Coritiba/PR,1,1,Ponte Preta/SP,False,False,first
-338,2017-11-12,Cruzeiro/MG,3,1,Fluminense/RJ,False,False,first
-339,2017-11-13,Chapecoense/SC,2,0,Santos/SP,False,False,first
-340,2017-11-15,Ponte Preta/SP,2,1,Atlético/PR,False,False,first
-341,2017-11-15,Cruzeiro/MG,2,2,Avaí/SC,False,False,first
-342,2017-11-15,Grêmio/RS,1,0,São Paulo/SP,False,False,first
-343,2017-11-15,Vasco da Gama/RJ,1,1,Atlético/MG,False,False,first
-344,2017-11-15,Corinthians/SP,3,1,Fluminense/RJ,False,False,first
-345,2017-11-16,Chapecoense/SC,2,1,Vitória/BA,False,False,first
-346,2017-11-16,Botafogo/RJ,1,2,Atlético/GO,False,False,first
-347,2017-11-16,Palmeiras/SP,5,1,Sport/PE,False,False,first
-348,2017-11-16,Bahia/BA,3,1,Santos/SP,False,False,first
-349,2017-11-16,Coritiba/PR,1,0,Flamengo/RJ,False,False,first
-350,2017-11-19,Vitória/BA,1,1,Cruzeiro/MG,False,False,first
+323,2017-11-08,Ponte Preta/SP,0,1,Grêmio,False,False,first
+324,2017-11-08,Vitória/BA,3,1,Palmeiras,False,False,first
+325,2017-11-08,Flamengo,2,0,Cruzeiro,False,False,first
+326,2017-11-08,Santos,1,2,Vasco da Gama,False,False,first
+327,2017-11-09,São Paulo,2,2,Chapecoense,False,False,first
+328,2017-11-09,Atlético-MG,3,2,Atlético-GO,False,False,first
+329,2017-11-09,Fluminense,2,2,Coritiba,False,False,first
+330,2017-11-11,Botafogo,0,1,Atlético-PR,False,False,first
+331,2017-11-11,Corinthians,1,0,Avaí/SC,False,False,first
+332,2017-11-12,Grêmio,1,1,Vitória/BA,False,False,first
+333,2017-11-12,Vasco da Gama,1,1,São Paulo,False,False,first
+334,2017-11-12,Atlético-GO,2,0,Sport/PE,False,False,first
+335,2017-11-12,Palmeiras,2,0,Flamengo,False,False,first
+336,2017-11-12,Bahia/BA,2,2,Atlético-MG,False,False,first
+337,2017-11-12,Coritiba,1,1,Ponte Preta/SP,False,False,first
+338,2017-11-12,Cruzeiro,3,1,Fluminense,False,False,first
+339,2017-11-13,Chapecoense,2,0,Santos,False,False,first
+340,2017-11-15,Ponte Preta/SP,2,1,Atlético-PR,False,False,first
+341,2017-11-15,Cruzeiro,2,2,Avaí/SC,False,False,first
+342,2017-11-15,Grêmio,1,0,São Paulo,False,False,first
+343,2017-11-15,Vasco da Gama,1,1,Atlético-MG,False,False,first
+344,2017-11-15,Corinthians,3,1,Fluminense,False,False,first
+345,2017-11-16,Chapecoense,2,1,Vitória/BA,False,False,first
+346,2017-11-16,Botafogo,1,2,Atlético-GO,False,False,first
+347,2017-11-16,Palmeiras,5,1,Sport/PE,False,False,first
+348,2017-11-16,Bahia/BA,3,1,Santos,False,False,first
+349,2017-11-16,Coritiba,1,0,Flamengo,False,False,first
+350,2017-11-19,Vitória/BA,1,1,Cruzeiro,False,False,first
 351,2017-11-19,Sport/PE,1,0,Bahia/BA,False,False,first
-352,2017-11-19,Atlético/GO,1,1,Chapecoense/SC,False,False,first
-353,2017-11-19,São Paulo/SP,0,0,Botafogo/RJ,False,False,first
-354,2017-11-19,Flamengo/RJ,3,0,Corinthians/SP,False,False,first
-355,2017-11-19,Atlético/MG,3,0,Coritiba/PR,False,False,first
-356,2017-11-19,Santos/SP,1,0,Grêmio/RS,False,False,first
-357,2017-11-19,Atlético/PR,3,1,Vasco da Gama/RJ,False,False,first
-358,2017-11-20,Avaí/SC,2,1,Palmeiras/SP,False,False,first
-359,2017-11-20,Fluminense/RJ,2,0,Ponte Preta/SP,False,False,first
-360,2017-11-25,Fluminense/RJ,1,2,Sport/PE,False,False,first
-361,2017-11-26,Coritiba/PR,1,2,São Paulo/SP,False,False,first
-362,2017-11-26,Corinthians/SP,2,2,Atlético/MG,False,False,first
-363,2017-11-26,Grêmio/RS,1,1,Atlético/GO,False,False,first
-364,2017-11-26,Cruzeiro/MG,0,1,Vasco da Gama/RJ,False,False,first
+352,2017-11-19,Atlético-GO,1,1,Chapecoense,False,False,first
+353,2017-11-19,São Paulo,0,0,Botafogo,False,False,first
+354,2017-11-19,Flamengo,3,0,Corinthians,False,False,first
+355,2017-11-19,Atlético-MG,3,0,Coritiba,False,False,first
+356,2017-11-19,Santos,1,0,Grêmio,False,False,first
+357,2017-11-19,Atlético-PR,3,1,Vasco da Gama,False,False,first
+358,2017-11-20,Avaí/SC,2,1,Palmeiras,False,False,first
+359,2017-11-20,Fluminense,2,0,Ponte Preta/SP,False,False,first
+360,2017-11-25,Fluminense,1,2,Sport/PE,False,False,first
+361,2017-11-26,Coritiba,1,2,São Paulo,False,False,first
+362,2017-11-26,Corinthians,2,2,Atlético-MG,False,False,first
+363,2017-11-26,Grêmio,1,1,Atlético-GO,False,False,first
+364,2017-11-26,Cruzeiro,0,1,Vasco da Gama,False,False,first
 365,2017-11-26,Ponte Preta/SP,2,3,Vitória/BA,False,False,first
-366,2017-11-26,Avaí/SC,1,0,Atlético/PR,False,False,first
-367,2017-11-26,Bahia/BA,0,1,Chapecoense/SC,False,False,first
-368,2017-11-26,Flamengo/RJ,1,2,Santos/SP,False,False,first
-369,2017-11-27,Palmeiras/SP,2,0,Botafogo/RJ,False,False,first
-370,2017-12-03,Santos/SP,1,1,Avaí/SC,False,False,first
-371,2017-12-03,Sport/PE,1,0,Corinthians/SP,False,False,first
-372,2017-12-03,Atlético/GO,1,1,Fluminense/RJ,False,False,first
-373,2017-12-03,São Paulo/SP,1,1,Bahia/BA,False,False,first
-374,2017-12-03,Botafogo/RJ,2,2,Cruzeiro/MG,False,False,first
-375,2017-12-03,Atlético/MG,4,3,Grêmio/RS,False,False,first
-376,2017-12-03,Vitória/BA,1,2,Flamengo/RJ,False,False,first
-377,2017-12-03,Athletico/PR,3,0,Palmeiras/SP,False,False,first
-378,2017-12-03,Vasco da Gama/RJ,2,1,Ponte Preta/SP,False,False,first
-379,2017-12-03,Chapecoense/SC,2,1,Coritiba/PR,False,False,first
+366,2017-11-26,Avaí/SC,1,0,Atlético-PR,False,False,first
+367,2017-11-26,Bahia/BA,0,1,Chapecoense,False,False,first
+368,2017-11-26,Flamengo,1,2,Santos,False,False,first
+369,2017-11-27,Palmeiras,2,0,Botafogo,False,False,first
+370,2017-12-03,Santos,1,1,Avaí/SC,False,False,first
+371,2017-12-03,Sport/PE,1,0,Corinthians,False,False,first
+372,2017-12-03,Atlético-GO,1,1,Fluminense,False,False,first
+373,2017-12-03,São Paulo,1,1,Bahia/BA,False,False,first
+374,2017-12-03,Botafogo,2,2,Cruzeiro,False,False,first
+375,2017-12-03,Atlético-MG,4,3,Grêmio,False,False,first
+376,2017-12-03,Vitória/BA,1,2,Flamengo,False,False,first
+377,2017-12-03,Athletico/PR,3,0,Palmeiras,False,False,first
+378,2017-12-03,Vasco da Gama,2,1,Ponte Preta/SP,False,False,first
+379,2017-12-03,Chapecoense,2,1,Coritiba,False,False,first

@@ -386,32 +386,32 @@
 384,1979-11-28,Brasil,3,0,Mixto,False,False,second
 385,1979-11-28,América-RJ,1,1,Coritiba,False,False,second
 386,1979-11-30,Campinense,0,1,Coritiba,False,False,second
-387,1979-11-07,Botafogo-RJ,6,1,São Bento,False,False,second
+387,1979-11-07,Botafogo,6,1,São Bento,False,False,second
 388,1979-11-08,Grêmio Maringá,1,0,Joinville,False,False,second
 389,1979-11-08,Operário-MS,2,0,Comercial-MS,False,False,second
 390,1979-11-11,São Bento,2,2,Operário-MS,False,False,second
 391,1979-11-11,Joinville,3,2,ABC,False,False,second
 392,1979-11-11,Figueirense,0,0,Grêmio Maringá,False,False,second
-393,1979-11-11,Comercial-MS,1,1,Botafogo-RJ,False,False,second
+393,1979-11-11,Comercial-MS,1,1,Botafogo,False,False,second
 394,1979-11-15,Grêmio Maringá,1,4,Operário-MS,False,False,second
-395,1979-11-15,Botafogo-RJ,0,0,Figueirense,False,False,second
+395,1979-11-15,Botafogo,0,0,Figueirense,False,False,second
 396,1979-11-15,ABC,1,2,Comercial-MS,False,False,second
 397,1979-11-15,Joinville,2,1,São Bento,False,False,second
 398,1979-11-18,Figueirense,2,0,Comercial-MS,False,False,second
 399,1979-11-18,Operário-MS,4,1,Joinville,False,False,second
-400,1979-11-18,Botafogo-RJ,1,0,ABC,False,False,second
+400,1979-11-18,Botafogo,1,0,ABC,False,False,second
 401,1979-11-18,Grêmio Maringá,2,3,São Bento,False,False,second
-402,1979-11-21,Joinville,0,0,Botafogo-RJ,False,False,second
+402,1979-11-21,Joinville,0,0,Botafogo,False,False,second
 403,1979-11-21,São Bento,1,0,ABC,False,False,second
 404,1979-11-21,Comercial-MS,1,0,Grêmio Maringá,False,False,second
 405,1979-11-22,Operário-MS,1,1,Figueirense,False,False,second
-406,1979-11-24,Botafogo-RJ,1,0,Grêmio Maringá,False,False,second
+406,1979-11-24,Botafogo,1,0,Grêmio Maringá,False,False,second
 407,1979-11-25,Figueirense,1,1,Joinville,False,False,second
 408,1979-11-25,ABC,0,1,Operário-MS,False,False,second
 409,1979-11-25,Comercial-MS,0,1,São Bento,False,False,second
 410,1979-11-28,Joinville,1,0,Comercial-MS,False,False,second
 411,1979-11-28,São Bento,2,0,Figueirense,False,False,second
-412,1979-11-28,Operário-MS,2,0,Botafogo-RJ,False,False,second
+412,1979-11-28,Operário-MS,2,0,Botafogo,False,False,second
 413,1979-11-07,Internacional-RS,1,0,Goytacaz,False,False,second
 414,1979-11-07,São Paulo-RS,1,1,Caldense,False,False,second
 415,1979-11-08,Desportiva,2,2,Internacional-SP,False,False,second
@@ -498,31 +498,31 @@
 496,1979-11-28,ASA,0,1,Vasco da Gama,False,False,second
 497,1979-11-08,Vila Nova-GO,2,0,Vitória,False,False,second
 498,1979-11-08,Maranhão,1,0,XV de Novembro/J,False,False,second
-499,1979-11-08,Campo Grande,1,1,Fluminense-RJ,False,False,second
-500,1979-11-11,XV de Novembro/J,2,2,Fluminense-RJ,False,False,second
+499,1979-11-08,Campo Grande,1,1,Fluminense,False,False,second
+500,1979-11-11,XV de Novembro/J,2,2,Fluminense,False,False,second
 501,1979-11-11,Itabaiana,1,1,Vila Nova-GO,False,False,second
 502,1979-11-11,Campo Grande,5,0,Maranhão,False,False,second
 503,1979-11-11,Vitória,3,0,Uberlândia,False,False,second
-504,1979-11-15,Vila Nova-GO,2,2,Fluminense-RJ,False,False,second
+504,1979-11-15,Vila Nova-GO,2,2,Fluminense,False,False,second
 505,1979-11-15,Uberlândia,2,1,Campo Grande,False,False,second
 506,1979-11-15,Vitória,3,1,XV de Novembro/J,False,False,second
 507,1979-11-15,Maranhão,1,0,Itabaiana,False,False,second
 508,1979-11-17,Vila Nova-GO,0,0,XV de Novembro/J,False,False,second
-509,1979-11-17,Fluminense-RJ,2,1,Vitória,False,False,second
+509,1979-11-17,Fluminense,2,1,Vitória,False,False,second
 510,1979-11-18,Maranhão,0,1,Uberlândia,False,False,second
 511,1979-11-18,Campo Grande,2,1,Itabaiana,False,False,second
 512,1979-11-21,Campo Grande,0,0,Vila Nova-GO,False,False,second
-513,1979-11-21,Fluminense-RJ,5,0,Itabaiana,False,False,second
+513,1979-11-21,Fluminense,5,0,Itabaiana,False,False,second
 514,1979-11-21,Vitória,2,1,Maranhão,False,False,second
 515,1979-11-21,XV de Novembro/J,1,2,Uberlândia,False,False,second
 516,1979-11-23,Uberlândia,3,0,Itabaiana,False,False,second
 517,1979-11-25,Itabaiana,1,2,Vitória,False,False,second
-518,1979-11-25,Uberlândia,0,0,Fluminense-RJ,False,False,second
+518,1979-11-25,Uberlândia,0,0,Fluminense,False,False,second
 519,1979-11-25,Maranhão,0,1,Vila Nova-GO,False,False,second
 520,1979-11-25,Campo Grande,1,2,XV de Novembro/J,False,False,second
 521,1979-11-28,XV de Novembro/J,2,1,Itabaiana,False,False,second
 522,1979-11-28,Vitória,1,0,Campo Grande,False,False,second
-523,1979-11-29,Fluminense-RJ,6,0,Maranhão,False,False,second
+523,1979-11-29,Fluminense,6,0,Maranhão,False,False,second
 524,1979-11-29,Vila Nova-GO,0,0,Uberlândia,False,False,second
 525,1979-11-07,CSA,1,0,Villa Nova-MG,False,False,second
 526,1979-11-07,Cruzeiro,4,0,Dom Bosco,False,False,second

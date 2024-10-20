@@ -120,24 +120,24 @@
 118,1983-03-06,Atlético-MG,1,0,Juventus,False,False,first
 119,1983-03-06,América-RJ,4,0,Rio Branco,False,False,first
 120,1983-01-23,Internacional,2,0,Colorado,False,False,first
-121,1983-01-23,Brasília,3,2,Botafogo-RJ,False,False,first
+121,1983-01-23,Brasília,3,2,Botafogo,False,False,first
 122,1983-01-26,Colorado,2,0,Brasília,False,False,first
-123,1983-01-27,Botafogo-RJ,0,1,Ferroviária,False,False,first
+123,1983-01-27,Botafogo,0,1,Ferroviária,False,False,first
 124,1983-01-29,Ferroviária,2,0,Colorado,False,False,first
 125,1983-01-29,Internacional,2,0,Brasília,False,False,first
-126,1983-02-02,Botafogo-RJ,0,0,Colorado,False,False,first
+126,1983-02-02,Botafogo,0,0,Colorado,False,False,first
 127,1983-02-02,Ferroviária,2,0,Internacional,False,False,first
-128,1983-02-05,Botafogo-RJ,1,0,Internacional,False,False,first
+128,1983-02-05,Botafogo,1,0,Internacional,False,False,first
 129,1983-02-05,Brasília,0,0,Ferroviária,False,False,first
 130,1983-02-09,Brasília,1,2,Internacional,False,False,first
 131,1983-02-09,Colorado,2,0,Ferroviária,False,False,first
-132,1983-02-19,Colorado,3,0,Botafogo-RJ,False,False,first
+132,1983-02-19,Colorado,3,0,Botafogo,False,False,first
 133,1983-02-19,Internacional,0,0,Ferroviária,False,False,first
 134,1983-02-23,Brasília,0,0,Colorado,False,False,first
-135,1983-02-23,Ferroviária,2,1,Botafogo-RJ,False,False,first
-136,1983-02-26,Botafogo-RJ,3,0,Brasília,False,False,first
+135,1983-02-23,Ferroviária,2,1,Botafogo,False,False,first
+136,1983-02-26,Botafogo,3,0,Brasília,False,False,first
 137,1983-02-27,Colorado,2,0,Internacional,False,False,first
-138,1983-03-06,Internacional,0,0,Botafogo-RJ,False,False,first
+138,1983-03-06,Internacional,0,0,Botafogo,False,False,first
 139,1983-03-06,Ferroviária,3,1,Brasília,False,False,first
 140,1983-01-22,Cruzeiro,3,1,Náutico,False,False,first
 141,1983-01-23,Ferroviário,0,2,Vasco da Gama,False,False,first
@@ -162,7 +162,7 @@
 160,1983-03-09,Paysandu,1,3,Campo Grande,False,True,relegation
 161,1983-03-09,Sport,2,1,CSA,False,True,relegation
 162,1983-03-09,Goiás,2,2,Juventus,False,True,relegation
-163,1983-03-09,Botafogo-RJ,3,1,Ferroviário,False,True,relegation
+163,1983-03-09,Botafogo,3,1,Ferroviário,False,True,relegation
 164,1983-03-13,Santos,4,1,Comercial,False,False,second
 165,1983-03-13,Guarani,1,0,Cruzeiro,False,False,second
 166,1983-03-16,Cruzeiro,2,0,Comercial,False,False,second
@@ -224,17 +224,17 @@
 222,1983-03-23,Flamengo,2,0,Tiradentes,False,False,second
 223,1983-04-02,Palmeiras,0,0,Americano,False,False,second
 224,1983-03-13,América-RJ,4,2,Grêmio,False,False,second
-225,1983-03-13,Botafogo-RJ,3,1,Sergipe,False,False,second
+225,1983-03-13,Botafogo,3,1,Sergipe,False,False,second
 226,1983-03-16,Sergipe,3,1,América-RJ,False,False,second
-227,1983-03-16,Grêmio,1,1,Botafogo-RJ,False,False,second
+227,1983-03-16,Grêmio,1,1,Botafogo,False,False,second
 228,1983-03-19,Grêmio,5,0,Sergipe,False,False,second
-229,1983-03-22,América-RJ,0,0,Botafogo-RJ,False,False,second
+229,1983-03-22,América-RJ,0,0,Botafogo,False,False,second
 230,1983-03-10,Sergipe,0,3,Grêmio,False,False,second
-231,1983-03-26,Botafogo-RJ,1,2,América-RJ,False,False,second
-232,1983-03-30,Botafogo-RJ,1,1,Grêmio,False,False,second
+231,1983-03-26,Botafogo,1,2,América-RJ,False,False,second
+232,1983-03-30,Botafogo,1,1,Grêmio,False,False,second
 233,1983-03-30,América-RJ,4,3,Sergipe,False,False,second
 234,1983-04-03,Grêmio,1,1,América-RJ,False,False,second
-235,1983-04-03,Sergipe,2,6,Botafogo-RJ,False,False,second
+235,1983-04-03,Sergipe,2,6,Botafogo,False,False,second
 236,1983-03-13,América-RN,1,3,Ferroviária,False,False,second
 237,1983-03-13,Botafogo-SP,2,0,Atlético-PR,False,False,second
 238,1983-03-16,Atlético-PR,1,1,Ferroviária,False,False,second

@@ -31,7 +31,7 @@ Fluminense         2-0  Bahia
 Goiás              3-0  Corinthians
 Juventude          1-1  Flamengo
 Guarani            0-0  Santa Cruz
-Botafogo-RJ        0-0  Atlético-MG
+Botafogo        0-0  Atlético-MG
 América-MG         0-1  Gama
 Cruzeiro           0-2  Atlético-PR
 
@@ -44,7 +44,7 @@ Internacional      0-1  Goiás
 Bahia              2-1  Atlético-PR
 Coritiba           0-0  Sport
 [Aug 3]
-Palmeiras          0-0  Botafogo-RJ
+Palmeiras          0-0  Botafogo
 
 [Aug 5]
 Fluminense         2-1  Santos
@@ -52,7 +52,7 @@ Atlético-PR        1-1  Flamengo
 Corinthians        4-2  Gama
 [Aug 6]
 Grêmio             0-1  Palmeiras
-Coritiba           0-2  Botafogo-RJ
+Coritiba           0-2  Botafogo
 São Paulo          2-1  Santa Cruz
 Portuguesa         0-2  Goiás
 Atlético-MG        0-0  Bahia
@@ -65,7 +65,7 @@ Gama               0-1  Atlético-PR
 Internacional      1-1  Fluminense
 Santos             1-1  São Paulo
 Flamengo           1-1  Guarani
-Botafogo-RJ        4-1  Portuguesa
+Botafogo        4-1  Portuguesa
 Santa Cruz         2-1  Vitória
 Bahia              1-1  Grêmio
 Goiás              1-0  Coritiba
@@ -84,7 +84,7 @@ Atlético-PR        0-0  Palmeiras
 Guarani            0-1  Vasco da Gama
 Corinthians        2-0  Santa Cruz
 Portuguesa         2-0  Juventude
-Botafogo-RJ        0-1  Internacional
+Botafogo        0-1  Internacional
 Sport              1-1  Cruzeiro
 Goiás              4-5  Vitória
 
@@ -95,7 +95,7 @@ Santos             3-0  América-MG
 Fluminense         0-0  Guarani
 Internacional      1-1  Atlético-MG
 Vitória            2-0  Portuguesa
-Goiás              3-2  Botafogo-RJ
+Goiás              3-2  Botafogo
 Gama               0-1  Bahia
 Palmeiras          0-1  Corinthians
 [Aug 17]
@@ -108,7 +108,7 @@ Gama               1-1  Goiás
 Palmeiras          1-4  Internacional
 Guarani            0-1  Cruzeiro
 [Aug 20]
-Botafogo-RJ        1-1  Corinthians
+Botafogo        1-1  Corinthians
 Santa Cruz         2-2  Flamengo
 Vasco da Gama      2-1  Ponte Preta
 Juventude          1-1  Sport
@@ -128,7 +128,7 @@ Juventude          1-1  Santos
 Fluminense         2-0  Juventude
 Cruzeiro           3-1  Vitória
 Atlético-PR        2-1  São Paulo
-Guarani            1-2  Botafogo-RJ
+Guarani            1-2  Botafogo
 [Aug 27]
 Ponte Preta        3-2  Atlético-MG
 Corinthians        1-2  Grêmio
@@ -143,7 +143,7 @@ Corinthians        0-3  Santos
 Guarani            1-2  Juventude
 Portuguesa         3-1  Gama
 Vitória            3-0  Internacional
-Botafogo-RJ        0-2  Atlético-PR
+Botafogo        0-2  Atlético-PR
 
 [Sep 2]
 Atlético-MG        1-2  Flamengo
@@ -152,7 +152,7 @@ Gama               0-1  Internacional
 Santos             1-1  Cruzeiro
 Vitória            4-3  Sport
 América-MG         1-0  Guarani
-Fluminense         1-0  Botafogo-RJ
+Fluminense         1-0  Botafogo
 Grêmio             2-2  Ponte Preta
 Palmeiras          0-3  São Paulo
 Santa Cruz         0-0  Portuguesa
@@ -161,7 +161,7 @@ Santa Cruz         0-0  Portuguesa
 Vasco da Gama      2-2  Atlético-PR
 Cruzeiro           1-1  Internacional
 [Sep 6]
-América-MG         5-2  Botafogo-RJ
+América-MG         5-2  Botafogo
 Juventude          2-1  Coritiba
 Fluminense         2-1  Portuguesa
 Gama               1-1  Santa Cruz
@@ -189,7 +189,7 @@ Ponte Preta        3-3  São Paulo
 Sport              4-1  Atlético-PR
 Gama               2-0  Palmeiras
 Vasco da Gama      4-3  Fluminense
-Cruzeiro           4-0  Botafogo-RJ
+Cruzeiro           4-0  Botafogo
 Portuguesa         3-1  Bahia
 Vitória            3-1  Coritiba
 [Sep 14]
@@ -201,7 +201,7 @@ Internacional      1-1  Santos
 Atlético-MG        2-2  Fluminense
 Vitória            1-1  Gama
 Atlético-PR        0-1  Juventude
-Botafogo-RJ        3-1  Ponte Preta
+Botafogo        3-1  Ponte Preta
 [Sep 17]
 Guarani            0-0  Goiás
 Bahia              4-1  Flamengo
@@ -236,7 +236,7 @@ Juventude          1-2  Vasco da Gama
 São Paulo          3-0  América-MG
 Portuguesa         2-3  Guarani
 Ponte Preta        3-0  Sport
-Botafogo-RJ        0-0  Vitória
+Botafogo        0-0  Vitória
 Santa Cruz         2-1  Juventude
 [Sep 28]
 Corinthians        2-3  Atlético-PR
@@ -253,7 +253,7 @@ Atlético-MG        2-4  Cruzeiro
 Palmeiras          2-1  Coritiba
 Vasco da Gama      4-0  Atlético-MG
 São Paulo          1-1  Grêmio
-Botafogo-RJ        2-1  Juventude
+Botafogo        2-1  Juventude
 América-MG         1-1  Portuguesa
 Santa Cruz         0-3  Sport
 Atlético-PR        0-1  Guarani
@@ -270,7 +270,7 @@ Guarani            2-2  Bahia
 Atlético-PR        4-0  Santa Cruz
 Internacional      1-2  Grêmio
 América-MG         1-1  Cruzeiro
-Botafogo-RJ        3-1  Flamengo
+Botafogo        3-1  Flamengo
 Corinthians        2-3  Portuguesa
 Atlético-MG        2-1  Goiás
 
@@ -298,7 +298,7 @@ Internacional      3-2  Bahia
 Grêmio             2-2  Portuguesa
 Juventude          1-2  Goiás
 Santa Cruz         1-1  Coritiba
-Botafogo-RJ        1-0  São Paulo
+Botafogo        1-0  São Paulo
 Guarani            3-2  Corinthians
 Fluminense         2-1  Cruzeiro
 
@@ -309,7 +309,7 @@ Guarani            3-2  Grêmio
 Flamengo           1-2  América-MG
 Palmeiras          0-1  Cruzeiro
 Atlético-PR        1-0  Fluminense
-Botafogo-RJ        2-0  Gama
+Botafogo        2-0  Gama
 [Oct 19]
 Atlético-MG        2-1  Coritiba
 
@@ -326,7 +326,7 @@ Vitória            0-1  Juventude
 São Paulo          2-2  Guarani
 Coritiba           3-2  América-MG
 Atlético-MG        2-2  Grêmio
-Sport              2-2  Botafogo-RJ
+Sport              2-2  Botafogo
 
 [Oct 24]
 Vasco da Gama      2-1  Goiás
@@ -336,7 +336,7 @@ Bahia              1-2  Ponte Preta
 Fluminense         6-1  Santa Cruz
    [Magno Alves (5), ? ; ?]
 Sport              3-1  Corinthians
-Grêmio             2-1  Botafogo-RJ
+Grêmio             2-1  Botafogo
 
 [Oct 27]
 Flamengo           4-0  Vasco da Gama
@@ -358,7 +358,7 @@ Guarani            2-1  Ponte Preta
 Coritiba           0-1  Vasco da Gama
 
 [Nov 4]
-Bahia              2-0  Botafogo-RJ
+Bahia              2-0  Botafogo
 Cruzeiro           3-1  Corinthians
 Atlético-PR        3-1  Vitória
 Goiás              2-2  Grêmio
@@ -394,7 +394,7 @@ Grêmio             3-0  Atlético-PR
 Internacional      3-0  Flamengo
 Bahia              1-2  Palmeiras
 São Paulo          0-0  Corinthians
-Vasco da Gama      1-2  Botafogo-RJ
+Vasco da Gama      1-2  Botafogo
 Cruzeiro           2-2  Ponte Preta
 Gama               1-2  Guarani
 
@@ -407,7 +407,7 @@ Juventude          0-0  Bahia
 Corinthians        1-4  Flamengo
 Guarani            3-2  Santos
 Grêmio             0-1  Vasco da Gama
-Botafogo-RJ        1-2  Santa Cruz
+Botafogo        1-2  Santa Cruz
 Fluminense         2-0  Coritiba
 Sport              1-0  América-MG
 Atlético-PR        2-1  Internacional
@@ -415,7 +415,7 @@ Goiás              3-0  Ponte Preta
 Vitória            2-0  Atlético-MG
 
 [Nov 19]
-Santos             4-1  Botafogo-RJ
+Santos             4-1  Botafogo
 Palmeiras          2-0  Guarani
 Portuguesa         2-1  Atlético-PR
 Flamengo           3-2  Vitória

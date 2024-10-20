@@ -5,7 +5,7 @@
 3,2000-07-30,Goiás,3,0,Corinthians,False,False,first
 4,2000-07-30,Juventude,1,1,Flamengo,False,False,first
 5,2000-07-30,Guarani,0,0,Santa Cruz,False,False,first
-6,2000-07-30,Botafogo-RJ,0,0,Atlético-MG,False,False,first
+6,2000-07-30,Botafogo,0,0,Atlético-MG,False,False,first
 7,2000-07-30,América-MG,0,1,Gama,False,False,first
 8,2000-07-30,Cruzeiro,0,2,Atlético-PR,False,False,first
 9,2000-08-02,Flamengo,3,0,Grêmio,False,False,first
@@ -15,12 +15,12 @@
 13,2000-08-02,Internacional,0,1,Goiás,False,False,first
 14,2000-08-02,Bahia,2,1,Atlético-PR,False,False,first
 15,2000-08-02,Coritiba,0,0,Sport,False,False,first
-16,2000-08-03,Palmeiras,0,0,Botafogo-RJ,False,False,first
+16,2000-08-03,Palmeiras,0,0,Botafogo,False,False,first
 17,2000-08-05,Fluminense,2,1,Santos,False,False,first
 18,2000-08-05,Atlético-PR,1,1,Flamengo,False,False,first
 19,2000-08-05,Corinthians,4,2,Gama,False,False,first
 20,2000-08-06,Grêmio,0,1,Palmeiras,False,False,first
-21,2000-08-06,Coritiba,0,2,Botafogo-RJ,False,False,first
+21,2000-08-06,Coritiba,0,2,Botafogo,False,False,first
 22,2000-08-06,São Paulo,2,1,Santa Cruz,False,False,first
 23,2000-08-06,Portuguesa,0,2,Goiás,False,False,first
 24,2000-08-06,Atlético-MG,0,0,Bahia,False,False,first
@@ -30,7 +30,7 @@
 28,2000-08-09,Internacional,1,1,Fluminense,False,False,first
 29,2000-08-09,Santos,1,1,São Paulo,False,False,first
 30,2000-08-09,Flamengo,1,1,Guarani,False,False,first
-31,2000-08-09,Botafogo-RJ,4,1,Portuguesa,False,False,first
+31,2000-08-09,Botafogo,4,1,Portuguesa,False,False,first
 32,2000-08-09,Santa Cruz,2,1,Vitória,False,False,first
 33,2000-08-09,Bahia,1,1,Grêmio,False,False,first
 34,2000-08-09,Goiás,1,0,Coritiba,False,False,first
@@ -44,7 +44,7 @@
 42,2000-08-13,Guarani,0,1,Vasco da Gama,False,False,first
 43,2000-08-13,Corinthians,2,0,Santa Cruz,False,False,first
 44,2000-08-13,Portuguesa,2,0,Juventude,False,False,first
-45,2000-08-13,Botafogo-RJ,0,1,Internacional,False,False,first
+45,2000-08-13,Botafogo,0,1,Internacional,False,False,first
 46,2000-08-13,Sport,1,1,Cruzeiro,False,False,first
 47,2000-08-13,Goiás,4,5,Vitória,False,False,first
 48,2000-08-16,Cruzeiro,2,2,São Paulo,False,False,first
@@ -53,7 +53,7 @@
 51,2000-08-16,Fluminense,0,0,Guarani,False,False,first
 52,2000-08-16,Internacional,1,1,Atlético-MG,False,False,first
 53,2000-08-16,Vitória,2,0,Portuguesa,False,False,first
-54,2000-08-16,Goiás,3,2,Botafogo-RJ,False,False,first
+54,2000-08-16,Goiás,3,2,Botafogo,False,False,first
 55,2000-08-16,Gama,0,1,Bahia,False,False,first
 56,2000-08-16,Palmeiras,0,1,Corinthians,False,False,first
 57,2000-08-17,Flamengo,2,1,Coritiba,False,False,first
@@ -62,7 +62,7 @@
 60,2000-08-19,Gama,1,1,Goiás,False,False,first
 61,2000-08-19,Palmeiras,1,4,Internacional,False,False,first
 62,2000-08-19,Guarani,0,1,Cruzeiro,False,False,first
-63,2000-08-20,Botafogo-RJ,1,1,Corinthians,False,False,first
+63,2000-08-20,Botafogo,1,1,Corinthians,False,False,first
 64,2000-08-20,Santa Cruz,2,2,Flamengo,False,False,first
 65,2000-08-20,Vasco da Gama,2,1,Ponte Preta,False,False,first
 66,2000-08-20,Juventude,1,1,Sport,False,False,first
@@ -78,7 +78,7 @@
 76,2000-08-26,Fluminense,2,0,Juventude,False,False,first
 77,2000-08-26,Cruzeiro,3,1,Vitória,False,False,first
 78,2000-08-26,Atlético-PR,2,1,São Paulo,False,False,first
-79,2000-08-26,Guarani,1,2,Botafogo-RJ,False,False,first
+79,2000-08-26,Guarani,1,2,Botafogo,False,False,first
 80,2000-08-27,Ponte Preta,3,2,Atlético-MG,False,False,first
 81,2000-08-27,Corinthians,1,2,Grêmio,False,False,first
 82,2000-08-27,Internacional,1,1,Coritiba,False,False,first
@@ -90,20 +90,20 @@
 88,2000-08-30,Guarani,1,2,Juventude,False,False,first
 89,2000-08-30,Portuguesa,3,1,Gama,False,False,first
 90,2000-08-30,Vitória,3,0,Internacional,False,False,first
-91,2000-08-30,Botafogo-RJ,0,2,Atlético-PR,False,False,first
+91,2000-08-30,Botafogo,0,2,Atlético-PR,False,False,first
 92,2000-09-02,Atlético-MG,1,2,Flamengo,False,False,first
 93,2000-09-02,Coritiba,1,1,Bahia,False,False,first
 94,2000-09-02,Gama,0,1,Internacional,False,False,first
 95,2000-09-02,Santos,1,1,Cruzeiro,False,False,first
 96,2000-09-02,Vitória,4,3,Sport,False,False,first
 97,2000-09-02,América-MG,1,0,Guarani,False,False,first
-98,2000-09-02,Fluminense,1,0,Botafogo-RJ,False,False,first
+98,2000-09-02,Fluminense,1,0,Botafogo,False,False,first
 99,2000-09-02,Grêmio,2,2,Ponte Preta,False,False,first
 100,2000-09-02,Palmeiras,0,3,São Paulo,False,False,first
 101,2000-09-02,Santa Cruz,0,0,Portuguesa,False,False,first
 102,2000-09-05,Vasco da Gama,2,2,Atlético-PR,False,False,first
 103,2000-09-05,Cruzeiro,1,1,Internacional,False,False,first
-104,2000-09-06,América-MG,5,2,Botafogo-RJ,False,False,first
+104,2000-09-06,América-MG,5,2,Botafogo,False,False,first
 105,2000-09-06,Juventude,2,1,Coritiba,False,False,first
 106,2000-09-06,Fluminense,2,1,Portuguesa,False,False,first
 107,2000-09-06,Gama,1,1,Santa Cruz,False,False,first
@@ -125,7 +125,7 @@
 123,2000-09-13,Sport,4,1,Atlético-PR,False,False,first
 124,2000-09-13,Gama,2,0,Palmeiras,False,False,first
 125,2000-09-13,Vasco da Gama,4,3,Fluminense,False,False,first
-126,2000-09-13,Cruzeiro,4,0,Botafogo-RJ,False,False,first
+126,2000-09-13,Cruzeiro,4,0,Botafogo,False,False,first
 127,2000-09-13,Portuguesa,3,1,Bahia,False,False,first
 128,2000-09-13,Vitória,3,1,Coritiba,False,False,first
 129,2000-09-14,Grêmio,2,1,América-MG,False,False,first
@@ -134,7 +134,7 @@
 132,2000-09-16,Atlético-MG,2,2,Fluminense,False,False,first
 133,2000-09-16,Vitória,1,1,Gama,False,False,first
 134,2000-09-16,Atlético-PR,0,1,Juventude,False,False,first
-135,2000-09-16,Botafogo-RJ,3,1,Ponte Preta,False,False,first
+135,2000-09-16,Botafogo,3,1,Ponte Preta,False,False,first
 136,2000-09-17,Guarani,0,0,Goiás,False,False,first
 137,2000-09-17,Bahia,4,1,Flamengo,False,False,first
 138,2000-09-17,Palmeiras,1,1,Sport,False,False,first
@@ -161,7 +161,7 @@
 159,2000-09-27,São Paulo,3,0,América-MG,False,False,first
 160,2000-09-27,Portuguesa,2,3,Guarani,False,False,first
 161,2000-09-27,Ponte Preta,3,0,Sport,False,False,first
-162,2000-09-27,Botafogo-RJ,0,0,Vitória,False,False,first
+162,2000-09-27,Botafogo,0,0,Vitória,False,False,first
 163,2000-09-27,Santa Cruz,2,1,Juventude,False,False,first
 164,2000-09-28,Corinthians,2,3,Atlético-PR,False,False,first
 165,2000-09-30,Gama,2,4,Flamengo,False,False,first
@@ -173,7 +173,7 @@
 171,2000-10-04,Palmeiras,2,1,Coritiba,False,False,first
 172,2000-10-04,Vasco da Gama,4,0,Atlético-MG,False,False,first
 173,2000-10-04,São Paulo,1,1,Grêmio,False,False,first
-174,2000-10-04,Botafogo-RJ,2,1,Juventude,False,False,first
+174,2000-10-04,Botafogo,2,1,Juventude,False,False,first
 175,2000-10-04,América-MG,1,1,Portuguesa,False,False,first
 176,2000-10-04,Santa Cruz,0,3,Sport,False,False,first
 177,2000-10-04,Atlético-PR,0,1,Guarani,False,False,first
@@ -188,7 +188,7 @@
 186,2000-10-07,Atlético-PR,4,0,Santa Cruz,False,False,first
 187,2000-10-07,Internacional,1,2,Grêmio,False,False,first
 188,2000-10-07,América-MG,1,1,Cruzeiro,False,False,first
-189,2000-10-07,Botafogo-RJ,3,1,Flamengo,False,False,first
+189,2000-10-07,Botafogo,3,1,Flamengo,False,False,first
 190,2000-10-07,Corinthians,2,3,Portuguesa,False,False,first
 191,2000-10-07,Atlético-MG,2,1,Goiás,False,False,first
 192,2000-10-10,Cruzeiro,3,0,Santa Cruz,False,False,first
@@ -208,7 +208,7 @@
 206,2000-10-15,Grêmio,2,2,Portuguesa,False,False,first
 207,2000-10-15,Juventude,1,2,Goiás,False,False,first
 208,2000-10-15,Santa Cruz,1,1,Coritiba,False,False,first
-209,2000-10-15,Botafogo-RJ,1,0,São Paulo,False,False,first
+209,2000-10-15,Botafogo,1,0,São Paulo,False,False,first
 210,2000-10-15,Guarani,3,2,Corinthians,False,False,first
 211,2000-10-15,Fluminense,2,1,Cruzeiro,False,False,first
 212,2000-10-17,São Paulo,1,1,Internacional,False,False,first
@@ -216,7 +216,7 @@
 214,2000-10-18,Flamengo,1,2,América-MG,False,False,first
 215,2000-10-18,Palmeiras,0,1,Cruzeiro,False,False,first
 216,2000-10-18,Atlético-PR,1,0,Fluminense,False,False,first
-217,2000-10-18,Botafogo-RJ,2,0,Gama,False,False,first
+217,2000-10-18,Botafogo,2,0,Gama,False,False,first
 218,2000-10-19,Atlético-MG,2,1,Coritiba,False,False,first
 219,2000-10-21,Goiás,3,1,Santos,False,False,first
 220,2000-10-21,Portuguesa,2,1,Flamengo,False,False,first
@@ -228,13 +228,13 @@
 226,2000-10-22,São Paulo,2,2,Guarani,False,False,first
 227,2000-10-22,Coritiba,3,2,América-MG,False,False,first
 228,2000-10-22,Atlético-MG,2,2,Grêmio,False,False,first
-229,2000-10-22,Sport,2,2,Botafogo-RJ,False,False,first
+229,2000-10-22,Sport,2,2,Botafogo,False,False,first
 230,2000-10-24,Vasco da Gama,2,1,Goiás,False,False,first
 231,2000-10-25,Gama,0,0,Atlético-MG,False,False,first
 232,2000-10-25,Bahia,1,2,Ponte Preta,False,False,first
 233,2000-10-25,Fluminense,6,1,Santa Cruz,False,False,first
 234,2000-10-25,Sport,3,1,Corinthians,False,False,first
-235,2000-10-25,Grêmio,2,1,Botafogo-RJ,False,False,first
+235,2000-10-25,Grêmio,2,1,Botafogo,False,False,first
 236,2000-10-27,Flamengo,4,0,Vasco da Gama,False,False,first
 237,2000-10-28,América-MG,2,3,Vitória,False,False,first
 238,2000-10-28,Grêmio,4,1,Gama,False,False,first
@@ -246,7 +246,7 @@
 244,2000-11-01,Internacional,1,0,Corinthians,False,False,first
 245,2000-11-02,Guarani,2,1,Ponte Preta,False,False,first
 246,2000-11-03,Coritiba,0,1,Vasco da Gama,False,False,first
-247,2000-11-04,Bahia,2,0,Botafogo-RJ,False,False,first
+247,2000-11-04,Bahia,2,0,Botafogo,False,False,first
 248,2000-11-04,Cruzeiro,3,1,Corinthians,False,False,first
 249,2000-11-04,Atlético-PR,3,1,Vitória,False,False,first
 250,2000-11-04,Goiás,2,2,Grêmio,False,False,first
@@ -273,7 +273,7 @@
 271,2000-11-12,Internacional,3,0,Flamengo,False,False,first
 272,2000-11-12,Bahia,1,2,Palmeiras,False,False,first
 273,2000-11-12,São Paulo,0,0,Corinthians,False,False,first
-274,2000-11-12,Vasco da Gama,1,2,Botafogo-RJ,False,False,first
+274,2000-11-12,Vasco da Gama,1,2,Botafogo,False,False,first
 275,2000-11-12,Cruzeiro,2,2,Ponte Preta,False,False,first
 276,2000-11-12,Gama,1,2,Guarani,False,False,first
 277,2000-11-14,Flamengo,1,2,Cruzeiro,False,False,first
@@ -281,13 +281,13 @@
 279,2000-11-16,Corinthians,1,4,Flamengo,False,False,first
 280,2000-11-16,Guarani,3,2,Santos,False,False,first
 281,2000-11-16,Grêmio,0,1,Vasco da Gama,False,False,first
-282,2000-11-16,Botafogo-RJ,1,2,Santa Cruz,False,False,first
+282,2000-11-16,Botafogo,1,2,Santa Cruz,False,False,first
 283,2000-11-16,Fluminense,2,0,Coritiba,False,False,first
 284,2000-11-16,Sport,1,0,América-MG,False,False,first
 285,2000-11-16,Atlético-PR,2,1,Internacional,False,False,first
 286,2000-11-16,Goiás,3,0,Ponte Preta,False,False,first
 287,2000-11-16,Vitória,2,0,Atlético-MG,False,False,first
-288,2000-11-19,Santos,4,1,Botafogo-RJ,False,False,first
+288,2000-11-19,Santos,4,1,Botafogo,False,False,first
 289,2000-11-19,Palmeiras,2,0,Guarani,False,False,first
 290,2000-11-19,Portuguesa,2,1,Atlético-PR,False,False,first
 291,2000-11-19,Flamengo,3,2,Vitória,False,False,first

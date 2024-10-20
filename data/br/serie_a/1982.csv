@@ -39,25 +39,25 @@
 37,1982-02-14,Ceará,3,2,América-RN,False,False,first
 38,1982-02-17,River,1,2,Ceará,False,False,first
 39,1982-02-17,América-RN,1,2,Guarani,False,False,first
-40,1982-01-16,São Paulo-SP,5,0,Treze,False,False,first
+40,1982-01-16,São Paulo,5,0,Treze,False,False,first
 41,1982-01-17,Ferroviário,1,2,Náutico,False,False,first
-42,1982-01-20,Flamengo,3,2,São Paulo-SP,False,False,first
+42,1982-01-20,Flamengo,3,2,São Paulo,False,False,first
 43,1982-01-20,Treze,1,1,Náutico,False,False,first
 44,1982-01-24,Náutico,3,4,Flamengo,False,False,first
 45,1982-01-24,Ferroviário,0,2,Treze,False,False,first
 46,1982-01-28,Flamengo,5,0,Treze,False,False,first
-47,1982-01-28,São Paulo-SP,4,0,Ferroviário,False,False,first
-48,1982-01-31,Náutico,1,4,São Paulo-SP,False,False,first
+47,1982-01-28,São Paulo,4,0,Ferroviário,False,False,first
+48,1982-01-31,Náutico,1,4,São Paulo,False,False,first
 49,1982-01-31,Flamengo,3,0,Ferroviário,False,False,first
-50,1982-02-03,Treze,0,3,São Paulo-SP,False,False,first
+50,1982-02-03,Treze,0,3,São Paulo,False,False,first
 51,1982-02-04,Náutico,2,3,Ferroviário,False,False,first
 52,1982-02-07,Treze,1,3,Flamengo,False,False,first
-53,1982-02-07,Ferroviário,1,2,São Paulo-SP,False,False,first
-54,1982-02-10,São Paulo-SP,1,1,Náutico,False,False,first
+53,1982-02-07,Ferroviário,1,2,São Paulo,False,False,first
+54,1982-02-10,São Paulo,1,1,Náutico,False,False,first
 55,1982-02-10,Ferroviário,1,2,Flamengo,False,False,first
 56,1982-02-13,Flamengo,1,1,Náutico,False,False,first
 57,1982-02-14,Treze,2,0,Ferroviário,False,False,first
-58,1982-02-16,São Paulo-SP,3,4,Flamengo,False,False,first
+58,1982-02-16,São Paulo,3,4,Flamengo,False,False,first
 59,1982-02-17,Náutico,0,0,Treze,False,False,first
 60,1982-01-17,Itabaiana,0,1,Internacional-SP,False,False,first
 61,1982-01-17,CSA,1,2,Sport,False,False,first
@@ -235,18 +235,18 @@
 233,1982-03-17,Treze,0,3,São José,False,False,second
 234,1982-03-24,Botafogo,1,3,Treze,False,False,second
 235,1982-03-24,São José,0,0,Londrina,False,False,second
-236,1982-02-28,Atlético-PR,1,3,São Paulo-SP,False,False,second
+236,1982-02-28,Atlético-PR,1,3,São Paulo,False,False,second
 237,1982-02-28,Ceará,2,3,Ponte Preta,False,False,second
-238,1982-03-07,São Paulo-SP,2,1,Ponte Preta,False,False,second
+238,1982-03-07,São Paulo,2,1,Ponte Preta,False,False,second
 239,1982-03-07,Ceará,1,0,Atlético-PR,False,False,second
 240,1982-03-11,Ponte Preta,1,1,Atlético-PR,False,False,second
-241,1982-03-11,São Paulo-SP,5,2,Ceará,False,False,second
+241,1982-03-11,São Paulo,5,2,Ceará,False,False,second
 242,1982-03-14,Atlético-PR,0,3,Ceará,False,False,second
-243,1982-03-14,Ponte Preta,1,0,São Paulo-SP,False,False,second
-244,1982-03-17,Ceará,2,3,São Paulo-SP,False,False,second
+243,1982-03-14,Ponte Preta,1,0,São Paulo,False,False,second
+244,1982-03-17,Ceará,2,3,São Paulo,False,False,second
 245,1982-03-17,Atlético-PR,0,0,Ponte Preta,False,False,second
 246,1982-03-25,Ponte Preta,0,1,Ceará,False,False,second
-247,1982-03-25,São Paulo-SP,1,0,Atlético-PR,False,False,second
+247,1982-03-25,São Paulo,1,0,Atlético-PR,False,False,second
 248,1982-02-28,Moto Clube,1,0,Anapolina,False,False,second
 249,1982-02-28,Cruzeiro,2,2,Fluminense,False,False,second
 250,1982-03-07,Anapolina,3,1,Fluminense,False,False,second
@@ -263,8 +263,8 @@
 261,1982-03-28,Grêmio,1,0,Vasco da Gama,False,False,round16
 262,1982-03-28,Operário-MS,1,1,Guarani,False,False,round16
 263,1982-03-28,Guarani,1,0,Operário-MS,False,False,round16
-264,1982-03-28,Anapolina,3,1,São Paulo-SP,False,False,round16
-265,1982-03-28,São Paulo-SP,4,0,Anapolina,False,False,round16
+264,1982-03-28,Anapolina,3,1,São Paulo,False,False,round16
+265,1982-03-28,São Paulo,4,0,Anapolina,False,False,round16
 266,1982-03-28,Flamengo,2,0,Sport,False,False,round16
 267,1982-03-28,Sport,2,1,Flamengo,False,False,round16
 268,1982-03-28,Londrina,0,0,Santos,False,False,round16
@@ -279,8 +279,8 @@
 277,1982-04-03,Santos,1,1,Flamengo,False,False,round16
 278,1982-04-04,Grêmio,1,1,Fluminense,False,False,round16
 279,1982-04-04,Fluminense,1,2,Grêmio,False,False,round16
-280,1982-04-04,São Paulo-SP,0,1,Guarani,False,False,round16
-281,1982-04-04,Guarani,2,0,São Paulo-SP,False,False,round16
+280,1982-04-04,São Paulo,0,1,Guarani,False,False,round16
+281,1982-04-04,Guarani,2,0,São Paulo,False,False,round16
 282,1982-04-04,Bangu,0,1,Corinthians,False,False,round16
 283,1982-04-04,Corinthians,1,2,Bangu,False,False,round16
 284,1982-04-11,Corinthians,1,2,Grêmio,False,False,semi
