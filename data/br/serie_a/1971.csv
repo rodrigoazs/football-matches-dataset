@@ -1,7 +1,7 @@
 ,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 0,1971-08-07,Santa Cruz,1,4,Corinthians,False,False,first
 1,1971-08-07,Internacional,0,0,Fluminense,False,False,first
-2,1971-08-07,Palmeiras,1,0,Portuguesa,False,False,first
+2,1971-08-07,Palmeiras,1,0,Portuguesa-SP,False,False,first
 3,1971-08-07,Ceará,0,0,Vasco da Gama,False,False,first
 4,1971-08-07,Coritiba,0,2,Cruzeiro,False,False,first
 5,1971-08-07,São Paulo,0,3,Grêmio,False,False,first
@@ -10,7 +10,7 @@
 8,1971-08-07,Atlético-MG,1,1,América-MG,False,False,first
 9,1971-08-07,Botafogo,0,0,América-GB,False,False,first
 10,1971-08-11,Ceará,0,1,Corinthians,False,False,first
-11,1971-08-11,Cruzeiro,2,1,Portuguesa,False,False,first
+11,1971-08-11,Cruzeiro,2,1,Portuguesa-SP,False,False,first
 12,1971-08-11,Bahia,1,1,Flamengo,False,False,first
 13,1971-08-11,América-GB,0,2,Grêmio,False,False,first
 14,1971-08-11,Sport,0,2,Santos,False,False,first
@@ -19,7 +19,7 @@
 17,1971-08-14,Botafogo,1,1,Flamengo,False,False,first
 18,1971-08-14,América-MG,1,1,América-GB,False,False,first
 19,1971-08-14,Grêmio,1,1,Atlético-MG,False,False,first
-20,1971-08-15,Coritiba,2,1,Portuguesa,False,False,first
+20,1971-08-15,Coritiba,2,1,Portuguesa-SP,False,False,first
 21,1971-08-15,Corinthians,0,0,Palmeiras,False,False,first
 22,1971-08-15,Fluminense,0,1,Vasco da Gama,False,False,first
 23,1971-08-15,Ceará,0,0,Santa Cruz,False,False,first
@@ -34,7 +34,7 @@
 32,1971-08-21,Coritiba,1,0,Santa Cruz,False,False,first
 33,1971-08-21,Ceará,1,0,Fluminense,False,False,first
 34,1971-08-21,Flamengo,0,1,Atlético-MG,False,False,first
-35,1971-08-22,Vasco da Gama,0,3,Portuguesa,False,False,first
+35,1971-08-22,Vasco da Gama,0,3,Portuguesa-SP,False,False,first
 36,1971-08-22,Sport,0,0,São Paulo,False,False,first
 37,1971-08-22,Santos,0,0,América-GB,False,False,first
 38,1971-08-22,Grêmio,1,1,Botafogo,False,False,first
@@ -44,17 +44,17 @@
 42,1971-08-25,Santa Cruz,2,2,Fluminense,False,False,first
 43,1971-08-25,Coritiba,0,1,Internacional,False,False,first
 44,1971-08-25,Palmeiras,1,1,Cruzeiro,False,False,first
-45,1971-08-26,Corinthians,4,1,Portuguesa,False,False,first
+45,1971-08-26,Corinthians,4,1,Portuguesa-SP,False,False,first
 46,1971-08-26,Flamengo,1,1,América-GB,False,False,first
 47,1971-08-28,Sport,1,1,Atlético-MG,False,False,first
 48,1971-08-29,Santa Cruz,2,2,Palmeiras,False,False,first
-49,1971-08-29,Internacional,0,1,Portuguesa,False,False,first
+49,1971-08-29,Internacional,0,1,Portuguesa-SP,False,False,first
 50,1971-08-29,Fluminense,0,1,Corinthians,False,False,first
 51,1971-08-29,Cruzeiro,6,0,Ceará,False,False,first
 52,1971-08-29,Coritiba,0,2,Vasco da Gama,False,False,first
 53,1971-08-29,Bahia,0,0,América-MG,False,False,first
 54,1971-08-29,São Paulo,0,0,Flamengo,False,False,first
-55,1971-09-01,Portuguesa,1,0,Fluminense,False,False,first
+55,1971-09-01,Portuguesa-SP,1,0,Fluminense,False,False,first
 56,1971-09-01,Santa Cruz,1,0,Cruzeiro,False,False,first
 57,1971-09-01,Ceará,0,3,Palmeiras,False,False,first
 58,1971-09-01,Vasco da Gama,1,1,Internacional,False,False,first
@@ -73,7 +73,7 @@
 71,1971-09-05,Bahia,0,1,Botafogo,False,False,first
 72,1971-09-05,Sport,0,3,América-GB,False,False,first
 73,1971-09-07,Vasco da Gama,1,0,Palmeiras,False,False,first
-74,1971-09-08,Santa Cruz,3,2,Portuguesa,False,False,first
+74,1971-09-08,Santa Cruz,3,2,Portuguesa-SP,False,False,first
 75,1971-09-08,Corinthians,2,3,Coritiba,False,False,first
 76,1971-09-08,Ceará,0,0,Internacional,False,False,first
 77,1971-09-08,América-GB,2,0,Atlético-MG,False,False,first
@@ -82,7 +82,7 @@
 80,1971-09-11,Coritiba,0,1,Palmeiras,False,False,first
 81,1971-09-11,Santa Cruz,2,2,Internacional,False,False,first
 82,1971-09-11,Fluminense,0,1,Cruzeiro,False,False,first
-83,1971-09-11,Ceará,0,0,Portuguesa,False,False,first
+83,1971-09-11,Ceará,0,0,Portuguesa-SP,False,False,first
 84,1971-09-11,Corinthians,1,0,Vasco da Gama,False,False,first
 85,1971-09-12,Atlético-MG,2,2,Botafogo,False,False,first
 86,1971-09-12,São Paulo,2,1,América-GB,False,False,first
@@ -91,7 +91,7 @@
 89,1971-09-12,Sport,1,0,América-MG,False,False,first
 90,1971-09-18,Vasco da Gama,0,0,São Paulo,False,False,first
 91,1971-09-18,Sport,0,1,Corinthians,False,False,first
-92,1971-09-18,Santos,0,0,Portuguesa,False,False,first
+92,1971-09-18,Santos,0,0,Portuguesa-SP,False,False,first
 93,1971-09-19,Fluminense,0,0,América-GB,False,False,first
 94,1971-09-19,Ceará,0,2,Atlético-MG,False,False,first
 95,1971-09-19,Cruzeiro,0,0,Bahia,False,False,first
@@ -100,7 +100,7 @@
 98,1971-09-19,Palmeiras,1,2,Flamengo,False,False,first
 99,1971-09-19,Santa Cruz,0,0,Botafogo,False,False,first
 100,1971-09-22,Corinthians,0,0,Atlético-MG,False,False,first
-101,1971-09-25,Portuguesa,0,3,América-GB,False,False,first
+101,1971-09-25,Portuguesa-SP,0,3,América-GB,False,False,first
 102,1971-09-25,Grêmio,1,0,Ceará,False,False,first
 103,1971-09-25,Atlético-MG,2,2,Santa Cruz,False,False,first
 104,1971-09-25,Flamengo,1,1,Coritiba,False,False,first
@@ -113,7 +113,7 @@
 111,1971-09-29,América-GB,2,1,Cruzeiro,False,False,first
 112,1971-10-02,Corinthians,3,1,América-MG,False,False,first
 113,1971-10-02,Internacional,2,0,América-GB,False,False,first
-114,1971-10-03,Grêmio,1,0,Portuguesa,False,False,first
+114,1971-10-03,Grêmio,1,0,Portuguesa-SP,False,False,first
 115,1971-10-03,Sport,0,1,Fluminense,False,False,first
 116,1971-10-03,Bahia,2,0,Santa Cruz,False,False,first
 117,1971-10-03,Coritiba,1,0,Atlético-MG,False,False,first
@@ -129,12 +129,12 @@
 127,1971-10-10,Coritiba,2,1,América-GB,False,False,first
 128,1971-10-10,Grêmio,1,0,Vasco da Gama,False,False,first
 129,1971-10-10,Bahia,1,1,Internacional,False,False,first
-130,1971-10-10,São Paulo,0,1,Portuguesa,False,False,first
+130,1971-10-10,São Paulo,0,1,Portuguesa-SP,False,False,first
 131,1971-10-10,Atlético-MG,1,1,Cruzeiro,False,False,first
 132,1971-10-10,Ceará,0,0,Santos,False,False,first
 133,1971-10-10,Sport,0,2,Palmeiras,False,False,first
 134,1971-10-10,Flamengo,0,1,Fluminense,False,False,first
-135,1971-10-13,Flamengo,1,0,Portuguesa,False,False,first
+135,1971-10-13,Flamengo,1,0,Portuguesa-SP,False,False,first
 136,1971-10-13,América-MG,2,0,Coritiba,False,False,first
 137,1971-10-16,Palmeiras,0,1,Santos,False,False,first
 138,1971-10-16,Fluminense,2,0,Atlético-MG,False,False,first
@@ -149,7 +149,7 @@
 147,1971-10-20,Sport,2,1,Coritiba,False,False,first
 148,1971-10-23,São Paulo,1,1,Palmeiras,False,False,first
 149,1971-10-23,Botafogo,0,0,Internacional,False,False,first
-150,1971-10-23,Atlético-MG,5,1,Portuguesa,False,False,first
+150,1971-10-23,Atlético-MG,5,1,Portuguesa-SP,False,False,first
 151,1971-10-24,Ceará,0,1,América-GB,False,False,first
 152,1971-10-24,Cruzeiro,0,0,América-MG,False,False,first
 153,1971-10-24,Santos,2,0,Vasco da Gama,False,False,first
@@ -158,13 +158,13 @@
 156,1971-10-24,Flamengo,1,3,Corinthians,False,False,first
 157,1971-10-27,Coritiba,1,0,Santos,False,False,first
 158,1971-10-27,Fluminense,0,0,América-MG,False,False,first
-159,1971-10-27,Portuguesa,3,1,Botafogo,False,False,first
+159,1971-10-27,Portuguesa-SP,3,1,Botafogo,False,False,first
 160,1971-10-30,América-GB,2,0,Palmeiras,False,False,first
 161,1971-10-30,Cruzeiro,2,1,Grêmio,False,False,first
 162,1971-10-30,Corinthians,1,1,Santos,False,False,first
 163,1971-10-30,Santa Cruz,0,2,São Paulo,False,False,first
 164,1971-10-31,Atlético-MG,3,1,Internacional,False,False,first
-165,1971-10-31,Sport,0,0,Portuguesa,False,False,first
+165,1971-10-31,Sport,0,0,Portuguesa-SP,False,False,first
 166,1971-10-31,Bahia,0,0,Fluminense,False,False,first
 167,1971-10-31,Ceará,0,1,Flamengo,False,False,first
 168,1971-10-31,Vasco da Gama,1,0,Botafogo,False,False,first
@@ -174,12 +174,12 @@
 172,1971-11-07,Coritiba,0,0,Botafogo,False,False,first
 173,1971-11-07,Grêmio,0,1,Palmeiras,False,False,first
 174,1971-11-07,América-MG,2,0,Ceará,False,False,first
-175,1971-11-07,Bahia,1,0,Portuguesa,False,False,first
+175,1971-11-07,Bahia,1,0,Portuguesa-SP,False,False,first
 176,1971-11-07,Santa Cruz,0,1,Santos,False,False,first
 177,1971-11-07,Corinthians,3,1,América-GB,False,False,first
 178,1971-11-07,Flamengo,0,0,Cruzeiro,False,False,first
 179,1971-11-10,Palmeiras,0,0,Bahia,False,False,first
-180,1971-11-13,Portuguesa,1,0,América-MG,False,False,first
+180,1971-11-13,Portuguesa-SP,1,0,América-MG,False,False,first
 181,1971-11-13,Fluminense,3,1,Santos,False,False,first
 182,1971-11-14,Ceará,1,2,Sport,False,False,first
 183,1971-11-14,Botafogo,2,2,Cruzeiro,False,False,first

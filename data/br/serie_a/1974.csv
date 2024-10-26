@@ -193,38 +193,38 @@
 191,1974-03-09,Ceará,1,1,Rio Negro,False,False,first
 192,1974-03-10,Cruzeiro,0,0,Guarani,False,False,first
 193,1974-03-10,Náutico,2,0,Atlético-MG,False,False,first
-194,1974-03-10,Santos,1,2,Portuguesa,False,False,first
+194,1974-03-10,Santos,1,2,Portuguesa-SP,False,False,first
 195,1974-03-10,Fortaleza,2,0,América-MG,False,False,first
-196,1974-03-10,Nacional,0,1,São Paulo,False,False,first
+196,1974-03-10,Nacional-AM,0,1,São Paulo,False,False,first
 197,1974-03-10,CEUB,1,2,Corinthians,False,False,first
 198,1974-03-10,Goiás,1,0,Sport,False,False,first
-199,1974-03-10,Operário/CG,3,2,CSA,False,False,first
+199,1974-03-10,Operário-CG,3,2,CSA,False,False,first
 200,1974-03-13,Goiás,0,0,Corinthians,False,False,first
-201,1974-03-13,Operário/CG,1,0,Palmeiras,False,False,first
+201,1974-03-13,Operário-CG,1,0,Palmeiras,False,False,first
 202,1974-03-13,Cruzeiro,1,0,Náutico,False,False,first
 203,1974-03-13,Sport,1,0,Atlético-MG,False,False,first
 204,1974-03-13,Rio Negro,2,4,São Paulo,False,False,first
 205,1974-03-13,CEUB,1,0,Fortaleza,False,False,first
-206,1974-03-14,Nacional,1,1,Santa Cruz,False,False,first
+206,1974-03-14,Nacional-AM,1,1,Santa Cruz,False,False,first
 207,1974-03-16,São Paulo,1,1,Guarani,False,False,first
 208,1974-03-16,Atlético-MG,0,0,Rio Negro,False,False,first
 209,1974-03-17,Corinthians,0,0,Palmeiras,False,False,first
 210,1974-03-17,Santa Cruz,1,3,Cruzeiro,False,False,first
 211,1974-03-17,Fortaleza,2,1,Náutico,False,False,first
-212,1974-03-17,Nacional,1,1,Ceará,False,False,first
+212,1974-03-17,Nacional-AM,1,1,Ceará,False,False,first
 213,1974-03-17,América-MG,0,2,Santos,False,False,first
-214,1974-03-17,CEUB,0,0,Portuguesa,False,False,first
+214,1974-03-17,CEUB,0,0,Portuguesa-SP,False,False,first
 215,1974-03-17,Goiás,4,0,CSA,False,False,first
-216,1974-03-17,Operário/CG,1,1,Sport,False,False,first
+216,1974-03-17,Operário-CG,1,1,Sport,False,False,first
 217,1974-03-20,São Paulo,1,1,Náutico,False,False,first
 218,1974-03-20,Sport,0,0,Cruzeiro,False,False,first
 219,1974-03-20,Ceará,0,1,Guarani,False,False,first
 220,1974-03-20,América-MG,2,0,Rio Negro,False,False,first
 221,1974-03-20,CEUB,1,3,Santos,False,False,first
 222,1974-03-20,CSA,0,5,Atlético-MG,False,False,first
-223,1974-03-20,Portuguesa,2,1,Fortaleza,False,False,first
+223,1974-03-20,Portuguesa-SP,2,1,Fortaleza,False,False,first
 224,1974-03-20,Santa Cruz,2,1,Goiás,False,False,first
-225,1974-03-23,Náutico,2,0,Operário/CG,False,False,first
+225,1974-03-23,Náutico,2,0,Operário-CG,False,False,first
 226,1974-03-23,Corinthians,3,1,América-MG,False,False,first
 227,1974-03-23,Guarani,2,2,Santos,False,False,first
 228,1974-03-23,Cruzeiro,1,2,Atlético-MG,False,False,first
@@ -232,64 +232,64 @@
 230,1974-03-23,Ceará,1,1,Fortaleza,False,False,first
 231,1974-03-23,Rio Negro,0,4,Palmeiras,False,False,first
 232,1974-03-23,CEUB,1,0,Sport,False,False,first
-233,1974-03-23,Goiás,0,0,Portuguesa,False,False,first
-234,1974-03-23,CSA,1,2,Nacional,False,False,first
-235,1974-03-27,Portuguesa,3,0,Operário/CG,False,False,first
+233,1974-03-23,Goiás,0,0,Portuguesa-SP,False,False,first
+234,1974-03-23,CSA,1,2,Nacional-AM,False,False,first
+235,1974-03-27,Portuguesa-SP,3,0,Operário-CG,False,False,first
 236,1974-03-27,Santa Cruz,3,0,CSA,False,False,first
-237,1974-03-27,Nacional,2,1,Palmeiras,False,False,first
+237,1974-03-27,Nacional-AM,2,1,Palmeiras,False,False,first
 238,1974-03-27,América-MG,2,1,Ceará,False,False,first
 239,1974-03-30,Guarani,3,0,Goiás,False,False,first
 240,1974-03-30,Atlético-MG,1,1,América-MG,False,False,first
 241,1974-03-30,Náutico,1,1,Santos,False,False,first
 242,1974-03-30,Ceará,0,1,Corinthians,False,False,first
 243,1974-03-30,CEUB,1,1,Santa Cruz,False,False,first
-244,1974-03-30,CSA,0,0,Portuguesa,False,False,first
-245,1974-03-30,Operário/CG,1,0,Fortaleza,False,False,first
+244,1974-03-30,CSA,0,0,Portuguesa-SP,False,False,first
+245,1974-03-30,Operário-CG,1,0,Fortaleza,False,False,first
 246,1974-03-31,Rio Negro,0,0,Cruzeiro,False,False,first
 247,1974-04-03,São Paulo,2,0,Ceará,False,False,first
 248,1974-04-03,Santa Cruz,2,3,América-MG,False,False,first
 249,1974-04-03,Fortaleza,3,0,Guarani,False,False,first
-250,1974-04-03,Náutico,0,0,Nacional,False,False,first
-251,1974-04-06,Corinthians,2,2,Portuguesa,False,False,first
-252,1974-04-06,Cruzeiro,3,0,Nacional,False,False,first
+250,1974-04-03,Náutico,0,0,Nacional-AM,False,False,first
+251,1974-04-06,Corinthians,2,2,Portuguesa-SP,False,False,first
+252,1974-04-06,Cruzeiro,3,0,Nacional-AM,False,False,first
 253,1974-04-06,Sport,1,1,Santos,False,False,first
 254,1974-04-06,Fortaleza,2,1,Goiás,False,False,first
 255,1974-04-06,CEUB,2,4,Atlético-MG,False,False,first
 256,1974-04-06,CSA,0,1,Guarani,False,False,first
-257,1974-04-06,Operário/CG,0,2,São Paulo,False,False,first
+257,1974-04-06,Operário-CG,0,2,São Paulo,False,False,first
 258,1974-04-06,Rio Negro,2,1,Náutico,False,False,first
 259,1974-04-10,São Paulo,2,1,Sport,False,False,first
-260,1974-04-10,Cruzeiro,1,1,Portuguesa,False,False,first
+260,1974-04-10,Cruzeiro,1,1,Portuguesa-SP,False,False,first
 261,1974-04-10,Ceará,2,1,CEUB,False,False,first
 262,1974-04-13,Santos,1,0,Cruzeiro,False,False,first
-263,1974-04-13,Guarani,2,1,Nacional,False,False,first
+263,1974-04-13,Guarani,2,1,Nacional-AM,False,False,first
 264,1974-04-13,Atlético-MG,2,1,Corinthians,False,False,first
-265,1974-04-13,Santa Cruz,0,0,Portuguesa,False,False,first
+265,1974-04-13,Santa Cruz,0,0,Portuguesa-SP,False,False,first
 266,1974-04-13,Fortaleza,2,1,Palmeiras,False,False,first
 267,1974-04-13,CSA,1,0,CEUB,False,False,first
-268,1974-04-13,Operário/CG,1,1,Rio Negro,False,False,first
-269,1974-04-16,Portuguesa,0,0,América-MG,False,False,first
+268,1974-04-13,Operário-CG,1,1,Rio Negro,False,False,first
+269,1974-04-16,Portuguesa-SP,0,0,América-MG,False,False,first
 270,1974-04-16,Sport,1,0,Náutico,False,False,first
-271,1974-04-17,Nacional,0,2,CEUB,False,False,first
+271,1974-04-17,Nacional-AM,0,2,CEUB,False,False,first
 272,1974-04-20,Palmeiras,0,4,Santos,False,False,first
-273,1974-04-20,Atlético-MG,1,0,Operário/CG,False,False,first
+273,1974-04-20,Atlético-MG,1,0,Operário-CG,False,False,first
 274,1974-04-20,Náutico,2,0,Corinthians,False,False,first
 275,1974-04-20,Ceará,1,0,Santa Cruz,False,False,first
 276,1974-04-20,Goiás,0,1,Cruzeiro,False,False,first
 277,1974-04-21,Rio Negro,1,0,Guarani,False,False,first
 278,1974-04-21,CSA,0,0,São Paulo,False,False,first
-279,1974-04-23,Corinthians,1,0,Operário/CG,False,False,first
-280,1974-04-24,Sport,1,1,Portuguesa,False,False,first
+279,1974-04-23,Corinthians,1,0,Operário-CG,False,False,first
+280,1974-04-24,Sport,1,1,Portuguesa-SP,False,False,first
 281,1974-04-24,Rio Negro,1,0,Fortaleza,False,False,first
-282,1974-04-24,América-MG,0,1,Nacional,False,False,first
-283,1974-04-27,São Paulo,0,0,Portuguesa,False,False,first
+282,1974-04-24,América-MG,0,1,Nacional-AM,False,False,first
+283,1974-04-27,São Paulo,0,0,Portuguesa-SP,False,False,first
 284,1974-04-27,Guarani,1,0,Santa Cruz,False,False,first
 285,1974-04-27,Cruzeiro,1,0,CEUB,False,False,first
 286,1974-04-27,Sport,1,4,Corinthians,False,False,first
 287,1974-04-27,Ceará,1,2,Atlético-MG,False,False,first
 288,1974-04-27,CSA,0,1,Náutico,False,False,first
-289,1974-04-27,Operário/CG,1,0,América-MG,False,False,first
-290,1974-04-28,Nacional,0,1,Santos,False,False,first
+289,1974-04-27,Operário-CG,1,0,América-MG,False,False,first
+290,1974-04-28,Nacional-AM,0,1,Santos,False,False,first
 291,1974-05-02,Santos,3,0,Rio Negro,False,False,first
 292,1974-05-04,Corinthians,1,1,Guarani,False,False,first
 293,1974-05-04,Náutico,2,1,Ceará,False,False,first
@@ -297,15 +297,15 @@
 295,1974-05-04,América-MG,0,0,São Paulo,False,False,first
 296,1974-05-04,CEUB,0,0,Goiás,False,False,first
 297,1974-05-04,CSA,0,2,Palmeiras,False,False,first
-298,1974-05-04,Operário/CG,3,0,Santa Cruz,False,False,first
-299,1974-05-04,Nacional,0,2,Atlético-MG,False,False,first
+298,1974-05-04,Operário-CG,3,0,Santa Cruz,False,False,first
+299,1974-05-04,Nacional-AM,0,2,Atlético-MG,False,False,first
 300,1974-05-08,Palmeiras,0,0,Guarani,False,False,first
-301,1974-05-08,Sport,0,2,Nacional,False,False,first
+301,1974-05-08,Sport,0,2,Nacional-AM,False,False,first
 302,1974-05-08,América-MG,0,1,Goiás,False,False,first
-303,1974-05-08,Operário/CG,0,0,CEUB,False,False,first
+303,1974-05-08,Operário-CG,0,0,CEUB,False,False,first
 304,1974-05-11,Corinthians,0,1,Cruzeiro,False,False,first
 305,1974-05-11,Sport,2,2,América-MG,False,False,first
-306,1974-05-11,Ceará,2,1,Portuguesa,False,False,first
+306,1974-05-11,Ceará,2,1,Portuguesa-SP,False,False,first
 307,1974-05-11,Goiás,3,2,Santos,False,False,first
 308,1974-05-12,Atlético-MG,0,1,Fortaleza,False,False,first
 309,1974-05-12,Rio Negro,2,0,Santa Cruz,False,False,first
@@ -317,56 +317,56 @@
 315,1974-05-15,Goiás,3,1,Ceará,False,False,first
 316,1974-05-15,CSA,0,1,Cruzeiro,False,False,first
 317,1974-05-16,Palmeiras,1,0,América-MG,False,False,first
-318,1974-05-18,Portuguesa,2,2,Atlético-MG,False,False,first
+318,1974-05-18,Portuguesa-SP,2,2,Atlético-MG,False,False,first
 319,1974-05-18,Corinthians,1,1,Santos,False,False,first
 320,1974-05-18,Guarani,1,1,Sport,False,False,first
 321,1974-05-18,Cruzeiro,2,2,América-MG,False,False,first
 322,1974-05-18,Náutico,0,0,Santa Cruz,False,False,first
 323,1974-05-18,Fortaleza,1,1,São Paulo,False,False,first
-324,1974-05-18,Nacional,1,1,Rio Negro,False,False,first
+324,1974-05-18,Nacional-AM,1,1,Rio Negro,False,False,first
 325,1974-05-18,CEUB,1,1,Palmeiras,False,False,first
-326,1974-05-18,Goiás,0,0,Operário/CG,False,False,first
+326,1974-05-18,Goiás,0,0,Operário-CG,False,False,first
 327,1974-05-18,CSA,1,3,Ceará,False,False,first
 328,1974-05-22,Santos,1,0,CSA,False,False,first
 329,1974-05-22,Guarani,2,0,CEUB,False,False,first
 330,1974-05-22,Sport,1,1,Rio Negro,False,False,first
 331,1974-05-22,Goiás,1,1,Palmeiras,False,False,first
-332,1974-05-25,Palmeiras,2,2,Portuguesa,False,False,first
+332,1974-05-25,Palmeiras,2,2,Portuguesa-SP,False,False,first
 333,1974-05-25,Atlético-MG,0,1,Guarani,False,False,first
 334,1974-05-25,Santa Cruz,0,0,Corinthians,False,False,first
 335,1974-05-25,Ceará,1,1,Santos,False,False,first
-336,1974-05-25,Operário/CG,0,0,Cruzeiro,False,False,first
-337,1974-05-26,Nacional,2,0,Fortaleza,False,False,first
+336,1974-05-25,Operário-CG,0,0,Cruzeiro,False,False,first
+337,1974-05-26,Nacional-AM,2,0,Fortaleza,False,False,first
 338,1974-05-26,Goiás,0,3,São Paulo,False,False,first
 339,1974-05-29,Fortaleza,1,0,CSA,False,False,first
 340,1974-05-29,América-MG,0,3,Náutico,False,False,first
 341,1974-05-29,Goiás,2,0,Rio Negro,False,False,first
 342,1974-05-29,Sport,1,1,Palmeiras,False,False,first
-343,1974-06-01,Corinthians,5,0,Nacional,False,False,first
+343,1974-06-01,Corinthians,5,0,Nacional-AM,False,False,first
 344,1974-06-02,Santos,1,1,São Paulo,False,False,first
 345,1974-06-02,Guarani,3,3,América-MG,False,False,first
 346,1974-06-02,Cruzeiro,0,0,Palmeiras,False,False,first
 347,1974-06-02,Santa Cruz,3,3,Atlético-MG,False,False,first
-348,1974-06-02,Ceará,0,0,Operário/CG,False,False,first
-349,1974-06-02,Rio Negro,0,1,Portuguesa,False,False,first
+348,1974-06-02,Ceará,0,0,Operário-CG,False,False,first
+349,1974-06-02,Rio Negro,0,1,Portuguesa-SP,False,False,first
 350,1974-06-02,CEUB,0,2,Náutico,False,False,first
 351,1974-06-02,CSA,0,1,Sport,False,False,first
 352,1974-06-05,Palmeiras,1,1,Ceará,False,False,first
 353,1974-06-05,Atlético-MG,3,1,Goiás,False,False,first
 354,1974-06-05,Santa Cruz,0,3,Sport,False,False,first
 355,1974-06-05,Fortaleza,0,2,Cruzeiro,False,False,first
-356,1974-06-05,Nacional,0,1,Portuguesa,False,False,first
+356,1974-06-05,Nacional-AM,0,1,Portuguesa-SP,False,False,first
 357,1974-06-05,CSA,0,3,Corinthians,False,False,first
-358,1974-06-05,Operário/CG,1,0,Santos,False,False,first
+358,1974-06-05,Operário-CG,1,0,Santos,False,False,first
 359,1974-06-08,Santa Cruz,0,0,Fortaleza,False,False,first
 360,1974-06-08,Rio Negro,3,1,CSA,False,False,first
 361,1974-06-08,CEUB,0,2,América-MG,False,False,first
-362,1974-06-09,Guarani,1,0,Portuguesa,False,False,first
+362,1974-06-09,Guarani,1,0,Portuguesa-SP,False,False,first
 363,1974-06-09,São Paulo,1,1,Corinthians,False,False,first
 364,1974-06-09,Atlético-MG,2,1,Santos,False,False,first
 365,1974-06-09,Náutico,0,1,Palmeiras,False,False,first
 366,1974-06-09,Ceará,1,1,Cruzeiro,False,False,first
-367,1974-06-09,Nacional,1,2,Operário/CG,False,False,first
+367,1974-06-09,Nacional-AM,1,2,Operário-CG,False,False,first
 368,1974-06-12,Santos,1,1,Santa Cruz,False,False,first
 369,1974-06-12,Sport,1,1,Ceará,False,False,first
 370,1974-06-12,Rio Negro,1,0,CEUB,False,False,first
@@ -375,10 +375,10 @@
 373,1974-06-13,América-MG,1,0,CSA,False,False,first
 374,1974-06-13,Palmeiras,1,2,Atlético-MG,False,False,first
 375,1974-06-13,Cruzeiro,0,1,São Paulo,False,False,first
-376,1974-06-13,Náutico,3,1,Portuguesa,False,False,first
+376,1974-06-13,Náutico,3,1,Portuguesa-SP,False,False,first
 377,1974-06-13,Fortaleza,2,0,Corinthians,False,False,first
-378,1974-06-13,Nacional,0,3,Goiás,False,False,first
-379,1974-06-13,Operário/CG,1,0,Guarani,False,False,first
+378,1974-06-13,Nacional-AM,0,3,Goiás,False,False,first
+379,1974-06-13,Operário-CG,1,0,Guarani,False,False,first
 380,1974-07-02,Palmeiras,3,1,Flamengo,False,False,second
 381,1974-07-02,Guarani,3,1,Bahia,False,False,second
 382,1974-07-03,Cruzeiro,4,1,Paysandu,False,False,second
@@ -395,20 +395,20 @@
 393,1974-06-29,Cruzeiro,2,1,Palmeiras,False,False,second
 394,1974-06-29,Bahia,1,1,Paysandu,False,False,second
 395,1974-07-03,Vitória,1,0,Corinthians,False,False,second
-396,1974-07-03,Operário/CG,1,3,Atlético-MG,False,False,second
-397,1974-07-03,Nacional,0,0,Vasco da Gama,False,False,second
-398,1974-07-06,Corinthians,2,2,Nacional,False,False,second
-399,1974-07-06,Operário/CG,0,2,Vitória,False,False,second
+396,1974-07-03,Operário-CG,1,3,Atlético-MG,False,False,second
+397,1974-07-03,Nacional-AM,0,0,Vasco da Gama,False,False,second
+398,1974-07-06,Corinthians,2,2,Nacional-AM,False,False,second
+399,1974-07-06,Operário-CG,0,2,Vitória,False,False,second
 400,1974-07-10,Atlético-MG,0,2,Vasco da Gama,False,False,second
-401,1974-07-11,Corinthians,0,0,Operário/CG,False,False,second
+401,1974-07-11,Corinthians,0,0,Operário-CG,False,False,second
 402,1974-07-14,Vasco da Gama,2,0,Corinthians,False,False,second
 403,1974-07-14,Atlético-MG,2,2,Vitória,False,False,second
-404,1974-07-14,Nacional,0,1,Operário/CG,False,False,second
-405,1974-07-17,Atlético-MG,3,0,Nacional,False,False,second
+404,1974-07-14,Nacional-AM,0,1,Operário-CG,False,False,second
+405,1974-07-17,Atlético-MG,3,0,Nacional-AM,False,False,second
 406,1974-07-18,Vitória,0,0,Vasco da Gama,False,False,second
-407,1974-06-29,Vasco da Gama,3,0,Operário/CG,False,False,second
+407,1974-06-29,Vasco da Gama,3,0,Operário-CG,False,False,second
 408,1974-06-30,Corinthians,1,0,Atlético-MG,False,False,second
-409,1974-06-30,Nacional,1,0,Vitória,False,False,second
+409,1974-06-30,Nacional-AM,1,0,Vitória,False,False,second
 410,1974-07-03,América-GB,0,2,Santos,False,False,second
 411,1974-07-03,Náutico,4,2,Coritiba,False,False,second
 412,1974-07-03,Fortaleza,1,3,Grêmio,False,False,second
@@ -426,19 +426,19 @@
 424,1974-06-29,Fortaleza,3,0,América-GB,False,False,second
 425,1974-06-30,Fluminense,0,1,São Paulo,False,False,second
 426,1974-06-30,Internacional,1,1,Atlético-PR,False,False,second
-427,1974-06-30,Goiás,0,1,Portuguesa,False,False,second
+427,1974-06-30,Goiás,0,1,Portuguesa-SP,False,False,second
 428,1974-07-03,Goiás,1,1,São Paulo,False,False,second
 429,1974-07-03,Internacional,2,0,Fluminense,False,False,second
-430,1974-07-03,Atlético-PR,1,1,Portuguesa,False,False,second
+430,1974-07-03,Atlético-PR,1,1,Portuguesa-SP,False,False,second
 431,1974-07-06,Internacional,1,1,Goiás,False,False,second
 432,1974-07-06,Fluminense,0,1,Atlético-PR,False,False,second
-433,1974-07-07,São Paulo,1,1,Portuguesa,False,False,second
+433,1974-07-07,São Paulo,1,1,Portuguesa-SP,False,False,second
 434,1974-07-13,São Paulo,0,0,Atlético-PR,False,False,second
-435,1974-07-14,Portuguesa,0,1,Internacional,False,False,second
+435,1974-07-14,Portuguesa-SP,0,1,Internacional,False,False,second
 436,1974-07-14,Goiás,1,1,Fluminense,False,False,second
 437,1974-07-17,Atlético-PR,2,1,Goiás,False,False,second
 438,1974-07-17,São Paulo,0,1,Internacional,False,False,second
-439,1974-07-18,Fluminense,3,1,Portuguesa,False,False,second
+439,1974-07-18,Fluminense,3,1,Portuguesa-SP,False,False,second
 440,1974-07-21,Vasco da Gama,2,1,Santos,False,False,third
 441,1974-07-21,Internacional,1,1,Cruzeiro,False,False,third
 442,1974-07-24,Cruzeiro,1,1,Vasco da Gama,False,False,third

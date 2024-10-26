@@ -100,25 +100,25 @@
 98,1984-02-28,Palmeiras,2,2,Operário-MS,False,False,first
 99,1984-02-28,Flamengo,2,2,Goiás,False,False,first
 100,1984-01-29,Cruzeiro,1,2,América-RJ,False,False,first
-101,1984-01-29,Atlético-PR,1,0,Rio Branco,False,False,first
-102,1984-02-01,Brasil,1,0,Cruzeiro,False,False,first
+101,1984-01-29,Atlético-PR,1,0,Rio Branco-ES,False,False,first
+102,1984-02-01,GE Brasil,1,0,Cruzeiro,False,False,first
 103,1984-02-01,América-RJ,1,0,Atlético-PR,False,False,first
-104,1984-02-04,Cruzeiro,1,3,Rio Branco,False,False,first
-105,1984-02-05,América-RJ,1,1,Brasil,False,False,first
-106,1984-02-08,Rio Branco,1,0,Brasil,False,False,first
+104,1984-02-04,Cruzeiro,1,3,Rio Branco-ES,False,False,first
+105,1984-02-05,América-RJ,1,1,GE Brasil,False,False,first
+106,1984-02-08,Rio Branco-ES,1,0,GE Brasil,False,False,first
 107,1984-02-08,Atlético-PR,3,2,Cruzeiro,False,False,first
-108,1984-02-12,Rio Branco,2,1,América-RJ,False,False,first
-109,1984-02-12,Brasil,1,1,Atlético-PR,False,False,first
-110,1984-02-15,Brasil,3,1,Rio Branco,False,False,first
+108,1984-02-12,Rio Branco-ES,2,1,América-RJ,False,False,first
+109,1984-02-12,GE Brasil,1,1,Atlético-PR,False,False,first
+110,1984-02-15,GE Brasil,3,1,Rio Branco-ES,False,False,first
 111,1984-02-16,América-RJ,1,1,Cruzeiro,False,False,first
-112,1984-02-19,Rio Branco,1,5,Cruzeiro,False,False,first
+112,1984-02-19,Rio Branco-ES,1,5,Cruzeiro,False,False,first
 113,1984-02-19,Atlético-PR,0,1,América-RJ,False,False,first
-114,1984-02-22,Cruzeiro,4,0,Brasil,False,False,first
-115,1984-02-22,Rio Branco,1,3,Atlético-PR,False,False,first
-116,1984-02-26,Brasil,1,1,América-RJ,False,False,first
+114,1984-02-22,Cruzeiro,4,0,GE Brasil,False,False,first
+115,1984-02-22,Rio Branco-ES,1,3,Atlético-PR,False,False,first
+116,1984-02-26,GE Brasil,1,1,América-RJ,False,False,first
 117,1984-02-26,Cruzeiro,2,2,Atlético-PR,False,False,first
-118,1984-02-28,América-RJ,3,1,Rio Branco,False,False,first
-119,1984-02-28,Atlético-PR,0,0,Brasil,False,False,first
+118,1984-02-28,América-RJ,3,1,Rio Branco-ES,False,False,first
+119,1984-02-28,Atlético-PR,0,0,GE Brasil,False,False,first
 120,1984-01-29,Anapolina,0,0,Operário-MT,False,False,first
 121,1984-01-29,Joinville,0,0,Internacional,False,False,first
 122,1984-02-01,Internacional,5,0,Anapolina,False,False,first
@@ -139,30 +139,30 @@
 137,1984-02-26,Operário-MT,6,1,Anapolina,False,False,first
 138,1984-02-28,Internacional,1,1,Joinville,False,False,first
 139,1984-02-28,Anapolina,0,0,Corinthians,False,False,first
-140,1984-01-29,Santa Cruz,0,0,Portuguesa,False,False,first
-141,1984-01-29,Auto Esporte,4,2,Moto Clube,False,False,first
-142,1984-02-01,Portuguesa,0,1,Botafogo,False,False,first
-143,1984-02-01,Auto Esporte,0,1,Santa Cruz,False,False,first
-144,1984-02-05,Moto Clube,0,1,Portuguesa,False,False,first
+140,1984-01-29,Santa Cruz,0,0,Portuguesa-SP,False,False,first
+141,1984-01-29,Auto Esporte-PI,4,2,Moto Clube,False,False,first
+142,1984-02-01,Portuguesa-SP,0,1,Botafogo,False,False,first
+143,1984-02-01,Auto Esporte-PI,0,1,Santa Cruz,False,False,first
+144,1984-02-05,Moto Clube,0,1,Portuguesa-SP,False,False,first
 145,1984-02-05,Botafogo,0,1,Santa Cruz,False,False,first
 146,1984-02-08,Santa Cruz,3,1,Moto Clube,False,False,first
-147,1984-02-09,Botafogo,2,0,Auto Esporte,False,False,first
+147,1984-02-09,Botafogo,2,0,Auto Esporte-PI,False,False,first
 148,1984-02-12,Moto Clube,1,1,Botafogo,False,False,first
-149,1984-02-12,Portuguesa,5,0,Auto Esporte,False,False,first
-150,1984-02-15,Auto Esporte,1,2,Botafogo,False,False,first
+149,1984-02-12,Portuguesa-SP,5,0,Auto Esporte-PI,False,False,first
+150,1984-02-15,Auto Esporte-PI,1,2,Botafogo,False,False,first
 151,1984-02-15,Moto Clube,2,2,Santa Cruz,False,False,first
-152,1984-02-18,Portuguesa,0,0,Santa Cruz,False,False,first
-153,1984-02-19,Moto Clube,0,1,Auto Esporte,False,False,first
+152,1984-02-18,Portuguesa-SP,0,0,Santa Cruz,False,False,first
+153,1984-02-19,Moto Clube,0,1,Auto Esporte-PI,False,False,first
 154,1984-02-22,Botafogo,0,1,Moto Clube,False,False,first
-155,1984-02-22,Auto Esporte,3,2,Portuguesa,False,False,first
-156,1984-02-25,Botafogo,0,0,Portuguesa,False,False,first
-157,1984-02-26,Santa Cruz,3,1,Auto Esporte,False,False,first
-158,1984-02-28,Portuguesa,2,0,Moto Clube,False,False,first
+155,1984-02-22,Auto Esporte-PI,3,2,Portuguesa-SP,False,False,first
+156,1984-02-25,Botafogo,0,0,Portuguesa-SP,False,False,first
+157,1984-02-26,Santa Cruz,3,1,Auto Esporte-PI,False,False,first
+158,1984-02-28,Portuguesa-SP,2,0,Moto Clube,False,False,first
 159,1984-02-28,Santa Cruz,1,2,Botafogo,False,False,first
 160,1984-03-02,Tuna Luso,0,1,Treze,False,True,relegation
 161,1984-03-02,Coritiba,3,1,Ferroviário,False,True,relegation
-162,1984-03-02,Goiás,2,1,Rio Branco,False,True,relegation
-163,1984-03-02,Joinville,2,0,Auto Esporte,False,True,relegation
+162,1984-03-02,Goiás,2,1,Rio Branco-ES,False,True,relegation
+163,1984-03-02,Joinville,2,0,Auto Esporte-PI,False,True,relegation
 164,1984-03-11,Goiás,2,2,São Paulo,False,False,second
 165,1984-03-11,Bahia,1,1,Fluminense,False,False,second
 166,1984-03-14,Bahia,0,0,São Paulo,False,False,second
@@ -211,18 +211,18 @@
 209,1984-03-25,Atlético-PR,1,0,Operário-MS,False,False,second
 210,1984-04-01,ABC,1,0,Atlético-PR,False,False,second
 211,1984-04-01,Operário-MS,0,2,Santo André,False,False,second
-212,1984-03-10,Flamengo,3,0,Brasil,False,False,second
-213,1984-03-11,Portuguesa,0,0,Internacional,False,False,second
-214,1984-03-14,Brasil,1,0,Internacional,False,False,second
-215,1984-03-15,Portuguesa,0,1,Flamengo,False,False,second
+212,1984-03-10,Flamengo,3,0,GE Brasil,False,False,second
+213,1984-03-11,Portuguesa-SP,0,0,Internacional,False,False,second
+214,1984-03-14,GE Brasil,1,0,Internacional,False,False,second
+215,1984-03-15,Portuguesa-SP,0,1,Flamengo,False,False,second
 216,1984-03-18,Internacional,4,0,Flamengo,False,False,second
-217,1984-03-18,Brasil,0,1,Portuguesa,False,False,second
-218,1984-03-21,Brasil,1,0,Flamengo,False,False,second
-219,1984-03-21,Portuguesa,1,0,Internacional,False,False,second
-220,1984-03-24,Internacional,1,1,Brasil,False,False,second
-221,1984-03-24,Flamengo,1,1,Portuguesa,False,False,second
+217,1984-03-18,GE Brasil,0,1,Portuguesa-SP,False,False,second
+218,1984-03-21,GE Brasil,1,0,Flamengo,False,False,second
+219,1984-03-21,Portuguesa-SP,1,0,Internacional,False,False,second
+220,1984-03-24,Internacional,1,1,GE Brasil,False,False,second
+221,1984-03-24,Flamengo,1,1,Portuguesa-SP,False,False,second
 222,1984-04-01,Flamengo,2,0,Internacional,False,False,second
-223,1984-04-01,Portuguesa,4,1,Brasil,False,False,second
+223,1984-04-01,Portuguesa-SP,4,1,GE Brasil,False,False,second
 224,1984-03-11,Operário-MT,1,1,Botafogo,False,False,second
 225,1984-03-11,América-RJ,0,1,Coritiba,False,False,second
 226,1984-03-14,América-RJ,3,1,Operário-MT,False,False,second
@@ -248,16 +248,16 @@
 246,1984-04-01,Náutico,5,1,Corinthians,False,False,second
 247,1984-04-01,Treze,0,1,Santa Cruz,False,False,second
 248,1984-04-07,Fluminense,1,0,Santo André,False,False,third
-249,1984-04-08,Operário-MS,1,1,Portuguesa,False,False,third
-250,1984-04-11,Portuguesa,1,1,Santo André,False,False,third
+249,1984-04-08,Operário-MS,1,1,Portuguesa-SP,False,False,third
+250,1984-04-11,Portuguesa-SP,1,1,Santo André,False,False,third
 251,1984-04-11,Operário-MS,0,0,Fluminense,False,False,third
-252,1984-04-15,Portuguesa,0,1,Fluminense,False,False,third
+252,1984-04-15,Portuguesa-SP,0,1,Fluminense,False,False,third
 253,1984-04-15,Santo André,1,1,Operário-MS,False,False,third
-254,1984-04-18,Santo André,0,0,Portuguesa,False,False,third
+254,1984-04-18,Santo André,0,0,Portuguesa-SP,False,False,third
 255,1984-04-18,Fluminense,2,0,Operário-MS,False,False,third
-256,1984-04-21,Fluminense,4,2,Portuguesa,False,False,third
+256,1984-04-21,Fluminense,4,2,Portuguesa-SP,False,False,third
 257,1984-04-22,Operário-MS,1,0,Santo André,False,False,third
-258,1984-04-25,Portuguesa,3,2,Operário-MS,False,False,third
+258,1984-04-25,Portuguesa-SP,3,2,Operário-MS,False,False,third
 259,1984-04-25,Santo André,1,1,Fluminense,False,False,third
 260,1984-04-08,Fortaleza,1,1,Coritiba,False,False,third
 261,1984-04-08,Uberlândia,0,0,Vasco da Gama,False,False,third
@@ -299,8 +299,8 @@
 297,1984-05-06,Fluminense,5,0,Coritiba,False,False,quarter
 298,1984-05-29,Flamengo,2,0,Corinthians,False,False,quarter
 299,1984-05-06,Corinthians,4,1,Flamengo,False,False,quarter
-300,1984-05-01,Portuguesa,2,5,Vasco da Gama,False,False,quarter
-301,1984-05-05,Vasco da Gama,4,3,Portuguesa,False,False,quarter
+300,1984-05-01,Portuguesa-SP,2,5,Vasco da Gama,False,False,quarter
+301,1984-05-05,Vasco da Gama,4,3,Portuguesa-SP,False,False,quarter
 302,1984-05-01,Náutico,2,3,Grêmio,False,False,quarter
 303,1984-05-06,Grêmio,3,1,Náutico,False,False,quarter
 304,1984-05-12,Grêmio,1,0,Vasco da Gama,False,False,semi

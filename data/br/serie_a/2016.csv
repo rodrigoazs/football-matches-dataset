@@ -5,35 +5,35 @@
 3,2016-05-14,Coritiba,1,0,Cruzeiro,False,False,first
 4,2016-05-15,Santa Cruz,4,1,Vitória,False,False,first
 5,2016-05-15,Botafogo,0,1,São Paulo,False,False,first
-6,2016-05-15,América,0,1,Fluminense,False,False,first
+6,2016-05-15,América-MG,0,1,Fluminense,False,False,first
 7,2016-05-15,Corinthians,0,0,Grêmio,False,False,first
-8,2016-05-15,Figueirense,0,0,Ponte Preta,False,False,first
+8,2016-05-15,Figueirense,0,0,Ponte Preta-SP,False,False,first
 9,2016-05-15,Internacional,0,0,Chapecoense,False,False,first
-10,2016-05-21,Ponte Preta,2,1,Palmeiras,False,False,first
+10,2016-05-21,Ponte Preta-SP,2,1,Palmeiras,False,False,first
 11,2016-05-21,Fluminense,2,2,Santa Cruz,False,False,first
 12,2016-05-21,Cruzeiro,2,2,Figueirense,False,False,first
 13,2016-05-22,Atlético-PR,1,1,Atlético-MG,False,False,first
 14,2016-05-22,Santos,2,1,Coritiba,False,False,first
-15,2016-05-22,Chapecoense,3,1,América,False,False,first
+15,2016-05-22,Chapecoense,3,1,América-MG,False,False,first
 16,2016-05-22,São Paulo,1,2,Internacional,False,False,first
 17,2016-05-22,Vitória,3,2,Corinthians,False,False,first
 18,2016-05-22,Grêmio,1,0,Flamengo,False,False,first
 19,2016-05-22,Sport,1,1,Botafogo,False,False,first
 20,2016-05-25,Botafogo,2,1,Atlético-PR,False,False,first
 21,2016-05-25,Figueirense,2,2,Santos,False,False,first
-22,2016-05-25,América,1,1,Vitória,False,False,first
+22,2016-05-25,América-MG,1,1,Vitória,False,False,first
 23,2016-05-25,Flamengo,2,2,Chapecoense,False,False,first
 24,2016-05-25,Palmeiras,2,0,Fluminense,False,False,first
 25,2016-05-25,Santa Cruz,4,1,Cruzeiro,False,False,first
 26,2016-05-25,Coritiba,1,1,São Paulo,False,False,first
-27,2016-05-26,Corinthians,3,0,Ponte Preta,False,False,first
+27,2016-05-26,Corinthians,3,0,Ponte Preta-SP,False,False,first
 28,2016-05-26,Internacional,1,0,Sport,False,False,first
 29,2016-05-26,Atlético-MG,0,3,Grêmio,False,False,first
-30,2016-05-28,Cruzeiro,1,1,América,False,False,first
+30,2016-05-28,Cruzeiro,1,1,América-MG,False,False,first
 31,2016-05-28,Atlético-PR,2,1,Figueirense,False,False,first
 32,2016-05-28,Chapecoense,1,1,Santa Cruz,False,False,first
 33,2016-05-29,Sport,0,2,Corinthians,False,False,first
-34,2016-05-29,Ponte Preta,1,2,Flamengo,False,False,first
+34,2016-05-29,Ponte Preta-SP,1,2,Flamengo,False,False,first
 35,2016-05-29,Fluminense,1,0,Botafogo,False,False,first
 36,2016-05-29,Vitória,1,1,Atlético-MG,False,False,first
 37,2016-05-29,São Paulo,1,0,Palmeiras,False,False,first
@@ -46,21 +46,21 @@
 44,2016-06-01,Figueirense,1,0,São Paulo,False,False,first
 45,2016-06-01,Atlético-MG,1,1,Fluminense,False,False,first
 46,2016-06-01,Botafogo,0,1,Cruzeiro,False,False,first
-47,2016-06-02,América,1,2,Ponte Preta,False,False,first
+47,2016-06-02,América-MG,1,2,Ponte Preta-SP,False,False,first
 48,2016-06-02,Palmeiras,4,3,Grêmio,False,False,first
 49,2016-06-02,Flamengo,1,0,Vitória,False,False,first
 50,2016-06-04,Atlético-PR,1,0,Santa Cruz,False,False,first
 51,2016-06-04,Chapecoense,0,0,Fluminense,False,False,first
 52,2016-06-04,Corinthians,2,1,Coritiba,False,False,first
 53,2016-06-05,Santos,3,0,Botafogo,False,False,first
-54,2016-06-05,América,1,0,Figueirense,False,False,first
+54,2016-06-05,América-MG,1,0,Figueirense,False,False,first
 55,2016-06-05,Vitória,1,0,Internacional,False,False,first
 56,2016-06-05,Sport,4,4,Atlético-MG,False,False,first
 57,2016-06-05,Flamengo,1,2,Palmeiras,False,False,first
-58,2016-06-05,Grêmio,1,0,Ponte Preta,False,False,first
+58,2016-06-05,Grêmio,1,0,Ponte Preta-SP,False,False,first
 59,2016-06-05,Cruzeiro,0,1,São Paulo,False,False,first
-60,2016-06-11,Ponte Preta,2,1,Chapecoense,False,False,first
-61,2016-06-11,Internacional,3,1,América,False,False,first
+60,2016-06-11,Ponte Preta-SP,2,1,Chapecoense,False,False,first
+61,2016-06-11,Internacional,3,1,América-MG,False,False,first
 62,2016-06-11,Fluminense,1,1,Grêmio,False,False,first
 63,2016-06-11,São Paulo,1,2,Atlético-PR,False,False,first
 64,2016-06-12,Coritiba,3,2,Sport,False,False,first
@@ -71,26 +71,26 @@
 69,2016-06-12,Santa Cruz,0,2,Santos,False,False,first
 70,2016-06-15,Chapecoense,3,3,Grêmio,False,False,first
 71,2016-06-15,São Paulo,2,0,Vitória,False,False,first
-72,2016-06-15,Ponte Preta,3,2,Atlético-PR,False,False,first
+72,2016-06-15,Ponte Preta-SP,3,2,Atlético-PR,False,False,first
 73,2016-06-15,Santa Cruz,1,0,Figueirense,False,False,first
 74,2016-06-15,Santos,2,0,Sport,False,False,first
-75,2016-06-15,Botafogo,3,1,América,False,False,first
+75,2016-06-15,Botafogo,3,1,América-MG,False,False,first
 76,2016-06-15,Cruzeiro,0,1,Flamengo,False,False,first
 77,2016-06-15,Coritiba,2,2,Palmeiras,False,False,first
 78,2016-06-16,Internacional,2,0,Atlético-MG,False,False,first
 79,2016-06-16,Fluminense,1,0,Corinthians,False,False,first
 80,2016-06-18,Palmeiras,3,1,Santa Cruz,False,False,first
 81,2016-06-18,Atlético-PR,1,0,Santos,False,False,first
-82,2016-06-18,América,2,1,Coritiba,False,False,first
-83,2016-06-19,Atlético-MG,3,0,Ponte Preta,False,False,first
+82,2016-06-18,América-MG,2,1,Coritiba,False,False,first
+83,2016-06-19,Atlético-MG,3,0,Ponte Preta-SP,False,False,first
 84,2016-06-19,Vitória,1,2,Chapecoense,False,False,first
 85,2016-06-19,Corinthians,3,1,Botafogo,False,False,first
 86,2016-06-19,Figueirense,3,2,Internacional,False,False,first
 87,2016-06-19,Sport,2,1,Fluminense,False,False,first
 88,2016-06-19,Flamengo,2,2,São Paulo,False,False,first
 89,2016-06-19,Grêmio,2,0,Cruzeiro,False,False,first
-90,2016-06-21,Palmeiras,2,0,América,False,False,first
-91,2016-06-22,Ponte Preta,0,4,Cruzeiro,False,False,first
+90,2016-06-21,Palmeiras,2,0,América-MG,False,False,first
+91,2016-06-22,Ponte Preta-SP,0,4,Cruzeiro,False,False,first
 92,2016-06-22,Botafogo,0,0,Figueirense,False,False,first
 93,2016-06-22,Santa Cruz,0,1,Flamengo,False,False,first
 94,2016-06-22,Atlético-MG,2,1,Corinthians,False,False,first
@@ -101,9 +101,9 @@
 99,2016-06-23,Coritiba,1,1,Internacional,False,False,first
 100,2016-06-25,Cruzeiro,2,1,Palmeiras,False,False,first
 101,2016-06-25,Corinthians,2,1,Santa Cruz,False,False,first
-102,2016-06-26,América,0,1,Atlético-MG,False,False,first
+102,2016-06-26,América-MG,0,1,Atlético-MG,False,False,first
 103,2016-06-26,Flamengo,1,2,Fluminense,False,False,first
-104,2016-06-26,Vitória,1,1,Ponte Preta,False,False,first
+104,2016-06-26,Vitória,1,1,Ponte Preta-SP,False,False,first
 105,2016-06-26,Santos,3,0,São Paulo,False,False,first
 106,2016-06-26,Internacional,2,3,Botafogo,False,False,first
 107,2016-06-26,Atlético-PR,2,0,Grêmio,False,False,first
@@ -115,33 +115,33 @@
 113,2016-06-29,Chapecoense,3,2,Cruzeiro,False,False,first
 114,2016-06-29,Coritiba,1,0,Atlético-PR,False,False,first
 115,2016-06-29,São Paulo,2,1,Fluminense,False,False,first
-116,2016-06-29,América,0,2,Corinthians,False,False,first
+116,2016-06-29,América-MG,0,2,Corinthians,False,False,first
 117,2016-06-30,Palmeiras,4,0,Figueirense,False,False,first
-118,2016-06-30,Santa Cruz,0,3,Ponte Preta,False,False,first
+118,2016-06-30,Santa Cruz,0,3,Ponte Preta-SP,False,False,first
 119,2016-06-30,Atlético-MG,5,3,Botafogo,False,False,first
 120,2016-07-02,Fluminense,0,0,Coritiba,False,False,first
-121,2016-07-02,Atlético-PR,1,0,América,False,False,first
+121,2016-07-02,Atlético-PR,1,0,América-MG,False,False,first
 122,2016-07-03,Cruzeiro,2,2,Vitória,False,False,first
 123,2016-07-03,Internacional,0,1,Grêmio,False,False,first
 124,2016-07-03,Botafogo,2,1,Santa Cruz,False,False,first
 125,2016-07-03,Corinthians,4,0,Flamengo,False,False,first
-126,2016-07-03,Ponte Preta,1,0,São Paulo,False,False,first
+126,2016-07-03,Ponte Preta-SP,1,0,São Paulo,False,False,first
 127,2016-07-03,Santos,3,0,Chapecoense,False,False,first
 128,2016-07-03,Figueirense,1,1,Atlético-MG,False,False,first
 129,2016-07-04,Sport,1,3,Palmeiras,False,False,first
 130,2016-07-09,Chapecoense,0,2,Corinthians,False,False,first
 131,2016-07-09,Coritiba,0,0,Botafogo,False,False,first
-132,2016-07-09,Ponte Preta,2,1,Sport,False,False,first
+132,2016-07-09,Ponte Preta-SP,2,1,Sport,False,False,first
 133,2016-07-11,Flamengo,2,0,Atlético-MG,False,False,first
 134,2016-07-11,Grêmio,2,1,Figueirense,False,False,first
 135,2016-07-11,Santa Cruz,1,0,Internacional,False,False,first
-136,2016-07-11,São Paulo,3,0,América,False,False,first
+136,2016-07-11,São Paulo,3,0,América-MG,False,False,first
 137,2016-07-11,Vitória,0,0,Fluminense,False,False,first
 138,2016-07-12,Cruzeiro,0,3,Atlético-PR,False,False,first
 139,2016-07-13,Palmeiras,1,1,Santos,False,False,first
 140,2016-07-16,Botafogo,3,3,Flamengo,False,False,first
-141,2016-07-16,Santos,3,1,Ponte Preta,False,False,first
-142,2016-07-17,América,0,3,Santa Cruz,False,False,first
+141,2016-07-16,Santos,3,1,Ponte Preta-SP,False,False,first
+142,2016-07-17,América-MG,0,3,Santa Cruz,False,False,first
 143,2016-07-17,Atlético-PR,1,1,Vitória,False,False,first
 144,2016-07-17,Corinthians,1,1,São Paulo,False,False,first
 145,2016-07-17,Figueirense,1,1,Chapecoense,False,False,first
@@ -152,37 +152,37 @@
 150,2016-07-23,Corinthians,1,1,Figueirense,False,False,first
 151,2016-07-23,Santa Cruz,0,1,Coritiba,False,False,first
 152,2016-07-24,Palmeiras,0,1,Atlético-MG,False,False,first
-153,2016-07-24,Ponte Preta,2,2,Internacional,False,False,first
+153,2016-07-24,Ponte Preta-SP,2,2,Internacional,False,False,first
 154,2016-07-24,Atlético-PR,1,0,Fluminense,False,False,first
 155,2016-07-24,Chapecoense,2,1,Botafogo,False,False,first
 156,2016-07-24,Cruzeiro,1,2,Sport,False,False,first
 157,2016-07-24,Grêmio,1,0,São Paulo,False,False,first
 158,2016-07-24,Vitória,2,3,Santos,False,False,first
-159,2016-07-25,Flamengo,2,1,América,False,False,first
+159,2016-07-25,Flamengo,2,1,América-MG,False,False,first
 160,2016-07-30,Figueirense,1,0,Vitória,False,False,first
 161,2016-07-30,Sport,2,0,Atlético-PR,False,False,first
 162,2016-07-30,Atlético-MG,3,0,Santa Cruz,False,False,first
-163,2016-07-31,Fluminense,3,0,Ponte Preta,False,False,first
+163,2016-07-31,Fluminense,3,0,Ponte Preta-SP,False,False,first
 164,2016-07-31,São Paulo,2,2,Chapecoense,False,False,first
 165,2016-07-31,Coritiba,0,2,Flamengo,False,False,first
 166,2016-07-31,Internacional,0,1,Corinthians,False,False,first
 167,2016-07-31,Santos,2,0,Cruzeiro,False,False,first
-168,2016-07-31,América,0,0,Grêmio,False,False,first
+168,2016-07-31,América-MG,0,0,Grêmio,False,False,first
 169,2016-07-31,Botafogo,3,1,Palmeiras,False,False,first
-170,2016-08-03,Sport,1,1,América,False,False,first
+170,2016-08-03,Sport,1,1,América-MG,False,False,first
 171,2016-08-03,Vitória,3,1,Coritiba,False,False,first
 172,2016-08-03,Santos,0,0,Flamengo,False,False,first
 173,2016-08-03,Atlético-PR,2,0,Corinthians,False,False,first
-174,2016-08-04,Ponte Preta,2,0,Botafogo,False,False,first
+174,2016-08-04,Ponte Preta-SP,2,0,Botafogo,False,False,first
 175,2016-08-04,Grêmio,0,0,Santa Cruz,False,False,first
 176,2016-08-04,São Paulo,1,2,Atlético-MG,False,False,first
 177,2016-08-04,Cruzeiro,4,2,Internacional,False,False,first
 178,2016-08-04,Chapecoense,1,1,Palmeiras,False,False,first
 179,2016-09-03,Fluminense,3,2,Figueirense,False,False,first
 180,2016-08-06,Flamengo,1,0,Atlético-PR,False,False,first
-181,2016-08-07,América,1,0,Santos,False,False,first
+181,2016-08-07,América-MG,1,0,Santos,False,False,first
 182,2016-08-07,Palmeiras,2,1,Vitória,False,False,first
-183,2016-08-07,Coritiba,3,1,Ponte Preta,False,False,first
+183,2016-08-07,Coritiba,3,1,Ponte Preta-SP,False,False,first
 184,2016-08-07,Santa Cruz,1,2,São Paulo,False,False,first
 185,2016-08-07,Internacional,2,2,Fluminense,False,False,first
 186,2016-08-07,Figueirense,1,1,Sport,False,False,first
@@ -190,8 +190,8 @@
 188,2016-08-08,Corinthians,1,1,Cruzeiro,False,False,first
 189,2016-09-04,Botafogo,2,1,Grêmio,False,False,first
 190,2016-08-13,Sport,1,0,Flamengo,False,False,first
-191,2016-08-13,Ponte Preta,2,0,Figueirense,False,False,first
-192,2016-08-14,Fluminense,1,0,América,False,False,first
+191,2016-08-13,Ponte Preta-SP,2,0,Figueirense,False,False,first
+192,2016-08-14,Fluminense,1,0,América-MG,False,False,first
 193,2016-08-14,Grêmio,3,0,Corinthians,False,False,first
 194,2016-08-14,Cruzeiro,2,2,Coritiba,False,False,first
 195,2016-08-14,Santos,3,0,Atlético-MG,False,False,first
@@ -199,17 +199,17 @@
 197,2016-08-14,São Paulo,0,1,Botafogo,False,False,first
 198,2016-08-14,Atlético-PR,0,1,Palmeiras,False,False,first
 199,2016-08-15,Chapecoense,1,0,Internacional,False,False,first
-200,2016-08-19,América,1,2,Chapecoense,False,False,first
+200,2016-08-19,América-MG,1,2,Chapecoense,False,False,first
 201,2016-08-20,Botafogo,3,0,Sport,False,False,first
 202,2016-08-21,Flamengo,2,1,Grêmio,False,False,first
 203,2016-08-21,Atlético-MG,1,0,Atlético-PR,False,False,first
 204,2016-08-21,Internacional,1,1,São Paulo,False,False,first
-205,2016-08-21,Palmeiras,2,2,Ponte Preta,False,False,first
+205,2016-08-21,Palmeiras,2,2,Ponte Preta-SP,False,False,first
 206,2016-08-21,Santa Cruz,0,1,Fluminense,False,False,first
 207,2016-08-21,Coritiba,2,1,Santos,False,False,first
 208,2016-08-21,Figueirense,1,2,Cruzeiro,False,False,first
 209,2016-08-22,Corinthians,2,1,Vitória,False,False,first
-210,2016-08-27,Ponte Preta,2,0,Corinthians,False,False,first
+210,2016-08-27,Ponte Preta-SP,2,0,Corinthians,False,False,first
 211,2016-08-28,Cruzeiro,2,0,Santa Cruz,False,False,first
 212,2016-08-28,Santos,0,1,Figueirense,False,False,first
 213,2016-08-28,Chapecoense,1,3,Flamengo,False,False,first
@@ -217,17 +217,17 @@
 215,2016-08-28,Grêmio,1,1,Atlético-MG,False,False,first
 216,2016-08-28,São Paulo,0,0,Coritiba,False,False,first
 217,2016-08-28,Sport,1,1,Internacional,False,False,first
-218,2016-08-28,Vitória,2,1,América,False,False,first
+218,2016-08-28,Vitória,2,1,América-MG,False,False,first
 219,2016-08-29,Atlético-PR,1,0,Botafogo,False,False,first
 220,2016-09-07,Figueirense,1,0,Atlético-PR,False,False,first
 221,2016-09-07,Botafogo,1,0,Fluminense,False,False,first
 222,2016-09-07,Santa Cruz,2,2,Chapecoense,False,False,first
 223,2016-09-07,Atlético-MG,2,1,Vitória,False,False,first
 224,2016-09-07,Coritiba,4,0,Grêmio,False,False,first
-225,2016-09-07,Flamengo,2,1,Ponte Preta,False,False,first
+225,2016-09-07,Flamengo,2,1,Ponte Preta-SP,False,False,first
 226,2016-09-07,Palmeiras,2,1,São Paulo,False,False,first
 227,2016-09-08,Corinthians,3,0,Sport,False,False,first
-228,2016-09-08,América,0,2,Cruzeiro,False,False,first
+228,2016-09-08,América-MG,0,2,Cruzeiro,False,False,first
 229,2016-09-08,Internacional,2,1,Santos,False,False,first
 230,2016-09-10,Vitória,1,2,Flamengo,False,False,first
 231,2016-09-11,Chapecoense,1,0,Coritiba,False,False,first
@@ -237,11 +237,11 @@
 235,2016-09-11,Santos,2,1,Corinthians,False,False,first
 236,2016-09-11,Sport,5,3,Santa Cruz,False,False,first
 237,2016-09-11,Grêmio,0,0,Palmeiras,False,False,first
-238,2016-09-11,Ponte Preta,1,1,América,False,False,first
+238,2016-09-11,Ponte Preta-SP,1,1,América-MG,False,False,first
 239,2016-09-12,Fluminense,4,2,Atlético-MG,False,False,first
-240,2016-09-14,Figueirense,2,2,América,False,False,first
+240,2016-09-14,Figueirense,2,2,América-MG,False,False,first
 241,2016-09-14,Botafogo,0,1,Santos,False,False,first
-242,2016-09-14,Ponte Preta,3,0,Grêmio,False,False,first
+242,2016-09-14,Ponte Preta-SP,3,0,Grêmio,False,False,first
 243,2016-09-14,Santa Cruz,1,0,Atlético-PR,False,False,first
 244,2016-09-14,Coritiba,1,1,Corinthians,False,False,first
 245,2016-09-14,Palmeiras,1,1,Flamengo,False,False,first
@@ -252,17 +252,17 @@
 250,2016-09-17,Corinthians,0,2,Palmeiras,False,False,first
 251,2016-09-18,Flamengo,2,0,Figueirense,False,False,first
 252,2016-09-18,Atlético-PR,1,0,São Paulo,False,False,first
-253,2016-09-18,Chapecoense,2,2,Ponte Preta,False,False,first
+253,2016-09-18,Chapecoense,2,2,Ponte Preta-SP,False,False,first
 254,2016-09-18,Cruzeiro,1,1,Atlético-MG,False,False,first
 255,2016-09-18,Grêmio,0,1,Fluminense,False,False,first
 256,2016-09-18,Sport,0,1,Coritiba,False,False,first
 257,2016-09-18,Vitória,0,1,Botafogo,False,False,first
 258,2016-09-18,Santos,3,2,Santa Cruz,False,False,first
-259,2016-09-19,América,1,0,Internacional,False,False,first
+259,2016-09-19,América-MG,1,0,Internacional,False,False,first
 260,2016-09-24,Palmeiras,2,1,Coritiba,False,False,first
 261,2016-09-24,Sport,1,0,Santos,False,False,first
-262,2016-09-24,América,1,0,Botafogo,False,False,first
-263,2016-09-25,Atlético-PR,3,0,Ponte Preta,False,False,first
+262,2016-09-24,América-MG,1,0,Botafogo,False,False,first
+263,2016-09-25,Atlético-PR,3,0,Ponte Preta-SP,False,False,first
 264,2016-09-25,Figueirense,3,1,Santa Cruz,False,False,first
 265,2016-09-25,Corinthians,0,1,Fluminense,False,False,first
 266,2016-09-25,Flamengo,2,1,Cruzeiro,False,False,first
@@ -274,19 +274,19 @@
 272,2016-10-01,Chapecoense,1,4,Vitória,False,False,first
 273,2016-10-01,Santos,2,0,Atlético-PR,False,False,first
 274,2016-10-01,Botafogo,2,0,Corinthians,False,False,first
-275,2016-10-01,Ponte Preta,1,2,Atlético-MG,False,False,first
+275,2016-10-01,Ponte Preta-SP,1,2,Atlético-MG,False,False,first
 276,2016-10-01,Cruzeiro,1,0,Grêmio,False,False,first
 277,2016-10-01,Internacional,1,0,Figueirense,False,False,first
 278,2016-10-03,Santa Cruz,2,3,Palmeiras,False,False,first
-279,2016-10-03,Coritiba,3,0,América,False,False,first
+279,2016-10-03,Coritiba,3,0,América-MG,False,False,first
 280,2016-10-05,Atlético-PR,3,1,Chapecoense,False,False,first
 281,2016-10-05,Vitória,0,1,Grêmio,False,False,first
 282,2016-10-05,Corinthians,0,0,Atlético-MG,False,False,first
 283,2016-10-05,Santos,2,1,Fluminense,False,False,first
 284,2016-10-05,Sport,1,1,São Paulo,False,False,first
 285,2016-10-06,Internacional,1,0,Coritiba,False,False,first
-286,2016-10-08,Cruzeiro,2,0,Ponte Preta,False,False,first
-287,2016-10-09,América,0,2,Palmeiras,False,False,first
+286,2016-10-08,Cruzeiro,2,0,Ponte Preta-SP,False,False,first
+287,2016-10-09,América-MG,0,2,Palmeiras,False,False,first
 288,2016-10-09,Figueirense,0,1,Botafogo,False,False,first
 289,2016-10-09,Flamengo,3,0,Santa Cruz,False,False,first
 290,2016-10-12,Chapecoense,3,0,Sport,False,False,first
@@ -294,8 +294,8 @@
 292,2016-10-12,Santa Cruz,2,4,Corinthians,False,False,first
 293,2016-10-12,Botafogo,1,0,Internacional,False,False,first
 294,2016-10-13,Palmeiras,0,0,Cruzeiro,False,False,first
-295,2016-10-13,Atlético-MG,3,0,América,False,False,first
-296,2016-10-13,Ponte Preta,2,0,Vitória,False,False,first
+295,2016-10-13,Atlético-MG,3,0,América-MG,False,False,first
+296,2016-10-13,Ponte Preta-SP,2,0,Vitória,False,False,first
 297,2016-10-13,Fluminense,1,2,Flamengo,False,False,first
 298,2016-10-13,Grêmio,1,0,Atlético-PR,False,False,first
 299,2016-10-13,São Paulo,0,1,Santos,False,False,first
@@ -304,13 +304,13 @@
 302,2016-10-16,Cruzeiro,0,0,Chapecoense,False,False,first
 303,2016-10-16,Figueirense,1,2,Palmeiras,False,False,first
 304,2016-10-16,Internacional,2,1,Flamengo,False,False,first
-305,2016-10-16,Corinthians,2,0,América,False,False,first
-306,2016-10-16,Ponte Preta,3,0,Santa Cruz,False,False,first
+305,2016-10-16,Corinthians,2,0,América-MG,False,False,first
+306,2016-10-16,Ponte Preta-SP,3,0,Santa Cruz,False,False,first
 307,2016-10-16,Sport,1,0,Vitória,False,False,first
 308,2016-10-16,Santos,1,1,Grêmio,False,False,first
 309,2016-10-17,Fluminense,1,2,São Paulo,False,False,first
 310,2016-10-19,Santa Cruz,0,1,Botafogo,False,False,first
-311,2016-10-22,São Paulo,2,0,Ponte Preta,False,False,first
+311,2016-10-22,São Paulo,2,0,Ponte Preta-SP,False,False,first
 312,2016-10-23,Vitória,0,1,Cruzeiro,False,False,first
 313,2016-10-23,Flamengo,2,2,Corinthians,False,False,first
 314,2016-10-23,Grêmio,0,0,Internacional,False,False,first
@@ -318,8 +318,8 @@
 316,2016-10-23,Coritiba,1,1,Fluminense,False,False,first
 317,2016-10-23,Atlético-MG,3,0,Figueirense,False,False,first
 318,2016-10-23,Chapecoense,0,1,Santos,False,False,first
-319,2016-10-24,América,1,0,Atlético-PR,False,False,first
-320,2016-10-27,Sport,1,0,Ponte Preta,False,False,first
+319,2016-10-24,América-MG,1,0,Atlético-PR,False,False,first
+320,2016-10-27,Sport,1,0,Ponte Preta-SP,False,False,first
 321,2016-10-28,Fluminense,2,2,Vitória,False,False,first
 322,2016-10-29,Atlético-MG,2,2,Flamengo,False,False,first
 323,2016-10-29,Atlético-PR,1,0,Cruzeiro,False,False,first
@@ -328,11 +328,11 @@
 326,2016-10-29,Internacional,1,1,Santa Cruz,False,False,first
 327,2016-10-29,Figueirense,0,0,Grêmio,False,False,first
 328,2016-10-29,Santos,1,0,Palmeiras,False,False,first
-329,2016-10-31,América,1,0,São Paulo,False,False,first
+329,2016-10-31,América-MG,1,0,São Paulo,False,False,first
 330,2016-11-05,Flamengo,0,0,Botafogo,False,False,first
 331,2016-11-05,São Paulo,4,0,Corinthians,False,False,first
-332,2016-11-06,Ponte Preta,1,2,Santos,False,False,first
-333,2016-11-06,Santa Cruz,1,0,América,False,False,first
+332,2016-11-06,Ponte Preta-SP,1,2,Santos,False,False,first
+333,2016-11-06,Santa Cruz,1,0,América-MG,False,False,first
 334,2016-11-06,Vitória,3,2,Atlético-PR,False,False,first
 335,2016-11-06,Cruzeiro,4,2,Fluminense,False,False,first
 336,2016-11-06,Palmeiras,1,0,Internacional,False,False,first
@@ -343,24 +343,24 @@
 341,2016-11-16,Botafogo,0,2,Chapecoense,False,False,first
 342,2016-11-16,Sport,0,1,Cruzeiro,False,False,first
 343,2016-11-16,Coritiba,1,0,Santa Cruz,False,False,first
-344,2016-11-16,América,0,1,Flamengo,False,False,first
+344,2016-11-16,América-MG,0,1,Flamengo,False,False,first
 345,2016-11-16,Figueirense,1,1,Corinthians,False,False,first
 346,2016-11-17,Santos,3,2,Vitória,False,False,first
 347,2016-11-17,São Paulo,1,1,Grêmio,False,False,first
 348,2016-11-17,Atlético-MG,1,1,Palmeiras,False,False,first
-349,2016-11-17,Internacional,1,1,Ponte Preta,False,False,first
+349,2016-11-17,Internacional,1,1,Ponte Preta-SP,False,False,first
 350,2016-11-20,Vitória,4,0,Figueirense,False,False,first
 351,2016-11-20,Atlético-PR,2,0,Sport,False,False,first
 352,2016-11-20,Cruzeiro,2,2,Santos,False,False,first
-353,2016-11-20,Grêmio,3,0,América,False,False,first
+353,2016-11-20,Grêmio,3,0,América-MG,False,False,first
 354,2016-11-20,Palmeiras,1,0,Botafogo,False,False,first
-355,2016-11-20,Ponte Preta,1,0,Fluminense,False,False,first
+355,2016-11-20,Ponte Preta-SP,1,0,Fluminense,False,False,first
 356,2016-11-20,Santa Cruz,3,3,Atlético-MG,False,False,first
 357,2016-11-20,Chapecoense,2,0,São Paulo,False,False,first
 358,2016-11-20,Flamengo,2,2,Coritiba,False,False,first
 359,2016-11-21,Corinthians,1,0,Internacional,False,False,first
-360,2016-11-26,América,2,2,Sport,False,False,first
-361,2016-11-26,Botafogo,1,1,Ponte Preta,False,False,first
+360,2016-11-26,América-MG,2,2,Sport,False,False,first
+361,2016-11-26,Botafogo,1,1,Ponte Preta-SP,False,False,first
 362,2016-11-26,Corinthians,0,0,Atlético-PR,False,False,first
 363,2016-11-27,Atlético-MG,1,2,São Paulo,False,False,first
 364,2016-11-27,Flamengo,2,0,Santos,False,False,first
@@ -373,8 +373,8 @@
 371,2016-12-04,Cruzeiro,3,2,Corinthians,False,False,first
 372,2016-12-04,Fluminense,1,1,Internacional,False,False,first
 373,2016-12-04,Grêmio,0,1,Botafogo,False,False,first
-374,2016-12-04,Ponte Preta,2,0,Coritiba,False,False,first
-375,2016-12-04,Santos,1,0,América,False,False,first
+374,2016-12-04,Ponte Preta-SP,2,0,Coritiba,False,False,first
+375,2016-12-04,Santos,1,0,América-MG,False,False,first
 376,2016-12-04,Sport,2,0,Figueirense,False,False,first
 377,2016-12-04,São Paulo,5,0,Santa Cruz,False,False,first
 378,2016-12-04,Vitória,1,2,Palmeiras,False,False,first

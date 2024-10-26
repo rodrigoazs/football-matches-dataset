@@ -1,7 +1,7 @@
 ,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 0,2023-04-15,Palmeiras,2,1,Cuiabá,False,False,first
-1,2023-04-15,América,0,3,Fluminense,False,False,first
-2,2023-04-15,Athletico/PR,2,0,Goiás,False,False,first
+1,2023-04-15,América-MG,0,3,Fluminense,False,False,first
+2,2023-04-15,Athletico-PR,,2,0,Goiás,False,False,first
 3,2023-04-15,Botafogo,2,1,São Paulo,False,False,first
 4,2023-04-15,Bragantino,2,1,Bahia,False,False,first
 5,2023-04-15,Fortaleza,1,1,Internacional,False,False,first
@@ -9,9 +9,9 @@
 7,2023-04-16,Corinthians,2,1,Cruzeiro,False,False,first
 8,2023-04-16,Flamengo,3,0,Coritiba,False,False,first
 9,2023-04-16,Grêmio,1,0,Santos,False,False,first
-10,2023-04-22,Fluminense,2,0,Athletico/PR,False,False,first
+10,2023-04-22,Fluminense,2,0,Athletico-PR,,False,False,first
 11,2023-04-22,Cuiabá,1,1,Bragantino,False,False,first
-12,2023-04-22,São Paulo,3,0,América,False,False,first
+12,2023-04-22,São Paulo,3,0,América-MG,False,False,first
 13,2023-04-22,Cruzeiro,1,0,Grêmio,False,False,first
 14,2023-04-23,Internacional,2,1,Flamengo,False,False,first
 15,2023-04-23,Vasco da Gama,2,2,Palmeiras,False,False,first
@@ -23,25 +23,25 @@
 21,2023-04-29,Coritiba,1,1,São Paulo,False,False,first
 22,2023-04-29,Palmeiras,2,1,Corinthians,False,False,first
 23,2023-04-29,Bragantino,0,3,Cruzeiro,False,False,first
-24,2023-04-29,Santos,3,2,América,False,False,first
-25,2023-04-29,Atlético-MG,2,1,Athletico/PR,False,False,first
+24,2023-04-29,Santos,3,2,América-MG,False,False,first
+25,2023-04-29,Atlético-MG,2,1,Athletico-PR,,False,False,first
 26,2023-04-30,Flamengo,2,3,Botafogo,False,False,first
 27,2023-04-30,Internacional,1,0,Goiás,False,False,first
 28,2023-04-30,Cuiabá,1,2,Grêmio,False,False,first
 29,2023-05-01,Vasco da Gama,0,1,Bahia,False,False,first
 30,2023-05-06,Cruzeiro,2,1,Santos,False,False,first
 31,2023-05-06,Fluminense,1,1,Vasco da Gama,False,False,first
-32,2023-05-07,América,1,2,Cuiabá,False,False,first
+32,2023-05-07,América-MG,1,2,Cuiabá,False,False,first
 33,2023-05-07,Bahia,3,1,Coritiba,False,False,first
-34,2023-05-07,Athletico/PR,2,1,Flamengo,False,False,first
+34,2023-05-07,Athletico-PR,,2,1,Flamengo,False,False,first
 35,2023-05-07,São Paulo,2,0,Internacional,False,False,first
 36,2023-05-07,Grêmio,3,3,Bragantino,False,False,first
 37,2023-05-07,Botafogo,2,0,Atlético-MG,False,False,first
 38,2023-05-07,Goiás,0,5,Palmeiras,False,False,first
 39,2023-05-08,Corinthians,1,1,Fortaleza,False,False,first
 40,2023-05-10,Santos,3,0,Bahia,False,False,first
-41,2023-05-10,Bragantino,2,2,América,False,False,first
-42,2023-05-10,Internacional,0,2,Athletico/PR,False,False,first
+41,2023-05-10,Bragantino,2,2,América-MG,False,False,first
+42,2023-05-10,Internacional,0,2,Athletico-PR,,False,False,first
 43,2023-05-10,Cuiabá,0,4,Atlético-MG,False,False,first
 44,2023-05-10,Flamengo,2,0,Goiás,False,False,first
 45,2023-05-10,Palmeiras,4,1,Grêmio,False,False,first
@@ -56,12 +56,12 @@
 54,2023-05-14,Vasco da Gama,0,1,Santos,False,False,first
 55,2023-05-14,Corinthians,1,1,São Paulo,False,False,first
 56,2023-05-14,Grêmio,0,0,Fortaleza,False,False,first
-57,2023-05-14,Athletico/PR,3,2,Coritiba,False,False,first
+57,2023-05-14,Athletico-PR,,3,2,Coritiba,False,False,first
 58,2023-05-14,Goiás,2,1,Botafogo,False,False,first
-59,2023-05-14,América,0,4,Cruzeiro,False,False,first
+59,2023-05-14,América-MG,0,4,Cruzeiro,False,False,first
 60,2023-05-20,Bahia,1,1,Goiás,False,False,first
-61,2023-05-20,América,2,1,Fortaleza,False,False,first
-62,2023-05-20,Bragantino,2,0,Athletico,False,False,first
+61,2023-05-20,América-MG,2,1,Fortaleza,False,False,first
+62,2023-05-20,Bragantino,2,0,Athletico-PR,False,False,first
 63,2023-05-20,Coritiba,1,2,Atlético-MG,False,False,first
 64,2023-05-20,São Paulo,4,2,Vasco da Gama,False,False,first
 65,2023-05-20,Botafogo,1,0,Fluminense,False,False,first
@@ -70,7 +70,7 @@
 68,2023-05-21,Grêmio,3,1,Internacional,False,False,first
 69,2023-05-22,Cruzeiro,0,1,Cuiabá,False,False,first
 70,2023-05-27,Fortaleza,2,0,Vasco da Gama,False,False,first
-71,2023-05-27,Athletico/PR,1,2,Grêmio,False,False,first
+71,2023-05-27,Athletico-PR,,1,2,Grêmio,False,False,first
 72,2023-05-27,Cuiabá,1,1,Coritiba,False,False,first
 73,2023-05-27,Flamengo,1,1,Cruzeiro,False,False,first
 74,2023-05-27,São Paulo,2,1,Goiás,False,False,first
@@ -78,10 +78,10 @@
 76,2023-05-28,Corinthians,2,0,Fluminense,False,False,first
 77,2023-05-28,Atlético-MG,1,1,Palmeiras,False,False,first
 78,2023-05-28,Bragantino,2,0,Santos,False,False,first
-79,2023-05-28,Botafogo,2,0,América,False,False,first
+79,2023-05-28,Botafogo,2,0,América-MG,False,False,first
 80,2023-06-03,Fortaleza,0,0,Bahia,False,False,first
-81,2023-06-03,América,2,0,Corinthians,False,False,first
-82,2023-06-03,Athletico/PR,1,0,Botafogo,False,False,first
+81,2023-06-03,América-MG,2,0,Corinthians,False,False,first
+82,2023-06-03,Athletico-PR,,1,0,Botafogo,False,False,first
 83,2023-06-03,Cruzeiro,0,1,Atlético-MG,False,False,first
 84,2023-06-03,Santos,1,1,Internacional,False,False,first
 85,2023-06-04,Fluminense,2,1,Bragantino,False,False,first
@@ -94,28 +94,28 @@
 92,2023-06-10,Bahia,2,2,Cruzeiro,False,False,first
 93,2023-06-10,Corinthians,1,1,Cuiabá,False,False,first
 94,2023-06-10,Botafogo,2,0,Fortaleza,False,False,first
-95,2023-06-11,América,2,2,Athletico/PR,False,False,first
+95,2023-06-11,América-MG,2,2,Athletico-PR,,False,False,first
 96,2023-06-11,São Paulo,0,2,Palmeiras,False,False,first
 97,2023-06-11,Internacional,2,1,Vasco da Gama,False,False,first
 98,2023-06-11,Goiás,2,2,Fluminense,False,False,first
 99,2023-06-11,Flamengo,3,0,Grêmio,False,False,first
-100,2023-06-21,São Paulo,2,1,Athletico/PR,False,False,first
+100,2023-06-21,São Paulo,2,1,Athletico-PR,,False,False,first
 101,2023-06-21,Cruzeiro,0,1,Fortaleza,False,False,first
 102,2023-06-21,Santos,0,2,Corinthians,False,False,first
 103,2023-06-21,Fluminense,1,1,Atlético-MG,False,False,first
 104,2023-06-21,Bahia,1,0,Palmeiras,False,False,first
-105,2023-06-22,Grêmio,3,1,América,False,False,first
+105,2023-06-22,Grêmio,3,1,América-MG,False,False,first
 106,2023-06-22,Cuiabá,0,1,Botafogo,False,False,first
 107,2023-06-22,Coritiba,0,1,Internacional,False,False,first
 108,2023-06-22,Vasco da Gama,0,1,Goiás,False,False,first
 109,2023-06-22,Bragantino,4,0,Flamengo,False,False,first
-110,2023-06-24,Athletico/PR,1,0,Corinthians,False,False,first
+110,2023-06-24,Athletico-PR,,1,0,Corinthians,False,False,first
 111,2023-06-24,Fluminense,2,1,Bahia,False,False,first
 112,2023-06-24,Fortaleza,2,1,Atlético-MG,False,False,first
 113,2023-06-24,Cruzeiro,1,0,São Paulo,False,False,first
 114,2023-06-25,Grêmio,5,1,Coritiba,False,False,first
 115,2023-06-25,Palmeiras,0,1,Botafogo,False,False,first
-116,2023-06-25,América,1,2,Internacional,False,False,first
+116,2023-06-25,América-MG,1,2,Internacional,False,False,first
 117,2023-06-25,Bragantino,2,0,Goiás,False,False,first
 118,2023-06-25,Santos,2,3,Flamengo,False,False,first
 119,2023-06-26,Vasco da Gama,1,0,Cuiabá,False,False,first
@@ -124,32 +124,32 @@
 122,2023-07-01,Bahia,1,2,Grêmio,False,False,first
 123,2023-07-01,Internacional,0,0,Cruzeiro,False,False,first
 124,2023-07-02,Corinthians,0,1,Bragantino,False,False,first
-125,2023-07-02,Athletico/PR,2,2,Palmeiras,False,False,first
+125,2023-07-02,Athletico-PR,,2,2,Palmeiras,False,False,first
 126,2023-07-02,Botafogo,2,0,Vasco da Gama,False,False,first
-127,2023-07-02,Atlético-MG,2,2,América,False,False,first
+127,2023-07-02,Atlético-MG,2,2,América-MG,False,False,first
 128,2023-07-02,Cuiabá,3,0,Santos,False,False,first
 129,2023-07-03,Goiás,1,2,Coritiba,False,False,first
 130,2023-07-08,Vasco da Gama,0,1,Cruzeiro,False,False,first
 131,2023-07-08,Cuiabá,1,1,Bahia,False,False,first
-132,2023-07-08,Coritiba,3,1,América,False,False,first
+132,2023-07-08,Coritiba,3,1,América-MG,False,False,first
 133,2023-07-08,Atlético-MG,0,1,Corinthians,False,False,first
 134,2023-07-08,Palmeiras,1,1,Flamengo,False,False,first
 135,2023-07-09,Santos,4,3,Goiás,False,False,first
 136,2023-07-09,Fluminense,2,0,Internacional,False,False,first
 137,2023-07-09,Bragantino,0,0,São Paulo,False,False,first
 138,2023-07-09,Grêmio,0,2,Botafogo,False,False,first
-139,2023-07-09,Fortaleza,1,0,Athletico/PR,False,False,first
+139,2023-07-09,Fortaleza,1,0,Athletico-PR,,False,False,first
 140,2023-07-15,Botafogo,2,0,Bragantino,False,False,first
 141,2023-07-16,Cruzeiro,0,0,Coritiba,False,False,first
 142,2023-07-16,São Paulo,4,1,Santos,False,False,first
 143,2023-07-16,Fortaleza,0,1,Cuiabá,False,False,first
 144,2023-07-16,Fluminense,0,0,Flamengo,False,False,first
 145,2023-07-16,Internacional,0,0,Palmeiras,False,False,first
-146,2023-07-16,Athletico/PR,2,0,Bahia,False,False,first
+146,2023-07-16,Athletico-PR,,2,0,Bahia,False,False,first
 147,2023-07-17,Goiás,0,0,Atlético-MG,False,False,first
 148,2023-09-18,Corinthians,4,4,Grêmio,False,False,first
-149,2023-09-23,América,0,1,Vasco da Gama,False,False,first
-150,2023-07-22,Flamengo,1,1,América MG,False,False,first
+149,2023-09-23,América-MG,0,1,Vasco da Gama,False,False,first
+150,2023-07-22,Flamengo,1,1,América-MG-MG,False,False,first
 151,2023-07-22,Palmeiras,3,1,Fortaleza,False,False,first
 152,2023-07-22,Bahia,0,0,Corinthians,False,False,first
 153,2023-07-22,Cuiabá,2,1,São Paulo,False,False,first
@@ -157,9 +157,9 @@
 155,2023-07-23,Santos,2,2,Botafogo,False,False,first
 156,2023-07-23,Cruzeiro,0,1,Goiás,False,False,first
 157,2023-07-23,Bragantino,0,0,Internacional,False,False,first
-158,2023-07-23,Vasco da Gama,0,2,Athletico/PR,False,False,first
+158,2023-07-23,Vasco da Gama,0,2,Athletico-PR,,False,False,first
 159,2023-07-24,Coritiba,2,0,Fluminense,False,False,first
-160,2023-07-29,Athletico/PR,3,3,Cruzeiro,False,False,first
+160,2023-07-29,Athletico-PR,,3,3,Cruzeiro,False,False,first
 161,2023-07-29,Fluminense,1,0,Santos,False,False,first
 162,2023-07-29,Internacional,1,2,Cuiabá,False,False,first
 163,2023-07-29,Corinthians,3,1,Vasco da Gama,False,False,first
@@ -167,75 +167,75 @@
 165,2023-07-29,Atlético-MG,1,2,Flamengo,False,False,first
 166,2023-07-30,São Paulo,0,0,Bahia,False,False,first
 167,2023-07-30,Botafogo,4,1,Coritiba,False,False,first
-168,2023-07-30,América,1,4,Palmeiras,False,False,first
+168,2023-07-30,América-MG,1,4,Palmeiras,False,False,first
 169,2023-07-30,Goiás,1,1,Grêmio,False,False,first
-170,2023-08-05,Santos,1,1,Athletico/PR,False,False,first
+170,2023-08-05,Santos,1,1,Athletico-PR,,False,False,first
 171,2023-08-05,Internacional,2,2,Corinthians,False,False,first
 172,2023-08-05,Goiás,1,0,Fortaleza,False,False,first
 173,2023-08-05,Fluminense,2,1,Palmeiras,False,False,first
 174,2023-08-06,São Paulo,0,2,Atlético-MG,False,False,first
 175,2023-08-06,Vasco da Gama,1,0,Grêmio,False,False,first
 176,2023-08-06,Coritiba,0,1,Bragantino,False,False,first
-177,2023-08-06,Bahia,3,1,América,False,False,first
+177,2023-08-06,Bahia,3,1,América-MG,False,False,first
 178,2023-08-06,Cruzeiro,0,0,Botafogo,False,False,first
 179,2023-08-06,Cuiabá,3,0,Flamengo,False,False,first
 180,2023-08-12,Botafogo,3,1,Internacional,False,False,first
 181,2023-08-13,Atlético-MG,1,0,Bahia,False,False,first
-182,2023-08-13,América,0,1,Goiás,False,False,first
+182,2023-08-13,América-MG,0,1,Goiás,False,False,first
 183,2023-08-13,Grêmio,2,1,Fluminense,False,False,first
 184,2023-08-13,Corinthians,3,1,Coritiba,False,False,first
 185,2023-08-13,Fortaleza,4,0,Santos,False,False,first
 186,2023-08-13,Flamengo,1,1,São Paulo,False,False,first
 187,2023-08-14,Palmeiras,1,0,Cruzeiro,False,False,first
 188,2023-08-14,Bragantino,1,1,Vasco da Gama,False,False,first
-189,2023-08-15,Athletico/PR,2,0,Cuiabá,False,False,first
+189,2023-08-15,Athletico-PR,,2,0,Cuiabá,False,False,first
 190,2023-08-19,São Paulo,0,0,Botafogo,False,False,first
 191,2023-08-19,Internacional,0,1,Fortaleza,False,False,first
-192,2023-08-19,Fluminense,3,1,América,False,False,first
+192,2023-08-19,Fluminense,3,1,América-MG,False,False,first
 193,2023-08-19,Cuiabá,0,2,Palmeiras,False,False,first
 194,2023-08-19,Cruzeiro,1,1,Corinthians,False,False,first
 195,2023-08-20,Vasco da Gama,1,0,Atlético-MG,False,False,first
 196,2023-08-20,Coritiba,2,3,Flamengo,False,False,first
 197,2023-08-20,Santos,2,1,Grêmio,False,False,first
 198,2023-08-20,Bahia,4,0,Bragantino,False,False,first
-199,2023-08-21,Goiás,1,1,Athletico/PR,False,False,first
+199,2023-08-21,Goiás,1,1,Athletico-PR,,False,False,first
 200,2023-08-26,Flamengo,0,0,Internacional,False,False,first
 201,2023-08-26,Corinthians,1,1,Goiás,False,False,first
 202,2023-08-27,Bragantino,2,0,Cuiabá,False,False,first
 203,2023-08-27,Botafogo,3,0,Bahia,False,False,first
 204,2023-08-27,Atlético-MG,2,0,Santos,False,False,first
-205,2023-08-27,América,2,1,São Paulo,False,False,first
+205,2023-08-27,América-MG,2,1,São Paulo,False,False,first
 206,2023-08-27,Fortaleza,3,1,Coritiba,False,False,first
-207,2023-08-27,Athletico/PR,2,2,Fluminense,False,False,first
+207,2023-08-27,Athletico-PR,,2,2,Fluminense,False,False,first
 208,2023-08-27,Palmeiras,1,0,Vasco da Gama,False,False,first
 209,2023-08-27,Grêmio,3,0,Cruzeiro,False,False,first
-210,2023-09-02,Athletico/PR,1,1,Atlético-MG,False,False,first
+210,2023-09-02,Athletico-PR,,1,1,Atlético-MG,False,False,first
 211,2023-09-02,Goiás,0,0,Internacional,False,False,first
 212,2023-09-02,Botafogo,1,2,Flamengo,False,False,first
 213,2023-09-03,Grêmio,2,0,Cuiabá,False,False,first
 214,2023-09-03,Fluminense,1,0,Fortaleza,False,False,first
 215,2023-09-03,Corinthians,0,0,Palmeiras,False,False,first
-216,2023-09-03,América,2,0,Santos,False,False,first
+216,2023-09-03,América-MG,2,0,Santos,False,False,first
 217,2023-09-03,Cruzeiro,0,0,Bragantino,False,False,first
 218,2023-09-03,Bahia,1,1,Vasco da Gama,False,False,first
 219,2023-09-27,São Paulo,2,1,Coritiba,False,False,first
-220,2023-09-13,Flamengo,0,3,Athletico/PR,False,False,first
+220,2023-09-13,Flamengo,0,3,Athletico-PR,,False,False,first
 221,2023-09-13,Internacional,2,1,São Paulo,False,False,first
 222,2023-09-14,Santos,0,3,Cruzeiro,False,False,first
 223,2023-09-14,Fortaleza,2,1,Corinthians,False,False,first
 224,2023-09-14,Coritiba,2,4,Bahia,False,False,first
 225,2023-09-14,Bragantino,2,0,Grêmio,False,False,first
-226,2023-09-15,Cuiabá,2,2,América,False,False,first
+226,2023-09-15,Cuiabá,2,2,América-MG,False,False,first
 227,2023-09-15,Palmeiras,1,0,Goiás,False,False,first
 228,2023-09-16,Vasco da Gama,4,2,Fluminense,False,False,first
 229,2023-09-16,Atlético-MG,1,0,Botafogo,False,False,first
 230,2023-09-18,Bahia,1,2,Santos,False,False,first
-231,2023-09-19,América,0,2,Bragantino,False,False,first
+231,2023-09-19,América-MG,0,2,Bragantino,False,False,first
 232,2023-09-20,Goiás,0,0,Flamengo,False,False,first
 233,2023-09-20,Fluminense,1,0,Cruzeiro,False,False,first
 234,2023-09-20,São Paulo,1,2,Fortaleza,False,False,first
 235,2023-09-21,Vasco da Gama,5,1,Coritiba,False,False,first
-236,2023-09-21,Athletico/PR,2,1,Internacional,False,False,first
+236,2023-09-21,Athletico-PR,,2,1,Internacional,False,False,first
 237,2023-09-21,Grêmio,1,0,Palmeiras,False,False,first
 238,2023-09-22,Corinthians,1,0,Botafogo,False,False,first
 239,2023-09-23,Atlético-MG,1,0,Cuiabá,False,False,first
@@ -245,8 +245,8 @@
 243,2023-09-30,Cuiabá,3,0,Fluminense,False,False,first
 244,2023-09-30,Internacional,0,2,Atlético-MG,False,False,first
 245,2023-10-01,Santos,4,1,Vasco da Gama,False,False,first
-246,2023-10-01,Cruzeiro,1,1,América,False,False,first
-247,2023-10-01,Coritiba,2,0,Athletico/PR,False,False,first
+246,2023-10-01,Cruzeiro,1,1,América-MG,False,False,first
+247,2023-10-01,Coritiba,2,0,Athletico-PR,,False,False,first
 248,2023-10-01,Bragantino,2,1,Palmeiras,False,False,first
 249,2023-10-02,Botafogo,1,1,Goiás,False,False,first
 250,2023-10-07,Goiás,4,6,Bahia,False,False,first
@@ -256,11 +256,11 @@
 254,2023-10-08,Palmeiras,1,2,Santos,False,False,first
 255,2023-10-08,Fluminense,0,2,Botafogo,False,False,first
 256,2023-10-08,Atlético-MG,1,2,Coritiba,False,False,first
-257,2023-10-08,Athletico/PR,1,1,Bragantino,False,False,first
-258,2023-10-08,Fortaleza,3,2,América,False,False,first
+257,2023-10-08,Athletico-PR,,1,1,Bragantino,False,False,first
+258,2023-10-08,Fortaleza,3,2,América-MG,False,False,first
 259,2023-10-14,Cuiabá,0,0,Cruzeiro,False,False,first
-260,2023-10-18,Grêmio,1,2,Athletico/PR,False,False,first
-261,2023-10-18,América,1,2,Botafogo,False,False,first
+260,2023-10-18,Grêmio,1,2,Athletico-PR,,False,False,first
+261,2023-10-18,América-MG,1,2,Botafogo,False,False,first
 262,2023-10-18,Coritiba,0,3,Cuiabá,False,False,first
 263,2023-10-18,Vasco da Gama,1,0,Fortaleza,False,False,first
 264,2023-10-18,Bahia,1,0,Internacional,False,False,first
@@ -272,16 +272,16 @@
 270,2023-10-21,Bahia,2,0,Fortaleza,False,False,first
 271,2023-10-21,Cuiabá,1,1,Goiás,False,False,first
 272,2023-10-21,São Paulo,3,0,Grêmio,False,False,first
-273,2023-10-21,Botafogo,1,1,Athletico/PR,False,False,first
+273,2023-10-21,Botafogo,1,1,Athletico-PR,,False,False,first
 274,2023-10-22,Internacional,7,1,Santos,False,False,first
 275,2023-10-22,Atlético-MG,0,1,Cruzeiro,False,False,first
 276,2023-10-22,Flamengo,1,0,Vasco da Gama,False,False,first
-277,2023-10-22,Corinthians,1,1,América,False,False,first
+277,2023-10-22,Corinthians,1,1,América-MG,False,False,first
 278,2023-10-22,Bragantino,1,0,Fluminense,False,False,first
 279,2023-10-22,Coritiba,0,2,Palmeiras,False,False,first
 280,2023-10-25,Fluminense,5,3,Goiás,False,False,first
 281,2023-10-25,Bragantino,1,2,Atlético-MG,False,False,first
-282,2023-10-25,Athletico/PR,3,2,América,False,False,first
+282,2023-10-25,Athletico-PR,,3,2,América-MG,False,False,first
 283,2023-10-25,Cruzeiro,3,0,Bahia,False,False,first
 284,2023-10-25,Palmeiras,5,0,São Paulo,False,False,first
 285,2023-10-25,Grêmio,3,2,Flamengo,False,False,first
@@ -289,10 +289,10 @@
 287,2023-10-26,Vasco da Gama,1,2,Internacional,False,False,first
 288,2023-10-26,Santos,2,1,Coritiba,False,False,first
 289,2023-11-23,Fortaleza,2,2,Botafogo,False,False,first
-290,2023-10-28,América,3,4,Grêmio,False,False,first
+290,2023-10-28,América-MG,3,4,Grêmio,False,False,first
 291,2023-10-28,Palmeiras,1,0,Bahia,False,False,first
 292,2023-10-28,Atlético-MG,2,0,Fluminense,False,False,first
-293,2023-10-29,Athletico/PR,1,1,São Paulo,False,False,first
+293,2023-10-29,Athletico-PR,,1,1,São Paulo,False,False,first
 294,2023-10-29,Goiás,1,1,Vasco da Gama,False,False,first
 295,2023-10-29,Corinthians,1,1,Santos,False,False,first
 296,2023-10-29,Internacional,3,4,Coritiba,False,False,first
@@ -300,8 +300,8 @@
 298,2023-11-18,Fortaleza,0,1,Cruzeiro,False,False,first
 299,2023-11-23,Flamengo,1,0,Bragantino,False,False,first
 300,2023-10-31,Bahia,1,0,Fluminense,False,False,first
-301,2023-11-01,Corinthians,1,0,Athletico/PR,False,False,first
-302,2023-11-01,Internacional,1,1,América,False,False,first
+301,2023-11-01,Corinthians,1,0,Athletico-PR,,False,False,first
+302,2023-11-01,Internacional,1,1,América-MG,False,False,first
 303,2023-11-01,Coritiba,1,2,Grêmio,False,False,first
 304,2023-11-01,Flamengo,1,2,Santos,False,False,first
 305,2023-11-01,Atlético-MG,3,1,Fortaleza,False,False,first
@@ -309,9 +309,9 @@
 307,2023-11-02,Cuiabá,0,2,Vasco da Gama,False,False,first
 308,2023-11-02,Goiás,0,2,Bragantino,False,False,first
 309,2023-11-02,São Paulo,1,0,Cruzeiro,False,False,first
-310,2023-11-04,América,1,1,Atlético-MG,False,False,first
+310,2023-11-04,América-MG,1,1,Atlético-MG,False,False,first
 311,2023-11-04,Grêmio,1,0,Bahia,False,False,first
-312,2023-11-04,Palmeiras,1,0,Athletico/PR,False,False,first
+312,2023-11-04,Palmeiras,1,0,Athletico-PR,,False,False,first
 313,2023-11-05,Bragantino,1,0,Corinthians,False,False,first
 314,2023-11-05,Cruzeiro,1,2,Internacional,False,False,first
 315,2023-11-05,Fortaleza,0,2,Flamengo,False,False,first
@@ -319,9 +319,9 @@
 317,2023-11-06,Vasco da Gama,1,0,Botafogo,False,False,first
 318,2023-11-06,Santos,0,0,Cuiabá,False,False,first
 319,2023-11-22,Fluminense,1,0,São Paulo,False,False,first
-320,2023-11-08,América,0,3,Coritiba,False,False,first
+320,2023-11-08,América-MG,0,3,Coritiba,False,False,first
 321,2023-11-08,Internacional,0,0,Fluminense,False,False,first
-322,2023-11-08,Athletico/PR,1,1,Fortaleza,False,False,first
+322,2023-11-08,Athletico-PR,,1,1,Fortaleza,False,False,first
 323,2023-11-08,São Paulo,1,0,Bragantino,False,False,first
 324,2023-11-08,Flamengo,3,0,Palmeiras,False,False,first
 325,2023-11-09,Corinthians,1,1,Atlético-MG,False,False,first
@@ -337,17 +337,17 @@
 335,2023-11-12,Atlético-MG,2,1,Goiás,False,False,first
 336,2023-11-12,Santos,0,0,São Paulo,False,False,first
 337,2023-11-12,Cuiabá,2,1,Fortaleza,False,False,first
-338,2023-11-12,Vasco da Gama,2,1,América,False,False,first
-339,2023-11-12,Bahia,1,1,Athletico/PR,False,False,first
+338,2023-11-12,Vasco da Gama,2,1,América-MG,False,False,first
+339,2023-11-12,Bahia,1,1,Athletico-PR,,False,False,first
 340,2023-11-24,Corinthians,1,5,Bahia,False,False,first
-341,2023-11-25,Athletico/PR,0,0,Vasco da Gama,False,False,first
+341,2023-11-25,Athletico-PR,,0,0,Vasco da Gama,False,False,first
 342,2023-11-25,Fluminense,2,1,Coritiba,False,False,first
 343,2023-11-26,Botafogo,1,1,Santos,False,False,first
 344,2023-11-26,Atlético-MG,3,0,Grêmio,False,False,first
 345,2023-11-26,Internacional,1,0,Bragantino,False,False,first
 346,2023-11-26,Fortaleza,2,2,Palmeiras,False,False,first
 347,2023-11-26,São Paulo,0,0,Cuiabá,False,False,first
-348,2023-11-26,América,0,3,Flamengo,False,False,first
+348,2023-11-26,América-MG,0,3,Flamengo,False,False,first
 349,2023-11-27,Goiás,0,1,Cruzeiro,False,False,first
 350,2023-11-28,Vasco da Gama,2,4,Corinthians,False,False,first
 351,2023-11-29,Santos,0,3,Fluminense,False,False,first
@@ -355,21 +355,21 @@
 353,2023-11-29,Cuiabá,0,2,Internacional,False,False,first
 354,2023-11-29,Bahia,0,1,São Paulo,False,False,first
 355,2023-11-29,Coritiba,1,1,Botafogo,False,False,first
-356,2023-11-29,Palmeiras,4,0,América,False,False,first
+356,2023-11-29,Palmeiras,4,0,América-MG,False,False,first
 357,2023-11-30,Grêmio,2,1,Goiás,False,False,first
-358,2023-11-30,Cruzeiro,1,1,Athletico/PR,False,False,first
+358,2023-11-30,Cruzeiro,1,1,Athletico-PR,,False,False,first
 359,2023-11-30,Bragantino,1,2,Fortaleza,False,False,first
 360,2023-12-02,Corinthians,1,2,Internacional,False,False,first
 361,2023-12-02,Atlético-MG,2,1,São Paulo,False,False,first
 362,2023-12-03,Flamengo,2,1,Cuiabá,False,False,first
 363,2023-12-03,Palmeiras,1,0,Fluminense,False,False,first
-364,2023-12-03,América,3,2,Bahia,False,False,first
-365,2023-12-03,Athletico/PR,3,0,Santos,False,False,first
+364,2023-12-03,América-MG,3,2,Bahia,False,False,first
+365,2023-12-03,Athletico-PR,,3,0,Santos,False,False,first
 366,2023-12-03,Fortaleza,1,0,Goiás,False,False,first
 367,2023-12-03,Grêmio,1,0,Vasco da Gama,False,False,first
 368,2023-12-03,Bragantino,1,0,Coritiba,False,False,first
 369,2023-12-03,Botafogo,0,0,Cruzeiro,False,False,first
-370,2023-12-06,Goiás,1,0,América,False,False,first
+370,2023-12-06,Goiás,1,0,América-MG,False,False,first
 371,2023-12-06,Fluminense,2,3,Grêmio,False,False,first
 372,2023-12-06,Vasco da Gama,2,1,Bragantino,False,False,first
 373,2023-12-06,São Paulo,1,0,Flamengo,False,False,first
@@ -378,4 +378,4 @@
 376,2023-12-06,Internacional,3,1,Botafogo,False,False,first
 377,2023-12-06,Coritiba,0,2,Corinthians,False,False,first
 378,2023-12-06,Bahia,4,1,Atlético-MG,False,False,first
-379,2023-12-06,Cuiabá,3,0,Athletico/PR,False,False,first
+379,2023-12-06,Cuiabá,3,0,Athletico-PR,,False,False,first

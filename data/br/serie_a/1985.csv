@@ -2,7 +2,7 @@
 0,1985-01-26,Fluminense,2,1,Santos,False,False,first
 1,1985-01-27,Corinthians,2,2,Vasco da Gama,False,False,first
 2,1985-01-27,Atlético-MG,1,1,Flamengo,False,False,first
-3,1985-01-27,Santa Cruz,1,1,Portuguesa,False,False,first
+3,1985-01-27,Santa Cruz,1,1,Portuguesa-SP,False,False,first
 4,1985-01-27,Guarani,0,0,Cruzeiro,False,False,first
 5,1985-01-27,Bahia,1,0,Palmeiras,False,False,first
 6,1985-01-27,Coritiba,3,1,São Paulo,False,False,first
@@ -10,7 +10,7 @@
 8,1985-01-27,Grêmio,1,0,Náutico,False,False,first
 9,1985-01-27,América-RJ,0,4,Internacional,False,False,first
 10,1985-01-30,Corinthians,0,1,Internacional,False,False,first
-11,1985-01-30,Fluminense,2,0,Portuguesa,False,False,first
+11,1985-01-30,Fluminense,2,0,Portuguesa-SP,False,False,first
 12,1985-01-30,Grêmio,3,1,Vasco da Gama,False,False,first
 13,1985-01-30,América-RJ,1,1,Náutico,False,False,first
 14,1985-01-30,Atlético-MG,4,0,Santos,False,False,first
@@ -22,7 +22,7 @@
 20,1985-02-03,Santos,1,0,Guarani,False,False,first
 21,1985-02-03,Palmeiras,2,2,São Paulo,False,False,first
 22,1985-02-03,Goiás,3,0,Santa Cruz,False,False,first
-23,1985-02-03,Portuguesa,1,1,Grêmio,False,False,first
+23,1985-02-03,Portuguesa-SP,1,1,Grêmio,False,False,first
 24,1985-02-03,Flamengo,2,0,Corinthians,False,False,first
 25,1985-02-03,Náutico,1,1,Atlético-MG,False,False,first
 26,1985-02-03,Bahia,2,1,Coritiba,False,False,first
@@ -37,12 +37,12 @@
 35,1985-02-06,Vasco da Gama,3,0,Coritiba,False,False,first
 36,1985-02-07,Flamengo,1,0,Palmeiras,False,False,first
 37,1985-02-07,Santos,1,1,Grêmio,False,False,first
-38,1985-02-07,Portuguesa,2,0,Atlético-MG,False,False,first
+38,1985-02-07,Portuguesa-SP,2,0,Atlético-MG,False,False,first
 39,1985-02-07,América-RJ,0,0,Goiás,False,False,first
 40,1985-02-09,Fluminense,1,1,Cruzeiro,False,False,first
 41,1985-02-09,Guarani,4,1,Bahia,False,False,first
 42,1985-02-10,Corinthians,1,0,Santos,False,False,first
-43,1985-02-10,Palmeiras,2,1,Portuguesa,False,False,first
+43,1985-02-10,Palmeiras,2,1,Portuguesa-SP,False,False,first
 44,1985-02-10,América-RJ,1,2,Vasco da Gama,False,False,first
 45,1985-02-10,Coritiba,0,0,Goiás,False,False,first
 46,1985-02-10,Botafogo,2,1,Flamengo,False,False,first
@@ -50,7 +50,7 @@
 48,1985-02-10,Santa Cruz,0,3,Náutico,False,False,first
 49,1985-02-10,Grêmio,2,0,Internacional,False,False,first
 50,1985-02-13,Vasco da Gama,1,1,Santa Cruz,False,False,first
-51,1985-02-13,Guarani,4,2,Portuguesa,False,False,first
+51,1985-02-13,Guarani,4,2,Portuguesa-SP,False,False,first
 52,1985-02-13,Palmeiras,2,0,Cruzeiro,False,False,first
 53,1985-02-13,Náutico,1,0,Fluminense,False,False,first
 54,1985-02-13,Coritiba,0,1,Flamengo,False,False,first
@@ -60,7 +60,7 @@
 58,1985-02-13,Santos,2,2,Botafogo,False,False,first
 59,1985-02-13,Goiás,2,2,Grêmio,False,False,first
 60,1985-02-23,Palmeiras,1,1,Vasco da Gama,False,False,first
-61,1985-02-23,Corinthians,2,0,Portuguesa,False,False,first
+61,1985-02-23,Corinthians,2,0,Portuguesa-SP,False,False,first
 62,1985-02-23,São Paulo,2,1,Fluminense,False,False,first
 63,1985-02-23,América-RJ,0,1,Flamengo,False,False,first
 64,1985-02-23,Santa Cruz,1,0,Santos,False,False,first
@@ -73,7 +73,7 @@
 71,1985-02-27,Flamengo,0,0,Fluminense,False,False,first
 72,1985-02-27,Guarani,0,1,Vasco da Gama,False,False,first
 73,1985-02-27,Náutico,0,0,Corinthians,False,False,first
-74,1985-02-27,Portuguesa,1,0,Coritiba,False,False,first
+74,1985-02-27,Portuguesa-SP,1,0,Coritiba,False,False,first
 75,1985-02-27,Atlético-MG,2,1,Goiás,False,False,first
 76,1985-02-27,Grêmio,0,0,Bahia,False,False,first
 77,1985-02-27,São Paulo,2,1,Santa Cruz,False,False,first
@@ -87,7 +87,7 @@
 85,1985-03-03,Coritiba,2,0,Náutico,False,False,first
 86,1985-03-03,Atlético-MG,2,0,Cruzeiro,False,False,first
 87,1985-03-03,Vasco da Gama,1,3,Botafogo,False,False,first
-88,1985-03-03,América-RJ,3,1,Portuguesa,False,False,first
+88,1985-03-03,América-RJ,3,1,Portuguesa-SP,False,False,first
 89,1985-03-03,Grêmio,2,2,São Paulo,False,False,first
 90,1985-03-06,Goiás,0,4,Corinthians,False,False,first
 91,1985-03-06,Santos,1,0,Coritiba,False,False,first
@@ -95,13 +95,13 @@
 93,1985-03-06,Cruzeiro,2,0,Santa Cruz,False,False,first
 94,1985-03-06,Bahia,0,0,Fluminense,False,False,first
 95,1985-03-06,Vasco da Gama,1,2,Atlético-MG,False,False,first
-96,1985-03-06,Portuguesa,0,1,Botafogo,False,False,first
+96,1985-03-06,Portuguesa-SP,0,1,Botafogo,False,False,first
 97,1985-03-06,Internacional,3,1,Guarani,False,False,first
 98,1985-03-06,Náutico,2,1,Palmeiras,False,False,first
 99,1985-03-07,Flamengo,1,0,Grêmio,False,False,first
 100,1985-03-09,Vasco da Gama,1,0,Corinthians,False,False,first
 101,1985-03-09,São Paulo,0,1,Coritiba,False,False,first
-102,1985-03-09,Portuguesa,3,1,Santa Cruz,False,False,first
+102,1985-03-09,Portuguesa-SP,3,1,Santa Cruz,False,False,first
 103,1985-03-09,Goiás,4,1,Botafogo,False,False,first
 104,1985-03-10,Internacional,1,0,América-RJ,False,False,first
 105,1985-03-10,Santos,1,1,Fluminense,False,False,first
@@ -116,7 +116,7 @@
 114,1985-03-13,Cruzeiro,2,3,Coritiba,False,False,first
 115,1985-03-13,Goiás,1,0,Palmeiras,False,False,first
 116,1985-03-13,Bahia,2,0,Botafogo,False,False,first
-117,1985-03-13,Portuguesa,2,2,Fluminense,False,False,first
+117,1985-03-13,Portuguesa-SP,2,2,Fluminense,False,False,first
 118,1985-03-14,Santos,2,0,Atlético-MG,False,False,first
 119,1985-03-14,Vasco da Gama,1,0,Grêmio,False,False,first
 120,1985-04-03,Corinthians,1,1,Flamengo,False,False,first
@@ -126,14 +126,14 @@
 124,1985-03-17,Vasco da Gama,2,1,Fluminense,False,False,first
 125,1985-03-17,Coritiba,1,2,Bahia,False,False,first
 126,1985-03-17,Santa Cruz,2,0,Goiás,False,False,first
-127,1985-03-17,Grêmio,1,1,Portuguesa,False,False,first
+127,1985-03-17,Grêmio,1,1,Portuguesa-SP,False,False,first
 128,1985-03-17,América-RJ,1,0,Cruzeiro,False,False,first
 129,1985-03-17,Atlético-MG,5,1,Náutico,False,False,first
 130,1985-03-20,Grêmio,3,0,Santos,False,False,first
 131,1985-03-20,Santa Cruz,1,1,Bahia,False,False,first
 132,1985-03-20,Palmeiras,2,2,Flamengo,False,False,first
 133,1985-03-20,Guarani,1,0,Náutico,False,False,first
-134,1985-03-20,Atlético-MG,1,0,Portuguesa,False,False,first
+134,1985-03-20,Atlético-MG,1,0,Portuguesa-SP,False,False,first
 135,1985-03-20,Botafogo,3,1,São Paulo,False,False,first
 136,1985-03-20,Goiás,3,0,América-RJ,False,False,first
 137,1985-03-20,Coritiba,0,0,Vasco da Gama,False,False,first
@@ -145,7 +145,7 @@
 143,1985-03-24,Cruzeiro,0,1,Fluminense,False,False,first
 144,1985-03-24,Internacional,0,1,Grêmio,False,False,first
 145,1985-03-24,Náutico,4,3,Santa Cruz,False,False,first
-146,1985-03-24,Portuguesa,0,0,Palmeiras,False,False,first
+146,1985-03-24,Portuguesa-SP,0,0,Palmeiras,False,False,first
 147,1985-03-24,Bahia,1,0,Guarani,False,False,first
 148,1985-03-24,Santos,0,0,Corinthians,False,False,first
 149,1985-03-24,Goiás,0,2,Coritiba,False,False,first
@@ -154,7 +154,7 @@
 152,1985-03-27,Cruzeiro,1,1,Palmeiras,False,False,first
 153,1985-03-27,Grêmio,0,1,Goiás,False,False,first
 154,1985-03-27,Santa Cruz,1,2,Vasco da Gama,False,False,first
-155,1985-03-27,Portuguesa,0,0,Guarani,False,False,first
+155,1985-03-27,Portuguesa-SP,0,0,Guarani,False,False,first
 156,1985-03-27,Corinthians,1,2,São Paulo,False,False,first
 157,1985-03-27,Botafogo,1,0,Santos,False,False,first
 158,1985-03-27,Internacional,1,0,Atlético-MG,False,False,first
@@ -162,7 +162,7 @@
 160,1985-03-30,América-RJ,2,3,Flamengo,False,False,first
 161,1985-03-30,Náutico,1,2,Botafogo,False,False,first
 162,1985-03-31,Coritiba,0,0,Internacional,False,False,first
-163,1985-03-31,Portuguesa,0,2,Corinthians,False,False,first
+163,1985-03-31,Portuguesa-SP,0,2,Corinthians,False,False,first
 164,1985-03-31,Vasco da Gama,0,1,Palmeiras,False,False,first
 165,1985-03-31,Atlético-MG,2,3,Bahia,False,False,first
 166,1985-03-31,Fluminense,1,2,São Paulo,False,False,first
@@ -174,13 +174,13 @@
 172,1985-04-07,Corinthians,2,0,Náutico,False,False,first
 173,1985-04-07,Fluminense,1,1,Flamengo,False,False,first
 174,1985-04-07,Cruzeiro,3,0,Botafogo,False,False,first
-175,1985-04-07,Coritiba,0,2,Portuguesa,False,False,first
+175,1985-04-07,Coritiba,0,2,Portuguesa-SP,False,False,first
 176,1985-04-07,Vasco da Gama,0,0,Guarani,False,False,first
 177,1985-04-07,Goiás,0,0,Atlético-MG,False,False,first
 178,1985-04-07,Bahia,4,1,Grêmio,False,False,first
 179,1985-04-07,Santa Cruz,2,3,São Paulo,False,False,first
 180,1985-04-10,Botafogo,1,2,Vasco da Gama,False,False,first
-181,1985-04-10,Portuguesa,1,1,América-RJ,False,False,first
+181,1985-04-10,Portuguesa-SP,1,1,América-RJ,False,False,first
 182,1985-04-10,Internacional,3,0,Santa Cruz,False,False,first
 183,1985-04-10,Náutico,2,0,Coritiba,False,False,first
 184,1985-04-10,Bahia,2,0,Corinthians,False,False,first
@@ -189,7 +189,7 @@
 187,1985-04-10,Santos,1,1,Palmeiras,False,False,first
 188,1985-04-10,São Paulo,2,2,Grêmio,False,False,first
 189,1985-04-10,Flamengo,1,2,Guarani,False,False,first
-190,1985-04-13,Botafogo,2,1,Portuguesa,False,False,first
+190,1985-04-13,Botafogo,2,1,Portuguesa-SP,False,False,first
 191,1985-04-14,Corinthians,2,1,Goiás,False,False,first
 192,1985-04-14,Coritiba,2,1,Santos,False,False,first
 193,1985-04-14,Guarani,1,1,Internacional,False,False,first
@@ -200,7 +200,7 @@
 198,1985-04-14,América-RJ,2,1,São Paulo,False,False,first
 199,1985-04-14,Atlético-MG,1,0,Vasco da Gama,False,False,first
 200,1985-01-27,Botafogo-PB,1,0,Sampaio Corrêa,False,False,first
-201,1985-01-27,Sergipe,2,1,Nacional,False,False,first
+201,1985-01-27,Sergipe,2,1,Nacional-AM,False,False,first
 202,1985-01-27,Sport,1,0,Flamengo-PI,False,False,first
 203,1985-01-27,ABC,1,1,Paysandu,False,False,first
 204,1985-01-27,Ceará,3,0,Remo,False,False,first
@@ -210,15 +210,15 @@
 208,1985-01-30,Sport,4,1,Sampaio Corrêa,False,False,first
 209,1985-01-30,Botafogo-PB,1,0,Flamengo-PI,False,False,first
 210,1985-01-30,Ceará,1,1,Paysandu,False,False,first
-211,1985-01-31,CSA,4,0,Nacional,False,False,first
+211,1985-01-31,CSA,4,0,Nacional-AM,False,False,first
 212,1985-02-02,Paysandu,0,1,Sport,False,False,first
 213,1985-02-03,Remo,1,1,Botafogo-PB,False,False,first
 214,1985-02-03,Flamengo-PI,1,0,CSA,False,False,first
 215,1985-02-03,Mixto,0,0,ABC,False,False,first
-216,1985-02-03,Nacional,1,0,Ceará,False,False,first
+216,1985-02-03,Nacional-AM,1,0,Ceará,False,False,first
 217,1985-02-03,Sampaio Corrêa,2,2,Sergipe,False,False,first
 218,1985-02-06,Remo,0,1,Sport,False,False,first
-219,1985-02-06,Nacional,4,0,ABC,False,False,first
+219,1985-02-06,Nacional-AM,4,0,ABC,False,False,first
 220,1985-02-06,Mixto,0,1,Ceará,False,False,first
 221,1985-02-06,Sampaio Corrêa,1,1,CSA,False,False,first
 222,1985-02-06,Flamengo-PI,0,0,Sergipe,False,False,first
@@ -227,10 +227,10 @@
 225,1985-02-10,CSA,1,0,Sergipe,False,False,first
 226,1985-02-10,Flamengo-PI,1,2,Mixto,False,False,first
 227,1985-02-10,ABC,1,1,Ceará,False,False,first
-228,1985-02-10,Paysandu,3,0,Nacional,False,False,first
+228,1985-02-10,Paysandu,3,0,Nacional-AM,False,False,first
 229,1985-02-10,Sampaio Corrêa,1,1,Remo,False,False,first
 230,1985-02-13,Mixto,1,1,Paysandu,False,False,first
-231,1985-02-13,Nacional,3,2,Sampaio Corrêa,False,False,first
+231,1985-02-13,Nacional-AM,3,2,Sampaio Corrêa,False,False,first
 232,1985-02-13,Ceará,2,2,CSA,False,False,first
 233,1985-02-13,Sergipe,0,1,Botafogo-PB,False,False,first
 234,1985-02-13,Remo,1,1,Flamengo-PI,False,False,first
@@ -239,12 +239,12 @@
 237,1985-02-24,Paysandu,1,0,Remo,False,False,first
 238,1985-02-24,CSA,2,1,ABC,False,False,first
 239,1985-02-24,Botafogo-PB,0,0,Ceará,False,False,first
-240,1985-02-24,Nacional,1,2,Mixto,False,False,first
+240,1985-02-24,Nacional-AM,1,2,Mixto,False,False,first
 241,1985-02-24,Sampaio Corrêa,2,0,Flamengo-PI,False,False,first
 242,1985-02-27,Remo,1,1,Mixto,False,False,first
 243,1985-02-27,Sergipe,2,1,ABC,False,False,first
 244,1985-02-27,Sampaio Corrêa,1,1,Paysandu,False,False,first
-245,1985-02-27,Flamengo-PI,1,0,Nacional,False,False,first
+245,1985-02-27,Flamengo-PI,1,0,Nacional-AM,False,False,first
 246,1985-02-27,Botafogo-PB,1,1,CSA,False,False,first
 247,1985-02-27,Sport,1,0,Ceará,False,False,first
 248,1985-03-03,ABC,3,0,Botafogo-PB,False,False,first
@@ -252,38 +252,38 @@
 250,1985-03-03,Flamengo-PI,1,1,Paysandu,False,False,first
 251,1985-03-03,Ceará,3,0,Sergipe,False,False,first
 252,1985-03-03,Mixto,1,1,Sampaio Corrêa,False,False,first
-253,1985-03-03,Nacional,4,2,Remo,False,False,first
+253,1985-03-03,Nacional-AM,4,2,Remo,False,False,first
 254,1985-03-06,CSA,2,1,Paysandu,False,False,first
 255,1985-03-06,Sergipe,0,2,Remo,False,False,first
 256,1985-03-06,ABC,1,0,Sampaio Corrêa,False,False,first
 257,1985-03-06,Ceará,2,1,Flamengo-PI,False,False,first
 258,1985-03-06,Botafogo-PB,3,1,Mixto,False,False,first
-259,1985-03-07,Sport,1,0,Nacional,False,False,first
+259,1985-03-07,Sport,1,0,Nacional-AM,False,False,first
 260,1985-03-09,Remo,1,3,CSA,False,False,first
-261,1985-03-10,Nacional,1,1,Botafogo-PB,False,False,first
+261,1985-03-10,Nacional-AM,1,1,Botafogo-PB,False,False,first
 262,1985-03-10,Flamengo-PI,1,0,ABC,False,False,first
 263,1985-03-10,Mixto,2,1,Sport,False,False,first
 264,1985-03-10,Sampaio Corrêa,1,1,Ceará,False,False,first
 265,1985-03-10,Paysandu,1,0,Sergipe,False,False,first
 266,1985-03-16,Remo,0,2,Ceará,False,False,first
 267,1985-03-16,Sampaio Corrêa,1,2,Botafogo-PB,False,False,first
-268,1985-03-16,Nacional,6,0,Sergipe,False,False,first
+268,1985-03-16,Nacional-AM,6,0,Sergipe,False,False,first
 269,1985-03-16,Mixto,1,0,CSA,False,False,first
 270,1985-03-16,Flamengo-PI,0,1,Sport,False,False,first
 271,1985-03-16,Paysandu,0,1,ABC,False,False,first
 272,1985-03-20,Paysandu,1,2,Ceará,False,False,first
 273,1985-03-20,Mixto,2,0,Sergipe,False,False,first
-274,1985-03-20,Nacional,1,0,CSA,False,False,first
+274,1985-03-20,Nacional-AM,1,0,CSA,False,False,first
 275,1985-03-20,Sampaio Corrêa,2,4,Sport,False,False,first
 276,1985-03-20,Flamengo-PI,1,1,Botafogo-PB,False,False,first
 277,1985-03-21,Remo,1,0,ABC,False,False,first
 278,1985-03-24,ABC,4,0,Mixto,False,False,first
-279,1985-03-24,Ceará,2,1,Nacional,False,False,first
+279,1985-03-24,Ceará,2,1,Nacional-AM,False,False,first
 280,1985-03-24,Sport,5,1,Paysandu,False,False,first
 281,1985-03-24,Sergipe,4,0,Sampaio Corrêa,False,False,first
 282,1985-03-24,Botafogo-PB,1,0,Remo,False,False,first
 283,1985-03-24,CSA,1,0,Flamengo-PI,False,False,first
-284,1985-03-27,ABC,2,4,Nacional,False,False,first
+284,1985-03-27,ABC,2,4,Nacional-AM,False,False,first
 285,1985-03-27,CSA,2,0,Sampaio Corrêa,False,False,first
 286,1985-03-27,Sergipe,0,0,Flamengo-PI,False,False,first
 287,1985-03-27,Botafogo-PB,0,0,Paysandu,False,False,first
@@ -294,32 +294,32 @@
 292,1985-03-31,Mixto,1,0,Flamengo-PI,False,False,first
 293,1985-03-31,Sergipe,2,2,CSA,False,False,first
 294,1985-03-31,Remo,2,1,Sampaio Corrêa,False,False,first
-295,1985-03-31,Nacional,0,1,Paysandu,False,False,first
+295,1985-03-31,Nacional-AM,0,1,Paysandu,False,False,first
 296,1985-04-03,ABC,1,3,Sport,False,False,first
-297,1985-04-03,Sampaio Corrêa,1,1,Nacional,False,False,first
+297,1985-04-03,Sampaio Corrêa,1,1,Nacional-AM,False,False,first
 298,1985-04-03,Flamengo-PI,0,2,Remo,False,False,first
 299,1985-04-03,Botafogo-PB,1,1,Sergipe,False,False,first
 300,1985-04-03,CSA,2,0,Ceará,False,False,first
 301,1985-04-03,Paysandu,1,1,Mixto,False,False,first
 302,1985-04-07,Sergipe,0,1,Sport,False,False,first
-303,1985-04-07,Mixto,2,2,Nacional,False,False,first
+303,1985-04-07,Mixto,2,2,Nacional-AM,False,False,first
 304,1985-04-07,Remo,0,3,Paysandu,False,False,first
 305,1985-04-07,Flamengo-PI,2,0,Sampaio Corrêa,False,False,first
 306,1985-04-07,Ceará,2,1,Botafogo-PB,False,False,first
 307,1985-04-07,ABC,0,0,CSA,False,False,first
-308,1985-04-10,Nacional,3,1,Flamengo-PI,False,False,first
+308,1985-04-10,Nacional-AM,3,1,Flamengo-PI,False,False,first
 309,1985-04-10,Paysandu,5,4,Sampaio Corrêa,False,False,first
 310,1985-04-10,Mixto,3,1,Remo,False,False,first
 311,1985-04-10,Ceará,0,1,Sport,False,False,first
 312,1985-04-10,CSA,5,1,Botafogo-PB,False,False,first
 313,1985-04-10,ABC,4,1,Sergipe,False,False,first
 314,1985-04-13,Paysandu,2,0,Flamengo-PI,False,False,first
-315,1985-04-14,Remo,1,4,Nacional,False,False,first
+315,1985-04-14,Remo,1,4,Nacional-AM,False,False,first
 316,1985-04-14,Botafogo-PB,2,2,ABC,False,False,first
 317,1985-04-14,Sergipe,0,1,Ceará,False,False,first
 318,1985-04-14,Sampaio Corrêa,0,0,Mixto,False,False,first
 319,1985-04-14,Sport,3,1,CSA,False,False,first
-320,1985-04-17,Nacional,0,0,Sport,False,False,first
+320,1985-04-17,Nacional-AM,0,0,Sport,False,False,first
 321,1985-04-17,Mixto,1,0,Botafogo-PB,False,False,first
 322,1985-04-17,Sampaio Corrêa,2,1,ABC,False,False,first
 323,1985-04-17,Paysandu,0,0,CSA,False,False,first
@@ -327,165 +327,165 @@
 325,1985-04-28,Ceará,2,1,Flamengo-PI,False,False,first
 326,1985-04-21,ABC,1,2,Flamengo-PI,False,False,first
 327,1985-04-21,Sergipe,0,1,Paysandu,False,False,first
-328,1985-04-21,Botafogo-PB,1,2,Nacional,False,False,first
+328,1985-04-21,Botafogo-PB,1,2,Nacional-AM,False,False,first
 329,1985-04-21,Sport,2,0,Mixto,False,False,first
 330,1985-04-21,CSA,3,0,Remo,False,False,first
 331,1985-04-21,Ceará,4,1,Sampaio Corrêa,False,False,first
-332,1985-01-26,Ponte Preta,1,0,Villa Nova-MG,False,False,first
+332,1985-01-26,Ponte Preta-SP,1,0,Villa Nova-MG,False,False,first
 333,1985-01-27,Joinville,4,0,Corumbaense,False,False,first
 334,1985-01-27,Bangu,1,0,Brasília,False,False,first
 335,1985-01-27,Leônico,0,0,Pinheiros,False,False,first
-336,1985-01-27,Desportiva,2,1,Vila Nova-GO,False,False,first
-337,1985-01-27,Brasil,1,1,Uberlândia,False,False,first
-338,1985-01-30,Ponte Preta,3,0,Leônico,False,False,first
+336,1985-01-27,Desportiva,2,1,Vila Nova,False,False,first
+337,1985-01-27,GE Brasil,1,1,Uberlândia,False,False,first
+338,1985-01-30,Ponte Preta-SP,3,0,Leônico,False,False,first
 339,1985-01-30,Pinheiros,1,0,Villa Nova-MG,False,False,first
-340,1985-01-30,Brasil,1,0,Corumbaense,False,False,first
+340,1985-01-30,GE Brasil,1,0,Corumbaense,False,False,first
 341,1985-01-30,Joinville,2,0,Uberlândia,False,False,first
 342,1985-01-30,Desportiva,0,1,Brasília,False,False,first
-343,1985-01-30,Bangu,2,0,Vila Nova-GO,False,False,first
-344,1985-02-02,Vila Nova-GO,1,2,Ponte Preta,False,False,first
+343,1985-01-30,Bangu,2,0,Vila Nova,False,False,first
+344,1985-02-02,Vila Nova,1,2,Ponte Preta-SP,False,False,first
 345,1985-02-03,Corumbaense,0,1,Bangu,False,False,first
-346,1985-02-03,Villa Nova-MG,1,3,Brasil,False,False,first
+346,1985-02-03,Villa Nova-MG,1,3,GE Brasil,False,False,first
 347,1985-02-03,Leônico,1,0,Joinville,False,False,first
 348,1985-02-03,Brasília,0,0,Pinheiros,False,False,first
 349,1985-02-03,Uberlândia,1,2,Desportiva,False,False,first
-350,1985-02-06,Brasília,1,1,Ponte Preta,False,False,first
+350,1985-02-06,Brasília,1,1,Ponte Preta-SP,False,False,first
 351,1985-02-06,Villa Nova-MG,0,3,Joinville,False,False,first
 352,1985-02-06,Uberlândia,1,2,Bangu,False,False,first
-353,1985-02-06,Vila Nova-GO,3,2,Pinheiros,False,False,first
+353,1985-02-06,Vila Nova,3,2,Pinheiros,False,False,first
 354,1985-02-06,Corumbaense,2,0,Desportiva,False,False,first
-355,1985-02-06,Leônico,2,1,Brasil,False,False,first
-356,1985-02-10,Ponte Preta,2,1,Pinheiros,False,False,first
-357,1985-02-10,Joinville,1,2,Brasil,False,False,first
-358,1985-02-10,Villa Nova-MG,3,0,Vila Nova-GO,False,False,first
+355,1985-02-06,Leônico,2,1,GE Brasil,False,False,first
+356,1985-02-10,Ponte Preta-SP,2,1,Pinheiros,False,False,first
+357,1985-02-10,Joinville,1,2,GE Brasil,False,False,first
+358,1985-02-10,Villa Nova-MG,3,0,Vila Nova,False,False,first
 359,1985-02-10,Bangu,4,1,Desportiva,False,False,first
 360,1985-02-10,Leônico,0,0,Corumbaense,False,False,first
 361,1985-02-10,Brasília,1,1,Uberlândia,False,False,first
-362,1985-02-13,Brasil,2,0,Ponte Preta,False,False,first
+362,1985-02-13,GE Brasil,2,0,Ponte Preta-SP,False,False,first
 363,1985-02-13,Corumbaense,0,1,Brasília,False,False,first
 364,1985-02-13,Desportiva,0,1,Joinville,False,False,first
-365,1985-02-13,Vila Nova-GO,0,1,Leônico,False,False,first
+365,1985-02-13,Vila Nova,0,1,Leônico,False,False,first
 366,1985-02-13,Uberlândia,3,0,Villa Nova-MG,False,False,first
 367,1985-02-13,Pinheiros,1,1,Bangu,False,False,first
-368,1985-02-24,Brasília,0,1,Vila Nova-GO,False,False,first
+368,1985-02-24,Brasília,0,1,Vila Nova,False,False,first
 369,1985-02-24,Joinville,1,0,Bangu,False,False,first
-370,1985-02-24,Pinheiros,2,2,Brasil,False,False,first
-371,1985-02-24,Ponte Preta,2,0,Desportiva,False,False,first
+370,1985-02-24,Pinheiros,2,2,GE Brasil,False,False,first
+371,1985-02-24,Ponte Preta-SP,2,0,Desportiva,False,False,first
 372,1985-02-24,Villa Nova-MG,2,0,Leônico,False,False,first
 373,1985-02-24,Uberlândia,2,0,Corumbaense,False,False,first
-374,1985-02-27,Brasil,0,1,Bangu,False,False,first
+374,1985-02-27,GE Brasil,0,1,Bangu,False,False,first
 375,1985-02-27,Leônico,3,1,Uberlândia,False,False,first
 376,1985-02-27,Pinheiros,1,0,Desportiva,False,False,first
-377,1985-02-27,Vila Nova-GO,1,1,Corumbaense,False,False,first
-378,1985-02-27,Ponte Preta,2,1,Joinville,False,False,first
+377,1985-02-27,Vila Nova,1,1,Corumbaense,False,False,first
+378,1985-02-27,Ponte Preta-SP,2,1,Joinville,False,False,first
 379,1985-02-27,Villa Nova-MG,0,2,Brasília,False,False,first
-380,1985-03-03,Desportiva,3,0,Brasil,False,False,first
+380,1985-03-03,Desportiva,3,0,GE Brasil,False,False,first
 381,1985-03-03,Corumbaense,0,0,Villa Nova-MG,False,False,first
 382,1985-03-03,Leônico,5,3,Brasília,False,False,first
 383,1985-03-03,Joinville,1,0,Pinheiros,False,False,first
-384,1985-03-03,Uberlândia,1,1,Vila Nova-GO,False,False,first
-385,1985-03-03,Bangu,0,0,Ponte Preta,False,False,first
-386,1985-03-06,Brasil,2,2,Vila Nova-GO,False,False,first
+384,1985-03-03,Uberlândia,1,1,Vila Nova,False,False,first
+385,1985-03-03,Bangu,0,0,Ponte Preta-SP,False,False,first
+386,1985-03-06,GE Brasil,2,2,Vila Nova,False,False,first
 387,1985-03-06,Bangu,1,1,Villa Nova-MG,False,False,first
-388,1985-03-06,Ponte Preta,2,0,Corumbaense,False,False,first
+388,1985-03-06,Ponte Preta-SP,2,0,Corumbaense,False,False,first
 389,1985-03-06,Pinheiros,2,0,Uberlândia,False,False,first
 390,1985-03-06,Desportiva,3,1,Leônico,False,False,first
 391,1985-03-06,Joinville,1,0,Brasília,False,False,first
 392,1985-03-10,Corumbaense,1,3,Pinheiros,False,False,first
-393,1985-03-10,Uberlândia,0,0,Ponte Preta,False,False,first
+393,1985-03-10,Uberlândia,0,0,Ponte Preta-SP,False,False,first
 394,1985-03-10,Leônico,1,2,Bangu,False,False,first
-395,1985-03-10,Vila Nova-GO,1,1,Joinville,False,False,first
+395,1985-03-10,Vila Nova,1,1,Joinville,False,False,first
 396,1985-03-10,Villa Nova-MG,3,1,Desportiva,False,False,first
-397,1985-03-10,Brasília,3,2,Brasil,False,False,first
+397,1985-03-10,Brasília,3,2,GE Brasil,False,False,first
 398,1985-03-16,Pinheiros,1,0,Leônico,False,False,first
-399,1985-03-16,Vila Nova-GO,1,0,Desportiva,False,False,first
-400,1985-03-16,Uberlândia,1,2,Brasil,False,False,first
-401,1985-03-16,Villa Nova-MG,1,3,Ponte Preta,False,False,first
+399,1985-03-16,Vila Nova,1,0,Desportiva,False,False,first
+400,1985-03-16,Uberlândia,1,2,GE Brasil,False,False,first
+401,1985-03-16,Villa Nova-MG,1,3,Ponte Preta-SP,False,False,first
 402,1985-03-16,Brasília,2,1,Bangu,False,False,first
 403,1985-03-16,Corumbaense,1,2,Joinville,False,False,first
 404,1985-03-14,Villa Nova-MG,0,0,Pinheiros,False,False,first
 405,1985-03-20,Uberlândia,0,1,Joinville,False,False,first
-406,1985-03-20,Corumbaense,1,2,Brasil,False,False,first
+406,1985-03-20,Corumbaense,1,2,GE Brasil,False,False,first
 407,1985-03-20,Brasília,0,0,Desportiva,False,False,first
-408,1985-03-20,Leônico,1,2,Ponte Preta,False,False,first
-409,1985-03-21,Vila Nova-GO,3,2,Bangu,False,False,first
+408,1985-03-20,Leônico,1,2,Ponte Preta-SP,False,False,first
+409,1985-03-21,Vila Nova,3,2,Bangu,False,False,first
 410,1985-03-23,Pinheiros,1,0,Brasília,False,False,first
 411,1985-03-24,Desportiva,2,1,Uberlândia,False,False,first
 412,1985-03-24,Joinville,1,0,Leônico,False,False,first
-413,1985-03-24,Brasil,0,0,Villa Nova-MG,False,False,first
+413,1985-03-24,GE Brasil,0,0,Villa Nova-MG,False,False,first
 414,1985-03-24,Bangu,4,0,Corumbaense,False,False,first
-415,1985-03-24,Ponte Preta,4,1,Vila Nova-GO,False,False,first
+415,1985-03-24,Ponte Preta-SP,4,1,Vila Nova,False,False,first
 416,1985-03-27,Bangu,2,0,Uberlândia,False,False,first
-417,1985-03-27,Ponte Preta,1,1,Brasília,False,False,first
+417,1985-03-27,Ponte Preta-SP,1,1,Brasília,False,False,first
 418,1985-03-27,Desportiva,0,1,Corumbaense,False,False,first
-419,1985-03-27,Pinheiros,1,1,Vila Nova-GO,False,False,first
+419,1985-03-27,Pinheiros,1,1,Vila Nova,False,False,first
 420,1985-03-27,Joinville,1,2,Villa Nova-MG,False,False,first
-421,1985-03-27,Brasil,4,1,Leônico,False,False,first
-422,1985-03-30,Pinheiros,0,1,Ponte Preta,False,False,first
+421,1985-03-27,GE Brasil,4,1,Leônico,False,False,first
+422,1985-03-30,Pinheiros,0,1,Ponte Preta-SP,False,False,first
 423,1985-03-31,Desportiva,0,1,Bangu,False,False,first
-424,1985-03-31,Vila Nova-GO,1,0,Villa Nova-MG,False,False,first
-425,1985-03-31,Brasil,1,1,Joinville,False,False,first
+424,1985-03-31,Vila Nova,1,0,Villa Nova-MG,False,False,first
+425,1985-03-31,GE Brasil,1,1,Joinville,False,False,first
 426,1985-03-31,Uberlândia,1,2,Brasília,False,False,first
 427,1985-03-31,Corumbaense,2,1,Leônico,False,False,first
 428,1985-04-03,Bangu,1,1,Pinheiros,False,False,first
 429,1985-04-03,Joinville,0,1,Desportiva,False,False,first
 430,1985-04-03,Villa Nova-MG,0,2,Uberlândia,False,False,first
-431,1985-04-03,Leônico,2,1,Vila Nova-GO,False,False,first
+431,1985-04-03,Leônico,2,1,Vila Nova,False,False,first
 432,1985-04-03,Brasília,1,1,Corumbaense,False,False,first
-433,1985-04-03,Ponte Preta,2,2,Brasil,False,False,first
-434,1985-04-06,Vila Nova-GO,3,1,Brasília,False,False,first
-435,1985-04-07,Desportiva,1,0,Ponte Preta,False,False,first
+433,1985-04-03,Ponte Preta-SP,2,2,GE Brasil,False,False,first
+434,1985-04-06,Vila Nova,3,1,Brasília,False,False,first
+435,1985-04-07,Desportiva,1,0,Ponte Preta-SP,False,False,first
 436,1985-04-07,Bangu,3,1,Joinville,False,False,first
 437,1985-04-07,Leônico,1,0,Villa Nova-MG,False,False,first
 438,1985-04-07,Corumbaense,1,0,Uberlândia,False,False,first
-439,1985-04-07,Brasil,1,0,Pinheiros,False,False,first
+439,1985-04-07,GE Brasil,1,0,Pinheiros,False,False,first
 440,1985-04-10,Desportiva,0,2,Pinheiros,False,False,first
-441,1985-04-10,Bangu,3,1,Brasil,False,False,first
-442,1985-04-10,Joinville,1,1,Ponte Preta,False,False,first
+441,1985-04-10,Bangu,3,1,GE Brasil,False,False,first
+442,1985-04-10,Joinville,1,1,Ponte Preta-SP,False,False,first
 443,1985-04-10,Brasília,2,0,Villa Nova-MG,False,False,first
 444,1985-04-10,Uberlândia,4,0,Leônico,False,False,first
-445,1985-04-10,Corumbaense,1,3,Vila Nova-GO,False,False,first
-446,1985-04-14,Brasil,5,0,Desportiva,False,False,first
+445,1985-04-10,Corumbaense,1,3,Vila Nova,False,False,first
+446,1985-04-14,GE Brasil,5,0,Desportiva,False,False,first
 447,1985-04-14,Brasília,1,0,Leônico,False,False,first
 448,1985-04-14,Pinheiros,1,1,Joinville,False,False,first
 449,1985-04-14,Villa Nova-MG,4,3,Corumbaense,False,False,first
-450,1985-04-14,Ponte Preta,2,2,Bangu,False,False,first
-451,1985-04-14,Vila Nova-GO,0,3,Uberlândia,False,False,first
+450,1985-04-14,Ponte Preta-SP,2,2,Bangu,False,False,first
+451,1985-04-14,Vila Nova,0,3,Uberlândia,False,False,first
 452,1985-04-17,Brasília,0,0,Joinville,False,False,first
 453,1985-04-17,Leônico,1,1,Desportiva,False,False,first
-454,1985-04-17,Corumbaense,1,5,Ponte Preta,False,False,first
+454,1985-04-17,Corumbaense,1,5,Ponte Preta-SP,False,False,first
 455,1985-04-17,Uberlândia,2,1,Pinheiros,False,False,first
-456,1985-04-17,Vila Nova-GO,0,0,Brasil,False,False,first
+456,1985-04-17,Vila Nova,0,0,GE Brasil,False,False,first
 457,1985-04-17,Villa Nova-MG,0,2,Bangu,False,False,first
 458,1985-04-21,Desportiva,1,1,Villa Nova-MG,False,False,first
-459,1985-04-21,Brasil,2,0,Brasília,False,False,first
+459,1985-04-21,GE Brasil,2,0,Brasília,False,False,first
 460,1985-04-21,Pinheiros,0,0,Corumbaense,False,False,first
-461,1985-04-21,Ponte Preta,1,1,Uberlândia,False,False,first
+461,1985-04-21,Ponte Preta-SP,1,1,Uberlândia,False,False,first
 462,1985-04-21,Bangu,1,0,Leônico,False,False,first
-463,1985-04-21,Joinville,3,0,Vila Nova-GO,False,False,first
-464,1985-07-03,Ponte Preta,1,1,Atlético-MG,False,False,second
+463,1985-04-21,Joinville,3,0,Vila Nova,False,False,first
+464,1985-07-03,Ponte Preta-SP,1,1,Atlético-MG,False,False,second
 465,1985-07-03,CSA,0,0,Guarani,False,False,second
 466,1985-07-07,Guarani,1,1,Atlético-MG,False,False,second
-467,1985-07-07,CSA,0,0,Ponte Preta,False,False,second
-468,1985-07-10,Guarani,1,1,Ponte Preta,False,False,second
+467,1985-07-07,CSA,0,0,Ponte Preta-SP,False,False,second
+468,1985-07-10,Guarani,1,1,Ponte Preta-SP,False,False,second
 469,1985-07-10,Atlético-MG,2,0,CSA,False,False,second
 470,1985-07-14,Atlético-MG,2,1,Guarani,False,False,second
-471,1985-07-14,Ponte Preta,2,0,CSA,False,False,second
+471,1985-07-14,Ponte Preta-SP,2,0,CSA,False,False,second
 472,1985-07-17,CSA,0,0,Atlético-MG,False,False,second
-473,1985-07-17,Ponte Preta,0,0,Guarani,False,False,second
-474,1985-07-21,Atlético-MG,1,0,Ponte Preta,False,False,second
+473,1985-07-17,Ponte Preta-SP,0,0,Guarani,False,False,second
+474,1985-07-21,Atlético-MG,1,0,Ponte Preta-SP,False,False,second
 475,1985-07-21,Guarani,6,1,CSA,False,False,second
-476,1985-07-03,Brasil,2,1,Bahia,False,False,second
+476,1985-07-03,GE Brasil,2,1,Bahia,False,False,second
 477,1985-07-04,Ceará,1,1,Flamengo,False,False,second
-478,1985-07-07,Ceará,0,0,Brasil,False,False,second
+478,1985-07-07,Ceará,0,0,GE Brasil,False,False,second
 479,1985-07-07,Bahia,0,0,Flamengo,False,False,second
-480,1985-07-10,Flamengo,1,0,Brasil,False,False,second
+480,1985-07-10,Flamengo,1,0,GE Brasil,False,False,second
 481,1985-07-10,Bahia,4,0,Ceará,False,False,second
 482,1985-07-14,Flamengo,3,0,Bahia,False,False,second
-483,1985-07-14,Brasil,4,0,Ceará,False,False,second
+483,1985-07-14,GE Brasil,4,0,Ceará,False,False,second
 484,1985-07-17,Ceará,2,1,Bahia,False,False,second
-485,1985-07-18,Brasil,2,0,Flamengo,False,False,second
-486,1985-07-21,Bahia,2,3,Brasil,False,False,second
+485,1985-07-18,GE Brasil,2,0,Flamengo,False,False,second
+486,1985-07-21,Bahia,2,3,GE Brasil,False,False,second
 487,1985-07-21,Flamengo,2,2,Ceará,False,False,second
 488,1985-07-03,Sport,1,1,Coritiba,False,False,second
 489,1985-07-04,Joinville,2,0,Corinthians,False,False,second
@@ -511,8 +511,8 @@
 509,1985-07-17,Mixto,1,3,Internacional,False,False,second
 510,1985-07-21,Internacional,1,2,Bangu,False,False,second
 511,1985-07-21,Vasco da Gama,4,0,Mixto,False,False,second
-512,1985-07-24,Brasil,0,1,Bangu,False,False,semi
-513,1985-07-28,Bangu,3,1,Brasil,False,False,semi
+512,1985-07-24,GE Brasil,0,1,Bangu,False,False,semi
+513,1985-07-28,Bangu,3,1,GE Brasil,False,False,semi
 514,1985-07-24,Coritiba,1,0,Atlético-MG,False,False,semi
 515,1985-07-28,Atlético-MG,0,0,Coritiba,False,False,semi
 516,1985-07-31,Bangu,1,1,Coritiba,False,True,final

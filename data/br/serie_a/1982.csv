@@ -2,23 +2,23 @@
 0,1982-01-17,Santos,1,0,Vasco da Gama,False,False,first
 1,1982-01-17,Moto Clube,0,0,Paysandu,False,False,first
 2,1982-01-20,Santos,4,1,Moto Clube,False,False,first
-3,1982-01-20,Paysandu,1,1,Nacional,False,False,first
+3,1982-01-20,Paysandu,1,1,Nacional-AM,False,False,first
 4,1982-01-24,Vasco da Gama,7,0,Moto Clube,False,False,first
-5,1982-01-24,Nacional,2,2,Santos,False,False,first
-6,1982-01-28,Nacional,0,1,Vasco da Gama,False,False,first
+5,1982-01-24,Nacional-AM,2,2,Santos,False,False,first
+6,1982-01-28,Nacional-AM,0,1,Vasco da Gama,False,False,first
 7,1982-01-28,Paysandu,0,0,Santos,False,False,first
-8,1982-01-31,Moto Clube,0,0,Nacional,False,False,first
+8,1982-01-31,Moto Clube,0,0,Nacional-AM,False,False,first
 9,1982-01-31,Paysandu,1,3,Vasco da Gama,False,False,first
-10,1982-02-03,Santos,3,1,Nacional,False,False,first
+10,1982-02-03,Santos,3,1,Nacional-AM,False,False,first
 11,1982-02-03,Moto Clube,1,2,Vasco da Gama,False,False,first
 12,1982-02-07,Santos,4,1,Paysandu,False,False,first
-13,1982-02-07,Vasco da Gama,4,0,Nacional,False,False,first
+13,1982-02-07,Vasco da Gama,4,0,Nacional-AM,False,False,first
 14,1982-02-10,Vasco da Gama,2,0,Paysandu,False,False,first
-15,1982-02-10,Nacional,0,1,Moto Clube,False,False,first
+15,1982-02-10,Nacional-AM,0,1,Moto Clube,False,False,first
 16,1982-02-14,Paysandu,0,0,Moto Clube,False,False,first
 17,1982-02-14,Vasco da Gama,3,0,Santos,False,False,first
 18,1982-02-17,Moto Clube,2,1,Santos,False,False,first
-19,1982-02-17,Nacional,1,1,Paysandu,False,False,first
+19,1982-02-17,Nacional-AM,1,1,Paysandu,False,False,first
 20,1982-01-17,Botafogo,1,2,Guarani,False,False,first
 21,1982-01-17,América-RN,1,2,Ceará,False,False,first
 22,1982-01-20,Guarani,4,2,América-RN,False,False,first
@@ -119,61 +119,61 @@
 117,1982-02-14,Grêmio,1,0,São José,False,False,first
 118,1982-02-18,Vitória,1,0,Atlético-MG,False,False,first
 119,1982-02-18,Desportiva,1,0,Grêmio,False,False,first
-120,1982-01-17,Ponte Preta,1,0,Goiás,False,False,first
+120,1982-01-17,Ponte Preta-SP,1,0,Goiás,False,False,first
 121,1982-01-17,Internacional-RS,3,0,Grêmio Maringá,False,False,first
 122,1982-01-20,Goiás,3,0,Taguatinga,False,False,first
-123,1982-01-20,Grêmio Maringá,0,0,Ponte Preta,False,False,first
+123,1982-01-20,Grêmio Maringá,0,0,Ponte Preta-SP,False,False,first
 124,1982-01-24,Taguatinga,1,2,Grêmio Maringá,False,False,first
-125,1982-01-24,Internacional-RS,1,1,Ponte Preta,False,False,first
+125,1982-01-24,Internacional-RS,1,1,Ponte Preta-SP,False,False,first
 126,1982-01-28,Taguatinga,1,2,Internacional-RS,False,False,first
 127,1982-01-28,Goiás,1,1,Grêmio Maringá,False,False,first
-128,1982-01-31,Ponte Preta,3,1,Taguatinga,False,False,first
+128,1982-01-31,Ponte Preta-SP,3,1,Taguatinga,False,False,first
 129,1982-01-31,Goiás,1,0,Internacional-RS,False,False,first
-130,1982-02-03,Ponte Preta,0,0,Internacional-RS,False,False,first
+130,1982-02-03,Ponte Preta-SP,0,0,Internacional-RS,False,False,first
 131,1982-02-03,Grêmio Maringá,2,0,Taguatinga,False,False,first
 132,1982-02-06,Internacional-RS,6,1,Taguatinga,False,False,first
 133,1982-02-07,Grêmio Maringá,2,2,Goiás,False,False,first
 134,1982-02-10,Internacional-RS,5,0,Goiás,False,False,first
-135,1982-02-10,Taguatinga,0,2,Ponte Preta,False,False,first
-136,1982-02-14,Goiás,1,1,Ponte Preta,False,False,first
+135,1982-02-10,Taguatinga,0,2,Ponte Preta-SP,False,False,first
+136,1982-02-14,Goiás,1,1,Ponte Preta-SP,False,False,first
 137,1982-02-14,Grêmio Maringá,2,0,Internacional-RS,False,False,first
-138,1982-02-17,Ponte Preta,1,0,Grêmio Maringá,False,False,first
+138,1982-02-17,Ponte Preta-SP,1,0,Grêmio Maringá,False,False,first
 139,1982-02-17,Taguatinga,3,1,Goiás,False,False,first
 140,1982-01-17,Londrina,3,0,Joinville,False,False,first
 141,1982-01-17,Anapolina,1,1,XV de Novembro,False,False,first
-142,1982-01-20,Joinville,0,3,Internacional/SM,False,False,first
+142,1982-01-20,Joinville,0,3,Internacional-SM,False,False,first
 143,1982-01-20,XV de Novembro,3,0,Londrina,False,False,first
 144,1982-01-24,Anapolina,3,1,Londrina,False,False,first
-145,1982-01-24,Internacional/SM,2,1,XV de Novembro,False,False,first
-146,1982-01-28,Internacional/SM,0,0,Anapolina,False,False,first
+145,1982-01-24,Internacional-SM,2,1,XV de Novembro,False,False,first
+146,1982-01-28,Internacional-SM,0,0,Anapolina,False,False,first
 147,1982-01-28,Joinville,3,0,XV de Novembro,False,False,first
-148,1982-01-31,Londrina,3,0,Internacional/SM,False,False,first
+148,1982-01-31,Londrina,3,0,Internacional-SM,False,False,first
 149,1982-01-31,Joinville,0,1,Anapolina,False,False,first
 150,1982-02-03,Londrina,1,0,Anapolina,False,False,first
-151,1982-02-03,XV de Novembro,1,1,Internacional/SM,False,False,first
+151,1982-02-03,XV de Novembro,1,1,Internacional-SM,False,False,first
 152,1982-02-07,XV de Novembro,1,0,Joinville,False,False,first
-153,1982-02-07,Anapolina,3,1,Internacional/SM,False,False,first
-154,1982-02-10,Internacional/SM,2,2,Londrina,False,False,first
+153,1982-02-07,Anapolina,3,1,Internacional-SM,False,False,first
+154,1982-02-10,Internacional-SM,2,2,Londrina,False,False,first
 155,1982-02-10,Anapolina,4,2,Joinville,False,False,first
 156,1982-02-14,XV de Novembro,2,3,Anapolina,False,False,first
 157,1982-02-14,Joinville,3,1,Londrina,False,False,first
 158,1982-02-17,Londrina,0,1,XV de Novembro,False,False,first
-159,1982-02-17,Internacional/SM,3,3,Joinville,False,False,first
+159,1982-02-17,Internacional-SM,3,3,Joinville,False,False,first
 160,1982-02-20,Paysandu,3,1,América-RN,False,True,relegation
 161,1982-02-20,Náutico,6,2,CSA,False,True,relegation
 162,1982-02-20,Londrina,0,0,Goiás,False,True,relegation
 163,1982-02-24,Cruzeiro,1,0,Desportiva,False,True,relegation
 164,1982-02-28,América-RJ,1,3,Vasco da Gama,False,False,second
-165,1982-02-28,Internacional/SM,1,0,Operário-MS,False,False,second
+165,1982-02-28,Internacional-SM,1,0,Operário-MS,False,False,second
 166,1982-03-06,Operário-MS,2,0,Vasco da Gama,False,False,second
-167,1982-03-06,América-RJ,3,0,Internacional/SM,False,False,second
-168,1982-03-10,Vasco da Gama,7,0,Internacional/SM,False,False,second
+167,1982-03-06,América-RJ,3,0,Internacional-SM,False,False,second
+168,1982-03-10,Vasco da Gama,7,0,Internacional-SM,False,False,second
 169,1982-03-11,Operário-MS,1,0,América-RJ,False,False,second
 170,1982-03-14,Vasco da Gama,7,1,Operário-MS,False,False,second
-171,1982-03-14,Internacional/SM,0,1,América-RJ,False,False,second
+171,1982-03-14,Internacional-SM,0,1,América-RJ,False,False,second
 172,1982-03-17,Vasco da Gama,2,2,América-RJ,False,False,second
-173,1982-03-17,Operário-MS,0,0,Internacional/SM,False,False,second
-174,1982-03-25,Internacional/SM,3,0,Vasco da Gama,False,False,second
+173,1982-03-17,Operário-MS,0,0,Internacional-SM,False,False,second
+174,1982-03-25,Internacional-SM,3,0,Vasco da Gama,False,False,second
 175,1982-03-25,América-RJ,0,1,Operário-MS,False,False,second
 176,1982-02-28,Guarani,2,0,Grêmio,False,False,second
 177,1982-02-28,Náutico,3,0,Grêmio Maringá,False,False,second
@@ -236,16 +236,16 @@
 234,1982-03-24,Botafogo,1,3,Treze,False,False,second
 235,1982-03-24,São José,0,0,Londrina,False,False,second
 236,1982-02-28,Atlético-PR,1,3,São Paulo,False,False,second
-237,1982-02-28,Ceará,2,3,Ponte Preta,False,False,second
-238,1982-03-07,São Paulo,2,1,Ponte Preta,False,False,second
+237,1982-02-28,Ceará,2,3,Ponte Preta-SP,False,False,second
+238,1982-03-07,São Paulo,2,1,Ponte Preta-SP,False,False,second
 239,1982-03-07,Ceará,1,0,Atlético-PR,False,False,second
-240,1982-03-11,Ponte Preta,1,1,Atlético-PR,False,False,second
+240,1982-03-11,Ponte Preta-SP,1,1,Atlético-PR,False,False,second
 241,1982-03-11,São Paulo,5,2,Ceará,False,False,second
 242,1982-03-14,Atlético-PR,0,3,Ceará,False,False,second
-243,1982-03-14,Ponte Preta,1,0,São Paulo,False,False,second
+243,1982-03-14,Ponte Preta-SP,1,0,São Paulo,False,False,second
 244,1982-03-17,Ceará,2,3,São Paulo,False,False,second
-245,1982-03-17,Atlético-PR,0,0,Ponte Preta,False,False,second
-246,1982-03-25,Ponte Preta,0,1,Ceará,False,False,second
+245,1982-03-17,Atlético-PR,0,0,Ponte Preta-SP,False,False,second
+246,1982-03-25,Ponte Preta-SP,0,1,Ceará,False,False,second
 247,1982-03-25,São Paulo,1,0,Atlético-PR,False,False,second
 248,1982-02-28,Moto Clube,1,0,Anapolina,False,False,second
 249,1982-02-28,Cruzeiro,2,2,Fluminense,False,False,second

@@ -134,7 +134,7 @@
 132,1987-09-16,Sport,1,1,Atlético-PR,False,False,first
 133,1987-09-16,Treze,1,3,Guarani,False,False,first
 134,1987-09-17,Criciúma,2,0,Náutico,False,False,first
-135,1987-09-19,Rio Branco,0,1,CSA,False,False,first
+135,1987-09-19,Rio Branco-ES,0,1,CSA,False,False,first
 136,1987-09-19,Vitória,1,2,Atlético-PR,False,False,first
 137,1987-09-20,Internacional,2,1,Treze,False,False,first
 138,1987-09-20,Atlético-GO,1,0,Ceará,False,False,first
@@ -145,15 +145,15 @@
 143,1987-09-23,Joinville,0,0,Treze,False,False,first
 144,1987-09-23,Atlético-GO,3,1,CSA,False,False,first
 145,1987-09-23,Sport,3,0,Criciúma,False,False,first
-146,1987-09-24,Náutico,0,1,Rio Branco,False,False,first
-147,1987-09-27,Ceará,1,1,Rio Branco,False,False,first
+146,1987-09-24,Náutico,0,1,Rio Branco-ES,False,False,first
+147,1987-09-27,Ceará,1,1,Rio Branco-ES,False,False,first
 148,1987-09-27,Náutico,2,1,Atlético-GO,False,False,first
 149,1987-09-27,Bangu,1,0,Internacional,False,False,first
 150,1987-09-27,Guarani,0,1,Vitória,False,False,first
 151,1987-09-27,Joinville,0,1,Sport,False,False,first
 152,1987-09-27,Treze,2,1,Criciúma,False,False,first
 153,1987-09-27,Atlético-PR,1,1,CSA,False,False,first
-154,1987-09-30,Portuguesa,1,1,Sport,False,False,first
+154,1987-09-30,Portuguesa-SP,1,1,Sport,False,False,first
 155,1987-09-30,Internacional,0,0,Vitória,False,False,first
 156,1987-09-30,Bangu,0,0,Guarani,False,False,first
 157,1987-09-30,CSA,1,2,Criciúma,False,False,first
@@ -163,53 +163,53 @@
 161,1987-10-04,CSA,3,2,Joinville,False,False,first
 162,1987-10-04,Criciúma,2,1,Vitória,False,False,first
 163,1987-10-04,Atlético-GO,0,0,Sport,False,False,first
-164,1987-10-04,Bangu,1,0,Rio Branco,False,False,first
-165,1987-10-04,Ceará,1,1,Portuguesa,False,False,first
+164,1987-10-04,Bangu,1,0,Rio Branco-ES,False,False,first
+165,1987-10-04,Ceará,1,1,Portuguesa-SP,False,False,first
 166,1987-10-07,CSA,0,2,Internacional,False,False,first
-167,1987-10-07,Rio Branco,0,1,Sport,False,False,first
-168,1987-10-08,Náutico,2,1,Portuguesa,False,False,first
+167,1987-10-07,Rio Branco-ES,0,1,Sport,False,False,first
+168,1987-10-08,Náutico,2,1,Portuguesa-SP,False,False,first
 169,1987-10-10,Atlético-GO,1,0,Bangu,False,False,first
-170,1987-10-11,Rio Branco,2,1,Treze,False,False,first
+170,1987-10-11,Rio Branco-ES,2,1,Treze,False,False,first
 171,1987-10-11,Sport,4,0,Internacional,False,False,first
 172,1987-10-11,Guarani,4,2,Náutico,False,False,first
-173,1987-10-11,Vitória,2,1,Portuguesa,False,False,first
+173,1987-10-11,Vitória,2,1,Portuguesa-SP,False,False,first
 174,1987-10-11,Ceará,0,1,Atlético-PR,False,False,first
-175,1987-10-13,Portuguesa,1,0,Treze,False,False,first
+175,1987-10-13,Portuguesa-SP,1,0,Treze,False,False,first
 176,1987-10-14,Atlético-PR,2,0,Náutico,False,False,first
-177,1987-10-14,Rio Branco,0,0,Vitória,False,False,first
-178,1987-10-15,Portuguesa,1,0,Bangu,False,False,first
-179,1987-10-18,Portuguesa,4,0,CSA,False,False,first
+177,1987-10-14,Rio Branco-ES,0,0,Vitória,False,False,first
+178,1987-10-15,Portuguesa-SP,1,0,Bangu,False,False,first
+179,1987-10-18,Portuguesa-SP,4,0,CSA,False,False,first
 180,1987-10-18,Guarani,1,0,Ceará,False,False,first
 181,1987-10-18,Vitória,0,0,Atlético-GO,False,False,first
 182,1987-10-21,Guarani,0,2,Atlético-PR,False,False,first
-183,1987-10-21,Rio Branco,0,0,Atlético-GO,False,False,second
+183,1987-10-21,Rio Branco-ES,0,0,Atlético-GO,False,False,second
 184,1987-10-24,Atlético-GO,0,2,Criciúma,False,False,second
-185,1987-10-25,Rio Branco,0,0,Internacional,False,False,second
-186,1987-10-25,Guarani,2,0,Portuguesa,False,False,second
+185,1987-10-25,Rio Branco-ES,0,0,Internacional,False,False,second
+186,1987-10-25,Guarani,2,0,Portuguesa-SP,False,False,second
 187,1987-10-25,Joinville,1,2,Atlético-PR,False,False,second
-188,1987-10-28,Atlético-PR,0,1,Portuguesa,False,False,second
-189,1987-10-28,Criciúma,3,0,Rio Branco,False,False,second
+188,1987-10-28,Atlético-PR,0,1,Portuguesa-SP,False,False,second
+189,1987-10-28,Criciúma,3,0,Rio Branco-ES,False,False,second
 190,1987-10-28,Internacional,1,0,Atlético-GO,False,False,second
 191,1987-10-28,Joinville,0,2,Guarani,False,False,second
-192,1987-11-01,Joinville,0,0,Rio Branco,False,False,second
+192,1987-11-01,Joinville,0,0,Rio Branco-ES,False,False,second
 193,1987-11-01,Guarani,2,0,Criciúma,False,False,second
-194,1987-11-01,Portuguesa,1,0,Atlético-GO,False,False,second
+194,1987-11-01,Portuguesa-SP,1,0,Atlético-GO,False,False,second
 195,1987-11-01,Internacional,1,1,Atlético-PR,False,False,second
 196,1987-11-04,Criciúma,2,0,Joinville,False,False,second
 197,1987-11-04,Atlético-PR,3,0,Atlético-GO,False,False,second
 198,1987-11-08,Internacional,0,0,Joinville,False,False,second
 199,1987-11-08,Atlético-GO,1,0,Guarani,False,False,second
-200,1987-11-08,Atlético-PR,1,1,Rio Branco,False,False,second
-201,1987-11-08,Portuguesa,0,0,Criciúma,False,False,second
-202,1987-11-11,Rio Branco,2,3,Guarani,False,False,second
+200,1987-11-08,Atlético-PR,1,1,Rio Branco-ES,False,False,second
+201,1987-11-08,Portuguesa-SP,0,0,Criciúma,False,False,second
+202,1987-11-11,Rio Branco-ES,2,3,Guarani,False,False,second
 203,1987-11-11,Atlético-GO,0,0,Joinville,False,False,second
-204,1987-11-11,Portuguesa,1,0,Internacional,False,False,second
+204,1987-11-11,Portuguesa-SP,1,0,Internacional,False,False,second
 205,1987-11-15,Guarani,0,0,Atlético-PR,False,False,second
 206,1987-11-15,Criciúma,0,0,Internacional,False,False,second
-207,1987-11-15,Joinville,1,0,Portuguesa,False,False,second
+207,1987-11-15,Joinville,1,0,Portuguesa-SP,False,False,second
 208,1987-11-18,Guarani,0,0,Internacional,False,False,second
 209,1987-11-18,Criciúma,1,1,Atlético-PR,False,False,second
-210,1987-11-18,Portuguesa,0,1,Rio Branco,False,False,second
+210,1987-11-18,Portuguesa-SP,0,1,Rio Branco-ES,False,False,second
 211,1987-10-21,Bangu,2,0,Ceará,False,False,second
 212,1987-10-21,Vitória,0,0,CSA,False,False,second
 213,1987-10-25,CSA,1,1,Náutico,False,False,second
@@ -249,30 +249,30 @@
 247,1987-12-06,Operário-MT,0,0,Mixto,False,False,first
 248,1987-12-06,Sobradinho,0,1,Operário-MS,False,False,first
 249,1987-12-06,Operário-MS,0,1,Mixto,False,False,first
-250,1987-12-06,Auto Esporte,0,3,Catuense,False,False,first
+250,1987-12-06,Auto Esporte-PB,0,3,Catuense,False,False,first
 251,1987-12-06,Central,0,1,CRB,False,False,first
-252,1987-12-06,Auto Esporte,0,0,CRB,False,False,first
+252,1987-12-06,Auto Esporte-PB,0,0,CRB,False,False,first
 253,1987-12-06,Catuense,2,0,Central,False,False,first
-254,1987-12-06,Auto Esporte,1,0,Central,False,False,first
+254,1987-12-06,Auto Esporte-PB,1,0,Central,False,False,first
 255,1987-12-06,Catuense,2,0,CRB,False,False,first
-256,1987-12-06,Central,2,4,Auto Esporte,False,False,first
+256,1987-12-06,Central,2,4,Auto Esporte-PB,False,False,first
 257,1987-12-06,CRB,1,3,Catuense,False,False,first
 258,1987-12-06,Central,0,1,Catuense,False,False,first
-259,1987-12-06,CRB,2,1,Auto Esporte,False,False,first
+259,1987-12-06,CRB,2,1,Auto Esporte-PB,False,False,first
 260,1987-12-06,CRB,2,4,Central,False,False,first
-261,1987-12-06,Catuense,0,2,Auto Esporte,False,False,first
-262,1987-12-06,ABC,2,4,América,False,False,first
-263,1987-12-06,Botafogo,2,1,Fortaleza,False,False,first
-264,1987-12-06,ABC,1,2,Botafogo,False,False,first
-265,1987-12-06,América,1,1,Fortaleza,False,False,first
+261,1987-12-06,Catuense,0,2,Auto Esporte-PB,False,False,first
+262,1987-12-06,ABC,2,4,América-RN,False,False,first
+263,1987-12-06,Botafogo-PB,2,1,Fortaleza,False,False,first
+264,1987-12-06,ABC,1,2,Botafogo-PB,False,False,first
+265,1987-12-06,América-RN,1,1,Fortaleza,False,False,first
 266,1987-12-06,ABC,1,2,Fortaleza,False,False,first
-267,1987-12-06,América,3,1,Botafogo,False,False,first
-268,1987-12-06,Botafogo,1,0,América,False,False,first
+267,1987-12-06,América-RN,3,1,Botafogo-PB,False,False,first
+268,1987-12-06,Botafogo-PB,1,0,América-RN,False,False,first
 269,1987-12-06,Fortaleza,0,1,ABC,False,False,first
-270,1987-12-06,Fortaleza,0,0,América,False,False,first
-271,1987-12-06,Botafogo,2,2,ABC,False,False,first
-272,1987-12-06,América,0,0,ABC,False,False,first
-273,1987-12-06,Fortaleza,2,0,Botafogo,False,False,first
+270,1987-12-06,Fortaleza,0,0,América-RN,False,False,first
+271,1987-12-06,Botafogo-PB,2,2,ABC,False,False,first
+272,1987-12-06,América-RN,0,0,ABC,False,False,first
+273,1987-12-06,Fortaleza,2,0,Botafogo-PB,False,False,first
 274,1987-12-06,Ferroviário,1,0,Serrano,False,False,first
 275,1987-12-06,Maranhão,0,1,Sampaio Corrêa,False,False,first
 276,1987-12-06,Ferroviário,2,0,Maranhão,False,False,first
@@ -286,31 +286,31 @@
 284,1987-12-06,Sampaio Corrêa,1,1,Maranhão,False,False,first
 285,1987-12-06,Serrano,0,0,Ferroviário,False,False,first
 286,1987-12-06,Imperatriz,1,1,Piauí,False,False,first
-287,1987-12-06,Moto Clube,3,1,Ríver,False,False,first
-288,1987-12-06,Imperatriz,0,0,Ríver,False,False,first
+287,1987-12-06,Moto Clube,3,1,River,False,False,first
+288,1987-12-06,Imperatriz,0,0,River,False,False,first
 289,1987-12-06,Moto Clube,0,0,Piauí,False,False,first
 290,1987-12-06,Imperatriz,0,2,Moto Clube,False,False,first
-291,1987-12-06,Piauí,2,0,Ríver,False,False,first
-292,1987-12-06,Ríver,1,0,Piauí,False,False,first
+291,1987-12-06,Piauí,2,0,River,False,False,first
+292,1987-12-06,River,1,0,Piauí,False,False,first
 293,1987-12-06,Moto Clube,2,0,Imperatriz,False,False,first
 294,1987-12-06,Piauí,0,0,Moto Clube,False,False,first
-295,1987-12-06,Ríver,1,2,Imperatriz,False,False,first
+295,1987-12-06,River,1,2,Imperatriz,False,False,first
 296,1987-12-06,Piauí,1,0,Imperatriz,False,False,first
-297,1987-12-06,Ríver,1,3,Moto Clube,False,False,first
-298,1987-12-06,Nacional,2,1,Rio Negro,False,False,first
+297,1987-12-06,River,1,3,Moto Clube,False,False,first
+298,1987-12-06,Nacional-AM,2,1,Rio Negro,False,False,first
 299,1987-12-06,Paysandu,0,1,Tuna Luso,False,False,first
-300,1987-12-06,Nacional,1,2,Paysandu,False,False,first
+300,1987-12-06,Nacional-AM,1,2,Paysandu,False,False,first
 301,1987-12-06,Rio Negro,0,1,Tuna Luso,False,False,first
-302,1987-12-06,Nacional,1,1,Tuna Luso,False,False,first
+302,1987-12-06,Nacional-AM,1,1,Tuna Luso,False,False,first
 303,1987-12-06,Paysandu,3,1,Rio Negro,False,False,first
 304,1987-12-06,Rio Negro,1,1,Paysandu,False,False,first
-305,1987-12-06,Tuna Luso,0,2,Nacional,False,False,first
+305,1987-12-06,Tuna Luso,0,2,Nacional-AM,False,False,first
 306,1987-12-06,Tuna Luso,1,0,Rio Negro,False,False,first
-307,1987-12-06,Paysandu,2,0,Nacional,False,False,first
+307,1987-12-06,Paysandu,2,0,Nacional-AM,False,False,first
 308,1987-12-06,Tuna Luso,2,3,Paysandu,False,False,first
-309,1987-12-06,Rio Negro,3,0,Nacional,False,False,first
-310,1987-11-18,Auto Esporte-PB,0,1,Mixto,False,False,first
-311,1987-11-21,Mixto,3,0,Auto Esporte-PB,False,False,first
+309,1987-12-06,Rio Negro,3,0,Nacional-AM,False,False,first
+310,1987-11-18,Auto Esporte-PB-PB,0,1,Mixto,False,False,first
+311,1987-11-21,Mixto,3,0,Auto Esporte-PB-PB,False,False,first
 312,1987-11-18,Operário-MS,2,0,Catuense,False,False,first
 313,1987-11-21,Catuense,2,2,Operário-MS,False,False,first
 314,1987-11-18,Sampaio Corrêa,1,1,Botafogo-PB,False,False,first
@@ -353,29 +353,29 @@
 351,1987-11-07,Londrina,0,2,Caxias,False,False,first
 352,1987-11-07,Avaí,1,0,Caxias,False,False,first
 353,1987-11-12,Juventude,3,1,Londrina,False,False,first
-354,1987-11-12,Americano,0,0,Juventus,False,False,first
+354,1987-11-12,Americano,0,0,CA Juventus,False,False,first
 355,1987-11-12,Desportiva,3,0,Estrela do Norte,False,False,first
 356,1987-11-12,Estrela do Norte,1,0,Americano,False,False,first
-357,1987-11-12,Desportiva,1,1,Juventus,False,False,first
+357,1987-11-12,Desportiva,1,1,CA Juventus,False,False,first
 358,1987-11-12,Americano,1,1,Desportiva,False,False,first
-359,1987-11-12,Estrela do Norte,0,1,Juventus,False,False,first
-360,1987-11-12,Juventus,0,0,Americano,False,False,first
+359,1987-11-12,Estrela do Norte,0,1,CA Juventus,False,False,first
+360,1987-11-12,CA Juventus,0,0,Americano,False,False,first
 361,1987-11-12,Estrela do Norte,1,0,Desportiva,False,False,first
 362,1987-11-12,Americano,1,0,Estrela do Norte,False,False,first
-363,1987-11-12,Juventus,0,0,Desportiva,False,False,first
+363,1987-11-12,CA Juventus,0,0,Desportiva,False,False,first
 364,1987-11-12,Desportiva,0,1,Americano,False,False,first
-365,1987-11-12,Juventus,4,0,Estrela do Norte,False,False,first
-366,1987-11-12,América,1,0,Goytacaz,False,False,first
-367,1987-11-12,Tupi,4,0,Botafogo,False,False,first
-368,1987-11-12,América,2,1,Tupi,False,False,first
-369,1987-11-12,Goytacaz,2,1,Botafogo,False,False,first
-370,1987-11-12,Botafogo,2,0,América,False,False,first
+365,1987-11-12,CA Juventus,4,0,Estrela do Norte,False,False,first
+366,1987-11-12,América-MG,1,0,Goytacaz,False,False,first
+367,1987-11-12,Tupi,4,0,Botafogo-SP,False,False,first
+368,1987-11-12,América-MG,2,1,Tupi,False,False,first
+369,1987-11-12,Goytacaz,2,1,Botafogo-SP,False,False,first
+370,1987-11-12,Botafogo-SP,2,0,América-MG,False,False,first
 371,1987-11-12,Goytacaz,0,1,Tupi,False,False,first
-372,1987-11-12,Goytacaz,2,1,América,False,False,first
-373,1987-11-12,Botafogo,1,0,Tupi,False,False,first
-374,1987-11-12,Botafogo,2,1,Goytacaz,False,False,first
-375,1987-11-12,Tupi,1,0,América,False,False,first
-376,1987-11-12,América,0,0,Botafogo,False,False,first
+372,1987-11-12,Goytacaz,2,1,América-MG,False,False,first
+373,1987-11-12,Botafogo-SP,1,0,Tupi,False,False,first
+374,1987-11-12,Botafogo-SP,2,1,Goytacaz,False,False,first
+375,1987-11-12,Tupi,1,0,América-MG,False,False,first
+376,1987-11-12,América-MG,0,0,Botafogo-SP,False,False,first
 377,1987-11-12,Tupi,2,0,Goytacaz,False,False,first
 378,1987-11-12,Itumbiara,0,1,Santo André,False,False,first
 379,1987-11-12,Uberaba,0,1,Uberlândia,False,False,first
@@ -390,31 +390,31 @@
 388,1987-11-12,Uberaba,0,0,Itumbiara,False,False,first
 389,1987-11-12,Uberlândia,0,1,Santo André,False,False,first
 390,1987-11-12,Anapolina,2,0,Corumbaense,False,False,first
-391,1987-11-12,Brasília,1,3,Ponte Preta,False,False,first
-392,1987-11-12,Anapolina,0,0,Ponte Preta,False,False,first
+391,1987-11-12,Brasília,1,3,Ponte Preta-SP,False,False,first
+392,1987-11-12,Anapolina,0,0,Ponte Preta-SP,False,False,first
 393,1987-11-12,Brasília,3,2,Corumbaense,False,False,first
 394,1987-11-12,Brasília,1,1,Anapolina,False,False,first
-395,1987-11-12,Corumbaense,2,2,Ponte Preta,False,False,first
+395,1987-11-12,Corumbaense,2,2,Ponte Preta-SP,False,False,first
 396,1987-11-12,Corumbaense,2,0,Anapolina,False,False,first
-397,1987-11-12,Ponte Preta,2,0,Brasília,False,False,first
-398,1987-11-12,Ponte Preta,2,0,Anapolina,False,False,first
+397,1987-11-12,Ponte Preta-SP,2,0,Brasília,False,False,first
+398,1987-11-12,Ponte Preta-SP,2,0,Anapolina,False,False,first
 399,1987-11-12,Corumbaense,2,0,Brasília,False,False,first
 400,1987-11-12,Anapolina,0,0,Brasília,False,False,first
-401,1987-11-12,Ponte Preta,3,0,Corumbaense,False,False,first
+401,1987-11-12,Ponte Preta-SP,3,0,Corumbaense,False,False,first
 402,1987-11-18,Juventude,2,1,Chapecoense,False,False,first
 403,1987-11-21,Chapecoense,1,1,Juventude,False,False,first
 404,1987-11-18,Santa Cruz-RS,1,1,Caxias,False,False,first
 405,1987-11-21,Caxias,1,0,Santa Cruz-RS,False,False,first
-406,1987-11-18,Botafogo-SP,1,0,Juventus,False,False,first
-407,1987-11-21,Juventus,1,0,Botafogo-SP,False,False,first
+406,1987-11-18,Botafogo-SP,1,0,CA Juventus,False,False,first
+407,1987-11-21,CA Juventus,1,0,Botafogo-SP,False,False,first
 408,1987-11-18,Americano,1,0,Tupi,False,False,first
 409,1987-11-21,Tupi,0,1,Americano,False,False,first
 410,1987-11-18,Corumbaense,1,0,Uberlândia,False,False,first
 411,1987-11-21,Uberlândia,2,1,Corumbaense,False,False,first
-412,1987-11-18,Uberaba,2,0,Ponte Preta,False,False,first
-413,1987-11-21,Ponte Preta,3,0,Uberaba,False,False,first
-414,1987-11-25,Uberlândia,5,0,Ponte Preta,False,False,first
-415,1987-11-28,Ponte Preta,3,0,Uberlândia,False,False,first
+412,1987-11-18,Uberaba,2,0,Ponte Preta-SP,False,False,first
+413,1987-11-21,Ponte Preta-SP,3,0,Uberaba,False,False,first
+414,1987-11-25,Uberlândia,5,0,Ponte Preta-SP,False,False,first
+415,1987-11-28,Ponte Preta-SP,3,0,Uberlândia,False,False,first
 416,1987-11-25,Americano,3,1,Botafogo-SP,False,False,first
 417,1987-11-28,Botafogo-SP,1,0,Americano,False,False,first
 418,1987-11-25,Juventude,1,0,Caxias,False,False,first

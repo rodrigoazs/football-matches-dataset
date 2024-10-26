@@ -20,25 +20,25 @@
 18,1983-03-06,Moto Clube,1,1,Santos,False,False,first
 19,1983-03-06,Paysandu,3,0,Rio Negro,False,False,first
 20,1983-01-23,Atlético-PR,0,1,Grêmio,False,False,first
-21,1983-01-23,Campo Grande,0,1,Ponte Preta,False,False,first
+21,1983-01-23,Campo Grande,0,1,Ponte Preta-SP,False,False,first
 22,1983-01-26,Joinville,1,0,Grêmio,False,False,first
-23,1983-01-27,Ponte Preta,2,4,Atlético-PR,False,False,first
-24,1983-01-29,Grêmio,2,0,Ponte Preta,False,False,first
+23,1983-01-27,Ponte Preta-SP,2,4,Atlético-PR,False,False,first
+24,1983-01-29,Grêmio,2,0,Ponte Preta-SP,False,False,first
 25,1983-01-29,Joinville,1,3,Campo Grande,False,False,first
 26,1983-02-02,Campo Grande,0,0,Atlético-PR,False,False,first
-27,1983-02-02,Joinville,0,0,Ponte Preta,False,False,first
+27,1983-02-02,Joinville,0,0,Ponte Preta-SP,False,False,first
 28,1983-02-05,Atlético-PR,4,1,Joinville,False,False,first
 29,1983-02-05,Grêmio,4,0,Campo Grande,False,False,first
 30,1983-02-09,Grêmio,1,1,Joinville,False,False,first
-31,1983-02-10,Atlético-PR,1,3,Ponte Preta,False,False,first
+31,1983-02-10,Atlético-PR,1,3,Ponte Preta-SP,False,False,first
 32,1983-02-19,Campo Grande,1,0,Joinville,False,False,first
-33,1983-02-19,Ponte Preta,1,1,Grêmio,False,False,first
+33,1983-02-19,Ponte Preta-SP,1,1,Grêmio,False,False,first
 34,1983-02-23,Joinville,2,0,Atlético-PR,False,False,first
 35,1983-02-23,Campo Grande,0,0,Grêmio,False,False,first
-36,1983-02-27,Ponte Preta,2,0,Campo Grande,False,False,first
+36,1983-02-27,Ponte Preta-SP,2,0,Campo Grande,False,False,first
 37,1983-02-27,Grêmio,1,2,Atlético-PR,False,False,first
 38,1983-03-06,Atlético-PR,1,1,Campo Grande,False,False,first
-39,1983-03-07,Ponte Preta,3,1,Joinville,False,False,first
+39,1983-03-07,Ponte Preta-SP,3,1,Joinville,False,False,first
 40,1983-01-22,Galícia,1,1,Sergipe,False,False,first
 41,1983-01-23,Sport,0,0,São Paulo,False,False,first
 42,1983-01-26,Galícia,0,0,São Paulo,False,False,first
@@ -81,44 +81,44 @@
 79,1983-03-06,Tiradentes,2,1,CSA,False,False,first
 80,1983-01-23,Bahia,0,0,Palmeiras,False,False,first
 81,1983-01-23,Mixto,1,2,Goiás,False,False,first
-82,1983-01-27,Comercial,1,1,Palmeiras,False,False,first
+82,1983-01-27,Comercial-MS,1,1,Palmeiras,False,False,first
 83,1983-02-13,Goiás,1,1,Bahia,False,False,first
-84,1983-01-29,Comercial,2,1,Goiás,False,False,first
+84,1983-01-29,Comercial-MS,2,1,Goiás,False,False,first
 85,1983-01-29,Mixto,2,0,Bahia,False,False,first
 86,1983-02-02,Palmeiras,1,0,Goiás,False,False,first
-87,1983-02-02,Comercial,2,1,Mixto,False,False,first
+87,1983-02-02,Comercial-MS,2,1,Mixto,False,False,first
 88,1983-02-05,Palmeiras,4,0,Mixto,False,False,first
-89,1983-02-05,Bahia,1,0,Comercial,False,False,first
+89,1983-02-05,Bahia,1,0,Comercial-MS,False,False,first
 90,1983-02-09,Bahia,2,1,Mixto,False,False,first
-91,1983-02-09,Goiás,0,1,Comercial,False,False,first
-92,1983-02-19,Mixto,1,1,Comercial,False,False,first
+91,1983-02-09,Goiás,0,1,Comercial-MS,False,False,first
+92,1983-02-19,Mixto,1,1,Comercial-MS,False,False,first
 93,1983-02-19,Goiás,0,2,Palmeiras,False,False,first
-94,1983-02-23,Comercial,1,0,Bahia,False,False,first
+94,1983-02-23,Comercial-MS,1,0,Bahia,False,False,first
 95,1983-02-23,Mixto,0,3,Palmeiras,False,False,first
 96,1983-02-26,Palmeiras,4,0,Bahia,False,False,first
 97,1983-02-27,Goiás,3,1,Mixto,False,False,first
-98,1983-03-05,Palmeiras,2,1,Comercial,False,False,first
+98,1983-03-05,Palmeiras,2,1,Comercial-MS,False,False,first
 99,1983-03-06,Bahia,3,0,Goiás,False,False,first
-100,1983-01-23,Juventus,0,0,Vila Nova,False,False,first
+100,1983-01-23,CA Juventus,0,0,Vila Nova,False,False,first
 101,1983-01-23,Atlético-MG,1,2,América-RJ,False,False,first
-102,1983-01-26,Rio Branco,0,2,América-RJ,False,False,first
-103,1983-01-26,Juventus,0,0,Atlético-MG,False,False,first
-104,1983-01-29,Rio Branco,1,1,Juventus,False,False,first
+102,1983-01-26,Rio Branco-ES,0,2,América-RJ,False,False,first
+103,1983-01-26,CA Juventus,0,0,Atlético-MG,False,False,first
+104,1983-01-29,Rio Branco-ES,1,1,CA Juventus,False,False,first
 105,1983-01-29,Vila Nova,1,2,Atlético-MG,False,False,first
-106,1983-02-02,América-RJ,2,0,Juventus,False,False,first
-107,1983-02-02,Rio Branco,1,0,Vila Nova,False,False,first
-108,1983-02-05,Atlético-MG,2,0,Rio Branco,False,False,first
+106,1983-02-02,América-RJ,2,0,CA Juventus,False,False,first
+107,1983-02-02,Rio Branco-ES,1,0,Vila Nova,False,False,first
+108,1983-02-05,Atlético-MG,2,0,Rio Branco-ES,False,False,first
 109,1983-02-05,América-RJ,3,1,Vila Nova,False,False,first
-110,1983-02-09,Juventus,3,2,Rio Branco,False,False,first
+110,1983-02-09,CA Juventus,3,2,Rio Branco-ES,False,False,first
 111,1983-02-10,Atlético-MG,4,1,Vila Nova,False,False,first
-112,1983-02-19,Juventus,1,3,América-RJ,False,False,first
-113,1983-02-19,Vila Nova,2,0,Rio Branco,False,False,first
-114,1983-02-23,Rio Branco,0,2,Atlético-MG,False,False,first
+112,1983-02-19,CA Juventus,1,3,América-RJ,False,False,first
+113,1983-02-19,Vila Nova,2,0,Rio Branco-ES,False,False,first
+114,1983-02-23,Rio Branco-ES,0,2,Atlético-MG,False,False,first
 115,1983-02-23,Vila Nova,3,0,América-RJ,False,False,first
-116,1983-02-26,Vila Nova,1,0,Juventus,False,False,first
+116,1983-02-26,Vila Nova,1,0,CA Juventus,False,False,first
 117,1983-02-27,América-RJ,1,1,Atlético-MG,False,False,first
-118,1983-03-06,Atlético-MG,1,0,Juventus,False,False,first
-119,1983-03-06,América-RJ,4,0,Rio Branco,False,False,first
+118,1983-03-06,Atlético-MG,1,0,CA Juventus,False,False,first
+119,1983-03-06,América-RJ,4,0,Rio Branco-ES,False,False,first
 120,1983-01-23,Internacional,2,0,Colorado,False,False,first
 121,1983-01-23,Brasília,3,2,Botafogo,False,False,first
 122,1983-01-26,Colorado,2,0,Brasília,False,False,first
@@ -161,31 +161,31 @@
 159,1983-03-06,Ferroviário,1,2,Náutico,False,False,first
 160,1983-03-09,Paysandu,1,3,Campo Grande,False,True,relegation
 161,1983-03-09,Sport,2,1,CSA,False,True,relegation
-162,1983-03-09,Goiás,2,2,Juventus,False,True,relegation
+162,1983-03-09,Goiás,2,2,CA Juventus,False,True,relegation
 163,1983-03-09,Botafogo,3,1,Ferroviário,False,True,relegation
-164,1983-03-13,Santos,4,1,Comercial,False,False,second
+164,1983-03-13,Santos,4,1,Comercial-MS,False,False,second
 165,1983-03-13,Guarani,1,0,Cruzeiro,False,False,second
-166,1983-03-16,Cruzeiro,2,0,Comercial,False,False,second
+166,1983-03-16,Cruzeiro,2,0,Comercial-MS,False,False,second
 167,1983-03-16,Santos,1,1,Guarani,False,False,second
 168,1983-03-19,Cruzeiro,1,1,Santos,False,False,second
-169,1983-03-19,Comercial,1,3,Guarani,False,False,second
+169,1983-03-19,Comercial-MS,1,3,Guarani,False,False,second
 170,1983-03-26,Guarani,2,2,Santos,False,False,second
-171,1983-03-26,Comercial,2,3,Cruzeiro,False,False,second
-172,1983-03-30,Guarani,1,1,Comercial,False,False,second
+171,1983-03-26,Comercial-MS,2,3,Cruzeiro,False,False,second
+172,1983-03-30,Guarani,1,1,Comercial-MS,False,False,second
 173,1983-03-30,Santos,5,0,Cruzeiro,False,False,second
-174,1983-04-03,Comercial,2,2,Santos,False,False,second
+174,1983-04-03,Comercial-MS,2,2,Santos,False,False,second
 175,1983-04-03,Cruzeiro,1,1,Guarani,False,False,second
 176,1983-03-13,Atlético-MG,2,1,Internacional,False,False,second
-177,1983-03-13,Sport,2,0,Ponte Preta,False,False,second
+177,1983-03-13,Sport,2,0,Ponte Preta-SP,False,False,second
 178,1983-03-17,Sport,1,1,Atlético-MG,False,False,second
-179,1983-03-17,Ponte Preta,2,2,Internacional,False,False,second
-180,1983-03-19,Ponte Preta,2,2,Atlético-MG,False,False,second
+179,1983-03-17,Ponte Preta-SP,2,2,Internacional,False,False,second
+180,1983-03-19,Ponte Preta-SP,2,2,Atlético-MG,False,False,second
 181,1983-03-19,Internacional,0,1,Sport,False,False,second
-182,1983-03-26,Internacional,1,0,Ponte Preta,False,False,second
+182,1983-03-26,Internacional,1,0,Ponte Preta-SP,False,False,second
 183,1983-03-26,Atlético-MG,2,1,Sport,False,False,second
-184,1983-03-30,Atlético-MG,3,0,Ponte Preta,False,False,second
+184,1983-03-30,Atlético-MG,3,0,Ponte Preta-SP,False,False,second
 185,1983-03-30,Sport,1,1,Internacional,False,False,second
-186,1983-04-03,Ponte Preta,2,1,Sport,False,False,second
+186,1983-04-03,Ponte Preta-SP,2,1,Sport,False,False,second
 187,1983-04-03,Internacional,2,1,Atlético-MG,False,False,second
 188,1983-03-13,Colorado,1,0,Vila Nova,False,False,second
 189,1983-03-13,Uberaba,1,4,São Paulo,False,False,second

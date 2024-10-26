@@ -2,351 +2,351 @@
 0,1997-07-05,Grêmio,0,0,São Paulo,False,False,first
 1,1997-07-05,Palmeiras,4,1,Fluminense,False,False,first
 2,1997-07-06,Paraná,2,1,Sport,False,False,first
-3,1997-07-05,Juventude,0,0,Goias,False,False,first
+3,1997-07-05,Juventude,0,0,Goiás,False,False,first
 4,1997-07-05,Corinthians,1,3,Internacional,False,False,first
-5,1997-07-06,Portuguesa,1,0,Coritiba,False,False,first
+5,1997-07-06,Portuguesa-SP,1,0,Coritiba,False,False,first
 6,1997-07-05,Bragantino,3,1,Bahia,False,False,first
 7,1997-07-05,Flamengo,2,3,Santos,False,False,first
 8,1997-07-05,Cruzeiro,3,1,Guarani,False,False,first
-9,1997-07-06,Atlético-PR,2,0,Uniao Sao Joao,False,False,first
-10,1997-07-05,America,1,1,Criciúma,False,False,first
-11,1997-11-04,Vasco,2,0,Atlético-MG,False,False,first
-12,1997-10-07,Vitoria,3,2,Botafogo,False,False,first
+9,1997-07-06,Atlético-PR,2,0,União São João,False,False,first
+10,1997-07-05,América-RN,1,1,Criciúma,False,False,first
+11,1997-11-04,Vasco da Gama,2,0,Atlético-MG,False,False,first
+12,1997-10-07,Vitória,3,2,Botafogo,False,False,first
 13,1997-07-10,Bahia,1,0,Flamengo,False,False,first
 14,1997-07-10,Criciúma,1,1,Corinthians,False,False,first
 15,1997-07-10,Fluminense,1,1,Cruzeiro,False,False,first
-16,1997-07-10,Internacional,2,1,Portuguesa,False,False,first
+16,1997-07-10,Internacional,2,1,Portuguesa-SP,False,False,first
 17,1997-07-09,Guarani,3,1,Atlético-PR,False,False,first
-18,1997-07-09,Uniao Sao Joao,0,2,Paraná,False,False,first
-19,1997-07-09,Coritiba,1,1,Vitoria,False,False,first
-20,1997-07-09,Goias,6,0,Grêmio,False,False,first
-21,1997-07-10,Sport,1,1,America,False,False,first
+18,1997-07-09,União São João,0,2,Paraná,False,False,first
+19,1997-07-09,Coritiba,1,1,Vitória,False,False,first
+20,1997-07-09,Goiás,6,0,Grêmio,False,False,first
+21,1997-07-10,Sport,1,1,América-RN,False,False,first
 22,1997-07-10,Atlético-MG,0,1,Palmeiras,False,False,first
 23,1997-07-10,São Paulo,1,1,Bragantino,False,False,first
 24,1997-07-23,Botafogo,0,2,Juventude,False,False,first
-25,1997-07-12,Goias,0,0,Botafogo,False,False,first
+25,1997-07-12,Goiás,0,0,Botafogo,False,False,first
 26,1997-07-12,Paraná,2,0,Santos,False,False,first
 27,1997-07-12,Coritiba,2,0,Sport,False,False,first
 28,1997-07-12,Flamengo,2,0,Criciúma,False,False,first
 29,1997-07-12,Bragantino,3,1,Fluminense,False,False,first
 30,1997-07-12,Palmeiras,1,1,Guarani,False,False,first
 31,1997-07-12,Corinthians,1,0,Juventude,False,False,first
-32,1997-07-12,Vitoria,4,4,Portuguesa,False,False,first
-33,1997-07-12,Grêmio,1,1,Uniao Sao Joao,False,False,first
+32,1997-07-12,Vitória,4,4,Portuguesa-SP,False,False,first
+33,1997-07-12,Grêmio,1,1,União São João,False,False,first
 34,1997-07-13,Atlético-PR,4,2,Atlético-MG,False,False,first
 35,1997-07-12,Cruzeiro,0,0,Internacional,False,False,first
-36,1997-07-12,America,1,1,Bahia,False,False,first
-37,1997-07-23,Vasco,2,1,São Paulo,False,False,first
-38,1997-07-16,Fluminense,0,0,Vitoria,False,False,first
+36,1997-07-12,América-RN,1,1,Bahia,False,False,first
+37,1997-07-23,Vasco da Gama,2,1,São Paulo,False,False,first
+38,1997-07-16,Fluminense,0,0,Vitória,False,False,first
 39,1997-07-16,Juventude,2,1,Palmeiras,False,False,first
-40,1997-07-16,Portuguesa,3,0,Grêmio,False,False,first
+40,1997-07-16,Portuguesa-SP,3,0,Grêmio,False,False,first
 41,1997-07-16,Paraná,4,0,Bragantino,False,False,first
 42,1997-07-16,Bahia,1,1,Coritiba,False,False,first
 43,1997-07-16,Criciúma,1,3,Guarani,False,False,first
-44,1997-07-16,America,3,1,Uniao Sao Joao,False,False,first
+44,1997-07-16,América-RN,3,1,União São João,False,False,first
 45,1997-07-16,Sport,3,1,Atlético-PR,False,False,first
-46,1997-07-16,Goias,1,4,Flamengo,False,False,first
-47,1997-07-16,Corinthians,2,1,Vasco,False,False,first
+46,1997-07-16,Goiás,1,4,Flamengo,False,False,first
+47,1997-07-16,Corinthians,2,1,Vasco da Gama,False,False,first
 48,1997-07-16,Cruzeiro,0,5,São Paulo,False,False,first
 49,1997-07-16,Botafogo,2,0,Atlético-MG,False,False,first
 50,1997-07-16,Internacional,2,0,Santos,False,False,first
-51,1997-07-19,Portuguesa,3,0,Flamengo,False,False,first
+51,1997-07-19,Portuguesa-SP,3,0,Flamengo,False,False,first
 52,1997-07-19,Guarani,2,2,Corinthians,False,False,first
 53,1997-07-19,Atlético-PR,4,3,Bahia,False,False,first
-54,1997-07-20,Vasco,3,3,Juventude,False,False,first
+54,1997-07-20,Vasco da Gama,3,3,Juventude,False,False,first
 55,1997-07-19,São Paulo,2,1,Fluminense,False,False,first
 56,1997-07-20,Coritiba,3,3,Botafogo,False,False,first
-57,1997-07-19,Palmeiras,4,0,America,False,False,first
-58,1997-07-19,Santos,3,0,Goias,False,False,first
+57,1997-07-19,Palmeiras,4,0,América-RN,False,False,first
+58,1997-07-19,Santos,3,0,Goiás,False,False,first
 59,1997-07-19,Bragantino,1,0,Criciúma,False,False,first
-60,1997-07-19,Uniao Sao Joao,2,2,Internacional,False,False,first
+60,1997-07-19,União São João,2,2,Internacional,False,False,first
 61,1997-07-19,Atlético-MG,2,1,Cruzeiro,False,False,first
 62,1997-07-21,Grêmio,1,1,Paraná,False,False,first
-63,1997-07-19,Vitoria,3,1,Sport,False,False,first
+63,1997-07-19,Vitória,3,1,Sport,False,False,first
 64,1997-07-23,Santos,3,0,Grêmio,False,False,first
-65,1997-07-26,America,0,0,Botafogo,False,False,first
+65,1997-07-26,América-RN,0,0,Botafogo,False,False,first
 66,1997-07-26,Sport,1,1,Santos,False,False,first
 67,1997-07-27,Fluminense,1,1,Coritiba,False,False,first
-68,1997-07-26,Flamengo,0,1,Vasco,False,False,first
-69,1997-07-26,Goias,1,2,Atlético-MG,False,False,first
-70,1997-07-26,Corinthians,1,0,Uniao Sao Joao,False,False,first
-71,1997-07-27,Paraná,0,1,Portuguesa,False,False,first
+68,1997-07-26,Flamengo,0,1,Vasco da Gama,False,False,first
+69,1997-07-26,Goiás,1,2,Atlético-MG,False,False,first
+70,1997-07-26,Corinthians,1,0,União São João,False,False,first
+71,1997-07-27,Paraná,0,1,Portuguesa-SP,False,False,first
 72,1997-07-26,Guarani,2,1,Bragantino,False,False,first
 73,1997-07-26,Juventude,0,1,Grêmio,False,False,first
 74,1997-07-27,Cruzeiro,0,0,Atlético-PR,False,False,first
-75,1997-07-27,Bahia,3,3,Vitoria,False,False,first
+75,1997-07-27,Bahia,3,3,Vitória,False,False,first
 76,1997-07-30,Criciúma,2,1,São Paulo,False,False,first
-77,1997-07-30,Vasco,2,0,Goias,False,False,first
+77,1997-07-30,Vasco da Gama,2,0,Goiás,False,False,first
 78,1997-07-30,Sport,1,0,Flamengo,False,False,first
 79,1997-07-30,Corinthians,0,0,Atlético-MG,False,False,first
 80,1997-08-02,Palmeiras,3,1,Botafogo,False,False,first
-81,1997-08-02,Uniao Sao Joao,1,0,Juventude,False,False,first
-82,1997-08-02,Bragantino,0,1,Goias,False,False,first
+81,1997-08-02,União São João,1,0,Juventude,False,False,first
+82,1997-08-02,Bragantino,0,1,Goiás,False,False,first
 83,1997-08-03,Atlético-PR,2,4,Paraná,False,False,first
-84,1997-08-02,Guarani,1,2,America,False,False,first
-85,1997-08-03,Vasco,3,1,Fluminense,False,False,first
+84,1997-08-02,Guarani,1,2,América-RN,False,False,first
+85,1997-08-03,Vasco da Gama,3,1,Fluminense,False,False,first
 86,1997-08-02,São Paulo,1,1,Internacional,False,False,first
-87,1997-08-02,Vitoria,1,0,Criciúma,False,False,first
+87,1997-08-02,Vitória,1,0,Criciúma,False,False,first
 88,1997-08-02,Grêmio,2,1,Sport,False,False,first
-89,1997-08-06,Vitoria,1,2,Palmeiras,False,False,first
-90,1997-08-06,Portuguesa,3,2,Bahia,False,False,first
-91,1997-08-09,Internacional,3,1,Vitoria,False,False,first
+89,1997-08-06,Vitória,1,2,Palmeiras,False,False,first
+90,1997-08-06,Portuguesa-SP,3,2,Bahia,False,False,first
+91,1997-08-09,Internacional,3,1,Vitória,False,False,first
 92,1997-08-09,Botafogo,3,1,Atlético-PR,False,False,first
 93,1997-08-09,Paraná,1,1,Palmeiras,False,False,first
-94,1997-08-09,America,3,3,Grêmio,False,False,first
-95,1997-08-09,Fluminense,1,1,Portuguesa,False,False,first
-96,1997-08-09,Goias,1,2,São Paulo,False,False,first
+94,1997-08-09,América-RN,3,3,Grêmio,False,False,first
+95,1997-08-09,Fluminense,1,1,Portuguesa-SP,False,False,first
+96,1997-08-09,Goiás,1,2,São Paulo,False,False,first
 97,1997-08-09,Bragantino,2,1,Santos,False,False,first
 98,1997-08-09,Bahia,1,1,Guarani,False,False,first
-99,1997-08-09,Criciúma,0,0,Uniao Sao Joao,False,False,first
+99,1997-08-09,Criciúma,0,0,União São João,False,False,first
 100,1997-08-10,Juventude,1,0,Coritiba,False,False,first
 101,1997-08-12,Atlético-MG,2,4,Flamengo,False,False,first
 102,1997-08-13,Internacional,2,1,Palmeiras,False,False,first
 103,1997-08-13,Criciúma,1,0,Botafogo,False,False,first
-104,1997-08-16,Atlético-PR,2,1,Goias,False,False,first
+104,1997-08-16,Atlético-PR,2,1,Goiás,False,False,first
 105,1997-08-16,Coritiba,2,0,Corinthians,False,False,first
-106,1997-08-16,Uniao Sao Joao,1,1,Sport,False,False,first
+106,1997-08-16,União São João,1,1,Sport,False,False,first
 107,1997-08-16,Internacional,4,1,Fluminense,False,False,first
-108,1997-08-17,Vasco,3,0,Bragantino,False,False,first
+108,1997-08-17,Vasco da Gama,3,0,Bragantino,False,False,first
 109,1997-08-16,Palmeiras,4,0,Cruzeiro,False,False,first
 110,1997-08-16,Bahia,3,1,São Paulo,False,False,first
-111,1997-08-16,Portuguesa,3,0,America,False,False,first
+111,1997-08-16,Portuguesa-SP,3,0,América-RN,False,False,first
 112,1997-08-17,Guarani,1,2,Paraná,False,False,first
 113,1997-08-16,Atlético-MG,2,1,Juventude,False,False,first
 114,1997-08-19,Corinthians,1,2,Atlético-PR,False,False,first
-115,1997-08-20,America,0,0,Vasco,False,False,first
+115,1997-08-20,América-RN,0,0,Vasco da Gama,False,False,first
 116,1997-08-19,Juventude,1,1,Santos,False,False,first
-117,1997-08-19,Botafogo,1,1,Uniao Sao Joao,False,False,first
+117,1997-08-19,Botafogo,1,1,União São João,False,False,first
 118,1997-08-19,Fluminense,3,1,Guarani,False,False,first
 119,1997-08-19,São Paulo,0,2,Atlético-MG,False,False,first
-120,1997-08-19,Bragantino,1,1,Portuguesa,False,False,first
+120,1997-08-19,Bragantino,1,1,Portuguesa-SP,False,False,first
 121,1997-08-20,Internacional,2,0,Coritiba,False,False,first
 122,1997-08-19,Sport,2,0,Bahia,False,False,first
-123,1997-08-20,Goias,1,0,Paraná,False,False,first
+123,1997-08-20,Goiás,1,0,Paraná,False,False,first
 124,1997-08-19,Cruzeiro,4,3,Criciúma,False,False,first
 125,1997-08-23,Bahia,3,3,Fluminense,False,False,first
 126,1997-08-23,Atlético-PR,1,1,São Paulo,False,False,first
 127,1997-08-24,Coritiba,4,2,Bragantino,False,False,first
-128,1997-08-24,Santos,3,1,Vasco,False,False,first
+128,1997-08-24,Santos,3,1,Vasco da Gama,False,False,first
 129,1997-08-23,Grêmio,2,5,Internacional,False,False,first
 130,1997-08-24,Criciúma,1,0,Paraná,False,False,first
-131,1997-08-23,Juventude,1,0,Vitoria,False,False,first
+131,1997-08-23,Juventude,1,0,Vitória,False,False,first
 132,1997-08-23,Atlético-MG,1,1,Sport,False,False,first
 133,1997-08-27,Botafogo,1,1,Guarani,False,False,first
 134,1997-08-27,Paraná,0,0,Fluminense,False,False,first
 135,1997-08-30,Palmeiras,0,1,Criciúma,False,False,first
-136,1997-08-30,Sport,2,3,Vasco,False,False,first
+136,1997-08-30,Sport,2,3,Vasco da Gama,False,False,first
 137,1997-08-30,Fluminense,1,0,Santos,False,False,first
 138,1997-08-30,Flamengo,0,0,Botafogo,False,False,first
 139,1997-08-30,Internacional,1,1,Atlético-MG,False,False,first
-140,1997-08-30,Vitoria,1,1,Grêmio,False,False,first
+140,1997-08-30,Vitória,1,1,Grêmio,False,False,first
 141,1997-08-30,Cruzeiro,3,1,Bahia,False,False,first
 142,1997-08-31,Bragantino,3,2,Atlético-PR,False,False,first
-143,1997-08-31,Uniao Sao Joao,0,1,Coritiba,False,False,first
-144,1997-08-30,America,1,0,Goias,False,False,first
-145,1997-08-31,Portuguesa,5,0,Guarani,False,False,first
+143,1997-08-31,União São João,0,1,Coritiba,False,False,first
+144,1997-08-30,América-RN,1,0,Goiás,False,False,first
+145,1997-08-31,Portuguesa-SP,5,0,Guarani,False,False,first
 146,1997-08-31,Paraná,1,2,Juventude,False,False,first
 147,1997-08-30,Corinthians,0,1,São Paulo,False,False,first
 148,1997-09-03,Atlético-PR,0,0,Fluminense,False,False,first
-149,1997-08-30,Uniao Sao Joao,0,0,Palmeiras,False,False,first
+149,1997-08-30,União São João,0,0,Palmeiras,False,False,first
 150,1997-09-06,Botafogo,0,2,Internacional,False,False,first
-151,1997-09-07,Grêmio,3,1,Vasco,False,False,first
+151,1997-09-07,Grêmio,3,1,Vasco da Gama,False,False,first
 152,1997-09-06,Atlético-MG,2,1,Bragantino,False,False,first
-153,1997-09-06,Uniao Sao Joao,0,1,Portuguesa,False,False,first
+153,1997-09-06,União São João,0,1,Portuguesa-SP,False,False,first
 154,1997-09-06,Bahia,1,2,Corinthians,False,False,first
 155,1997-09-06,Flamengo,2,0,Cruzeiro,False,False,first
-156,1997-09-06,Guarani,3,3,Vitoria,False,False,first
-157,1997-09-06,Juventude,3,1,America,False,False,first
+156,1997-09-06,Guarani,3,3,Vitória,False,False,first
+157,1997-09-06,Juventude,3,1,América-RN,False,False,first
 158,1997-09-07,Paraná,1,1,Coritiba,False,False,first
 159,1997-09-06,Santos,2,0,Criciúma,False,False,first
 160,1997-09-06,São Paulo,0,2,Palmeiras,False,False,first
-161,1997-09-06,Sport,1,0,Goias,False,False,first
+161,1997-09-06,Sport,1,0,Goiás,False,False,first
 162,1997-09-11,Fluminense,1,2,Flamengo,False,False,first
-163,1997-09-11,Vasco,6,0,Uniao Sao Joao,False,False,first
-164,1997-09-11,Portuguesa,2,1,São Paulo,False,False,first
-165,1997-09-11,Goias,2,1,Guarani,False,False,first
+163,1997-09-11,Vasco da Gama,6,0,União São João,False,False,first
+164,1997-09-11,Portuguesa-SP,2,1,São Paulo,False,False,first
+165,1997-09-11,Goiás,2,1,Guarani,False,False,first
 166,1997-09-11,Bahia,2,1,Paraná,False,False,first
 167,1997-09-11,Coritiba,3,3,Grêmio,False,False,first
 168,1997-09-11,Internacional,0,1,Juventude,False,False,first
 169,1997-09-11,Criciúma,2,0,Sport,False,False,first
-170,1997-09-11,America,2,1,Cruzeiro,False,False,first
-171,1997-09-11,Corinthians,3,1,Vitoria,False,False,first
+170,1997-09-11,América-RN,2,1,Cruzeiro,False,False,first
+171,1997-09-11,Corinthians,3,1,Vitória,False,False,first
 172,1997-09-11,Atlético-MG,2,1,Santos,False,False,first
 173,1997-10-15,Bragantino,1,3,Botafogo,False,False,first
 174,1997-09-13,São Paulo,2,2,Botafogo,False,False,first
 175,1997-09-13,Bragantino,2,1,Palmeiras,False,False,first
 176,1997-09-13,Grêmio,2,2,Bahia,False,False,first
 177,1997-09-14,Cruzeiro,4,0,Paraná,False,False,first
-178,1997-09-13,Portuguesa,2,1,Corinthians,False,False,first
-179,1997-09-14,Vitoria,4,2,Vasco,False,False,first
-180,1997-09-13,Flamengo,4,2,America,False,False,first
+178,1997-09-13,Portuguesa-SP,2,1,Corinthians,False,False,first
+179,1997-09-14,Vitória,4,2,Vasco da Gama,False,False,first
+180,1997-09-13,Flamengo,4,2,América-RN,False,False,first
 181,1997-09-14,Atlético-PR,3,1,Juventude,False,False,first
 182,1997-09-13,Guarani,1,3,Atlético-MG,False,False,first
 183,1997-09-14,Santos,2,1,Coritiba,False,False,first
-184,1997-09-14,Goias,3,2,Criciúma,False,False,first
+184,1997-09-14,Goiás,3,2,Criciúma,False,False,first
 185,1997-09-13,Sport,2,0,Internacional,False,False,first
 186,1997-09-17,Guarani,1,1,Flamengo,False,False,first
 187,1997-09-17,Santos,2,1,São Paulo,False,False,first
-188,1997-09-17,Vasco,2,1,Internacional,False,False,first
+188,1997-09-17,Vasco da Gama,2,1,Internacional,False,False,first
 189,1997-09-17,Criciúma,1,1,Juventude,False,False,first
-190,1997-09-17,Sport,1,2,Portuguesa,False,False,first
-191,1997-09-17,Vitoria,2,0,Bragantino,False,False,first
-192,1997-09-17,Cruzeiro,0,1,Uniao Sao Joao,False,False,first
-193,1997-09-17,Paraná,0,0,America,False,False,first
+190,1997-09-17,Sport,1,2,Portuguesa-SP,False,False,first
+191,1997-09-17,Vitória,2,0,Bragantino,False,False,first
+192,1997-09-17,Cruzeiro,0,1,União São João,False,False,first
+193,1997-09-17,Paraná,0,0,América-RN,False,False,first
 194,1997-09-17,Grêmio,3,1,Atlético-PR,False,False,first
-195,1997-09-17,Goias,1,0,Coritiba,False,False,first
+195,1997-09-17,Goiás,1,0,Coritiba,False,False,first
 196,1997-09-17,Palmeiras,1,1,Bahia,False,False,first
 197,1997-09-17,Atlético-MG,1,0,Fluminense,False,False,first
-198,1997-09-20,Vasco,4,1,Paraná,False,False,first
+198,1997-09-20,Vasco da Gama,4,1,Paraná,False,False,first
 199,1997-09-20,Grêmio,2,0,Corinthians,False,False,first
 200,1997-09-20,Juventude,0,0,Cruzeiro,False,False,first
 201,1997-09-20,Flamengo,0,0,Bragantino,False,False,first
 202,1997-09-20,Coritiba,3,2,Criciúma,False,False,first
 203,1997-09-20,Fluminense,0,3,Sport,False,False,first
 204,1997-09-21,Palmeiras,5,0,Santos,False,False,first
-205,1997-09-20,São Paulo,3,1,Vitoria,False,False,first
+205,1997-09-20,São Paulo,3,1,Vitória,False,False,first
 206,1997-09-20,Botafogo,1,3,Bahia,False,False,first
-207,1997-09-20,Internacional,3,1,Goias,False,False,first
-208,1997-09-20,Atlético-MG,1,1,Portuguesa,False,False,first
-209,1997-09-21,America,2,0,Atlético-PR,False,False,first
+207,1997-09-20,Internacional,3,1,Goiás,False,False,first
+208,1997-09-20,Atlético-MG,1,1,Portuguesa-SP,False,False,first
+209,1997-09-21,América-RN,2,0,Atlético-PR,False,False,first
 210,1997-09-23,Coritiba,0,0,Cruzeiro,False,False,first
-211,1997-09-23,Uniao Sao Joao,1,1,Fluminense,False,False,first
+211,1997-09-23,União São João,1,1,Fluminense,False,False,first
 212,1997-09-23,Botafogo,1,0,Corinthians,False,False,first
 213,1997-09-27,Coritiba,3,1,Guarani,False,False,first
 214,1997-09-27,Santos,1,2,Botafogo,False,False,first
 215,1997-09-27,São Paulo,0,0,Juventude,False,False,first
-216,1997-09-28,Portuguesa,1,2,Vasco,False,False,first
+216,1997-09-28,Portuguesa-SP,1,2,Vasco da Gama,False,False,first
 217,1997-09-28,Atlético-PR,0,0,Flamengo,False,False,first
-218,1997-09-27,Fluminense,2,4,America/RN,False,False,first
+218,1997-09-27,Fluminense,2,4,America-RN,False,False,first
 219,1997-09-27,Corinthians,2,2,Palmeiras,False,False,first
 220,1997-09-27,Bragantino,1,1,Grêmio,False,False,first
 221,1997-09-28,Paraná,0,0,Internacional,False,False,first
 222,1997-09-27,Criciúma,1,1,Atlético-MG,False,False,first
 223,1997-09-27,Sport,4,1,Cruzeiro,False,False,first
-224,1997-09-27,Bahia,4,2,Uniao Sao Joao,False,False,first
-225,1997-09-27,Goias,1,2,Vitoria,False,False,first
-226,1997-10-01,Vasco,2,1,Palmeiras,False,False,first
+224,1997-09-27,Bahia,4,2,União São João,False,False,first
+225,1997-09-27,Goiás,1,2,Vitória,False,False,first
+226,1997-10-01,Vasco da Gama,2,1,Palmeiras,False,False,first
 227,1997-10-01,Juventude,0,1,Flamengo,False,False,first
 228,1997-10-01,Botafogo,1,0,Sport,False,False,first
-229,1997-10-01,Atlético-PR,2,0,Portuguesa,False,False,first
+229,1997-10-01,Atlético-PR,2,0,Portuguesa-SP,False,False,first
 230,1997-10-01,Grêmio,0,0,Cruzeiro,False,False,first
 231,1997-10-01,Criciúma,0,1,Internacional,False,False,first
-232,1997-10-01,Bahia,3,1,Goias,False,False,first
-233,1997-10-01,Vitoria,1,1,America,False,False,first
+232,1997-10-01,Bahia,3,1,Goiás,False,False,first
+233,1997-10-01,Vitória,1,1,América-RN,False,False,first
 234,1997-10-01,Guarani,0,0,São Paulo,False,False,first
 235,1997-10-01,Corinthians,2,0,Bragantino,False,False,first
-236,1997-10-01,Santos,3,1,Uniao Sao Joao,False,False,first
+236,1997-10-01,Santos,3,1,União São João,False,False,first
 237,1997-10-02,Atlético-MG,3,1,Coritiba,False,False,first
-238,1997-10-04,Cruzeiro,4,0,Goias,False,False,first
+238,1997-10-04,Cruzeiro,4,0,Goiás,False,False,first
 239,1997-10-04,Paraná,1,2,Flamengo,False,False,first
-240,1997-10-04,America,1,1,Corinthians,False,False,first
+240,1997-10-04,América-RN,1,1,Corinthians,False,False,first
 241,1997-10-04,Grêmio,1,1,Botafogo,False,False,first
-242,1997-10-04,Uniao Sao Joao,2,2,Vitoria,False,False,first
+242,1997-10-04,União São João,2,2,Vitória,False,False,first
 243,1997-10-04,São Paulo,4,2,Sport,False,False,first
 244,1997-10-04,Bahia,0,2,Atlético-MG,False,False,first
 245,1997-10-04,Guarani,1,1,Internacional,False,False,first
-246,1997-10-04,Portuguesa,1,1,Santos,False,False,first
-247,1997-10-05,Vasco,2,1,Atlético-PR,False,False,first
+246,1997-10-04,Portuguesa-SP,1,1,Santos,False,False,first
+247,1997-10-05,Vasco da Gama,2,1,Atlético-PR,False,False,first
 248,1997-11-05,Juventude,2,1,Bragantino,False,False,first
 249,1997-10-29,Fluminense,2,0,Criciúma,False,False,first
 250,1997-10-07,Flamengo,3,2,Grêmio,False,False,first
 251,1997-10-08,Coritiba,1,1,Palmeiras,False,False,first
-252,1997-10-08,Cruzeiro,0,0,Vasco,False,False,first
+252,1997-10-08,Cruzeiro,0,0,Vasco da Gama,False,False,first
 253,1997-10-11,Flamengo,1,0,São Paulo,False,False,first
-254,1997-10-11,Coritiba,1,3,Vasco,False,False,first
+254,1997-10-11,Coritiba,1,3,Vasco da Gama,False,False,first
 255,1997-10-11,Corinthians,0,1,Paraná,False,False,first
 256,1997-10-11,Santos,3,2,Guarani,False,False,first
 257,1997-10-11,Botafogo,2,1,Fluminense,False,False,first
-258,1997-10-11,Vitoria,3,1,Atlético-PR,False,False,first
+258,1997-10-11,Vitória,3,1,Atlético-PR,False,False,first
 259,1997-10-11,Atlético-MG,2,1,Grêmio,False,False,first
 260,1997-10-11,Sport,1,2,Juventude,False,False,first
-261,1997-10-11,Palmeiras,0,0,Portuguesa,False,False,first
+261,1997-10-11,Palmeiras,0,0,Portuguesa-SP,False,False,first
 262,1997-10-11,Bragantino,0,0,Cruzeiro,False,False,first
-263,1997-10-11,Uniao Sao Joao,0,2,Goias,False,False,first
-264,1997-10-11,Internacional,1,0,America,False,False,first
+263,1997-10-11,União São João,0,2,Goiás,False,False,first
+264,1997-10-11,Internacional,1,0,América-RN,False,False,first
 265,1997-10-11,Criciúma,2,0,Bahia,False,False,first
 266,1997-10-14,Santos,1,0,Corinthians,False,False,first
 267,1997-10-18,Cruzeiro,1,0,Corinthians,False,False,first
-268,1997-10-18,Goias,2,2,Fluminense,False,False,first
+268,1997-10-18,Goiás,2,2,Fluminense,False,False,first
 269,1997-10-18,Flamengo,0,0,Palmeiras,False,False,first
-270,1997-10-18,Juventude,0,0,Portuguesa,False,False,first
+270,1997-10-18,Juventude,0,0,Portuguesa-SP,False,False,first
 271,1997-10-19,São Paulo,0,0,Coritiba,False,False,first
-272,1997-10-18,America,3,2,Bragantino,False,False,first
+272,1997-10-18,América-RN,3,2,Bragantino,False,False,first
 273,1997-10-18,Grêmio,1,0,Criciúma,False,False,first
-274,1997-10-19,Paraná,1,2,Vitoria,False,False,first
+274,1997-10-19,Paraná,1,2,Vitória,False,False,first
 275,1997-10-19,Atlético-PR,1,1,Santos,False,False,first
 276,1997-10-18,Guarani,1,1,Sport,False,False,first
-277,1997-10-19,Vasco,1,0,Botafogo,False,False,first
-278,1997-10-18,Atlético-MG,5,3,Uniao Sao Joao,False,False,first
-279,1997-10-21,Portuguesa,3,2,Cruzeiro,False,False,first
+277,1997-10-19,Vasco da Gama,1,0,Botafogo,False,False,first
+278,1997-10-18,Atlético-MG,5,3,União São João,False,False,first
+279,1997-10-21,Portuguesa-SP,3,2,Cruzeiro,False,False,first
 280,1997-10-21,Fluminense,1,0,Corinthians,False,False,first
 281,1997-10-22,Palmeiras,3,1,Atlético-PR,False,False,first
 282,1997-10-21,Bahia,1,4,Internacional,False,False,first
 283,1997-10-25,Internacional,4,0,Flamengo,False,False,first
 284,1997-10-25,Santos,3,1,Bahia,False,False,first
-285,1997-10-25,Portuguesa,1,2,Goias,False,False,first
-286,1997-10-26,Criciúma,3,4,Vasco,False,False,first
+285,1997-10-25,Portuguesa-SP,1,2,Goiás,False,False,first
+286,1997-10-26,Criciúma,3,4,Vasco da Gama,False,False,first
 287,1997-10-26,Botafogo,0,0,Paraná,False,False,first
 288,1997-10-25,Palmeiras,5,1,Grêmio,False,False,first
-289,1997-10-26,São Paulo,7,1,Uniao Sao Joao,False,False,first
+289,1997-10-26,São Paulo,7,1,União São João,False,False,first
 290,1997-10-25,Sport,2,1,Bragantino,False,False,first
 291,1997-10-25,Guarani,0,0,Juventude,False,False,first
 292,1997-10-26,Coritiba,0,2,Atlético-PR,False,False,first
-293,1997-10-25,Vitoria,1,1,Cruzeiro,False,False,first
-294,1997-10-25,Atlético-MG,3,2,America,False,False,first
-295,1997-10-30,Flamengo,1,0,Vitoria,False,False,first
+293,1997-10-25,Vitória,1,1,Cruzeiro,False,False,first
+294,1997-10-25,Atlético-MG,3,2,América-RN,False,False,first
+295,1997-10-30,Flamengo,1,0,Vitória,False,False,first
 296,1997-11-01,Atlético-PR,2,1,Internacional,False,False,first
 297,1997-11-01,Corinthians,0,1,Sport,False,False,first
 298,1997-11-01,Cruzeiro,2,3,Botafogo,False,False,first
-299,1997-11-01,Vitoria,2,0,Santos,False,False,first
+299,1997-11-01,Vitória,2,0,Santos,False,False,first
 300,1997-11-01,Juventude,1,1,Fluminense,False,False,first
-301,1997-11-01,Palmeiras,3,3,Goias,False,False,first
+301,1997-11-01,Palmeiras,3,3,Goiás,False,False,first
 302,1997-11-01,Flamengo,1,0,Coritiba,False,False,first
-303,1997-11-02,Vasco,3,1,Bahia,False,False,first
+303,1997-11-02,Vasco da Gama,3,1,Bahia,False,False,first
 304,1997-11-02,Paraná,1,0,Atlético-MG,False,False,first
-305,1997-11-01,Portuguesa,2,2,Criciúma,False,False,first
-306,1997-11-01,America,1,3,São Paulo,False,False,first
+305,1997-11-01,Portuguesa-SP,2,2,Criciúma,False,False,first
+306,1997-11-01,América-RN,1,3,São Paulo,False,False,first
 307,1997-11-01,Grêmio,1,4,Guarani,False,False,first
-308,1997-11-01,Bragantino,1,0,Uniao Sao Joao,False,False,first
-309,1997-11-05,Uniao Sao Joao,0,1,Guarani,False,False,first
+308,1997-11-01,Bragantino,1,0,União São João,False,False,first
+309,1997-11-05,União São João,0,1,Guarani,False,False,first
 310,1997-11-05,Corinthians,1,0,Flamengo,False,False,first
-311,1997-11-05,Santos,2,0,America,False,False,first
-312,1997-11-08,Guarani,3,2,Vasco,False,False,first
+311,1997-11-05,Santos,2,0,América-RN,False,False,first
+312,1997-11-08,Guarani,3,2,Vasco da Gama,False,False,first
 313,1997-11-08,Fluminense,0,2,Grêmio,False,False,first
 314,1997-11-08,Internacional,7,0,Bragantino,False,False,first
 315,1997-11-08,Criciúma,1,1,Atlético-PR,False,False,first
-316,1997-11-08,Coritiba,2,0,America,False,False,first
+316,1997-11-08,Coritiba,2,0,América-RN,False,False,first
 317,1997-11-08,São Paulo,4,4,Paraná,False,False,first
-318,1997-11-09,Botafogo,3,3,Portuguesa,False,False,first
-319,1997-11-09,Atlético-MG,3,2,Vitoria,False,False,first
+318,1997-11-09,Botafogo,3,3,Portuguesa-SP,False,False,first
+319,1997-11-09,Atlético-MG,3,2,Vitória,False,False,first
 320,1997-11-09,Bahia,0,0,Juventude,False,False,first
-321,1997-11-09,Flamengo,0,0,Uniao Sao Joao,False,False,first
+321,1997-11-09,Flamengo,0,0,União São João,False,False,first
 322,1997-11-09,Sport,1,1,Palmeiras,False,False,first
-323,1997-11-09,Goias,0,2,Corinthians,False,False,first
+323,1997-11-09,Goiás,0,2,Corinthians,False,False,first
 324,1997-11-09,Santos,2,2,Cruzeiro,False,False,first
-325,1997-11-15,Juventude,0,3,Vasco,False,False,second
+325,1997-11-15,Juventude,0,3,Vasco da Gama,False,False,second
 326,1997-11-16,Atlético-MG,2,0,Santos,False,False,second
-327,1997-11-16,Flamengo,1,0,Portuguesa,False,False,second
+327,1997-11-16,Flamengo,1,0,Portuguesa-SP,False,False,second
 328,1997-11-16,Palmeiras,1,0,Internacional,False,False,second
-329,1997-11-23,Portuguesa,2,0,Juventude,False,False,second
-330,1997-11-23,Vasco,1,1,Flamengo,False,False,second
+329,1997-11-23,Portuguesa-SP,2,0,Juventude,False,False,second
+330,1997-11-23,Vasco da Gama,1,1,Flamengo,False,False,second
 331,1997-11-23,Internacional,2,0,Atlético-MG,False,False,second
 332,1997-11-23,Santos,3,3,Palmeiras,False,False,second
 333,1997-11-26,Juventude,3,2,Flamengo,False,False,second
 334,1997-11-26,Atlético-MG,0,1,Palmeiras,False,False,second
-335,1997-11-26,Vasco,2,1,Portuguesa,False,False,second
+335,1997-11-26,Vasco da Gama,2,1,Portuguesa-SP,False,False,second
 336,1997-11-26,Santos,4,0,Internacional,False,False,second
-337,1997-11-29,Portuguesa,1,3,Vasco,False,False,second
+337,1997-11-29,Portuguesa-SP,1,3,Vasco da Gama,False,False,second
 338,1997-11-30,Internacional,4,1,Santos,False,False,second
 339,1997-11-30,Flamengo,2,0,Juventude,False,False,second
 340,1997-11-30,Palmeiras,3,1,Atlético-MG,False,False,second
-341,1997-12-03,Flamengo,1,4,Vasco,False,False,second
-342,1997-12-03,Juventude,2,1,Portuguesa,False,False,second
+341,1997-12-03,Flamengo,1,4,Vasco da Gama,False,False,second
+342,1997-12-03,Juventude,2,1,Portuguesa-SP,False,False,second
 343,1997-12-03,Palmeiras,1,0,Santos,False,False,second
 344,1997-12-03,Atlético-MG,3,2,Internacional,False,False,second
-345,1997-12-06,Portuguesa,0,0,Flamengo,False,False,second
+345,1997-12-06,Portuguesa-SP,0,0,Flamengo,False,False,second
 346,1997-12-06,Santos,1,0,Atlético-MG,False,False,second
 347,1997-12-06,Internacional,0,1,Palmeiras,False,False,second
-348,1997-12-07,Vasco,1,1,Juventude,False,False,second
-349,1997-12-14,Palmeiras,0,0,Vasco,False,False,final
-350,1997-12-21,Vasco,0,0,Palmeiras,False,False,final
+348,1997-12-07,Vasco da Gama,1,1,Juventude,False,False,second
+349,1997-12-14,Palmeiras,0,0,Vasco da Gama,False,False,final
+350,1997-12-21,Vasco da Gama,0,0,Palmeiras,False,False,final

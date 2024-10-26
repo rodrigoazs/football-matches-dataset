@@ -44,16 +44,16 @@
 42,1979-11-03,Colorado,2,0,Goiânia,False,False,first
 43,1979-11-03,Anapolina,4,0,Confiança,False,False,first
 44,1979-11-03,Novo Hamburgo,1,1,Avaí,False,False,first
-45,1979-09-23,Colatina,0,0,Brasil,False,False,first
+45,1979-09-23,Colatina,0,0,GE Brasil,False,False,first
 46,1979-09-23,Caxias,0,1,Caldense,False,False,first
 47,1979-09-23,Grêmio Maringá,2,0,Desportiva,False,False,first
 48,1979-09-26,São Paulo-RS,1,2,Desportiva,False,False,first
 49,1979-09-26,Grêmio Maringá,3,2,Caldense,False,False,first
-50,1979-09-26,Operário-PR,1,1,Brasil,False,False,first
+50,1979-09-26,Operário-PR,1,1,GE Brasil,False,False,first
 51,1979-09-28,Grêmio Maringá,0,0,Caxias,False,False,first
 52,1979-09-29,Desportiva,0,0,Chapecoense,False,False,first
 53,1979-09-30,Criciúma,4,0,Operário-PR,False,False,first
-54,1979-09-30,Brasil,0,0,Grêmio Maringá,False,False,first
+54,1979-09-30,GE Brasil,0,0,Grêmio Maringá,False,False,first
 55,1979-09-30,Colatina,0,1,São Paulo-RS,False,False,first
 56,1979-10-03,Criciúma,2,0,Caldense,False,False,first
 57,1979-10-03,Colatina,1,1,Chapecoense,False,False,first
@@ -63,17 +63,17 @@
 61,1979-10-06,Caldense,1,0,São Paulo-RS,False,False,first
 62,1979-10-06,Criciúma,0,0,Caxias,False,False,first
 63,1979-10-10,Grêmio Maringá,2,0,Colatina,False,False,first
-64,1979-10-10,Caxias,0,0,Brasil,False,False,first
+64,1979-10-10,Caxias,0,0,GE Brasil,False,False,first
 65,1979-10-10,Chapecoense,1,2,São Paulo-RS,False,False,first
 66,1979-10-14,Caldense,2,0,Chapecoense,False,False,first
 67,1979-10-14,Operário-PR,1,0,Colatina,False,False,first
-68,1979-10-14,Brasil,3,0,Criciúma,False,False,first
-69,1979-10-17,Brasil,2,0,Caldense,False,False,first
+68,1979-10-14,GE Brasil,3,0,Criciúma,False,False,first
+69,1979-10-17,GE Brasil,2,0,Caldense,False,False,first
 70,1979-10-17,Desportiva,1,0,Criciúma,False,False,first
 71,1979-10-17,Colatina,0,1,Caxias,False,False,first
 72,1979-10-17,Chapecoense,2,3,Grêmio Maringá,False,False,first
 73,1979-10-20,Criciúma,0,1,Colatina,False,False,first
-74,1979-10-20,Brasil,1,1,Desportiva,False,False,first
+74,1979-10-20,GE Brasil,1,1,Desportiva,False,False,first
 75,1979-10-20,São Paulo-RS,2,1,Caxias,False,False,first
 76,1979-10-21,Operário-PR,1,0,Chapecoense,False,False,first
 77,1979-10-23,Criciúma,2,1,São Paulo-RS,False,False,first
@@ -81,11 +81,11 @@
 79,1979-10-23,Desportiva,2,0,Caldense,False,False,first
 80,1979-10-25,Caxias,5,1,Chapecoense,False,False,first
 81,1979-10-28,Colatina,0,0,Desportiva,False,False,first
-82,1979-10-28,São Paulo-RS,1,1,Brasil,False,False,first
+82,1979-10-28,São Paulo-RS,1,1,GE Brasil,False,False,first
 83,1979-10-28,Caldense,1,0,Operário-PR,False,False,first
 84,1979-10-28,Chapecoense,0,1,Criciúma,False,False,first
 85,1979-11-03,Grêmio Maringá,2,0,Criciúma,False,False,first
-86,1979-11-03,Chapecoense,1,1,Brasil,False,False,first
+86,1979-11-03,Chapecoense,1,1,GE Brasil,False,False,first
 87,1979-11-03,Desportiva,2,1,Caxias,False,False,first
 88,1979-11-03,Caldense,3,0,Colatina,False,False,first
 89,1979-11-03,São Paulo-RS,0,1,Operário-PR,False,False,first
@@ -270,21 +270,21 @@
 268,1979-11-03,CSA,3,1,ABC,False,False,first
 269,1979-09-23,Atlético-PR,0,0,Internacional-RS,False,False,first
 270,1979-09-23,Grêmio,4,1,Coritiba,False,False,first
-271,1979-09-23,Operário-MS,4,0,Rio Branco,False,False,first
+271,1979-09-23,Operário-MS,4,0,Rio Branco-ES,False,False,first
 272,1979-09-26,Grêmio,4,0,Sport,False,False,first
 273,1979-09-26,Atlético-PR,0,2,Operário-MS,False,False,first
 274,1979-09-26,Santa Cruz,1,2,Internacional-RS,False,False,first
 275,1979-09-30,Internacional-RS,1,0,Figueirense,False,False,first
 276,1979-09-30,Santa Cruz,0,0,Coritiba,False,False,first
-277,1979-09-30,Rio Branco,0,0,Grêmio,False,False,first
+277,1979-09-30,Rio Branco-ES,0,0,Grêmio,False,False,first
 278,1979-10-03,Sport,2,2,Figueirense,False,False,first
 279,1979-10-03,Operário-MS,0,3,Grêmio,False,False,first
-280,1979-10-03,Rio Branco,1,1,Atlético-PR,False,False,first
-281,1979-10-06,Rio Branco,2,0,Sport,False,False,first
+280,1979-10-03,Rio Branco-ES,1,1,Atlético-PR,False,False,first
+281,1979-10-06,Rio Branco-ES,2,0,Sport,False,False,first
 282,1979-10-06,Coritiba,1,1,Atlético-PR,False,False,first
 283,1979-10-06,América-RJ,3,0,Operário-MS,False,False,first
 284,1979-10-06,Internacional-RS,1,0,Grêmio,False,False,first
-285,1979-10-10,América-RJ,3,1,Rio Branco,False,False,first
+285,1979-10-10,América-RJ,3,1,Rio Branco-ES,False,False,first
 286,1979-10-11,Sport,0,3,Internacional-RS,False,False,first
 287,1979-10-13,Atlético-PR,0,1,Santa Cruz,False,False,first
 288,1979-10-13,Coritiba,0,3,Internacional-RS,False,False,first
@@ -294,96 +294,96 @@
 292,1979-10-17,América-RJ,1,0,Figueirense,False,False,first
 293,1979-10-17,Operário-MS,2,0,Coritiba,False,False,first
 294,1979-10-18,Sport,2,2,Atlético-PR,False,False,first
-295,1979-10-20,Coritiba,1,1,Rio Branco,False,False,first
+295,1979-10-20,Coritiba,1,1,Rio Branco-ES,False,False,first
 296,1979-10-20,Santa Cruz,0,1,Sport,False,False,first
 297,1979-10-20,Internacional-RS,1,1,América-RJ,False,False,first
 298,1979-10-21,Figueirense,2,1,Grêmio,False,False,first
-299,1979-10-23,Rio Branco,1,1,Figueirense,False,False,first
+299,1979-10-23,Rio Branco-ES,1,1,Figueirense,False,False,first
 300,1979-10-25,Santa Cruz,1,0,América-RJ,False,False,first
 301,1979-10-25,Atlético-PR,1,0,Grêmio,False,False,first
 302,1979-10-25,Operário-MS,1,0,Sport,False,False,first
 303,1979-10-28,Coritiba,1,0,Figueirense,False,False,first
 304,1979-10-28,Sport,0,2,América-RJ,False,False,first
-305,1979-10-28,Internacional-RS,5,1,Rio Branco,False,False,first
+305,1979-10-28,Internacional-RS,5,1,Rio Branco-ES,False,False,first
 306,1979-10-28,Operário-MS,0,5,Santa Cruz,False,False,first
 307,1979-10-30,Coritiba,2,0,Sport,False,False,first
 308,1979-10-30,Figueirense,1,1,Santa Cruz,False,False,first
 309,1979-11-01,América-RJ,1,3,Atlético-PR,False,False,first
 310,1979-11-03,América-RJ,3,0,Coritiba,False,False,first
-311,1979-11-03,Santa Cruz,3,3,Rio Branco,False,False,first
+311,1979-11-03,Santa Cruz,3,3,Rio Branco-ES,False,False,first
 312,1979-11-03,Figueirense,1,0,Atlético-PR,False,False,first
 313,1979-11-03,Internacional-RS,2,2,Operário-MS,False,False,first
 314,1979-09-23,Remo,1,2,Dom Bosco,False,False,first
-315,1979-09-23,Vila Nova-GO,0,1,Cruzeiro,False,False,first
+315,1979-09-23,Vila Nova,0,1,Cruzeiro,False,False,first
 316,1979-09-23,Atlético-MG,0,0,Goiás,False,False,first
 317,1979-09-27,Dom Bosco,0,1,Goiás,False,False,first
 318,1979-09-30,Cruzeiro,1,1,Dom Bosco,False,False,first
-319,1979-09-30,Vila Nova-GO,2,1,Remo,False,False,first
-320,1979-09-30,Nacional,0,0,Atlético-MG,False,False,first
-321,1979-10-03,Nacional,0,0,Vitória,False,False,first
+319,1979-09-30,Vila Nova,2,1,Remo,False,False,first
+320,1979-09-30,Nacional-AM,0,0,Atlético-MG,False,False,first
+321,1979-10-03,Nacional-AM,0,0,Vitória,False,False,first
 322,1979-10-03,Ceará,4,1,Remo,False,False,first
 323,1979-10-03,Bahia,2,1,Dom Bosco,False,False,first
 324,1979-10-04,Goiás,3,1,Cruzeiro,False,False,first
-325,1979-10-04,Atlético-MG,0,0,Vila Nova-GO,False,False,first
+325,1979-10-04,Atlético-MG,0,0,Vila Nova,False,False,first
 326,1979-10-06,Atlético-MG,1,1,Cruzeiro,False,False,first
 327,1979-10-06,Bahia,1,2,Vitória,False,False,first
-328,1979-10-06,Remo,3,0,Nacional,False,False,first
-329,1979-10-06,Vila Nova-GO,2,1,Goiás,False,False,first
+328,1979-10-06,Remo,3,0,Nacional-AM,False,False,first
+329,1979-10-06,Vila Nova,2,1,Goiás,False,False,first
 330,1979-10-06,Dom Bosco,2,5,Ceará,False,False,first
-331,1979-10-10,Vitória,0,0,Vila Nova-GO,False,False,first
+331,1979-10-10,Vitória,0,0,Vila Nova,False,False,first
 332,1979-10-10,Cruzeiro,3,0,Remo,False,False,first
 333,1979-10-10,Ceará,3,1,Bahia,False,False,first
-334,1979-10-11,Goiás,2,0,Nacional,False,False,first
-335,1979-10-14,Nacional,1,0,Bahia,False,False,first
+334,1979-10-11,Goiás,2,0,Nacional-AM,False,False,first
+335,1979-10-14,Nacional-AM,1,0,Bahia,False,False,first
 336,1979-10-14,Atlético-MG,3,1,Ceará,False,False,first
 337,1979-10-14,Vitória,2,4,Cruzeiro,False,False,first
-338,1979-10-14,Vila Nova-GO,1,1,Dom Bosco,False,False,first
+338,1979-10-14,Vila Nova,1,1,Dom Bosco,False,False,first
 339,1979-10-17,Bahia,1,0,Goiás,False,False,first
-340,1979-10-17,Ceará,2,4,Vila Nova-GO,False,False,first
+340,1979-10-17,Ceará,2,4,Vila Nova,False,False,first
 341,1979-10-17,Remo,2,2,Atlético-MG,False,False,first
-342,1979-10-17,Cruzeiro,4,1,Nacional,False,False,first
-343,1979-10-20,Dom Bosco,2,1,Nacional,False,False,first
+342,1979-10-17,Cruzeiro,4,1,Nacional-AM,False,False,first
+343,1979-10-20,Dom Bosco,2,1,Nacional-AM,False,False,first
 344,1979-10-20,Ceará,0,2,Goiás,False,False,first
 345,1979-10-20,Bahia,0,1,Atlético-MG,False,False,first
 346,1979-10-21,Remo,1,1,Vitória,False,False,first
 347,1979-10-23,Vitória,4,1,Ceará,False,False,first
 348,1979-10-25,Cruzeiro,5,0,Bahia,False,False,first
-349,1979-10-27,Nacional,1,1,Ceará,False,False,first
+349,1979-10-27,Nacional-AM,1,1,Ceará,False,False,first
 350,1979-10-28,Atlético-MG,1,1,Vitória,False,False,first
-351,1979-10-28,Vila Nova-GO,0,0,Bahia,False,False,first
+351,1979-10-28,Vila Nova,0,0,Bahia,False,False,first
 352,1979-10-30,Remo,1,0,Goiás,False,False,first
 353,1979-11-01,Vitória,0,2,Dom Bosco,False,False,first
 354,1979-11-03,Bahia,1,0,Remo,False,False,first
-355,1979-11-03,Nacional,2,4,Vila Nova-GO,False,False,first
+355,1979-11-03,Nacional-AM,2,4,Vila Nova,False,False,first
 356,1979-11-03,Dom Bosco,1,1,Atlético-MG,False,False,first
 357,1979-11-03,Ceará,1,1,Cruzeiro,False,False,first
 358,1979-11-03,Goiás,1,0,Vitória,False,False,first
 359,1979-11-07,Colorado,2,1,América-RJ,False,False,second
-360,1979-11-07,Brasil,0,1,Coritiba,False,False,second
+360,1979-11-07,GE Brasil,0,1,Coritiba,False,False,second
 361,1979-11-08,Campinense,1,1,Atlético-MG,False,False,second
 362,1979-11-08,Mixto,0,1,Francana,False,False,second
-363,1979-11-11,Francana,2,1,Brasil,False,False,second
+363,1979-11-11,Francana,2,1,GE Brasil,False,False,second
 364,1979-11-11,Atlético-MG,2,1,Colorado,False,False,second
 365,1979-11-12,Coritiba,5,0,Mixto,False,False,second
 366,1979-11-12,América-RJ,0,1,Campinense,False,False,second
 367,1979-11-15,América-RJ,4,1,Francana,False,False,second
-368,1979-11-15,Colorado,1,1,Brasil,False,False,second
+368,1979-11-15,Colorado,1,1,GE Brasil,False,False,second
 369,1979-11-15,Mixto,0,2,Atlético-MG,False,False,second
 370,1979-11-17,Atlético-MG,1,0,Coritiba,False,False,second
 371,1979-11-17,Mixto,0,0,Campinense,False,False,second
-372,1979-11-18,Brasil,1,1,América-RJ,False,False,second
+372,1979-11-18,GE Brasil,1,1,América-RJ,False,False,second
 373,1979-11-18,Colorado,2,1,Francana,False,False,second
-374,1979-11-21,Brasil,2,1,Atlético-MG,False,False,second
+374,1979-11-21,GE Brasil,2,1,Atlético-MG,False,False,second
 375,1979-11-21,Coritiba,1,0,Colorado,False,False,second
 376,1979-11-21,Francana,1,0,Campinense,False,False,second
 377,1979-11-22,América-RJ,6,1,Mixto,False,False,second
 378,1979-11-25,Coritiba,2,1,Francana,False,False,second
 379,1979-11-25,Mixto,3,2,Colorado,False,False,second
 380,1979-11-25,Atlético-MG,2,1,América-RJ,False,False,second
-381,1979-11-25,Campinense,2,0,Brasil,False,False,second
+381,1979-11-25,Campinense,2,0,GE Brasil,False,False,second
 382,1979-11-28,Campinense,2,1,Colorado,False,False,second
 383,1979-11-28,Francana,0,0,Atlético-MG,False,False,second
-384,1979-11-28,Brasil,3,0,Mixto,False,False,second
+384,1979-11-28,GE Brasil,3,0,Mixto,False,False,second
 385,1979-11-28,América-RJ,1,1,Coritiba,False,False,second
 386,1979-11-30,Campinense,0,1,Coritiba,False,False,second
 387,1979-11-07,Botafogo,6,1,São Bento,False,False,second
@@ -443,29 +443,29 @@
 441,1979-11-07,Santa Cruz,2,0,Gama,False,False,second
 442,1979-11-08,Grêmio,1,0,Náutico,False,False,second
 443,1979-11-08,Bahia,0,1,Londrina,False,False,second
-444,1979-11-08,Flamengo,3,0,XV de Novembro/P,False,False,second
+444,1979-11-08,Flamengo,3,0,XV de Novembro,False,False,second
 445,1979-11-11,Gama,0,2,Londrina,False,False,second
 446,1979-11-11,Santa Cruz,1,0,Bahia,False,False,second
 447,1979-11-11,Flamengo,2,0,Náutico,False,False,second
-448,1979-11-11,XV de Novembro/P,3,0,Grêmio,False,False,second
-449,1979-11-15,Náutico,2,1,XV de Novembro/P,False,False,second
+448,1979-11-11,XV de Novembro,3,0,Grêmio,False,False,second
+449,1979-11-15,Náutico,2,1,XV de Novembro,False,False,second
 450,1979-11-15,Gama,1,2,Flamengo,False,False,second
 451,1979-11-15,Grêmio,2,0,Bahia,False,False,second
 452,1979-11-15,Londrina,6,2,Santa Cruz,False,False,second
 453,1979-11-18,Santa Cruz,2,0,Náutico,False,False,second
-454,1979-11-18,XV de Novembro/P,2,1,Londrina,False,False,second
+454,1979-11-18,XV de Novembro,2,1,Londrina,False,False,second
 455,1979-11-18,Flamengo,2,0,Grêmio,False,False,second
 456,1979-11-18,Bahia,2,1,Gama,False,False,second
 457,1979-11-21,Náutico,0,1,Bahia,False,False,second
 458,1979-11-21,Grêmio,2,0,Santa Cruz,False,False,second
-459,1979-11-21,XV de Novembro/P,5,0,Gama,False,False,second
+459,1979-11-21,XV de Novembro,5,0,Gama,False,False,second
 460,1979-11-21,Londrina,1,1,Flamengo,False,False,second
 461,1979-11-25,Gama,0,3,Grêmio,False,False,second
-462,1979-11-25,Bahia,1,2,XV de Novembro/P,False,False,second
+462,1979-11-25,Bahia,1,2,XV de Novembro,False,False,second
 463,1979-11-25,Santa Cruz,0,0,Flamengo,False,False,second
 464,1979-11-25,Londrina,4,2,Náutico,False,False,second
 465,1979-11-28,Flamengo,4,0,Bahia,False,False,second
-466,1979-11-28,XV de Novembro/P,2,1,Santa Cruz,False,False,second
+466,1979-11-28,XV de Novembro,2,1,Santa Cruz,False,False,second
 467,1979-11-28,Náutico,2,2,Gama,False,False,second
 468,1979-11-28,Grêmio,1,0,Londrina,False,False,second
 469,1979-11-07,Ceará,2,1,Central,False,False,second
@@ -496,34 +496,34 @@
 494,1979-11-28,Goiás,1,0,Ceará,False,False,second
 495,1979-11-28,Botafogo-PB,1,1,Operário-MT,False,False,second
 496,1979-11-28,ASA,0,1,Vasco da Gama,False,False,second
-497,1979-11-08,Vila Nova-GO,2,0,Vitória,False,False,second
-498,1979-11-08,Maranhão,1,0,XV de Novembro/J,False,False,second
+497,1979-11-08,Vila Nova,2,0,Vitória,False,False,second
+498,1979-11-08,Maranhão,1,0,XV de Novembro de Jaú,False,False,second
 499,1979-11-08,Campo Grande,1,1,Fluminense,False,False,second
-500,1979-11-11,XV de Novembro/J,2,2,Fluminense,False,False,second
-501,1979-11-11,Itabaiana,1,1,Vila Nova-GO,False,False,second
+500,1979-11-11,XV de Novembro de Jaú,2,2,Fluminense,False,False,second
+501,1979-11-11,Itabaiana,1,1,Vila Nova,False,False,second
 502,1979-11-11,Campo Grande,5,0,Maranhão,False,False,second
 503,1979-11-11,Vitória,3,0,Uberlândia,False,False,second
-504,1979-11-15,Vila Nova-GO,2,2,Fluminense,False,False,second
+504,1979-11-15,Vila Nova,2,2,Fluminense,False,False,second
 505,1979-11-15,Uberlândia,2,1,Campo Grande,False,False,second
-506,1979-11-15,Vitória,3,1,XV de Novembro/J,False,False,second
+506,1979-11-15,Vitória,3,1,XV de Novembro de Jaú,False,False,second
 507,1979-11-15,Maranhão,1,0,Itabaiana,False,False,second
-508,1979-11-17,Vila Nova-GO,0,0,XV de Novembro/J,False,False,second
+508,1979-11-17,Vila Nova,0,0,XV de Novembro de Jaú,False,False,second
 509,1979-11-17,Fluminense,2,1,Vitória,False,False,second
 510,1979-11-18,Maranhão,0,1,Uberlândia,False,False,second
 511,1979-11-18,Campo Grande,2,1,Itabaiana,False,False,second
-512,1979-11-21,Campo Grande,0,0,Vila Nova-GO,False,False,second
+512,1979-11-21,Campo Grande,0,0,Vila Nova,False,False,second
 513,1979-11-21,Fluminense,5,0,Itabaiana,False,False,second
 514,1979-11-21,Vitória,2,1,Maranhão,False,False,second
-515,1979-11-21,XV de Novembro/J,1,2,Uberlândia,False,False,second
+515,1979-11-21,XV de Novembro de Jaú,1,2,Uberlândia,False,False,second
 516,1979-11-23,Uberlândia,3,0,Itabaiana,False,False,second
 517,1979-11-25,Itabaiana,1,2,Vitória,False,False,second
 518,1979-11-25,Uberlândia,0,0,Fluminense,False,False,second
-519,1979-11-25,Maranhão,0,1,Vila Nova-GO,False,False,second
-520,1979-11-25,Campo Grande,1,2,XV de Novembro/J,False,False,second
-521,1979-11-28,XV de Novembro/J,2,1,Itabaiana,False,False,second
+519,1979-11-25,Maranhão,0,1,Vila Nova,False,False,second
+520,1979-11-25,Campo Grande,1,2,XV de Novembro de Jaú,False,False,second
+521,1979-11-28,XV de Novembro de Jaú,2,1,Itabaiana,False,False,second
 522,1979-11-28,Vitória,1,0,Campo Grande,False,False,second
 523,1979-11-29,Fluminense,6,0,Maranhão,False,False,second
-524,1979-11-29,Vila Nova-GO,0,0,Uberlândia,False,False,second
+524,1979-11-29,Vila Nova,0,0,Uberlândia,False,False,second
 525,1979-11-07,CSA,1,0,Villa Nova-MG,False,False,second
 526,1979-11-07,Cruzeiro,4,0,Dom Bosco,False,False,second
 527,1979-11-07,Comercial-SP,1,0,Uberaba,False,False,second
@@ -552,11 +552,11 @@
 550,1979-11-28,Comercial-SP,1,0,CSA,False,False,second
 551,1979-11-28,Dom Bosco,0,1,Uberaba,False,False,second
 552,1979-11-29,Cruzeiro,1,0,Leônico,False,False,second
-553,1979-12-02,XV de Novembro/P,0,2,Guarani,False,False,third
+553,1979-12-02,XV de Novembro,0,2,Guarani,False,False,third
 554,1979-12-04,Coritiba,4,0,Vitória,False,False,third
-555,1979-12-06,Vitória,3,1,XV de Novembro/P,False,False,third
+555,1979-12-06,Vitória,3,1,XV de Novembro,False,False,third
 556,1979-12-06,Guarani,0,0,Coritiba,False,False,third
-557,1979-12-08,Coritiba,1,0,XV de Novembro/P,False,False,third
+557,1979-12-08,Coritiba,1,0,XV de Novembro,False,False,third
 558,1979-12-08,Vitória,3,0,Guarani,False,False,third
 559,1979-12-02,Palmeiras,5,1,Comercial-SP,False,False,third
 560,1979-12-02,Flamengo,4,0,São Bento,False,False,third

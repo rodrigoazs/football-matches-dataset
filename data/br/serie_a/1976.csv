@@ -1,147 +1,147 @@
 ,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 0,1976-09-01,Internacional,6,0,Figueirense,False,False,first
 1,1976-09-01,Santos,2,1,Caxias,False,False,first
-2,1976-09-01,Rio Branco,1,4,Grêmio,False,False,first
+2,1976-09-01,Rio Branco-ES,1,4,Grêmio,False,False,first
 3,1976-09-04,Grêmio,1,0,Caxias,False,False,first
 4,1976-09-04,Desportiva,0,1,Palmeiras,False,False,first
 5,1976-09-04,Figueirense,1,4,Santos,False,False,first
 6,1976-09-07,Palmeiras,0,1,Santos,False,False,first
 7,1976-09-07,Internacional,3,1,Grêmio,False,False,first
-8,1976-09-07,Desportiva,2,1,Rio Branco,False,False,first
+8,1976-09-07,Desportiva,2,1,Rio Branco-ES,False,False,first
 9,1976-09-08,Figueirense,1,0,Avaí,False,False,first
 10,1976-09-11,Palmeiras,4,0,Figueirense,False,False,first
 11,1976-09-12,Grêmio,0,0,Santos,False,False,first
 12,1976-09-12,Caxias,2,1,Internacional,False,False,first
 13,1976-09-12,Desportiva,0,3,Avaí,False,False,first
-14,1976-09-15,Rio Branco,0,0,Figueirense,False,False,first
+14,1976-09-15,Rio Branco-ES,0,0,Figueirense,False,False,first
 15,1976-09-15,Caxias,0,0,Palmeiras,False,False,first
 16,1976-09-15,Santos,0,0,Avaí,False,False,first
 17,1976-09-18,Desportiva,1,0,Figueirense,False,False,first
 18,1976-09-19,Avaí,0,4,Internacional,False,False,first
-19,1976-09-19,Rio Branco,0,1,Santos,False,False,first
+19,1976-09-19,Rio Branco-ES,0,1,Santos,False,False,first
 20,1976-09-19,Palmeiras,0,0,Grêmio,False,False,first
-21,1976-09-22,Palmeiras,1,0,Rio Branco,False,False,first
+21,1976-09-22,Palmeiras,1,0,Rio Branco-ES,False,False,first
 22,1976-09-22,Desportiva,1,4,Internacional,False,False,first
 23,1976-09-22,Caxias,1,0,Avaí,False,False,first
 24,1976-09-23,Figueirense,0,2,Grêmio,False,False,first
-25,1976-09-25,Avaí,2,1,Rio Branco,False,False,first
+25,1976-09-25,Avaí,2,1,Rio Branco-ES,False,False,first
 26,1976-09-26,Grêmio,3,1,Desportiva,False,False,first
 27,1976-09-26,Santos,1,3,Internacional,False,False,first
 28,1976-09-26,Figueirense,1,0,Caxias,False,False,first
-29,1976-09-29,Internacional,3,0,Rio Branco,False,False,first
+29,1976-09-29,Internacional,3,0,Rio Branco-ES,False,False,first
 30,1976-09-29,Avaí,0,1,Palmeiras,False,False,first
 31,1976-09-29,Caxias,2,0,Desportiva,False,False,first
-32,1976-10-02,Rio Branco,0,2,Caxias,False,False,first
+32,1976-10-02,Rio Branco-ES,0,2,Caxias,False,False,first
 33,1976-10-03,Santos,0,0,Desportiva,False,False,first
 34,1976-10-03,Avaí,0,3,Grêmio,False,False,first
 35,1976-10-03,Internacional,1,0,Palmeiras,False,False,first
 36,1976-08-29,Coritiba,0,2,São Paulo,False,False,first
 37,1976-08-29,Londrina,0,3,Atlético-PR,False,False,first
-38,1976-08-29,Confiança,2,1,Portuguesa,False,False,first
+38,1976-08-29,Confiança,2,1,Portuguesa-SP,False,False,first
 39,1976-09-01,Londrina,0,0,São Paulo,False,False,first
 40,1976-09-01,Uberaba,0,0,Atlético-PR,False,False,first
-41,1976-09-04,São Paulo,0,0,Portuguesa,False,False,first
+41,1976-09-04,São Paulo,0,0,Portuguesa-SP,False,False,first
 42,1976-09-04,Cruzeiro,0,0,Botafogo-SP,False,False,first
 43,1976-09-05,Confiança,1,0,Londrina,False,False,first
 44,1976-09-07,Uberaba,0,1,Botafogo-SP,False,False,first
-45,1976-09-07,Cruzeiro,2,1,Portuguesa,False,False,first
+45,1976-09-07,Cruzeiro,2,1,Portuguesa-SP,False,False,first
 46,1976-09-08,Coritiba,2,1,Atlético-PR,False,False,first
 47,1976-09-08,Confiança,1,1,São Paulo,False,False,first
 48,1976-09-12,Botafogo-SP,2,0,São Paulo,False,False,first
 49,1976-09-12,Atlético-PR,1,1,Cruzeiro,False,False,first
-50,1976-09-12,Uberaba,1,0,Portuguesa,False,False,first
+50,1976-09-12,Uberaba,1,0,Portuguesa-SP,False,False,first
 51,1976-09-15,São Paulo,0,2,Atlético-PR,False,False,first
 52,1976-09-15,Confiança,1,1,Coritiba,False,False,first
 53,1976-09-16,Londrina,1,1,Cruzeiro,False,False,first
 54,1976-09-18,São Paulo,4,0,Uberaba,False,False,first
 55,1976-09-19,Londrina,1,0,Botafogo-SP,False,False,first
 56,1976-09-19,Cruzeiro,2,1,Coritiba,False,False,first
-57,1976-09-19,Atlético-PR,0,0,Portuguesa,False,False,first
+57,1976-09-19,Atlético-PR,0,0,Portuguesa-SP,False,False,first
 58,1976-09-22,Atlético-PR,1,0,Confiança,False,False,first
 59,1976-09-23,Coritiba,1,0,Uberaba,False,False,first
-60,1976-09-23,Portuguesa,3,1,Botafogo-SP,False,False,first
+60,1976-09-23,Portuguesa-SP,3,1,Botafogo-SP,False,False,first
 61,1976-09-25,Botafogo-SP,3,0,Confiança,False,False,first
 62,1976-09-26,Uberaba,1,1,Cruzeiro,False,False,first
 63,1976-09-26,Coritiba,1,0,Londrina,False,False,first
 64,1976-09-29,Botafogo-SP,1,0,Atlético-PR,False,False,first
 65,1976-09-29,Cruzeiro,2,0,Confiança,False,False,first
 66,1976-09-29,Uberaba,1,2,Londrina,False,False,first
-67,1976-09-29,Portuguesa,0,2,Coritiba,False,False,first
-68,1976-10-02,Portuguesa,1,1,Londrina,False,False,first
+67,1976-09-29,Portuguesa-SP,0,2,Coritiba,False,False,first
+68,1976-10-02,Portuguesa-SP,1,1,Londrina,False,False,first
 69,1976-10-03,Botafogo-SP,1,1,Coritiba,False,False,first
 70,1976-10-03,São Paulo,1,0,Cruzeiro,False,False,first
 71,1976-10-03,Confiança,1,1,Uberaba,False,False,first
 72,1976-08-29,Rio Negro,0,3,Guarani,False,False,first
 73,1976-08-29,Remo,2,0,Ceará,False,False,first
 74,1976-08-29,Corinthians,2,1,Fortaleza,False,False,first
-75,1976-09-01,Ponte Preta,1,1,Corinthians,False,False,first
+75,1976-09-01,Ponte Preta-SP,1,1,Corinthians,False,False,first
 76,1976-09-01,Remo,0,0,Guarani,False,False,first
 77,1976-09-01,Rio Negro,1,1,Ceará,False,False,first
-78,1976-09-02,Paysandu,3,0,Nacional,False,False,first
+78,1976-09-02,Paysandu,3,0,Nacional-AM,False,False,first
 79,1976-09-04,Ceará,0,0,Guarani,False,False,first
 80,1976-09-04,Fortaleza,1,0,Remo,False,False,first
-81,1976-09-07,Nacional,2,1,Rio Negro,False,False,first
+81,1976-09-07,Nacional-AM,2,1,Rio Negro,False,False,first
 82,1976-09-07,Ceará,0,1,Fortaleza,False,False,first
 83,1976-09-07,Remo,5,2,Paysandu,False,False,first
 84,1976-09-11,Paysandu,1,5,Fortaleza,False,False,first
 85,1976-09-12,Corinthians,0,1,Guarani,False,False,first
 86,1976-09-12,Remo,2,0,Rio Negro,False,False,first
-87,1976-09-12,Nacional,1,0,Ponte Preta,False,False,first
-88,1976-09-15,Paysandu,0,0,Ponte Preta,False,False,first
-89,1976-09-15,Nacional,0,0,Fortaleza,False,False,first
+87,1976-09-12,Nacional-AM,1,0,Ponte Preta-SP,False,False,first
+88,1976-09-15,Paysandu,0,0,Ponte Preta-SP,False,False,first
+89,1976-09-15,Nacional-AM,0,0,Fortaleza,False,False,first
 90,1976-09-16,Rio Negro,1,2,Corinthians,False,False,first
 91,1976-09-18,Guarani,1,1,Fortaleza,False,False,first
-92,1976-09-19,Nacional,1,0,Remo,False,False,first
-93,1976-09-19,Ponte Preta,2,0,Ceará,False,False,first
+92,1976-09-19,Nacional-AM,1,0,Remo,False,False,first
+93,1976-09-19,Ponte Preta-SP,2,0,Ceará,False,False,first
 94,1976-09-19,Paysandu,0,0,Corinthians,False,False,first
 95,1976-09-22,Ceará,0,2,Corinthians,False,False,first
-96,1976-09-22,Guarani,1,1,Nacional,False,False,first
+96,1976-09-22,Guarani,1,1,Nacional-AM,False,False,first
 97,1976-09-22,Rio Negro,2,0,Paysandu,False,False,first
-98,1976-09-23,Fortaleza,3,1,Ponte Preta,False,False,first
-99,1976-09-25,Corinthians,2,0,Nacional,False,False,first
+98,1976-09-23,Fortaleza,3,1,Ponte Preta-SP,False,False,first
+99,1976-09-25,Corinthians,2,0,Nacional-AM,False,False,first
 100,1976-09-25,Ceará,0,1,Paysandu,False,False,first
-101,1976-09-26,Ponte Preta,1,1,Remo,False,False,first
+101,1976-09-26,Ponte Preta-SP,1,1,Remo,False,False,first
 102,1976-09-26,Fortaleza,0,0,Rio Negro,False,False,first
-103,1976-09-29,Ponte Preta,1,1,Rio Negro,False,False,first
+103,1976-09-29,Ponte Preta-SP,1,1,Rio Negro,False,False,first
 104,1976-09-29,Corinthians,3,0,Remo,False,False,first
 105,1976-09-30,Guarani,2,0,Paysandu,False,False,first
-106,1976-09-30,Ceará,1,1,Nacional,False,False,first
-107,1976-10-03,Guarani,0,0,Ponte Preta,False,False,first
+106,1976-09-30,Ceará,1,1,Nacional-AM,False,False,first
+107,1976-10-03,Guarani,0,0,Ponte Preta-SP,False,False,first
 108,1976-08-29,América-MG,6,0,Goiânia,False,False,first
 109,1976-08-29,Mixto,1,1,Goiás,False,False,first
 110,1976-09-01,Vasco da Gama,1,0,América-MG,False,False,first
-111,1976-09-01,Mixto,1,1,Operário,False,False,first
+111,1976-09-01,Mixto,1,1,Operário-MT,False,False,first
 112,1976-09-01,Goiânia,1,1,Atlético-MG,False,False,first
 113,1976-09-01,Americano,1,2,Goiás,False,False,first
 114,1976-09-04,Vasco da Gama,1,0,Goiás,False,False,first
 115,1976-09-05,Americano,3,2,Mixto,False,False,first
-116,1976-09-05,Operário,1,1,América-RJ,False,False,first
+116,1976-09-05,Operário-MT,1,1,América-RJ,False,False,first
 117,1976-09-05,Atlético-MG,1,0,América-MG,False,False,first
 118,1976-09-07,Goiás,3,0,Goiânia,False,False,first
 119,1976-09-08,América-RJ,1,0,Mixto,False,False,first
 120,1976-09-08,Americano,2,3,Vasco da Gama,False,False,first
-121,1976-09-08,Operário,1,1,Atlético-MG,False,False,first
+121,1976-09-08,Operário-MT,1,1,Atlético-MG,False,False,first
 122,1976-09-11,América-RJ,2,1,Atlético-MG,False,False,first
 123,1976-09-12,Mixto,3,0,América-MG,False,False,first
 124,1976-09-12,Goiânia,2,4,Vasco da Gama,False,False,first
 125,1976-09-15,Mixto,1,0,Vasco da Gama,False,False,first
 126,1976-09-15,Atlético-MG,2,1,Goiás,False,False,first
 127,1976-09-15,Americano,0,0,América-RJ,False,False,first
-128,1976-09-16,Operário,5,3,Goiânia,False,False,first
+128,1976-09-16,Operário-MT,5,3,Goiânia,False,False,first
 129,1976-09-18,América-MG,0,1,Americano,False,False,first
 130,1976-09-19,Vasco da Gama,0,2,América-RJ,False,False,first
-131,1976-09-19,Goiás,1,1,Operário,False,False,first
+131,1976-09-19,Goiás,1,1,Operário-MT,False,False,first
 132,1976-09-19,Mixto,1,2,Goiânia,False,False,first
 133,1976-09-22,América-MG,0,0,América-RJ,False,False,first
-134,1976-09-22,Operário,0,0,Americano,False,False,first
+134,1976-09-22,Operário-MT,0,0,Americano,False,False,first
 135,1976-09-23,Atlético-MG,3,1,Mixto,False,False,first
 136,1976-09-25,Goiânia,0,0,Americano,False,False,first
 137,1976-09-26,Goiás,1,0,América-RJ,False,False,first
-138,1976-09-26,Operário,1,1,América-MG,False,False,first
+138,1976-09-26,Operário-MT,1,1,América-MG,False,False,first
 139,1976-09-26,Atlético-MG,3,0,Vasco da Gama,False,False,first
 140,1976-09-29,Americano,1,3,Atlético-MG,False,False,first
 141,1976-09-29,Goiás,2,1,América-MG,False,False,first
-142,1976-09-29,Vasco da Gama,0,1,Operário,False,False,first
+142,1976-09-29,Vasco da Gama,0,1,Operário-MT,False,False,first
 143,1976-09-29,América-RJ,3,1,Goiânia,False,False,first
 144,1976-08-29,Fluminense-BA,0,0,CSA,False,False,first
 145,1976-08-29,Treze,0,2,CRB,False,False,first
@@ -231,19 +231,19 @@
 229,1976-10-24,Fortaleza,2,1,América-RN,False,False,second
 230,1976-10-10,Coritiba,1,0,Sport,False,False,second
 231,1976-10-10,Grêmio,3,0,Corinthians,False,False,second
-232,1976-10-10,Operário,2,0,Botafogo,False,False,second
-233,1976-10-13,Grêmio,1,0,Operário,False,False,second
+232,1976-10-10,Operário-MT,2,0,Botafogo,False,False,second
+233,1976-10-13,Grêmio,1,0,Operário-MT,False,False,second
 234,1976-10-13,Botafogo,1,0,Sport,False,False,second
 235,1976-10-13,Corinthians,1,0,Coritiba,False,False,second
 236,1976-10-16,Corinthians,1,2,Botafogo,False,False,second
-237,1976-10-16,Sport,0,2,Operário,False,False,second
+237,1976-10-16,Sport,0,2,Operário-MT,False,False,second
 238,1976-10-17,Coritiba,1,1,Grêmio,False,False,second
-239,1976-10-20,Corinthians,3,1,Operário,False,False,second
+239,1976-10-20,Corinthians,3,1,Operário-MT,False,False,second
 240,1976-10-21,Grêmio,1,0,Sport,False,False,second
 241,1976-10-21,Botafogo,0,2,Coritiba,False,False,second
 242,1976-10-24,Sport,0,1,Corinthians,False,False,second
 243,1976-10-24,Botafogo,0,1,Grêmio,False,False,second
-244,1976-10-24,Operário,0,1,Coritiba,False,False,second
+244,1976-10-24,Operário-MT,0,1,Coritiba,False,False,second
 245,1976-10-09,Bahia,3,0,Santa Cruz,False,False,second
 246,1976-10-10,Santos,2,1,Atlético-PR,False,False,second
 247,1976-10-13,Remo,1,2,Santos,False,False,second
@@ -274,36 +274,36 @@
 272,1976-10-24,Guarani,6,1,América-RJ,False,False,second
 273,1976-10-24,Palmeiras,2,0,Vitória,False,False,second
 274,1976-10-24,São Paulo,1,2,Flamengo,False,False,second
-275,1976-10-10,Caxias,0,0,Rio Branco,False,False,second
+275,1976-10-10,Caxias,0,0,Rio Branco-ES,False,False,second
 276,1976-10-10,Figueirense,3,1,Desportiva,False,False,second
 277,1976-10-13,Desportiva,0,0,Caxias,False,False,second
-278,1976-10-14,Rio Branco,0,0,Avaí,False,False,second
-279,1976-10-17,Rio Branco,1,0,Desportiva,False,False,second
+278,1976-10-14,Rio Branco-ES,0,0,Avaí,False,False,second
+279,1976-10-17,Rio Branco-ES,1,0,Desportiva,False,False,second
 280,1976-10-17,Avaí,1,0,Figueirense,False,False,second
-281,1976-10-20,Figueirense,0,1,Rio Branco,False,False,second
+281,1976-10-20,Figueirense,0,1,Rio Branco-ES,False,False,second
 282,1976-10-21,Avaí,0,0,Caxias,False,False,second
 283,1976-10-24,Caxias,5,1,Figueirense,False,False,second
 284,1976-10-24,Avaí,1,0,Desportiva,False,False,second
-285,1976-10-09,Portuguesa,1,0,Uberaba,False,False,second
+285,1976-10-09,Portuguesa-SP,1,0,Uberaba,False,False,second
 286,1976-10-13,Londrina,1,2,Uberaba,False,False,second
-287,1976-10-13,Portuguesa,4,0,Confiança,False,False,second
+287,1976-10-13,Portuguesa-SP,4,0,Confiança,False,False,second
 288,1976-10-16,Cruzeiro,1,0,Uberaba,False,False,second
 289,1976-10-17,Londrina,1,2,Confiança,False,False,second
 290,1976-10-20,Uberaba,1,0,Confiança,False,False,second
-291,1976-10-21,Portuguesa,1,1,Cruzeiro,False,False,second
+291,1976-10-21,Portuguesa-SP,1,1,Cruzeiro,False,False,second
 292,1976-10-24,Confiança,0,3,Cruzeiro,False,False,second
-293,1976-10-24,Londrina,1,3,Portuguesa,False,False,second
+293,1976-10-24,Londrina,1,3,Portuguesa-SP,False,False,second
 294,1976-10-27,Cruzeiro,1,0,Londrina,False,False,second
-295,1976-10-09,Ponte Preta,3,0,Paysandu,False,False,second
-296,1976-10-10,Nacional,1,1,Ceará,False,False,second
-297,1976-10-13,Ponte Preta,5,0,Nacional,False,False,second
+295,1976-10-09,Ponte Preta-SP,3,0,Paysandu,False,False,second
+296,1976-10-10,Nacional-AM,1,1,Ceará,False,False,second
+297,1976-10-13,Ponte Preta-SP,5,0,Nacional-AM,False,False,second
 298,1976-10-14,Paysandu,2,0,Rio Negro,False,False,second
-299,1976-10-17,Rio Negro,1,0,Nacional,False,False,second
-300,1976-10-17,Ceará,2,1,Ponte Preta,False,False,second
-301,1976-10-20,Rio Negro,1,1,Ponte Preta,False,False,second
+299,1976-10-17,Rio Negro,1,0,Nacional-AM,False,False,second
+300,1976-10-17,Ceará,2,1,Ponte Preta-SP,False,False,second
+301,1976-10-20,Rio Negro,1,1,Ponte Preta-SP,False,False,second
 302,1976-10-20,Paysandu,1,0,Ceará,False,False,second
 303,1976-10-23,Ceará,0,0,Rio Negro,False,False,second
-304,1976-10-23,Nacional,2,2,Paysandu,False,False,second
+304,1976-10-23,Nacional-AM,2,2,Paysandu,False,False,second
 305,1976-10-10,Mixto,4,1,Americano,False,False,second
 306,1976-10-10,Goiânia,4,0,América-MG,False,False,second
 307,1976-10-13,América-MG,1,3,Mixto,False,False,second
@@ -334,41 +334,41 @@
 332,1976-10-20,Flamengo-PI,0,0,Náutico,False,False,second
 333,1976-10-23,Náutico,4,0,Sampaio Corrêa,False,False,second
 334,1976-10-23,ABC,5,1,Flamengo-PI,False,False,second
-335,1976-10-30,Ponte Preta,1,0,Botafogo-SP,False,False,third
+335,1976-10-30,Ponte Preta-SP,1,0,Botafogo-SP,False,False,third
 336,1976-10-30,Coritiba,1,0,Internacional,False,False,third
-337,1976-10-31,Corinthians,0,0,Portuguesa,False,False,third
+337,1976-10-31,Corinthians,0,0,Portuguesa-SP,False,False,third
 338,1976-10-31,Santa Cruz,3,3,Palmeiras,False,False,third
-339,1976-11-03,Palmeiras,2,1,Portuguesa,False,False,third
+339,1976-11-03,Palmeiras,2,1,Portuguesa-SP,False,False,third
 340,1976-11-03,Coritiba,1,0,Corinthians,False,False,third
 341,1976-11-03,Botafogo-SP,1,4,Internacional,False,False,third
 342,1976-11-03,Caxias,1,2,Santa Cruz,False,False,third
 343,1976-11-07,Palmeiras,0,0,Corinthians,False,False,third
-344,1976-11-07,Ponte Preta,1,0,Coritiba,False,False,third
+344,1976-11-07,Ponte Preta-SP,1,0,Coritiba,False,False,third
 345,1976-11-07,Botafogo-SP,1,0,Caxias,False,False,third
 346,1976-11-07,Internacional,5,1,Santa Cruz,False,False,third
 347,1976-11-10,Internacional,2,0,Caxias,False,False,third
 348,1976-11-10,Santa Cruz,2,4,Coritiba,False,False,third
-349,1976-11-10,Portuguesa,0,1,Ponte Preta,False,False,third
+349,1976-11-10,Portuguesa-SP,0,1,Ponte Preta-SP,False,False,third
 350,1976-11-11,Corinthians,2,1,Botafogo-SP,False,False,third
 351,1976-11-14,Palmeiras,1,2,Internacional,False,False,third
 352,1976-11-14,Caxias,1,4,Corinthians,False,False,third
-353,1976-11-14,Ponte Preta,2,0,Santa Cruz,False,False,third
-354,1976-11-14,Botafogo-SP,3,0,Portuguesa,False,False,third
-355,1976-11-17,Portuguesa,2,2,Santa Cruz,False,False,third
+353,1976-11-14,Ponte Preta-SP,2,0,Santa Cruz,False,False,third
+354,1976-11-14,Botafogo-SP,3,0,Portuguesa-SP,False,False,third
+355,1976-11-17,Portuguesa-SP,2,2,Santa Cruz,False,False,third
 356,1976-11-17,Caxias,3,0,Coritiba,False,False,third
 357,1976-11-17,Botafogo-SP,0,3,Palmeiras,False,False,third
-358,1976-11-18,Corinthians,2,0,Ponte Preta,False,False,third
-359,1976-11-20,Portuguesa,3,4,Caxias,False,False,third
+358,1976-11-18,Corinthians,2,0,Ponte Preta-SP,False,False,third
+359,1976-11-20,Portuguesa-SP,3,4,Caxias,False,False,third
 360,1976-11-21,Coritiba,0,1,Botafogo-SP,False,False,third
 361,1976-11-21,Corinthians,2,1,Internacional,False,False,third
-362,1976-11-21,Ponte Preta,2,1,Palmeiras,False,False,third
-363,1976-11-24,Coritiba,2,1,Portuguesa,False,False,third
-364,1976-11-24,Internacional,2,0,Ponte Preta,False,False,third
+362,1976-11-21,Ponte Preta-SP,2,1,Palmeiras,False,False,third
+363,1976-11-24,Coritiba,2,1,Portuguesa-SP,False,False,third
+364,1976-11-24,Internacional,2,0,Ponte Preta-SP,False,False,third
 365,1976-11-24,Santa Cruz,3,1,Botafogo-SP,False,False,third
 366,1976-11-24,Palmeiras,0,0,Caxias,False,False,third
 367,1976-11-27,Palmeiras,0,0,Coritiba,False,False,third
-368,1976-11-28,Internacional,3,0,Portuguesa,False,False,third
-369,1976-11-28,Caxias,1,0,Ponte Preta,False,False,third
+368,1976-11-28,Internacional,3,0,Portuguesa-SP,False,False,third
+369,1976-11-28,Caxias,1,0,Ponte Preta-SP,False,False,third
 370,1976-11-28,Santa Cruz,1,2,Corinthians,False,False,third
 371,1976-10-30,Vasco da Gama,1,0,CRB,False,False,third
 372,1976-10-30,Bahia,1,1,Náutico,False,False,third
