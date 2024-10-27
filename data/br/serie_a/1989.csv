@@ -1,194 +1,194 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,1989-09-06,Botafogo,2,1,Internacional-RS,False,False,first
-1,1989-09-07,Atlético-PR,0,0,São Paulo,False,False,first
-2,1989-09-07,Corinthians,0,2,Internacional-SP,False,False,first
-3,1989-09-07,Flamengo,0,0,Atlético-MG,False,False,first
-4,1989-09-07,Vitória,0,1,Guarani,False,False,first
-5,1989-09-09,Guarani,1,3,Corinthians,False,False,first
-6,1989-09-10,Atlético-PR,1,1,Flamengo,False,False,first
-7,1989-09-10,Internacional-SP,3,2,Náutico,False,False,first
-8,1989-09-10,Internacional-RS,1,0,Atlético-MG,False,False,first
-9,1989-09-10,São Paulo,0,0,Vitória,False,False,first
-10,1989-09-16,Náutico,3,3,São Paulo,False,False,first
-11,1989-09-16,Botafogo,3,0,Atlético-PR,False,False,first
-12,1989-09-16,Vitória,0,2,Internacional-RS,False,False,first
-13,1989-09-17,Guarani,0,0,Internacional-SP,False,False,first
-14,1989-09-17,Flamengo,0,1,Corinthians,False,False,first
-15,1989-09-20,Vitória,2,1,Internacional-SP,False,False,first
-16,1989-09-20,Flamengo,1,0,Botafogo,False,False,first
-17,1989-09-20,Atlético-MG,4,1,São Paulo,False,False,first
-18,1989-09-20,Guarani,0,1,Atlético-PR,False,False,first
-19,1989-09-20,Náutico,1,0,Corinthians,False,False,first
-20,1989-09-23,Atlético-MG,2,0,Botafogo,False,False,first
-21,1989-09-24,Corinthians,2,1,São Paulo,False,False,first
-22,1989-09-24,Vitória,0,0,Flamengo,False,False,first
-23,1989-09-24,Náutico,1,2,Guarani,False,False,first
-24,1989-09-24,Internacional-RS,0,0,Atlético-PR,False,False,first
-25,1989-09-30,São Paulo,2,1,Internacional-RS,False,False,first
-26,1989-10-01,Corinthians,2,0,Vitória,False,False,first
-27,1989-10-01,Guarani,2,0,Botafogo,False,False,first
-28,1989-10-01,Internacional-SP,0,2,Atlético-MG,False,False,first
-29,1989-10-01,Atlético-PR,3,0,Náutico,False,False,first
-30,1989-09-28,Flamengo,2,1,Guarani,False,False,first
-31,1989-10-04,Atlético-MG,1,1,Corinthians,False,False,first
-32,1989-10-04,Vitória,2,1,Atlético-PR,False,False,first
-33,1989-10-04,Botafogo,1,1,Náutico,False,False,first
-34,1989-10-04,Internacional-RS,0,0,Internacional-SP,False,False,first
-35,1989-10-07,São Paulo,1,1,Botafogo,False,False,first
-36,1989-10-08,Internacional-SP,1,1,Atlético-PR,False,False,first
-37,1989-10-08,Náutico,4,0,Vitória,False,False,first
-38,1989-10-08,Internacional-RS,0,0,Flamengo,False,False,first
-39,1989-10-08,Atlético-MG,0,0,Guarani,False,False,first
-40,1989-10-14,Flamengo,2,0,Náutico,False,False,first
-41,1989-10-15,Internacional-SP,0,0,São Paulo,False,False,first
-42,1989-10-15,Botafogo,2,0,Vitória,False,False,first
-43,1989-10-15,Corinthians,1,0,Internacional-RS,False,False,first
-44,1989-10-15,Atlético-PR,2,2,Atlético-MG,False,False,first
-45,1989-10-18,Atlético-PR,0,1,Corinthians,False,False,first
-46,1989-10-18,Náutico,3,2,Atlético-MG,False,False,first
-47,1989-10-18,Guarani,0,1,Internacional-RS,False,False,first
-48,1989-10-18,São Paulo,3,0,Flamengo,False,False,first
-49,1989-10-18,Botafogo,1,0,Internacional-SP,False,False,first
-50,1989-10-21,São Paulo,0,0,Guarani,False,False,first
-51,1989-10-21,Internacional-SP,1,0,Flamengo,False,False,first
-52,1989-10-22,Corinthians,0,0,Botafogo,False,False,first
-53,1989-10-22,Atlético-MG,0,0,Vitória,False,False,first
-54,1989-10-22,Internacional-RS,0,1,Náutico,False,False,first
-55,1989-09-06,Bahia,1,2,Fluminense,False,False,first
-56,1989-09-07,Coritiba,2,1,Grêmio,False,False,first
-57,1989-09-07,Cruzeiro,0,1,Vasco da Gama,False,False,first
-58,1989-09-07,Palmeiras,0,0,Santos,False,False,first
-59,1989-09-07,Sport,0,1,Goiás,False,False,first
-60,1989-09-09,Santos,0,1,Fluminense,False,False,first
-61,1989-09-10,Bahia,3,2,Grêmio,False,False,first
-62,1989-09-10,Goiás,2,1,Portuguesa-SP,False,False,first
-63,1989-09-10,Sport,1,1,Palmeiras,False,False,first
-64,1989-09-10,Vasco da Gama,1,1,Coritiba,False,False,first
-65,1989-09-16,Portuguesa-SP,4,1,Fluminense,False,False,first
-66,1989-09-17,Cruzeiro,2,0,Bahia,False,False,first
-67,1989-09-17,Palmeiras,2,0,Goiás,False,False,first
-68,1989-09-17,Santos,1,2,Vasco da Gama,False,False,first
-69,1989-09-17,Grêmio,2,0,Sport,False,False,first
-70,1989-09-20,Grêmio,2,0,Cruzeiro,False,False,first
-71,1989-09-20,Fluminense,2,0,Coritiba,False,False,first
-72,1989-09-20,Santos,0,0,Goiás,False,False,first
-73,1989-09-20,Portuguesa-SP,1,1,Sport,False,False,first
-74,1989-10-12,Palmeiras,2,0,Bahia,False,False,first
-75,1989-09-23,Coritiba,0,0,Cruzeiro,False,False,first
-76,1989-09-24,Vasco da Gama,2,2,Bahia,False,False,first
-77,1989-09-24,Fluminense,2,0,Sport,False,False,first
-78,1989-09-24,Grêmio,0,0,Santos,False,False,first
-79,1989-09-24,Portuguesa-SP,1,0,Palmeiras,False,False,first
-80,1989-09-30,Sport,2,0,Santos,False,False,first
-81,1989-10-01,Goiás,2,3,Coritiba,False,False,first
-82,1989-10-01,Cruzeiro,2,1,Palmeiras,False,False,first
-83,1989-10-01,Fluminense,0,0,Vasco da Gama,False,False,first
-84,1989-10-01,Bahia,0,0,Portuguesa-SP,False,False,first
-85,1989-09-27,Palmeiras,2,0,Grêmio,False,False,first
-86,1989-09-27,Santos,3,1,Bahia,False,False,first
-87,1989-09-27,Portuguesa-SP,0,0,Cruzeiro,False,False,first
-88,1989-10-04,Coritiba,2,1,Sport,False,False,first
-89,1989-10-04,Vasco da Gama,4,1,Goiás,False,False,first
-90,1989-10-04,Coritiba,1,3,Palmeiras,False,False,first
-91,1989-10-08,Santos,1,1,Portuguesa-SP,False,False,first
-92,1989-10-08,Goiás,1,0,Bahia,False,False,first
-93,1989-10-08,Vasco da Gama,3,1,Grêmio,False,False,first
-94,1989-10-08,Fluminense,1,1,Cruzeiro,False,False,first
-95,1989-10-14,Goiás,2,0,Fluminense,False,False,first
-96,1989-10-14,Grêmio,2,1,Portuguesa-SP,False,False,first
-97,1989-10-15,Cruzeiro,0,0,Santos,False,False,first
-98,1989-10-15,Bahia,1,1,Coritiba,False,False,first
-99,1989-10-25,Sport,0,1,Vasco da Gama,False,False,first
-100,1989-10-18,Bahia,1,2,Sport,False,False,first
-101,1989-10-18,Cruzeiro,2,1,Goiás,False,False,first
-102,1989-10-18,Portuguesa-SP,3,0,Coritiba,False,False,first
-103,1989-10-18,Palmeiras,1,0,Vasco da Gama,False,False,first
-104,1989-10-18,Grêmio,1,0,Fluminense,False,False,first
-105,1989-10-21,Vasco da Gama,0,0,Portuguesa-SP,False,False,first
-106,1989-10-22,Goiás,0,0,Grêmio,False,False,first
-107,1989-10-22,Sport,2,1,Cruzeiro,False,False,first
-108,1989-10-22,Fluminense,0,1,Palmeiras,False,False,first
-109,1989-10-28,Grêmio,2,0,Internacional-SP,False,False,second
-110,1989-10-28,Portuguesa-SP,2,0,Flamengo,False,False,second
-111,1989-10-28,Botafogo,1,2,Cruzeiro,False,False,second
-112,1989-10-29,Atlético-MG,3,0,Goiás,False,False,second
-113,1989-10-29,Corinthians,0,0,Santos,False,False,second
-114,1989-10-29,Náutico,3,2,Fluminense,False,False,second
-115,1989-10-29,Vasco da Gama,0,0,São Paulo,False,False,second
-116,1989-11-02,Palmeiras,1,0,Internacional-RS,False,False,second
-117,1989-11-04,Corinthians,0,1,Cruzeiro,False,False,second
-118,1989-11-04,Goiás,1,2,Botafogo,False,False,second
-119,1989-11-05,São Paulo,2,2,Palmeiras,False,False,second
-120,1989-11-05,Atlético-MG,2,0,Fluminense,False,False,second
-121,1989-11-05,Santos,2,1,Internacional-RS,False,False,second
-122,1989-11-05,Portuguesa-SP,2,0,Internacional-SP,False,False,second
-123,1989-11-05,Náutico,1,1,Grêmio,False,False,second
-124,1989-11-05,Flamengo,2,0,Vasco da Gama,False,False,second
-125,1989-11-11,São Paulo,3,0,Santos,False,False,second
-126,1989-11-11,Atlético-MG,0,0,Grêmio,False,False,second
-127,1989-11-11,Internacional-SP,2,2,Vasco da Gama,False,False,second
-128,1989-11-11,Náutico,1,1,Portuguesa-SP,False,False,second
-129,1989-11-12,Goiás,1,1,Corinthians,False,False,second
-130,1989-11-12,Palmeiras,1,1,Flamengo,False,False,second
-131,1989-11-12,Cruzeiro,4,2,Internacional-RS,False,False,second
-132,1989-11-12,Botafogo,0,2,Fluminense,False,False,second
-133,1989-11-18,Flamengo,1,0,Santos,False,False,second
-134,1989-11-18,Portuguesa-SP,1,0,Atlético-MG,False,False,second
-135,1989-11-18,Internacional-RS,2,2,Goiás,False,False,second
-136,1989-11-19,São Paulo,2,0,Cruzeiro,False,False,second
-137,1989-11-19,Fluminense,1,1,Corinthians,False,False,second
-138,1989-11-19,Grêmio,0,1,Botafogo,False,False,second
-139,1989-11-19,Vasco da Gama,4,2,Náutico,False,False,second
-140,1989-11-23,Internacional-SP,1,1,Palmeiras,False,False,second
-141,1989-11-23,Flamengo,0,0,Goiás,False,False,second
-142,1989-11-23,São Paulo,3,1,Fluminense,False,False,second
-143,1989-11-29,Palmeiras,1,0,Atlético-MG,False,False,second
-144,1989-11-29,Vasco da Gama,2,2,Botafogo,False,False,second
-145,1989-11-29,Santos,2,1,Náutico,False,False,second
-146,1989-11-29,Corinthians,1,0,Portuguesa-SP,False,False,second
-147,1989-11-29,Internacional-RS,2,0,Grêmio,False,False,second
-148,1989-11-29,Internacional-SP,1,1,Cruzeiro,False,False,second
-149,1989-11-25,Grêmio,3,0,Corinthians,False,False,second
-150,1989-11-25,Botafogo,2,1,Portuguesa-SP,False,False,second
-151,1989-11-26,Fluminense,0,0,Internacional-RS,False,False,second
-152,1989-11-26,Vasco da Gama,1,1,Atlético-MG,False,False,second
-153,1989-11-26,Santos,2,0,Internacional-SP,False,False,second
-154,1989-11-26,Náutico,2,2,Palmeiras,False,False,second
-155,1989-11-26,Cruzeiro,2,0,Flamengo,False,False,second
-156,1989-11-26,Goiás,0,0,São Paulo,False,False,second
-157,1989-12-02,Fluminense,0,5,Flamengo,False,False,second
-158,1989-12-02,Internacional-RS,1,2,Portuguesa-SP,False,False,second
-159,1989-12-02,Cruzeiro,4,0,Náutico,False,False,second
-160,1989-12-03,Atlético-MG,2,1,Santos,False,False,second
-161,1989-12-03,Internacional-SP,0,1,Goiás,False,False,second
-162,1989-12-03,Botafogo,1,0,Palmeiras,False,False,second
-163,1989-12-03,Corinthians,0,1,Vasco da Gama,False,False,second
-164,1989-12-03,Grêmio,1,3,São Paulo,False,False,second
-165,1989-12-09,Flamengo,1,1,Grêmio,False,False,second
-166,1989-12-09,Fluminense,0,1,Internacional-SP,False,False,second
-167,1989-12-10,Portuguesa-SP,0,1,São Paulo,False,False,second
-168,1989-12-10,Palmeiras,0,1,Corinthians,False,False,second
-169,1989-12-10,Internacional-RS,0,2,Vasco da Gama,False,False,second
-170,1989-12-10,Cruzeiro,1,0,Atlético-MG,False,False,second
-171,1989-12-10,Santos,0,1,Botafogo,False,False,second
-172,1989-12-10,Goiás,2,1,Náutico,False,False,second
-173,1989-10-29,Atlético-PR,3,0,Vitória,False,False,relegation
-174,1989-10-29,Bahia,0,0,Vitória,False,False,relegation
-175,1989-11-05,Sport,0,0,Atlético-PR,False,False,relegation
-176,1989-11-05,Bahia,2,1,Vitória,False,False,relegation
-177,1989-11-12,Bahia,2,0,Sport,False,False,relegation
-178,1989-11-12,Guarani,0,1,Vitória,False,False,relegation
-179,1989-11-19,Sport,1,3,Guarani,False,False,relegation
-180,1989-11-19,Atlético-PR,0,0,Bahia,False,False,relegation
-181,1989-11-22,Vitória,2,0,Sport,False,False,relegation
-182,1989-11-26,Vitória,1,1,Atlético-PR,False,False,relegation
-183,1989-11-26,Guarani,1,1,Bahia,False,False,relegation
-184,1989-12-03,Atlético-PR,1,1,Sport,False,False,relegation
-185,1989-12-03,Bahia,0,3,Vitória,False,False,relegation
-186,1989-12-06,Sport,0,1,Bahia,False,False,relegation
-187,1989-12-06,Vitória,2,1,Guarani,False,False,relegation
-188,1989-12-10,Bahia,0,0,Atlético-PR,False,False,relegation
-189,1989-12-10,Guarani,2,1,Sport,False,False,relegation
-190,1989-12-14,Atlético-PR,4,1,Guarani,False,False,relegation
-191,1989-12-14,Sport,0,0,Vitória,False,False,relegation
-192,1989-12-16,São Paulo,0,1,Vasco da Gama,False,True,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+1989-09-06,Botafogo,2,1,Internacional-RS,False,False,first
+1989-09-07,Atlético-PR,0,0,São Paulo,False,False,first
+1989-09-07,Corinthians,0,2,Internacional-SP,False,False,first
+1989-09-07,Flamengo,0,0,Atlético-MG,False,False,first
+1989-09-07,Vitória,0,1,Guarani,False,False,first
+1989-09-09,Guarani,1,3,Corinthians,False,False,first
+1989-09-10,Atlético-PR,1,1,Flamengo,False,False,first
+1989-09-10,Internacional-SP,3,2,Náutico,False,False,first
+1989-09-10,Internacional-RS,1,0,Atlético-MG,False,False,first
+1989-09-10,São Paulo,0,0,Vitória,False,False,first
+1989-09-16,Náutico,3,3,São Paulo,False,False,first
+1989-09-16,Botafogo,3,0,Atlético-PR,False,False,first
+1989-09-16,Vitória,0,2,Internacional-RS,False,False,first
+1989-09-17,Guarani,0,0,Internacional-SP,False,False,first
+1989-09-17,Flamengo,0,1,Corinthians,False,False,first
+1989-09-20,Vitória,2,1,Internacional-SP,False,False,first
+1989-09-20,Flamengo,1,0,Botafogo,False,False,first
+1989-09-20,Atlético-MG,4,1,São Paulo,False,False,first
+1989-09-20,Guarani,0,1,Atlético-PR,False,False,first
+1989-09-20,Náutico,1,0,Corinthians,False,False,first
+1989-09-23,Atlético-MG,2,0,Botafogo,False,False,first
+1989-09-24,Corinthians,2,1,São Paulo,False,False,first
+1989-09-24,Vitória,0,0,Flamengo,False,False,first
+1989-09-24,Náutico,1,2,Guarani,False,False,first
+1989-09-24,Internacional-RS,0,0,Atlético-PR,False,False,first
+1989-09-30,São Paulo,2,1,Internacional-RS,False,False,first
+1989-10-01,Corinthians,2,0,Vitória,False,False,first
+1989-10-01,Guarani,2,0,Botafogo,False,False,first
+1989-10-01,Internacional-SP,0,2,Atlético-MG,False,False,first
+1989-10-01,Atlético-PR,3,0,Náutico,False,False,first
+1989-09-28,Flamengo,2,1,Guarani,False,False,first
+1989-10-04,Atlético-MG,1,1,Corinthians,False,False,first
+1989-10-04,Vitória,2,1,Atlético-PR,False,False,first
+1989-10-04,Botafogo,1,1,Náutico,False,False,first
+1989-10-04,Internacional-RS,0,0,Internacional-SP,False,False,first
+1989-10-07,São Paulo,1,1,Botafogo,False,False,first
+1989-10-08,Internacional-SP,1,1,Atlético-PR,False,False,first
+1989-10-08,Náutico,4,0,Vitória,False,False,first
+1989-10-08,Internacional-RS,0,0,Flamengo,False,False,first
+1989-10-08,Atlético-MG,0,0,Guarani,False,False,first
+1989-10-14,Flamengo,2,0,Náutico,False,False,first
+1989-10-15,Internacional-SP,0,0,São Paulo,False,False,first
+1989-10-15,Botafogo,2,0,Vitória,False,False,first
+1989-10-15,Corinthians,1,0,Internacional-RS,False,False,first
+1989-10-15,Atlético-PR,2,2,Atlético-MG,False,False,first
+1989-10-18,Atlético-PR,0,1,Corinthians,False,False,first
+1989-10-18,Náutico,3,2,Atlético-MG,False,False,first
+1989-10-18,Guarani,0,1,Internacional-RS,False,False,first
+1989-10-18,São Paulo,3,0,Flamengo,False,False,first
+1989-10-18,Botafogo,1,0,Internacional-SP,False,False,first
+1989-10-21,São Paulo,0,0,Guarani,False,False,first
+1989-10-21,Internacional-SP,1,0,Flamengo,False,False,first
+1989-10-22,Corinthians,0,0,Botafogo,False,False,first
+1989-10-22,Atlético-MG,0,0,Vitória,False,False,first
+1989-10-22,Internacional-RS,0,1,Náutico,False,False,first
+1989-09-06,Bahia,1,2,Fluminense,False,False,first
+1989-09-07,Coritiba,2,1,Grêmio,False,False,first
+1989-09-07,Cruzeiro,0,1,Vasco da Gama,False,False,first
+1989-09-07,Palmeiras,0,0,Santos,False,False,first
+1989-09-07,Sport,0,1,Goiás,False,False,first
+1989-09-09,Santos,0,1,Fluminense,False,False,first
+1989-09-10,Bahia,3,2,Grêmio,False,False,first
+1989-09-10,Goiás,2,1,Portuguesa-SP,False,False,first
+1989-09-10,Sport,1,1,Palmeiras,False,False,first
+1989-09-10,Vasco da Gama,1,1,Coritiba,False,False,first
+1989-09-16,Portuguesa-SP,4,1,Fluminense,False,False,first
+1989-09-17,Cruzeiro,2,0,Bahia,False,False,first
+1989-09-17,Palmeiras,2,0,Goiás,False,False,first
+1989-09-17,Santos,1,2,Vasco da Gama,False,False,first
+1989-09-17,Grêmio,2,0,Sport,False,False,first
+1989-09-20,Grêmio,2,0,Cruzeiro,False,False,first
+1989-09-20,Fluminense,2,0,Coritiba,False,False,first
+1989-09-20,Santos,0,0,Goiás,False,False,first
+1989-09-20,Portuguesa-SP,1,1,Sport,False,False,first
+1989-10-12,Palmeiras,2,0,Bahia,False,False,first
+1989-09-23,Coritiba,0,0,Cruzeiro,False,False,first
+1989-09-24,Vasco da Gama,2,2,Bahia,False,False,first
+1989-09-24,Fluminense,2,0,Sport,False,False,first
+1989-09-24,Grêmio,0,0,Santos,False,False,first
+1989-09-24,Portuguesa-SP,1,0,Palmeiras,False,False,first
+1989-09-30,Sport,2,0,Santos,False,False,first
+1989-10-01,Goiás,2,3,Coritiba,False,False,first
+1989-10-01,Cruzeiro,2,1,Palmeiras,False,False,first
+1989-10-01,Fluminense,0,0,Vasco da Gama,False,False,first
+1989-10-01,Bahia,0,0,Portuguesa-SP,False,False,first
+1989-09-27,Palmeiras,2,0,Grêmio,False,False,first
+1989-09-27,Santos,3,1,Bahia,False,False,first
+1989-09-27,Portuguesa-SP,0,0,Cruzeiro,False,False,first
+1989-10-04,Coritiba,2,1,Sport,False,False,first
+1989-10-04,Vasco da Gama,4,1,Goiás,False,False,first
+1989-10-04,Coritiba,1,3,Palmeiras,False,False,first
+1989-10-08,Santos,1,1,Portuguesa-SP,False,False,first
+1989-10-08,Goiás,1,0,Bahia,False,False,first
+1989-10-08,Vasco da Gama,3,1,Grêmio,False,False,first
+1989-10-08,Fluminense,1,1,Cruzeiro,False,False,first
+1989-10-14,Goiás,2,0,Fluminense,False,False,first
+1989-10-14,Grêmio,2,1,Portuguesa-SP,False,False,first
+1989-10-15,Cruzeiro,0,0,Santos,False,False,first
+1989-10-15,Bahia,1,1,Coritiba,False,False,first
+1989-10-25,Sport,0,1,Vasco da Gama,False,False,first
+1989-10-18,Bahia,1,2,Sport,False,False,first
+1989-10-18,Cruzeiro,2,1,Goiás,False,False,first
+1989-10-18,Portuguesa-SP,3,0,Coritiba,False,False,first
+1989-10-18,Palmeiras,1,0,Vasco da Gama,False,False,first
+1989-10-18,Grêmio,1,0,Fluminense,False,False,first
+1989-10-21,Vasco da Gama,0,0,Portuguesa-SP,False,False,first
+1989-10-22,Goiás,0,0,Grêmio,False,False,first
+1989-10-22,Sport,2,1,Cruzeiro,False,False,first
+1989-10-22,Fluminense,0,1,Palmeiras,False,False,first
+1989-10-28,Grêmio,2,0,Internacional-SP,False,False,second
+1989-10-28,Portuguesa-SP,2,0,Flamengo,False,False,second
+1989-10-28,Botafogo,1,2,Cruzeiro,False,False,second
+1989-10-29,Atlético-MG,3,0,Goiás,False,False,second
+1989-10-29,Corinthians,0,0,Santos,False,False,second
+1989-10-29,Náutico,3,2,Fluminense,False,False,second
+1989-10-29,Vasco da Gama,0,0,São Paulo,False,False,second
+1989-11-02,Palmeiras,1,0,Internacional-RS,False,False,second
+1989-11-04,Corinthians,0,1,Cruzeiro,False,False,second
+1989-11-04,Goiás,1,2,Botafogo,False,False,second
+1989-11-05,São Paulo,2,2,Palmeiras,False,False,second
+1989-11-05,Atlético-MG,2,0,Fluminense,False,False,second
+1989-11-05,Santos,2,1,Internacional-RS,False,False,second
+1989-11-05,Portuguesa-SP,2,0,Internacional-SP,False,False,second
+1989-11-05,Náutico,1,1,Grêmio,False,False,second
+1989-11-05,Flamengo,2,0,Vasco da Gama,False,False,second
+1989-11-11,São Paulo,3,0,Santos,False,False,second
+1989-11-11,Atlético-MG,0,0,Grêmio,False,False,second
+1989-11-11,Internacional-SP,2,2,Vasco da Gama,False,False,second
+1989-11-11,Náutico,1,1,Portuguesa-SP,False,False,second
+1989-11-12,Goiás,1,1,Corinthians,False,False,second
+1989-11-12,Palmeiras,1,1,Flamengo,False,False,second
+1989-11-12,Cruzeiro,4,2,Internacional-RS,False,False,second
+1989-11-12,Botafogo,0,2,Fluminense,False,False,second
+1989-11-18,Flamengo,1,0,Santos,False,False,second
+1989-11-18,Portuguesa-SP,1,0,Atlético-MG,False,False,second
+1989-11-18,Internacional-RS,2,2,Goiás,False,False,second
+1989-11-19,São Paulo,2,0,Cruzeiro,False,False,second
+1989-11-19,Fluminense,1,1,Corinthians,False,False,second
+1989-11-19,Grêmio,0,1,Botafogo,False,False,second
+1989-11-19,Vasco da Gama,4,2,Náutico,False,False,second
+1989-11-23,Internacional-SP,1,1,Palmeiras,False,False,second
+1989-11-23,Flamengo,0,0,Goiás,False,False,second
+1989-11-23,São Paulo,3,1,Fluminense,False,False,second
+1989-11-29,Palmeiras,1,0,Atlético-MG,False,False,second
+1989-11-29,Vasco da Gama,2,2,Botafogo,False,False,second
+1989-11-29,Santos,2,1,Náutico,False,False,second
+1989-11-29,Corinthians,1,0,Portuguesa-SP,False,False,second
+1989-11-29,Internacional-RS,2,0,Grêmio,False,False,second
+1989-11-29,Internacional-SP,1,1,Cruzeiro,False,False,second
+1989-11-25,Grêmio,3,0,Corinthians,False,False,second
+1989-11-25,Botafogo,2,1,Portuguesa-SP,False,False,second
+1989-11-26,Fluminense,0,0,Internacional-RS,False,False,second
+1989-11-26,Vasco da Gama,1,1,Atlético-MG,False,False,second
+1989-11-26,Santos,2,0,Internacional-SP,False,False,second
+1989-11-26,Náutico,2,2,Palmeiras,False,False,second
+1989-11-26,Cruzeiro,2,0,Flamengo,False,False,second
+1989-11-26,Goiás,0,0,São Paulo,False,False,second
+1989-12-02,Fluminense,0,5,Flamengo,False,False,second
+1989-12-02,Internacional-RS,1,2,Portuguesa-SP,False,False,second
+1989-12-02,Cruzeiro,4,0,Náutico,False,False,second
+1989-12-03,Atlético-MG,2,1,Santos,False,False,second
+1989-12-03,Internacional-SP,0,1,Goiás,False,False,second
+1989-12-03,Botafogo,1,0,Palmeiras,False,False,second
+1989-12-03,Corinthians,0,1,Vasco da Gama,False,False,second
+1989-12-03,Grêmio,1,3,São Paulo,False,False,second
+1989-12-09,Flamengo,1,1,Grêmio,False,False,second
+1989-12-09,Fluminense,0,1,Internacional-SP,False,False,second
+1989-12-10,Portuguesa-SP,0,1,São Paulo,False,False,second
+1989-12-10,Palmeiras,0,1,Corinthians,False,False,second
+1989-12-10,Internacional-RS,0,2,Vasco da Gama,False,False,second
+1989-12-10,Cruzeiro,1,0,Atlético-MG,False,False,second
+1989-12-10,Santos,0,1,Botafogo,False,False,second
+1989-12-10,Goiás,2,1,Náutico,False,False,second
+1989-10-29,Atlético-PR,3,0,Vitória,False,False,relegation
+1989-10-29,Bahia,0,0,Vitória,False,False,relegation
+1989-11-05,Sport,0,0,Atlético-PR,False,False,relegation
+1989-11-05,Bahia,2,1,Vitória,False,False,relegation
+1989-11-12,Bahia,2,0,Sport,False,False,relegation
+1989-11-12,Guarani,0,1,Vitória,False,False,relegation
+1989-11-19,Sport,1,3,Guarani,False,False,relegation
+1989-11-19,Atlético-PR,0,0,Bahia,False,False,relegation
+1989-11-22,Vitória,2,0,Sport,False,False,relegation
+1989-11-26,Vitória,1,1,Atlético-PR,False,False,relegation
+1989-11-26,Guarani,1,1,Bahia,False,False,relegation
+1989-12-03,Atlético-PR,1,1,Sport,False,False,relegation
+1989-12-03,Bahia,0,3,Vitória,False,False,relegation
+1989-12-06,Sport,0,1,Bahia,False,False,relegation
+1989-12-06,Vitória,2,1,Guarani,False,False,relegation
+1989-12-10,Bahia,0,0,Atlético-PR,False,False,relegation
+1989-12-10,Guarani,2,1,Sport,False,False,relegation
+1989-12-14,Atlético-PR,4,1,Guarani,False,False,relegation
+1989-12-14,Sport,0,0,Vitória,False,False,relegation
+1989-12-16,São Paulo,0,1,Vasco da Gama,False,True,final

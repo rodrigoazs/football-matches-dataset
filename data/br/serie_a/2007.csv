@@ -1,381 +1,381 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,2007-05-12,Fluminense,2,2,Cruzeiro,False,False,first
-1,2007-05-12,Figueirense,3,6,Atlético-PR,False,False,first
-2,2007-05-12,São Paulo,2,0,Goiás,False,False,first
-3,2007-05-13,Corinthians,1,0,Juventude,False,False,first
-4,2007-05-13,Paraná,3,0,Grêmio,False,False,first
-5,2007-05-13,América-RN,0,1,Vasco da Gama,False,False,first
-6,2007-05-13,Sport,4,1,Santos,False,False,first
-7,2007-05-13,Atlético-MG,2,1,Náutico,False,False,first
-8,2007-05-13,Internacional,2,3,Botafogo,False,False,first
-9,2007-05-13,Flamengo,2,4,Palmeiras,False,False,first
-10,2007-05-19,Atlético-PR,2,1,Internacional,False,False,first
-11,2007-05-19,Santos,2,3,América-RN,False,False,first
-12,2007-05-19,Juventude,1,2,Paraná,False,False,first
-13,2007-05-20,Palmeiras,2,1,Figueirense,False,False,first
-14,2007-05-20,Goiás,1,3,Flamengo,False,False,first
-15,2007-05-20,Botafogo,2,1,Atlético-MG,False,False,first
-16,2007-05-20,Náutico,1,0,São Paulo,False,False,first
-17,2007-05-20,Cruzeiro,0,3,Corinthians,False,False,first
-18,2007-05-20,Grêmio,2,0,Fluminense,False,False,first
-19,2007-05-20,Vasco da Gama,3,1,Sport,False,False,first
-20,2007-05-26,Corinthians,0,0,Atlético-MG,False,False,first
-21,2007-05-26,Fluminense,3,0,Internacional,False,False,first
-22,2007-05-26,América-RN,0,1,Figueirense,False,False,first
-23,2007-05-27,Atlético-PR,0,1,Santos,False,False,first
-24,2007-05-27,Náutico,2,2,Vasco da Gama,False,False,first
-25,2007-05-27,Cruzeiro,3,4,Paraná,False,False,first
-26,2007-05-27,São Paulo,0,0,Palmeiras,False,False,first
-27,2007-05-27,Goiás,3,1,Juventude,False,False,first
-28,2007-05-27,Grêmio,1,0,Sport,False,False,first
-29,2007-05-27,Flamengo,2,2,Botafogo,False,False,first
-30,2007-06-02,Figueirense,2,1,Goiás,False,False,first
-31,2007-06-02,Botafogo,3,0,Grêmio,False,False,first
-32,2007-06-02,Atlético-MG,1,1,Atlético-PR,False,False,first
-33,2007-06-03,Palmeiras,1,3,Cruzeiro,False,False,first
-34,2007-06-03,Paraná,0,1,São Paulo,False,False,first
-35,2007-06-03,Sport,2,2,Flamengo,False,False,first
-36,2007-06-03,Santos,1,1,Corinthians,False,False,first
-37,2007-06-03,Juventude,3,0,América-RN,False,False,first
-38,2007-06-03,Vasco da Gama,1,1,Fluminense,False,False,first
-39,2007-06-04,Internacional,2,0,Náutico,False,False,first
-40,2007-06-09,Palmeiras,1,1,Botafogo,False,False,first
-41,2007-06-09,Vasco da Gama,4,0,Grêmio,False,False,first
-42,2007-06-09,Náutico,4,4,Paraná,False,False,first
-43,2007-06-10,Atlético-PR,0,3,Goiás,False,False,first
-44,2007-06-10,América-RN,1,2,Corinthians,False,False,first
-45,2007-06-10,Fluminense,3,0,Sport,False,False,first
-46,2007-06-10,Cruzeiro,2,3,Juventude,False,False,first
-47,2007-06-10,São Paulo,0,1,Atlético-MG,False,False,first
-48,2007-06-10,Figueirense,4,0,Flamengo,False,False,first
-49,2007-06-10,Internacional,1,0,Santos,False,False,first
-50,2007-06-16,Corinthians,0,0,Paraná,False,False,first
-51,2007-06-16,Grêmio,0,2,Cruzeiro,False,False,first
-52,2007-06-16,Flamengo,2,2,Internacional,False,False,first
-53,2007-06-17,Atlético-PR,1,1,Fluminense,False,False,first
-54,2007-06-17,Goiás,3,1,Palmeiras,False,False,first
-55,2007-06-17,Botafogo,3,1,Náutico,False,False,first
-56,2007-06-17,Sport,2,2,América-RN,False,False,first
-57,2007-06-17,Atlético-MG,4,1,Figueirense,False,False,first
-58,2007-06-17,São Paulo,2,0,Vasco da Gama,False,False,first
-59,2007-06-17,Juventude,0,2,Santos,False,False,first
-60,2007-06-23,Paraná,1,0,Sport,False,False,first
-61,2007-06-23,Juventude,1,1,Figueirense,False,False,first
-62,2007-06-24,Palmeiras,0,2,Atlético-PR,False,False,first
-63,2007-06-24,América-RN,0,1,Fluminense,False,False,first
-64,2007-06-24,Náutico,0,2,Goiás,False,False,first
-65,2007-06-24,Cruzeiro,4,2,Atlético-MG,False,False,first
-66,2007-06-24,Santos,0,2,São Paulo,False,False,first
-67,2007-06-24,Internacional,0,2,Grêmio,False,False,first
-68,2007-08-15,Botafogo,2,3,Corinthians,False,False,first
-69,2007-10-18,Vasco da Gama,1,2,Flamengo,False,False,first
-70,2007-06-28,Figueirense,0,0,São Paulo,False,False,first
-71,2007-06-28,Sport,4,1,Náutico,False,False,first
-72,2007-06-30,Corinthians,0,1,Palmeiras,False,False,first
-73,2007-06-30,Paraná,2,2,Atlético-PR,False,False,first
-74,2007-06-30,América-RN,0,3,Goiás,False,False,first
-75,2007-06-30,Fluminense,1,2,Botafogo,False,False,first
-76,2007-06-30,Cruzeiro,3,1,Vasco da Gama,False,False,first
-77,2007-06-30,Santos,0,0,Grêmio,False,False,first
-78,2007-06-30,Internacional,1,1,Atlético-MG,False,False,first
-79,2007-08-23,Flamengo,4,0,Juventude,False,False,first
-80,2007-07-04,Palmeiras,2,0,América-RN,False,False,first
-81,2007-07-04,Atlético-PR,1,1,Náutico,False,False,first
-82,2007-07-04,Goiás,1,1,Botafogo,False,False,first
-83,2007-07-04,Fluminense,0,0,Paraná,False,False,first
-84,2007-07-04,São Paulo,1,0,Internacional,False,False,first
-85,2007-07-04,Figueirense,2,1,Cruzeiro,False,False,first
-86,2007-07-04,Grêmio,3,1,Juventude,False,False,first
-87,2007-07-05,Sport,2,1,Corinthians,False,False,first
-88,2007-07-05,Atlético-MG,1,1,Flamengo,False,False,first
-89,2007-07-05,Vasco da Gama,4,0,Santos,False,False,first
-90,2007-07-06,Paraná,0,1,América-RN,False,False,first
-91,2007-07-07,Corinthians,1,1,Fluminense,False,False,first
-92,2007-07-07,Goiás,3,2,Sport,False,False,first
-93,2007-07-07,Botafogo,2,0,Atlético-PR,False,False,first
-94,2007-07-07,Náutico,0,1,Palmeiras,False,False,first
-95,2007-07-07,Atlético-MG,0,1,Grêmio,False,False,first
-96,2007-07-07,Santos,4,1,Cruzeiro,False,False,first
-97,2007-07-07,Juventude,2,0,Vasco da Gama,False,False,first
-98,2007-07-07,Internacional,2,1,Figueirense,False,False,first
-99,2007-07-07,São Paulo,0,0,Flamengo,False,False,first
-100,2007-07-12,Paraná,1,2,Figueirense,False,False,first
-101,2007-07-12,Juventude,1,1,Náutico,False,False,first
-102,2007-07-12,Vasco da Gama,1,0,Atlético-PR,False,False,first
-103,2007-07-14,Corinthians,1,1,São Paulo,False,False,first
-104,2007-07-14,América-RN,1,2,Internacional,False,False,first
-105,2007-07-14,Sport,2,0,Atlético-MG,False,False,first
-106,2007-07-14,Cruzeiro,2,1,Goiás,False,False,first
-107,2007-07-14,Santos,3,0,Botafogo,False,False,first
-108,2007-07-14,Grêmio,1,1,Palmeiras,False,False,first
-109,2007-08-16,Fluminense,0,1,Flamengo,False,False,first
-110,2007-06-14,Botafogo,4,0,Vasco da Gama,False,False,first
-111,2007-07-18,Atlético-PR,4,0,Juventude,False,False,first
-112,2007-07-18,Náutico,1,4,Cruzeiro,False,False,first
-113,2007-07-18,Atlético-MG,4,1,América-RN,False,False,first
-114,2007-07-18,São Paulo,0,1,Fluminense,False,False,first
-115,2007-07-18,Figueirense,0,1,Sport,False,False,first
-116,2007-07-18,Internacional,3,0,Corinthians,False,False,first
-117,2007-07-19,Goiás,0,0,Grêmio,False,False,first
-118,2007-07-19,Palmeiras,2,2,Santos,False,False,first
-119,2007-07-19,Flamengo,1,2,Paraná,False,False,first
-120,2007-07-21,América-RN,2,1,Atlético-PR,False,False,first
-121,2007-07-21,Juventude,2,0,Internacional,False,False,first
-122,2007-07-21,Vasco da Gama,4,0,Atlético-MG,False,False,first
-123,2007-07-22,Corinthians,0,3,Náutico,False,False,first
-124,2007-07-22,Paraná,1,0,Palmeiras,False,False,first
-125,2007-07-22,Fluminense,3,0,Goiás,False,False,first
-126,2007-07-22,Sport,3,3,Botafogo,False,False,first
-127,2007-07-22,Cruzeiro,1,2,São Paulo,False,False,first
-128,2007-07-22,Santos,3,1,Figueirense,False,False,first
-129,2007-07-22,Grêmio,1,0,Flamengo,False,False,first
-130,2007-07-25,Palmeiras,3,2,Vasco da Gama,False,False,first
-131,2007-07-25,Atlético-PR,2,2,Cruzeiro,False,False,first
-132,2007-07-25,Goiás,1,0,Santos,False,False,first
-133,2007-07-25,Náutico,0,2,Grêmio,False,False,first
-134,2007-07-25,Internacional,1,0,Paraná,False,False,first
-135,2007-07-25,Flamengo,3,1,América-RN,False,False,first
-136,2007-07-25,Figueirense,2,2,Corinthians,False,False,first
-137,2007-07-26,Atlético-MG,3,0,Fluminense,False,False,first
-138,2007-07-26,São Paulo,3,1,Sport,False,False,first
-139,2007-07-26,Botafogo,3,1,Juventude,False,False,first
-140,2007-07-28,Santos,1,2,Náutico,False,False,first
-141,2007-07-28,Grêmio,1,1,Atlético-PR,False,False,first
-142,2007-07-28,Vasco da Gama,4,1,Goiás,False,False,first
-143,2007-07-29,Corinthians,2,2,Flamengo,False,False,first
-144,2007-07-29,Paraná,1,3,Atlético-MG,False,False,first
-145,2007-07-29,América-RN,0,1,São Paulo,False,False,first
-146,2007-07-29,Fluminense,1,1,Figueirense,False,False,first
-147,2007-07-29,Sport,1,5,Internacional,False,False,first
-148,2007-07-29,Cruzeiro,3,2,Botafogo,False,False,first
-149,2007-07-29,Juventude,1,1,Palmeiras,False,False,first
-150,2007-08-01,Palmeiras,1,2,Sport,False,False,first
-151,2007-08-01,Atlético-PR,2,2,Corinthians,False,False,first
-152,2007-08-01,Goiás,2,0,Paraná,False,False,first
-153,2007-08-01,Botafogo,4,2,América-RN,False,False,first
-154,2007-08-01,Náutico,0,0,Fluminense,False,False,first
-155,2007-08-01,Atlético-MG,1,2,Santos,False,False,first
-156,2007-08-01,Internacional,0,2,Vasco da Gama,False,False,first
-157,2007-08-02,São Paulo,3,1,Juventude,False,False,first
-158,2007-08-02,Figueirense,1,0,Grêmio,False,False,first
-159,2007-09-12,Flamengo,3,1,Cruzeiro,False,False,first
-160,2007-08-04,Corinthians,1,0,Goiás,False,False,first
-161,2007-08-04,Sport,3,2,Atlético-PR,False,False,first
-162,2007-08-04,América-RN,1,5,Náutico,False,False,first
-163,2007-08-05,Paraná,0,0,Botafogo,False,False,first
-164,2007-08-05,Fluminense,0,1,Palmeiras,False,False,first
-165,2007-08-05,Cruzeiro,3,2,Internacional,False,False,first
-166,2007-08-05,Santos,3,0,Flamengo,False,False,first
-167,2007-08-05,Juventude,1,2,Atlético-MG,False,False,first
-168,2007-08-05,Grêmio,0,2,São Paulo,False,False,first
-169,2007-08-05,Vasco da Gama,2,2,Figueirense,False,False,first
-170,2007-08-08,Juventude,0,0,Fluminense,False,False,first
-171,2007-08-08,Cruzeiro,2,0,Sport,False,False,first
-172,2007-08-08,Goiás,3,2,Atlético-MG,False,False,first
-173,2007-08-08,Náutico,4,2,Figueirense,False,False,first
-174,2007-08-08,Atlético-PR,2,0,Flamengo,False,False,first
-175,2007-08-08,Botafogo,0,2,São Paulo,False,False,first
-176,2007-08-09,Palmeiras,1,1,Internacional,False,False,first
-177,2007-08-09,Santos,2,0,Paraná,False,False,first
-178,2007-08-09,Grêmio,3,0,América-RN,False,False,first
-179,2007-08-09,Vasco da Gama,2,0,Corinthians,False,False,first
-180,2007-08-11,São Paulo,2,0,Atlético-PR,False,False,first
-181,2007-08-11,Sport,3,0,Juventude,False,False,first
-182,2007-08-11,Flamengo,2,1,Náutico,False,False,first
-183,2007-08-12,Corinthians,2,1,Grêmio,False,False,first
-184,2007-08-12,Paraná,0,0,Vasco da Gama,False,False,first
-185,2007-08-12,América-RN,1,2,Cruzeiro,False,False,first
-186,2007-08-12,Fluminense,3,0,Santos,False,False,first
-187,2007-08-12,Atlético-MG,1,2,Palmeiras,False,False,first
-188,2007-08-12,Figueirense,1,1,Botafogo,False,False,first
-189,2007-08-12,Internacional,1,0,Goiás,False,False,first
-190,2007-08-18,Santos,2,0,Sport,False,False,first
-191,2007-08-18,Grêmio,2,0,Paraná,False,False,first
-192,2007-08-18,Atlético-PR,1,1,Figueirense,False,False,first
-193,2007-08-19,Palmeiras,2,1,Flamengo,False,False,first
-194,2007-08-19,Goiás,0,0,São Paulo,False,False,first
-195,2007-08-19,Botafogo,1,1,Internacional,False,False,first
-196,2007-08-19,Náutico,0,1,Atlético-MG,False,False,first
-197,2007-08-19,Cruzeiro,4,2,Fluminense,False,False,first
-198,2007-08-19,Juventude,2,2,Corinthians,False,False,first
-199,2007-08-19,Vasco da Gama,2,0,América-RN,False,False,first
-200,2007-08-25,Corinthians,0,3,Cruzeiro,False,False,first
-201,2007-08-25,Internacional,1,0,Atlético-PR,False,False,first
-202,2007-08-25,Fluminense,1,1,Grêmio,False,False,first
-203,2007-08-26,Paraná,3,1,Juventude,False,False,first
-204,2007-08-26,América-RN,1,4,Santos,False,False,first
-205,2007-08-26,Sport,0,0,Vasco da Gama,False,False,first
-206,2007-08-26,Atlético-MG,1,2,Botafogo,False,False,first
-207,2007-08-26,São Paulo,5,0,Náutico,False,False,first
-208,2007-08-26,Figueirense,1,2,Palmeiras,False,False,first
-209,2007-08-26,Flamengo,3,1,Goiás,False,False,first
-210,2007-08-29,Palmeiras,0,1,São Paulo,False,False,first
-211,2007-08-29,Paraná,2,2,Cruzeiro,False,False,first
-212,2007-08-29,Juventude,2,0,Goiás,False,False,first
-213,2007-08-29,Botafogo,1,1,Flamengo,False,False,first
-214,2007-08-29,Sport,2,0,Grêmio,False,False,first
-215,2007-08-29,Atlético-MG,5,2,Corinthians,False,False,first
-216,2007-08-29,Figueirense,3,1,América-RN,False,False,first
-217,2007-08-29,Internacional,1,4,Fluminense,False,False,first
-218,2007-08-30,Santos,3,1,Atlético-PR,False,False,first
-219,2007-08-30,Vasco da Gama,4,1,Náutico,False,False,first
-220,2007-09-01,São Paulo,6,0,Paraná,False,False,first
-221,2007-09-01,América-RN,0,3,Juventude,False,False,first
-222,2007-09-01,Flamengo,1,1,Sport,False,False,first
-223,2007-09-02,Corinthians,2,0,Santos,False,False,first
-224,2007-09-02,Atlético-PR,1,0,Atlético-MG,False,False,first
-225,2007-09-02,Goiás,2,1,Figueirense,False,False,first
-226,2007-09-02,Fluminense,1,1,Vasco da Gama,False,False,first
-227,2007-09-02,Náutico,1,1,Internacional,False,False,first
-228,2007-09-02,Cruzeiro,5,0,Palmeiras,False,False,first
-229,2007-09-02,Grêmio,3,0,Botafogo,False,False,first
-230,2007-09-05,Atlético-MG,0,0,São Paulo,False,False,first
-231,2007-09-05,Santos,2,1,Internacional,False,False,first
-232,2007-09-05,Grêmio,3,1,Vasco da Gama,False,False,first
-233,2007-09-05,Flamengo,4,1,Figueirense,False,False,first
-234,2007-09-05,Juventude,1,0,Cruzeiro,False,False,first
-235,2007-09-05,Corinthians,1,0,América-RN,False,False,first
-236,2007-09-05,Goiás,2,3,Atlético-PR,False,False,first
-237,2007-09-06,Paraná,2,4,Náutico,False,False,first
-238,2007-09-06,Botafogo,1,1,Palmeiras,False,False,first
-239,2007-09-06,Sport,0,2,Fluminense,False,False,first
-240,2007-09-08,Figueirense,2,1,Atlético-MG,False,False,first
-241,2007-09-08,Internacional,3,0,Flamengo,False,False,first
-242,2007-09-08,Vasco da Gama,0,2,São Paulo,False,False,first
-243,2007-09-08,Cruzeiro,2,0,Grêmio,False,False,first
-244,2007-09-08,Santos,1,0,Juventude,False,False,first
-245,2007-09-09,Palmeiras,2,0,Goiás,False,False,first
-246,2007-09-09,Paraná,1,0,Corinthians,False,False,first
-247,2007-09-09,América-RN,1,1,Sport,False,False,first
-248,2007-09-09,Fluminense,2,0,Atlético-PR,False,False,first
-249,2007-09-09,Náutico,4,1,Botafogo,False,False,first
-250,2007-09-15,Goiás,0,3,Náutico,False,False,first
-251,2007-09-15,Fluminense,2,0,América-RN,False,False,first
-252,2007-09-15,São Paulo,2,1,Santos,False,False,first
-253,2007-09-16,Corinthians,0,1,Botafogo,False,False,first
-254,2007-09-16,Atlético-PR,2,1,Palmeiras,False,False,first
-255,2007-09-16,Sport,3,1,Paraná,False,False,first
-256,2007-09-16,Atlético-MG,3,4,Cruzeiro,False,False,first
-257,2007-09-16,Figueirense,4,1,Juventude,False,False,first
-258,2007-09-16,Grêmio,1,0,Internacional,False,False,first
-259,2007-09-16,Flamengo,1,1,Vasco da Gama,False,False,first
-260,2007-09-22,Goiás,1,1,América-RN,False,False,first
-261,2007-09-22,São Paulo,2,0,Figueirense,False,False,first
-262,2007-09-22,Grêmio,1,0,Santos,False,False,first
-263,2007-09-23,Palmeiras,1,0,Corinthians,False,False,first
-264,2007-09-23,Atlético-PR,2,1,Paraná,False,False,first
-265,2007-09-23,Botafogo,0,2,Fluminense,False,False,first
-266,2007-09-23,Náutico,2,0,Sport,False,False,first
-267,2007-09-23,Atlético-MG,2,2,Internacional,False,False,first
-268,2007-09-23,Juventude,2,2,Flamengo,False,False,first
-269,2007-09-23,Vasco da Gama,0,2,Cruzeiro,False,False,first
-270,2007-09-29,Corinthians,1,2,Sport,False,False,first
-271,2007-09-29,Náutico,5,0,Atlético-PR,False,False,first
-272,2007-09-29,Flamengo,1,0,Atlético-MG,False,False,first
-273,2007-09-30,Paraná,3,1,Fluminense,False,False,first
-274,2007-09-30,América-RN,0,0,Palmeiras,False,False,first
-275,2007-09-30,Botafogo,0,3,Goiás,False,False,first
-276,2007-09-30,Cruzeiro,1,2,Figueirense,False,False,first
-277,2007-09-30,Santos,1,0,Vasco da Gama,False,False,first
-278,2007-09-30,Juventude,1,2,Grêmio,False,False,first
-279,2007-09-30,Internacional,1,2,São Paulo,False,False,first
-280,2007-10-03,Palmeiras,2,1,Náutico,False,False,first
-281,2007-10-03,Atlético-PR,2,0,Botafogo,False,False,first
-282,2007-10-03,Fluminense,1,1,Corinthians,False,False,first
-283,2007-10-03,Sport,4,0,Goiás,False,False,first
-284,2007-10-03,Cruzeiro,0,1,Santos,False,False,first
-285,2007-10-03,Grêmio,2,2,Atlético-MG,False,False,first
-286,2007-10-03,Vasco da Gama,0,1,Juventude,False,False,first
-287,2007-10-04,América-RN,3,2,Paraná,False,False,first
-288,2007-10-04,Flamengo,1,0,São Paulo,False,False,first
-289,2007-10-04,Figueirense,0,0,Internacional,False,False,first
-290,2007-10-06,Palmeiras,2,0,Grêmio,False,False,first
-291,2007-10-06,Botafogo,1,2,Santos,False,False,first
-292,2007-10-06,Náutico,4,1,Juventude,False,False,first
-293,2007-10-07,Atlético-PR,1,0,Vasco da Gama,False,False,first
-294,2007-10-07,Goiás,0,0,Cruzeiro,False,False,first
-295,2007-10-07,Atlético-MG,3,1,Sport,False,False,first
-296,2007-10-07,São Paulo,0,1,Corinthians,False,False,first
-297,2007-10-07,Figueirense,4,0,Paraná,False,False,first
-298,2007-10-07,Internacional,2,0,América-RN,False,False,first
-299,2007-10-07,Flamengo,0,2,Fluminense,False,False,first
-300,2007-10-12,Sport,0,0,Figueirense,False,False,first
-301,2007-10-12,Cruzeiro,2,2,Náutico,False,False,first
-302,2007-10-12,Juventude,0,0,Atlético-PR,False,False,first
-303,2007-10-13,Corinthians,1,1,Internacional,False,False,first
-304,2007-10-13,Paraná,0,1,Flamengo,False,False,first
-305,2007-10-13,América-RN,0,1,Atlético-MG,False,False,first
-306,2007-10-13,Fluminense,1,1,São Paulo,False,False,first
-307,2007-10-13,Santos,1,1,Palmeiras,False,False,first
-308,2007-10-13,Grêmio,2,1,Goiás,False,False,first
-309,2007-10-14,Vasco da Gama,2,1,Botafogo,False,False,first
-310,2007-10-20,Palmeiras,3,0,Paraná,False,False,first
-311,2007-10-20,Goiás,5,3,Fluminense,False,False,first
-312,2007-10-20,Botafogo,3,1,Sport,False,False,first
-313,2007-10-21,Atlético-PR,2,0,América-RN,False,False,first
-314,2007-10-21,Náutico,1,0,Corinthians,False,False,first
-315,2007-10-21,Atlético-MG,1,0,Vasco da Gama,False,False,first
-316,2007-10-21,São Paulo,1,0,Cruzeiro,False,False,first
-317,2007-10-21,Figueirense,1,0,Santos,False,False,first
-318,2007-10-21,Internacional,3,0,Juventude,False,False,first
-319,2007-10-21,Flamengo,2,0,Grêmio,False,False,first
-320,2007-10-27,Fluminense,1,1,Atlético-MG,False,False,first
-321,2007-10-27,Cruzeiro,1,1,Atlético-PR,False,False,first
-322,2007-10-27,Santos,3,0,Goiás,False,False,first
-323,2007-10-28,Corinthians,2,1,Figueirense,False,False,first
-324,2007-10-28,Paraná,1,0,Internacional,False,False,first
-325,2007-10-28,América-RN,0,1,Flamengo,False,False,first
-326,2007-10-28,Sport,1,2,São Paulo,False,False,first
-327,2007-10-28,Juventude,1,1,Botafogo,False,False,first
-328,2007-10-28,Grêmio,4,3,Náutico,False,False,first
-329,2007-10-28,Vasco da Gama,2,2,Palmeiras,False,False,first
-330,2007-10-31,Figueirense,0,2,Fluminense,False,False,first
-331,2007-10-31,Atlético-PR,2,0,Grêmio,False,False,first
-332,2007-10-31,Atlético-MG,0,0,Paraná,False,False,first
-333,2007-10-31,São Paulo,3,0,América-RN,False,False,first
-334,2007-10-31,Flamengo,2,1,Corinthians,False,False,first
-335,2007-10-31,Goiás,2,3,Vasco da Gama,False,False,first
-336,2007-10-31,Náutico,1,2,Santos,False,False,first
-337,2007-11-01,Palmeiras,0,1,Juventude,False,False,first
-338,2007-11-01,Botafogo,4,1,Cruzeiro,False,False,first
-339,2007-11-01,Internacional,0,0,Sport,False,False,first
-340,2007-11-03,Paraná,1,0,Goiás,False,False,first
-341,2007-11-03,Fluminense,2,1,Náutico,False,False,first
-342,2007-11-03,Grêmio,1,2,Figueirense,False,False,first
-343,2007-11-04,Corinthians,2,2,Atlético-PR,False,False,first
-344,2007-11-04,América-RN,1,1,Botafogo,False,False,first
-345,2007-11-04,Sport,3,1,Palmeiras,False,False,first
-346,2007-11-04,Cruzeiro,3,1,Flamengo,False,False,first
-347,2007-11-04,Santos,2,2,Atlético-MG,False,False,first
-348,2007-11-04,Vasco da Gama,1,2,Internacional,False,False,first
-349,2007-11-07,Juventude,2,0,São Paulo,False,False,first
-350,2007-11-10,Botafogo,3,2,Paraná,False,False,first
-351,2007-11-10,Náutico,4,0,América-RN,False,False,first
-352,2007-11-10,Internacional,1,0,Cruzeiro,False,False,first
-353,2007-11-11,Atlético-PR,0,0,Sport,False,False,first
-354,2007-11-11,Goiás,1,1,Corinthians,False,False,first
-355,2007-11-11,Atlético-MG,4,1,Juventude,False,False,first
-356,2007-11-11,São Paulo,1,0,Grêmio,False,False,first
-357,2007-11-11,Figueirense,3,3,Vasco da Gama,False,False,first
-358,2007-11-11,Flamengo,1,0,Santos,False,False,first
-359,2007-11-14,Palmeiras,1,0,Fluminense,False,False,first
-360,2007-11-24,América-RN,0,3,Grêmio,False,False,first
-361,2007-11-24,Fluminense,3,2,Juventude,False,False,first
-362,2007-11-25,Paraná,2,3,Santos,False,False,first
-363,2007-11-25,Sport,1,0,Cruzeiro,False,False,first
-364,2007-11-25,São Paulo,2,2,Botafogo,False,False,first
-365,2007-11-25,Internacional,2,1,Palmeiras,False,False,first
-366,2007-11-25,Flamengo,2,0,Atlético-PR,False,False,first
-367,2007-11-28,Corinthians,0,1,Vasco da Gama,False,False,first
-368,2007-11-28,Atlético-MG,4,1,Goiás,False,False,first
-369,2007-11-28,Figueirense,2,0,Náutico,False,False,first
-370,2007-12-02,Palmeiras,1,3,Atlético-MG,False,False,first
-371,2007-12-02,Atlético-PR,2,1,São Paulo,False,False,first
-372,2007-12-02,Goiás,2,1,Internacional,False,False,first
-373,2007-12-02,Botafogo,1,1,Figueirense,False,False,first
-374,2007-12-02,Náutico,1,0,Flamengo,False,False,first
-375,2007-12-02,Cruzeiro,2,0,América-RN,False,False,first
-376,2007-12-02,Santos,2,4,Fluminense,False,False,first
-377,2007-12-02,Juventude,2,1,Sport,False,False,first
-378,2007-12-02,Grêmio,1,1,Corinthians,False,False,first
-379,2007-12-02,Vasco da Gama,3,0,Paraná,False,False,first
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2007-05-12,Fluminense,2,2,Cruzeiro,False,False,first
+2007-05-12,Figueirense,3,6,Atlético-PR,False,False,first
+2007-05-12,São Paulo,2,0,Goiás,False,False,first
+2007-05-13,Corinthians,1,0,Juventude,False,False,first
+2007-05-13,Paraná,3,0,Grêmio,False,False,first
+2007-05-13,América-RN,0,1,Vasco da Gama,False,False,first
+2007-05-13,Sport,4,1,Santos,False,False,first
+2007-05-13,Atlético-MG,2,1,Náutico,False,False,first
+2007-05-13,Internacional,2,3,Botafogo,False,False,first
+2007-05-13,Flamengo,2,4,Palmeiras,False,False,first
+2007-05-19,Atlético-PR,2,1,Internacional,False,False,first
+2007-05-19,Santos,2,3,América-RN,False,False,first
+2007-05-19,Juventude,1,2,Paraná,False,False,first
+2007-05-20,Palmeiras,2,1,Figueirense,False,False,first
+2007-05-20,Goiás,1,3,Flamengo,False,False,first
+2007-05-20,Botafogo,2,1,Atlético-MG,False,False,first
+2007-05-20,Náutico,1,0,São Paulo,False,False,first
+2007-05-20,Cruzeiro,0,3,Corinthians,False,False,first
+2007-05-20,Grêmio,2,0,Fluminense,False,False,first
+2007-05-20,Vasco da Gama,3,1,Sport,False,False,first
+2007-05-26,Corinthians,0,0,Atlético-MG,False,False,first
+2007-05-26,Fluminense,3,0,Internacional,False,False,first
+2007-05-26,América-RN,0,1,Figueirense,False,False,first
+2007-05-27,Atlético-PR,0,1,Santos,False,False,first
+2007-05-27,Náutico,2,2,Vasco da Gama,False,False,first
+2007-05-27,Cruzeiro,3,4,Paraná,False,False,first
+2007-05-27,São Paulo,0,0,Palmeiras,False,False,first
+2007-05-27,Goiás,3,1,Juventude,False,False,first
+2007-05-27,Grêmio,1,0,Sport,False,False,first
+2007-05-27,Flamengo,2,2,Botafogo,False,False,first
+2007-06-02,Figueirense,2,1,Goiás,False,False,first
+2007-06-02,Botafogo,3,0,Grêmio,False,False,first
+2007-06-02,Atlético-MG,1,1,Atlético-PR,False,False,first
+2007-06-03,Palmeiras,1,3,Cruzeiro,False,False,first
+2007-06-03,Paraná,0,1,São Paulo,False,False,first
+2007-06-03,Sport,2,2,Flamengo,False,False,first
+2007-06-03,Santos,1,1,Corinthians,False,False,first
+2007-06-03,Juventude,3,0,América-RN,False,False,first
+2007-06-03,Vasco da Gama,1,1,Fluminense,False,False,first
+2007-06-04,Internacional,2,0,Náutico,False,False,first
+2007-06-09,Palmeiras,1,1,Botafogo,False,False,first
+2007-06-09,Vasco da Gama,4,0,Grêmio,False,False,first
+2007-06-09,Náutico,4,4,Paraná,False,False,first
+2007-06-10,Atlético-PR,0,3,Goiás,False,False,first
+2007-06-10,América-RN,1,2,Corinthians,False,False,first
+2007-06-10,Fluminense,3,0,Sport,False,False,first
+2007-06-10,Cruzeiro,2,3,Juventude,False,False,first
+2007-06-10,São Paulo,0,1,Atlético-MG,False,False,first
+2007-06-10,Figueirense,4,0,Flamengo,False,False,first
+2007-06-10,Internacional,1,0,Santos,False,False,first
+2007-06-16,Corinthians,0,0,Paraná,False,False,first
+2007-06-16,Grêmio,0,2,Cruzeiro,False,False,first
+2007-06-16,Flamengo,2,2,Internacional,False,False,first
+2007-06-17,Atlético-PR,1,1,Fluminense,False,False,first
+2007-06-17,Goiás,3,1,Palmeiras,False,False,first
+2007-06-17,Botafogo,3,1,Náutico,False,False,first
+2007-06-17,Sport,2,2,América-RN,False,False,first
+2007-06-17,Atlético-MG,4,1,Figueirense,False,False,first
+2007-06-17,São Paulo,2,0,Vasco da Gama,False,False,first
+2007-06-17,Juventude,0,2,Santos,False,False,first
+2007-06-23,Paraná,1,0,Sport,False,False,first
+2007-06-23,Juventude,1,1,Figueirense,False,False,first
+2007-06-24,Palmeiras,0,2,Atlético-PR,False,False,first
+2007-06-24,América-RN,0,1,Fluminense,False,False,first
+2007-06-24,Náutico,0,2,Goiás,False,False,first
+2007-06-24,Cruzeiro,4,2,Atlético-MG,False,False,first
+2007-06-24,Santos,0,2,São Paulo,False,False,first
+2007-06-24,Internacional,0,2,Grêmio,False,False,first
+2007-08-15,Botafogo,2,3,Corinthians,False,False,first
+2007-10-18,Vasco da Gama,1,2,Flamengo,False,False,first
+2007-06-28,Figueirense,0,0,São Paulo,False,False,first
+2007-06-28,Sport,4,1,Náutico,False,False,first
+2007-06-30,Corinthians,0,1,Palmeiras,False,False,first
+2007-06-30,Paraná,2,2,Atlético-PR,False,False,first
+2007-06-30,América-RN,0,3,Goiás,False,False,first
+2007-06-30,Fluminense,1,2,Botafogo,False,False,first
+2007-06-30,Cruzeiro,3,1,Vasco da Gama,False,False,first
+2007-06-30,Santos,0,0,Grêmio,False,False,first
+2007-06-30,Internacional,1,1,Atlético-MG,False,False,first
+2007-08-23,Flamengo,4,0,Juventude,False,False,first
+2007-07-04,Palmeiras,2,0,América-RN,False,False,first
+2007-07-04,Atlético-PR,1,1,Náutico,False,False,first
+2007-07-04,Goiás,1,1,Botafogo,False,False,first
+2007-07-04,Fluminense,0,0,Paraná,False,False,first
+2007-07-04,São Paulo,1,0,Internacional,False,False,first
+2007-07-04,Figueirense,2,1,Cruzeiro,False,False,first
+2007-07-04,Grêmio,3,1,Juventude,False,False,first
+2007-07-05,Sport,2,1,Corinthians,False,False,first
+2007-07-05,Atlético-MG,1,1,Flamengo,False,False,first
+2007-07-05,Vasco da Gama,4,0,Santos,False,False,first
+2007-07-06,Paraná,0,1,América-RN,False,False,first
+2007-07-07,Corinthians,1,1,Fluminense,False,False,first
+2007-07-07,Goiás,3,2,Sport,False,False,first
+2007-07-07,Botafogo,2,0,Atlético-PR,False,False,first
+2007-07-07,Náutico,0,1,Palmeiras,False,False,first
+2007-07-07,Atlético-MG,0,1,Grêmio,False,False,first
+2007-07-07,Santos,4,1,Cruzeiro,False,False,first
+2007-07-07,Juventude,2,0,Vasco da Gama,False,False,first
+2007-07-07,Internacional,2,1,Figueirense,False,False,first
+2007-07-07,São Paulo,0,0,Flamengo,False,False,first
+2007-07-12,Paraná,1,2,Figueirense,False,False,first
+2007-07-12,Juventude,1,1,Náutico,False,False,first
+2007-07-12,Vasco da Gama,1,0,Atlético-PR,False,False,first
+2007-07-14,Corinthians,1,1,São Paulo,False,False,first
+2007-07-14,América-RN,1,2,Internacional,False,False,first
+2007-07-14,Sport,2,0,Atlético-MG,False,False,first
+2007-07-14,Cruzeiro,2,1,Goiás,False,False,first
+2007-07-14,Santos,3,0,Botafogo,False,False,first
+2007-07-14,Grêmio,1,1,Palmeiras,False,False,first
+2007-08-16,Fluminense,0,1,Flamengo,False,False,first
+2007-06-14,Botafogo,4,0,Vasco da Gama,False,False,first
+2007-07-18,Atlético-PR,4,0,Juventude,False,False,first
+2007-07-18,Náutico,1,4,Cruzeiro,False,False,first
+2007-07-18,Atlético-MG,4,1,América-RN,False,False,first
+2007-07-18,São Paulo,0,1,Fluminense,False,False,first
+2007-07-18,Figueirense,0,1,Sport,False,False,first
+2007-07-18,Internacional,3,0,Corinthians,False,False,first
+2007-07-19,Goiás,0,0,Grêmio,False,False,first
+2007-07-19,Palmeiras,2,2,Santos,False,False,first
+2007-07-19,Flamengo,1,2,Paraná,False,False,first
+2007-07-21,América-RN,2,1,Atlético-PR,False,False,first
+2007-07-21,Juventude,2,0,Internacional,False,False,first
+2007-07-21,Vasco da Gama,4,0,Atlético-MG,False,False,first
+2007-07-22,Corinthians,0,3,Náutico,False,False,first
+2007-07-22,Paraná,1,0,Palmeiras,False,False,first
+2007-07-22,Fluminense,3,0,Goiás,False,False,first
+2007-07-22,Sport,3,3,Botafogo,False,False,first
+2007-07-22,Cruzeiro,1,2,São Paulo,False,False,first
+2007-07-22,Santos,3,1,Figueirense,False,False,first
+2007-07-22,Grêmio,1,0,Flamengo,False,False,first
+2007-07-25,Palmeiras,3,2,Vasco da Gama,False,False,first
+2007-07-25,Atlético-PR,2,2,Cruzeiro,False,False,first
+2007-07-25,Goiás,1,0,Santos,False,False,first
+2007-07-25,Náutico,0,2,Grêmio,False,False,first
+2007-07-25,Internacional,1,0,Paraná,False,False,first
+2007-07-25,Flamengo,3,1,América-RN,False,False,first
+2007-07-25,Figueirense,2,2,Corinthians,False,False,first
+2007-07-26,Atlético-MG,3,0,Fluminense,False,False,first
+2007-07-26,São Paulo,3,1,Sport,False,False,first
+2007-07-26,Botafogo,3,1,Juventude,False,False,first
+2007-07-28,Santos,1,2,Náutico,False,False,first
+2007-07-28,Grêmio,1,1,Atlético-PR,False,False,first
+2007-07-28,Vasco da Gama,4,1,Goiás,False,False,first
+2007-07-29,Corinthians,2,2,Flamengo,False,False,first
+2007-07-29,Paraná,1,3,Atlético-MG,False,False,first
+2007-07-29,América-RN,0,1,São Paulo,False,False,first
+2007-07-29,Fluminense,1,1,Figueirense,False,False,first
+2007-07-29,Sport,1,5,Internacional,False,False,first
+2007-07-29,Cruzeiro,3,2,Botafogo,False,False,first
+2007-07-29,Juventude,1,1,Palmeiras,False,False,first
+2007-08-01,Palmeiras,1,2,Sport,False,False,first
+2007-08-01,Atlético-PR,2,2,Corinthians,False,False,first
+2007-08-01,Goiás,2,0,Paraná,False,False,first
+2007-08-01,Botafogo,4,2,América-RN,False,False,first
+2007-08-01,Náutico,0,0,Fluminense,False,False,first
+2007-08-01,Atlético-MG,1,2,Santos,False,False,first
+2007-08-01,Internacional,0,2,Vasco da Gama,False,False,first
+2007-08-02,São Paulo,3,1,Juventude,False,False,first
+2007-08-02,Figueirense,1,0,Grêmio,False,False,first
+2007-09-12,Flamengo,3,1,Cruzeiro,False,False,first
+2007-08-04,Corinthians,1,0,Goiás,False,False,first
+2007-08-04,Sport,3,2,Atlético-PR,False,False,first
+2007-08-04,América-RN,1,5,Náutico,False,False,first
+2007-08-05,Paraná,0,0,Botafogo,False,False,first
+2007-08-05,Fluminense,0,1,Palmeiras,False,False,first
+2007-08-05,Cruzeiro,3,2,Internacional,False,False,first
+2007-08-05,Santos,3,0,Flamengo,False,False,first
+2007-08-05,Juventude,1,2,Atlético-MG,False,False,first
+2007-08-05,Grêmio,0,2,São Paulo,False,False,first
+2007-08-05,Vasco da Gama,2,2,Figueirense,False,False,first
+2007-08-08,Juventude,0,0,Fluminense,False,False,first
+2007-08-08,Cruzeiro,2,0,Sport,False,False,first
+2007-08-08,Goiás,3,2,Atlético-MG,False,False,first
+2007-08-08,Náutico,4,2,Figueirense,False,False,first
+2007-08-08,Atlético-PR,2,0,Flamengo,False,False,first
+2007-08-08,Botafogo,0,2,São Paulo,False,False,first
+2007-08-09,Palmeiras,1,1,Internacional,False,False,first
+2007-08-09,Santos,2,0,Paraná,False,False,first
+2007-08-09,Grêmio,3,0,América-RN,False,False,first
+2007-08-09,Vasco da Gama,2,0,Corinthians,False,False,first
+2007-08-11,São Paulo,2,0,Atlético-PR,False,False,first
+2007-08-11,Sport,3,0,Juventude,False,False,first
+2007-08-11,Flamengo,2,1,Náutico,False,False,first
+2007-08-12,Corinthians,2,1,Grêmio,False,False,first
+2007-08-12,Paraná,0,0,Vasco da Gama,False,False,first
+2007-08-12,América-RN,1,2,Cruzeiro,False,False,first
+2007-08-12,Fluminense,3,0,Santos,False,False,first
+2007-08-12,Atlético-MG,1,2,Palmeiras,False,False,first
+2007-08-12,Figueirense,1,1,Botafogo,False,False,first
+2007-08-12,Internacional,1,0,Goiás,False,False,first
+2007-08-18,Santos,2,0,Sport,False,False,first
+2007-08-18,Grêmio,2,0,Paraná,False,False,first
+2007-08-18,Atlético-PR,1,1,Figueirense,False,False,first
+2007-08-19,Palmeiras,2,1,Flamengo,False,False,first
+2007-08-19,Goiás,0,0,São Paulo,False,False,first
+2007-08-19,Botafogo,1,1,Internacional,False,False,first
+2007-08-19,Náutico,0,1,Atlético-MG,False,False,first
+2007-08-19,Cruzeiro,4,2,Fluminense,False,False,first
+2007-08-19,Juventude,2,2,Corinthians,False,False,first
+2007-08-19,Vasco da Gama,2,0,América-RN,False,False,first
+2007-08-25,Corinthians,0,3,Cruzeiro,False,False,first
+2007-08-25,Internacional,1,0,Atlético-PR,False,False,first
+2007-08-25,Fluminense,1,1,Grêmio,False,False,first
+2007-08-26,Paraná,3,1,Juventude,False,False,first
+2007-08-26,América-RN,1,4,Santos,False,False,first
+2007-08-26,Sport,0,0,Vasco da Gama,False,False,first
+2007-08-26,Atlético-MG,1,2,Botafogo,False,False,first
+2007-08-26,São Paulo,5,0,Náutico,False,False,first
+2007-08-26,Figueirense,1,2,Palmeiras,False,False,first
+2007-08-26,Flamengo,3,1,Goiás,False,False,first
+2007-08-29,Palmeiras,0,1,São Paulo,False,False,first
+2007-08-29,Paraná,2,2,Cruzeiro,False,False,first
+2007-08-29,Juventude,2,0,Goiás,False,False,first
+2007-08-29,Botafogo,1,1,Flamengo,False,False,first
+2007-08-29,Sport,2,0,Grêmio,False,False,first
+2007-08-29,Atlético-MG,5,2,Corinthians,False,False,first
+2007-08-29,Figueirense,3,1,América-RN,False,False,first
+2007-08-29,Internacional,1,4,Fluminense,False,False,first
+2007-08-30,Santos,3,1,Atlético-PR,False,False,first
+2007-08-30,Vasco da Gama,4,1,Náutico,False,False,first
+2007-09-01,São Paulo,6,0,Paraná,False,False,first
+2007-09-01,América-RN,0,3,Juventude,False,False,first
+2007-09-01,Flamengo,1,1,Sport,False,False,first
+2007-09-02,Corinthians,2,0,Santos,False,False,first
+2007-09-02,Atlético-PR,1,0,Atlético-MG,False,False,first
+2007-09-02,Goiás,2,1,Figueirense,False,False,first
+2007-09-02,Fluminense,1,1,Vasco da Gama,False,False,first
+2007-09-02,Náutico,1,1,Internacional,False,False,first
+2007-09-02,Cruzeiro,5,0,Palmeiras,False,False,first
+2007-09-02,Grêmio,3,0,Botafogo,False,False,first
+2007-09-05,Atlético-MG,0,0,São Paulo,False,False,first
+2007-09-05,Santos,2,1,Internacional,False,False,first
+2007-09-05,Grêmio,3,1,Vasco da Gama,False,False,first
+2007-09-05,Flamengo,4,1,Figueirense,False,False,first
+2007-09-05,Juventude,1,0,Cruzeiro,False,False,first
+2007-09-05,Corinthians,1,0,América-RN,False,False,first
+2007-09-05,Goiás,2,3,Atlético-PR,False,False,first
+2007-09-06,Paraná,2,4,Náutico,False,False,first
+2007-09-06,Botafogo,1,1,Palmeiras,False,False,first
+2007-09-06,Sport,0,2,Fluminense,False,False,first
+2007-09-08,Figueirense,2,1,Atlético-MG,False,False,first
+2007-09-08,Internacional,3,0,Flamengo,False,False,first
+2007-09-08,Vasco da Gama,0,2,São Paulo,False,False,first
+2007-09-08,Cruzeiro,2,0,Grêmio,False,False,first
+2007-09-08,Santos,1,0,Juventude,False,False,first
+2007-09-09,Palmeiras,2,0,Goiás,False,False,first
+2007-09-09,Paraná,1,0,Corinthians,False,False,first
+2007-09-09,América-RN,1,1,Sport,False,False,first
+2007-09-09,Fluminense,2,0,Atlético-PR,False,False,first
+2007-09-09,Náutico,4,1,Botafogo,False,False,first
+2007-09-15,Goiás,0,3,Náutico,False,False,first
+2007-09-15,Fluminense,2,0,América-RN,False,False,first
+2007-09-15,São Paulo,2,1,Santos,False,False,first
+2007-09-16,Corinthians,0,1,Botafogo,False,False,first
+2007-09-16,Atlético-PR,2,1,Palmeiras,False,False,first
+2007-09-16,Sport,3,1,Paraná,False,False,first
+2007-09-16,Atlético-MG,3,4,Cruzeiro,False,False,first
+2007-09-16,Figueirense,4,1,Juventude,False,False,first
+2007-09-16,Grêmio,1,0,Internacional,False,False,first
+2007-09-16,Flamengo,1,1,Vasco da Gama,False,False,first
+2007-09-22,Goiás,1,1,América-RN,False,False,first
+2007-09-22,São Paulo,2,0,Figueirense,False,False,first
+2007-09-22,Grêmio,1,0,Santos,False,False,first
+2007-09-23,Palmeiras,1,0,Corinthians,False,False,first
+2007-09-23,Atlético-PR,2,1,Paraná,False,False,first
+2007-09-23,Botafogo,0,2,Fluminense,False,False,first
+2007-09-23,Náutico,2,0,Sport,False,False,first
+2007-09-23,Atlético-MG,2,2,Internacional,False,False,first
+2007-09-23,Juventude,2,2,Flamengo,False,False,first
+2007-09-23,Vasco da Gama,0,2,Cruzeiro,False,False,first
+2007-09-29,Corinthians,1,2,Sport,False,False,first
+2007-09-29,Náutico,5,0,Atlético-PR,False,False,first
+2007-09-29,Flamengo,1,0,Atlético-MG,False,False,first
+2007-09-30,Paraná,3,1,Fluminense,False,False,first
+2007-09-30,América-RN,0,0,Palmeiras,False,False,first
+2007-09-30,Botafogo,0,3,Goiás,False,False,first
+2007-09-30,Cruzeiro,1,2,Figueirense,False,False,first
+2007-09-30,Santos,1,0,Vasco da Gama,False,False,first
+2007-09-30,Juventude,1,2,Grêmio,False,False,first
+2007-09-30,Internacional,1,2,São Paulo,False,False,first
+2007-10-03,Palmeiras,2,1,Náutico,False,False,first
+2007-10-03,Atlético-PR,2,0,Botafogo,False,False,first
+2007-10-03,Fluminense,1,1,Corinthians,False,False,first
+2007-10-03,Sport,4,0,Goiás,False,False,first
+2007-10-03,Cruzeiro,0,1,Santos,False,False,first
+2007-10-03,Grêmio,2,2,Atlético-MG,False,False,first
+2007-10-03,Vasco da Gama,0,1,Juventude,False,False,first
+2007-10-04,América-RN,3,2,Paraná,False,False,first
+2007-10-04,Flamengo,1,0,São Paulo,False,False,first
+2007-10-04,Figueirense,0,0,Internacional,False,False,first
+2007-10-06,Palmeiras,2,0,Grêmio,False,False,first
+2007-10-06,Botafogo,1,2,Santos,False,False,first
+2007-10-06,Náutico,4,1,Juventude,False,False,first
+2007-10-07,Atlético-PR,1,0,Vasco da Gama,False,False,first
+2007-10-07,Goiás,0,0,Cruzeiro,False,False,first
+2007-10-07,Atlético-MG,3,1,Sport,False,False,first
+2007-10-07,São Paulo,0,1,Corinthians,False,False,first
+2007-10-07,Figueirense,4,0,Paraná,False,False,first
+2007-10-07,Internacional,2,0,América-RN,False,False,first
+2007-10-07,Flamengo,0,2,Fluminense,False,False,first
+2007-10-12,Sport,0,0,Figueirense,False,False,first
+2007-10-12,Cruzeiro,2,2,Náutico,False,False,first
+2007-10-12,Juventude,0,0,Atlético-PR,False,False,first
+2007-10-13,Corinthians,1,1,Internacional,False,False,first
+2007-10-13,Paraná,0,1,Flamengo,False,False,first
+2007-10-13,América-RN,0,1,Atlético-MG,False,False,first
+2007-10-13,Fluminense,1,1,São Paulo,False,False,first
+2007-10-13,Santos,1,1,Palmeiras,False,False,first
+2007-10-13,Grêmio,2,1,Goiás,False,False,first
+2007-10-14,Vasco da Gama,2,1,Botafogo,False,False,first
+2007-10-20,Palmeiras,3,0,Paraná,False,False,first
+2007-10-20,Goiás,5,3,Fluminense,False,False,first
+2007-10-20,Botafogo,3,1,Sport,False,False,first
+2007-10-21,Atlético-PR,2,0,América-RN,False,False,first
+2007-10-21,Náutico,1,0,Corinthians,False,False,first
+2007-10-21,Atlético-MG,1,0,Vasco da Gama,False,False,first
+2007-10-21,São Paulo,1,0,Cruzeiro,False,False,first
+2007-10-21,Figueirense,1,0,Santos,False,False,first
+2007-10-21,Internacional,3,0,Juventude,False,False,first
+2007-10-21,Flamengo,2,0,Grêmio,False,False,first
+2007-10-27,Fluminense,1,1,Atlético-MG,False,False,first
+2007-10-27,Cruzeiro,1,1,Atlético-PR,False,False,first
+2007-10-27,Santos,3,0,Goiás,False,False,first
+2007-10-28,Corinthians,2,1,Figueirense,False,False,first
+2007-10-28,Paraná,1,0,Internacional,False,False,first
+2007-10-28,América-RN,0,1,Flamengo,False,False,first
+2007-10-28,Sport,1,2,São Paulo,False,False,first
+2007-10-28,Juventude,1,1,Botafogo,False,False,first
+2007-10-28,Grêmio,4,3,Náutico,False,False,first
+2007-10-28,Vasco da Gama,2,2,Palmeiras,False,False,first
+2007-10-31,Figueirense,0,2,Fluminense,False,False,first
+2007-10-31,Atlético-PR,2,0,Grêmio,False,False,first
+2007-10-31,Atlético-MG,0,0,Paraná,False,False,first
+2007-10-31,São Paulo,3,0,América-RN,False,False,first
+2007-10-31,Flamengo,2,1,Corinthians,False,False,first
+2007-10-31,Goiás,2,3,Vasco da Gama,False,False,first
+2007-10-31,Náutico,1,2,Santos,False,False,first
+2007-11-01,Palmeiras,0,1,Juventude,False,False,first
+2007-11-01,Botafogo,4,1,Cruzeiro,False,False,first
+2007-11-01,Internacional,0,0,Sport,False,False,first
+2007-11-03,Paraná,1,0,Goiás,False,False,first
+2007-11-03,Fluminense,2,1,Náutico,False,False,first
+2007-11-03,Grêmio,1,2,Figueirense,False,False,first
+2007-11-04,Corinthians,2,2,Atlético-PR,False,False,first
+2007-11-04,América-RN,1,1,Botafogo,False,False,first
+2007-11-04,Sport,3,1,Palmeiras,False,False,first
+2007-11-04,Cruzeiro,3,1,Flamengo,False,False,first
+2007-11-04,Santos,2,2,Atlético-MG,False,False,first
+2007-11-04,Vasco da Gama,1,2,Internacional,False,False,first
+2007-11-07,Juventude,2,0,São Paulo,False,False,first
+2007-11-10,Botafogo,3,2,Paraná,False,False,first
+2007-11-10,Náutico,4,0,América-RN,False,False,first
+2007-11-10,Internacional,1,0,Cruzeiro,False,False,first
+2007-11-11,Atlético-PR,0,0,Sport,False,False,first
+2007-11-11,Goiás,1,1,Corinthians,False,False,first
+2007-11-11,Atlético-MG,4,1,Juventude,False,False,first
+2007-11-11,São Paulo,1,0,Grêmio,False,False,first
+2007-11-11,Figueirense,3,3,Vasco da Gama,False,False,first
+2007-11-11,Flamengo,1,0,Santos,False,False,first
+2007-11-14,Palmeiras,1,0,Fluminense,False,False,first
+2007-11-24,América-RN,0,3,Grêmio,False,False,first
+2007-11-24,Fluminense,3,2,Juventude,False,False,first
+2007-11-25,Paraná,2,3,Santos,False,False,first
+2007-11-25,Sport,1,0,Cruzeiro,False,False,first
+2007-11-25,São Paulo,2,2,Botafogo,False,False,first
+2007-11-25,Internacional,2,1,Palmeiras,False,False,first
+2007-11-25,Flamengo,2,0,Atlético-PR,False,False,first
+2007-11-28,Corinthians,0,1,Vasco da Gama,False,False,first
+2007-11-28,Atlético-MG,4,1,Goiás,False,False,first
+2007-11-28,Figueirense,2,0,Náutico,False,False,first
+2007-12-02,Palmeiras,1,3,Atlético-MG,False,False,first
+2007-12-02,Atlético-PR,2,1,São Paulo,False,False,first
+2007-12-02,Goiás,2,1,Internacional,False,False,first
+2007-12-02,Botafogo,1,1,Figueirense,False,False,first
+2007-12-02,Náutico,1,0,Flamengo,False,False,first
+2007-12-02,Cruzeiro,2,0,América-RN,False,False,first
+2007-12-02,Santos,2,4,Fluminense,False,False,first
+2007-12-02,Juventude,2,1,Sport,False,False,first
+2007-12-02,Grêmio,1,1,Corinthians,False,False,first
+2007-12-02,Vasco da Gama,3,0,Paraná,False,False,first

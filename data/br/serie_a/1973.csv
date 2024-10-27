@@ -1,657 +1,657 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,1973-08-25,Corinthians,0,0,América-GB,False,False,first
-1,1973-08-25,CEUB,0,0,Botafogo,False,False,first
-2,1973-08-25,Paysandu,2,1,Internacional,False,False,first
-3,1973-08-25,Tiradentes,0,0,Fluminense,False,False,first
-4,1973-08-25,Figueirense,0,0,Coritiba,False,False,first
-5,1973-08-25,CRB,0,1,América-MG,False,False,first
-6,1973-08-25,Bahia,1,1,São Paulo,False,False,first
-7,1973-08-25,Moto Clube,0,3,Cruzeiro,False,False,first
-8,1973-08-25,Sport,0,0,Fortaleza,False,False,first
-9,1973-08-25,Grêmio,4,0,Santa Cruz,False,False,first
-10,1973-08-25,Desportiva,2,0,Sergipe,False,False,first
-11,1973-08-25,Goiás,0,0,Olaria,False,False,first
-12,1973-08-25,Comercial-MS,0,1,Flamengo,False,False,first
-13,1973-08-25,Ceará,2,2,Náutico,False,False,first
-14,1973-08-25,Atlético-PR,0,0,Vitória,False,False,first
-15,1973-08-25,América-RN,0,0,Rio Negro,False,False,first
-16,1973-08-25,Remo,0,2,Palmeiras,False,False,first
-17,1973-08-26,Nacional-AM,1,1,Guarani,False,False,first
-18,1973-08-29,Moto Clube,1,4,Fluminense,False,False,first
-19,1973-08-29,Figueirense,2,2,Botafogo,False,False,first
-20,1973-08-29,Guarani,0,1,Corinthians,False,False,first
-21,1973-08-29,CRB,0,1,São Paulo,False,False,first
-22,1973-08-29,Tiradentes,1,1,Cruzeiro,False,False,first
-23,1973-08-29,América-MG,4,1,Sport,False,False,first
-24,1973-08-29,Fortaleza,1,1,Bahia,False,False,first
-25,1973-08-29,Coritiba,2,1,CEUB,False,False,first
-26,1973-08-29,Sergipe,0,3,Vasco da Gama,False,False,first
-27,1973-08-29,Goiás,1,0,Flamengo,False,False,first
-28,1973-08-29,Comercial-MS,2,1,Olaria,False,False,first
-29,1973-08-29,Rio Negro,1,2,Palmeiras,False,False,first
-30,1973-08-29,Vitória,2,0,Santos,False,False,first
-31,1973-08-29,Remo,1,0,Portuguesa-SP,False,False,first
-32,1973-08-29,Desportiva,2,0,Atlético-MG,False,False,first
-33,1973-08-29,América-RN,1,1,Grêmio,False,False,first
-34,1973-08-29,Santa Cruz,1,1,Ceará,False,False,first
-35,1973-08-30,Nacional-AM,0,0,Internacional,False,False,first
-36,1973-08-30,Paysandu,0,0,América-GB,False,False,first
-37,1973-08-30,Náutico,1,0,Atlético-PR,False,False,first
-38,1973-08-31,Sport,0,3,São Paulo,False,False,first
-39,1973-08-31,América-MG,1,0,Fortaleza,False,False,first
-40,1973-08-31,CEUB,2,1,Figueirense,False,False,first
-41,1973-08-31,Botafogo,4,0,Fluminense,False,False,first
-42,1973-08-31,Nacional-AM,1,1,América-GB,False,False,first
-43,1973-08-31,Coritiba,3,0,Corinthians,False,False,first
-44,1973-08-31,Paysandu,0,2,Guarani,False,False,first
-45,1973-08-31,Rio Negro,1,3,Portuguesa-SP,False,False,first
-46,1973-09-02,Internacional,0,1,Cruzeiro,False,False,first
-47,1973-09-02,CRB,0,1,Bahia,False,False,first
-48,1973-09-02,Moto Clube,0,1,Tiradentes,False,False,first
-49,1973-09-02,Vitória,0,0,Vasco da Gama,False,False,first
-50,1973-09-02,Santa Cruz,3,1,Flamengo,False,False,first
-51,1973-09-02,Santos,0,0,Palmeiras,False,False,first
-52,1973-09-02,Atlético-MG,0,0,Grêmio,False,False,first
-53,1973-09-02,Desportiva,0,1,Remo,False,False,first
-54,1973-09-02,Ceará,0,1,Atlético-PR,False,False,first
-55,1973-09-02,América-RN,2,0,Sergipe,False,False,first
-56,1973-09-02,Goiás,2,0,Comercial-MS,False,False,first
-57,1973-09-05,Bahia,0,1,Fluminense,False,False,first
-58,1973-09-05,Moto Clube,0,2,Botafogo,False,False,first
-59,1973-09-05,Figueirense,1,1,Corinthians,False,False,first
-60,1973-09-05,Guarani,1,1,São Paulo,False,False,first
-61,1973-09-05,CEUB,2,0,Cruzeiro,False,False,first
-62,1973-09-05,Sport,0,1,Internacional,False,False,first
-63,1973-09-05,Tiradentes,2,0,Paysandu,False,False,first
-64,1973-09-05,CRB,1,1,Nacional-AM,False,False,first
-65,1973-09-05,Fortaleza,3,2,Coritiba,False,False,first
-66,1973-09-05,Desportiva,0,1,Vasco da Gama,False,False,first
-67,1973-09-05,Olaria,0,1,Flamengo,False,False,first
-68,1973-09-05,Atlético-PR,1,1,Palmeiras,False,False,first
-69,1973-09-05,Santos,0,0,Grêmio,False,False,first
-70,1973-09-05,Comercial-MS,1,1,Atlético-MG,False,False,first
-71,1973-09-05,Rio Negro,1,0,Santa Cruz,False,False,first
-72,1973-09-05,Remo,1,0,Náutico,False,False,first
-73,1973-09-05,América-RN,2,0,Ceará,False,False,first
-74,1973-09-05,Goiás,3,0,Sergipe,False,False,first
-75,1973-09-06,América-GB,1,0,América-MG,False,False,first
-76,1973-09-08,Nacional-AM,0,1,Coritiba,False,False,first
-77,1973-09-08,Vasco da Gama,1,1,Ceará,False,False,first
-78,1973-09-08,Portuguesa-SP,4,2,Olaria,False,False,first
-79,1973-09-09,CRB,1,2,Fluminense,False,False,first
-80,1973-09-09,Tiradentes,0,0,Botafogo,False,False,first
-81,1973-09-09,Moto Clube,1,1,América-GB,False,False,first
-82,1973-09-09,Corinthians,1,0,São Paulo,False,False,first
-83,1973-09-09,Guarani,3,1,CEUB,False,False,first
-84,1973-09-09,Cruzeiro,1,0,América-MG,False,False,first
-85,1973-09-09,Bahia,1,2,Internacional,False,False,first
-86,1973-09-09,Paysandu,2,2,Sport,False,False,first
-87,1973-09-09,Fortaleza,2,0,Figueirense,False,False,first
-88,1973-09-09,Flamengo,0,1,Santos,False,False,first
-89,1973-09-09,Grêmio,0,0,Palmeiras,False,False,first
-90,1973-09-09,Atlético-PR,0,1,Atlético-MG,False,False,first
-91,1973-09-09,Náutico,0,0,Santa Cruz,False,False,first
-92,1973-09-09,Sergipe,1,0,Remo,False,False,first
-93,1973-09-09,Rio Negro,0,0,Vitória,False,False,first
-94,1973-09-09,Goiás,0,0,América-RN,False,False,first
-95,1973-09-09,Comercial-MS,0,0,Desportiva,False,False,first
-96,1973-09-12,Fluminense,3,0,Guarani,False,False,first
-97,1973-09-12,Fortaleza,0,2,Botafogo,False,False,first
-98,1973-09-12,Tiradentes,0,0,América-GB,False,False,first
-99,1973-09-12,Moto Clube,0,0,Corinthians,False,False,first
-100,1973-09-12,São Paulo,1,0,América-MG,False,False,first
-101,1973-09-12,Figueirense,0,1,Cruzeiro,False,False,first
-102,1973-09-12,CRB,0,1,Internacional,False,False,first
-103,1973-09-12,Sport,1,2,Nacional-AM,False,False,first
-104,1973-09-12,Paysandu,0,1,Coritiba,False,False,first
-105,1973-09-12,CEUB,0,0,Bahia,False,False,first
-106,1973-09-12,América-RN,1,1,Vasco da Gama,False,False,first
-107,1973-09-12,Sergipe,0,1,Flamengo,False,False,first
-108,1973-09-12,Vitória,0,0,Olaria,False,False,first
-109,1973-09-12,Comercial-MS,1,0,Santos,False,False,first
-110,1973-09-12,Goiás,0,0,Portuguesa-SP,False,False,first
-111,1973-09-12,Rio Negro,1,2,Atlético-MG,False,False,first
-112,1973-09-12,Desportiva,1,0,Náutico,False,False,first
-113,1973-09-12,Ceará,0,2,Palmeiras,False,False,first
-114,1973-09-12,Santa Cruz,2,1,Remo,False,False,first
-115,1973-09-15,Cruzeiro,1,0,Bahia,False,False,first
-116,1973-09-15,Coritiba,3,0,Sport,False,False,first
-117,1973-09-15,CEUB,1,2,CRB,False,False,first
-118,1973-09-15,Grêmio,2,0,Olaria,False,False,first
-119,1973-09-16,Fluminense,2,0,América-GB,False,False,first
-120,1973-09-16,Internacional,0,1,Botafogo,False,False,first
-121,1973-09-16,Tiradentes,1,0,Corinthians,False,False,first
-122,1973-09-16,Fortaleza,0,0,São Paulo,False,False,first
-123,1973-09-16,Figueirense,1,1,Guarani,False,False,first
-124,1973-09-16,Nacional-AM,2,1,Paysandu,False,False,first
-125,1973-09-16,Moto Clube,0,0,América-MG,False,False,first
-126,1973-09-16,Náutico,2,1,Vasco da Gama,False,False,first
-127,1973-09-16,Atlético-MG,3,0,Flamengo,False,False,first
-128,1973-09-16,Palmeiras,1,1,Portuguesa-SP,False,False,first
-129,1973-09-16,Atlético-PR,0,2,Santos,False,False,first
-130,1973-09-16,América-RN,2,2,Santa Cruz,False,False,first
-131,1973-09-16,Remo,1,0,Goiás,False,False,first
-132,1973-09-16,Desportiva,0,1,Rio Negro,False,False,first
-133,1973-09-16,Vitória,0,1,Ceará,False,False,first
-134,1973-09-16,Comercial-MS,1,0,Sergipe,False,False,first
-135,1973-09-19,Vasco da Gama,0,1,Portuguesa-SP,False,False,first
-136,1973-09-19,Atlético-MG,0,0,Santos,False,False,first
-137,1973-09-21,Palmeiras,1,0,Olaria,False,False,first
-138,1973-09-22,Fortaleza,2,1,América-GB,False,False,first
-139,1973-09-22,Corinthians,1,0,Internacional,False,False,first
-140,1973-09-22,América-MG,0,0,Tiradentes,False,False,first
-141,1973-09-22,CEUB,1,1,Sport,False,False,first
-142,1973-09-22,Rio Negro,1,0,Goiás,False,False,first
-143,1973-09-23,São Paulo,2,2,Fluminense,False,False,first
-144,1973-09-23,Nacional-AM,1,1,Botafogo,False,False,first
-145,1973-09-23,Guarani,1,0,Moto Clube,False,False,first
-146,1973-09-23,Cruzeiro,0,0,Coritiba,False,False,first
-147,1973-09-23,CRB,3,2,Paysandu,False,False,first
-148,1973-09-23,Bahia,1,0,Figueirense,False,False,first
-149,1973-09-23,Vasco da Gama,2,2,Flamengo,False,False,first
-150,1973-09-23,Ceará,2,0,Santos,False,False,first
-151,1973-09-23,Grêmio,1,0,Portuguesa-SP,False,False,first
-152,1973-09-23,Sergipe,0,4,Atlético-MG,False,False,first
-153,1973-09-23,Santa Cruz,1,0,Vitória,False,False,first
-154,1973-09-23,Comercial-MS,1,2,Náutico,False,False,first
-155,1973-09-23,Remo,1,2,América-RN,False,False,first
-156,1973-09-23,Atlético-PR,1,0,Desportiva,False,False,first
-157,1973-09-26,Figueirense,1,0,Fluminense,False,False,first
-158,1973-09-26,Paysandu,0,1,Botafogo,False,False,first
-159,1973-09-26,Coritiba,2,0,América-GB,False,False,first
-160,1973-09-26,CEUB,0,0,São Paulo,False,False,first
-161,1973-09-26,Cruzeiro,1,1,Guarani,False,False,first
-162,1973-09-26,Nacional-AM,2,2,Bahia,False,False,first
-163,1973-09-26,Moto Clube,0,0,Fortaleza,False,False,first
-164,1973-09-26,Tiradentes,1,1,CRB,False,False,first
-165,1973-09-26,Comercial-MS,1,1,Rio Negro,False,False,first
-166,1973-09-26,Ceará,1,1,Flamengo,False,False,first
-167,1973-09-26,Santa Cruz,1,0,Olaria,False,False,first
-168,1973-09-26,Palmeiras,2,0,Náutico,False,False,first
-169,1973-09-26,América-RN,1,6,Santos,False,False,first
-170,1973-09-26,Desportiva,1,1,Portuguesa-SP,False,False,first
-171,1973-09-26,Vitória,0,1,Atlético-MG,False,False,first
-172,1973-09-26,Sergipe,1,2,Grêmio,False,False,first
-173,1973-09-26,Goiás,1,0,Atlético-PR,False,False,first
-174,1973-09-27,Sport,1,2,Corinthians,False,False,first
-175,1973-09-27,Remo,0,1,Vasco da Gama,False,False,first
-176,1973-09-29,Nacional-AM,1,0,CEUB,False,False,first
-177,1973-09-29,Atlético-PR,0,0,Santa Cruz,False,False,first
-178,1973-09-30,Cruzeiro,0,0,Fluminense,False,False,first
-179,1973-09-30,Botafogo,1,0,São Paulo,False,False,first
-180,1973-09-30,CRB,0,3,Corinthians,False,False,first
-181,1973-09-30,Internacional,0,0,América-GB,False,False,first
-182,1973-09-30,Guarani,2,2,Fortaleza,False,False,first
-183,1973-09-30,Moto Clube,0,2,Sport,False,False,first
-184,1973-09-30,Bahia,3,0,Paysandu,False,False,first
-185,1973-09-30,Figueirense,1,0,Tiradentes,False,False,first
-186,1973-09-30,Coritiba,0,2,América-MG,False,False,first
-187,1973-09-30,Rio Negro,0,0,Vasco da Gama,False,False,first
-188,1973-09-30,América-RN,0,3,Flamengo,False,False,first
-189,1973-09-30,Desportiva,1,1,Olaria,False,False,first
-190,1973-09-30,Palmeiras,1,0,Atlético-MG,False,False,first
-191,1973-09-30,Náutico,0,3,Santos,False,False,first
-192,1973-09-30,Ceará,1,1,Portuguesa-SP,False,False,first
-193,1973-09-30,Goiás,0,2,Grêmio,False,False,first
-194,1973-09-30,Remo,1,0,Comercial-MS,False,False,first
-195,1973-09-30,Sergipe,0,1,Vitória,False,False,first
-196,1973-10-03,América-MG,0,0,Fluminense,False,False,first
-197,1973-10-03,Guarani,1,1,Botafogo,False,False,first
-198,1973-10-03,CEUB,1,0,América-GB,False,False,first
-199,1973-10-03,Bahia,0,1,Corinthians,False,False,first
-200,1973-10-03,Moto Clube,1,4,São Paulo,False,False,first
-201,1973-10-03,Paysandu,1,2,Cruzeiro,False,False,first
-202,1973-10-03,Fortaleza,0,0,Internacional,False,False,first
-203,1973-10-03,CRB,0,3,Sport,False,False,first
-204,1973-10-03,Figueirense,0,0,Nacional-AM,False,False,first
-205,1973-10-03,Tiradentes,2,1,Coritiba,False,False,first
-206,1973-10-03,Santa Cruz,0,2,Vasco da Gama,False,False,first
-207,1973-10-03,Flamengo,4,1,Náutico,False,False,first
-208,1973-10-03,Sergipe,0,3,Santos,False,False,first
-209,1973-10-03,América-RN,1,1,Portuguesa-SP,False,False,first
-210,1973-10-03,Comercial-MS,1,0,Grêmio,False,False,first
-211,1973-10-03,Atlético-PR,1,0,Rio Negro,False,False,first
-212,1973-10-03,Desportiva,0,0,Goiás,False,False,first
-213,1973-10-04,Atlético-MG,1,1,Olaria,False,False,first
-214,1973-10-04,Ceará,0,0,Remo,False,False,first
-215,1973-10-04,Vitória,1,2,Palmeiras,False,False,first
-216,1973-10-06,Fluminense,1,0,Sport,False,False,first
-217,1973-10-06,América-MG,1,1,Guarani,False,False,first
-218,1973-10-06,CEUB,0,1,Internacional,False,False,first
-219,1973-10-06,Atlético-PR,0,0,Portuguesa-SP,False,False,first
-220,1973-10-07,Corinthians,1,1,Botafogo,False,False,first
-221,1973-10-07,Bahia,2,1,América-GB,False,False,first
-222,1973-10-07,Tiradentes,0,2,São Paulo,False,False,first
-223,1973-10-07,Nacional-AM,2,2,Cruzeiro,False,False,first
-224,1973-10-07,Paysandu,1,2,Figueirense,False,False,first
-225,1973-10-07,CRB,1,3,Fortaleza,False,False,first
-226,1973-10-07,Coritiba,4,0,Moto Clube,False,False,first
-227,1973-10-07,Grêmio,1,0,Vasco da Gama,False,False,first
-228,1973-10-07,Flamengo,0,2,Palmeiras,False,False,first
-229,1973-10-07,Sergipe,1,0,Olaria,False,False,first
-230,1973-10-07,Santa Cruz,3,2,Santos,False,False,first
-231,1973-10-07,Atlético-MG,3,0,Remo,False,False,first
-232,1973-10-07,Goiás,1,0,Náutico,False,False,first
-233,1973-10-07,Ceará,0,1,Rio Negro,False,False,first
-234,1973-10-07,Comercial-MS,0,1,Vitória,False,False,first
-235,1973-10-07,Desportiva,2,1,América-RN,False,False,first
-236,1973-10-10,Internacional,1,1,América-MG,False,False,first
-237,1973-10-10,Atlético-PR,1,1,Grêmio,False,False,first
-238,1973-10-13,Botafogo,0,1,América-GB,False,False,first
-239,1973-10-13,CEUB,1,2,Moto Clube,False,False,first
-240,1973-10-13,Paysandu,0,2,Corinthians,False,False,first
-241,1973-10-13,Atlético-PR,0,2,Olaria,False,False,first
-242,1973-10-13,Portuguesa-SP,3,0,Flamengo,False,False,first
-243,1973-10-14,Coritiba,1,0,Fluminense,False,False,first
-244,1973-10-14,São Paulo,2,1,Cruzeiro,False,False,first
-245,1973-10-14,Guarani,1,1,CRB,False,False,first
-246,1973-10-14,Tiradentes,1,2,Internacional,False,False,first
-247,1973-10-14,Sport,0,0,Bahia,False,False,first
-248,1973-10-14,Fortaleza,2,2,Nacional-AM,False,False,first
-249,1973-10-14,Figueirense,0,0,América-MG,False,False,first
-250,1973-10-14,Vasco da Gama,1,1,Santos,False,False,first
-251,1973-10-14,Sergipe,0,0,Palmeiras,False,False,first
-252,1973-10-14,Atlético-MG,0,0,Ceará,False,False,first
-253,1973-10-14,Grêmio,3,0,Remo,False,False,first
-254,1973-10-14,Rio Negro,1,0,Náutico,False,False,first
-255,1973-10-14,Vitória,2,1,Desportiva,False,False,first
-256,1973-10-14,Comercial-MS,4,3,América-RN,False,False,first
-257,1973-10-14,Goiás,5,1,Santa Cruz,False,False,first
-258,1973-10-17,CEUB,0,1,Fluminense,False,False,first
-259,1973-10-17,Coritiba,1,0,Botafogo,False,False,first
-260,1973-10-17,Guarani,3,1,América-GB,False,False,first
-261,1973-10-17,Nacional-AM,1,2,Corinthians,False,False,first
-262,1973-10-17,Figueirense,0,1,São Paulo,False,False,first
-263,1973-10-17,CRB,0,1,Cruzeiro,False,False,first
-264,1973-10-17,Moto Clube,0,2,Internacional,False,False,first
-265,1973-10-17,Tiradentes,0,1,Sport,False,False,first
-266,1973-10-17,Fortaleza,2,0,Paysandu,False,False,first
-267,1973-10-17,América-MG,1,2,Bahia,False,False,first
-268,1973-10-17,Remo,0,1,Atlético-PR,False,False,first
-269,1973-10-17,Comercial-MS,1,1,Vasco da Gama,False,False,first
-270,1973-10-17,Desportiva,1,0,Flamengo,False,False,first
-271,1973-10-17,Náutico,0,0,Olaria,False,False,first
-272,1973-10-17,Goiás,0,0,Santos,False,False,first
-273,1973-10-17,Vitória,1,0,Portuguesa-SP,False,False,first
-274,1973-10-17,América-RN,2,1,Atlético-MG,False,False,first
-275,1973-10-17,Sergipe,0,0,Ceará,False,False,first
-276,1973-10-17,Santa Cruz,0,1,Palmeiras,False,False,first
-277,1973-10-17,Rio Negro,1,1,Grêmio,False,False,first
-278,1973-10-20,América-MG,1,1,Botafogo,False,False,first
-279,1973-10-20,CEUB,1,2,Fortaleza,False,False,first
-280,1973-10-20,Vitória,3,3,Goiás,False,False,first
-281,1973-10-20,Náutico,3,2,Portuguesa-SP,False,False,first
-282,1973-10-21,Fluminense,1,3,Corinthians,False,False,first
-283,1973-10-21,Cruzeiro,2,1,América-GB,False,False,first
-284,1973-10-21,Internacional,2,2,São Paulo,False,False,first
-285,1973-10-21,Guarani,4,1,Sport,False,False,first
-286,1973-10-21,Moto Clube,1,1,Paysandu,False,False,first
-287,1973-10-21,Tiradentes,0,0,Nacional-AM,False,False,first
-288,1973-10-21,Bahia,2,0,Coritiba,False,False,first
-289,1973-10-21,Figueirense,1,0,CRB,False,False,first
-290,1973-10-21,Atlético-PR,1,2,Vasco da Gama,False,False,first
-291,1973-10-21,Remo,2,1,Flamengo,False,False,first
-292,1973-10-21,Santos,1,2,Olaria,False,False,first
-293,1973-10-21,América-RN,0,1,Palmeiras,False,False,first
-294,1973-10-21,Santa Cruz,1,1,Atlético-MG,False,False,first
-295,1973-10-21,Desportiva,0,1,Grêmio,False,False,first
-296,1973-10-21,Rio Negro,5,0,Sergipe,False,False,first
-297,1973-10-21,Ceará,1,0,Comercial-MS,False,False,first
-298,1973-10-24,Botafogo,2,1,Cruzeiro,False,False,first
-299,1973-10-24,Sport,1,2,América-GB,False,False,first
-300,1973-10-24,Paysandu,0,2,São Paulo,False,False,first
-301,1973-10-24,Figueirense,0,2,Internacional,False,False,first
-302,1973-10-24,Moto Clube,0,1,Nacional-AM,False,False,first
-303,1973-10-24,Bahia,1,0,Tiradentes,False,False,first
-304,1973-10-24,Coritiba,2,0,CRB,False,False,first
-305,1973-10-24,Palmeiras,0,0,Vasco da Gama,False,False,first
-306,1973-10-24,Ceará,1,0,Olaria,False,False,first
-307,1973-10-24,Desportiva,1,3,Santos,False,False,first
-308,1973-10-24,Comercial-MS,2,2,Portuguesa-SP,False,False,first
-309,1973-10-24,Goiás,3,1,Atlético-MG,False,False,first
-310,1973-10-24,Grêmio,1,0,Náutico,False,False,first
-311,1973-10-24,Sergipe,2,0,Atlético-PR,False,False,first
-312,1973-10-24,América-RN,1,1,Vitória,False,False,first
-313,1973-10-25,Fortaleza,1,0,Fluminense,False,False,first
-314,1973-10-25,Corinthians,1,1,América-MG,False,False,first
-315,1973-10-27,Paysandu,1,1,Fluminense,False,False,first
-316,1973-10-27,Bahia,0,0,Botafogo,False,False,first
-317,1973-10-27,CRB,1,0,América-GB,False,False,first
-318,1973-10-27,Fortaleza,1,1,Corinthians,False,False,first
-319,1973-10-27,São Paulo,0,0,Nacional-AM,False,False,first
-320,1973-10-27,Tiradentes,0,1,Guarani,False,False,first
-321,1973-10-27,Sport,0,3,Cruzeiro,False,False,first
-322,1973-10-27,Internacional,1,0,Coritiba,False,False,first
-323,1973-10-27,Figueirense,0,0,Moto Clube,False,False,first
-324,1973-10-27,CEUB,0,1,América-MG,False,False,first
-325,1973-10-27,Olaria,1,0,Vasco da Gama,False,False,first
-326,1973-10-27,Vitória,1,0,Remo,False,False,first
-327,1973-10-27,Flamengo,1,2,Grêmio,False,False,first
-328,1973-10-27,Desportiva,0,1,Palmeiras,False,False,first
-329,1973-10-27,Rio Negro,1,1,Santos,False,False,first
-330,1973-10-27,Atlético-MG,1,1,Portuguesa-SP,False,False,first
-331,1973-10-27,Sergipe,0,0,Santa Cruz,False,False,first
-332,1973-10-27,América-RN,2,0,Náutico,False,False,first
-333,1973-10-27,Goiás,4,1,Ceará,False,False,first
-334,1973-10-27,Atlético-PR,4,1,Comercial-MS,False,False,first
-335,1973-10-31,Nacional-AM,0,0,Fluminense,False,False,first
-336,1973-10-31,CRB,0,2,Botafogo,False,False,first
-337,1973-10-31,América-GB,0,0,São Paulo,False,False,first
-338,1973-10-31,CEUB,2,1,Corinthians,False,False,first
-339,1973-10-31,Internacional,2,1,Guarani,False,False,first
-340,1973-10-31,Fortaleza,0,0,Cruzeiro,False,False,first
-341,1973-10-31,Figueirense,0,1,Sport,False,False,first
-342,1973-10-31,América-MG,2,0,Paysandu,False,False,first
-343,1973-10-31,Moto Clube,0,0,Bahia,False,False,first
-344,1973-10-31,Goiás,1,0,Vasco da Gama,False,False,first
-345,1973-10-31,Vitória,0,0,Flamengo,False,False,first
-346,1973-10-31,Comercial-MS,0,4,Palmeiras,False,False,first
-347,1973-10-31,Remo,0,1,Santos,False,False,first
-348,1973-10-31,Sergipe,1,3,Portuguesa-SP,False,False,first
-349,1973-10-31,Náutico,3,1,Atlético-MG,False,False,first
-350,1973-10-31,Desportiva,0,0,Santa Cruz,False,False,first
-351,1973-10-31,Atlético-PR,2,1,América-RN,False,False,first
-352,1973-11-01,Rio Negro,0,0,Olaria,False,False,first
-353,1973-11-01,Ceará,0,0,Grêmio,False,False,first
-354,1973-11-03,Fluminense,0,1,Internacional,False,False,first
-355,1973-11-03,São Paulo,0,0,Coritiba,False,False,first
-356,1973-11-03,Paysandu,0,1,CEUB,False,False,first
-357,1973-11-04,Sport,1,0,Botafogo,False,False,first
-358,1973-11-04,Figueirense,1,1,América-GB,False,False,first
-359,1973-11-04,Cruzeiro,0,0,Corinthians,False,False,first
-360,1973-11-04,Bahia,0,0,Guarani,False,False,first
-361,1973-11-04,Nacional-AM,0,0,América-MG,False,False,first
-362,1973-11-04,Tiradentes,1,0,Fortaleza,False,False,first
-363,1973-11-04,Moto Clube,1,1,CRB,False,False,first
-364,1973-11-04,Vasco da Gama,2,0,Atlético-MG,False,False,first
-365,1973-11-04,Atlético-PR,1,0,Flamengo,False,False,first
-366,1973-11-04,Goiás,0,1,Palmeiras,False,False,first
-367,1973-11-04,Santos,3,2,Portuguesa-SP,False,False,first
-368,1973-11-04,Grêmio,1,0,Vitória,False,False,first
-369,1973-11-04,Comercial-MS,0,0,Santa Cruz,False,False,first
-370,1973-11-04,Sergipe,0,0,Náutico,False,False,first
-371,1973-11-04,Remo,0,3,Olaria,False,False,first
-372,1973-11-04,Ceará,0,0,Desportiva,False,False,first
-373,1973-11-07,Coritiba,0,0,Guarani,False,False,first
-374,1973-11-07,Tiradentes,2,1,CEUB,False,False,first
-375,1973-11-07,Remo,1,0,Rio Negro,False,False,first
-376,1973-11-07,Santa Cruz,0,4,Portuguesa-SP,False,False,first
-377,1973-11-07,Vitória,3,1,Náutico,False,False,first
-378,1973-11-07,América-RN,0,2,Olaria,False,False,first
-379,1973-11-21,Rio Negro,1,2,Flamengo,False,False,first
-380,1973-11-10,Botafogo,2,2,Olaria,False,False,first
-381,1973-11-10,América-MG,0,0,Vasco da Gama,False,False,first
-382,1973-11-10,São Paulo,2,2,Coritiba,False,False,first
-383,1973-11-10,Santa Cruz,3,0,Remo,False,False,first
-384,1973-11-11,Fluminense,2,1,América-GB,False,False,first
-385,1973-11-11,Figueirense,0,1,Flamengo,False,False,first
-386,1973-11-11,Cruzeiro,0,0,Atlético-MG,False,False,first
-387,1973-11-11,Palmeiras,2,0,Portuguesa-SP,False,False,first
-388,1973-11-11,Guarani,1,0,Corinthians,False,False,first
-389,1973-11-11,Atlético-PR,0,1,Santos,False,False,first
-390,1973-11-11,Grêmio,1,1,Internacional,False,False,first
-391,1973-11-11,Bahia,0,1,Vitória,False,False,first
-392,1973-11-11,Sergipe,2,1,Nacional-AM,False,False,first
-393,1973-11-11,Rio Negro,0,1,Tiradentes,False,False,first
-394,1973-11-11,CRB,0,3,América-RN,False,False,first
-395,1973-11-11,Ceará,0,0,Fortaleza,False,False,first
-396,1973-11-11,Náutico,0,0,Sport,False,False,first
-397,1973-11-11,Goiás,0,2,Paysandu,False,False,first
-398,1973-11-11,Desportiva,1,0,CEUB,False,False,first
-399,1973-11-11,Comercial-MS,2,0,Moto Clube,False,False,first
-400,1973-11-14,Flamengo,1,2,Cruzeiro,False,False,first
-401,1973-11-14,Vasco da Gama,1,1,Olaria,False,False,first
-402,1973-11-14,Figueirense,0,0,Fluminense,False,False,first
-403,1973-11-14,América-MG,1,0,Botafogo,False,False,first
-404,1973-11-14,Grêmio,0,0,Corinthians,False,False,first
-405,1973-11-14,Guarani,1,1,Santos,False,False,first
-406,1973-11-14,São Paulo,1,1,Portuguesa-SP,False,False,first
-407,1973-11-14,Coritiba,2,1,Atlético-PR,False,False,first
-408,1973-11-14,Nacional-AM,2,1,Bahia,False,False,first
-409,1973-11-14,Vitória,1,1,CRB,False,False,first
-410,1973-11-14,Sergipe,0,1,Rio Negro,False,False,first
-411,1973-11-14,América-RN,0,0,Fortaleza,False,False,first
-412,1973-11-14,Tiradentes,1,1,Ceará,False,False,first
-413,1973-11-14,Goiás,0,0,Santa Cruz,False,False,first
-414,1973-11-14,Moto Clube,1,1,Náutico,False,False,first
-415,1973-11-14,Sport,3,0,CEUB,False,False,first
-416,1973-11-14,Comercial-MS,1,1,Remo,False,False,first
-417,1973-11-14,Paysandu,0,2,Desportiva,False,False,first
-418,1973-11-15,Atlético-MG,2,3,América-GB,False,False,first
-419,1973-11-15,Palmeiras,1,0,Internacional,False,False,first
-420,1973-11-17,Flamengo,1,1,América-MG,False,False,first
-421,1973-11-17,Cruzeiro,2,0,Olaria,False,False,first
-422,1973-11-17,Portuguesa-SP,0,0,Atlético-PR,False,False,first
-423,1973-11-17,Grêmio,1,0,Guarani,False,False,first
-424,1973-11-17,Moto Clube,1,1,Santa Cruz,False,False,first
-425,1973-11-17,Náutico,2,0,CEUB,False,False,first
-426,1973-11-17,Comercial-MS,1,0,Sport,False,False,first
-427,1973-11-17,Remo,1,1,Paysandu,False,False,first
-428,1973-11-17,Desportiva,0,0,Goiás,False,False,first
-429,1973-11-18,Botafogo,1,1,Fluminense,False,False,first
-430,1973-11-18,Atlético-MG,2,1,Vasco da Gama,False,False,first
-431,1973-11-18,Figueirense,1,0,América-GB,False,False,first
-432,1973-11-18,Corinthians,1,2,Palmeiras,False,False,first
-433,1973-11-18,Coritiba,1,2,Santos,False,False,first
-434,1973-11-18,Internacional,1,2,São Paulo,False,False,first
-435,1973-11-18,Bahia,2,1,América-RN,False,False,first
-436,1973-11-18,Ceará,1,0,Vitória,False,False,first
-437,1973-11-18,Nacional-AM,0,0,Rio Negro,False,False,first
-438,1973-11-18,Sergipe,1,1,Fortaleza,False,False,first
-439,1973-11-18,Tiradentes,2,0,CRB,False,False,first
-440,1973-11-24,Botafogo,2,1,Atlético-MG,False,False,first
-441,1973-11-24,América-MG,1,0,Fluminense,False,False,first
-442,1973-11-24,Corinthians,1,0,Santos,False,False,first
-443,1973-11-25,Vasco da Gama,0,2,Flamengo,False,False,first
-444,1973-11-25,Cruzeiro,0,2,América-GB,False,False,first
-445,1973-11-25,Figueirense,2,2,Olaria,False,False,first
-446,1973-11-25,Palmeiras,1,2,São Paulo,False,False,first
-447,1973-11-25,Guarani,3,1,Portuguesa-SP,False,False,first
-448,1973-11-25,Atlético-PR,2,0,Grêmio,False,False,first
-449,1973-11-25,Internacional,1,0,Coritiba,False,False,first
-450,1973-11-25,Tiradentes,1,1,Bahia,False,False,first
-451,1973-11-25,Vitória,0,0,Fortaleza,False,False,first
-452,1973-11-25,Nacional-AM,3,1,América-RN,False,False,first
-453,1973-11-25,Ceará,2,1,Rio Negro,False,False,first
-454,1973-11-25,CRB,2,1,Sergipe,False,False,first
-455,1973-11-25,Santa Cruz,1,1,Sport,False,False,first
-456,1973-11-25,Remo,2,0,Goiás,False,False,first
-457,1973-11-25,Moto Clube,0,0,Paysandu,False,False,first
-458,1973-11-25,CEUB,2,1,Comercial-MS,False,False,first
-459,1973-11-28,Figueirense,0,0,Botafogo,False,False,first
-460,1973-11-28,Vasco da Gama,3,1,Cruzeiro,False,False,first
-461,1973-11-28,América-MG,1,1,América-GB,False,False,first
-462,1973-11-28,Guarani,2,0,Palmeiras,False,False,first
-463,1973-11-28,Internacional,0,2,Santos,False,False,first
-464,1973-11-28,São Paulo,0,0,Grêmio,False,False,first
-465,1973-11-28,Coritiba,2,0,Portuguesa-SP,False,False,first
-466,1973-11-28,Bahia,1,0,Rio Negro,False,False,first
-467,1973-11-28,América-RN,2,1,Tiradentes,False,False,first
-468,1973-11-28,Sergipe,1,4,Ceará,False,False,first
-469,1973-11-28,CRB,1,1,Fortaleza,False,False,first
-470,1973-11-28,Santa Cruz,5,1,Comercial-MS,False,False,first
-471,1973-11-28,Remo,4,1,Sport,False,False,first
-472,1973-11-28,Goiás,3,0,CEUB,False,False,first
-473,1973-11-28,Moto Clube,1,1,Desportiva,False,False,first
-474,1973-11-29,Fluminense,1,2,Olaria,False,False,first
-475,1973-11-29,Atlético-MG,2,1,Flamengo,False,False,first
-476,1973-11-29,Atlético-PR,2,2,Corinthians,False,False,first
-477,1973-11-29,Paysandu,0,0,Náutico,False,False,first
-478,1973-12-01,Botafogo,2,1,América-GB,False,False,first
-479,1973-12-01,Santos,0,0,Portuguesa-SP,False,False,first
-480,1973-12-01,Coritiba,1,0,Guarani,False,False,first
-481,1973-12-01,Rio Negro,1,1,CRB,False,False,first
-482,1973-12-01,CEUB,3,1,Paysandu,False,False,first
-483,1973-12-02,Fluminense,2,1,Flamengo,False,False,first
-484,1973-12-02,Atlético-MG,1,1,Olaria,False,False,first
-485,1973-12-02,América-MG,2,2,Cruzeiro,False,False,first
-486,1973-12-02,Figueirense,0,0,Vasco da Gama,False,False,first
-487,1973-12-02,Grêmio,1,0,Palmeiras,False,False,first
-488,1973-12-02,Corinthians,0,0,São Paulo,False,False,first
-489,1973-12-02,Atlético-PR,0,0,Internacional,False,False,first
-490,1973-12-02,Nacional-AM,3,1,Ceará,False,False,first
-491,1973-12-02,Fortaleza,2,1,Bahia,False,False,first
-492,1973-12-02,América-RN,0,1,Vitória,False,False,first
-493,1973-12-02,Tiradentes,2,0,Sergipe,False,False,first
-494,1973-12-02,Remo,5,0,Moto Clube,False,False,first
-495,1973-12-02,Desportiva,0,3,Comercial-MS,False,False,first
-496,1973-12-02,Santa Cruz,2,1,Náutico,False,False,first
-497,1973-12-02,Goiás,0,0,Sport,False,False,first
-498,1973-12-05,Desportiva,2,0,Náutico,False,False,first
-499,1973-12-05,Vitória,2,0,Nacional-AM,False,False,first
-500,1973-12-07,América-GB,0,2,Olaria,False,False,first
-501,1973-12-08,Vasco da Gama,1,0,Fluminense,False,False,first
-502,1973-12-08,Flamengo,1,0,Botafogo,False,False,first
-503,1973-12-08,Figueirense,0,3,Cruzeiro,False,False,first
-504,1973-12-08,Atlético-MG,1,2,América-MG,False,False,first
-505,1973-12-08,Corinthians,1,2,Portuguesa-SP,False,False,first
-506,1973-12-08,Internacional,1,1,Guarani,False,False,first
-507,1973-12-08,Palmeiras,1,1,Santos,False,False,first
-508,1973-12-08,Atlético-PR,0,0,São Paulo,False,False,first
-509,1973-12-08,Grêmio,1,0,Coritiba,False,False,first
-510,1973-12-08,Vitória,0,0,Tiradentes,False,False,first
-511,1973-12-08,Ceará,3,0,CRB,False,False,first
-512,1973-12-08,Bahia,3,0,Sergipe,False,False,first
-513,1973-12-08,Fortaleza,4,1,Nacional-AM,False,False,first
-514,1973-12-08,América-RN,1,0,Rio Negro,False,False,first
-515,1973-12-08,Paysandu,2,0,Santa Cruz,False,False,first
-516,1973-12-08,Náutico,0,0,Remo,False,False,first
-517,1973-12-08,Desportiva,1,1,Sport,False,False,first
-518,1973-12-08,CEUB,1,0,Moto Clube,False,False,first
-519,1973-12-08,Comercial-MS,1,1,Goiás,False,False,first
-520,1973-12-12,Vasco da Gama,2,1,América-GB,False,False,first
-521,1973-12-12,Flamengo,2,1,Olaria,False,False,first
-522,1973-12-12,América-MG,4,0,Figueirense,False,False,first
-523,1973-12-12,Coritiba,2,1,Corinthians,False,False,first
-524,1973-12-12,Santos,4,0,Grêmio,False,False,first
-525,1973-12-12,Guarani,0,0,São Paulo,False,False,first
-526,1973-12-12,Internacional,1,0,Portuguesa-SP,False,False,first
-527,1973-12-12,CRB,3,2,Bahia,False,False,first
-528,1973-12-12,Sergipe,0,1,Vitória,False,False,first
-529,1973-12-12,Tiradentes,1,0,Nacional-AM,False,False,first
-530,1973-12-12,Rio Negro,0,0,Fortaleza,False,False,first
-531,1973-12-12,Ceará,1,0,América-RN,False,False,first
-532,1973-12-12,CEUB,2,2,Santa Cruz,False,False,first
-533,1973-12-12,Sport,0,0,Paysandu,False,False,first
-534,1973-12-12,Remo,2,1,Desportiva,False,False,first
-535,1973-12-12,Moto Clube,0,2,Goiás,False,False,first
-536,1973-12-13,Fluminense,0,1,Atlético-MG,False,False,first
-537,1973-12-13,Cruzeiro,2,1,Botafogo,False,False,first
-538,1973-12-13,Atlético-PR,0,2,Palmeiras,False,False,first
-539,1973-12-13,Náutico,1,0,Comercial-MS,False,False,first
-540,1973-12-15,Flamengo,3,2,América-GB,False,False,first
-541,1973-12-15,América-MG,2,1,Olaria,False,False,first
-542,1973-12-15,Corinthians,2,2,Internacional,False,False,first
-543,1973-12-15,Sport,2,1,Moto Clube,False,False,first
-544,1973-12-15,CEUB,0,0,Remo,False,False,first
-545,1973-12-16,Vasco da Gama,1,0,Botafogo,False,False,first
-546,1973-12-16,Cruzeiro,1,1,Fluminense,False,False,first
-547,1973-12-16,Figueirense,1,3,Atlético-MG,False,False,first
-548,1973-12-16,Guarani,2,1,Atlético-PR,False,False,first
-549,1973-12-16,Coritiba,0,1,Palmeiras,False,False,first
-550,1973-12-16,Grêmio,1,0,Portuguesa-SP,False,False,first
-551,1973-12-16,Bahia,1,1,Ceará,False,False,first
-552,1973-12-16,Rio Negro,0,1,Vitória,False,False,first
-553,1973-12-16,CRB,3,1,Nacional-AM,False,False,first
-554,1973-12-16,América-RN,3,0,Sergipe,False,False,first
-555,1973-12-16,Fortaleza,3,0,Tiradentes,False,False,first
-556,1973-12-16,Santa Cruz,1,0,Desportiva,False,False,first
-557,1973-12-16,Goiás,2,0,Náutico,False,False,first
-558,1973-12-16,Comercial-MS,4,1,Paysandu,False,False,first
-559,1973-12-17,Santos,1,0,São Paulo,False,False,first
-560,1974-01-12,Corinthians,2,2,Bahia,False,False,second
-561,1974-01-13,Palmeiras,0,0,Coritiba,False,False,second
-562,1974-01-13,Atlético-MG,0,0,Internacional,False,False,second
-563,1974-01-13,Vasco da Gama,1,2,América-MG,False,False,second
-564,1974-01-13,Ceará,0,2,Tiradentes,False,False,second
-565,1974-01-16,Bahia,0,0,Palmeiras,False,False,second
-566,1974-01-16,América-MG,4,1,Ceará,False,False,second
-567,1974-01-16,Corinthians,1,0,Coritiba,False,False,second
-568,1974-01-16,Tiradentes,0,0,Atlético-MG,False,False,second
-569,1974-01-17,Vasco da Gama,1,2,Internacional,False,False,second
-570,1974-01-19,Bahia,2,1,Ceará,False,False,second
-571,1974-01-20,Internacional,0,0,Palmeiras,False,False,second
-572,1974-01-20,Coritiba,0,0,Vasco da Gama,False,False,second
-573,1974-01-20,Atlético-MG,2,0,Corinthians,False,False,second
-574,1974-01-20,Tiradentes,0,2,América-MG,False,False,second
-575,1974-01-23,Palmeiras,3,1,América-MG,False,False,second
-576,1974-01-23,Bahia,0,0,Atlético-MG,False,False,second
-577,1974-01-23,Coritiba,4,2,Ceará,False,False,second
-578,1974-01-23,Internacional,2,1,Tiradentes,False,False,second
-579,1974-01-24,Corinthians,1,1,Vasco da Gama,False,False,second
-580,1974-01-26,América-MG,1,2,Atlético-MG,False,False,second
-581,1974-01-26,Palmeiras,0,0,Corinthians,False,False,second
-582,1974-01-26,Vasco da Gama,2,0,Tiradentes,False,False,second
-583,1974-01-26,Ceará,1,1,Internacional,False,False,second
-584,1974-01-26,Coritiba,1,1,Bahia,False,False,second
-585,1974-01-30,Vasco da Gama,1,1,Atlético-MG,False,False,second
-586,1974-01-30,Tiradentes,0,0,Bahia,False,False,second
-587,1974-01-30,América-MG,1,0,Corinthians,False,False,second
-588,1974-01-30,Coritiba,1,0,Internacional,False,False,second
-589,1974-01-30,Palmeiras,3,0,Ceará,False,False,second
-590,1974-02-02,Atlético-MG,2,1,Coritiba,False,False,second
-591,1974-02-03,Tiradentes,0,5,Palmeiras,False,False,second
-592,1974-02-03,Ceará,0,1,Corinthians,False,False,second
-593,1974-02-03,Bahia,1,2,Vasco da Gama,False,False,second
-594,1974-02-03,Internacional,1,0,América-MG,False,False,second
-595,1974-02-06,América-MG,0,1,Coritiba,False,False,second
-596,1974-02-06,Internacional,2,1,Bahia,False,False,second
-597,1974-02-06,Ceará,0,2,Vasco da Gama,False,False,second
-598,1974-02-06,Corinthians,3,0,Tiradentes,False,False,second
-599,1974-02-07,Palmeiras,3,0,Atlético-MG,False,False,second
-600,1974-02-10,Vasco da Gama,0,1,Palmeiras,False,False,second
-601,1974-02-10,Internacional,0,0,Corinthians,False,False,second
-602,1974-02-10,Coritiba,0,0,Tiradentes,False,False,second
-603,1974-02-10,Atlético-MG,2,0,Ceará,False,False,second
-604,1974-02-10,Bahia,2,2,América-MG,False,False,second
-605,1974-01-12,Cruzeiro,1,0,Fortaleza,False,False,second
-606,1974-01-13,Grêmio,0,1,Guarani,False,False,second
-607,1974-01-13,Vitória,1,2,Botafogo,False,False,second
-608,1974-01-13,Goiás,2,2,São Paulo,False,False,second
-609,1974-01-13,Santa Cruz,1,1,Santos,False,False,second
-610,1974-01-16,Guarani,1,1,Vitória,False,False,second
-611,1974-01-16,Fortaleza,0,1,Grêmio,False,False,second
-612,1974-01-16,Goiás,0,1,Cruzeiro,False,False,second
-613,1974-01-16,Botafogo,4,1,Santa Cruz,False,False,second
-614,1974-01-29,Santos,1,2,São Paulo,False,False,second
-615,1974-01-19,Cruzeiro,0,0,Santa Cruz,False,False,second
-616,1974-01-20,Botafogo,0,3,Santos,False,False,second
-617,1974-01-20,São Paulo,1,0,Grêmio,False,False,second
-618,1974-01-20,Guarani,1,1,Goiás,False,False,second
-619,1974-01-20,Vitória,2,1,Fortaleza,False,False,second
-620,1974-01-23,São Paulo,3,0,Guarani,False,False,second
-621,1974-01-23,Fortaleza,1,5,Santos,False,False,second
-622,1974-01-23,Grêmio,1,0,Goiás,False,False,second
-623,1974-01-23,Cruzeiro,1,1,Botafogo,False,False,second
-624,1974-01-24,Vitória,2,1,Santa Cruz,False,False,second
-625,1974-01-26,Grêmio,1,0,Santos,False,False,second
-626,1974-01-26,Santa Cruz,0,2,São Paulo,False,False,second
-627,1974-01-26,Goiás,2,0,Botafogo,False,False,second
-628,1974-01-26,Cruzeiro,6,1,Vitória,False,False,second
-629,1974-01-26,Fortaleza,1,2,Guarani,False,False,second
-630,1974-01-30,Grêmio,1,1,Cruzeiro,False,False,second
-631,1974-01-30,Santa Cruz,1,0,Goiás,False,False,second
-632,1974-01-31,São Paulo,1,0,Fortaleza,False,False,second
-633,1974-01-31,Santos,1,0,Vitória,False,False,second
-634,1974-01-31,Botafogo,2,1,Guarani,False,False,second
-635,1974-02-02,Fortaleza,2,3,Santa Cruz,False,False,second
-636,1974-02-03,Botafogo,3,0,Grêmio,False,False,second
-637,1974-02-03,Cruzeiro,1,0,São Paulo,False,False,second
-638,1974-02-03,Santos,2,0,Guarani,False,False,second
-639,1974-02-03,Goiás,1,2,Vitória,False,False,second
-640,1974-02-06,Santos,4,4,Goiás,False,False,second
-641,1974-02-06,Santa Cruz,0,1,Grêmio,False,False,second
-642,1974-02-06,Vitória,0,2,São Paulo,False,False,second
-643,1974-02-06,Botafogo,6,1,Fortaleza,False,False,second
-644,1974-02-07,Guarani,1,2,Cruzeiro,False,False,second
-645,1974-02-09,São Paulo,0,0,Botafogo,False,False,second
-646,1974-02-09,Grêmio,1,0,Vitória,False,False,second
-647,1974-02-10,Santos,0,0,Cruzeiro,False,False,second
-648,1974-02-10,Santa Cruz,2,1,Guarani,False,False,second
-649,1974-02-10,Fortaleza,0,0,Goiás,False,False,second
-650,1974-02-13,São Paulo,4,1,Internacional,False,False,third
-651,1974-02-13,Cruzeiro,0,1,Palmeiras,False,False,third
-652,1974-02-17,Palmeiras,2,1,Internacional,False,False,third
-653,1974-02-17,Cruzeiro,1,0,São Paulo,False,False,third
-654,1974-02-20,Internacional,1,0,Cruzeiro,False,False,third
-655,1974-02-20,Palmeiras,0,0,São Paulo,False,False,third
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+1973-08-25,Corinthians,0,0,América-GB,False,False,first
+1973-08-25,CEUB,0,0,Botafogo,False,False,first
+1973-08-25,Paysandu,2,1,Internacional,False,False,first
+1973-08-25,Tiradentes,0,0,Fluminense,False,False,first
+1973-08-25,Figueirense,0,0,Coritiba,False,False,first
+1973-08-25,CRB,0,1,América-MG,False,False,first
+1973-08-25,Bahia,1,1,São Paulo,False,False,first
+1973-08-25,Moto Clube,0,3,Cruzeiro,False,False,first
+1973-08-25,Sport,0,0,Fortaleza,False,False,first
+1973-08-25,Grêmio,4,0,Santa Cruz,False,False,first
+1973-08-25,Desportiva,2,0,Sergipe,False,False,first
+1973-08-25,Goiás,0,0,Olaria,False,False,first
+1973-08-25,Comercial-MS,0,1,Flamengo,False,False,first
+1973-08-25,Ceará,2,2,Náutico,False,False,first
+1973-08-25,Atlético-PR,0,0,Vitória,False,False,first
+1973-08-25,América-RN,0,0,Rio Negro,False,False,first
+1973-08-25,Remo,0,2,Palmeiras,False,False,first
+1973-08-26,Nacional-AM,1,1,Guarani,False,False,first
+1973-08-29,Moto Clube,1,4,Fluminense,False,False,first
+1973-08-29,Figueirense,2,2,Botafogo,False,False,first
+1973-08-29,Guarani,0,1,Corinthians,False,False,first
+1973-08-29,CRB,0,1,São Paulo,False,False,first
+1973-08-29,Tiradentes,1,1,Cruzeiro,False,False,first
+1973-08-29,América-MG,4,1,Sport,False,False,first
+1973-08-29,Fortaleza,1,1,Bahia,False,False,first
+1973-08-29,Coritiba,2,1,CEUB,False,False,first
+1973-08-29,Sergipe,0,3,Vasco da Gama,False,False,first
+1973-08-29,Goiás,1,0,Flamengo,False,False,first
+1973-08-29,Comercial-MS,2,1,Olaria,False,False,first
+1973-08-29,Rio Negro,1,2,Palmeiras,False,False,first
+1973-08-29,Vitória,2,0,Santos,False,False,first
+1973-08-29,Remo,1,0,Portuguesa-SP,False,False,first
+1973-08-29,Desportiva,2,0,Atlético-MG,False,False,first
+1973-08-29,América-RN,1,1,Grêmio,False,False,first
+1973-08-29,Santa Cruz,1,1,Ceará,False,False,first
+1973-08-30,Nacional-AM,0,0,Internacional,False,False,first
+1973-08-30,Paysandu,0,0,América-GB,False,False,first
+1973-08-30,Náutico,1,0,Atlético-PR,False,False,first
+1973-08-31,Sport,0,3,São Paulo,False,False,first
+1973-08-31,América-MG,1,0,Fortaleza,False,False,first
+1973-08-31,CEUB,2,1,Figueirense,False,False,first
+1973-08-31,Botafogo,4,0,Fluminense,False,False,first
+1973-08-31,Nacional-AM,1,1,América-GB,False,False,first
+1973-08-31,Coritiba,3,0,Corinthians,False,False,first
+1973-08-31,Paysandu,0,2,Guarani,False,False,first
+1973-08-31,Rio Negro,1,3,Portuguesa-SP,False,False,first
+1973-09-02,Internacional,0,1,Cruzeiro,False,False,first
+1973-09-02,CRB,0,1,Bahia,False,False,first
+1973-09-02,Moto Clube,0,1,Tiradentes,False,False,first
+1973-09-02,Vitória,0,0,Vasco da Gama,False,False,first
+1973-09-02,Santa Cruz,3,1,Flamengo,False,False,first
+1973-09-02,Santos,0,0,Palmeiras,False,False,first
+1973-09-02,Atlético-MG,0,0,Grêmio,False,False,first
+1973-09-02,Desportiva,0,1,Remo,False,False,first
+1973-09-02,Ceará,0,1,Atlético-PR,False,False,first
+1973-09-02,América-RN,2,0,Sergipe,False,False,first
+1973-09-02,Goiás,2,0,Comercial-MS,False,False,first
+1973-09-05,Bahia,0,1,Fluminense,False,False,first
+1973-09-05,Moto Clube,0,2,Botafogo,False,False,first
+1973-09-05,Figueirense,1,1,Corinthians,False,False,first
+1973-09-05,Guarani,1,1,São Paulo,False,False,first
+1973-09-05,CEUB,2,0,Cruzeiro,False,False,first
+1973-09-05,Sport,0,1,Internacional,False,False,first
+1973-09-05,Tiradentes,2,0,Paysandu,False,False,first
+1973-09-05,CRB,1,1,Nacional-AM,False,False,first
+1973-09-05,Fortaleza,3,2,Coritiba,False,False,first
+1973-09-05,Desportiva,0,1,Vasco da Gama,False,False,first
+1973-09-05,Olaria,0,1,Flamengo,False,False,first
+1973-09-05,Atlético-PR,1,1,Palmeiras,False,False,first
+1973-09-05,Santos,0,0,Grêmio,False,False,first
+1973-09-05,Comercial-MS,1,1,Atlético-MG,False,False,first
+1973-09-05,Rio Negro,1,0,Santa Cruz,False,False,first
+1973-09-05,Remo,1,0,Náutico,False,False,first
+1973-09-05,América-RN,2,0,Ceará,False,False,first
+1973-09-05,Goiás,3,0,Sergipe,False,False,first
+1973-09-06,América-GB,1,0,América-MG,False,False,first
+1973-09-08,Nacional-AM,0,1,Coritiba,False,False,first
+1973-09-08,Vasco da Gama,1,1,Ceará,False,False,first
+1973-09-08,Portuguesa-SP,4,2,Olaria,False,False,first
+1973-09-09,CRB,1,2,Fluminense,False,False,first
+1973-09-09,Tiradentes,0,0,Botafogo,False,False,first
+1973-09-09,Moto Clube,1,1,América-GB,False,False,first
+1973-09-09,Corinthians,1,0,São Paulo,False,False,first
+1973-09-09,Guarani,3,1,CEUB,False,False,first
+1973-09-09,Cruzeiro,1,0,América-MG,False,False,first
+1973-09-09,Bahia,1,2,Internacional,False,False,first
+1973-09-09,Paysandu,2,2,Sport,False,False,first
+1973-09-09,Fortaleza,2,0,Figueirense,False,False,first
+1973-09-09,Flamengo,0,1,Santos,False,False,first
+1973-09-09,Grêmio,0,0,Palmeiras,False,False,first
+1973-09-09,Atlético-PR,0,1,Atlético-MG,False,False,first
+1973-09-09,Náutico,0,0,Santa Cruz,False,False,first
+1973-09-09,Sergipe,1,0,Remo,False,False,first
+1973-09-09,Rio Negro,0,0,Vitória,False,False,first
+1973-09-09,Goiás,0,0,América-RN,False,False,first
+1973-09-09,Comercial-MS,0,0,Desportiva,False,False,first
+1973-09-12,Fluminense,3,0,Guarani,False,False,first
+1973-09-12,Fortaleza,0,2,Botafogo,False,False,first
+1973-09-12,Tiradentes,0,0,América-GB,False,False,first
+1973-09-12,Moto Clube,0,0,Corinthians,False,False,first
+1973-09-12,São Paulo,1,0,América-MG,False,False,first
+1973-09-12,Figueirense,0,1,Cruzeiro,False,False,first
+1973-09-12,CRB,0,1,Internacional,False,False,first
+1973-09-12,Sport,1,2,Nacional-AM,False,False,first
+1973-09-12,Paysandu,0,1,Coritiba,False,False,first
+1973-09-12,CEUB,0,0,Bahia,False,False,first
+1973-09-12,América-RN,1,1,Vasco da Gama,False,False,first
+1973-09-12,Sergipe,0,1,Flamengo,False,False,first
+1973-09-12,Vitória,0,0,Olaria,False,False,first
+1973-09-12,Comercial-MS,1,0,Santos,False,False,first
+1973-09-12,Goiás,0,0,Portuguesa-SP,False,False,first
+1973-09-12,Rio Negro,1,2,Atlético-MG,False,False,first
+1973-09-12,Desportiva,1,0,Náutico,False,False,first
+1973-09-12,Ceará,0,2,Palmeiras,False,False,first
+1973-09-12,Santa Cruz,2,1,Remo,False,False,first
+1973-09-15,Cruzeiro,1,0,Bahia,False,False,first
+1973-09-15,Coritiba,3,0,Sport,False,False,first
+1973-09-15,CEUB,1,2,CRB,False,False,first
+1973-09-15,Grêmio,2,0,Olaria,False,False,first
+1973-09-16,Fluminense,2,0,América-GB,False,False,first
+1973-09-16,Internacional,0,1,Botafogo,False,False,first
+1973-09-16,Tiradentes,1,0,Corinthians,False,False,first
+1973-09-16,Fortaleza,0,0,São Paulo,False,False,first
+1973-09-16,Figueirense,1,1,Guarani,False,False,first
+1973-09-16,Nacional-AM,2,1,Paysandu,False,False,first
+1973-09-16,Moto Clube,0,0,América-MG,False,False,first
+1973-09-16,Náutico,2,1,Vasco da Gama,False,False,first
+1973-09-16,Atlético-MG,3,0,Flamengo,False,False,first
+1973-09-16,Palmeiras,1,1,Portuguesa-SP,False,False,first
+1973-09-16,Atlético-PR,0,2,Santos,False,False,first
+1973-09-16,América-RN,2,2,Santa Cruz,False,False,first
+1973-09-16,Remo,1,0,Goiás,False,False,first
+1973-09-16,Desportiva,0,1,Rio Negro,False,False,first
+1973-09-16,Vitória,0,1,Ceará,False,False,first
+1973-09-16,Comercial-MS,1,0,Sergipe,False,False,first
+1973-09-19,Vasco da Gama,0,1,Portuguesa-SP,False,False,first
+1973-09-19,Atlético-MG,0,0,Santos,False,False,first
+1973-09-21,Palmeiras,1,0,Olaria,False,False,first
+1973-09-22,Fortaleza,2,1,América-GB,False,False,first
+1973-09-22,Corinthians,1,0,Internacional,False,False,first
+1973-09-22,América-MG,0,0,Tiradentes,False,False,first
+1973-09-22,CEUB,1,1,Sport,False,False,first
+1973-09-22,Rio Negro,1,0,Goiás,False,False,first
+1973-09-23,São Paulo,2,2,Fluminense,False,False,first
+1973-09-23,Nacional-AM,1,1,Botafogo,False,False,first
+1973-09-23,Guarani,1,0,Moto Clube,False,False,first
+1973-09-23,Cruzeiro,0,0,Coritiba,False,False,first
+1973-09-23,CRB,3,2,Paysandu,False,False,first
+1973-09-23,Bahia,1,0,Figueirense,False,False,first
+1973-09-23,Vasco da Gama,2,2,Flamengo,False,False,first
+1973-09-23,Ceará,2,0,Santos,False,False,first
+1973-09-23,Grêmio,1,0,Portuguesa-SP,False,False,first
+1973-09-23,Sergipe,0,4,Atlético-MG,False,False,first
+1973-09-23,Santa Cruz,1,0,Vitória,False,False,first
+1973-09-23,Comercial-MS,1,2,Náutico,False,False,first
+1973-09-23,Remo,1,2,América-RN,False,False,first
+1973-09-23,Atlético-PR,1,0,Desportiva,False,False,first
+1973-09-26,Figueirense,1,0,Fluminense,False,False,first
+1973-09-26,Paysandu,0,1,Botafogo,False,False,first
+1973-09-26,Coritiba,2,0,América-GB,False,False,first
+1973-09-26,CEUB,0,0,São Paulo,False,False,first
+1973-09-26,Cruzeiro,1,1,Guarani,False,False,first
+1973-09-26,Nacional-AM,2,2,Bahia,False,False,first
+1973-09-26,Moto Clube,0,0,Fortaleza,False,False,first
+1973-09-26,Tiradentes,1,1,CRB,False,False,first
+1973-09-26,Comercial-MS,1,1,Rio Negro,False,False,first
+1973-09-26,Ceará,1,1,Flamengo,False,False,first
+1973-09-26,Santa Cruz,1,0,Olaria,False,False,first
+1973-09-26,Palmeiras,2,0,Náutico,False,False,first
+1973-09-26,América-RN,1,6,Santos,False,False,first
+1973-09-26,Desportiva,1,1,Portuguesa-SP,False,False,first
+1973-09-26,Vitória,0,1,Atlético-MG,False,False,first
+1973-09-26,Sergipe,1,2,Grêmio,False,False,first
+1973-09-26,Goiás,1,0,Atlético-PR,False,False,first
+1973-09-27,Sport,1,2,Corinthians,False,False,first
+1973-09-27,Remo,0,1,Vasco da Gama,False,False,first
+1973-09-29,Nacional-AM,1,0,CEUB,False,False,first
+1973-09-29,Atlético-PR,0,0,Santa Cruz,False,False,first
+1973-09-30,Cruzeiro,0,0,Fluminense,False,False,first
+1973-09-30,Botafogo,1,0,São Paulo,False,False,first
+1973-09-30,CRB,0,3,Corinthians,False,False,first
+1973-09-30,Internacional,0,0,América-GB,False,False,first
+1973-09-30,Guarani,2,2,Fortaleza,False,False,first
+1973-09-30,Moto Clube,0,2,Sport,False,False,first
+1973-09-30,Bahia,3,0,Paysandu,False,False,first
+1973-09-30,Figueirense,1,0,Tiradentes,False,False,first
+1973-09-30,Coritiba,0,2,América-MG,False,False,first
+1973-09-30,Rio Negro,0,0,Vasco da Gama,False,False,first
+1973-09-30,América-RN,0,3,Flamengo,False,False,first
+1973-09-30,Desportiva,1,1,Olaria,False,False,first
+1973-09-30,Palmeiras,1,0,Atlético-MG,False,False,first
+1973-09-30,Náutico,0,3,Santos,False,False,first
+1973-09-30,Ceará,1,1,Portuguesa-SP,False,False,first
+1973-09-30,Goiás,0,2,Grêmio,False,False,first
+1973-09-30,Remo,1,0,Comercial-MS,False,False,first
+1973-09-30,Sergipe,0,1,Vitória,False,False,first
+1973-10-03,América-MG,0,0,Fluminense,False,False,first
+1973-10-03,Guarani,1,1,Botafogo,False,False,first
+1973-10-03,CEUB,1,0,América-GB,False,False,first
+1973-10-03,Bahia,0,1,Corinthians,False,False,first
+1973-10-03,Moto Clube,1,4,São Paulo,False,False,first
+1973-10-03,Paysandu,1,2,Cruzeiro,False,False,first
+1973-10-03,Fortaleza,0,0,Internacional,False,False,first
+1973-10-03,CRB,0,3,Sport,False,False,first
+1973-10-03,Figueirense,0,0,Nacional-AM,False,False,first
+1973-10-03,Tiradentes,2,1,Coritiba,False,False,first
+1973-10-03,Santa Cruz,0,2,Vasco da Gama,False,False,first
+1973-10-03,Flamengo,4,1,Náutico,False,False,first
+1973-10-03,Sergipe,0,3,Santos,False,False,first
+1973-10-03,América-RN,1,1,Portuguesa-SP,False,False,first
+1973-10-03,Comercial-MS,1,0,Grêmio,False,False,first
+1973-10-03,Atlético-PR,1,0,Rio Negro,False,False,first
+1973-10-03,Desportiva,0,0,Goiás,False,False,first
+1973-10-04,Atlético-MG,1,1,Olaria,False,False,first
+1973-10-04,Ceará,0,0,Remo,False,False,first
+1973-10-04,Vitória,1,2,Palmeiras,False,False,first
+1973-10-06,Fluminense,1,0,Sport,False,False,first
+1973-10-06,América-MG,1,1,Guarani,False,False,first
+1973-10-06,CEUB,0,1,Internacional,False,False,first
+1973-10-06,Atlético-PR,0,0,Portuguesa-SP,False,False,first
+1973-10-07,Corinthians,1,1,Botafogo,False,False,first
+1973-10-07,Bahia,2,1,América-GB,False,False,first
+1973-10-07,Tiradentes,0,2,São Paulo,False,False,first
+1973-10-07,Nacional-AM,2,2,Cruzeiro,False,False,first
+1973-10-07,Paysandu,1,2,Figueirense,False,False,first
+1973-10-07,CRB,1,3,Fortaleza,False,False,first
+1973-10-07,Coritiba,4,0,Moto Clube,False,False,first
+1973-10-07,Grêmio,1,0,Vasco da Gama,False,False,first
+1973-10-07,Flamengo,0,2,Palmeiras,False,False,first
+1973-10-07,Sergipe,1,0,Olaria,False,False,first
+1973-10-07,Santa Cruz,3,2,Santos,False,False,first
+1973-10-07,Atlético-MG,3,0,Remo,False,False,first
+1973-10-07,Goiás,1,0,Náutico,False,False,first
+1973-10-07,Ceará,0,1,Rio Negro,False,False,first
+1973-10-07,Comercial-MS,0,1,Vitória,False,False,first
+1973-10-07,Desportiva,2,1,América-RN,False,False,first
+1973-10-10,Internacional,1,1,América-MG,False,False,first
+1973-10-10,Atlético-PR,1,1,Grêmio,False,False,first
+1973-10-13,Botafogo,0,1,América-GB,False,False,first
+1973-10-13,CEUB,1,2,Moto Clube,False,False,first
+1973-10-13,Paysandu,0,2,Corinthians,False,False,first
+1973-10-13,Atlético-PR,0,2,Olaria,False,False,first
+1973-10-13,Portuguesa-SP,3,0,Flamengo,False,False,first
+1973-10-14,Coritiba,1,0,Fluminense,False,False,first
+1973-10-14,São Paulo,2,1,Cruzeiro,False,False,first
+1973-10-14,Guarani,1,1,CRB,False,False,first
+1973-10-14,Tiradentes,1,2,Internacional,False,False,first
+1973-10-14,Sport,0,0,Bahia,False,False,first
+1973-10-14,Fortaleza,2,2,Nacional-AM,False,False,first
+1973-10-14,Figueirense,0,0,América-MG,False,False,first
+1973-10-14,Vasco da Gama,1,1,Santos,False,False,first
+1973-10-14,Sergipe,0,0,Palmeiras,False,False,first
+1973-10-14,Atlético-MG,0,0,Ceará,False,False,first
+1973-10-14,Grêmio,3,0,Remo,False,False,first
+1973-10-14,Rio Negro,1,0,Náutico,False,False,first
+1973-10-14,Vitória,2,1,Desportiva,False,False,first
+1973-10-14,Comercial-MS,4,3,América-RN,False,False,first
+1973-10-14,Goiás,5,1,Santa Cruz,False,False,first
+1973-10-17,CEUB,0,1,Fluminense,False,False,first
+1973-10-17,Coritiba,1,0,Botafogo,False,False,first
+1973-10-17,Guarani,3,1,América-GB,False,False,first
+1973-10-17,Nacional-AM,1,2,Corinthians,False,False,first
+1973-10-17,Figueirense,0,1,São Paulo,False,False,first
+1973-10-17,CRB,0,1,Cruzeiro,False,False,first
+1973-10-17,Moto Clube,0,2,Internacional,False,False,first
+1973-10-17,Tiradentes,0,1,Sport,False,False,first
+1973-10-17,Fortaleza,2,0,Paysandu,False,False,first
+1973-10-17,América-MG,1,2,Bahia,False,False,first
+1973-10-17,Remo,0,1,Atlético-PR,False,False,first
+1973-10-17,Comercial-MS,1,1,Vasco da Gama,False,False,first
+1973-10-17,Desportiva,1,0,Flamengo,False,False,first
+1973-10-17,Náutico,0,0,Olaria,False,False,first
+1973-10-17,Goiás,0,0,Santos,False,False,first
+1973-10-17,Vitória,1,0,Portuguesa-SP,False,False,first
+1973-10-17,América-RN,2,1,Atlético-MG,False,False,first
+1973-10-17,Sergipe,0,0,Ceará,False,False,first
+1973-10-17,Santa Cruz,0,1,Palmeiras,False,False,first
+1973-10-17,Rio Negro,1,1,Grêmio,False,False,first
+1973-10-20,América-MG,1,1,Botafogo,False,False,first
+1973-10-20,CEUB,1,2,Fortaleza,False,False,first
+1973-10-20,Vitória,3,3,Goiás,False,False,first
+1973-10-20,Náutico,3,2,Portuguesa-SP,False,False,first
+1973-10-21,Fluminense,1,3,Corinthians,False,False,first
+1973-10-21,Cruzeiro,2,1,América-GB,False,False,first
+1973-10-21,Internacional,2,2,São Paulo,False,False,first
+1973-10-21,Guarani,4,1,Sport,False,False,first
+1973-10-21,Moto Clube,1,1,Paysandu,False,False,first
+1973-10-21,Tiradentes,0,0,Nacional-AM,False,False,first
+1973-10-21,Bahia,2,0,Coritiba,False,False,first
+1973-10-21,Figueirense,1,0,CRB,False,False,first
+1973-10-21,Atlético-PR,1,2,Vasco da Gama,False,False,first
+1973-10-21,Remo,2,1,Flamengo,False,False,first
+1973-10-21,Santos,1,2,Olaria,False,False,first
+1973-10-21,América-RN,0,1,Palmeiras,False,False,first
+1973-10-21,Santa Cruz,1,1,Atlético-MG,False,False,first
+1973-10-21,Desportiva,0,1,Grêmio,False,False,first
+1973-10-21,Rio Negro,5,0,Sergipe,False,False,first
+1973-10-21,Ceará,1,0,Comercial-MS,False,False,first
+1973-10-24,Botafogo,2,1,Cruzeiro,False,False,first
+1973-10-24,Sport,1,2,América-GB,False,False,first
+1973-10-24,Paysandu,0,2,São Paulo,False,False,first
+1973-10-24,Figueirense,0,2,Internacional,False,False,first
+1973-10-24,Moto Clube,0,1,Nacional-AM,False,False,first
+1973-10-24,Bahia,1,0,Tiradentes,False,False,first
+1973-10-24,Coritiba,2,0,CRB,False,False,first
+1973-10-24,Palmeiras,0,0,Vasco da Gama,False,False,first
+1973-10-24,Ceará,1,0,Olaria,False,False,first
+1973-10-24,Desportiva,1,3,Santos,False,False,first
+1973-10-24,Comercial-MS,2,2,Portuguesa-SP,False,False,first
+1973-10-24,Goiás,3,1,Atlético-MG,False,False,first
+1973-10-24,Grêmio,1,0,Náutico,False,False,first
+1973-10-24,Sergipe,2,0,Atlético-PR,False,False,first
+1973-10-24,América-RN,1,1,Vitória,False,False,first
+1973-10-25,Fortaleza,1,0,Fluminense,False,False,first
+1973-10-25,Corinthians,1,1,América-MG,False,False,first
+1973-10-27,Paysandu,1,1,Fluminense,False,False,first
+1973-10-27,Bahia,0,0,Botafogo,False,False,first
+1973-10-27,CRB,1,0,América-GB,False,False,first
+1973-10-27,Fortaleza,1,1,Corinthians,False,False,first
+1973-10-27,São Paulo,0,0,Nacional-AM,False,False,first
+1973-10-27,Tiradentes,0,1,Guarani,False,False,first
+1973-10-27,Sport,0,3,Cruzeiro,False,False,first
+1973-10-27,Internacional,1,0,Coritiba,False,False,first
+1973-10-27,Figueirense,0,0,Moto Clube,False,False,first
+1973-10-27,CEUB,0,1,América-MG,False,False,first
+1973-10-27,Olaria,1,0,Vasco da Gama,False,False,first
+1973-10-27,Vitória,1,0,Remo,False,False,first
+1973-10-27,Flamengo,1,2,Grêmio,False,False,first
+1973-10-27,Desportiva,0,1,Palmeiras,False,False,first
+1973-10-27,Rio Negro,1,1,Santos,False,False,first
+1973-10-27,Atlético-MG,1,1,Portuguesa-SP,False,False,first
+1973-10-27,Sergipe,0,0,Santa Cruz,False,False,first
+1973-10-27,América-RN,2,0,Náutico,False,False,first
+1973-10-27,Goiás,4,1,Ceará,False,False,first
+1973-10-27,Atlético-PR,4,1,Comercial-MS,False,False,first
+1973-10-31,Nacional-AM,0,0,Fluminense,False,False,first
+1973-10-31,CRB,0,2,Botafogo,False,False,first
+1973-10-31,América-GB,0,0,São Paulo,False,False,first
+1973-10-31,CEUB,2,1,Corinthians,False,False,first
+1973-10-31,Internacional,2,1,Guarani,False,False,first
+1973-10-31,Fortaleza,0,0,Cruzeiro,False,False,first
+1973-10-31,Figueirense,0,1,Sport,False,False,first
+1973-10-31,América-MG,2,0,Paysandu,False,False,first
+1973-10-31,Moto Clube,0,0,Bahia,False,False,first
+1973-10-31,Goiás,1,0,Vasco da Gama,False,False,first
+1973-10-31,Vitória,0,0,Flamengo,False,False,first
+1973-10-31,Comercial-MS,0,4,Palmeiras,False,False,first
+1973-10-31,Remo,0,1,Santos,False,False,first
+1973-10-31,Sergipe,1,3,Portuguesa-SP,False,False,first
+1973-10-31,Náutico,3,1,Atlético-MG,False,False,first
+1973-10-31,Desportiva,0,0,Santa Cruz,False,False,first
+1973-10-31,Atlético-PR,2,1,América-RN,False,False,first
+1973-11-01,Rio Negro,0,0,Olaria,False,False,first
+1973-11-01,Ceará,0,0,Grêmio,False,False,first
+1973-11-03,Fluminense,0,1,Internacional,False,False,first
+1973-11-03,São Paulo,0,0,Coritiba,False,False,first
+1973-11-03,Paysandu,0,1,CEUB,False,False,first
+1973-11-04,Sport,1,0,Botafogo,False,False,first
+1973-11-04,Figueirense,1,1,América-GB,False,False,first
+1973-11-04,Cruzeiro,0,0,Corinthians,False,False,first
+1973-11-04,Bahia,0,0,Guarani,False,False,first
+1973-11-04,Nacional-AM,0,0,América-MG,False,False,first
+1973-11-04,Tiradentes,1,0,Fortaleza,False,False,first
+1973-11-04,Moto Clube,1,1,CRB,False,False,first
+1973-11-04,Vasco da Gama,2,0,Atlético-MG,False,False,first
+1973-11-04,Atlético-PR,1,0,Flamengo,False,False,first
+1973-11-04,Goiás,0,1,Palmeiras,False,False,first
+1973-11-04,Santos,3,2,Portuguesa-SP,False,False,first
+1973-11-04,Grêmio,1,0,Vitória,False,False,first
+1973-11-04,Comercial-MS,0,0,Santa Cruz,False,False,first
+1973-11-04,Sergipe,0,0,Náutico,False,False,first
+1973-11-04,Remo,0,3,Olaria,False,False,first
+1973-11-04,Ceará,0,0,Desportiva,False,False,first
+1973-11-07,Coritiba,0,0,Guarani,False,False,first
+1973-11-07,Tiradentes,2,1,CEUB,False,False,first
+1973-11-07,Remo,1,0,Rio Negro,False,False,first
+1973-11-07,Santa Cruz,0,4,Portuguesa-SP,False,False,first
+1973-11-07,Vitória,3,1,Náutico,False,False,first
+1973-11-07,América-RN,0,2,Olaria,False,False,first
+1973-11-21,Rio Negro,1,2,Flamengo,False,False,first
+1973-11-10,Botafogo,2,2,Olaria,False,False,first
+1973-11-10,América-MG,0,0,Vasco da Gama,False,False,first
+1973-11-10,São Paulo,2,2,Coritiba,False,False,first
+1973-11-10,Santa Cruz,3,0,Remo,False,False,first
+1973-11-11,Fluminense,2,1,América-GB,False,False,first
+1973-11-11,Figueirense,0,1,Flamengo,False,False,first
+1973-11-11,Cruzeiro,0,0,Atlético-MG,False,False,first
+1973-11-11,Palmeiras,2,0,Portuguesa-SP,False,False,first
+1973-11-11,Guarani,1,0,Corinthians,False,False,first
+1973-11-11,Atlético-PR,0,1,Santos,False,False,first
+1973-11-11,Grêmio,1,1,Internacional,False,False,first
+1973-11-11,Bahia,0,1,Vitória,False,False,first
+1973-11-11,Sergipe,2,1,Nacional-AM,False,False,first
+1973-11-11,Rio Negro,0,1,Tiradentes,False,False,first
+1973-11-11,CRB,0,3,América-RN,False,False,first
+1973-11-11,Ceará,0,0,Fortaleza,False,False,first
+1973-11-11,Náutico,0,0,Sport,False,False,first
+1973-11-11,Goiás,0,2,Paysandu,False,False,first
+1973-11-11,Desportiva,1,0,CEUB,False,False,first
+1973-11-11,Comercial-MS,2,0,Moto Clube,False,False,first
+1973-11-14,Flamengo,1,2,Cruzeiro,False,False,first
+1973-11-14,Vasco da Gama,1,1,Olaria,False,False,first
+1973-11-14,Figueirense,0,0,Fluminense,False,False,first
+1973-11-14,América-MG,1,0,Botafogo,False,False,first
+1973-11-14,Grêmio,0,0,Corinthians,False,False,first
+1973-11-14,Guarani,1,1,Santos,False,False,first
+1973-11-14,São Paulo,1,1,Portuguesa-SP,False,False,first
+1973-11-14,Coritiba,2,1,Atlético-PR,False,False,first
+1973-11-14,Nacional-AM,2,1,Bahia,False,False,first
+1973-11-14,Vitória,1,1,CRB,False,False,first
+1973-11-14,Sergipe,0,1,Rio Negro,False,False,first
+1973-11-14,América-RN,0,0,Fortaleza,False,False,first
+1973-11-14,Tiradentes,1,1,Ceará,False,False,first
+1973-11-14,Goiás,0,0,Santa Cruz,False,False,first
+1973-11-14,Moto Clube,1,1,Náutico,False,False,first
+1973-11-14,Sport,3,0,CEUB,False,False,first
+1973-11-14,Comercial-MS,1,1,Remo,False,False,first
+1973-11-14,Paysandu,0,2,Desportiva,False,False,first
+1973-11-15,Atlético-MG,2,3,América-GB,False,False,first
+1973-11-15,Palmeiras,1,0,Internacional,False,False,first
+1973-11-17,Flamengo,1,1,América-MG,False,False,first
+1973-11-17,Cruzeiro,2,0,Olaria,False,False,first
+1973-11-17,Portuguesa-SP,0,0,Atlético-PR,False,False,first
+1973-11-17,Grêmio,1,0,Guarani,False,False,first
+1973-11-17,Moto Clube,1,1,Santa Cruz,False,False,first
+1973-11-17,Náutico,2,0,CEUB,False,False,first
+1973-11-17,Comercial-MS,1,0,Sport,False,False,first
+1973-11-17,Remo,1,1,Paysandu,False,False,first
+1973-11-17,Desportiva,0,0,Goiás,False,False,first
+1973-11-18,Botafogo,1,1,Fluminense,False,False,first
+1973-11-18,Atlético-MG,2,1,Vasco da Gama,False,False,first
+1973-11-18,Figueirense,1,0,América-GB,False,False,first
+1973-11-18,Corinthians,1,2,Palmeiras,False,False,first
+1973-11-18,Coritiba,1,2,Santos,False,False,first
+1973-11-18,Internacional,1,2,São Paulo,False,False,first
+1973-11-18,Bahia,2,1,América-RN,False,False,first
+1973-11-18,Ceará,1,0,Vitória,False,False,first
+1973-11-18,Nacional-AM,0,0,Rio Negro,False,False,first
+1973-11-18,Sergipe,1,1,Fortaleza,False,False,first
+1973-11-18,Tiradentes,2,0,CRB,False,False,first
+1973-11-24,Botafogo,2,1,Atlético-MG,False,False,first
+1973-11-24,América-MG,1,0,Fluminense,False,False,first
+1973-11-24,Corinthians,1,0,Santos,False,False,first
+1973-11-25,Vasco da Gama,0,2,Flamengo,False,False,first
+1973-11-25,Cruzeiro,0,2,América-GB,False,False,first
+1973-11-25,Figueirense,2,2,Olaria,False,False,first
+1973-11-25,Palmeiras,1,2,São Paulo,False,False,first
+1973-11-25,Guarani,3,1,Portuguesa-SP,False,False,first
+1973-11-25,Atlético-PR,2,0,Grêmio,False,False,first
+1973-11-25,Internacional,1,0,Coritiba,False,False,first
+1973-11-25,Tiradentes,1,1,Bahia,False,False,first
+1973-11-25,Vitória,0,0,Fortaleza,False,False,first
+1973-11-25,Nacional-AM,3,1,América-RN,False,False,first
+1973-11-25,Ceará,2,1,Rio Negro,False,False,first
+1973-11-25,CRB,2,1,Sergipe,False,False,first
+1973-11-25,Santa Cruz,1,1,Sport,False,False,first
+1973-11-25,Remo,2,0,Goiás,False,False,first
+1973-11-25,Moto Clube,0,0,Paysandu,False,False,first
+1973-11-25,CEUB,2,1,Comercial-MS,False,False,first
+1973-11-28,Figueirense,0,0,Botafogo,False,False,first
+1973-11-28,Vasco da Gama,3,1,Cruzeiro,False,False,first
+1973-11-28,América-MG,1,1,América-GB,False,False,first
+1973-11-28,Guarani,2,0,Palmeiras,False,False,first
+1973-11-28,Internacional,0,2,Santos,False,False,first
+1973-11-28,São Paulo,0,0,Grêmio,False,False,first
+1973-11-28,Coritiba,2,0,Portuguesa-SP,False,False,first
+1973-11-28,Bahia,1,0,Rio Negro,False,False,first
+1973-11-28,América-RN,2,1,Tiradentes,False,False,first
+1973-11-28,Sergipe,1,4,Ceará,False,False,first
+1973-11-28,CRB,1,1,Fortaleza,False,False,first
+1973-11-28,Santa Cruz,5,1,Comercial-MS,False,False,first
+1973-11-28,Remo,4,1,Sport,False,False,first
+1973-11-28,Goiás,3,0,CEUB,False,False,first
+1973-11-28,Moto Clube,1,1,Desportiva,False,False,first
+1973-11-29,Fluminense,1,2,Olaria,False,False,first
+1973-11-29,Atlético-MG,2,1,Flamengo,False,False,first
+1973-11-29,Atlético-PR,2,2,Corinthians,False,False,first
+1973-11-29,Paysandu,0,0,Náutico,False,False,first
+1973-12-01,Botafogo,2,1,América-GB,False,False,first
+1973-12-01,Santos,0,0,Portuguesa-SP,False,False,first
+1973-12-01,Coritiba,1,0,Guarani,False,False,first
+1973-12-01,Rio Negro,1,1,CRB,False,False,first
+1973-12-01,CEUB,3,1,Paysandu,False,False,first
+1973-12-02,Fluminense,2,1,Flamengo,False,False,first
+1973-12-02,Atlético-MG,1,1,Olaria,False,False,first
+1973-12-02,América-MG,2,2,Cruzeiro,False,False,first
+1973-12-02,Figueirense,0,0,Vasco da Gama,False,False,first
+1973-12-02,Grêmio,1,0,Palmeiras,False,False,first
+1973-12-02,Corinthians,0,0,São Paulo,False,False,first
+1973-12-02,Atlético-PR,0,0,Internacional,False,False,first
+1973-12-02,Nacional-AM,3,1,Ceará,False,False,first
+1973-12-02,Fortaleza,2,1,Bahia,False,False,first
+1973-12-02,América-RN,0,1,Vitória,False,False,first
+1973-12-02,Tiradentes,2,0,Sergipe,False,False,first
+1973-12-02,Remo,5,0,Moto Clube,False,False,first
+1973-12-02,Desportiva,0,3,Comercial-MS,False,False,first
+1973-12-02,Santa Cruz,2,1,Náutico,False,False,first
+1973-12-02,Goiás,0,0,Sport,False,False,first
+1973-12-05,Desportiva,2,0,Náutico,False,False,first
+1973-12-05,Vitória,2,0,Nacional-AM,False,False,first
+1973-12-07,América-GB,0,2,Olaria,False,False,first
+1973-12-08,Vasco da Gama,1,0,Fluminense,False,False,first
+1973-12-08,Flamengo,1,0,Botafogo,False,False,first
+1973-12-08,Figueirense,0,3,Cruzeiro,False,False,first
+1973-12-08,Atlético-MG,1,2,América-MG,False,False,first
+1973-12-08,Corinthians,1,2,Portuguesa-SP,False,False,first
+1973-12-08,Internacional,1,1,Guarani,False,False,first
+1973-12-08,Palmeiras,1,1,Santos,False,False,first
+1973-12-08,Atlético-PR,0,0,São Paulo,False,False,first
+1973-12-08,Grêmio,1,0,Coritiba,False,False,first
+1973-12-08,Vitória,0,0,Tiradentes,False,False,first
+1973-12-08,Ceará,3,0,CRB,False,False,first
+1973-12-08,Bahia,3,0,Sergipe,False,False,first
+1973-12-08,Fortaleza,4,1,Nacional-AM,False,False,first
+1973-12-08,América-RN,1,0,Rio Negro,False,False,first
+1973-12-08,Paysandu,2,0,Santa Cruz,False,False,first
+1973-12-08,Náutico,0,0,Remo,False,False,first
+1973-12-08,Desportiva,1,1,Sport,False,False,first
+1973-12-08,CEUB,1,0,Moto Clube,False,False,first
+1973-12-08,Comercial-MS,1,1,Goiás,False,False,first
+1973-12-12,Vasco da Gama,2,1,América-GB,False,False,first
+1973-12-12,Flamengo,2,1,Olaria,False,False,first
+1973-12-12,América-MG,4,0,Figueirense,False,False,first
+1973-12-12,Coritiba,2,1,Corinthians,False,False,first
+1973-12-12,Santos,4,0,Grêmio,False,False,first
+1973-12-12,Guarani,0,0,São Paulo,False,False,first
+1973-12-12,Internacional,1,0,Portuguesa-SP,False,False,first
+1973-12-12,CRB,3,2,Bahia,False,False,first
+1973-12-12,Sergipe,0,1,Vitória,False,False,first
+1973-12-12,Tiradentes,1,0,Nacional-AM,False,False,first
+1973-12-12,Rio Negro,0,0,Fortaleza,False,False,first
+1973-12-12,Ceará,1,0,América-RN,False,False,first
+1973-12-12,CEUB,2,2,Santa Cruz,False,False,first
+1973-12-12,Sport,0,0,Paysandu,False,False,first
+1973-12-12,Remo,2,1,Desportiva,False,False,first
+1973-12-12,Moto Clube,0,2,Goiás,False,False,first
+1973-12-13,Fluminense,0,1,Atlético-MG,False,False,first
+1973-12-13,Cruzeiro,2,1,Botafogo,False,False,first
+1973-12-13,Atlético-PR,0,2,Palmeiras,False,False,first
+1973-12-13,Náutico,1,0,Comercial-MS,False,False,first
+1973-12-15,Flamengo,3,2,América-GB,False,False,first
+1973-12-15,América-MG,2,1,Olaria,False,False,first
+1973-12-15,Corinthians,2,2,Internacional,False,False,first
+1973-12-15,Sport,2,1,Moto Clube,False,False,first
+1973-12-15,CEUB,0,0,Remo,False,False,first
+1973-12-16,Vasco da Gama,1,0,Botafogo,False,False,first
+1973-12-16,Cruzeiro,1,1,Fluminense,False,False,first
+1973-12-16,Figueirense,1,3,Atlético-MG,False,False,first
+1973-12-16,Guarani,2,1,Atlético-PR,False,False,first
+1973-12-16,Coritiba,0,1,Palmeiras,False,False,first
+1973-12-16,Grêmio,1,0,Portuguesa-SP,False,False,first
+1973-12-16,Bahia,1,1,Ceará,False,False,first
+1973-12-16,Rio Negro,0,1,Vitória,False,False,first
+1973-12-16,CRB,3,1,Nacional-AM,False,False,first
+1973-12-16,América-RN,3,0,Sergipe,False,False,first
+1973-12-16,Fortaleza,3,0,Tiradentes,False,False,first
+1973-12-16,Santa Cruz,1,0,Desportiva,False,False,first
+1973-12-16,Goiás,2,0,Náutico,False,False,first
+1973-12-16,Comercial-MS,4,1,Paysandu,False,False,first
+1973-12-17,Santos,1,0,São Paulo,False,False,first
+1974-01-12,Corinthians,2,2,Bahia,False,False,second
+1974-01-13,Palmeiras,0,0,Coritiba,False,False,second
+1974-01-13,Atlético-MG,0,0,Internacional,False,False,second
+1974-01-13,Vasco da Gama,1,2,América-MG,False,False,second
+1974-01-13,Ceará,0,2,Tiradentes,False,False,second
+1974-01-16,Bahia,0,0,Palmeiras,False,False,second
+1974-01-16,América-MG,4,1,Ceará,False,False,second
+1974-01-16,Corinthians,1,0,Coritiba,False,False,second
+1974-01-16,Tiradentes,0,0,Atlético-MG,False,False,second
+1974-01-17,Vasco da Gama,1,2,Internacional,False,False,second
+1974-01-19,Bahia,2,1,Ceará,False,False,second
+1974-01-20,Internacional,0,0,Palmeiras,False,False,second
+1974-01-20,Coritiba,0,0,Vasco da Gama,False,False,second
+1974-01-20,Atlético-MG,2,0,Corinthians,False,False,second
+1974-01-20,Tiradentes,0,2,América-MG,False,False,second
+1974-01-23,Palmeiras,3,1,América-MG,False,False,second
+1974-01-23,Bahia,0,0,Atlético-MG,False,False,second
+1974-01-23,Coritiba,4,2,Ceará,False,False,second
+1974-01-23,Internacional,2,1,Tiradentes,False,False,second
+1974-01-24,Corinthians,1,1,Vasco da Gama,False,False,second
+1974-01-26,América-MG,1,2,Atlético-MG,False,False,second
+1974-01-26,Palmeiras,0,0,Corinthians,False,False,second
+1974-01-26,Vasco da Gama,2,0,Tiradentes,False,False,second
+1974-01-26,Ceará,1,1,Internacional,False,False,second
+1974-01-26,Coritiba,1,1,Bahia,False,False,second
+1974-01-30,Vasco da Gama,1,1,Atlético-MG,False,False,second
+1974-01-30,Tiradentes,0,0,Bahia,False,False,second
+1974-01-30,América-MG,1,0,Corinthians,False,False,second
+1974-01-30,Coritiba,1,0,Internacional,False,False,second
+1974-01-30,Palmeiras,3,0,Ceará,False,False,second
+1974-02-02,Atlético-MG,2,1,Coritiba,False,False,second
+1974-02-03,Tiradentes,0,5,Palmeiras,False,False,second
+1974-02-03,Ceará,0,1,Corinthians,False,False,second
+1974-02-03,Bahia,1,2,Vasco da Gama,False,False,second
+1974-02-03,Internacional,1,0,América-MG,False,False,second
+1974-02-06,América-MG,0,1,Coritiba,False,False,second
+1974-02-06,Internacional,2,1,Bahia,False,False,second
+1974-02-06,Ceará,0,2,Vasco da Gama,False,False,second
+1974-02-06,Corinthians,3,0,Tiradentes,False,False,second
+1974-02-07,Palmeiras,3,0,Atlético-MG,False,False,second
+1974-02-10,Vasco da Gama,0,1,Palmeiras,False,False,second
+1974-02-10,Internacional,0,0,Corinthians,False,False,second
+1974-02-10,Coritiba,0,0,Tiradentes,False,False,second
+1974-02-10,Atlético-MG,2,0,Ceará,False,False,second
+1974-02-10,Bahia,2,2,América-MG,False,False,second
+1974-01-12,Cruzeiro,1,0,Fortaleza,False,False,second
+1974-01-13,Grêmio,0,1,Guarani,False,False,second
+1974-01-13,Vitória,1,2,Botafogo,False,False,second
+1974-01-13,Goiás,2,2,São Paulo,False,False,second
+1974-01-13,Santa Cruz,1,1,Santos,False,False,second
+1974-01-16,Guarani,1,1,Vitória,False,False,second
+1974-01-16,Fortaleza,0,1,Grêmio,False,False,second
+1974-01-16,Goiás,0,1,Cruzeiro,False,False,second
+1974-01-16,Botafogo,4,1,Santa Cruz,False,False,second
+1974-01-29,Santos,1,2,São Paulo,False,False,second
+1974-01-19,Cruzeiro,0,0,Santa Cruz,False,False,second
+1974-01-20,Botafogo,0,3,Santos,False,False,second
+1974-01-20,São Paulo,1,0,Grêmio,False,False,second
+1974-01-20,Guarani,1,1,Goiás,False,False,second
+1974-01-20,Vitória,2,1,Fortaleza,False,False,second
+1974-01-23,São Paulo,3,0,Guarani,False,False,second
+1974-01-23,Fortaleza,1,5,Santos,False,False,second
+1974-01-23,Grêmio,1,0,Goiás,False,False,second
+1974-01-23,Cruzeiro,1,1,Botafogo,False,False,second
+1974-01-24,Vitória,2,1,Santa Cruz,False,False,second
+1974-01-26,Grêmio,1,0,Santos,False,False,second
+1974-01-26,Santa Cruz,0,2,São Paulo,False,False,second
+1974-01-26,Goiás,2,0,Botafogo,False,False,second
+1974-01-26,Cruzeiro,6,1,Vitória,False,False,second
+1974-01-26,Fortaleza,1,2,Guarani,False,False,second
+1974-01-30,Grêmio,1,1,Cruzeiro,False,False,second
+1974-01-30,Santa Cruz,1,0,Goiás,False,False,second
+1974-01-31,São Paulo,1,0,Fortaleza,False,False,second
+1974-01-31,Santos,1,0,Vitória,False,False,second
+1974-01-31,Botafogo,2,1,Guarani,False,False,second
+1974-02-02,Fortaleza,2,3,Santa Cruz,False,False,second
+1974-02-03,Botafogo,3,0,Grêmio,False,False,second
+1974-02-03,Cruzeiro,1,0,São Paulo,False,False,second
+1974-02-03,Santos,2,0,Guarani,False,False,second
+1974-02-03,Goiás,1,2,Vitória,False,False,second
+1974-02-06,Santos,4,4,Goiás,False,False,second
+1974-02-06,Santa Cruz,0,1,Grêmio,False,False,second
+1974-02-06,Vitória,0,2,São Paulo,False,False,second
+1974-02-06,Botafogo,6,1,Fortaleza,False,False,second
+1974-02-07,Guarani,1,2,Cruzeiro,False,False,second
+1974-02-09,São Paulo,0,0,Botafogo,False,False,second
+1974-02-09,Grêmio,1,0,Vitória,False,False,second
+1974-02-10,Santos,0,0,Cruzeiro,False,False,second
+1974-02-10,Santa Cruz,2,1,Guarani,False,False,second
+1974-02-10,Fortaleza,0,0,Goiás,False,False,second
+1974-02-13,São Paulo,4,1,Internacional,False,False,third
+1974-02-13,Cruzeiro,0,1,Palmeiras,False,False,third
+1974-02-17,Palmeiras,2,1,Internacional,False,False,third
+1974-02-17,Cruzeiro,1,0,São Paulo,False,False,third
+1974-02-20,Internacional,1,0,Cruzeiro,False,False,third
+1974-02-20,Palmeiras,0,0,São Paulo,False,False,third

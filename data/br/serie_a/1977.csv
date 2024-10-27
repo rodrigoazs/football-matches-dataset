@@ -1,485 +1,485 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,1977-10-16,Operário-MT,0,0,Internacional,False,False,first
-1,1977-10-16,Dom Bosco,1,3,Avaí,False,False,first
-2,1977-10-16,Grêmio,4,0,Coritiba,False,False,first
-3,1977-10-19,Dom Bosco,0,2,Internacional,False,False,first
-4,1977-10-19,Grêmio Maringá,2,0,Avaí,False,False,first
-5,1977-10-19,Joinville,1,1,Grêmio,False,False,first
-6,1977-10-19,Caxias,0,0,Coritiba,False,False,first
-7,1977-10-23,Coritiba,1,3,Internacional,False,False,first
-8,1977-10-23,Avaí,1,2,Caxias,False,False,first
-9,1977-10-23,Operário-MT,0,1,Grêmio Maringá,False,False,first
-10,1977-10-23,Grêmio,2,0,Juventude,False,False,first
-11,1977-10-27,Caxias,0,0,Joinville,False,False,first
-12,1977-10-27,Operário-MT,1,0,Juventude,False,False,first
-13,1977-10-30,Dom Bosco,2,2,Caxias,False,False,first
-14,1977-10-30,Internacional,5,0,Joinville,False,False,first
-15,1977-10-30,Coritiba,1,2,Juventude,False,False,first
-16,1977-10-30,Grêmio Maringá,1,0,Caxias,False,False,first
-17,1977-11-06,Joinville,1,0,Avaí,False,False,first
-18,1977-11-06,Grêmio Maringá,1,1,Coritiba,False,False,first
-19,1977-11-06,Grêmio,4,0,Internacional,False,False,first
-20,1977-11-06,Caxias,0,0,Juventude,False,False,first
-21,1977-11-07,Operário-MT,3,1,Dom Bosco,False,False,first
-22,1977-11-09,Caxias,0,2,Grêmio,False,False,first
-23,1977-11-10,Operário-MT,2,0,Joinville,False,False,first
-24,1977-11-10,Grêmio Maringá,3,1,Dom Bosco,False,False,first
-25,1977-11-10,Juventude,1,0,Avaí,False,False,first
-26,1977-11-13,Avaí,2,1,Grêmio,False,False,first
-27,1977-11-13,Juventude,2,2,Dom Bosco,False,False,first
-28,1977-11-13,Internacional,1,0,Caxias,False,False,first
-29,1977-11-13,Coritiba,2,1,Joinville,False,False,first
-30,1977-11-16,Juventude,0,1,Internacional,False,False,first
-31,1977-11-16,Grêmio Maringá,2,1,Grêmio,False,False,first
-32,1977-11-16,Joinville,5,3,Dom Bosco,False,False,first
-33,1977-11-17,Coritiba,1,0,Operário-MT,False,False,first
-34,1977-11-20,Avaí,0,1,Operário-MT,False,False,first
-35,1977-11-20,Joinville,1,0,Juventude,False,False,first
-36,1977-11-20,Internacional,3,0,Grêmio Maringá,False,False,first
-37,1977-11-20,Dom Bosco,0,3,Grêmio,False,False,first
-38,1977-11-23,Avaí,2,0,Coritiba,False,False,first
-39,1977-11-23,Caxias,3,3,Operário-MT,False,False,first
-40,1977-11-24,Juventude,1,0,Grêmio Maringá,False,False,first
-41,1977-11-27,Dom Bosco,2,3,Coritiba,False,False,first
-42,1977-11-27,Grêmio,3,3,Operário-MT,False,False,first
-43,1977-11-27,Avaí,0,0,Internacional,False,False,first
-44,1977-11-27,Joinville,2,1,Grêmio Maringá,False,False,first
-45,1977-10-16,Botafogo-PB,1,0,Sport,False,False,first
-46,1977-10-16,XV de Novembro,0,0,CSA,False,False,first
-47,1977-10-16,Náutico,0,1,São Paulo,False,False,first
-48,1977-10-19,Treze,2,2,Sport,False,False,first
-49,1977-10-19,Palmeiras,1,0,CSA,False,False,first
-50,1977-10-19,Botafogo-PB,0,2,São Paulo,False,False,first
-51,1977-10-20,CRB,0,1,XV de Novembro,False,False,first
-52,1977-10-23,Treze,1,1,Palmeiras,False,False,first
-53,1977-10-23,CSA,0,0,São Paulo,False,False,first
-54,1977-10-23,Sport,1,1,XV de Novembro,False,False,first
-55,1977-10-23,Botafogo-PB,0,0,Santa Cruz,False,False,first
-56,1977-10-26,Treze,0,0,XV de Novembro,False,False,first
-57,1977-10-26,Sport,0,2,Palmeiras,False,False,first
-58,1977-10-27,Náutico,1,0,CRB,False,False,first
-59,1977-10-30,Santa Cruz,6,0,Treze,False,False,first
-60,1977-10-30,Botafogo-PB,0,1,CRB,False,False,first
-61,1977-10-30,CSA,2,0,Náutico,False,False,first
-62,1977-10-30,Palmeiras,1,1,XV de Novembro,False,False,first
-63,1977-11-02,XV de Novembro,1,1,São Paulo,False,False,first
-64,1977-11-02,Santa Cruz,5,1,CRB,False,False,first
-65,1977-11-03,Palmeiras,3,2,Náutico,False,False,first
-66,1977-11-06,São Paulo,0,2,Palmeiras,False,False,first
-67,1977-11-06,Botafogo-PB,0,0,Treze,False,False,first
-68,1977-11-06,CSA,1,1,CRB,False,False,first
-69,1977-11-06,Santa Cruz,1,1,Sport,False,False,first
-70,1977-11-06,XV de Novembro,0,0,Náutico,False,False,first
-71,1977-11-10,XV de Novembro,0,0,Santa Cruz,False,False,first
-72,1977-11-12,CSA,3,1,Botafogo-PB,False,False,first
-73,1977-11-13,São Paulo,1,0,Santa Cruz,False,False,first
-74,1977-11-13,Náutico,0,0,Sport,False,False,first
-75,1977-11-13,CRB,3,1,Treze,False,False,first
-76,1977-11-16,São Paulo,3,0,Treze,False,False,first
-77,1977-11-16,CSA,0,1,Santa Cruz,False,False,first
-78,1977-11-17,Palmeiras,2,0,Botafogo-PB,False,False,first
-79,1977-11-20,Náutico,1,2,Santa Cruz,False,False,first
-80,1977-11-20,XV de Novembro,2,0,Botafogo-PB,False,False,first
-81,1977-11-20,CRB,6,4,Sport,False,False,first
-82,1977-11-23,CRB,0,2,Palmeiras,False,False,first
-83,1977-11-23,Treze,0,1,CSA,False,False,first
-84,1977-11-23,Náutico,2,1,Botafogo-PB,False,False,first
-85,1977-11-23,São Paulo,2,0,Sport,False,False,first
-86,1977-11-26,Sport,3,1,CSA,False,False,first
-87,1977-11-26,São Paulo,4,0,CRB,False,False,first
-88,1977-11-27,Treze,2,1,Náutico,False,False,first
-89,1977-11-27,Santa Cruz,1,2,Palmeiras,False,False,first
-90,1977-10-15,River,5,1,América-RN,False,False,first
-91,1977-10-16,Sampaio Corrêa,0,0,Corinthians,False,False,first
-92,1977-10-16,ABC,1,0,Ceará,False,False,first
-93,1977-10-16,Guarani,0,1,Portuguesa-SP,False,False,first
-94,1977-10-16,Flamengo-PI,1,2,Ponte Preta-SP,False,False,first
-95,1977-10-19,Ceará,1,1,América-RN,False,False,first
-96,1977-10-19,River,2,2,Corinthians,False,False,first
-97,1977-10-19,Sampaio Corrêa,0,0,Ponte Preta-SP,False,False,first
-98,1977-10-20,ABC,1,0,Portuguesa-SP,False,False,first
-99,1977-10-23,Corinthians,1,0,Guarani,False,False,first
-100,1977-10-23,Flamengo-PI,0,1,Ceará,False,False,first
-101,1977-10-23,Fortaleza,0,0,Portuguesa-SP,False,False,first
-102,1977-10-23,América-RN,1,0,Ponte Preta-SP,False,False,first
-103,1977-10-26,América-RN,5,1,Flamengo-PI,False,False,first
-104,1977-10-26,Ceará,1,3,Ponte Preta-SP,False,False,first
-105,1977-10-26,Sampaio Corrêa,1,0,Fortaleza,False,False,first
-106,1977-10-27,ABC,1,1,Guarani,False,False,first
-107,1977-10-27,Portuguesa-SP,2,0,River,False,False,first
-108,1977-10-30,Ponte Preta-SP,2,1,Corinthians,False,False,first
-109,1977-10-30,ABC,2,0,River,False,False,first
-110,1977-10-30,Flamengo-PI,1,3,Sampaio Corrêa,False,False,first
-111,1977-10-30,Fortaleza,1,2,Guarani,False,False,first
-112,1977-11-02,América-RN,1,0,Sampaio Corrêa,False,False,first
-113,1977-11-02,Corinthians,3,0,Flamengo-PI,False,False,first
-114,1977-11-02,Fortaleza,2,1,River,False,False,first
-115,1977-11-02,Ponte Preta-SP,2,0,ABC,False,False,first
-116,1977-11-05,Corinthians,1,0,ABC,False,False,first
-117,1977-11-06,Guarani,2,0,Flamengo-PI,False,False,first
-118,1977-11-06,Ceará,4,0,Sampaio Corrêa,False,False,first
-119,1977-11-06,América-RN,1,1,Fortaleza,False,False,first
-120,1977-11-09,River,1,0,Ceará,False,False,first
-121,1977-11-09,ABC,0,0,Flamengo-PI,False,False,first
-122,1977-11-10,Sampaio Corrêa,1,2,Portuguesa-SP,False,False,first
-123,1977-11-10,Corinthians,3,0,Fortaleza,False,False,first
-124,1977-11-13,Sampaio Corrêa,0,2,Guarani,False,False,first
-125,1977-11-13,Flamengo-PI,0,2,Portuguesa-SP,False,False,first
-126,1977-11-13,Ponte Preta-SP,3,1,Fortaleza,False,False,first
-127,1977-11-13,Ceará,1,0,Corinthians,False,False,first
-128,1977-11-16,América-RN,0,0,Corinthians,False,False,first
-129,1977-11-16,River,1,1,Guarani,False,False,first
-130,1977-11-17,Portuguesa-SP,0,0,Ponte Preta-SP,False,False,first
-131,1977-11-20,Corinthians,2,0,Portuguesa-SP,False,False,first
-132,1977-11-20,ABC,3,0,América-RN,False,False,first
-133,1977-11-20,River,2,2,Flamengo-PI,False,False,first
-134,1977-11-20,Guarani,0,1,Ponte Preta-SP,False,False,first
-135,1977-11-20,Ceará,1,0,Fortaleza,False,False,first
-136,1977-11-23,Flamengo-PI,1,0,Fortaleza,False,False,first
-137,1977-11-23,Ponte Preta-SP,5,0,River,False,False,first
-138,1977-11-24,Sampaio Corrêa,1,1,ABC,False,False,first
-139,1977-11-24,Portuguesa-SP,3,0,América-RN,False,False,first
-140,1977-11-24,Guarani,3,0,Ceará,False,False,first
-141,1977-11-27,Portuguesa-SP,2,1,Ceará,False,False,first
-142,1977-11-27,River,0,0,Sampaio Corrêa,False,False,first
-143,1977-11-27,Fortaleza,3,2,ABC,False,False,first
-144,1977-11-27,Guarani,1,0,América-RN,False,False,first
-145,1977-10-16,Vila Nova,0,0,Botafogo,False,False,first
-146,1977-10-16,Londrina,3,2,Goiânia,False,False,first
-147,1977-10-16,Atlético-PR,1,2,Brasília,False,False,first
-148,1977-10-16,Americano,1,1,Vasco da Gama,False,False,first
-149,1977-10-19,Atlético-PR,0,1,Goiânia,False,False,first
-150,1977-10-20,Brasília,0,1,Botafogo,False,False,first
-151,1977-10-20,Goytacaz,1,1,Goiás,False,False,first
-152,1977-10-23,Vasco da Gama,3,0,Brasília,False,False,first
-153,1977-10-23,Botafogo,3,1,Goiás,False,False,first
-154,1977-10-23,Vila Nova,1,1,Atlético-PR,False,False,first
-155,1977-10-26,Americano,1,0,Brasília,False,False,first
-156,1977-10-26,Goiás,1,1,Atlético-PR,False,False,first
-157,1977-10-27,Goytacaz,1,1,Botafogo,False,False,first
-158,1977-10-30,Goiás,0,3,Vasco da Gama,False,False,first
-159,1977-10-30,Americano,1,1,Goytacaz,False,False,first
-160,1977-10-30,Londrina,3,1,Vila Nova,False,False,first
-161,1977-11-02,Atlético-PR,1,3,Botafogo,False,False,first
-162,1977-11-02,Goiânia,2,6,Vasco da Gama,False,False,first
-163,1977-11-02,Londrina,1,2,Goytacaz,False,False,first
-164,1977-11-02,Americano,1,0,Vila Nova,False,False,first
-165,1977-11-05,Brasília,2,1,Goytacaz,False,False,first
-166,1977-11-06,Atlético-PR,2,0,Londrina,False,False,first
-167,1977-11-06,Goiás,1,1,Goiânia,False,False,first
-168,1977-11-06,Vasco da Gama,2,0,Vila Nova,False,False,first
-169,1977-11-09,Vila Nova,1,3,Goytacaz,False,False,first
-170,1977-11-09,Brasília,2,1,Londrina,False,False,first
-171,1977-11-09,Botafogo,3,0,Americano,False,False,first
-172,1977-11-12,Brasília,0,0,Goiás,False,False,first
-173,1977-11-13,Americano,1,1,Londrina,False,False,first
-174,1977-11-13,Goiânia,2,2,Vila Nova,False,False,first
-175,1977-11-13,Vasco da Gama,0,0,Botafogo,False,False,first
-176,1977-11-16,Botafogo,3,0,Londrina,False,False,first
-177,1977-11-16,Goiânia,0,1,Brasília,False,False,first
-178,1977-11-17,Vasco da Gama,0,1,Goytacaz,False,False,first
-179,1977-11-20,Atlético-PR,3,0,Americano,False,False,first
-180,1977-11-20,Londrina,2,2,Vasco da Gama,False,False,first
-181,1977-11-20,Goiás,1,0,Vila Nova,False,False,first
-182,1977-11-20,Goytacaz,0,0,Goiânia,False,False,first
-183,1977-11-23,Goiás,3,0,Americano,False,False,first
-184,1977-11-23,Botafogo,1,0,Goiânia,False,False,first
-185,1977-11-24,Goytacaz,4,1,Atlético-PR,False,False,first
-186,1977-11-26,Brasília,1,0,Vila Nova,False,False,first
-187,1977-11-27,Goiânia,1,3,Americano,False,False,first
-188,1977-11-27,Londrina,1,1,Goiás,False,False,first
-189,1977-11-27,Vasco da Gama,0,0,Atlético-PR,False,False,first
-190,1977-10-16,Volta Redonda,3,0,Vitória-ES,False,False,first
-191,1977-10-16,Desportiva,0,5,Fluminense,False,False,first
-192,1977-10-16,Flamengo,5,0,Vitória,False,False,first
-193,1977-10-16,Confiança,1,1,Bahia,False,False,first
-194,1977-10-16,Fluminense-BA,0,1,Sergipe,False,False,first
-195,1977-10-19,Vitória-ES,3,1,Sergipe,False,False,first
-196,1977-10-19,Volta Redonda,0,1,Fluminense,False,False,first
-197,1977-10-20,Desportiva,0,2,Flamengo,False,False,first
-198,1977-10-20,América-RJ,1,1,Vitória,False,False,first
-199,1977-10-23,Fluminense,2,1,Sergipe,False,False,first
-200,1977-10-23,Volta Redonda,1,2,América-RJ,False,False,first
-201,1977-10-23,Bahia,0,0,Flamengo,False,False,first
-202,1977-10-23,Vitória-ES,2,1,Vitória,False,False,first
-203,1977-10-23,Confiança,1,0,Fluminense-BA,False,False,first
-204,1977-10-26,Fluminense,6,0,Vitória-ES,False,False,first
-205,1977-10-26,Fluminense-BA,0,6,Flamengo,False,False,first
-206,1977-10-27,Desportiva,1,0,Volta Redonda,False,False,first
-207,1977-10-29,Confiança,2,1,Vitória-ES,False,False,first
-208,1977-10-30,Vitória,0,0,Volta Redonda,False,False,first
-209,1977-10-30,Fluminense,0,1,América-RJ,False,False,first
-210,1977-10-30,Sergipe,1,3,Flamengo,False,False,first
-211,1977-11-02,Bahia,7,0,Vitória-ES,False,False,first
-212,1977-11-02,Sergipe,0,1,Volta Redonda,False,False,first
-213,1977-11-02,Fluminense-BA,1,2,Fluminense,False,False,first
-214,1977-11-02,América-RJ,3,0,Desportiva,False,False,first
-215,1977-11-03,Vitória,0,2,Confiança,False,False,first
-216,1977-11-06,Sergipe,0,1,Confiança,False,False,first
-217,1977-11-06,Vitória-ES,2,1,Desportiva,False,False,first
-218,1977-11-06,Flamengo,1,1,América-RJ,False,False,first
-219,1977-11-06,Vitória,1,1,Fluminense,False,False,first
-220,1977-11-06,Fluminense-BA,0,1,Bahia,False,False,first
-221,1977-11-09,Fluminense-BA,0,2,Vitória,False,False,first
-222,1977-11-09,Confiança,1,0,Fluminense,False,False,first
-223,1977-11-10,Bahia,2,0,América-RJ,False,False,first
-224,1977-11-10,Sergipe,1,4,Desportiva,False,False,first
-225,1977-11-12,Flamengo,1,1,Volta Redonda,False,False,first
-226,1977-11-13,Confiança,2,2,América-RJ,False,False,first
-227,1977-11-13,Fluminense-BA,0,0,Desportiva,False,False,first
-228,1977-11-13,Bahia,1,0,Vitória,False,False,first
-229,1977-11-15,Fluminense,2,1,Flamengo,False,False,first
-230,1977-11-16,Vitória,0,1,Desportiva,False,False,first
-231,1977-11-16,Sergipe,0,1,América-RJ,False,False,first
-232,1977-11-17,Volta Redonda,1,1,Bahia,False,False,first
-233,1977-11-19,Vitória-ES,0,0,América-RJ,False,False,first
-234,1977-11-20,Volta Redonda,2,2,Fluminense-BA,False,False,first
-235,1977-11-20,Sergipe,2,1,Vitória,False,False,first
-236,1977-11-20,Fluminense,1,0,Bahia,False,False,first
-237,1977-11-20,Desportiva,3,1,Confiança,False,False,first
-238,1977-11-23,Desportiva,2,1,Bahia,False,False,first
-239,1977-11-23,Volta Redonda,1,3,Confiança,False,False,first
-240,1977-11-24,América-RJ,1,0,Fluminense-BA,False,False,first
-241,1977-11-24,Vitória-ES,0,3,Flamengo,False,False,first
-242,1977-11-27,Flamengo,3,1,Confiança,False,False,first
-243,1977-11-27,Vitória-ES,1,1,Fluminense-BA,False,False,first
-244,1977-11-27,Bahia,3,0,Sergipe,False,False,first
-245,1977-10-16,Santos,0,2,Cruzeiro,False,False,first
-246,1977-10-16,Atlético-MG,4,1,Remo,False,False,first
-247,1977-10-16,Uberaba,3,1,Paysandu,False,False,first
-248,1977-10-16,Nacional-AM,2,0,Fast,False,False,first
-249,1977-10-19,Santos,4,0,Paysandu,False,False,first
-250,1977-10-19,América-MG,0,1,Remo,False,False,first
-251,1977-10-20,Fast,2,0,Uberaba,False,False,first
-252,1977-10-23,Cruzeiro,4,0,Paysandu,False,False,first
-253,1977-10-23,Atlético-MG,3,0,Santos,False,False,first
-254,1977-10-23,Nacional-AM,1,0,Uberaba,False,False,first
-255,1977-10-23,Botafogo-SP,3,2,Remo,False,False,first
-256,1977-10-26,Paysandu,1,1,Nacional-AM,False,False,first
-257,1977-10-26,Botafogo-SP,0,1,Atlético-MG,False,False,first
-258,1977-10-26,Fast,1,3,Santos,False,False,first
-259,1977-10-27,Remo,0,0,Uberaba,False,False,first
-260,1977-10-27,Fast,2,3,Paysandu,False,False,first
-261,1977-10-30,Remo,0,2,Santos,False,False,first
-262,1977-10-30,Botafogo-SP,2,1,Uberaba,False,False,first
-263,1977-10-30,Cruzeiro,2,2,América-MG,False,False,first
-264,1977-10-30,Nacional-AM,2,4,Atlético-MG,False,False,first
-265,1977-11-02,Uberaba,0,0,Cruzeiro,False,False,first
-266,1977-11-02,Paysandu,1,3,Atlético-MG,False,False,first
-267,1977-11-05,América-MG,2,0,Fast,False,False,first
-268,1977-11-06,Atlético-MG,1,0,Cruzeiro,False,False,first
-269,1977-11-06,Santos,0,1,Botafogo-SP,False,False,first
-270,1977-11-06,Remo,0,0,Paysandu,False,False,first
-271,1977-11-09,Atlético-MG,6,2,Fast,False,False,first
-272,1977-11-09,Santos,1,1,América-MG,False,False,first
-273,1977-11-10,Cruzeiro,3,0,Nacional-AM,False,False,first
-274,1977-11-13,Atlético-MG,3,1,América-MG,False,False,first
-275,1977-11-13,Remo,4,0,Cruzeiro,False,False,first
-276,1977-11-13,Botafogo-SP,5,1,Fast,False,False,first
-277,1977-11-13,Santos,2,0,Nacional-AM,False,False,first
-278,1977-11-16,Fast,1,1,Cruzeiro,False,False,first
-279,1977-11-16,Botafogo-SP,4,0,Nacional-AM,False,False,first
-280,1977-11-16,Uberaba,1,0,América-MG,False,False,first
-281,1977-11-20,Uberaba,1,1,Atlético-MG,False,False,first
-282,1977-11-20,América-MG,1,2,Botafogo-SP,False,False,first
-283,1977-11-20,Remo,4,1,Fast,False,False,first
-284,1977-11-23,Paysandu,2,1,Botafogo-SP,False,False,first
-285,1977-11-24,Nacional-AM,1,0,América-MG,False,False,first
-286,1977-11-27,Uberaba,4,1,Santos,False,False,first
-287,1977-11-27,Cruzeiro,3,1,Botafogo-SP,False,False,first
-288,1977-11-27,Paysandu,4,1,América-MG,False,False,first
-289,1977-11-27,Nacional-AM,0,2,Remo,False,False,first
-290,1977-12-01,Brasília,2,3,América-RJ,False,False,second
-291,1977-12-04,Corinthians,2,0,São Paulo,False,False,second
-292,1977-12-04,Internacional,6,0,Brasília,False,False,second
-293,1977-12-07,São Paulo,5,0,Brasília,False,False,second
-294,1977-12-07,América-RJ,0,0,Internacional,False,False,second
-295,1977-12-10,Brasília,0,5,Corinthians,False,False,second
-296,1977-12-11,Internacional,1,4,São Paulo,False,False,second
-297,1977-12-15,Corinthians,0,0,América-RJ,False,False,second
-298,1977-12-18,Corinthians,1,0,Internacional,False,False,second
-299,1977-12-18,América-RJ,0,0,São Paulo,False,False,second
-300,1977-12-01,Portuguesa-SP,1,2,Santos,False,False,second
-301,1977-12-04,Bahia,2,0,Portuguesa-SP,False,False,second
-302,1977-12-04,Goytacaz,1,3,Palmeiras,False,False,second
-303,1977-12-07,Santos,0,1,Bahia,False,False,second
-304,1977-12-08,Portuguesa-SP,0,1,Goytacaz,False,False,second
-305,1977-12-11,Palmeiras,1,1,Santos,False,False,second
-306,1977-12-11,Bahia,2,0,Goytacaz,False,False,second
-307,1977-12-14,Goytacaz,0,0,Santos,False,False,second
-308,1977-12-14,Palmeiras,2,1,Portuguesa-SP,False,False,second
-309,1977-12-15,Palmeiras,1,0,Bahia,False,False,second
-310,1977-12-04,Ponte Preta-SP,3,0,Confiança,False,False,second
-311,1977-12-04,Vasco da Gama,1,0,Remo,False,False,second
-312,1977-12-07,Confiança,2,1,Remo,False,False,second
-313,1977-12-08,Joinville,0,2,Ponte Preta-SP,False,False,second
-314,1977-12-11,Ponte Preta-SP,0,0,Vasco da Gama,False,False,second
-315,1977-12-11,Joinville,3,0,Confiança,False,False,second
-316,1977-12-15,Remo,1,0,Joinville,False,False,second
-317,1977-12-15,Confiança,0,1,Vasco da Gama,False,False,second
-318,1977-12-18,Vasco da Gama,1,1,Joinville,False,False,second
-319,1977-12-18,Remo,1,0,Ponte Preta-SP,False,False,second
-320,1977-12-01,Operário-MT,0,0,Botafogo-SP,False,False,second
-321,1977-12-04,Operário-MT,2,1,Fluminense,False,False,second
-322,1977-12-04,Botafogo-SP,2,2,Botafogo,False,False,second
-323,1977-12-07,CSA,1,2,Fluminense,False,False,second
-324,1977-12-07,Botafogo,1,1,Operário-MT,False,False,second
-325,1977-12-11,Fluminense,0,1,Botafogo,False,False,second
-326,1977-12-11,Botafogo-SP,2,2,CSA,False,False,second
-327,1977-12-14,Botafogo,3,1,CSA,False,False,second
-328,1977-12-15,Fluminense,0,0,Botafogo-SP,False,False,second
-329,1977-12-18,CSA,0,2,Operário-MT,False,False,second
-330,1977-12-01,ABC,1,0,XV de Novembro,False,False,second
-331,1977-12-04,Flamengo,3,1,Cruzeiro,False,False,second
-332,1977-12-04,XV de Novembro,3,0,Grêmio Maringá,False,False,second
-333,1977-12-07,XV de Novembro,1,0,Flamengo,False,False,second
-334,1977-12-11,Grêmio Maringá,0,1,Flamengo,False,False,second
-335,1977-12-11,ABC,2,2,Cruzeiro,False,False,second
-336,1977-12-14,Cruzeiro,2,0,XV de Novembro,False,False,second
-337,1977-12-14,Grêmio Maringá,3,0,ABC,False,False,second
-338,1977-12-15,Flamengo,1,0,ABC,False,False,second
-339,1977-12-18,Cruzeiro,0,0,Grêmio Maringá,False,False,second
-340,1977-12-01,Guarani,0,1,Atlético-MG,False,False,second
-341,1977-12-04,Atlético-MG,3,1,Santa Cruz,False,False,second
-342,1977-12-07,Santa Cruz,1,0,Guarani,False,False,second
-343,1977-12-07,Americano,0,0,Grêmio,False,False,second
-344,1977-12-10,Guarani,6,0,Americano,False,False,second
-345,1977-12-11,Atlético-MG,3,1,Grêmio,False,False,second
-346,1977-12-14,Santa Cruz,3,0,Americano,False,False,second
-347,1977-12-14,Grêmio,2,0,Guarani,False,False,second
-348,1977-12-18,Americano,0,2,Atlético-MG,False,False,second
-349,1977-12-18,Grêmio,2,3,Santa Cruz,False,False,second
-350,1977-12-04,Coritiba,4,0,Dom Bosco,False,False,relegation
-351,1977-12-04,Caxias,5,1,Avaí,False,False,relegation
-352,1977-12-07,Juventude,3,0,Coritiba,False,False,relegation
-353,1977-12-08,Avaí,0,1,Dom Bosco,False,False,relegation
-354,1977-12-11,Juventude,1,1,Caxias,False,False,relegation
-355,1977-12-11,Coritiba,2,3,Avaí,False,False,relegation
-356,1977-12-14,Dom Bosco,1,1,Caxias,False,False,relegation
-357,1977-12-14,Avaí,2,1,Juventude,False,False,relegation
-358,1977-12-15,Coritiba,1,2,Caxias,False,False,relegation
-359,1977-12-18,Dom Bosco,0,1,Juventude,False,False,relegation
-360,1977-12-04,CRB,1,2,Náutico,False,False,relegation
-361,1977-12-04,Sport,4,0,Treze,False,False,relegation
-362,1977-12-07,Botafogo-PB,1,3,Sport,False,False,relegation
-363,1977-12-07,Treze,0,0,CRB,False,False,relegation
-364,1977-12-11,Sport,1,0,Náutico,False,False,relegation
-365,1977-12-11,Treze,3,2,Botafogo-PB,False,False,relegation
-366,1977-12-14,CRB,3,0,Botafogo-PB,False,False,relegation
-367,1977-12-15,Náutico,5,0,Treze,False,False,relegation
-368,1977-12-18,Botafogo-PB,3,1,Náutico,False,False,relegation
-369,1977-12-18,Sport,1,0,CRB,False,False,relegation
-370,1977-11-30,América-RN,2,0,Ceará,False,False,relegation
-371,1977-12-01,Flamengo-PI,0,0,Fortaleza,False,False,relegation
-372,1977-12-04,River,4,3,Sampaio Corrêa,False,False,relegation
-373,1977-12-04,Fortaleza,0,2,América-RN,False,False,relegation
-374,1977-12-07,Flamengo-PI,1,1,América-RN,False,False,relegation
-375,1977-12-08,River,2,1,Fortaleza,False,False,relegation
-376,1977-12-08,Sampaio Corrêa,1,1,Ceará,False,False,relegation
-377,1977-12-11,Ceará,2,1,Fortaleza,False,False,relegation
-378,1977-12-11,Sampaio Corrêa,1,1,América-RN,False,False,relegation
-379,1977-12-11,Flamengo-PI,0,0,River,False,False,relegation
-380,1977-12-14,Sampaio Corrêa,4,1,Flamengo-PI,False,False,relegation
-381,1977-12-15,Ceará,3,0,River,False,False,relegation
-382,1977-12-15,Fortaleza,2,0,Sampaio Corrêa,False,False,relegation
-383,1977-12-18,América-RN,5,0,River,False,False,relegation
-384,1977-12-18,Ceará,0,0,Flamengo-PI,False,False,relegation
-385,1977-12-01,Londrina,4,1,Goiânia,False,False,relegation
-386,1977-12-01,Atlético-PR,3,3,Goiás,False,False,relegation
-387,1977-12-04,Vila Nova,4,0,Goiânia,False,False,relegation
-388,1977-12-07,Goiânia,2,1,Atlético-PR,False,False,relegation
-389,1977-12-11,Vila Nova,0,3,Goiás,False,False,relegation
-390,1977-12-11,Londrina,2,3,Atlético-PR,False,False,relegation
-391,1977-12-14,Goiás,3,2,Goiânia,False,False,relegation
-392,1977-12-15,Vila Nova,0,1,Londrina,False,False,relegation
-393,1977-12-18,Atlético-PR,2,2,Vila Nova,False,False,relegation
-394,1977-12-18,Goiás,1,2,Londrina,False,False,relegation
-395,1977-12-01,Volta Redonda,2,0,Desportiva,False,False,relegation
-396,1977-12-01,Vitória,2,0,Vitória-ES,False,False,relegation
-397,1977-12-01,Sergipe,1,1,Fluminense-BA,False,False,relegation
-398,1977-12-04,Volta Redonda,3,2,Sergipe,False,False,relegation
-399,1977-12-04,Desportiva,3,1,Vitória,False,False,relegation
-400,1977-12-07,Vitória-ES,1,0,Fluminense-BA,False,False,relegation
-401,1977-12-07,Volta Redonda,1,1,Vitória,False,False,relegation
-402,1977-12-10,Vitória,2,1,Sergipe,False,False,relegation
-403,1977-12-11,Fluminense-BA,1,0,Volta Redonda,False,False,relegation
-404,1977-12-11,Desportiva,2,1,Vitória-ES,False,False,relegation
-405,1977-12-14,Vitória-ES,1,1,Volta Redonda,False,False,relegation
-406,1977-12-14,Sergipe,1,1,Desportiva,False,False,relegation
-407,1977-12-14,Vitória,2,0,Fluminense-BA,False,False,relegation
-408,1977-12-18,Sergipe,0,1,Vitória-ES,False,False,relegation
-409,1977-12-01,América-MG,3,1,Paysandu,False,False,relegation
-410,1977-12-04,Uberaba,2,0,Nacional-AM,False,False,relegation
-411,1977-12-04,Paysandu,1,2,Fast,False,False,relegation
-412,1977-12-07,América-MG,1,0,Nacional-AM,False,False,relegation
-413,1977-12-10,América-MG,1,0,Uberaba,False,False,relegation
-414,1977-12-11,Fast,2,1,Nacional-AM,False,False,relegation
-415,1977-12-14,Fast,2,0,América-MG,False,False,relegation
-416,1977-12-14,Paysandu,2,2,Uberaba,False,False,relegation
-417,1977-12-18,Uberaba,1,0,Fast,False,False,relegation
-418,1977-12-18,Nacional-AM,1,1,Paysandu,False,False,relegation
-419,1978-01-29,Corinthians,1,1,Santos,False,False,third
-420,1978-01-29,Londrina,2,0,Caxias,False,False,third
-421,1978-01-29,Flamengo,0,0,Vasco da Gama,False,False,third
-422,1978-02-01,Londrina,1,0,Flamengo,False,False,third
-423,1978-02-01,Corinthians,1,0,Caxias,False,False,third
-424,1978-02-01,Vasco da Gama,1,0,Santos,False,False,third
-425,1978-02-11,Flamengo,1,1,Caxias,False,False,third
-426,1978-02-11,Santos,1,2,Londrina,False,False,third
-427,1978-02-12,Corinthians,0,0,Vasco da Gama,False,False,third
-428,1978-02-15,Londrina,1,0,Corinthians,False,False,third
-429,1978-02-15,Caxias,1,5,Vasco da Gama,False,False,third
-430,1978-02-15,Santos,0,0,Flamengo,False,False,third
-431,1978-02-18,Caxias,3,3,Santos,False,False,third
-432,1978-02-19,Flamengo,0,1,Corinthians,False,False,third
-433,1978-02-19,Vasco da Gama,0,2,Londrina,False,False,third
-434,1978-01-29,Bahia,0,0,Botafogo,False,False,third
-435,1978-01-29,Atlético-MG,2,1,Cruzeiro,False,False,third
-436,1978-01-29,Fast,0,0,América-RN,False,False,third
-437,1978-02-01,Fast,1,2,Atlético-MG,False,False,third
-438,1978-02-01,Botafogo,2,0,América-RN,False,False,third
-439,1978-02-12,Botafogo,0,0,Atlético-MG,False,False,third
-440,1978-02-12,Bahia,2,2,Cruzeiro,False,False,third
-441,1978-02-15,América-RN,0,0,Bahia,False,False,third
-442,1978-02-15,Cruzeiro,5,4,Fast,False,False,third
-443,1978-02-19,Bahia,2,0,Fast,False,False,third
-444,1978-02-19,Cruzeiro,0,3,Botafogo,False,False,third
-445,1978-02-19,Atlético-MG,6,0,América-RN,False,False,third
-446,1978-02-22,América-RN,2,2,Cruzeiro,False,False,third
-447,1978-02-22,Atlético-MG,4,0,Bahia,False,False,third
-448,1978-02-22,Botafogo,3,1,Fast,False,False,third
-449,1978-01-28,São Paulo,4,2,XV de Novembro,False,False,third
-450,1978-01-29,Grêmio,1,0,Sport,False,False,third
-451,1978-01-29,Ponte Preta-SP,4,1,Botafogo-SP,False,False,third
-452,1978-02-01,XV de Novembro,0,1,Grêmio,False,False,third
-453,1978-02-01,Ponte Preta-SP,1,3,São Paulo,False,False,third
-454,1978-02-01,Sport,1,2,Botafogo-SP,False,False,third
-455,1978-02-12,XV de Novembro,0,1,Sport,False,False,third
-456,1978-02-12,Botafogo-SP,1,0,São Paulo,False,False,third
-457,1978-02-12,Grêmio,1,0,Ponte Preta-SP,False,False,third
-458,1978-02-15,Ponte Preta-SP,1,0,XV de Novembro,False,False,third
-459,1978-02-15,Grêmio,1,1,Botafogo-SP,False,False,third
-460,1978-02-15,São Paulo,4,3,Sport,False,False,third
-461,1978-02-19,São Paulo,3,1,Grêmio,False,False,third
-462,1978-02-19,Sport,1,0,Ponte Preta-SP,False,False,third
-463,1978-02-19,Botafogo-SP,0,0,XV de Novembro,False,False,third
-464,1978-01-29,Santa Cruz,2,2,América-RJ,False,False,third
-465,1978-01-29,Remo,3,0,Palmeiras,False,False,third
-466,1978-02-01,Operário-MT,0,0,Santa Cruz,False,False,third
-467,1978-02-01,Palmeiras,4,1,Desportiva,False,False,third
-468,1978-02-12,Palmeiras,5,1,América-RJ,False,False,third
-469,1978-02-12,Santa Cruz,2,0,Desportiva,False,False,third
-470,1978-02-15,Operário-MT,5,0,Desportiva,False,False,third
-471,1978-02-15,América-RJ,1,1,Remo,False,False,third
-472,1978-02-18,Palmeiras,1,3,Santa Cruz,False,False,third
-473,1978-02-18,Desportiva,2,2,Remo,False,False,third
-474,1978-02-18,América-RJ,0,2,Operário-MT,False,False,third
-475,1978-02-20,Remo,2,0,Operário-MT,False,False,third
-476,1978-02-22,Santa Cruz,2,1,Remo,False,False,third
-477,1978-02-22,Operário-MT,2,0,Palmeiras,False,False,third
-478,1978-02-23,Desportiva,0,0,América-RJ,False,False,third
-479,1978-02-26,Londrina,2,2,Atlético-MG,False,False,semi
-480,1978-03-01,Atlético-MG,4,2,Londrina,False,False,semi
-481,1978-02-26,Operário-MT,1,0,São Paulo,False,False,semi
-482,1978-03-01,São Paulo,3,0,Operário-MT,False,False,semi
-483,1978-03-05,Atlético-MG,0,0,São Paulo,False,True,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+1977-10-16,Operário-MT,0,0,Internacional,False,False,first
+1977-10-16,Dom Bosco,1,3,Avaí,False,False,first
+1977-10-16,Grêmio,4,0,Coritiba,False,False,first
+1977-10-19,Dom Bosco,0,2,Internacional,False,False,first
+1977-10-19,Grêmio Maringá,2,0,Avaí,False,False,first
+1977-10-19,Joinville,1,1,Grêmio,False,False,first
+1977-10-19,Caxias,0,0,Coritiba,False,False,first
+1977-10-23,Coritiba,1,3,Internacional,False,False,first
+1977-10-23,Avaí,1,2,Caxias,False,False,first
+1977-10-23,Operário-MT,0,1,Grêmio Maringá,False,False,first
+1977-10-23,Grêmio,2,0,Juventude,False,False,first
+1977-10-27,Caxias,0,0,Joinville,False,False,first
+1977-10-27,Operário-MT,1,0,Juventude,False,False,first
+1977-10-30,Dom Bosco,2,2,Caxias,False,False,first
+1977-10-30,Internacional,5,0,Joinville,False,False,first
+1977-10-30,Coritiba,1,2,Juventude,False,False,first
+1977-10-30,Grêmio Maringá,1,0,Caxias,False,False,first
+1977-11-06,Joinville,1,0,Avaí,False,False,first
+1977-11-06,Grêmio Maringá,1,1,Coritiba,False,False,first
+1977-11-06,Grêmio,4,0,Internacional,False,False,first
+1977-11-06,Caxias,0,0,Juventude,False,False,first
+1977-11-07,Operário-MT,3,1,Dom Bosco,False,False,first
+1977-11-09,Caxias,0,2,Grêmio,False,False,first
+1977-11-10,Operário-MT,2,0,Joinville,False,False,first
+1977-11-10,Grêmio Maringá,3,1,Dom Bosco,False,False,first
+1977-11-10,Juventude,1,0,Avaí,False,False,first
+1977-11-13,Avaí,2,1,Grêmio,False,False,first
+1977-11-13,Juventude,2,2,Dom Bosco,False,False,first
+1977-11-13,Internacional,1,0,Caxias,False,False,first
+1977-11-13,Coritiba,2,1,Joinville,False,False,first
+1977-11-16,Juventude,0,1,Internacional,False,False,first
+1977-11-16,Grêmio Maringá,2,1,Grêmio,False,False,first
+1977-11-16,Joinville,5,3,Dom Bosco,False,False,first
+1977-11-17,Coritiba,1,0,Operário-MT,False,False,first
+1977-11-20,Avaí,0,1,Operário-MT,False,False,first
+1977-11-20,Joinville,1,0,Juventude,False,False,first
+1977-11-20,Internacional,3,0,Grêmio Maringá,False,False,first
+1977-11-20,Dom Bosco,0,3,Grêmio,False,False,first
+1977-11-23,Avaí,2,0,Coritiba,False,False,first
+1977-11-23,Caxias,3,3,Operário-MT,False,False,first
+1977-11-24,Juventude,1,0,Grêmio Maringá,False,False,first
+1977-11-27,Dom Bosco,2,3,Coritiba,False,False,first
+1977-11-27,Grêmio,3,3,Operário-MT,False,False,first
+1977-11-27,Avaí,0,0,Internacional,False,False,first
+1977-11-27,Joinville,2,1,Grêmio Maringá,False,False,first
+1977-10-16,Botafogo-PB,1,0,Sport,False,False,first
+1977-10-16,XV de Novembro,0,0,CSA,False,False,first
+1977-10-16,Náutico,0,1,São Paulo,False,False,first
+1977-10-19,Treze,2,2,Sport,False,False,first
+1977-10-19,Palmeiras,1,0,CSA,False,False,first
+1977-10-19,Botafogo-PB,0,2,São Paulo,False,False,first
+1977-10-20,CRB,0,1,XV de Novembro,False,False,first
+1977-10-23,Treze,1,1,Palmeiras,False,False,first
+1977-10-23,CSA,0,0,São Paulo,False,False,first
+1977-10-23,Sport,1,1,XV de Novembro,False,False,first
+1977-10-23,Botafogo-PB,0,0,Santa Cruz,False,False,first
+1977-10-26,Treze,0,0,XV de Novembro,False,False,first
+1977-10-26,Sport,0,2,Palmeiras,False,False,first
+1977-10-27,Náutico,1,0,CRB,False,False,first
+1977-10-30,Santa Cruz,6,0,Treze,False,False,first
+1977-10-30,Botafogo-PB,0,1,CRB,False,False,first
+1977-10-30,CSA,2,0,Náutico,False,False,first
+1977-10-30,Palmeiras,1,1,XV de Novembro,False,False,first
+1977-11-02,XV de Novembro,1,1,São Paulo,False,False,first
+1977-11-02,Santa Cruz,5,1,CRB,False,False,first
+1977-11-03,Palmeiras,3,2,Náutico,False,False,first
+1977-11-06,São Paulo,0,2,Palmeiras,False,False,first
+1977-11-06,Botafogo-PB,0,0,Treze,False,False,first
+1977-11-06,CSA,1,1,CRB,False,False,first
+1977-11-06,Santa Cruz,1,1,Sport,False,False,first
+1977-11-06,XV de Novembro,0,0,Náutico,False,False,first
+1977-11-10,XV de Novembro,0,0,Santa Cruz,False,False,first
+1977-11-12,CSA,3,1,Botafogo-PB,False,False,first
+1977-11-13,São Paulo,1,0,Santa Cruz,False,False,first
+1977-11-13,Náutico,0,0,Sport,False,False,first
+1977-11-13,CRB,3,1,Treze,False,False,first
+1977-11-16,São Paulo,3,0,Treze,False,False,first
+1977-11-16,CSA,0,1,Santa Cruz,False,False,first
+1977-11-17,Palmeiras,2,0,Botafogo-PB,False,False,first
+1977-11-20,Náutico,1,2,Santa Cruz,False,False,first
+1977-11-20,XV de Novembro,2,0,Botafogo-PB,False,False,first
+1977-11-20,CRB,6,4,Sport,False,False,first
+1977-11-23,CRB,0,2,Palmeiras,False,False,first
+1977-11-23,Treze,0,1,CSA,False,False,first
+1977-11-23,Náutico,2,1,Botafogo-PB,False,False,first
+1977-11-23,São Paulo,2,0,Sport,False,False,first
+1977-11-26,Sport,3,1,CSA,False,False,first
+1977-11-26,São Paulo,4,0,CRB,False,False,first
+1977-11-27,Treze,2,1,Náutico,False,False,first
+1977-11-27,Santa Cruz,1,2,Palmeiras,False,False,first
+1977-10-15,River,5,1,América-RN,False,False,first
+1977-10-16,Sampaio Corrêa,0,0,Corinthians,False,False,first
+1977-10-16,ABC,1,0,Ceará,False,False,first
+1977-10-16,Guarani,0,1,Portuguesa-SP,False,False,first
+1977-10-16,Flamengo-PI,1,2,Ponte Preta-SP,False,False,first
+1977-10-19,Ceará,1,1,América-RN,False,False,first
+1977-10-19,River,2,2,Corinthians,False,False,first
+1977-10-19,Sampaio Corrêa,0,0,Ponte Preta-SP,False,False,first
+1977-10-20,ABC,1,0,Portuguesa-SP,False,False,first
+1977-10-23,Corinthians,1,0,Guarani,False,False,first
+1977-10-23,Flamengo-PI,0,1,Ceará,False,False,first
+1977-10-23,Fortaleza,0,0,Portuguesa-SP,False,False,first
+1977-10-23,América-RN,1,0,Ponte Preta-SP,False,False,first
+1977-10-26,América-RN,5,1,Flamengo-PI,False,False,first
+1977-10-26,Ceará,1,3,Ponte Preta-SP,False,False,first
+1977-10-26,Sampaio Corrêa,1,0,Fortaleza,False,False,first
+1977-10-27,ABC,1,1,Guarani,False,False,first
+1977-10-27,Portuguesa-SP,2,0,River,False,False,first
+1977-10-30,Ponte Preta-SP,2,1,Corinthians,False,False,first
+1977-10-30,ABC,2,0,River,False,False,first
+1977-10-30,Flamengo-PI,1,3,Sampaio Corrêa,False,False,first
+1977-10-30,Fortaleza,1,2,Guarani,False,False,first
+1977-11-02,América-RN,1,0,Sampaio Corrêa,False,False,first
+1977-11-02,Corinthians,3,0,Flamengo-PI,False,False,first
+1977-11-02,Fortaleza,2,1,River,False,False,first
+1977-11-02,Ponte Preta-SP,2,0,ABC,False,False,first
+1977-11-05,Corinthians,1,0,ABC,False,False,first
+1977-11-06,Guarani,2,0,Flamengo-PI,False,False,first
+1977-11-06,Ceará,4,0,Sampaio Corrêa,False,False,first
+1977-11-06,América-RN,1,1,Fortaleza,False,False,first
+1977-11-09,River,1,0,Ceará,False,False,first
+1977-11-09,ABC,0,0,Flamengo-PI,False,False,first
+1977-11-10,Sampaio Corrêa,1,2,Portuguesa-SP,False,False,first
+1977-11-10,Corinthians,3,0,Fortaleza,False,False,first
+1977-11-13,Sampaio Corrêa,0,2,Guarani,False,False,first
+1977-11-13,Flamengo-PI,0,2,Portuguesa-SP,False,False,first
+1977-11-13,Ponte Preta-SP,3,1,Fortaleza,False,False,first
+1977-11-13,Ceará,1,0,Corinthians,False,False,first
+1977-11-16,América-RN,0,0,Corinthians,False,False,first
+1977-11-16,River,1,1,Guarani,False,False,first
+1977-11-17,Portuguesa-SP,0,0,Ponte Preta-SP,False,False,first
+1977-11-20,Corinthians,2,0,Portuguesa-SP,False,False,first
+1977-11-20,ABC,3,0,América-RN,False,False,first
+1977-11-20,River,2,2,Flamengo-PI,False,False,first
+1977-11-20,Guarani,0,1,Ponte Preta-SP,False,False,first
+1977-11-20,Ceará,1,0,Fortaleza,False,False,first
+1977-11-23,Flamengo-PI,1,0,Fortaleza,False,False,first
+1977-11-23,Ponte Preta-SP,5,0,River,False,False,first
+1977-11-24,Sampaio Corrêa,1,1,ABC,False,False,first
+1977-11-24,Portuguesa-SP,3,0,América-RN,False,False,first
+1977-11-24,Guarani,3,0,Ceará,False,False,first
+1977-11-27,Portuguesa-SP,2,1,Ceará,False,False,first
+1977-11-27,River,0,0,Sampaio Corrêa,False,False,first
+1977-11-27,Fortaleza,3,2,ABC,False,False,first
+1977-11-27,Guarani,1,0,América-RN,False,False,first
+1977-10-16,Vila Nova,0,0,Botafogo,False,False,first
+1977-10-16,Londrina,3,2,Goiânia,False,False,first
+1977-10-16,Atlético-PR,1,2,Brasília,False,False,first
+1977-10-16,Americano,1,1,Vasco da Gama,False,False,first
+1977-10-19,Atlético-PR,0,1,Goiânia,False,False,first
+1977-10-20,Brasília,0,1,Botafogo,False,False,first
+1977-10-20,Goytacaz,1,1,Goiás,False,False,first
+1977-10-23,Vasco da Gama,3,0,Brasília,False,False,first
+1977-10-23,Botafogo,3,1,Goiás,False,False,first
+1977-10-23,Vila Nova,1,1,Atlético-PR,False,False,first
+1977-10-26,Americano,1,0,Brasília,False,False,first
+1977-10-26,Goiás,1,1,Atlético-PR,False,False,first
+1977-10-27,Goytacaz,1,1,Botafogo,False,False,first
+1977-10-30,Goiás,0,3,Vasco da Gama,False,False,first
+1977-10-30,Americano,1,1,Goytacaz,False,False,first
+1977-10-30,Londrina,3,1,Vila Nova,False,False,first
+1977-11-02,Atlético-PR,1,3,Botafogo,False,False,first
+1977-11-02,Goiânia,2,6,Vasco da Gama,False,False,first
+1977-11-02,Londrina,1,2,Goytacaz,False,False,first
+1977-11-02,Americano,1,0,Vila Nova,False,False,first
+1977-11-05,Brasília,2,1,Goytacaz,False,False,first
+1977-11-06,Atlético-PR,2,0,Londrina,False,False,first
+1977-11-06,Goiás,1,1,Goiânia,False,False,first
+1977-11-06,Vasco da Gama,2,0,Vila Nova,False,False,first
+1977-11-09,Vila Nova,1,3,Goytacaz,False,False,first
+1977-11-09,Brasília,2,1,Londrina,False,False,first
+1977-11-09,Botafogo,3,0,Americano,False,False,first
+1977-11-12,Brasília,0,0,Goiás,False,False,first
+1977-11-13,Americano,1,1,Londrina,False,False,first
+1977-11-13,Goiânia,2,2,Vila Nova,False,False,first
+1977-11-13,Vasco da Gama,0,0,Botafogo,False,False,first
+1977-11-16,Botafogo,3,0,Londrina,False,False,first
+1977-11-16,Goiânia,0,1,Brasília,False,False,first
+1977-11-17,Vasco da Gama,0,1,Goytacaz,False,False,first
+1977-11-20,Atlético-PR,3,0,Americano,False,False,first
+1977-11-20,Londrina,2,2,Vasco da Gama,False,False,first
+1977-11-20,Goiás,1,0,Vila Nova,False,False,first
+1977-11-20,Goytacaz,0,0,Goiânia,False,False,first
+1977-11-23,Goiás,3,0,Americano,False,False,first
+1977-11-23,Botafogo,1,0,Goiânia,False,False,first
+1977-11-24,Goytacaz,4,1,Atlético-PR,False,False,first
+1977-11-26,Brasília,1,0,Vila Nova,False,False,first
+1977-11-27,Goiânia,1,3,Americano,False,False,first
+1977-11-27,Londrina,1,1,Goiás,False,False,first
+1977-11-27,Vasco da Gama,0,0,Atlético-PR,False,False,first
+1977-10-16,Volta Redonda,3,0,Vitória-ES,False,False,first
+1977-10-16,Desportiva,0,5,Fluminense,False,False,first
+1977-10-16,Flamengo,5,0,Vitória,False,False,first
+1977-10-16,Confiança,1,1,Bahia,False,False,first
+1977-10-16,Fluminense-BA,0,1,Sergipe,False,False,first
+1977-10-19,Vitória-ES,3,1,Sergipe,False,False,first
+1977-10-19,Volta Redonda,0,1,Fluminense,False,False,first
+1977-10-20,Desportiva,0,2,Flamengo,False,False,first
+1977-10-20,América-RJ,1,1,Vitória,False,False,first
+1977-10-23,Fluminense,2,1,Sergipe,False,False,first
+1977-10-23,Volta Redonda,1,2,América-RJ,False,False,first
+1977-10-23,Bahia,0,0,Flamengo,False,False,first
+1977-10-23,Vitória-ES,2,1,Vitória,False,False,first
+1977-10-23,Confiança,1,0,Fluminense-BA,False,False,first
+1977-10-26,Fluminense,6,0,Vitória-ES,False,False,first
+1977-10-26,Fluminense-BA,0,6,Flamengo,False,False,first
+1977-10-27,Desportiva,1,0,Volta Redonda,False,False,first
+1977-10-29,Confiança,2,1,Vitória-ES,False,False,first
+1977-10-30,Vitória,0,0,Volta Redonda,False,False,first
+1977-10-30,Fluminense,0,1,América-RJ,False,False,first
+1977-10-30,Sergipe,1,3,Flamengo,False,False,first
+1977-11-02,Bahia,7,0,Vitória-ES,False,False,first
+1977-11-02,Sergipe,0,1,Volta Redonda,False,False,first
+1977-11-02,Fluminense-BA,1,2,Fluminense,False,False,first
+1977-11-02,América-RJ,3,0,Desportiva,False,False,first
+1977-11-03,Vitória,0,2,Confiança,False,False,first
+1977-11-06,Sergipe,0,1,Confiança,False,False,first
+1977-11-06,Vitória-ES,2,1,Desportiva,False,False,first
+1977-11-06,Flamengo,1,1,América-RJ,False,False,first
+1977-11-06,Vitória,1,1,Fluminense,False,False,first
+1977-11-06,Fluminense-BA,0,1,Bahia,False,False,first
+1977-11-09,Fluminense-BA,0,2,Vitória,False,False,first
+1977-11-09,Confiança,1,0,Fluminense,False,False,first
+1977-11-10,Bahia,2,0,América-RJ,False,False,first
+1977-11-10,Sergipe,1,4,Desportiva,False,False,first
+1977-11-12,Flamengo,1,1,Volta Redonda,False,False,first
+1977-11-13,Confiança,2,2,América-RJ,False,False,first
+1977-11-13,Fluminense-BA,0,0,Desportiva,False,False,first
+1977-11-13,Bahia,1,0,Vitória,False,False,first
+1977-11-15,Fluminense,2,1,Flamengo,False,False,first
+1977-11-16,Vitória,0,1,Desportiva,False,False,first
+1977-11-16,Sergipe,0,1,América-RJ,False,False,first
+1977-11-17,Volta Redonda,1,1,Bahia,False,False,first
+1977-11-19,Vitória-ES,0,0,América-RJ,False,False,first
+1977-11-20,Volta Redonda,2,2,Fluminense-BA,False,False,first
+1977-11-20,Sergipe,2,1,Vitória,False,False,first
+1977-11-20,Fluminense,1,0,Bahia,False,False,first
+1977-11-20,Desportiva,3,1,Confiança,False,False,first
+1977-11-23,Desportiva,2,1,Bahia,False,False,first
+1977-11-23,Volta Redonda,1,3,Confiança,False,False,first
+1977-11-24,América-RJ,1,0,Fluminense-BA,False,False,first
+1977-11-24,Vitória-ES,0,3,Flamengo,False,False,first
+1977-11-27,Flamengo,3,1,Confiança,False,False,first
+1977-11-27,Vitória-ES,1,1,Fluminense-BA,False,False,first
+1977-11-27,Bahia,3,0,Sergipe,False,False,first
+1977-10-16,Santos,0,2,Cruzeiro,False,False,first
+1977-10-16,Atlético-MG,4,1,Remo,False,False,first
+1977-10-16,Uberaba,3,1,Paysandu,False,False,first
+1977-10-16,Nacional-AM,2,0,Fast,False,False,first
+1977-10-19,Santos,4,0,Paysandu,False,False,first
+1977-10-19,América-MG,0,1,Remo,False,False,first
+1977-10-20,Fast,2,0,Uberaba,False,False,first
+1977-10-23,Cruzeiro,4,0,Paysandu,False,False,first
+1977-10-23,Atlético-MG,3,0,Santos,False,False,first
+1977-10-23,Nacional-AM,1,0,Uberaba,False,False,first
+1977-10-23,Botafogo-SP,3,2,Remo,False,False,first
+1977-10-26,Paysandu,1,1,Nacional-AM,False,False,first
+1977-10-26,Botafogo-SP,0,1,Atlético-MG,False,False,first
+1977-10-26,Fast,1,3,Santos,False,False,first
+1977-10-27,Remo,0,0,Uberaba,False,False,first
+1977-10-27,Fast,2,3,Paysandu,False,False,first
+1977-10-30,Remo,0,2,Santos,False,False,first
+1977-10-30,Botafogo-SP,2,1,Uberaba,False,False,first
+1977-10-30,Cruzeiro,2,2,América-MG,False,False,first
+1977-10-30,Nacional-AM,2,4,Atlético-MG,False,False,first
+1977-11-02,Uberaba,0,0,Cruzeiro,False,False,first
+1977-11-02,Paysandu,1,3,Atlético-MG,False,False,first
+1977-11-05,América-MG,2,0,Fast,False,False,first
+1977-11-06,Atlético-MG,1,0,Cruzeiro,False,False,first
+1977-11-06,Santos,0,1,Botafogo-SP,False,False,first
+1977-11-06,Remo,0,0,Paysandu,False,False,first
+1977-11-09,Atlético-MG,6,2,Fast,False,False,first
+1977-11-09,Santos,1,1,América-MG,False,False,first
+1977-11-10,Cruzeiro,3,0,Nacional-AM,False,False,first
+1977-11-13,Atlético-MG,3,1,América-MG,False,False,first
+1977-11-13,Remo,4,0,Cruzeiro,False,False,first
+1977-11-13,Botafogo-SP,5,1,Fast,False,False,first
+1977-11-13,Santos,2,0,Nacional-AM,False,False,first
+1977-11-16,Fast,1,1,Cruzeiro,False,False,first
+1977-11-16,Botafogo-SP,4,0,Nacional-AM,False,False,first
+1977-11-16,Uberaba,1,0,América-MG,False,False,first
+1977-11-20,Uberaba,1,1,Atlético-MG,False,False,first
+1977-11-20,América-MG,1,2,Botafogo-SP,False,False,first
+1977-11-20,Remo,4,1,Fast,False,False,first
+1977-11-23,Paysandu,2,1,Botafogo-SP,False,False,first
+1977-11-24,Nacional-AM,1,0,América-MG,False,False,first
+1977-11-27,Uberaba,4,1,Santos,False,False,first
+1977-11-27,Cruzeiro,3,1,Botafogo-SP,False,False,first
+1977-11-27,Paysandu,4,1,América-MG,False,False,first
+1977-11-27,Nacional-AM,0,2,Remo,False,False,first
+1977-12-01,Brasília,2,3,América-RJ,False,False,second
+1977-12-04,Corinthians,2,0,São Paulo,False,False,second
+1977-12-04,Internacional,6,0,Brasília,False,False,second
+1977-12-07,São Paulo,5,0,Brasília,False,False,second
+1977-12-07,América-RJ,0,0,Internacional,False,False,second
+1977-12-10,Brasília,0,5,Corinthians,False,False,second
+1977-12-11,Internacional,1,4,São Paulo,False,False,second
+1977-12-15,Corinthians,0,0,América-RJ,False,False,second
+1977-12-18,Corinthians,1,0,Internacional,False,False,second
+1977-12-18,América-RJ,0,0,São Paulo,False,False,second
+1977-12-01,Portuguesa-SP,1,2,Santos,False,False,second
+1977-12-04,Bahia,2,0,Portuguesa-SP,False,False,second
+1977-12-04,Goytacaz,1,3,Palmeiras,False,False,second
+1977-12-07,Santos,0,1,Bahia,False,False,second
+1977-12-08,Portuguesa-SP,0,1,Goytacaz,False,False,second
+1977-12-11,Palmeiras,1,1,Santos,False,False,second
+1977-12-11,Bahia,2,0,Goytacaz,False,False,second
+1977-12-14,Goytacaz,0,0,Santos,False,False,second
+1977-12-14,Palmeiras,2,1,Portuguesa-SP,False,False,second
+1977-12-15,Palmeiras,1,0,Bahia,False,False,second
+1977-12-04,Ponte Preta-SP,3,0,Confiança,False,False,second
+1977-12-04,Vasco da Gama,1,0,Remo,False,False,second
+1977-12-07,Confiança,2,1,Remo,False,False,second
+1977-12-08,Joinville,0,2,Ponte Preta-SP,False,False,second
+1977-12-11,Ponte Preta-SP,0,0,Vasco da Gama,False,False,second
+1977-12-11,Joinville,3,0,Confiança,False,False,second
+1977-12-15,Remo,1,0,Joinville,False,False,second
+1977-12-15,Confiança,0,1,Vasco da Gama,False,False,second
+1977-12-18,Vasco da Gama,1,1,Joinville,False,False,second
+1977-12-18,Remo,1,0,Ponte Preta-SP,False,False,second
+1977-12-01,Operário-MT,0,0,Botafogo-SP,False,False,second
+1977-12-04,Operário-MT,2,1,Fluminense,False,False,second
+1977-12-04,Botafogo-SP,2,2,Botafogo,False,False,second
+1977-12-07,CSA,1,2,Fluminense,False,False,second
+1977-12-07,Botafogo,1,1,Operário-MT,False,False,second
+1977-12-11,Fluminense,0,1,Botafogo,False,False,second
+1977-12-11,Botafogo-SP,2,2,CSA,False,False,second
+1977-12-14,Botafogo,3,1,CSA,False,False,second
+1977-12-15,Fluminense,0,0,Botafogo-SP,False,False,second
+1977-12-18,CSA,0,2,Operário-MT,False,False,second
+1977-12-01,ABC,1,0,XV de Novembro,False,False,second
+1977-12-04,Flamengo,3,1,Cruzeiro,False,False,second
+1977-12-04,XV de Novembro,3,0,Grêmio Maringá,False,False,second
+1977-12-07,XV de Novembro,1,0,Flamengo,False,False,second
+1977-12-11,Grêmio Maringá,0,1,Flamengo,False,False,second
+1977-12-11,ABC,2,2,Cruzeiro,False,False,second
+1977-12-14,Cruzeiro,2,0,XV de Novembro,False,False,second
+1977-12-14,Grêmio Maringá,3,0,ABC,False,False,second
+1977-12-15,Flamengo,1,0,ABC,False,False,second
+1977-12-18,Cruzeiro,0,0,Grêmio Maringá,False,False,second
+1977-12-01,Guarani,0,1,Atlético-MG,False,False,second
+1977-12-04,Atlético-MG,3,1,Santa Cruz,False,False,second
+1977-12-07,Santa Cruz,1,0,Guarani,False,False,second
+1977-12-07,Americano,0,0,Grêmio,False,False,second
+1977-12-10,Guarani,6,0,Americano,False,False,second
+1977-12-11,Atlético-MG,3,1,Grêmio,False,False,second
+1977-12-14,Santa Cruz,3,0,Americano,False,False,second
+1977-12-14,Grêmio,2,0,Guarani,False,False,second
+1977-12-18,Americano,0,2,Atlético-MG,False,False,second
+1977-12-18,Grêmio,2,3,Santa Cruz,False,False,second
+1977-12-04,Coritiba,4,0,Dom Bosco,False,False,relegation
+1977-12-04,Caxias,5,1,Avaí,False,False,relegation
+1977-12-07,Juventude,3,0,Coritiba,False,False,relegation
+1977-12-08,Avaí,0,1,Dom Bosco,False,False,relegation
+1977-12-11,Juventude,1,1,Caxias,False,False,relegation
+1977-12-11,Coritiba,2,3,Avaí,False,False,relegation
+1977-12-14,Dom Bosco,1,1,Caxias,False,False,relegation
+1977-12-14,Avaí,2,1,Juventude,False,False,relegation
+1977-12-15,Coritiba,1,2,Caxias,False,False,relegation
+1977-12-18,Dom Bosco,0,1,Juventude,False,False,relegation
+1977-12-04,CRB,1,2,Náutico,False,False,relegation
+1977-12-04,Sport,4,0,Treze,False,False,relegation
+1977-12-07,Botafogo-PB,1,3,Sport,False,False,relegation
+1977-12-07,Treze,0,0,CRB,False,False,relegation
+1977-12-11,Sport,1,0,Náutico,False,False,relegation
+1977-12-11,Treze,3,2,Botafogo-PB,False,False,relegation
+1977-12-14,CRB,3,0,Botafogo-PB,False,False,relegation
+1977-12-15,Náutico,5,0,Treze,False,False,relegation
+1977-12-18,Botafogo-PB,3,1,Náutico,False,False,relegation
+1977-12-18,Sport,1,0,CRB,False,False,relegation
+1977-11-30,América-RN,2,0,Ceará,False,False,relegation
+1977-12-01,Flamengo-PI,0,0,Fortaleza,False,False,relegation
+1977-12-04,River,4,3,Sampaio Corrêa,False,False,relegation
+1977-12-04,Fortaleza,0,2,América-RN,False,False,relegation
+1977-12-07,Flamengo-PI,1,1,América-RN,False,False,relegation
+1977-12-08,River,2,1,Fortaleza,False,False,relegation
+1977-12-08,Sampaio Corrêa,1,1,Ceará,False,False,relegation
+1977-12-11,Ceará,2,1,Fortaleza,False,False,relegation
+1977-12-11,Sampaio Corrêa,1,1,América-RN,False,False,relegation
+1977-12-11,Flamengo-PI,0,0,River,False,False,relegation
+1977-12-14,Sampaio Corrêa,4,1,Flamengo-PI,False,False,relegation
+1977-12-15,Ceará,3,0,River,False,False,relegation
+1977-12-15,Fortaleza,2,0,Sampaio Corrêa,False,False,relegation
+1977-12-18,América-RN,5,0,River,False,False,relegation
+1977-12-18,Ceará,0,0,Flamengo-PI,False,False,relegation
+1977-12-01,Londrina,4,1,Goiânia,False,False,relegation
+1977-12-01,Atlético-PR,3,3,Goiás,False,False,relegation
+1977-12-04,Vila Nova,4,0,Goiânia,False,False,relegation
+1977-12-07,Goiânia,2,1,Atlético-PR,False,False,relegation
+1977-12-11,Vila Nova,0,3,Goiás,False,False,relegation
+1977-12-11,Londrina,2,3,Atlético-PR,False,False,relegation
+1977-12-14,Goiás,3,2,Goiânia,False,False,relegation
+1977-12-15,Vila Nova,0,1,Londrina,False,False,relegation
+1977-12-18,Atlético-PR,2,2,Vila Nova,False,False,relegation
+1977-12-18,Goiás,1,2,Londrina,False,False,relegation
+1977-12-01,Volta Redonda,2,0,Desportiva,False,False,relegation
+1977-12-01,Vitória,2,0,Vitória-ES,False,False,relegation
+1977-12-01,Sergipe,1,1,Fluminense-BA,False,False,relegation
+1977-12-04,Volta Redonda,3,2,Sergipe,False,False,relegation
+1977-12-04,Desportiva,3,1,Vitória,False,False,relegation
+1977-12-07,Vitória-ES,1,0,Fluminense-BA,False,False,relegation
+1977-12-07,Volta Redonda,1,1,Vitória,False,False,relegation
+1977-12-10,Vitória,2,1,Sergipe,False,False,relegation
+1977-12-11,Fluminense-BA,1,0,Volta Redonda,False,False,relegation
+1977-12-11,Desportiva,2,1,Vitória-ES,False,False,relegation
+1977-12-14,Vitória-ES,1,1,Volta Redonda,False,False,relegation
+1977-12-14,Sergipe,1,1,Desportiva,False,False,relegation
+1977-12-14,Vitória,2,0,Fluminense-BA,False,False,relegation
+1977-12-18,Sergipe,0,1,Vitória-ES,False,False,relegation
+1977-12-01,América-MG,3,1,Paysandu,False,False,relegation
+1977-12-04,Uberaba,2,0,Nacional-AM,False,False,relegation
+1977-12-04,Paysandu,1,2,Fast,False,False,relegation
+1977-12-07,América-MG,1,0,Nacional-AM,False,False,relegation
+1977-12-10,América-MG,1,0,Uberaba,False,False,relegation
+1977-12-11,Fast,2,1,Nacional-AM,False,False,relegation
+1977-12-14,Fast,2,0,América-MG,False,False,relegation
+1977-12-14,Paysandu,2,2,Uberaba,False,False,relegation
+1977-12-18,Uberaba,1,0,Fast,False,False,relegation
+1977-12-18,Nacional-AM,1,1,Paysandu,False,False,relegation
+1978-01-29,Corinthians,1,1,Santos,False,False,third
+1978-01-29,Londrina,2,0,Caxias,False,False,third
+1978-01-29,Flamengo,0,0,Vasco da Gama,False,False,third
+1978-02-01,Londrina,1,0,Flamengo,False,False,third
+1978-02-01,Corinthians,1,0,Caxias,False,False,third
+1978-02-01,Vasco da Gama,1,0,Santos,False,False,third
+1978-02-11,Flamengo,1,1,Caxias,False,False,third
+1978-02-11,Santos,1,2,Londrina,False,False,third
+1978-02-12,Corinthians,0,0,Vasco da Gama,False,False,third
+1978-02-15,Londrina,1,0,Corinthians,False,False,third
+1978-02-15,Caxias,1,5,Vasco da Gama,False,False,third
+1978-02-15,Santos,0,0,Flamengo,False,False,third
+1978-02-18,Caxias,3,3,Santos,False,False,third
+1978-02-19,Flamengo,0,1,Corinthians,False,False,third
+1978-02-19,Vasco da Gama,0,2,Londrina,False,False,third
+1978-01-29,Bahia,0,0,Botafogo,False,False,third
+1978-01-29,Atlético-MG,2,1,Cruzeiro,False,False,third
+1978-01-29,Fast,0,0,América-RN,False,False,third
+1978-02-01,Fast,1,2,Atlético-MG,False,False,third
+1978-02-01,Botafogo,2,0,América-RN,False,False,third
+1978-02-12,Botafogo,0,0,Atlético-MG,False,False,third
+1978-02-12,Bahia,2,2,Cruzeiro,False,False,third
+1978-02-15,América-RN,0,0,Bahia,False,False,third
+1978-02-15,Cruzeiro,5,4,Fast,False,False,third
+1978-02-19,Bahia,2,0,Fast,False,False,third
+1978-02-19,Cruzeiro,0,3,Botafogo,False,False,third
+1978-02-19,Atlético-MG,6,0,América-RN,False,False,third
+1978-02-22,América-RN,2,2,Cruzeiro,False,False,third
+1978-02-22,Atlético-MG,4,0,Bahia,False,False,third
+1978-02-22,Botafogo,3,1,Fast,False,False,third
+1978-01-28,São Paulo,4,2,XV de Novembro,False,False,third
+1978-01-29,Grêmio,1,0,Sport,False,False,third
+1978-01-29,Ponte Preta-SP,4,1,Botafogo-SP,False,False,third
+1978-02-01,XV de Novembro,0,1,Grêmio,False,False,third
+1978-02-01,Ponte Preta-SP,1,3,São Paulo,False,False,third
+1978-02-01,Sport,1,2,Botafogo-SP,False,False,third
+1978-02-12,XV de Novembro,0,1,Sport,False,False,third
+1978-02-12,Botafogo-SP,1,0,São Paulo,False,False,third
+1978-02-12,Grêmio,1,0,Ponte Preta-SP,False,False,third
+1978-02-15,Ponte Preta-SP,1,0,XV de Novembro,False,False,third
+1978-02-15,Grêmio,1,1,Botafogo-SP,False,False,third
+1978-02-15,São Paulo,4,3,Sport,False,False,third
+1978-02-19,São Paulo,3,1,Grêmio,False,False,third
+1978-02-19,Sport,1,0,Ponte Preta-SP,False,False,third
+1978-02-19,Botafogo-SP,0,0,XV de Novembro,False,False,third
+1978-01-29,Santa Cruz,2,2,América-RJ,False,False,third
+1978-01-29,Remo,3,0,Palmeiras,False,False,third
+1978-02-01,Operário-MT,0,0,Santa Cruz,False,False,third
+1978-02-01,Palmeiras,4,1,Desportiva,False,False,third
+1978-02-12,Palmeiras,5,1,América-RJ,False,False,third
+1978-02-12,Santa Cruz,2,0,Desportiva,False,False,third
+1978-02-15,Operário-MT,5,0,Desportiva,False,False,third
+1978-02-15,América-RJ,1,1,Remo,False,False,third
+1978-02-18,Palmeiras,1,3,Santa Cruz,False,False,third
+1978-02-18,Desportiva,2,2,Remo,False,False,third
+1978-02-18,América-RJ,0,2,Operário-MT,False,False,third
+1978-02-20,Remo,2,0,Operário-MT,False,False,third
+1978-02-22,Santa Cruz,2,1,Remo,False,False,third
+1978-02-22,Operário-MT,2,0,Palmeiras,False,False,third
+1978-02-23,Desportiva,0,0,América-RJ,False,False,third
+1978-02-26,Londrina,2,2,Atlético-MG,False,False,semi
+1978-03-01,Atlético-MG,4,2,Londrina,False,False,semi
+1978-02-26,Operário-MT,1,0,São Paulo,False,False,semi
+1978-03-01,São Paulo,3,0,Operário-MT,False,False,semi
+1978-03-05,Atlético-MG,0,0,São Paulo,False,True,final

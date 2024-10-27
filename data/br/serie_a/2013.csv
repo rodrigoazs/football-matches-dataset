@@ -1,381 +1,381 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,2013-05-25,Vasco da Gama,1,0,Portuguesa-SP,False,False,first
-1,2013-05-25,Vitória,2,2,Internacional,False,False,first
-2,2013-05-25,Corinthians,1,1,Botafogo,False,False,first
-3,2013-05-26,Grêmio,2,0,Náutico,False,False,first
-4,2013-05-26,Ponte Preta-SP,0,2,São Paulo,False,False,first
-5,2013-05-26,Criciúma,3,1,Bahia,False,False,first
-6,2013-05-26,Santos,0,0,Flamengo,False,False,first
-7,2013-05-26,Fluminense,2,1,Atlético-PR,False,False,first
-8,2013-05-26,Cruzeiro,5,0,Goiás,False,False,first
-9,2013-05-26,Coritiba,2,1,Atlético-MG,False,False,first
-10,2013-05-29,Botafogo,2,1,Santos,False,False,first
-11,2013-05-29,Atlético-PR,2,2,Cruzeiro,False,False,first
-12,2013-05-29,Náutico,0,3,Vitória,False,False,first
-13,2013-05-29,Bahia,0,0,Coritiba,False,False,first
-14,2013-05-29,Flamengo,0,2,Ponte Preta-SP,False,False,first
-15,2013-05-29,Goiás,1,1,Corinthians,False,False,first
-16,2013-05-29,São Paulo,5,1,Vasco da Gama,False,False,first
-17,2013-05-30,Internacional,2,0,Criciúma,False,False,first
-18,2013-06-09,Atlético-MG,2,0,Grêmio,False,False,first
-19,2013-06-12,Portuguesa-SP,2,1,Fluminense,False,False,first
-20,2013-06-01,Botafogo,2,1,Cruzeiro,False,False,first
-21,2013-06-01,Atlético-PR,2,2,Flamengo,False,False,first
-22,2013-06-01,Vitória,2,0,Vasco da Gama,False,False,first
-23,2013-06-01,Goiás,1,1,Coritiba,False,False,first
-24,2013-06-01,Santos,1,1,Grêmio,False,False,first
-25,2013-06-01,Corinthians,1,0,Ponte Preta-SP,False,False,first
-26,2013-06-02,Atlético-MG,0,0,São Paulo,False,False,first
-27,2013-06-02,Fluminense,3,0,Criciúma,False,False,first
-28,2013-06-02,Internacional,1,2,Bahia,False,False,first
-29,2013-06-02,Náutico,2,2,Portuguesa-SP,False,False,first
-30,2013-06-05,São Paulo,0,1,Goiás,False,False,first
-31,2013-06-05,Criciúma,3,1,Santos,False,False,first
-32,2013-06-05,Portuguesa-SP,1,1,Internacional,False,False,first
-33,2013-06-05,Ponte Preta-SP,3,4,Atlético-PR,False,False,first
-34,2013-06-05,Vasco da Gama,2,0,Atlético-MG,False,False,first
-35,2013-06-05,Grêmio,1,0,Vitória,False,False,first
-36,2013-06-05,Bahia,2,1,Botafogo,False,False,first
-37,2013-06-05,Flamengo,0,1,Náutico,False,False,first
-38,2013-06-05,Cruzeiro,1,0,Corinthians,False,False,first
-39,2013-06-06,Coritiba,2,1,Fluminense,False,False,first
-40,2013-06-08,Criciúma,0,3,Flamengo,False,False,first
-41,2013-06-08,Cruzeiro,2,2,Internacional,False,False,first
-42,2013-06-08,Corinthians,0,0,Portuguesa-SP,False,False,first
-43,2013-06-08,Vasco da Gama,1,1,Bahia,False,False,first
-44,2013-06-08,Ponte Preta-SP,0,2,Botafogo,False,False,first
-45,2013-06-09,Vitória,3,2,Atlético-PR,False,False,first
-46,2013-06-09,Fluminense,2,1,Goiás,False,False,first
-47,2013-06-09,Coritiba,1,0,Náutico,False,False,first
-48,2013-06-12,Grêmio,1,1,São Paulo,False,False,first
-49,2013-06-12,Santos,1,0,Atlético-MG,False,False,first
-50,2013-07-06,Flamengo,2,2,Coritiba,False,False,first
-51,2013-07-06,Atlético-PR,1,1,Grêmio,False,False,first
-52,2013-07-06,Náutico,1,3,Ponte Preta-SP,False,False,first
-53,2013-07-06,Portuguesa-SP,1,1,Cruzeiro,False,False,first
-54,2013-07-07,Goiás,1,0,Vitória,False,False,first
-55,2013-07-07,São Paulo,0,2,Santos,False,False,first
-56,2013-07-07,Bahia,0,2,Corinthians,False,False,first
-57,2013-07-07,Internacional,5,3,Vasco da Gama,False,False,first
-58,2013-07-07,Botafogo,1,0,Fluminense,False,False,first
-59,2013-07-07,Atlético-MG,3,2,Criciúma,False,False,first
-60,2013-07-13,Santos,4,1,Portuguesa-SP,False,False,first
-61,2013-07-13,Fluminense,2,3,Internacional,False,False,first
-62,2013-07-13,Ponte Preta-SP,0,0,Bahia,False,False,first
-63,2013-07-14,Vitória,3,2,São Paulo,False,False,first
-64,2013-07-14,Grêmio,2,1,Botafogo,False,False,first
-65,2013-07-14,Coritiba,1,0,Atlético-PR,False,False,first
-66,2013-07-14,Corinthians,0,1,Atlético-MG,False,False,first
-67,2013-07-14,Cruzeiro,3,0,Náutico,False,False,first
-68,2013-07-14,Vasco da Gama,0,1,Flamengo,False,False,first
-69,2013-07-14,Criciúma,0,0,Goiás,False,False,first
-70,2013-07-20,Criciúma,2,1,Grêmio,False,False,first
-71,2013-07-20,São Paulo,0,3,Cruzeiro,False,False,first
-72,2013-07-20,Botafogo,2,0,Náutico,False,False,first
-73,2013-07-21,Santos,2,2,Coritiba,False,False,first
-74,2013-07-21,Vitória,0,0,Bahia,False,False,first
-75,2013-07-21,Atlético-PR,1,1,Corinthians,False,False,first
-76,2013-07-21,Internacional,1,0,Flamengo,False,False,first
-77,2013-07-21,Fluminense,1,3,Vasco da Gama,False,False,first
-78,2013-07-21,Goiás,2,1,Portuguesa-SP,False,False,first
-79,2013-10-03,Atlético-MG,4,0,Ponte Preta-SP,False,False,first
-80,2013-07-27,Vasco da Gama,3,2,Criciúma,False,False,first
-81,2013-07-27,Portuguesa-SP,2,3,Atlético-PR,False,False,first
-82,2013-07-27,Ponte Preta-SP,1,0,Santos,False,False,first
-83,2013-07-28,Cruzeiro,4,1,Atlético-MG,False,False,first
-84,2013-07-28,Náutico,3,0,Internacional,False,False,first
-85,2013-07-28,Grêmio,2,0,Fluminense,False,False,first
-86,2013-07-28,Corinthians,0,0,São Paulo,False,False,first
-87,2013-07-28,Coritiba,1,1,Vitória,False,False,first
-88,2013-07-28,Flamengo,1,1,Botafogo,False,False,first
-89,2013-07-28,Bahia,2,1,Goiás,False,False,first
-90,2013-07-31,Fluminense,1,0,Cruzeiro,False,False,first
-91,2013-07-31,Atlético-MG,1,2,Atlético-PR,False,False,first
-92,2013-07-31,Portuguesa-SP,1,1,Criciúma,False,False,first
-93,2013-07-31,Coritiba,5,3,Ponte Preta-SP,False,False,first
-94,2013-07-31,Corinthians,2,0,Grêmio,False,False,first
-95,2013-07-31,Bahia,3,0,Flamengo,False,False,first
-96,2013-08-01,Botafogo,2,0,Vitória,False,False,first
-97,2013-08-01,Goiás,1,1,Vasco da Gama,False,False,first
-98,2013-09-03,Náutico,0,1,São Paulo,False,False,first
-99,2013-09-10,Internacional,1,2,Santos,False,False,first
-100,2013-07-10,São Paulo,1,2,Bahia,False,False,first
-101,2013-08-03,Cruzeiro,1,0,Coritiba,False,False,first
-102,2013-08-04,Ponte Preta-SP,1,1,Fluminense,False,False,first
-103,2013-08-04,Flamengo,3,0,Atlético-MG,False,False,first
-104,2013-08-04,Atlético-PR,2,0,Goiás,False,False,first
-105,2013-08-04,Grêmio,1,1,Internacional,False,False,first
-106,2013-08-04,Criciúma,0,2,Corinthians,False,False,first
-107,2013-08-04,Vitória,2,1,Portuguesa-SP,False,False,first
-108,2013-08-04,Vasco da Gama,2,3,Botafogo,False,False,first
-109,2013-09-25,Santos,1,1,Náutico,False,False,first
-110,2013-07-24,São Paulo,0,1,Internacional,False,False,first
-111,2013-08-07,Vitória,1,1,Fluminense,False,False,first
-112,2013-08-07,Criciúma,1,2,Cruzeiro,False,False,first
-113,2013-08-07,Atlético-PR,1,0,Bahia,False,False,first
-114,2013-08-07,Flamengo,1,1,Portuguesa-SP,False,False,first
-115,2013-08-07,Santos,1,1,Corinthians,False,False,first
-116,2013-08-07,Goiás,2,1,Náutico,False,False,first
-117,2013-08-07,Atlético-MG,2,2,Botafogo,False,False,first
-118,2013-08-08,Grêmio,0,1,Coritiba,False,False,first
-119,2013-08-08,Vasco da Gama,1,1,Ponte Preta-SP,False,False,first
-120,2013-08-10,Botafogo,1,1,Goiás,False,False,first
-121,2013-08-10,Náutico,0,0,Atlético-MG,False,False,first
-122,2013-08-11,Coritiba,0,1,Vasco da Gama,False,False,first
-123,2013-08-11,Corinthians,2,0,Vitória,False,False,first
-124,2013-08-11,Fluminense,3,2,Flamengo,False,False,first
-125,2013-08-11,Cruzeiro,0,0,Santos,False,False,first
-126,2013-08-11,Bahia,0,3,Grêmio,False,False,first
-127,2013-08-11,Portuguesa-SP,2,1,São Paulo,False,False,first
-128,2013-08-11,Internacional,2,2,Atlético-PR,False,False,first
-129,2013-08-11,Ponte Preta-SP,3,1,Criciúma,False,False,first
-130,2013-08-14,Criciúma,3,0,Náutico,False,False,first
-131,2013-08-14,Santos,1,1,Vasco da Gama,False,False,first
-132,2013-08-14,Atlético-MG,2,0,Bahia,False,False,first
-133,2013-08-14,Coritiba,1,1,Portuguesa-SP,False,False,first
-134,2013-08-14,Vitória,3,1,Ponte Preta-SP,False,False,first
-135,2013-08-14,Goiás,1,1,Flamengo,False,False,first
-136,2013-08-14,Grêmio,3,1,Cruzeiro,False,False,first
-137,2013-08-14,Fluminense,0,0,Corinthians,False,False,first
-138,2013-08-15,São Paulo,1,1,Atlético-PR,False,False,first
-139,2013-08-15,Botafogo,3,3,Internacional,False,False,first
-140,2013-08-17,Cruzeiro,5,1,Vitória,False,False,first
-141,2013-08-17,Náutico,0,1,Fluminense,False,False,first
-142,2013-08-17,Vasco da Gama,2,3,Grêmio,False,False,first
-143,2013-08-18,Flamengo,0,0,São Paulo,False,False,first
-144,2013-08-18,Corinthians,1,0,Coritiba,False,False,first
-145,2013-08-18,Ponte Preta-SP,0,1,Goiás,False,False,first
-146,2013-08-18,Portuguesa-SP,1,3,Botafogo,False,False,first
-147,2013-08-18,Bahia,0,0,Santos,False,False,first
-148,2013-08-18,Atlético-PR,2,1,Criciúma,False,False,first
-149,2013-08-18,Internacional,0,0,Atlético-MG,False,False,first
-150,2013-08-24,Flamengo,0,1,Grêmio,False,False,first
-151,2013-08-24,Ponte Preta-SP,0,2,Cruzeiro,False,False,first
-152,2013-08-24,Santos,2,0,Vitória,False,False,first
-153,2013-08-24,Criciúma,2,1,Coritiba,False,False,first
-154,2013-08-25,Bahia,2,0,Náutico,False,False,first
-155,2013-08-25,Vasco da Gama,1,1,Corinthians,False,False,first
-156,2013-08-25,São Paulo,2,1,Fluminense,False,False,first
-157,2013-08-25,Atlético-MG,2,1,Portuguesa-SP,False,False,first
-158,2013-08-25,Atlético-PR,2,0,Botafogo,False,False,first
-159,2013-08-25,Internacional,3,3,Goiás,False,False,first
-160,2013-08-31,Goiás,0,0,Atlético-MG,False,False,first
-161,2013-08-31,Portuguesa-SP,4,2,Bahia,False,False,first
-162,2013-08-31,Náutico,1,4,Atlético-PR,False,False,first
-163,2013-08-31,Grêmio,1,0,Ponte Preta-SP,False,False,first
-164,2013-08-31,Fluminense,0,2,Santos,False,False,first
-165,2013-09-01,Coritiba,0,0,Internacional,False,False,first
-166,2013-09-01,Botafogo,0,0,São Paulo,False,False,first
-167,2013-09-01,Corinthians,4,0,Flamengo,False,False,first
-168,2013-09-01,Vitória,0,1,Criciúma,False,False,first
-169,2013-09-01,Cruzeiro,5,3,Vasco da Gama,False,False,first
-170,2013-09-03,Goiás,2,0,Grêmio,False,False,first
-171,2013-09-04,Atlético-PR,2,1,Santos,False,False,first
-172,2013-09-04,Flamengo,2,1,Vitória,False,False,first
-173,2013-09-04,Portuguesa-SP,2,1,Ponte Preta-SP,False,False,first
-174,2013-09-04,Internacional,1,0,Corinthians,False,False,first
-175,2013-09-04,Bahia,1,3,Cruzeiro,False,False,first
-176,2013-09-04,Atlético-MG,2,2,Fluminense,False,False,first
-177,2013-09-05,Náutico,0,3,Vasco da Gama,False,False,first
-178,2013-09-05,Botafogo,3,1,Coritiba,False,False,first
-179,2013-09-05,São Paulo,1,2,Criciúma,False,False,first
-180,2013-09-07,Santos,1,0,Goiás,False,False,first
-181,2013-09-07,Fluminense,1,0,Bahia,False,False,first
-182,2013-09-07,Ponte Preta-SP,1,3,Internacional,False,False,first
-183,2013-09-07,Vitória,1,1,Atlético-MG,False,False,first
-184,2013-09-07,Grêmio,3,2,Portuguesa-SP,False,False,first
-185,2013-09-08,Coritiba,2,0,São Paulo,False,False,first
-186,2013-09-08,Cruzeiro,1,0,Flamengo,False,False,first
-187,2013-09-08,Corinthians,0,0,Náutico,False,False,first
-188,2013-09-08,Vasco da Gama,0,0,Atlético-PR,False,False,first
-189,2013-09-08,Criciúma,1,2,Botafogo,False,False,first
-190,2013-09-11,Atlético-PR,1,1,Fluminense,False,False,first
-191,2013-09-11,Bahia,2,2,Criciúma,False,False,first
-192,2013-09-11,Goiás,1,2,Cruzeiro,False,False,first
-193,2013-09-11,Náutico,0,2,Grêmio,False,False,first
-194,2013-09-11,Botafogo,1,0,Corinthians,False,False,first
-195,2013-09-11,Portuguesa-SP,2,0,Vasco da Gama,False,False,first
-196,2013-09-12,Internacional,2,2,Vitória,False,False,first
-197,2013-09-12,Atlético-MG,3,0,Coritiba,False,False,first
-198,2013-09-12,Flamengo,2,1,Santos,False,False,first
-199,2013-09-12,São Paulo,1,0,Ponte Preta-SP,False,False,first
-200,2013-09-14,Cruzeiro,1,0,Atlético-PR,False,False,first
-201,2013-09-14,Fluminense,2,1,Portuguesa-SP,False,False,first
-202,2013-09-15,Ponte Preta-SP,1,1,Flamengo,False,False,first
-203,2013-09-15,Criciúma,0,1,Internacional,False,False,first
-204,2013-09-15,Vasco da Gama,0,2,São Paulo,False,False,first
-205,2013-09-15,Coritiba,2,2,Bahia,False,False,first
-206,2013-09-15,Corinthians,1,2,Goiás,False,False,first
-207,2013-09-15,Santos,1,2,Botafogo,False,False,first
-208,2013-09-15,Grêmio,0,1,Atlético-MG,False,False,first
-209,2013-09-15,Vitória,2,1,Náutico,False,False,first
-210,2013-09-18,Grêmio,1,1,Santos,False,False,first
-211,2013-09-18,Vasco da Gama,1,2,Vitória,False,False,first
-212,2013-09-18,Criciúma,1,2,Fluminense,False,False,first
-213,2013-09-18,Coritiba,2,2,Goiás,False,False,first
-214,2013-09-18,Cruzeiro,3,0,Botafogo,False,False,first
-215,2013-09-18,Ponte Preta-SP,2,0,Corinthians,False,False,first
-216,2013-09-18,São Paulo,1,0,Atlético-MG,False,False,first
-217,2013-09-19,Flamengo,2,4,Atlético-PR,False,False,first
-218,2013-09-19,Bahia,2,0,Internacional,False,False,first
-219,2013-09-19,Portuguesa-SP,3,0,Náutico,False,False,first
-220,2013-09-21,Fluminense,1,1,Coritiba,False,False,first
-221,2013-09-21,Vitória,0,0,Grêmio,False,False,first
-222,2013-09-22,Internacional,0,1,Portuguesa-SP,False,False,first
-223,2013-09-22,Náutico,0,0,Flamengo,False,False,first
-224,2013-09-22,Goiás,1,0,São Paulo,False,False,first
-225,2013-09-22,Corinthians,0,0,Cruzeiro,False,False,first
-226,2013-09-22,Botafogo,1,2,Bahia,False,False,first
-227,2013-09-22,Santos,2,1,Criciúma,False,False,first
-228,2013-09-22,Atlético-MG,2,1,Vasco da Gama,False,False,first
-229,2013-09-22,Atlético-PR,1,0,Ponte Preta-SP,False,False,first
-230,2013-09-28,Náutico,3,0,Coritiba,False,False,first
-231,2013-09-28,Goiás,1,2,Fluminense,False,False,first
-232,2013-09-28,Botafogo,0,1,Ponte Preta-SP,False,False,first
-233,2013-09-29,Bahia,0,0,Vasco da Gama,False,False,first
-234,2013-09-29,São Paulo,0,1,Grêmio,False,False,first
-235,2013-09-29,Flamengo,4,1,Criciúma,False,False,first
-236,2013-09-29,Portuguesa-SP,4,0,Corinthians,False,False,first
-237,2013-09-29,Internacional,1,2,Cruzeiro,False,False,first
-238,2013-09-29,Atlético-MG,3,1,Santos,False,False,first
-239,2013-09-29,Atlético-PR,3,5,Vitória,False,False,first
-240,2013-09-25,Criciúma,1,1,Atlético-MG,False,False,first
-241,2013-10-01,Ponte Preta-SP,1,2,Náutico,False,False,first
-242,2013-10-02,Cruzeiro,4,0,Portuguesa-SP,False,False,first
-243,2013-10-02,Grêmio,1,0,Atlético-PR,False,False,first
-244,2013-10-02,Fluminense,1,1,Botafogo,False,False,first
-245,2013-10-02,Vitória,2,1,Goiás,False,False,first
-246,2013-10-02,Corinthians,2,0,Bahia,False,False,first
-247,2013-10-02,Coritiba,0,2,Flamengo,False,False,first
-248,2013-10-02,Santos,3,0,São Paulo,False,False,first
-249,2013-10-03,Vasco da Gama,3,1,Internacional,False,False,first
-250,2013-10-05,Botafogo,0,1,Grêmio,False,False,first
-251,2013-10-05,São Paulo,3,2,Vitória,False,False,first
-252,2013-10-06,Atlético-MG,0,0,Corinthians,False,False,first
-253,2013-10-06,Náutico,1,4,Cruzeiro,False,False,first
-254,2013-10-06,Internacional,1,0,Fluminense,False,False,first
-255,2013-10-06,Flamengo,1,1,Vasco da Gama,False,False,first
-256,2013-10-06,Atlético-PR,2,1,Coritiba,False,False,first
-257,2013-10-06,Bahia,1,1,Ponte Preta-SP,False,False,first
-258,2013-10-06,Goiás,1,1,Criciúma,False,False,first
-259,2013-10-06,Portuguesa-SP,3,0,Santos,False,False,first
-260,2013-10-09,Grêmio,1,2,Criciúma,False,False,first
-261,2013-10-09,Coritiba,1,0,Santos,False,False,first
-262,2013-10-09,Bahia,2,0,Vitória,False,False,first
-263,2013-10-09,Ponte Preta-SP,2,0,Atlético-MG,False,False,first
-264,2013-10-09,Náutico,1,3,Botafogo,False,False,first
-265,2013-10-09,Vasco da Gama,1,0,Fluminense,False,False,first
-266,2013-10-09,Corinthians,0,0,Atlético-PR,False,False,first
-267,2013-10-09,Cruzeiro,0,2,São Paulo,False,False,first
-268,2013-10-10,Portuguesa-SP,1,2,Goiás,False,False,first
-269,2013-10-10,Flamengo,2,1,Internacional,False,False,first
-270,2013-10-12,Vitória,2,1,Coritiba,False,False,first
-271,2013-10-12,Fluminense,1,1,Grêmio,False,False,first
-272,2013-10-12,Santos,2,1,Ponte Preta-SP,False,False,first
-273,2013-10-13,Criciúma,3,2,Vasco da Gama,False,False,first
-274,2013-10-13,Internacional,4,1,Náutico,False,False,first
-275,2013-10-13,São Paulo,0,0,Corinthians,False,False,first
-276,2013-10-13,Atlético-MG,1,0,Cruzeiro,False,False,first
-277,2013-10-13,Atlético-PR,1,0,Portuguesa-SP,False,False,first
-278,2013-10-13,Goiás,3,1,Bahia,False,False,first
-279,2013-10-13,Botafogo,2,1,Flamengo,False,False,first
-280,2013-10-16,Cruzeiro,1,0,Fluminense,False,False,first
-281,2013-10-16,Santos,0,0,Internacional,False,False,first
-282,2013-10-16,São Paulo,3,0,Náutico,False,False,first
-283,2013-10-16,Criciúma,1,3,Portuguesa-SP,False,False,first
-284,2013-10-16,Ponte Preta-SP,1,0,Coritiba,False,False,first
-285,2013-10-16,Flamengo,2,1,Bahia,False,False,first
-286,2013-10-16,Atlético-PR,1,0,Atlético-MG,False,False,first
-287,2013-10-16,Grêmio,1,0,Corinthians,False,False,first
-288,2013-10-17,Vasco da Gama,0,2,Goiás,False,False,first
-289,2013-10-17,Vitória,1,0,Botafogo,False,False,first
-290,2013-10-19,Fluminense,1,1,Ponte Preta-SP,False,False,first
-291,2013-10-19,Náutico,1,5,Santos,False,False,first
-292,2013-10-19,Corinthians,1,0,Criciúma,False,False,first
-293,2013-10-20,Bahia,0,1,São Paulo,False,False,first
-294,2013-10-20,Internacional,2,2,Grêmio,False,False,first
-295,2013-10-20,Goiás,3,0,Atlético-PR,False,False,first
-296,2013-10-20,Atlético-MG,1,0,Flamengo,False,False,first
-297,2013-10-20,Botafogo,2,2,Vasco da Gama,False,False,first
-298,2013-10-20,Coritiba,2,1,Cruzeiro,False,False,first
-299,2013-10-20,Portuguesa-SP,1,1,Vitória,False,False,first
-300,2013-10-26,Botafogo,1,0,Atlético-MG,False,False,first
-301,2013-10-26,Cruzeiro,5,3,Criciúma,False,False,first
-302,2013-10-27,Bahia,1,1,Atlético-PR,False,False,first
-303,2013-10-27,Ponte Preta-SP,2,1,Vasco da Gama,False,False,first
-304,2013-10-27,Internacional,2,3,São Paulo,False,False,first
-305,2013-10-27,Corinthians,1,1,Santos,False,False,first
-306,2013-10-27,Portuguesa-SP,0,0,Flamengo,False,False,first
-307,2013-10-27,Coritiba,4,0,Grêmio,False,False,first
-308,2013-10-27,Fluminense,2,3,Vitória,False,False,first
-309,2013-10-27,Náutico,0,2,Goiás,False,False,first
-310,2013-11-02,Vasco da Gama,2,1,Coritiba,False,False,first
-311,2013-11-02,São Paulo,2,1,Portuguesa-SP,False,False,first
-312,2013-11-02,Atlético-MG,5,0,Náutico,False,False,first
-313,2013-11-03,Goiás,1,0,Botafogo,False,False,first
-314,2013-11-03,Santos,0,1,Cruzeiro,False,False,first
-315,2013-11-03,Grêmio,0,0,Bahia,False,False,first
-316,2013-11-03,Vitória,1,1,Corinthians,False,False,first
-317,2013-11-03,Atlético-PR,1,0,Internacional,False,False,first
-318,2013-11-03,Criciúma,1,1,Ponte Preta-SP,False,False,first
-319,2013-11-03,Flamengo,1,0,Fluminense,False,False,first
-320,2013-11-09,Bahia,0,0,Atlético-MG,False,False,first
-321,2013-11-09,Portuguesa-SP,0,0,Coritiba,False,False,first
-322,2013-11-09,Flamengo,1,1,Goiás,False,False,first
-323,2013-11-10,Internacional,2,1,Botafogo,False,False,first
-324,2013-11-10,Cruzeiro,3,0,Grêmio,False,False,first
-325,2013-11-10,Atlético-PR,3,0,São Paulo,False,False,first
-326,2013-11-10,Ponte Preta-SP,0,3,Vitória,False,False,first
-327,2013-11-10,Corinthians,1,0,Fluminense,False,False,first
-328,2013-11-10,Náutico,0,1,Criciúma,False,False,first
-329,2013-11-10,Vasco da Gama,2,2,Santos,False,False,first
-330,2013-11-13,Goiás,2,0,Ponte Preta-SP,False,False,first
-331,2013-11-13,Grêmio,1,0,Vasco da Gama,False,False,first
-332,2013-11-13,Criciúma,2,1,Atlético-PR,False,False,first
-333,2013-11-13,Botafogo,0,0,Portuguesa-SP,False,False,first
-334,2013-11-13,Coritiba,0,1,Corinthians,False,False,first
-335,2013-11-13,São Paulo,2,0,Flamengo,False,False,first
-336,2013-11-13,Vitória,1,3,Cruzeiro,False,False,first
-337,2013-11-14,Santos,3,0,Bahia,False,False,first
-338,2013-11-14,Atlético-MG,2,1,Internacional,False,False,first
-339,2013-11-14,Fluminense,2,0,Náutico,False,False,first
-340,2013-11-16,Botafogo,4,0,Atlético-PR,False,False,first
-341,2013-11-16,Coritiba,1,2,Criciúma,False,False,first
-342,2013-11-17,Vitória,2,0,Santos,False,False,first
-343,2013-11-17,Cruzeiro,2,2,Ponte Preta-SP,False,False,first
-344,2013-11-17,Fluminense,2,1,São Paulo,False,False,first
-345,2013-11-17,Corinthians,0,0,Vasco da Gama,False,False,first
-346,2013-11-17,Náutico,0,1,Bahia,False,False,first
-347,2013-11-17,Portuguesa-SP,2,0,Atlético-MG,False,False,first
-348,2013-11-17,Goiás,3,1,Internacional,False,False,first
-349,2013-11-17,Grêmio,2,1,Flamengo,False,False,first
-350,2013-11-23,Criciúma,1,1,Vitória,False,False,first
-351,2013-11-23,Vasco da Gama,2,1,Cruzeiro,False,False,first
-352,2013-11-23,Atlético-MG,4,1,Goiás,False,False,first
-353,2013-11-24,Flamengo,1,0,Corinthians,False,False,first
-354,2013-11-24,Ponte Preta-SP,1,1,Grêmio,False,False,first
-355,2013-11-24,Santos,1,0,Fluminense,False,False,first
-356,2013-11-24,Atlético-PR,6,1,Náutico,False,False,first
-357,2013-11-24,Internacional,0,0,Coritiba,False,False,first
-358,2013-11-24,São Paulo,1,1,Botafogo,False,False,first
-359,2013-11-24,Bahia,1,0,Portuguesa-SP,False,False,first
-360,2013-11-30,Fluminense,2,2,Atlético-MG,False,False,first
-361,2013-11-30,Corinthians,0,0,Internacional,False,False,first
-362,2013-12-01,Coritiba,2,1,Botafogo,False,False,first
-363,2013-12-01,Cruzeiro,1,2,Bahia,False,False,first
-364,2013-12-01,Ponte Preta-SP,0,2,Portuguesa-SP,False,False,first
-365,2013-12-01,Criciúma,1,0,São Paulo,False,False,first
-366,2013-12-01,Vasco da Gama,2,0,Náutico,False,False,first
-367,2013-12-01,Vitória,4,2,Flamengo,False,False,first
-368,2013-12-01,Santos,2,1,Atlético-PR,False,False,first
-369,2013-12-01,Grêmio,1,0,Goiás,False,False,first
-370,2013-12-07,Flamengo,1,1,Cruzeiro,False,False,first
-371,2013-12-07,Náutico,1,0,Corinthians,False,False,first
-372,2013-12-08,Portuguesa-SP,0,0,Grêmio,False,False,first
-373,2013-12-08,Botafogo,3,0,Criciúma,False,False,first
-374,2013-12-08,Internacional,0,0,Ponte Preta-SP,False,False,first
-375,2013-12-08,Goiás,0,3,Santos,False,False,first
-376,2013-12-08,São Paulo,0,1,Coritiba,False,False,first
-377,2013-12-08,Atlético-MG,2,2,Vitória,False,False,first
-378,2013-12-08,Bahia,1,2,Fluminense,False,False,first
-379,2013-12-08,Atlético-PR,5,1,Vasco da Gama,False,False,first
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2013-05-25,Vasco da Gama,1,0,Portuguesa-SP,False,False,first
+2013-05-25,Vitória,2,2,Internacional,False,False,first
+2013-05-25,Corinthians,1,1,Botafogo,False,False,first
+2013-05-26,Grêmio,2,0,Náutico,False,False,first
+2013-05-26,Ponte Preta-SP,0,2,São Paulo,False,False,first
+2013-05-26,Criciúma,3,1,Bahia,False,False,first
+2013-05-26,Santos,0,0,Flamengo,False,False,first
+2013-05-26,Fluminense,2,1,Atlético-PR,False,False,first
+2013-05-26,Cruzeiro,5,0,Goiás,False,False,first
+2013-05-26,Coritiba,2,1,Atlético-MG,False,False,first
+2013-05-29,Botafogo,2,1,Santos,False,False,first
+2013-05-29,Atlético-PR,2,2,Cruzeiro,False,False,first
+2013-05-29,Náutico,0,3,Vitória,False,False,first
+2013-05-29,Bahia,0,0,Coritiba,False,False,first
+2013-05-29,Flamengo,0,2,Ponte Preta-SP,False,False,first
+2013-05-29,Goiás,1,1,Corinthians,False,False,first
+2013-05-29,São Paulo,5,1,Vasco da Gama,False,False,first
+2013-05-30,Internacional,2,0,Criciúma,False,False,first
+2013-06-09,Atlético-MG,2,0,Grêmio,False,False,first
+2013-06-12,Portuguesa-SP,2,1,Fluminense,False,False,first
+2013-06-01,Botafogo,2,1,Cruzeiro,False,False,first
+2013-06-01,Atlético-PR,2,2,Flamengo,False,False,first
+2013-06-01,Vitória,2,0,Vasco da Gama,False,False,first
+2013-06-01,Goiás,1,1,Coritiba,False,False,first
+2013-06-01,Santos,1,1,Grêmio,False,False,first
+2013-06-01,Corinthians,1,0,Ponte Preta-SP,False,False,first
+2013-06-02,Atlético-MG,0,0,São Paulo,False,False,first
+2013-06-02,Fluminense,3,0,Criciúma,False,False,first
+2013-06-02,Internacional,1,2,Bahia,False,False,first
+2013-06-02,Náutico,2,2,Portuguesa-SP,False,False,first
+2013-06-05,São Paulo,0,1,Goiás,False,False,first
+2013-06-05,Criciúma,3,1,Santos,False,False,first
+2013-06-05,Portuguesa-SP,1,1,Internacional,False,False,first
+2013-06-05,Ponte Preta-SP,3,4,Atlético-PR,False,False,first
+2013-06-05,Vasco da Gama,2,0,Atlético-MG,False,False,first
+2013-06-05,Grêmio,1,0,Vitória,False,False,first
+2013-06-05,Bahia,2,1,Botafogo,False,False,first
+2013-06-05,Flamengo,0,1,Náutico,False,False,first
+2013-06-05,Cruzeiro,1,0,Corinthians,False,False,first
+2013-06-06,Coritiba,2,1,Fluminense,False,False,first
+2013-06-08,Criciúma,0,3,Flamengo,False,False,first
+2013-06-08,Cruzeiro,2,2,Internacional,False,False,first
+2013-06-08,Corinthians,0,0,Portuguesa-SP,False,False,first
+2013-06-08,Vasco da Gama,1,1,Bahia,False,False,first
+2013-06-08,Ponte Preta-SP,0,2,Botafogo,False,False,first
+2013-06-09,Vitória,3,2,Atlético-PR,False,False,first
+2013-06-09,Fluminense,2,1,Goiás,False,False,first
+2013-06-09,Coritiba,1,0,Náutico,False,False,first
+2013-06-12,Grêmio,1,1,São Paulo,False,False,first
+2013-06-12,Santos,1,0,Atlético-MG,False,False,first
+2013-07-06,Flamengo,2,2,Coritiba,False,False,first
+2013-07-06,Atlético-PR,1,1,Grêmio,False,False,first
+2013-07-06,Náutico,1,3,Ponte Preta-SP,False,False,first
+2013-07-06,Portuguesa-SP,1,1,Cruzeiro,False,False,first
+2013-07-07,Goiás,1,0,Vitória,False,False,first
+2013-07-07,São Paulo,0,2,Santos,False,False,first
+2013-07-07,Bahia,0,2,Corinthians,False,False,first
+2013-07-07,Internacional,5,3,Vasco da Gama,False,False,first
+2013-07-07,Botafogo,1,0,Fluminense,False,False,first
+2013-07-07,Atlético-MG,3,2,Criciúma,False,False,first
+2013-07-13,Santos,4,1,Portuguesa-SP,False,False,first
+2013-07-13,Fluminense,2,3,Internacional,False,False,first
+2013-07-13,Ponte Preta-SP,0,0,Bahia,False,False,first
+2013-07-14,Vitória,3,2,São Paulo,False,False,first
+2013-07-14,Grêmio,2,1,Botafogo,False,False,first
+2013-07-14,Coritiba,1,0,Atlético-PR,False,False,first
+2013-07-14,Corinthians,0,1,Atlético-MG,False,False,first
+2013-07-14,Cruzeiro,3,0,Náutico,False,False,first
+2013-07-14,Vasco da Gama,0,1,Flamengo,False,False,first
+2013-07-14,Criciúma,0,0,Goiás,False,False,first
+2013-07-20,Criciúma,2,1,Grêmio,False,False,first
+2013-07-20,São Paulo,0,3,Cruzeiro,False,False,first
+2013-07-20,Botafogo,2,0,Náutico,False,False,first
+2013-07-21,Santos,2,2,Coritiba,False,False,first
+2013-07-21,Vitória,0,0,Bahia,False,False,first
+2013-07-21,Atlético-PR,1,1,Corinthians,False,False,first
+2013-07-21,Internacional,1,0,Flamengo,False,False,first
+2013-07-21,Fluminense,1,3,Vasco da Gama,False,False,first
+2013-07-21,Goiás,2,1,Portuguesa-SP,False,False,first
+2013-10-03,Atlético-MG,4,0,Ponte Preta-SP,False,False,first
+2013-07-27,Vasco da Gama,3,2,Criciúma,False,False,first
+2013-07-27,Portuguesa-SP,2,3,Atlético-PR,False,False,first
+2013-07-27,Ponte Preta-SP,1,0,Santos,False,False,first
+2013-07-28,Cruzeiro,4,1,Atlético-MG,False,False,first
+2013-07-28,Náutico,3,0,Internacional,False,False,first
+2013-07-28,Grêmio,2,0,Fluminense,False,False,first
+2013-07-28,Corinthians,0,0,São Paulo,False,False,first
+2013-07-28,Coritiba,1,1,Vitória,False,False,first
+2013-07-28,Flamengo,1,1,Botafogo,False,False,first
+2013-07-28,Bahia,2,1,Goiás,False,False,first
+2013-07-31,Fluminense,1,0,Cruzeiro,False,False,first
+2013-07-31,Atlético-MG,1,2,Atlético-PR,False,False,first
+2013-07-31,Portuguesa-SP,1,1,Criciúma,False,False,first
+2013-07-31,Coritiba,5,3,Ponte Preta-SP,False,False,first
+2013-07-31,Corinthians,2,0,Grêmio,False,False,first
+2013-07-31,Bahia,3,0,Flamengo,False,False,first
+2013-08-01,Botafogo,2,0,Vitória,False,False,first
+2013-08-01,Goiás,1,1,Vasco da Gama,False,False,first
+2013-09-03,Náutico,0,1,São Paulo,False,False,first
+2013-09-10,Internacional,1,2,Santos,False,False,first
+2013-07-10,São Paulo,1,2,Bahia,False,False,first
+2013-08-03,Cruzeiro,1,0,Coritiba,False,False,first
+2013-08-04,Ponte Preta-SP,1,1,Fluminense,False,False,first
+2013-08-04,Flamengo,3,0,Atlético-MG,False,False,first
+2013-08-04,Atlético-PR,2,0,Goiás,False,False,first
+2013-08-04,Grêmio,1,1,Internacional,False,False,first
+2013-08-04,Criciúma,0,2,Corinthians,False,False,first
+2013-08-04,Vitória,2,1,Portuguesa-SP,False,False,first
+2013-08-04,Vasco da Gama,2,3,Botafogo,False,False,first
+2013-09-25,Santos,1,1,Náutico,False,False,first
+2013-07-24,São Paulo,0,1,Internacional,False,False,first
+2013-08-07,Vitória,1,1,Fluminense,False,False,first
+2013-08-07,Criciúma,1,2,Cruzeiro,False,False,first
+2013-08-07,Atlético-PR,1,0,Bahia,False,False,first
+2013-08-07,Flamengo,1,1,Portuguesa-SP,False,False,first
+2013-08-07,Santos,1,1,Corinthians,False,False,first
+2013-08-07,Goiás,2,1,Náutico,False,False,first
+2013-08-07,Atlético-MG,2,2,Botafogo,False,False,first
+2013-08-08,Grêmio,0,1,Coritiba,False,False,first
+2013-08-08,Vasco da Gama,1,1,Ponte Preta-SP,False,False,first
+2013-08-10,Botafogo,1,1,Goiás,False,False,first
+2013-08-10,Náutico,0,0,Atlético-MG,False,False,first
+2013-08-11,Coritiba,0,1,Vasco da Gama,False,False,first
+2013-08-11,Corinthians,2,0,Vitória,False,False,first
+2013-08-11,Fluminense,3,2,Flamengo,False,False,first
+2013-08-11,Cruzeiro,0,0,Santos,False,False,first
+2013-08-11,Bahia,0,3,Grêmio,False,False,first
+2013-08-11,Portuguesa-SP,2,1,São Paulo,False,False,first
+2013-08-11,Internacional,2,2,Atlético-PR,False,False,first
+2013-08-11,Ponte Preta-SP,3,1,Criciúma,False,False,first
+2013-08-14,Criciúma,3,0,Náutico,False,False,first
+2013-08-14,Santos,1,1,Vasco da Gama,False,False,first
+2013-08-14,Atlético-MG,2,0,Bahia,False,False,first
+2013-08-14,Coritiba,1,1,Portuguesa-SP,False,False,first
+2013-08-14,Vitória,3,1,Ponte Preta-SP,False,False,first
+2013-08-14,Goiás,1,1,Flamengo,False,False,first
+2013-08-14,Grêmio,3,1,Cruzeiro,False,False,first
+2013-08-14,Fluminense,0,0,Corinthians,False,False,first
+2013-08-15,São Paulo,1,1,Atlético-PR,False,False,first
+2013-08-15,Botafogo,3,3,Internacional,False,False,first
+2013-08-17,Cruzeiro,5,1,Vitória,False,False,first
+2013-08-17,Náutico,0,1,Fluminense,False,False,first
+2013-08-17,Vasco da Gama,2,3,Grêmio,False,False,first
+2013-08-18,Flamengo,0,0,São Paulo,False,False,first
+2013-08-18,Corinthians,1,0,Coritiba,False,False,first
+2013-08-18,Ponte Preta-SP,0,1,Goiás,False,False,first
+2013-08-18,Portuguesa-SP,1,3,Botafogo,False,False,first
+2013-08-18,Bahia,0,0,Santos,False,False,first
+2013-08-18,Atlético-PR,2,1,Criciúma,False,False,first
+2013-08-18,Internacional,0,0,Atlético-MG,False,False,first
+2013-08-24,Flamengo,0,1,Grêmio,False,False,first
+2013-08-24,Ponte Preta-SP,0,2,Cruzeiro,False,False,first
+2013-08-24,Santos,2,0,Vitória,False,False,first
+2013-08-24,Criciúma,2,1,Coritiba,False,False,first
+2013-08-25,Bahia,2,0,Náutico,False,False,first
+2013-08-25,Vasco da Gama,1,1,Corinthians,False,False,first
+2013-08-25,São Paulo,2,1,Fluminense,False,False,first
+2013-08-25,Atlético-MG,2,1,Portuguesa-SP,False,False,first
+2013-08-25,Atlético-PR,2,0,Botafogo,False,False,first
+2013-08-25,Internacional,3,3,Goiás,False,False,first
+2013-08-31,Goiás,0,0,Atlético-MG,False,False,first
+2013-08-31,Portuguesa-SP,4,2,Bahia,False,False,first
+2013-08-31,Náutico,1,4,Atlético-PR,False,False,first
+2013-08-31,Grêmio,1,0,Ponte Preta-SP,False,False,first
+2013-08-31,Fluminense,0,2,Santos,False,False,first
+2013-09-01,Coritiba,0,0,Internacional,False,False,first
+2013-09-01,Botafogo,0,0,São Paulo,False,False,first
+2013-09-01,Corinthians,4,0,Flamengo,False,False,first
+2013-09-01,Vitória,0,1,Criciúma,False,False,first
+2013-09-01,Cruzeiro,5,3,Vasco da Gama,False,False,first
+2013-09-03,Goiás,2,0,Grêmio,False,False,first
+2013-09-04,Atlético-PR,2,1,Santos,False,False,first
+2013-09-04,Flamengo,2,1,Vitória,False,False,first
+2013-09-04,Portuguesa-SP,2,1,Ponte Preta-SP,False,False,first
+2013-09-04,Internacional,1,0,Corinthians,False,False,first
+2013-09-04,Bahia,1,3,Cruzeiro,False,False,first
+2013-09-04,Atlético-MG,2,2,Fluminense,False,False,first
+2013-09-05,Náutico,0,3,Vasco da Gama,False,False,first
+2013-09-05,Botafogo,3,1,Coritiba,False,False,first
+2013-09-05,São Paulo,1,2,Criciúma,False,False,first
+2013-09-07,Santos,1,0,Goiás,False,False,first
+2013-09-07,Fluminense,1,0,Bahia,False,False,first
+2013-09-07,Ponte Preta-SP,1,3,Internacional,False,False,first
+2013-09-07,Vitória,1,1,Atlético-MG,False,False,first
+2013-09-07,Grêmio,3,2,Portuguesa-SP,False,False,first
+2013-09-08,Coritiba,2,0,São Paulo,False,False,first
+2013-09-08,Cruzeiro,1,0,Flamengo,False,False,first
+2013-09-08,Corinthians,0,0,Náutico,False,False,first
+2013-09-08,Vasco da Gama,0,0,Atlético-PR,False,False,first
+2013-09-08,Criciúma,1,2,Botafogo,False,False,first
+2013-09-11,Atlético-PR,1,1,Fluminense,False,False,first
+2013-09-11,Bahia,2,2,Criciúma,False,False,first
+2013-09-11,Goiás,1,2,Cruzeiro,False,False,first
+2013-09-11,Náutico,0,2,Grêmio,False,False,first
+2013-09-11,Botafogo,1,0,Corinthians,False,False,first
+2013-09-11,Portuguesa-SP,2,0,Vasco da Gama,False,False,first
+2013-09-12,Internacional,2,2,Vitória,False,False,first
+2013-09-12,Atlético-MG,3,0,Coritiba,False,False,first
+2013-09-12,Flamengo,2,1,Santos,False,False,first
+2013-09-12,São Paulo,1,0,Ponte Preta-SP,False,False,first
+2013-09-14,Cruzeiro,1,0,Atlético-PR,False,False,first
+2013-09-14,Fluminense,2,1,Portuguesa-SP,False,False,first
+2013-09-15,Ponte Preta-SP,1,1,Flamengo,False,False,first
+2013-09-15,Criciúma,0,1,Internacional,False,False,first
+2013-09-15,Vasco da Gama,0,2,São Paulo,False,False,first
+2013-09-15,Coritiba,2,2,Bahia,False,False,first
+2013-09-15,Corinthians,1,2,Goiás,False,False,first
+2013-09-15,Santos,1,2,Botafogo,False,False,first
+2013-09-15,Grêmio,0,1,Atlético-MG,False,False,first
+2013-09-15,Vitória,2,1,Náutico,False,False,first
+2013-09-18,Grêmio,1,1,Santos,False,False,first
+2013-09-18,Vasco da Gama,1,2,Vitória,False,False,first
+2013-09-18,Criciúma,1,2,Fluminense,False,False,first
+2013-09-18,Coritiba,2,2,Goiás,False,False,first
+2013-09-18,Cruzeiro,3,0,Botafogo,False,False,first
+2013-09-18,Ponte Preta-SP,2,0,Corinthians,False,False,first
+2013-09-18,São Paulo,1,0,Atlético-MG,False,False,first
+2013-09-19,Flamengo,2,4,Atlético-PR,False,False,first
+2013-09-19,Bahia,2,0,Internacional,False,False,first
+2013-09-19,Portuguesa-SP,3,0,Náutico,False,False,first
+2013-09-21,Fluminense,1,1,Coritiba,False,False,first
+2013-09-21,Vitória,0,0,Grêmio,False,False,first
+2013-09-22,Internacional,0,1,Portuguesa-SP,False,False,first
+2013-09-22,Náutico,0,0,Flamengo,False,False,first
+2013-09-22,Goiás,1,0,São Paulo,False,False,first
+2013-09-22,Corinthians,0,0,Cruzeiro,False,False,first
+2013-09-22,Botafogo,1,2,Bahia,False,False,first
+2013-09-22,Santos,2,1,Criciúma,False,False,first
+2013-09-22,Atlético-MG,2,1,Vasco da Gama,False,False,first
+2013-09-22,Atlético-PR,1,0,Ponte Preta-SP,False,False,first
+2013-09-28,Náutico,3,0,Coritiba,False,False,first
+2013-09-28,Goiás,1,2,Fluminense,False,False,first
+2013-09-28,Botafogo,0,1,Ponte Preta-SP,False,False,first
+2013-09-29,Bahia,0,0,Vasco da Gama,False,False,first
+2013-09-29,São Paulo,0,1,Grêmio,False,False,first
+2013-09-29,Flamengo,4,1,Criciúma,False,False,first
+2013-09-29,Portuguesa-SP,4,0,Corinthians,False,False,first
+2013-09-29,Internacional,1,2,Cruzeiro,False,False,first
+2013-09-29,Atlético-MG,3,1,Santos,False,False,first
+2013-09-29,Atlético-PR,3,5,Vitória,False,False,first
+2013-09-25,Criciúma,1,1,Atlético-MG,False,False,first
+2013-10-01,Ponte Preta-SP,1,2,Náutico,False,False,first
+2013-10-02,Cruzeiro,4,0,Portuguesa-SP,False,False,first
+2013-10-02,Grêmio,1,0,Atlético-PR,False,False,first
+2013-10-02,Fluminense,1,1,Botafogo,False,False,first
+2013-10-02,Vitória,2,1,Goiás,False,False,first
+2013-10-02,Corinthians,2,0,Bahia,False,False,first
+2013-10-02,Coritiba,0,2,Flamengo,False,False,first
+2013-10-02,Santos,3,0,São Paulo,False,False,first
+2013-10-03,Vasco da Gama,3,1,Internacional,False,False,first
+2013-10-05,Botafogo,0,1,Grêmio,False,False,first
+2013-10-05,São Paulo,3,2,Vitória,False,False,first
+2013-10-06,Atlético-MG,0,0,Corinthians,False,False,first
+2013-10-06,Náutico,1,4,Cruzeiro,False,False,first
+2013-10-06,Internacional,1,0,Fluminense,False,False,first
+2013-10-06,Flamengo,1,1,Vasco da Gama,False,False,first
+2013-10-06,Atlético-PR,2,1,Coritiba,False,False,first
+2013-10-06,Bahia,1,1,Ponte Preta-SP,False,False,first
+2013-10-06,Goiás,1,1,Criciúma,False,False,first
+2013-10-06,Portuguesa-SP,3,0,Santos,False,False,first
+2013-10-09,Grêmio,1,2,Criciúma,False,False,first
+2013-10-09,Coritiba,1,0,Santos,False,False,first
+2013-10-09,Bahia,2,0,Vitória,False,False,first
+2013-10-09,Ponte Preta-SP,2,0,Atlético-MG,False,False,first
+2013-10-09,Náutico,1,3,Botafogo,False,False,first
+2013-10-09,Vasco da Gama,1,0,Fluminense,False,False,first
+2013-10-09,Corinthians,0,0,Atlético-PR,False,False,first
+2013-10-09,Cruzeiro,0,2,São Paulo,False,False,first
+2013-10-10,Portuguesa-SP,1,2,Goiás,False,False,first
+2013-10-10,Flamengo,2,1,Internacional,False,False,first
+2013-10-12,Vitória,2,1,Coritiba,False,False,first
+2013-10-12,Fluminense,1,1,Grêmio,False,False,first
+2013-10-12,Santos,2,1,Ponte Preta-SP,False,False,first
+2013-10-13,Criciúma,3,2,Vasco da Gama,False,False,first
+2013-10-13,Internacional,4,1,Náutico,False,False,first
+2013-10-13,São Paulo,0,0,Corinthians,False,False,first
+2013-10-13,Atlético-MG,1,0,Cruzeiro,False,False,first
+2013-10-13,Atlético-PR,1,0,Portuguesa-SP,False,False,first
+2013-10-13,Goiás,3,1,Bahia,False,False,first
+2013-10-13,Botafogo,2,1,Flamengo,False,False,first
+2013-10-16,Cruzeiro,1,0,Fluminense,False,False,first
+2013-10-16,Santos,0,0,Internacional,False,False,first
+2013-10-16,São Paulo,3,0,Náutico,False,False,first
+2013-10-16,Criciúma,1,3,Portuguesa-SP,False,False,first
+2013-10-16,Ponte Preta-SP,1,0,Coritiba,False,False,first
+2013-10-16,Flamengo,2,1,Bahia,False,False,first
+2013-10-16,Atlético-PR,1,0,Atlético-MG,False,False,first
+2013-10-16,Grêmio,1,0,Corinthians,False,False,first
+2013-10-17,Vasco da Gama,0,2,Goiás,False,False,first
+2013-10-17,Vitória,1,0,Botafogo,False,False,first
+2013-10-19,Fluminense,1,1,Ponte Preta-SP,False,False,first
+2013-10-19,Náutico,1,5,Santos,False,False,first
+2013-10-19,Corinthians,1,0,Criciúma,False,False,first
+2013-10-20,Bahia,0,1,São Paulo,False,False,first
+2013-10-20,Internacional,2,2,Grêmio,False,False,first
+2013-10-20,Goiás,3,0,Atlético-PR,False,False,first
+2013-10-20,Atlético-MG,1,0,Flamengo,False,False,first
+2013-10-20,Botafogo,2,2,Vasco da Gama,False,False,first
+2013-10-20,Coritiba,2,1,Cruzeiro,False,False,first
+2013-10-20,Portuguesa-SP,1,1,Vitória,False,False,first
+2013-10-26,Botafogo,1,0,Atlético-MG,False,False,first
+2013-10-26,Cruzeiro,5,3,Criciúma,False,False,first
+2013-10-27,Bahia,1,1,Atlético-PR,False,False,first
+2013-10-27,Ponte Preta-SP,2,1,Vasco da Gama,False,False,first
+2013-10-27,Internacional,2,3,São Paulo,False,False,first
+2013-10-27,Corinthians,1,1,Santos,False,False,first
+2013-10-27,Portuguesa-SP,0,0,Flamengo,False,False,first
+2013-10-27,Coritiba,4,0,Grêmio,False,False,first
+2013-10-27,Fluminense,2,3,Vitória,False,False,first
+2013-10-27,Náutico,0,2,Goiás,False,False,first
+2013-11-02,Vasco da Gama,2,1,Coritiba,False,False,first
+2013-11-02,São Paulo,2,1,Portuguesa-SP,False,False,first
+2013-11-02,Atlético-MG,5,0,Náutico,False,False,first
+2013-11-03,Goiás,1,0,Botafogo,False,False,first
+2013-11-03,Santos,0,1,Cruzeiro,False,False,first
+2013-11-03,Grêmio,0,0,Bahia,False,False,first
+2013-11-03,Vitória,1,1,Corinthians,False,False,first
+2013-11-03,Atlético-PR,1,0,Internacional,False,False,first
+2013-11-03,Criciúma,1,1,Ponte Preta-SP,False,False,first
+2013-11-03,Flamengo,1,0,Fluminense,False,False,first
+2013-11-09,Bahia,0,0,Atlético-MG,False,False,first
+2013-11-09,Portuguesa-SP,0,0,Coritiba,False,False,first
+2013-11-09,Flamengo,1,1,Goiás,False,False,first
+2013-11-10,Internacional,2,1,Botafogo,False,False,first
+2013-11-10,Cruzeiro,3,0,Grêmio,False,False,first
+2013-11-10,Atlético-PR,3,0,São Paulo,False,False,first
+2013-11-10,Ponte Preta-SP,0,3,Vitória,False,False,first
+2013-11-10,Corinthians,1,0,Fluminense,False,False,first
+2013-11-10,Náutico,0,1,Criciúma,False,False,first
+2013-11-10,Vasco da Gama,2,2,Santos,False,False,first
+2013-11-13,Goiás,2,0,Ponte Preta-SP,False,False,first
+2013-11-13,Grêmio,1,0,Vasco da Gama,False,False,first
+2013-11-13,Criciúma,2,1,Atlético-PR,False,False,first
+2013-11-13,Botafogo,0,0,Portuguesa-SP,False,False,first
+2013-11-13,Coritiba,0,1,Corinthians,False,False,first
+2013-11-13,São Paulo,2,0,Flamengo,False,False,first
+2013-11-13,Vitória,1,3,Cruzeiro,False,False,first
+2013-11-14,Santos,3,0,Bahia,False,False,first
+2013-11-14,Atlético-MG,2,1,Internacional,False,False,first
+2013-11-14,Fluminense,2,0,Náutico,False,False,first
+2013-11-16,Botafogo,4,0,Atlético-PR,False,False,first
+2013-11-16,Coritiba,1,2,Criciúma,False,False,first
+2013-11-17,Vitória,2,0,Santos,False,False,first
+2013-11-17,Cruzeiro,2,2,Ponte Preta-SP,False,False,first
+2013-11-17,Fluminense,2,1,São Paulo,False,False,first
+2013-11-17,Corinthians,0,0,Vasco da Gama,False,False,first
+2013-11-17,Náutico,0,1,Bahia,False,False,first
+2013-11-17,Portuguesa-SP,2,0,Atlético-MG,False,False,first
+2013-11-17,Goiás,3,1,Internacional,False,False,first
+2013-11-17,Grêmio,2,1,Flamengo,False,False,first
+2013-11-23,Criciúma,1,1,Vitória,False,False,first
+2013-11-23,Vasco da Gama,2,1,Cruzeiro,False,False,first
+2013-11-23,Atlético-MG,4,1,Goiás,False,False,first
+2013-11-24,Flamengo,1,0,Corinthians,False,False,first
+2013-11-24,Ponte Preta-SP,1,1,Grêmio,False,False,first
+2013-11-24,Santos,1,0,Fluminense,False,False,first
+2013-11-24,Atlético-PR,6,1,Náutico,False,False,first
+2013-11-24,Internacional,0,0,Coritiba,False,False,first
+2013-11-24,São Paulo,1,1,Botafogo,False,False,first
+2013-11-24,Bahia,1,0,Portuguesa-SP,False,False,first
+2013-11-30,Fluminense,2,2,Atlético-MG,False,False,first
+2013-11-30,Corinthians,0,0,Internacional,False,False,first
+2013-12-01,Coritiba,2,1,Botafogo,False,False,first
+2013-12-01,Cruzeiro,1,2,Bahia,False,False,first
+2013-12-01,Ponte Preta-SP,0,2,Portuguesa-SP,False,False,first
+2013-12-01,Criciúma,1,0,São Paulo,False,False,first
+2013-12-01,Vasco da Gama,2,0,Náutico,False,False,first
+2013-12-01,Vitória,4,2,Flamengo,False,False,first
+2013-12-01,Santos,2,1,Atlético-PR,False,False,first
+2013-12-01,Grêmio,1,0,Goiás,False,False,first
+2013-12-07,Flamengo,1,1,Cruzeiro,False,False,first
+2013-12-07,Náutico,1,0,Corinthians,False,False,first
+2013-12-08,Portuguesa-SP,0,0,Grêmio,False,False,first
+2013-12-08,Botafogo,3,0,Criciúma,False,False,first
+2013-12-08,Internacional,0,0,Ponte Preta-SP,False,False,first
+2013-12-08,Goiás,0,3,Santos,False,False,first
+2013-12-08,São Paulo,0,1,Coritiba,False,False,first
+2013-12-08,Atlético-MG,2,2,Vitória,False,False,first
+2013-12-08,Bahia,1,2,Fluminense,False,False,first
+2013-12-08,Atlético-PR,5,1,Vasco da Gama,False,False,first

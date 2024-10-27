@@ -1,1068 +1,1068 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,2000-07-29,Vitória,4,1,Palmeiras,False,False,first
-1,2000-07-29,Vasco da Gama,0,2,Sport,False,False,first
-2,2000-07-29,Fluminense,2,0,Bahia,False,False,first
-3,2000-07-30,Goiás,3,0,Corinthians,False,False,first
-4,2000-07-30,Juventude,1,1,Flamengo,False,False,first
-5,2000-07-30,Guarani,0,0,Santa Cruz,False,False,first
-6,2000-07-30,Botafogo,0,0,Atlético-MG,False,False,first
-7,2000-07-30,América-MG,0,1,Gama,False,False,first
-8,2000-07-30,Cruzeiro,0,2,Atlético-PR,False,False,first
-9,2000-08-02,Flamengo,3,0,Grêmio,False,False,first
-10,2000-08-02,Gama,2,1,Fluminense,False,False,first
-11,2000-08-02,Santos,2,0,Vitória,False,False,first
-12,2000-08-02,Ponte Preta-SP,3,1,América-MG,False,False,first
-13,2000-08-02,Internacional,0,1,Goiás,False,False,first
-14,2000-08-02,Bahia,2,1,Atlético-PR,False,False,first
-15,2000-08-02,Coritiba,0,0,Sport,False,False,first
-16,2000-08-03,Palmeiras,0,0,Botafogo,False,False,first
-17,2000-08-05,Fluminense,2,1,Santos,False,False,first
-18,2000-08-05,Atlético-PR,1,1,Flamengo,False,False,first
-19,2000-08-05,Corinthians,4,2,Gama,False,False,first
-20,2000-08-06,Grêmio,0,1,Palmeiras,False,False,first
-21,2000-08-06,Coritiba,0,2,Botafogo,False,False,first
-22,2000-08-06,São Paulo,2,1,Santa Cruz,False,False,first
-23,2000-08-06,Portuguesa-SP,0,2,Goiás,False,False,first
-24,2000-08-06,Atlético-MG,0,0,Bahia,False,False,first
-25,2000-08-06,Juventude,1,1,Ponte Preta-SP,False,False,first
-26,2000-08-06,Vasco da Gama,3,3,Cruzeiro,False,False,first
-27,2000-08-08,Gama,0,1,Atlético-PR,False,False,first
-28,2000-08-09,Internacional,1,1,Fluminense,False,False,first
-29,2000-08-09,Santos,1,1,São Paulo,False,False,first
-30,2000-08-09,Flamengo,1,1,Guarani,False,False,first
-31,2000-08-09,Botafogo,4,1,Portuguesa-SP,False,False,first
-32,2000-08-09,Santa Cruz,2,1,Vitória,False,False,first
-33,2000-08-09,Bahia,1,1,Grêmio,False,False,first
-34,2000-08-09,Goiás,1,0,Coritiba,False,False,first
-35,2000-08-11,Palmeiras,1,1,Goiás,False,False,first
-36,2000-08-11,Vasco da Gama,1,0,Corinthians,False,False,first
-37,2000-08-11,Atlético-PR,2,1,Atlético-MG,False,False,first
-38,2000-08-12,Grêmio,0,2,Santos,False,False,first
-39,2000-08-12,Coritiba,0,1,Gama,False,False,first
-40,2000-08-12,São Paulo,3,2,Flamengo,False,False,first
-41,2000-08-13,Atlético-PR,0,0,Palmeiras,False,False,first
-42,2000-08-13,Guarani,0,1,Vasco da Gama,False,False,first
-43,2000-08-13,Corinthians,2,0,Santa Cruz,False,False,first
-44,2000-08-13,Portuguesa-SP,2,0,Juventude,False,False,first
-45,2000-08-13,Botafogo,0,1,Internacional,False,False,first
-46,2000-08-13,Sport,1,1,Cruzeiro,False,False,first
-47,2000-08-13,Goiás,4,5,Vitória,False,False,first
-48,2000-08-16,Cruzeiro,2,2,São Paulo,False,False,first
-49,2000-08-16,Santa Cruz,1,1,Vasco da Gama,False,False,first
-50,2000-08-16,Santos,3,0,América-MG,False,False,first
-51,2000-08-16,Fluminense,0,0,Guarani,False,False,first
-52,2000-08-16,Internacional,1,1,Atlético-MG,False,False,first
-53,2000-08-16,Vitória,2,0,Portuguesa-SP,False,False,first
-54,2000-08-16,Goiás,3,2,Botafogo,False,False,first
-55,2000-08-16,Gama,0,1,Bahia,False,False,first
-56,2000-08-16,Palmeiras,0,1,Corinthians,False,False,first
-57,2000-08-17,Flamengo,2,1,Coritiba,False,False,first
-58,2000-08-19,Atlético-MG,1,0,Santos,False,False,first
-59,2000-08-19,América-MG,1,1,Fluminense,False,False,first
-60,2000-08-19,Gama,1,1,Goiás,False,False,first
-61,2000-08-19,Palmeiras,1,4,Internacional,False,False,first
-62,2000-08-19,Guarani,0,1,Cruzeiro,False,False,first
-63,2000-08-20,Botafogo,1,1,Corinthians,False,False,first
-64,2000-08-20,Santa Cruz,2,2,Flamengo,False,False,first
-65,2000-08-20,Vasco da Gama,2,1,Ponte Preta-SP,False,False,first
-66,2000-08-20,Juventude,1,1,Sport,False,False,first
-67,2000-08-20,Atlético-PR,1,3,Coritiba,False,False,first
-68,2000-08-20,São Paulo,1,1,Bahia,False,False,first
-69,2000-08-23,Vitória,2,4,Fluminense,False,False,first
-70,2000-08-23,Ponte Preta-SP,3,0,Gama,False,False,first
-71,2000-08-23,Internacional,0,0,Guarani,False,False,first
-72,2000-08-23,América-MG,0,0,Atlético-PR,False,False,first
-73,2000-08-23,Bahia,1,3,Cruzeiro,False,False,first
-74,2000-08-23,Goiás,1,1,Santa Cruz,False,False,first
-75,2000-08-23,Juventude,1,1,Santos,False,False,first
-76,2000-08-26,Fluminense,2,0,Juventude,False,False,first
-77,2000-08-26,Cruzeiro,3,1,Vitória,False,False,first
-78,2000-08-26,Atlético-PR,2,1,São Paulo,False,False,first
-79,2000-08-26,Guarani,1,2,Botafogo,False,False,first
-80,2000-08-27,Ponte Preta-SP,3,2,Atlético-MG,False,False,first
-81,2000-08-27,Corinthians,1,2,Grêmio,False,False,first
-82,2000-08-27,Internacional,1,1,Coritiba,False,False,first
-83,2000-08-27,Sport,2,0,Goiás,False,False,first
-84,2000-08-27,Santos,2,3,Palmeiras,False,False,first
-85,2000-08-27,Portuguesa-SP,2,2,Vasco da Gama,False,False,first
-86,2000-08-27,Bahia,3,2,Santa Cruz,False,False,first
-87,2000-08-30,Corinthians,0,3,Santos,False,False,first
-88,2000-08-30,Guarani,1,2,Juventude,False,False,first
-89,2000-08-30,Portuguesa-SP,3,1,Gama,False,False,first
-90,2000-08-30,Vitória,3,0,Internacional,False,False,first
-91,2000-08-30,Botafogo,0,2,Atlético-PR,False,False,first
-92,2000-09-02,Atlético-MG,1,2,Flamengo,False,False,first
-93,2000-09-02,Coritiba,1,1,Bahia,False,False,first
-94,2000-09-02,Gama,0,1,Internacional,False,False,first
-95,2000-09-02,Santos,1,1,Cruzeiro,False,False,first
-96,2000-09-02,Vitória,4,3,Sport,False,False,first
-97,2000-09-02,América-MG,1,0,Guarani,False,False,first
-98,2000-09-02,Fluminense,1,0,Botafogo,False,False,first
-99,2000-09-02,Grêmio,2,2,Ponte Preta-SP,False,False,first
-100,2000-09-02,Palmeiras,0,3,São Paulo,False,False,first
-101,2000-09-02,Santa Cruz,0,0,Portuguesa-SP,False,False,first
-102,2000-09-05,Vasco da Gama,2,2,Atlético-PR,False,False,first
-103,2000-09-05,Cruzeiro,1,1,Internacional,False,False,first
-104,2000-09-06,América-MG,5,2,Botafogo,False,False,first
-105,2000-09-06,Juventude,2,1,Coritiba,False,False,first
-106,2000-09-06,Fluminense,2,1,Portuguesa-SP,False,False,first
-107,2000-09-06,Gama,1,1,Santa Cruz,False,False,first
-108,2000-09-07,Atlético-MG,3,1,Corinthians,False,False,first
-109,2000-09-07,Ponte Preta-SP,2,1,Vitória,False,False,first
-110,2000-09-07,Grêmio,1,0,Sport,False,False,first
-111,2000-09-09,São Paulo,2,0,Fluminense,False,False,first
-112,2000-09-09,Santa Cruz,0,1,Santos,False,False,first
-113,2000-09-09,Goiás,2,0,América-MG,False,False,first
-114,2000-09-09,Sport,1,1,Guarani,False,False,first
-115,2000-09-10,Flamengo,0,0,Palmeiras,False,False,first
-116,2000-09-10,Corinthians,1,1,Vitória,False,False,first
-117,2000-09-10,Cruzeiro,2,1,Gama,False,False,first
-118,2000-09-10,Coritiba,2,0,Ponte Preta-SP,False,False,first
-119,2000-09-10,Bahia,3,1,Vasco da Gama,False,False,first
-120,2000-09-10,Portuguesa-SP,2,1,Atlético-MG,False,False,first
-121,2000-09-10,Juventude,4,3,Grêmio,False,False,first
-122,2000-09-13,Ponte Preta-SP,3,3,São Paulo,False,False,first
-123,2000-09-13,Sport,4,1,Atlético-PR,False,False,first
-124,2000-09-13,Gama,2,0,Palmeiras,False,False,first
-125,2000-09-13,Vasco da Gama,4,3,Fluminense,False,False,first
-126,2000-09-13,Cruzeiro,4,0,Botafogo,False,False,first
-127,2000-09-13,Portuguesa-SP,3,1,Bahia,False,False,first
-128,2000-09-13,Vitória,3,1,Coritiba,False,False,first
-129,2000-09-14,Grêmio,2,1,América-MG,False,False,first
-130,2000-09-14,Flamengo,3,1,Goiás,False,False,first
-131,2000-09-16,Internacional,1,1,Santos,False,False,first
-132,2000-09-16,Atlético-MG,2,2,Fluminense,False,False,first
-133,2000-09-16,Vitória,1,1,Gama,False,False,first
-134,2000-09-16,Atlético-PR,0,1,Juventude,False,False,first
-135,2000-09-16,Botafogo,3,1,Ponte Preta-SP,False,False,first
-136,2000-09-17,Guarani,0,0,Goiás,False,False,first
-137,2000-09-17,Bahia,4,1,Flamengo,False,False,first
-138,2000-09-17,Palmeiras,1,1,Sport,False,False,first
-139,2000-09-17,Coritiba,1,1,Corinthians,False,False,first
-140,2000-09-17,América-MG,1,0,Santa Cruz,False,False,first
-141,2000-09-17,São Paulo,2,0,Portuguesa-SP,False,False,first
-142,2000-09-17,Grêmio,0,0,Cruzeiro,False,False,first
-143,2000-09-20,Santos,2,1,Atlético-PR,False,False,first
-144,2000-09-20,Juventude,0,2,Gama,False,False,first
-145,2000-09-20,Vasco da Gama,4,0,América-MG,False,False,first
-146,2000-09-20,Ponte Preta-SP,3,1,Portuguesa-SP,False,False,first
-147,2000-09-20,Sport,3,0,Bahia,False,False,first
-148,2000-09-23,Flamengo,3,0,Santos,False,False,first
-149,2000-09-23,Guarani,2,0,Coritiba,False,False,first
-150,2000-09-23,Grêmio,1,0,Vitória,False,False,first
-151,2000-09-23,América-MG,1,1,Internacional,False,False,first
-152,2000-09-24,Fluminense,0,1,Palmeiras,False,False,first
-153,2000-09-24,Gama,1,3,São Paulo,False,False,first
-154,2000-09-24,Goiás,2,0,Cruzeiro,False,False,first
-155,2000-09-24,Corinthians,1,0,Ponte Preta-SP,False,False,first
-156,2000-09-24,Santa Cruz,1,2,Atlético-MG,False,False,first
-157,2000-09-24,Portuguesa-SP,1,0,Sport,False,False,first
-158,2000-09-24,Juventude,1,2,Vasco da Gama,False,False,first
-159,2000-09-27,São Paulo,3,0,América-MG,False,False,first
-160,2000-09-27,Portuguesa-SP,2,3,Guarani,False,False,first
-161,2000-09-27,Ponte Preta-SP,3,0,Sport,False,False,first
-162,2000-09-27,Botafogo,0,0,Vitória,False,False,first
-163,2000-09-27,Santa Cruz,2,1,Juventude,False,False,first
-164,2000-09-28,Corinthians,2,3,Atlético-PR,False,False,first
-165,2000-09-30,Gama,2,4,Flamengo,False,False,first
-166,2000-09-30,Goiás,2,2,São Paulo,False,False,first
-167,2000-09-30,América-MG,3,0,Juventude,False,False,first
-168,2000-09-30,Coritiba,1,2,Grêmio,False,False,first
-169,2000-09-30,Sport,3,2,Fluminense,False,False,first
-170,2000-09-30,Atlético-MG,2,4,Cruzeiro,False,False,first
-171,2000-10-04,Palmeiras,2,1,Coritiba,False,False,first
-172,2000-10-04,Vasco da Gama,4,0,Atlético-MG,False,False,first
-173,2000-10-04,São Paulo,1,1,Grêmio,False,False,first
-174,2000-10-04,Botafogo,2,1,Juventude,False,False,first
-175,2000-10-04,América-MG,1,1,Portuguesa-SP,False,False,first
-176,2000-10-04,Santa Cruz,0,3,Sport,False,False,first
-177,2000-10-04,Atlético-PR,0,1,Guarani,False,False,first
-178,2000-10-04,Gama,2,1,Santos,False,False,first
-179,2000-10-04,Bahia,1,0,Vitória,False,False,first
-180,2000-10-04,Ponte Preta-SP,2,0,Flamengo,False,False,first
-181,2000-10-07,Vitória,5,1,São Paulo,False,False,first
-182,2000-10-07,Sport,3,0,Gama,False,False,first
-183,2000-10-07,Juventude,0,1,Palmeiras,False,False,first
-184,2000-10-07,Santos,3,3,Ponte Preta-SP,False,False,first
-185,2000-10-07,Guarani,2,2,Bahia,False,False,first
-186,2000-10-07,Atlético-PR,4,0,Santa Cruz,False,False,first
-187,2000-10-07,Internacional,1,2,Grêmio,False,False,first
-188,2000-10-07,América-MG,1,1,Cruzeiro,False,False,first
-189,2000-10-07,Botafogo,3,1,Flamengo,False,False,first
-190,2000-10-07,Corinthians,2,3,Portuguesa-SP,False,False,first
-191,2000-10-07,Atlético-MG,2,1,Goiás,False,False,first
-192,2000-10-10,Cruzeiro,3,0,Santa Cruz,False,False,first
-193,2000-10-11,São Paulo,3,2,Coritiba,False,False,first
-194,2000-10-11,Ponte Preta-SP,0,1,Atlético-PR,False,False,first
-195,2000-10-11,Fluminense,1,0,Grêmio,False,False,first
-196,2000-10-11,Atlético-MG,3,0,Guarani,False,False,first
-197,2000-10-11,Palmeiras,0,0,América-MG,False,False,first
-198,2000-10-11,Portuguesa-SP,3,2,Internacional,False,False,first
-199,2000-10-11,Bahia,2,1,Corinthians,False,False,first
-200,2000-10-11,Vasco da Gama,2,2,Vitória,False,False,first
-201,2000-10-12,Cruzeiro,2,1,Juventude,False,False,first
-202,2000-10-14,Santos,1,1,Vasco da Gama,False,False,first
-203,2000-10-14,Palmeiras,3,2,Atlético-MG,False,False,first
-204,2000-10-14,Flamengo,1,2,Sport,False,False,first
-205,2000-10-14,Internacional,3,2,Bahia,False,False,first
-206,2000-10-15,Grêmio,2,2,Portuguesa-SP,False,False,first
-207,2000-10-15,Juventude,1,2,Goiás,False,False,first
-208,2000-10-15,Santa Cruz,1,1,Coritiba,False,False,first
-209,2000-10-15,Botafogo,1,0,São Paulo,False,False,first
-210,2000-10-15,Guarani,3,2,Corinthians,False,False,first
-211,2000-10-15,Fluminense,2,1,Cruzeiro,False,False,first
-212,2000-10-17,São Paulo,1,1,Internacional,False,False,first
-213,2000-10-18,Guarani,3,2,Grêmio,False,False,first
-214,2000-10-18,Flamengo,1,2,América-MG,False,False,first
-215,2000-10-18,Palmeiras,0,1,Cruzeiro,False,False,first
-216,2000-10-18,Atlético-PR,1,0,Fluminense,False,False,first
-217,2000-10-18,Botafogo,2,0,Gama,False,False,first
-218,2000-10-19,Atlético-MG,2,1,Coritiba,False,False,first
-219,2000-10-21,Goiás,3,1,Santos,False,False,first
-220,2000-10-21,Portuguesa-SP,2,1,Flamengo,False,False,first
-221,2000-10-21,Vasco da Gama,1,0,Gama,False,False,first
-222,2000-10-21,Internacional,4,0,Santa Cruz,False,False,first
-223,2000-10-22,Ponte Preta-SP,5,1,Palmeiras,False,False,first
-224,2000-10-22,Corinthians,1,3,Fluminense,False,False,first
-225,2000-10-22,Vitória,0,1,Juventude,False,False,first
-226,2000-10-22,São Paulo,2,2,Guarani,False,False,first
-227,2000-10-22,Coritiba,3,2,América-MG,False,False,first
-228,2000-10-22,Atlético-MG,2,2,Grêmio,False,False,first
-229,2000-10-22,Sport,2,2,Botafogo,False,False,first
-230,2000-10-24,Vasco da Gama,2,1,Goiás,False,False,first
-231,2000-10-25,Gama,0,0,Atlético-MG,False,False,first
-232,2000-10-25,Bahia,1,2,Ponte Preta-SP,False,False,first
-233,2000-10-25,Fluminense,6,1,Santa Cruz,False,False,first
-234,2000-10-25,Sport,3,1,Corinthians,False,False,first
-235,2000-10-25,Grêmio,2,1,Botafogo,False,False,first
-236,2000-10-27,Flamengo,4,0,Vasco da Gama,False,False,first
-237,2000-10-28,América-MG,2,3,Vitória,False,False,first
-238,2000-10-28,Grêmio,4,1,Gama,False,False,first
-239,2000-10-28,São Paulo,2,1,Atlético-MG,False,False,first
-240,2000-10-28,Santa Cruz,1,5,Palmeiras,False,False,first
-241,2000-10-28,Santos,0,1,Bahia,False,False,first
-242,2000-10-28,Cruzeiro,5,1,Portuguesa-SP,False,False,first
-243,2000-10-28,Sport,0,1,Internacional,False,False,first
-244,2000-11-01,Internacional,1,0,Corinthians,False,False,first
-245,2000-11-02,Guarani,2,1,Ponte Preta-SP,False,False,first
-246,2000-11-03,Coritiba,0,1,Vasco da Gama,False,False,first
-247,2000-11-04,Bahia,2,0,Botafogo,False,False,first
-248,2000-11-04,Cruzeiro,3,1,Corinthians,False,False,first
-249,2000-11-04,Atlético-PR,3,1,Vitória,False,False,first
-250,2000-11-04,Goiás,2,2,Grêmio,False,False,first
-251,2000-11-04,Atlético-MG,0,1,América-MG,False,False,first
-252,2000-11-05,Internacional,2,0,Vasco da Gama,False,False,first
-253,2000-11-05,Juventude,3,1,São Paulo,False,False,first
-254,2000-11-05,Santa Cruz,0,3,Ponte Preta-SP,False,False,first
-255,2000-11-05,Fluminense,1,1,Flamengo,False,False,first
-256,2000-11-05,Coritiba,2,1,Santos,False,False,first
-257,2000-11-05,Portuguesa-SP,1,1,Palmeiras,False,False,first
-258,2000-11-08,Ponte Preta-SP,3,1,Internacional,False,False,first
-259,2000-11-08,Bahia,2,1,América-MG,False,False,first
-260,2000-11-08,Atlético-PR,1,1,Goiás,False,False,first
-261,2000-11-08,Santos,2,0,Portuguesa-SP,False,False,first
-262,2000-11-08,Sport,4,3,São Paulo,False,False,first
-263,2000-11-09,Vitória,1,2,Guarani,False,False,first
-264,2000-11-09,Corinthians,1,2,Juventude,False,False,first
-265,2000-11-10,Palmeiras,3,0,Vasco da Gama,False,False,first
-266,2000-11-11,Goiás,3,3,Fluminense,False,False,first
-267,2000-11-11,Santos,3,1,Sport,False,False,first
-268,2000-11-11,Coritiba,3,1,Portuguesa-SP,False,False,first
-269,2000-11-11,Atlético-MG,3,2,Juventude,False,False,first
-270,2000-11-11,Grêmio,3,0,Atlético-PR,False,False,first
-271,2000-11-12,Internacional,3,0,Flamengo,False,False,first
-272,2000-11-12,Bahia,1,2,Palmeiras,False,False,first
-273,2000-11-12,São Paulo,0,0,Corinthians,False,False,first
-274,2000-11-12,Vasco da Gama,1,2,Botafogo,False,False,first
-275,2000-11-12,Cruzeiro,2,2,Ponte Preta-SP,False,False,first
-276,2000-11-12,Gama,1,2,Guarani,False,False,first
-277,2000-11-14,Flamengo,1,2,Cruzeiro,False,False,first
-278,2000-11-15,Juventude,0,0,Bahia,False,False,first
-279,2000-11-16,Corinthians,1,4,Flamengo,False,False,first
-280,2000-11-16,Guarani,3,2,Santos,False,False,first
-281,2000-11-16,Grêmio,0,1,Vasco da Gama,False,False,first
-282,2000-11-16,Botafogo,1,2,Santa Cruz,False,False,first
-283,2000-11-16,Fluminense,2,0,Coritiba,False,False,first
-284,2000-11-16,Sport,1,0,América-MG,False,False,first
-285,2000-11-16,Atlético-PR,2,1,Internacional,False,False,first
-286,2000-11-16,Goiás,3,0,Ponte Preta-SP,False,False,first
-287,2000-11-16,Vitória,2,0,Atlético-MG,False,False,first
-288,2000-11-19,Santos,4,1,Botafogo,False,False,first
-289,2000-11-19,Palmeiras,2,0,Guarani,False,False,first
-290,2000-11-19,Portuguesa-SP,2,1,Atlético-PR,False,False,first
-291,2000-11-19,Flamengo,3,2,Vitória,False,False,first
-292,2000-11-19,Internacional,2,1,Juventude,False,False,first
-293,2000-11-19,Atlético-MG,0,6,Sport,False,False,first
-294,2000-11-19,Santa Cruz,0,3,Grêmio,False,False,first
-295,2000-11-19,Bahia,0,1,Goiás,False,False,first
-296,2000-11-19,Coritiba,1,1,Cruzeiro,False,False,first
-297,2000-11-19,Vasco da Gama,0,4,São Paulo,False,False,first
-298,2000-11-19,Ponte Preta-SP,3,4,Fluminense,False,False,first
-299,2000-11-19,América-MG,2,1,Corinthians,False,False,first
-300,2000-08-08,Botafogo-SP,1,1,União São João,False,False,first
-301,2000-08-08,São Caetano,3,1,Figueirense,False,False,first
-302,2000-08-08,Bangu,0,1,América-RJ,False,False,first
-303,2000-08-09,XV de Novembro,1,1,Bragantino,False,False,first
-304,2000-08-09,Paraná,1,0,Marcílio Dias,False,False,first
-305,2000-08-09,Joinville,0,0,Villa Nova-MG,False,False,first
-306,2000-08-09,Criciúma,2,0,Londrina,False,False,first
-307,2000-08-09,Caxias,1,1,Americano,False,False,first
-308,2000-08-09,GE Brasil,0,2,Avaí,False,False,first
-309,2000-08-11,América-RJ,1,0,Botafogo-SP,False,False,first
-310,2000-08-13,Londrina,0,3,XV de Novembro,False,False,first
-311,2000-08-13,Figueirense,3,0,Joinville,False,False,first
-312,2000-08-13,Avaí,2,0,Criciúma,False,False,first
-313,2000-08-13,Marcílio Dias,1,0,GE Brasil,False,False,first
-314,2000-08-13,Villa Nova-MG,1,2,Caxias,False,False,first
-315,2000-08-13,Americano,1,1,São Caetano,False,False,first
-316,2000-08-13,União São João,0,0,Paraná,False,False,first
-317,2000-08-14,Bragantino,1,2,Bangu,False,False,first
-318,2000-08-16,Paraná,1,0,Americano,False,False,first
-319,2000-08-16,Joinville,1,1,Londrina,False,False,first
-320,2000-08-16,Botafogo-SP,0,0,Figueirense,False,False,first
-321,2000-08-16,GE Brasil,1,1,União São João,False,False,first
-322,2000-08-16,XV de Novembro,1,0,Villa Nova-MG,False,False,first
-323,2000-08-16,São Caetano,2,1,Marcílio Dias,False,False,first
-324,2000-08-16,América-RJ,2,1,Avaí,False,False,first
-325,2000-08-17,Bangu,3,0,Criciúma,False,False,first
-326,2000-08-17,Caxias,1,1,Bragantino,False,False,first
-327,2000-08-20,Villa Nova-MG,1,0,Paraná,False,False,first
-328,2000-08-20,Criciúma,1,3,São Caetano,False,False,first
-329,2000-08-20,Figueirense,1,0,XV de Novembro,False,False,first
-330,2000-08-20,Bragantino,2,2,GE Brasil,False,False,first
-331,2000-08-20,Botafogo-SP,0,0,Avaí,False,False,first
-332,2000-08-20,Americano,2,1,Bangu,False,False,first
-333,2000-08-20,Londrina,0,0,América-RJ,False,False,first
-334,2000-08-20,Marcílio Dias,1,1,Joinville,False,False,first
-335,2000-08-21,União São João,0,0,Caxias,False,False,first
-336,2000-08-23,São Caetano,5,3,Villa Nova-MG,False,False,first
-337,2000-08-23,América-RJ,1,1,Bragantino,False,False,first
-338,2000-08-23,XV de Novembro,3,1,Criciúma,False,False,first
-339,2000-08-23,Paraná,3,0,Londrina,False,False,first
-340,2000-08-23,Joinville,3,0,Americano,False,False,first
-341,2000-08-23,Avaí,2,2,Bangu,False,False,first
-342,2000-08-24,Caxias,1,1,Botafogo-SP,False,False,first
-343,2000-08-24,Marcílio Dias,0,2,União São João,False,False,first
-344,2000-08-26,Criciúma,1,0,Paraná,False,False,first
-345,2000-08-27,São Caetano,4,3,Avaí,False,False,first
-346,2000-08-27,Botafogo-SP,3,1,GE Brasil,False,False,first
-347,2000-08-27,União São João,2,2,XV de Novembro,False,False,first
-348,2000-08-27,Bragantino,2,1,Londrina,False,False,first
-349,2000-08-27,Figueirense,3,2,Caxias,False,False,first
-350,2000-08-27,Marcílio Dias,1,2,Americano,False,False,first
-351,2000-08-27,Bangu,1,0,Joinville,False,False,first
-352,2000-08-27,Villa Nova-MG,2,1,América-RJ,False,False,first
-353,2000-08-30,XV de Novembro,0,1,Avaí,False,False,first
-354,2000-08-30,Paraná,2,1,Botafogo-SP,False,False,first
-355,2000-08-30,América-RJ,0,0,Criciúma,False,False,first
-356,2000-08-30,Americano,2,0,Villa Nova-MG,False,False,first
-357,2000-08-30,Caxias,2,4,São Caetano,False,False,first
-358,2000-08-30,Figueirense,3,1,Marcílio Dias,False,False,first
-359,2000-08-30,Joinville,0,0,Bragantino,False,False,first
-360,2000-08-30,Londrina,1,1,União São João,False,False,first
-361,2000-08-30,GE Brasil,4,1,Bangu,False,False,first
-362,2000-09-02,XV de Novembro,2,3,Caxias,False,False,first
-363,2000-09-02,Bangu,1,1,São Caetano,False,False,first
-364,2000-09-02,Bragantino,0,0,Marcílio Dias,False,False,first
-365,2000-09-02,Villa Nova-MG,0,0,Figueirense,False,False,first
-366,2000-09-02,Criciúma,2,1,Joinville,False,False,first
-367,2000-09-02,Paraná,2,0,GE Brasil,False,False,first
-368,2000-09-02,Avaí,1,1,Americano,False,False,first
-369,2000-09-02,União São João,1,1,América-RJ,False,False,first
-370,2000-09-03,Botafogo-SP,5,0,Londrina,False,False,first
-371,2000-09-06,São Caetano,1,0,Botafogo-SP,False,False,first
-372,2000-09-06,Joinville,3,0,Paraná,False,False,first
-373,2000-09-06,Figueirense,3,0,União São João,False,False,first
-374,2000-09-06,Americano,1,1,América-RJ,False,False,first
-375,2000-09-06,Londrina,1,0,Bangu,False,False,first
-376,2000-09-06,Bragantino,1,1,Villa Nova-MG,False,False,first
-377,2000-09-06,GE Brasil,0,0,XV de Novembro,False,False,first
-378,2000-09-06,Marcílio Dias,2,2,Avaí,False,False,first
-379,2000-09-10,Americano,2,1,Londrina,False,False,first
-380,2000-09-10,Bangu,0,0,Paraná,False,False,first
-381,2000-09-10,Criciúma,1,1,Bragantino,False,False,first
-382,2000-09-10,Botafogo-SP,5,2,Marcílio Dias,False,False,first
-383,2000-09-10,XV de Novembro,1,0,Joinville,False,False,first
-384,2000-09-10,União São João,4,3,Villa Nova-MG,False,False,first
-385,2000-09-10,São Caetano,3,0,GE Brasil,False,False,first
-386,2000-09-10,Avaí,1,1,Figueirense,False,False,first
-387,2000-09-11,América-RJ,2,3,Caxias,False,False,first
-388,2000-09-13,Paraná,0,0,São Caetano,False,False,first
-389,2000-09-13,Botafogo-SP,3,0,Bangu,False,False,first
-390,2000-09-13,Marcílio Dias,2,1,XV de Novembro,False,False,first
-391,2000-09-13,Bragantino,0,0,Americano,False,False,first
-392,2000-09-13,Londrina,0,1,Figueirense,False,False,first
-393,2000-09-13,Avaí,1,1,União São João,False,False,first
-394,2000-09-13,Villa Nova-MG,1,1,Criciúma,False,False,first
-395,2000-09-14,Joinville,2,2,Caxias,False,False,first
-396,2000-09-14,GE Brasil,2,1,América-RJ,False,False,first
-397,2000-09-17,GE Brasil,3,1,Villa Nova-MG,False,False,first
-398,2000-09-17,Caxias,3,1,Londrina,False,False,first
-399,2000-09-17,XV de Novembro,1,2,Paraná,False,False,first
-400,2000-09-17,São Caetano,1,1,União São João,False,False,first
-401,2000-09-17,Americano,1,1,Figueirense,False,False,first
-402,2000-09-17,Marcílio Dias,0,0,Bangu,False,False,first
-403,2000-09-17,América-RJ,3,1,Joinville,False,False,first
-404,2000-09-17,Criciúma,2,1,Botafogo-SP,False,False,first
-405,2000-09-17,Avaí,1,1,Bragantino,False,False,first
-406,2000-09-20,União São João,4,2,Bragantino,False,False,first
-407,2000-09-20,Joinville,2,0,Botafogo-SP,False,False,first
-408,2000-09-20,São Caetano,5,0,XV de Novembro,False,False,first
-409,2000-09-20,Villa Nova-MG,0,0,Marcílio Dias,False,False,first
-410,2000-09-20,Figueirense,2,0,América-RJ,False,False,first
-411,2000-09-20,Bangu,3,2,Caxias,False,False,first
-412,2000-09-20,Londrina,2,1,GE Brasil,False,False,first
-413,2000-09-20,Criciúma,3,0,Americano,False,False,first
-414,2000-09-20,Paraná,4,1,Avaí,False,False,first
-415,2000-09-24,Bangu,5,1,XV de Novembro,False,False,first
-416,2000-09-24,América-RJ,3,2,São Caetano,False,False,first
-417,2000-09-24,Botafogo-SP,2,1,Villa Nova-MG,False,False,first
-418,2000-09-24,Paraná,0,1,Bragantino,False,False,first
-419,2000-09-24,Figueirense,1,1,Criciúma,False,False,first
-420,2000-09-24,Londrina,0,1,Marcílio Dias,False,False,first
-421,2000-09-24,GE Brasil,0,1,Joinville,False,False,first
-422,2000-09-24,Americano,0,0,União São João,False,False,first
-423,2000-09-24,Avaí,1,1,Caxias,False,False,first
-424,2000-09-27,XV de Novembro,0,1,Botafogo-SP,False,False,first
-425,2000-09-27,Bragantino,1,1,Figueirense,False,False,first
-426,2000-09-27,União São João,0,2,Criciúma,False,False,first
-427,2000-09-27,Joinville,1,0,São Caetano,False,False,first
-428,2000-09-27,Americano,1,3,GE Brasil,False,False,first
-429,2000-09-27,Villa Nova-MG,3,3,Bangu,False,False,first
-430,2000-09-27,Marcílio Dias,1,0,América-RJ,False,False,first
-431,2000-09-27,Caxias,1,1,Paraná,False,False,first
-432,2000-09-27,Avaí,4,0,Londrina,False,False,first
-433,2000-09-30,GE Brasil,0,2,Figueirense,False,False,first
-434,2000-09-30,Caxias,1,0,Criciúma,False,False,first
-435,2000-10-02,Botafogo-SP,2,1,Americano,False,False,first
-436,2000-10-04,XV de Novembro,3,1,América-RJ,False,False,first
-437,2000-10-04,São Caetano,3,1,Bragantino,False,False,first
-438,2000-10-04,Bangu,2,1,União São João,False,False,first
-439,2000-10-04,Paraná,2,1,Figueirense,False,False,first
-440,2000-10-04,Villa Nova-MG,1,0,Londrina,False,False,first
-441,2000-10-04,Criciúma,1,0,GE Brasil,False,False,first
-442,2000-10-04,Caxias,3,3,Marcílio Dias,False,False,first
-443,2000-10-04,Joinville,2,2,Avaí,False,False,first
-444,2000-10-07,Americano,2,2,XV de Novembro,False,False,first
-445,2000-10-07,Bragantino,0,2,Botafogo-SP,False,False,first
-446,2000-10-07,União São João,1,1,Joinville,False,False,first
-447,2000-10-07,Figueirense,1,1,Bangu,False,False,first
-448,2000-10-07,Londrina,0,2,São Caetano,False,False,first
-449,2000-10-07,GE Brasil,0,1,Caxias,False,False,first
-450,2000-10-07,Marcílio Dias,1,1,Criciúma,False,False,first
-451,2000-10-07,Avaí,2,0,Villa Nova-MG,False,False,first
-452,2000-10-07,América-RJ,0,0,Paraná,False,False,first
-453,2000-08-06,River,2,2,Nacional-AM,False,False,first
-454,2000-08-06,Fortaleza,1,0,Náutico,False,False,first
-455,2000-08-06,Anapolina,0,0,Serra,False,False,first
-456,2000-08-06,São Raimundo,2,0,Sampaio Corrêa,False,False,first
-457,2000-08-06,Remo,1,1,América-RN,False,False,first
-458,2000-08-09,CSA,1,2,River,False,False,first
-459,2000-08-09,São Raimundo,1,0,Paysandu,False,False,first
-460,2000-08-09,Remo,2,0,Nacional-AM,False,False,first
-461,2000-08-09,Anapolina,1,1,Bandeirante,False,False,first
-462,2000-08-09,América-RN,1,1,Ceará,False,False,first
-463,2000-08-09,Fortaleza,2,1,ABC,False,False,first
-464,2000-08-09,Desportiva,1,0,Vila Nova,False,False,first
-465,2000-08-09,Sampaio Corrêa,1,2,Náutico,False,False,first
-466,2000-08-10,Serra,0,1,CRB,False,False,first
-467,2000-08-12,Vila Nova,5,1,Sampaio Corrêa,False,False,first
-468,2000-08-13,Ceará,0,1,São Raimundo,False,False,first
-469,2000-08-13,CRB,1,1,Fortaleza,False,False,first
-470,2000-08-13,ABC,1,3,CSA,False,False,first
-471,2000-08-13,Náutico,2,1,América-RN,False,False,first
-472,2000-08-13,Paysandu,0,1,Serra,False,False,first
-473,2000-08-13,Bandeirante,0,0,Remo,False,False,first
-474,2000-08-13,Nacional-AM,1,1,Anapolina,False,False,first
-475,2000-08-13,River,2,0,Desportiva,False,False,first
-476,2000-08-16,CRB,2,1,ABC,False,False,first
-477,2000-08-16,Nacional-AM,1,2,Desportiva,False,False,first
-478,2000-08-16,Paysandu,0,0,Sampaio Corrêa,False,False,first
-479,2000-08-16,América-RN,1,0,Bandeirante,False,False,first
-480,2000-08-16,Ceará,3,0,Serra,False,False,first
-481,2000-08-16,River,3,2,Vila Nova,False,False,first
-482,2000-08-16,Náutico,3,0,CSA,False,False,first
-483,2000-08-17,São Raimundo,1,2,Anapolina,False,False,first
-484,2000-08-17,Fortaleza,2,1,Remo,False,False,first
-485,2000-08-19,Serra,2,4,Náutico,False,False,first
-486,2000-08-19,Vila Nova,2,3,América-RN,False,False,first
-487,2000-08-20,CSA,0,3,Paysandu,False,False,first
-488,2000-08-20,Remo,1,1,CRB,False,False,first
-489,2000-08-20,ABC,2,0,Bandeirante,False,False,first
-490,2000-08-20,Sampaio Corrêa,3,2,Nacional-AM,False,False,first
-491,2000-08-20,Desportiva,0,2,Ceará,False,False,first
-492,2000-08-20,Anapolina,0,0,Fortaleza,False,False,first
-493,2000-08-20,São Raimundo,2,1,River,False,False,first
-494,2000-08-22,Vila Nova,0,1,Náutico,False,False,first
-495,2000-08-23,CSA,4,3,Nacional-AM,False,False,first
-496,2000-08-23,Paysandu,1,0,CRB,False,False,first
-497,2000-08-23,América-RN,1,1,ABC,False,False,first
-498,2000-08-23,Sampaio Corrêa,1,0,River,False,False,first
-499,2000-08-23,Bandeirante,0,2,Ceará,False,False,first
-500,2000-08-23,Desportiva,3,2,Fortaleza,False,False,first
-501,2000-08-23,Anapolina,3,1,Remo,False,False,first
-502,2000-08-24,Serra,0,0,São Raimundo,False,False,first
-503,2000-08-26,Ceará,1,0,CSA,False,False,first
-504,2000-08-26,Náutico,0,2,Anapolina,False,False,first
-505,2000-08-26,Nacional-AM,4,1,ABC,False,False,first
-506,2000-08-27,CRB,1,1,Vila Nova,False,False,first
-507,2000-08-27,América-RN,3,0,Serra,False,False,first
-508,2000-08-27,Fortaleza,3,2,Paysandu,False,False,first
-509,2000-08-27,River,1,2,Remo,False,False,first
-510,2000-08-27,São Raimundo,4,1,Desportiva,False,False,first
-511,2000-08-27,Bandeirante,3,3,Sampaio Corrêa,False,False,first
-512,2000-08-29,Ceará,2,2,Anapolina,False,False,first
-513,2000-08-30,Fortaleza,1,2,Bandeirante,False,False,first
-514,2000-08-30,River,1,0,Serra,False,False,first
-515,2000-08-30,Nacional-AM,3,2,Náutico,False,False,first
-516,2000-08-30,Remo,1,2,ABC,False,False,first
-517,2000-08-30,América-RN,1,2,Paysandu,False,False,first
-518,2000-08-30,CSA,3,2,Vila Nova,False,False,first
-519,2000-08-30,Desportiva,3,4,CRB,False,False,first
-520,2000-09-02,CRB,0,0,Ceará,False,False,first
-521,2000-09-02,Paysandu,3,1,River,False,False,first
-522,2000-09-02,ABC,3,0,São Raimundo,False,False,first
-523,2000-09-02,Vila Nova,3,3,Fortaleza,False,False,first
-524,2000-09-02,Anapolina,4,0,Desportiva,False,False,first
-525,2000-09-02,Náutico,2,0,Bandeirante,False,False,first
-526,2000-09-02,Serra,1,1,Nacional-AM,False,False,first
-527,2000-09-04,Sampaio Corrêa,1,0,CSA,False,False,first
-528,2000-09-06,São Raimundo,4,5,Nacional-AM,False,False,first
-529,2000-09-06,Paysandu,1,0,Anapolina,False,False,first
-530,2000-09-06,ABC,2,0,Desportiva,False,False,first
-531,2000-09-06,River,2,1,Ceará,False,False,first
-532,2000-09-06,Bandeirante,2,2,Vila Nova,False,False,first
-533,2000-09-06,Náutico,0,2,Remo,False,False,first
-534,2000-09-06,Serra,2,5,Fortaleza,False,False,first
-535,2000-09-07,CSA,0,2,CRB,False,False,first
-536,2000-09-07,Sampaio Corrêa,1,0,América-RN,False,False,first
-537,2000-09-09,Nacional-AM,1,0,Paysandu,False,False,first
-538,2000-09-09,Ceará,0,0,Náutico,False,False,first
-539,2000-09-10,CRB,6,2,Bandeirante,False,False,first
-540,2000-09-10,São Raimundo,2,0,CSA,False,False,first
-541,2000-09-10,Remo,1,0,Vila Nova,False,False,first
-542,2000-09-10,Desportiva,0,6,Serra,False,False,first
-543,2000-09-10,América-RN,1,1,Anapolina,False,False,first
-544,2000-09-10,Fortaleza,2,0,Sampaio Corrêa,False,False,first
-545,2000-09-10,River,1,1,ABC,False,False,first
-546,2000-09-13,CSA,5,2,América-RN,False,False,first
-547,2000-09-13,Sampaio Corrêa,1,0,CRB,False,False,first
-548,2000-09-13,ABC,2,2,Ceará,False,False,first
-549,2000-09-13,Fortaleza,4,3,São Raimundo,False,False,first
-550,2000-09-13,Vila Nova,2,0,Nacional-AM,False,False,first
-551,2000-09-13,Anapolina,3,2,River,False,False,first
-552,2000-09-13,Paysandu,0,0,Remo,False,False,first
-553,2000-09-13,Náutico,1,0,Desportiva,False,False,first
-554,2000-09-14,Bandeirante,1,2,Serra,False,False,first
-555,2000-09-16,ABC,2,2,Anapolina,False,False,first
-556,2000-09-17,CSA,1,1,Fortaleza,False,False,first
-557,2000-09-17,América-RN,1,0,River,False,False,first
-558,2000-09-17,Ceará,2,0,Nacional-AM,False,False,first
-559,2000-09-17,Sampaio Corrêa,3,2,Desportiva,False,False,first
-560,2000-09-17,Vila Nova,1,1,Paysandu,False,False,first
-561,2000-09-17,Bandeirante,2,2,São Raimundo,False,False,first
-562,2000-09-17,Náutico,1,1,CRB,False,False,first
-563,2000-09-17,Serra,5,2,Remo,False,False,first
-564,2000-09-20,CRB,0,2,Anapolina,False,False,first
-565,2000-09-20,São Raimundo,2,1,América-RN,False,False,first
-566,2000-09-20,Náutico,2,0,ABC,False,False,first
-567,2000-09-20,Desportiva,1,1,CSA,False,False,first
-568,2000-09-20,Remo,1,1,Sampaio Corrêa,False,False,first
-569,2000-09-21,River,3,0,Bandeirante,False,False,first
-570,2000-09-21,Serra,2,0,Vila Nova,False,False,first
-571,2000-09-21,Paysandu,4,2,Ceará,False,False,first
-572,2000-09-21,Nacional-AM,3,4,Fortaleza,False,False,first
-573,2000-09-23,CRB,0,0,América-RN,False,False,first
-574,2000-09-23,Remo,4,0,Desportiva,False,False,first
-575,2000-09-23,Vila Nova,0,1,São Raimundo,False,False,first
-576,2000-09-24,Bandeirante,1,1,Nacional-AM,False,False,first
-577,2000-09-24,CSA,1,0,Anapolina,False,False,first
-578,2000-09-24,Fortaleza,3,1,River,False,False,first
-579,2000-09-24,Sampaio Corrêa,2,0,Ceará,False,False,first
-580,2000-09-24,Paysandu,0,0,Náutico,False,False,first
-581,2000-09-24,ABC,0,0,Serra,False,False,first
-582,2000-09-27,CSA,0,2,Serra,False,False,first
-583,2000-09-27,Nacional-AM,3,4,CRB,False,False,first
-584,2000-09-27,América-RN,4,0,Desportiva,False,False,first
-585,2000-09-27,Ceará,1,3,Fortaleza,False,False,first
-586,2000-09-27,Sampaio Corrêa,3,2,ABC,False,False,first
-587,2000-09-27,Bandeirante,0,1,Paysandu,False,False,first
-588,2000-09-27,Anapolina,1,0,Vila Nova,False,False,first
-589,2000-09-27,Náutico,0,0,River,False,False,first
-590,2000-09-28,São Raimundo,4,1,Remo,False,False,first
-591,2000-09-30,América-RN,1,1,Fortaleza,False,False,first
-592,2000-10-03,Desportiva,3,0,Bandeirante,False,False,first
-593,2000-10-04,Serra,3,1,Sampaio Corrêa,False,False,first
-594,2000-10-04,Náutico,3,2,São Raimundo,False,False,first
-595,2000-10-04,River,1,1,CRB,False,False,first
-596,2000-10-04,Ceará,0,0,Vila Nova,False,False,first
-597,2000-10-04,ABC,4,1,Paysandu,False,False,first
-598,2000-10-04,Remo,1,0,CSA,False,False,first
-599,2000-10-07,Anapolina,0,1,Sampaio Corrêa,False,False,first
-600,2000-10-07,Vila Nova,0,1,ABC,False,False,first
-601,2000-10-07,Ceará,1,2,Remo,False,False,first
-602,2000-10-07,Paysandu,3,2,Desportiva,False,False,first
-603,2000-10-07,CRB,1,1,São Raimundo,False,False,first
-604,2000-10-07,Bandeirante,2,3,CSA,False,False,first
-605,2000-10-07,Nacional-AM,4,2,América-RN,False,False,first
-606,2000-10-07,Caxias,2,0,Sampaio Corrêa,False,False,second
-607,2000-10-07,Sampaio Corrêa,1,1,Caxias,False,False,second
-608,2000-10-07,Remo,4,1,Figueirense,False,False,second
-609,2000-10-07,Figueirense,2,1,Remo,False,False,second
-610,2000-10-07,Avaí,0,2,Fortaleza,False,False,second
-611,2000-10-07,Fortaleza,1,2,Avaí,False,False,second
-612,2000-10-07,Criciúma,1,2,Náutico,False,False,second
-613,2000-10-07,Náutico,0,0,Criciúma,False,False,second
-614,2000-10-07,Bangu,2,1,São Raimundo,False,False,second
-615,2000-10-07,São Raimundo,2,2,Bangu,False,False,second
-616,2000-10-07,Anapolina,0,1,Paraná,False,False,second
-617,2000-10-07,Paraná,2,0,Anapolina,False,False,second
-618,2000-10-07,Paysandu,3,0,Botafogo-SP,False,False,second
-619,2000-10-07,Botafogo-SP,2,1,Paysandu,False,False,second
-620,2000-10-07,CRB,1,1,São Caetano,False,False,second
-621,2000-10-07,São Caetano,4,1,CRB,False,False,second
-622,2000-10-07,Fortaleza,0,1,Paysandu,False,False,third
-623,2000-10-07,Paysandu,1,0,Fortaleza,False,False,third
-624,2000-10-07,Náutico,1,0,São Caetano,False,False,third
-625,2000-10-07,São Caetano,6,2,Náutico,False,False,third
-626,2000-10-07,Caxias,2,1,Remo,False,False,third
-627,2000-10-07,Remo,3,0,Caxias,False,False,third
-628,2000-10-07,Bangu,0,3,Paraná,False,False,third
-629,2000-10-07,Paraná,2,1,Bangu,False,False,third
-630,2000-10-07,Paraná,0,0,Remo,False,False,semi
-631,2000-10-07,Remo,1,2,Paraná,False,False,semi
-632,2000-10-07,Paysandu,1,1,São Caetano,False,False,semi
-633,2000-10-07,São Caetano,5,4,Paysandu,False,False,semi
-634,2000-10-07,Remo,3,2,Paysandu,False,False,semi
-635,2000-10-07,Paysandu,1,1,Remo,False,False,semi
-636,2000-10-07,Paraná,1,1,São Caetano,False,False,third
-637,2000-10-07,São Caetano,1,3,Paraná,False,False,third
-638,2000-08-06,Porto,0,1,Central,False,False,first
-639,2000-08-06,Tuna Luso,3,1,Botafogo-PB,False,False,first
-640,2000-08-06,Treze,2,0,Moto Clube,False,False,first
-641,2000-08-09,Porto,1,2,Tuna Luso,False,False,first
-642,2000-08-09,Botafogo-PB,3,1,Central,False,False,first
-643,2000-08-09,Moto Clube,3,1,Potiguar,False,False,first
-644,2000-08-13,Potiguar,1,0,Porto,False,False,first
-645,2000-08-13,Tuna Luso,1,1,Moto Clube,False,False,first
-646,2000-08-13,Central,1,0,Treze,False,False,first
-647,2000-08-16,Central,2,0,Potiguar,False,False,first
-648,2000-08-16,Treze,0,1,Tuna Luso,False,False,first
-649,2000-08-16,Moto Clube,2,0,Botafogo-PB,False,False,first
-650,2000-08-20,Tuna Luso,2,0,Central,False,False,first
-651,2000-08-20,Porto,3,0,Treze,False,False,first
-652,2000-08-21,Botafogo-PB,5,0,Potiguar,False,False,first
-653,2000-08-24,Potiguar,1,2,Tuna Luso,False,False,first
-654,2000-08-24,Treze,2,2,Botafogo-PB,False,False,first
-655,2000-08-24,Moto Clube,0,1,Porto,False,False,first
-656,2000-08-27,Central,2,0,Moto Clube,False,False,first
-657,2000-08-27,Botafogo-PB,3,1,Porto,False,False,first
-658,2000-08-27,Potiguar,1,2,Treze,False,False,first
-659,2000-09-02,Moto Clube,5,1,Central,False,False,first
-660,2000-09-02,Porto,0,2,Botafogo-PB,False,False,first
-661,2000-09-02,Treze,5,0,Potiguar,False,False,first
-662,2000-09-06,Tuna Luso,3,0,Potiguar,False,False,first
-663,2000-09-06,Porto,1,0,Moto Clube,False,False,first
-664,2000-09-06,Botafogo-PB,1,0,Treze,False,False,first
-665,2000-09-10,Central,3,2,Tuna Luso,False,False,first
-666,2000-09-10,Potiguar,1,0,Botafogo-PB,False,False,first
-667,2000-09-10,Treze,1,0,Porto,False,False,first
-668,2000-09-13,Botafogo-PB,2,2,Moto Clube,False,False,first
-669,2000-09-13,Tuna Luso,3,2,Treze,False,False,first
-670,2000-09-13,Potiguar,0,2,Central,False,False,first
-671,2000-09-16,Moto Clube,3,3,Tuna Luso,False,False,first
-672,2000-09-17,Porto,6,2,Potiguar,False,False,first
-673,2000-09-17,Treze,1,0,Central,False,False,first
-674,2000-09-20,Tuna Luso,1,2,Porto,False,False,first
-675,2000-09-20,Central,3,2,Botafogo-PB,False,False,first
-676,2000-09-20,Potiguar,2,3,Moto Clube,False,False,first
-677,2000-09-23,Moto Clube,5,1,Treze,False,False,first
-678,2000-09-24,Botafogo-PB,1,2,Tuna Luso,False,False,first
-679,2000-09-24,Central,0,0,Porto,False,False,first
-680,2000-08-06,Sergipe,1,0,Camaçari,False,False,first
-681,2000-08-06,Confiança,1,0,Campinense,False,False,first
-682,2000-08-29,ASA,0,0,Juazeiro,False,False,first
-683,2000-08-09,Sergipe,0,1,Confiança,False,False,first
-684,2000-08-09,Campinense,0,3,Camaçari,False,False,first
-685,2000-08-10,Juazeiro,2,2,Corinthians-AL,False,False,first
-686,2000-08-13,Confiança,2,1,Juazeiro,False,False,first
-687,2000-08-13,Camaçari,5,0,ASA,False,False,first
-688,2000-08-13,Corinthians-AL,2,1,Sergipe,False,False,first
-689,2000-08-16,Camaçari,1,1,Corinthians-AL,False,False,first
-690,2000-08-16,ASA,0,1,Confiança,False,False,first
-691,2000-08-16,Juazeiro,2,1,Campinense,False,False,first
-692,2000-08-20,Campinense,0,2,Corinthians-AL,False,False,first
-693,2000-08-29,Confiança,2,1,Camaçari,False,False,first
-694,2000-09-04,Sergipe,4,2,ASA,False,False,first
-695,2000-08-23,Juazeiro,3,2,Sergipe,False,False,first
-696,2000-08-23,ASA,3,0,Campinense,False,False,first
-697,2000-08-23,Corinthians-AL,1,0,Confiança,False,False,first
-698,2000-08-26,Camaçari,0,2,Juazeiro,False,False,first
-699,2000-08-26,Corinthians-AL,0,0,ASA,False,False,first
-700,2000-08-27,Campinense,3,2,Sergipe,False,False,first
-701,2000-09-01,Sergipe,2,1,Campinense,False,False,first
-702,2000-09-01,ASA,3,1,Corinthians-AL,False,False,first
-703,2000-09-02,Juazeiro,1,0,Camaçari,False,False,first
-704,2000-09-06,Confiança,0,1,Corinthians-AL,False,False,first
-705,2000-09-07,Sergipe,1,0,Juazeiro,False,False,first
-706,2000-09-07,Campinense,0,1,ASA,False,False,first
-707,2000-09-10,Corinthians-AL,3,1,Campinense,False,False,first
-708,2000-09-10,ASA,0,1,Sergipe,False,False,first
-709,2000-09-10,Camaçari,2,0,Confiança,False,False,first
-710,2000-09-13,Campinense,2,2,Juazeiro,False,False,first
-711,2000-09-13,Confiança,0,0,ASA,False,False,first
-712,2000-09-13,Corinthians-AL,1,0,Camaçari,False,False,first
-713,2000-09-17,Juazeiro,2,0,Confiança,False,False,first
-714,2000-09-17,ASA,2,0,Camaçari,False,False,first
-715,2000-09-17,Sergipe,0,1,Corinthians-AL,False,False,first
-716,2000-09-20,Confiança,1,1,Sergipe,False,False,first
-717,2000-09-20,Corinthians-AL,1,0,Juazeiro,False,False,first
-718,2000-09-20,Camaçari,1,1,Campinense,False,False,first
-719,2000-09-24,Campinense,2,2,Confiança,False,False,first
-720,2000-09-24,Juazeiro,1,0,ASA,False,False,first
-721,2000-09-24,Camaçari,0,0,Sergipe,False,False,first
-722,2000-08-06,Rio Branco-AC,4,2,Flamengo-PI,False,False,first
-723,2000-08-06,Genus,2,1,Rio Negro,False,False,first
-724,2000-08-06,Ypiranga,3,0,Baré,False,False,first
-725,2000-08-09,Rio Branco-AC,2,0,Genus,False,False,first
-726,2000-08-09,Rio Negro,0,2,Flamengo-PI,False,False,first
-727,2000-08-30,Baré,2,1,Tocantinópolis,False,False,first
-728,2000-08-12,Flamengo-PI,4,0,Ypiranga,False,False,first
-729,2000-08-13,Genus,1,3,Baré,False,False,first
-730,2000-08-15,Tocantinópolis,1,1,Rio Branco-AC,False,False,first
-731,2000-08-16,Ypiranga,5,3,Genus,False,False,first
-732,2000-08-16,Baré,0,0,Rio Negro,False,False,first
-733,2000-08-17,Flamengo-PI,2,0,Tocantinópolis,False,False,first
-734,2000-08-20,Rio Negro,0,2,Tocantinópolis,False,False,first
-735,2000-08-20,Rio Branco-AC,2,2,Ypiranga,False,False,first
-736,2000-08-20,Genus,0,1,Flamengo-PI,False,False,first
-737,2000-08-23,Tocantinópolis,4,0,Genus,False,False,first
-738,2000-08-23,Baré,2,1,Rio Branco-AC,False,False,first
-739,2000-08-23,Ypiranga,1,0,Rio Negro,False,False,first
-740,2000-08-26,Flamengo-PI,1,0,Baré,False,False,first
-741,2000-08-27,Rio Negro,2,1,Rio Branco-AC,False,False,first
-742,2000-08-27,Tocantinópolis,1,0,Ypiranga,False,False,first
-743,2000-09-02,Rio Branco-AC,3,0,Rio Negro,False,False,first
-744,2000-09-02,Ypiranga,3,0,Tocantinópolis,False,False,first
-745,2000-09-02,Baré,1,0,Flamengo-PI,False,False,first
-746,2000-09-06,Genus,2,3,Tocantinópolis,False,False,first
-747,2000-09-06,Rio Branco-AC,1,0,Baré,False,False,first
-748,2000-09-06,Rio Negro,2,0,Ypiranga,False,False,first
-749,2000-09-09,Flamengo-PI,1,0,Genus,False,False,first
-750,2000-09-10,Tocantinópolis,3,1,Rio Negro,False,False,first
-751,2000-09-10,Ypiranga,1,0,Rio Branco-AC,False,False,first
-752,2000-09-13,Tocantinópolis,1,0,Flamengo-PI,False,False,first
-753,2000-09-13,Genus,3,2,Ypiranga,False,False,first
-754,2000-09-13,Rio Negro,1,0,Baré,False,False,first
-755,2000-09-17,Ypiranga,3,1,Flamengo-PI,False,False,first
-756,2000-09-17,Rio Branco-AC,2,1,Tocantinópolis,False,False,first
-757,2000-09-17,Baré,9,1,Genus,False,False,first
-758,2000-09-20,Flamengo-PI,1,1,Rio Negro,False,False,first
-759,2000-09-20,Tocantinópolis,2,1,Baré,False,False,first
-760,2000-09-20,Genus,2,2,Rio Branco-AC,False,False,first
-761,2000-09-24,Rio Negro,4,2,Genus,False,False,first
-762,2000-09-24,Flamengo-PI,3,1,Rio Branco-AC,False,False,first
-763,2000-09-24,Baré,3,3,Ypiranga,False,False,first
-764,2000-08-04,Comercial-MS,1,0,Operário-MS,False,False,first
-765,2000-08-23,Brasília,0,1,Atlético-GO,False,False,first
-766,2000-08-06,Operário-MS,1,2,Atlético-GO,False,False,first
-767,2000-08-06,Brasília,2,1,Dom Pedro II,False,False,first
-768,2000-08-09,Atlético-GO,0,3,Goiânia,False,False,first
-769,2000-08-09,Dom Pedro II,0,0,Comercial-MS,False,False,first
-770,2000-08-13,Operário-MS,2,1,Dom Pedro II,False,False,first
-771,2000-08-13,Goiânia,1,2,Brasília,False,False,first
-772,2000-08-16,Brasília,2,2,Operário-MS,False,False,first
-773,2000-08-16,Dom Pedro II,1,1,Atlético-GO,False,False,first
-774,2000-08-16,Goiânia,1,0,Comercial-MS,False,False,first
-775,2000-08-20,Goiânia,3,2,Operário-MS,False,False,first
-776,2000-08-20,Atlético-GO,2,1,Comercial-MS,False,False,first
-777,2000-08-27,Goiânia,1,2,Dom Pedro II,False,False,first
-778,2000-08-27,Brasília,1,2,Comercial-MS,False,False,first
-779,2000-08-30,Operário-MS,1,1,Goiânia,False,False,first
-780,2000-09-10,Comercial-MS,0,0,Atlético-GO,False,False,first
-781,2000-09-02,Dom Pedro II,1,1,Goiânia,False,False,first
-782,2000-09-16,Comercial-MS,1,2,Brasília,False,False,first
-783,2000-09-06,Atlético-GO,2,0,Brasília,False,False,first
-784,2000-09-07,Operário-MS,0,2,Comercial-MS,False,False,first
-785,2000-09-13,Operário-MS,1,0,Brasília,False,False,first
-786,2000-09-13,Atlético-GO,0,1,Dom Pedro II,False,False,first
-787,2000-09-14,Comercial-MS,4,2,Goiânia,False,False,first
-788,2000-09-17,Dom Pedro II,1,2,Operário-MS,False,False,first
-789,2000-09-19,Brasília,1,1,Goiânia,False,False,first
-790,2000-09-20,Comercial-MS,0,1,Dom Pedro II,False,False,first
-791,2000-09-22,Goiânia,1,1,Atlético-GO,False,False,first
-792,2000-09-24,Atlético-GO,0,1,Operário-MS,False,False,first
-793,2000-09-24,Dom Pedro II,2,0,Brasília,False,False,first
-794,2000-09-30,Tuna Luso,2,0,Juazeiro,False,False,second
-795,2000-09-30,Ypiranga,2,1,Atlético-GO,False,False,second
-796,2000-10-04,Juazeiro,2,1,Ypiranga,False,False,second
-797,2000-10-04,Atlético-GO,0,1,Tuna Luso,False,False,second
-798,2000-10-07,Tuna Luso,1,0,Ypiranga,False,False,second
-799,2000-10-07,Atlético-GO,1,2,Juazeiro,False,False,second
-800,2000-10-11,Juazeiro,2,0,Atlético-GO,False,False,second
-801,2000-10-11,Ypiranga,2,1,Tuna Luso,False,False,second
-802,2000-10-15,Tuna Luso,3,2,Atlético-GO,False,False,second
-803,2000-10-15,Ypiranga,3,2,Juazeiro,False,False,second
-804,2000-10-19,Juazeiro,5,0,Tuna Luso,False,False,second
-805,2000-10-19,Atlético-GO,3,2,Ypiranga,False,False,second
-806,2000-09-30,Corinthians-AL,1,3,Central,False,False,second
-807,2000-09-30,Dom Pedro II,2,1,Tocantinópolis,False,False,second
-808,2000-10-04,Central,0,0,Dom Pedro II,False,False,second
-809,2000-10-04,Tocantinópolis,1,2,Corinthians-AL,False,False,second
-810,2000-10-07,Tocantinópolis,2,1,Central,False,False,second
-811,2000-10-07,Corinthians-AL,2,2,Dom Pedro II,False,False,second
-812,2000-10-11,Dom Pedro II,0,0,Corinthians-AL,False,False,second
-813,2000-10-13,Central,0,1,Tocantinópolis,False,False,second
-814,2000-10-15,Corinthians-AL,5,1,Tocantinópolis,False,False,second
-815,2000-10-15,Dom Pedro II,2,3,Central,False,False,second
-816,2000-10-19,Tocantinópolis,2,0,Dom Pedro II,False,False,second
-817,2000-10-19,Central,2,1,Corinthians-AL,False,False,second
-818,2000-09-30,Flamengo-PI,7,2,Operário-MS,False,False,second
-819,2000-09-30,Moto Clube,2,1,Confiança,False,False,second
-820,2000-10-04,Confiança,1,2,Flamengo-PI,False,False,second
-821,2000-10-04,Operário-MS,3,3,Moto Clube,False,False,second
-822,2000-10-07,Flamengo-PI,1,1,Moto Clube,False,False,second
-823,2000-10-07,Confiança,0,1,Operário-MS,False,False,second
-824,2000-10-11,Moto Clube,1,0,Flamengo-PI,False,False,second
-825,2000-10-11,Operário-MS,1,1,Confiança,False,False,second
-826,2000-10-15,Moto Clube,1,0,Operário-MS,False,False,second
-827,2000-10-15,Flamengo-PI,3,5,Confiança,False,False,second
-828,2000-10-19,Operário-MS,1,0,Flamengo,False,False,second
-829,2000-10-19,Confiança,3,0,Moto Clube,False,False,second
-830,2000-08-06,São José,1,2,Uberlândia,False,False,second
-831,2000-08-06,CA Juventus,2,0,Volta Redonda,False,False,second
-832,2000-08-06,Nacional-SP,2,1,Rio Branco-SP,False,False,second
-833,2000-08-09,Nacional-SP,1,4,CA Juventus,False,False,second
-834,2000-08-09,Volta Redonda,1,1,Rio Branco-SP,False,False,second
-835,2000-08-13,CA Juventus,4,0,Uberlândia,False,False,second
-836,2000-08-13,Rio Branco-SP,4,1,São José,False,False,second
-837,2000-08-16,São José,0,1,CA Juventus,False,False,second
-838,2000-08-16,Uberlândia,1,0,Volta Redonda,False,False,second
-839,2000-08-20,Nacional-SP,2,1,São José,False,False,second
-840,2000-08-20,CA Juventus,1,3,Rio Branco-SP,False,False,second
-841,2000-08-23,Uberlândia,3,0,Nacional-SP,False,False,second
-842,2000-08-23,São José,2,2,Volta Redonda,False,False,second
-843,2000-08-27,Volta Redonda,3,1,Nacional-SP,False,False,second
-844,2000-08-27,Rio Branco-SP,2,0,Uberlândia,False,False,second
-845,2000-09-02,Uberlândia,1,1,Rio Branco-SP,False,False,second
-846,2000-09-02,Nacional-SP,1,0,Volta Redonda,False,False,second
-847,2000-09-06,Nacional-SP,3,3,Uberlândia,False,False,second
-848,2000-09-06,Volta Redonda,2,1,São José,False,False,second
-849,2000-09-09,São José,0,2,Nacional-SP,False,False,second
-850,2000-09-10,Rio Branco-SP,2,2,CA Juventus,False,False,second
-851,2000-09-13,CA Juventus,1,0,São José,False,False,second
-852,2000-09-13,Volta Redonda,0,1,Uberlândia,False,False,second
-853,2000-09-17,Uberlândia,2,2,CA Juventus,False,False,second
-854,2000-09-17,São José,1,2,Rio Branco-SP,False,False,second
-855,2000-09-20,CA Juventus,2,1,Nacional-SP,False,False,second
-856,2000-09-20,Rio Branco-SP,3,1,Volta Redonda,False,False,second
-857,2000-09-24,Rio Branco-SP,4,0,Nacional-SP,False,False,second
-858,2000-09-24,Volta Redonda,1,1,CA Juventus,False,False,second
-859,2000-09-24,Uberlândia,2,1,São José,False,False,second
-860,2000-08-06,Etti Jundiaí,4,0,Malutrom,False,False,second
-861,2000-08-06,Internacional-SP,1,1,União Bandeirante,False,False,second
-862,2000-08-06,Comercial-SP,1,1,Madureira,False,False,second
-863,2000-08-09,Etti Jundiaí,2,0,Internacional-SP,False,False,second
-864,2000-08-09,União Bandeirante,2,1,Malutrom,False,False,second
-865,2000-08-30,Madureira,2,0,União,False,False,second
-866,2000-08-13,Internacional-SP,2,0,Madureira,False,False,second
-867,2000-08-13,Malutrom,3,0,Comercial-SP,False,False,second
-868,2000-08-13,União,0,2,Etti Jundiaí,False,False,second
-869,2000-08-16,Madureira,6,0,União Bandeirante,False,False,second
-870,2000-08-16,Malutrom,3,2,União,False,False,second
-871,2000-08-17,Comercial-SP,2,1,Internacional-SP,False,False,second
-872,2000-08-20,União Bandeirante,3,0,União,False,False,second
-873,2000-08-20,Internacional-SP,2,2,Malutrom,False,False,second
-874,2000-08-20,Etti Jundiaí,3,0,Comercial-SP,False,False,second
-875,2000-08-23,Madureira,0,2,Etti Jundiaí,False,False,second
-876,2000-08-23,Comercial-SP,1,0,União Bandeirante,False,False,second
-877,2000-08-23,União,2,1,Internacional-SP,False,False,second
-878,2000-08-27,União,2,0,Comercial-SP,False,False,second
-879,2000-08-27,União Bandeirante,1,1,Etti Jundiaí,False,False,second
-880,2000-08-28,Malutrom,2,1,Madureira,False,False,second
-881,2000-09-02,Madureira,0,0,Malutrom,False,False,second
-882,2000-09-02,Etti Jundiaí,8,0,União Bandeirante,False,False,second
-883,2000-09-19,Comercial-SP,2,1,União,False,False,second
-884,2000-09-06,Internacional-SP,6,0,União,False,False,second
-885,2000-09-06,Etti Jundiaí,4,0,Madureira,False,False,second
-886,2000-09-06,União Bandeirante,3,0,Comercial-SP,False,False,second
-887,2000-09-09,Malutrom,0,0,Internacional-SP,False,False,second
-888,2000-09-09,Comercial-SP,1,4,Etti Jundiaí,False,False,second
-889,2000-09-10,União,2,1,União Bandeirante,False,False,second
-890,2000-09-13,Internacional-SP,2,0,Comercial-SP,False,False,second
-891,2000-09-13,União,0,2,Malutrom,False,False,second
-892,2000-09-13,União Bandeirante,1,1,Madureira,False,False,second
-893,2000-09-16,Comercial-SP,1,4,Malutrom,False,False,second
-894,2000-09-16,Etti Jundiaí,5,2,União,False,False,second
-895,2000-09-17,Madureira,1,1,Internacional-SP,False,False,second
-896,2000-09-20,Internacional-SP,2,4,Etti Jundiaí,False,False,second
-897,2000-09-20,Malutrom,2,2,União Bandeirante,False,False,second
-898,2000-09-21,União,1,1,Madureira,False,False,second
-899,2000-09-24,Madureira,7,1,Comercial-SP,False,False,second
-900,2000-09-24,União Bandeirante,3,0,Internacional-SP,False,False,second
-901,2000-09-24,Malutrom,2,1,Etti Jundiaí,False,False,second
-902,2000-08-06,União Agrícola,2,0,Mogi Mirim,False,False,second
-903,2000-08-06,Olimpia,1,1,Ipatinga,False,False,second
-904,2000-08-06,Matonense,1,0,Friburguense,False,False,second
-905,2000-08-09,União Agrícola,0,0,Olimpia,False,False,second
-906,2000-08-09,Ipatinga,0,0,Mogi Mirim,False,False,second
-907,2000-08-09,Friburguense,1,1,São Cristóvão,False,False,second
-908,2000-08-13,Olimpia,0,1,Friburguense,False,False,second
-909,2000-08-13,São Cristóvão,2,0,União Agrícola,False,False,second
-910,2000-08-13,Mogi Mirim,1,1,Matonense,False,False,second
-911,2000-08-16,Mogi Mirim,4,0,São Cristóvão,False,False,second
-912,2000-08-16,Matonense,1,1,Olimpia,False,False,second
-913,2000-08-16,Friburguense,1,0,Ipatinga,False,False,second
-914,2000-08-20,Olimpia,2,5,Mogi Mirim,False,False,second
-915,2000-08-20,Ipatinga,3,2,São Cristóvão,False,False,second
-916,2000-08-20,União Agrícola,1,2,Matonense,False,False,second
-917,2000-08-23,Friburguense,0,0,União Agrícola,False,False,second
-918,2000-08-23,Matonense,2,0,Ipatinga,False,False,second
-919,2000-08-23,São Cristóvão,0,2,Olimpia,False,False,second
-920,2000-08-27,Mogi Mirim,1,1,Friburguense,False,False,second
-921,2000-08-27,Ipatinga,4,2,União Agrícola,False,False,second
-922,2000-08-27,São Cristóvão,0,0,Matonense,False,False,second
-923,2000-09-02,Friburguense,2,2,Mogi Mirim,False,False,second
-924,2000-09-02,União Agrícola,0,0,Ipatinga,False,False,second
-925,2000-09-03,Matonense,1,1,São Cristóvão,False,False,second
-926,2000-09-06,Olimpia,1,0,São Cristóvão,False,False,second
-927,2000-09-06,União Agrícola,3,1,Friburguense,False,False,second
-928,2000-09-06,Ipatinga,3,2,Matonense,False,False,second
-929,2000-09-10,Mogi Mirim,2,2,Olimpia,False,False,second
-930,2000-09-10,São Cristóvão,2,1,Ipatinga,False,False,second
-931,2000-09-10,Matonense,2,1,União Agrícola,False,False,second
-932,2000-09-13,Olimpia,1,0,Matonense,False,False,second
-933,2000-09-13,Ipatinga,0,1,Friburguense,False,False,second
-934,2000-09-13,São Cristóvão,1,0,Mogi Mirim,False,False,second
-935,2000-09-17,União Agrícola,2,3,São Cristóvão,False,False,second
-936,2000-09-17,Friburguense,0,0,Olimpia,False,False,second
-937,2000-09-17,Matonense,2,2,Mogi Mirim,False,False,second
-938,2000-09-20,Mogi Mirim,4,4,Ipatinga,False,False,second
-939,2000-09-20,Olimpia,3,1,União Agrícola,False,False,second
-940,2000-09-20,São Cristóvão,1,1,Friburguense,False,False,second
-941,2000-09-24,Ipatinga,0,3,Olimpia,False,False,second
-942,2000-09-24,Friburguense,2,1,Matonense,False,False,second
-943,2000-09-24,Mogi Mirim,2,0,União Agrícola,False,False,second
-944,2000-08-09,Internacional-SM,1,0,Olaria,False,False,second
-945,2000-08-09,Rio Branco-PR,2,1,Ituano,False,False,second
-946,2000-08-09,Santo André,2,2,Portuguesa-Santos,False,False,second
-947,2000-08-13,Portuguesa-Santos,5,0,Internacional-SM,False,False,second
-948,2000-08-13,Ituano,1,3,Santo André,False,False,second
-949,2000-08-13,Olaria,0,1,Rio Branco-PR,False,False,second
-950,2000-08-16,Rio Branco-PR,3,1,Portuguesa-Santos,False,False,second
-951,2000-08-16,Santo André,0,0,Olaria,False,False,second
-952,2000-08-30,Internacional-SM,0,2,Ituano,False,False,second
-953,2000-08-20,Olaria,1,1,Portuguesa-Santos,False,False,second
-954,2000-08-20,Rio Branco-PR,1,1,Santo André,False,False,second
-955,2000-08-23,Internacional-SM,1,4,Rio Branco-PR,False,False,second
-956,2000-08-23,Portuguesa-Santos,0,0,Ituano,False,False,second
-957,2000-08-27,Santo André,2,0,Internacional-SM,False,False,second
-958,2000-08-27,Ituano,1,0,Olaria,False,False,second
-959,2000-09-01,Olaria,3,1,Internacional-SM,False,False,second
-960,2000-09-02,Ituano,0,0,Rio Branco-PR,False,False,second
-961,2000-09-03,Portuguesa-Santos,3,0,Santo André,False,False,second
-962,2000-09-06,Internacional-SM,3,0,Santo André,False,False,second
-963,2000-09-06,Olaria,2,1,Ituano,False,False,second
-964,2000-09-10,Rio Branco-PR,0,0,Internacional-SM,False,False,second
-965,2000-09-10,Ituano,0,1,Portuguesa-Santos,False,False,second
-966,2000-09-13,Santo André,1,2,Rio Branco-PR,False,False,second
-967,2000-09-13,Portuguesa-Santos,2,1,Olaria,False,False,second
-968,2000-09-17,Santo André,2,0,Ituano,False,False,second
-969,2000-09-17,Rio Branco-PR,2,0,Olaria,False,False,second
-970,2000-09-17,Internacional-SM,1,1,Portuguesa-Santos,False,False,second
-971,2000-09-20,Portuguesa-Santos,3,1,Rio Branco-PR,False,False,second
-972,2000-09-20,Olaria,2,0,Santo André,False,False,second
-973,2000-09-20,Ituano,4,0,Internacional-SM,False,False,second
-974,2000-09-30,Rio Branco-SP,0,2,Malutrom,False,False,second
-975,2000-09-30,Friburguense,1,1,Santo André,False,False,second
-976,2000-10-04,Santo André,0,2,Rio Branco-SP,False,False,second
-977,2000-10-05,Malutrom,2,0,Friburguense,False,False,second
-978,2000-10-07,Santo André,1,1,Malutrom,False,False,second
-979,2000-10-07,Rio Branco-SP,1,3,Friburguense,False,False,second
-980,2000-10-11,Malutrom,4,2,Santo André,False,False,second
-981,2000-10-11,Friburguense,0,1,Rio Branco-SP,False,False,second
-982,2000-10-15,Rio Branco-SP,4,0,Santo André,False,False,second
-983,2000-10-15,Friburguense,0,0,Malutrom,False,False,second
-984,2000-10-18,Santo André,1,1,Friburguense,False,False,second
-985,2000-10-18,Malutrom,1,0,Rio Branco-SP,False,False,second
-986,2000-09-30,Etti Jundiaí,1,2,CA Juventus,False,False,second
-987,2000-09-30,Portuguesa-Santos,2,1,Matonense,False,False,second
-988,2000-10-04,CA Juventus,2,2,Portuguesa-Santos,False,False,second
-989,2000-10-04,Matonense,1,1,Etti Jundiaí,False,False,second
-990,2000-10-07,Etti Jundiaí,2,0,Portuguesa-Santos,False,False,second
-991,2000-10-07,Matonense,2,1,CA Juventus,False,False,second
-992,2000-10-11,CA Juventus,3,0,Matonense,False,False,second
-993,2000-10-11,Portuguesa-Santos,1,2,Etti Jundiaí,False,False,second
-994,2000-10-15,Etti Jundiaí,7,0,Matonense,False,False,second
-995,2000-10-15,Portuguesa-Santos,2,0,CA Juventus,False,False,second
-996,2000-10-18,CA Juventus,5,0,Etti Jundiaí,False,False,second
-997,2000-10-18,Matonense,0,0,Portuguesa-Santos,False,False,second
-998,2000-09-30,Olimpia,2,0,Rio Branco-PR,False,False,second
-999,2000-09-30,Uberlândia,1,0,União Bandeirante,False,False,second
-1000,2000-10-04,Rio Branco-PR,3,2,Uberlândia,False,False,second
-1001,2000-10-04,União Bandeirante,0,1,Olimpia,False,False,second
-1002,2000-10-07,Olimpia,1,1,Uberlândia,False,False,second
-1003,2000-10-07,União Bandeirante,0,1,Rio Branco-PR,False,False,second
-1004,2000-10-11,Uberlândia,3,0,Olimpia,False,False,second
-1005,2000-10-11,Rio Branco-PR,2,1,União Bandeirante,False,False,second
-1006,2000-10-15,Olimpia,3,1,União Bandeirante,False,False,second
-1007,2000-10-15,Uberlândia,0,0,Rio Branco-PR,False,False,second
-1008,2000-10-18,União Bandeirante,3,4,Uberlândia,False,False,second
-1009,2000-10-18,Rio Branco-PR,0,0,Olimpia,False,False,second
-1010,2000-10-22,Juazeiro,1,1,Uberlândia,False,False,third
-1011,2000-10-23,Central,0,0,Olimpia,False,False,third
-1012,2000-10-25,Uberlândia,5,0,Central,False,False,third
-1013,2000-10-26,Olimpia,1,0,Juazeiro,False,False,third
-1014,2000-10-29,Juazeiro,1,1,Central,False,False,third
-1015,2000-10-29,Olimpia,1,1,Uberlândia,False,False,third
-1016,2000-11-01,Uberlândia,2,1,Olimpia,False,False,third
-1017,2000-11-01,Central,1,2,Juazeiro,False,False,third
-1018,2000-11-05,Juazeiro,1,0,Olimpia,False,False,third
-1019,2000-11-05,Central,0,1,Uberlândia,False,False,third
-1020,2000-11-08,Uberlândia,0,1,Juazeiro,False,False,third
-1021,2000-11-08,Olimpia,5,1,Central,False,False,third
-1022,2000-10-22,Moto Clube,2,2,Malutrom,False,False,third
-1023,2000-11-04,Etti Jundiaí,4,0,Tuna Luso,False,False,third
-1024,2000-10-25,Tuna Luso,1,0,Moto Clube,False,False,third
-1025,2000-11-13,Etti Jundiaí,1,2,Malutrom,False,False,third
-1026,2000-10-28,Tuna Luso,3,1,Malutrom,False,False,third
-1027,2000-10-29,Moto Clube,1,1,Etti Jundiaí,False,False,third
-1028,2000-11-01,Etti Jundiaí,7,0,Moto Clube,False,False,third
-1029,2000-11-01,Malutrom,2,1,Tuna Luso,False,False,third
-1030,2000-11-07,Malutrom,1,1,Etti Jundiaí,False,False,third
-1031,2000-11-07,Moto Clube,3,2,Tuna Luso,False,False,third
-1032,2000-11-11,Malutrom,4,3,Moto Clube,False,False,third
-1033,2000-11-11,Tuna Luso,2,1,Etti Jundiaí,False,False,third
-1034,2000-11-11,Uberlândia,1,1,Malutrom,False,False,third
-1035,2000-11-11,Malutrom,3,2,Uberlândia,False,False,third
-1036,2000-11-11,Paraná,1,1,Goiás,False,False,third
-1037,2000-11-11,Goiás,0,3,Paraná,False,False,third
-1038,2000-11-11,Internacional-RS,0,0,Atlético-PR,False,False,third
-1039,2000-11-11,Atlético-PR,1,2,Internacional-RS,False,False,third
-1040,2000-11-11,Remo,1,2,Sport,False,False,third
-1041,2000-11-11,Sport,1,0,Remo,False,False,third
-1042,2000-11-11,Malutrom,0,3,Cruzeiro,False,False,third
-1043,2000-11-11,Cruzeiro,1,1,Malutrom,False,False,third
-1044,2000-11-11,São Caetano,3,3,Fluminense,False,False,third
-1045,2000-11-11,Fluminense,0,1,São Caetano,False,False,third
-1046,2000-11-11,Grêmio,1,0,Ponte Preta-SP,False,False,third
-1047,2000-11-11,Ponte Preta-SP,2,1,Grêmio,False,False,third
-1048,2000-11-11,Bahia,3,3,Vasco da Gama,False,False,third
-1049,2000-11-11,Vasco da Gama,3,2,Bahia,False,False,third
-1050,2000-11-11,Palmeiras,1,1,São Paulo,False,False,third
-1051,2000-11-11,São Paulo,1,2,Palmeiras,False,False,third
-1052,2000-11-11,Internacional,1,1,Cruzeiro,False,False,quarter
-1053,2000-11-11,Cruzeiro,3,2,Internacional,False,False,quarter
-1054,2000-11-11,Grêmio,2,1,Sport,False,False,quarter
-1055,2000-11-11,Sport,1,1,Grêmio,False,False,quarter
-1056,2000-11-11,Vasco da Gama,3,1,Paraná,False,False,quarter
-1057,2000-11-11,Paraná,1,0,Vasco da Gama,False,False,quarter
-1058,2000-11-11,Palmeiras,3,4,São Caetano,False,False,quarter
-1059,2000-11-11,São Caetano,2,2,Palmeiras,False,False,quarter
-1060,2000-11-11,São Caetano,3,2,Grêmio,False,False,semi
-1061,2000-11-11,Grêmio,1,3,São Caetano,False,False,semi
-1062,2000-11-11,Vasco da Gama,2,2,Cruzeiro,False,False,semi
-1063,2000-11-11,Cruzeiro,1,3,Vasco da Gama,False,False,semi
-1064,2000-11-11,São Caetano,1,1,Vasco da Gama,False,False,final
-1065,2000-11-11,Vasco da Gama,0,0,São Caetano,False,False,final
-1066,2001-01-18,Vasco da Gama,3,1,São Caetano,False,False,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2000-07-29,Vitória,4,1,Palmeiras,False,False,first
+2000-07-29,Vasco da Gama,0,2,Sport,False,False,first
+2000-07-29,Fluminense,2,0,Bahia,False,False,first
+2000-07-30,Goiás,3,0,Corinthians,False,False,first
+2000-07-30,Juventude,1,1,Flamengo,False,False,first
+2000-07-30,Guarani,0,0,Santa Cruz,False,False,first
+2000-07-30,Botafogo,0,0,Atlético-MG,False,False,first
+2000-07-30,América-MG,0,1,Gama,False,False,first
+2000-07-30,Cruzeiro,0,2,Atlético-PR,False,False,first
+2000-08-02,Flamengo,3,0,Grêmio,False,False,first
+2000-08-02,Gama,2,1,Fluminense,False,False,first
+2000-08-02,Santos,2,0,Vitória,False,False,first
+2000-08-02,Ponte Preta-SP,3,1,América-MG,False,False,first
+2000-08-02,Internacional,0,1,Goiás,False,False,first
+2000-08-02,Bahia,2,1,Atlético-PR,False,False,first
+2000-08-02,Coritiba,0,0,Sport,False,False,first
+2000-08-03,Palmeiras,0,0,Botafogo,False,False,first
+2000-08-05,Fluminense,2,1,Santos,False,False,first
+2000-08-05,Atlético-PR,1,1,Flamengo,False,False,first
+2000-08-05,Corinthians,4,2,Gama,False,False,first
+2000-08-06,Grêmio,0,1,Palmeiras,False,False,first
+2000-08-06,Coritiba,0,2,Botafogo,False,False,first
+2000-08-06,São Paulo,2,1,Santa Cruz,False,False,first
+2000-08-06,Portuguesa-SP,0,2,Goiás,False,False,first
+2000-08-06,Atlético-MG,0,0,Bahia,False,False,first
+2000-08-06,Juventude,1,1,Ponte Preta-SP,False,False,first
+2000-08-06,Vasco da Gama,3,3,Cruzeiro,False,False,first
+2000-08-08,Gama,0,1,Atlético-PR,False,False,first
+2000-08-09,Internacional,1,1,Fluminense,False,False,first
+2000-08-09,Santos,1,1,São Paulo,False,False,first
+2000-08-09,Flamengo,1,1,Guarani,False,False,first
+2000-08-09,Botafogo,4,1,Portuguesa-SP,False,False,first
+2000-08-09,Santa Cruz,2,1,Vitória,False,False,first
+2000-08-09,Bahia,1,1,Grêmio,False,False,first
+2000-08-09,Goiás,1,0,Coritiba,False,False,first
+2000-08-11,Palmeiras,1,1,Goiás,False,False,first
+2000-08-11,Vasco da Gama,1,0,Corinthians,False,False,first
+2000-08-11,Atlético-PR,2,1,Atlético-MG,False,False,first
+2000-08-12,Grêmio,0,2,Santos,False,False,first
+2000-08-12,Coritiba,0,1,Gama,False,False,first
+2000-08-12,São Paulo,3,2,Flamengo,False,False,first
+2000-08-13,Atlético-PR,0,0,Palmeiras,False,False,first
+2000-08-13,Guarani,0,1,Vasco da Gama,False,False,first
+2000-08-13,Corinthians,2,0,Santa Cruz,False,False,first
+2000-08-13,Portuguesa-SP,2,0,Juventude,False,False,first
+2000-08-13,Botafogo,0,1,Internacional,False,False,first
+2000-08-13,Sport,1,1,Cruzeiro,False,False,first
+2000-08-13,Goiás,4,5,Vitória,False,False,first
+2000-08-16,Cruzeiro,2,2,São Paulo,False,False,first
+2000-08-16,Santa Cruz,1,1,Vasco da Gama,False,False,first
+2000-08-16,Santos,3,0,América-MG,False,False,first
+2000-08-16,Fluminense,0,0,Guarani,False,False,first
+2000-08-16,Internacional,1,1,Atlético-MG,False,False,first
+2000-08-16,Vitória,2,0,Portuguesa-SP,False,False,first
+2000-08-16,Goiás,3,2,Botafogo,False,False,first
+2000-08-16,Gama,0,1,Bahia,False,False,first
+2000-08-16,Palmeiras,0,1,Corinthians,False,False,first
+2000-08-17,Flamengo,2,1,Coritiba,False,False,first
+2000-08-19,Atlético-MG,1,0,Santos,False,False,first
+2000-08-19,América-MG,1,1,Fluminense,False,False,first
+2000-08-19,Gama,1,1,Goiás,False,False,first
+2000-08-19,Palmeiras,1,4,Internacional,False,False,first
+2000-08-19,Guarani,0,1,Cruzeiro,False,False,first
+2000-08-20,Botafogo,1,1,Corinthians,False,False,first
+2000-08-20,Santa Cruz,2,2,Flamengo,False,False,first
+2000-08-20,Vasco da Gama,2,1,Ponte Preta-SP,False,False,first
+2000-08-20,Juventude,1,1,Sport,False,False,first
+2000-08-20,Atlético-PR,1,3,Coritiba,False,False,first
+2000-08-20,São Paulo,1,1,Bahia,False,False,first
+2000-08-23,Vitória,2,4,Fluminense,False,False,first
+2000-08-23,Ponte Preta-SP,3,0,Gama,False,False,first
+2000-08-23,Internacional,0,0,Guarani,False,False,first
+2000-08-23,América-MG,0,0,Atlético-PR,False,False,first
+2000-08-23,Bahia,1,3,Cruzeiro,False,False,first
+2000-08-23,Goiás,1,1,Santa Cruz,False,False,first
+2000-08-23,Juventude,1,1,Santos,False,False,first
+2000-08-26,Fluminense,2,0,Juventude,False,False,first
+2000-08-26,Cruzeiro,3,1,Vitória,False,False,first
+2000-08-26,Atlético-PR,2,1,São Paulo,False,False,first
+2000-08-26,Guarani,1,2,Botafogo,False,False,first
+2000-08-27,Ponte Preta-SP,3,2,Atlético-MG,False,False,first
+2000-08-27,Corinthians,1,2,Grêmio,False,False,first
+2000-08-27,Internacional,1,1,Coritiba,False,False,first
+2000-08-27,Sport,2,0,Goiás,False,False,first
+2000-08-27,Santos,2,3,Palmeiras,False,False,first
+2000-08-27,Portuguesa-SP,2,2,Vasco da Gama,False,False,first
+2000-08-27,Bahia,3,2,Santa Cruz,False,False,first
+2000-08-30,Corinthians,0,3,Santos,False,False,first
+2000-08-30,Guarani,1,2,Juventude,False,False,first
+2000-08-30,Portuguesa-SP,3,1,Gama,False,False,first
+2000-08-30,Vitória,3,0,Internacional,False,False,first
+2000-08-30,Botafogo,0,2,Atlético-PR,False,False,first
+2000-09-02,Atlético-MG,1,2,Flamengo,False,False,first
+2000-09-02,Coritiba,1,1,Bahia,False,False,first
+2000-09-02,Gama,0,1,Internacional,False,False,first
+2000-09-02,Santos,1,1,Cruzeiro,False,False,first
+2000-09-02,Vitória,4,3,Sport,False,False,first
+2000-09-02,América-MG,1,0,Guarani,False,False,first
+2000-09-02,Fluminense,1,0,Botafogo,False,False,first
+2000-09-02,Grêmio,2,2,Ponte Preta-SP,False,False,first
+2000-09-02,Palmeiras,0,3,São Paulo,False,False,first
+2000-09-02,Santa Cruz,0,0,Portuguesa-SP,False,False,first
+2000-09-05,Vasco da Gama,2,2,Atlético-PR,False,False,first
+2000-09-05,Cruzeiro,1,1,Internacional,False,False,first
+2000-09-06,América-MG,5,2,Botafogo,False,False,first
+2000-09-06,Juventude,2,1,Coritiba,False,False,first
+2000-09-06,Fluminense,2,1,Portuguesa-SP,False,False,first
+2000-09-06,Gama,1,1,Santa Cruz,False,False,first
+2000-09-07,Atlético-MG,3,1,Corinthians,False,False,first
+2000-09-07,Ponte Preta-SP,2,1,Vitória,False,False,first
+2000-09-07,Grêmio,1,0,Sport,False,False,first
+2000-09-09,São Paulo,2,0,Fluminense,False,False,first
+2000-09-09,Santa Cruz,0,1,Santos,False,False,first
+2000-09-09,Goiás,2,0,América-MG,False,False,first
+2000-09-09,Sport,1,1,Guarani,False,False,first
+2000-09-10,Flamengo,0,0,Palmeiras,False,False,first
+2000-09-10,Corinthians,1,1,Vitória,False,False,first
+2000-09-10,Cruzeiro,2,1,Gama,False,False,first
+2000-09-10,Coritiba,2,0,Ponte Preta-SP,False,False,first
+2000-09-10,Bahia,3,1,Vasco da Gama,False,False,first
+2000-09-10,Portuguesa-SP,2,1,Atlético-MG,False,False,first
+2000-09-10,Juventude,4,3,Grêmio,False,False,first
+2000-09-13,Ponte Preta-SP,3,3,São Paulo,False,False,first
+2000-09-13,Sport,4,1,Atlético-PR,False,False,first
+2000-09-13,Gama,2,0,Palmeiras,False,False,first
+2000-09-13,Vasco da Gama,4,3,Fluminense,False,False,first
+2000-09-13,Cruzeiro,4,0,Botafogo,False,False,first
+2000-09-13,Portuguesa-SP,3,1,Bahia,False,False,first
+2000-09-13,Vitória,3,1,Coritiba,False,False,first
+2000-09-14,Grêmio,2,1,América-MG,False,False,first
+2000-09-14,Flamengo,3,1,Goiás,False,False,first
+2000-09-16,Internacional,1,1,Santos,False,False,first
+2000-09-16,Atlético-MG,2,2,Fluminense,False,False,first
+2000-09-16,Vitória,1,1,Gama,False,False,first
+2000-09-16,Atlético-PR,0,1,Juventude,False,False,first
+2000-09-16,Botafogo,3,1,Ponte Preta-SP,False,False,first
+2000-09-17,Guarani,0,0,Goiás,False,False,first
+2000-09-17,Bahia,4,1,Flamengo,False,False,first
+2000-09-17,Palmeiras,1,1,Sport,False,False,first
+2000-09-17,Coritiba,1,1,Corinthians,False,False,first
+2000-09-17,América-MG,1,0,Santa Cruz,False,False,first
+2000-09-17,São Paulo,2,0,Portuguesa-SP,False,False,first
+2000-09-17,Grêmio,0,0,Cruzeiro,False,False,first
+2000-09-20,Santos,2,1,Atlético-PR,False,False,first
+2000-09-20,Juventude,0,2,Gama,False,False,first
+2000-09-20,Vasco da Gama,4,0,América-MG,False,False,first
+2000-09-20,Ponte Preta-SP,3,1,Portuguesa-SP,False,False,first
+2000-09-20,Sport,3,0,Bahia,False,False,first
+2000-09-23,Flamengo,3,0,Santos,False,False,first
+2000-09-23,Guarani,2,0,Coritiba,False,False,first
+2000-09-23,Grêmio,1,0,Vitória,False,False,first
+2000-09-23,América-MG,1,1,Internacional,False,False,first
+2000-09-24,Fluminense,0,1,Palmeiras,False,False,first
+2000-09-24,Gama,1,3,São Paulo,False,False,first
+2000-09-24,Goiás,2,0,Cruzeiro,False,False,first
+2000-09-24,Corinthians,1,0,Ponte Preta-SP,False,False,first
+2000-09-24,Santa Cruz,1,2,Atlético-MG,False,False,first
+2000-09-24,Portuguesa-SP,1,0,Sport,False,False,first
+2000-09-24,Juventude,1,2,Vasco da Gama,False,False,first
+2000-09-27,São Paulo,3,0,América-MG,False,False,first
+2000-09-27,Portuguesa-SP,2,3,Guarani,False,False,first
+2000-09-27,Ponte Preta-SP,3,0,Sport,False,False,first
+2000-09-27,Botafogo,0,0,Vitória,False,False,first
+2000-09-27,Santa Cruz,2,1,Juventude,False,False,first
+2000-09-28,Corinthians,2,3,Atlético-PR,False,False,first
+2000-09-30,Gama,2,4,Flamengo,False,False,first
+2000-09-30,Goiás,2,2,São Paulo,False,False,first
+2000-09-30,América-MG,3,0,Juventude,False,False,first
+2000-09-30,Coritiba,1,2,Grêmio,False,False,first
+2000-09-30,Sport,3,2,Fluminense,False,False,first
+2000-09-30,Atlético-MG,2,4,Cruzeiro,False,False,first
+2000-10-04,Palmeiras,2,1,Coritiba,False,False,first
+2000-10-04,Vasco da Gama,4,0,Atlético-MG,False,False,first
+2000-10-04,São Paulo,1,1,Grêmio,False,False,first
+2000-10-04,Botafogo,2,1,Juventude,False,False,first
+2000-10-04,América-MG,1,1,Portuguesa-SP,False,False,first
+2000-10-04,Santa Cruz,0,3,Sport,False,False,first
+2000-10-04,Atlético-PR,0,1,Guarani,False,False,first
+2000-10-04,Gama,2,1,Santos,False,False,first
+2000-10-04,Bahia,1,0,Vitória,False,False,first
+2000-10-04,Ponte Preta-SP,2,0,Flamengo,False,False,first
+2000-10-07,Vitória,5,1,São Paulo,False,False,first
+2000-10-07,Sport,3,0,Gama,False,False,first
+2000-10-07,Juventude,0,1,Palmeiras,False,False,first
+2000-10-07,Santos,3,3,Ponte Preta-SP,False,False,first
+2000-10-07,Guarani,2,2,Bahia,False,False,first
+2000-10-07,Atlético-PR,4,0,Santa Cruz,False,False,first
+2000-10-07,Internacional,1,2,Grêmio,False,False,first
+2000-10-07,América-MG,1,1,Cruzeiro,False,False,first
+2000-10-07,Botafogo,3,1,Flamengo,False,False,first
+2000-10-07,Corinthians,2,3,Portuguesa-SP,False,False,first
+2000-10-07,Atlético-MG,2,1,Goiás,False,False,first
+2000-10-10,Cruzeiro,3,0,Santa Cruz,False,False,first
+2000-10-11,São Paulo,3,2,Coritiba,False,False,first
+2000-10-11,Ponte Preta-SP,0,1,Atlético-PR,False,False,first
+2000-10-11,Fluminense,1,0,Grêmio,False,False,first
+2000-10-11,Atlético-MG,3,0,Guarani,False,False,first
+2000-10-11,Palmeiras,0,0,América-MG,False,False,first
+2000-10-11,Portuguesa-SP,3,2,Internacional,False,False,first
+2000-10-11,Bahia,2,1,Corinthians,False,False,first
+2000-10-11,Vasco da Gama,2,2,Vitória,False,False,first
+2000-10-12,Cruzeiro,2,1,Juventude,False,False,first
+2000-10-14,Santos,1,1,Vasco da Gama,False,False,first
+2000-10-14,Palmeiras,3,2,Atlético-MG,False,False,first
+2000-10-14,Flamengo,1,2,Sport,False,False,first
+2000-10-14,Internacional,3,2,Bahia,False,False,first
+2000-10-15,Grêmio,2,2,Portuguesa-SP,False,False,first
+2000-10-15,Juventude,1,2,Goiás,False,False,first
+2000-10-15,Santa Cruz,1,1,Coritiba,False,False,first
+2000-10-15,Botafogo,1,0,São Paulo,False,False,first
+2000-10-15,Guarani,3,2,Corinthians,False,False,first
+2000-10-15,Fluminense,2,1,Cruzeiro,False,False,first
+2000-10-17,São Paulo,1,1,Internacional,False,False,first
+2000-10-18,Guarani,3,2,Grêmio,False,False,first
+2000-10-18,Flamengo,1,2,América-MG,False,False,first
+2000-10-18,Palmeiras,0,1,Cruzeiro,False,False,first
+2000-10-18,Atlético-PR,1,0,Fluminense,False,False,first
+2000-10-18,Botafogo,2,0,Gama,False,False,first
+2000-10-19,Atlético-MG,2,1,Coritiba,False,False,first
+2000-10-21,Goiás,3,1,Santos,False,False,first
+2000-10-21,Portuguesa-SP,2,1,Flamengo,False,False,first
+2000-10-21,Vasco da Gama,1,0,Gama,False,False,first
+2000-10-21,Internacional,4,0,Santa Cruz,False,False,first
+2000-10-22,Ponte Preta-SP,5,1,Palmeiras,False,False,first
+2000-10-22,Corinthians,1,3,Fluminense,False,False,first
+2000-10-22,Vitória,0,1,Juventude,False,False,first
+2000-10-22,São Paulo,2,2,Guarani,False,False,first
+2000-10-22,Coritiba,3,2,América-MG,False,False,first
+2000-10-22,Atlético-MG,2,2,Grêmio,False,False,first
+2000-10-22,Sport,2,2,Botafogo,False,False,first
+2000-10-24,Vasco da Gama,2,1,Goiás,False,False,first
+2000-10-25,Gama,0,0,Atlético-MG,False,False,first
+2000-10-25,Bahia,1,2,Ponte Preta-SP,False,False,first
+2000-10-25,Fluminense,6,1,Santa Cruz,False,False,first
+2000-10-25,Sport,3,1,Corinthians,False,False,first
+2000-10-25,Grêmio,2,1,Botafogo,False,False,first
+2000-10-27,Flamengo,4,0,Vasco da Gama,False,False,first
+2000-10-28,América-MG,2,3,Vitória,False,False,first
+2000-10-28,Grêmio,4,1,Gama,False,False,first
+2000-10-28,São Paulo,2,1,Atlético-MG,False,False,first
+2000-10-28,Santa Cruz,1,5,Palmeiras,False,False,first
+2000-10-28,Santos,0,1,Bahia,False,False,first
+2000-10-28,Cruzeiro,5,1,Portuguesa-SP,False,False,first
+2000-10-28,Sport,0,1,Internacional,False,False,first
+2000-11-01,Internacional,1,0,Corinthians,False,False,first
+2000-11-02,Guarani,2,1,Ponte Preta-SP,False,False,first
+2000-11-03,Coritiba,0,1,Vasco da Gama,False,False,first
+2000-11-04,Bahia,2,0,Botafogo,False,False,first
+2000-11-04,Cruzeiro,3,1,Corinthians,False,False,first
+2000-11-04,Atlético-PR,3,1,Vitória,False,False,first
+2000-11-04,Goiás,2,2,Grêmio,False,False,first
+2000-11-04,Atlético-MG,0,1,América-MG,False,False,first
+2000-11-05,Internacional,2,0,Vasco da Gama,False,False,first
+2000-11-05,Juventude,3,1,São Paulo,False,False,first
+2000-11-05,Santa Cruz,0,3,Ponte Preta-SP,False,False,first
+2000-11-05,Fluminense,1,1,Flamengo,False,False,first
+2000-11-05,Coritiba,2,1,Santos,False,False,first
+2000-11-05,Portuguesa-SP,1,1,Palmeiras,False,False,first
+2000-11-08,Ponte Preta-SP,3,1,Internacional,False,False,first
+2000-11-08,Bahia,2,1,América-MG,False,False,first
+2000-11-08,Atlético-PR,1,1,Goiás,False,False,first
+2000-11-08,Santos,2,0,Portuguesa-SP,False,False,first
+2000-11-08,Sport,4,3,São Paulo,False,False,first
+2000-11-09,Vitória,1,2,Guarani,False,False,first
+2000-11-09,Corinthians,1,2,Juventude,False,False,first
+2000-11-10,Palmeiras,3,0,Vasco da Gama,False,False,first
+2000-11-11,Goiás,3,3,Fluminense,False,False,first
+2000-11-11,Santos,3,1,Sport,False,False,first
+2000-11-11,Coritiba,3,1,Portuguesa-SP,False,False,first
+2000-11-11,Atlético-MG,3,2,Juventude,False,False,first
+2000-11-11,Grêmio,3,0,Atlético-PR,False,False,first
+2000-11-12,Internacional,3,0,Flamengo,False,False,first
+2000-11-12,Bahia,1,2,Palmeiras,False,False,first
+2000-11-12,São Paulo,0,0,Corinthians,False,False,first
+2000-11-12,Vasco da Gama,1,2,Botafogo,False,False,first
+2000-11-12,Cruzeiro,2,2,Ponte Preta-SP,False,False,first
+2000-11-12,Gama,1,2,Guarani,False,False,first
+2000-11-14,Flamengo,1,2,Cruzeiro,False,False,first
+2000-11-15,Juventude,0,0,Bahia,False,False,first
+2000-11-16,Corinthians,1,4,Flamengo,False,False,first
+2000-11-16,Guarani,3,2,Santos,False,False,first
+2000-11-16,Grêmio,0,1,Vasco da Gama,False,False,first
+2000-11-16,Botafogo,1,2,Santa Cruz,False,False,first
+2000-11-16,Fluminense,2,0,Coritiba,False,False,first
+2000-11-16,Sport,1,0,América-MG,False,False,first
+2000-11-16,Atlético-PR,2,1,Internacional,False,False,first
+2000-11-16,Goiás,3,0,Ponte Preta-SP,False,False,first
+2000-11-16,Vitória,2,0,Atlético-MG,False,False,first
+2000-11-19,Santos,4,1,Botafogo,False,False,first
+2000-11-19,Palmeiras,2,0,Guarani,False,False,first
+2000-11-19,Portuguesa-SP,2,1,Atlético-PR,False,False,first
+2000-11-19,Flamengo,3,2,Vitória,False,False,first
+2000-11-19,Internacional,2,1,Juventude,False,False,first
+2000-11-19,Atlético-MG,0,6,Sport,False,False,first
+2000-11-19,Santa Cruz,0,3,Grêmio,False,False,first
+2000-11-19,Bahia,0,1,Goiás,False,False,first
+2000-11-19,Coritiba,1,1,Cruzeiro,False,False,first
+2000-11-19,Vasco da Gama,0,4,São Paulo,False,False,first
+2000-11-19,Ponte Preta-SP,3,4,Fluminense,False,False,first
+2000-11-19,América-MG,2,1,Corinthians,False,False,first
+2000-08-08,Botafogo-SP,1,1,União São João,False,False,first
+2000-08-08,São Caetano,3,1,Figueirense,False,False,first
+2000-08-08,Bangu,0,1,América-RJ,False,False,first
+2000-08-09,XV de Novembro,1,1,Bragantino,False,False,first
+2000-08-09,Paraná,1,0,Marcílio Dias,False,False,first
+2000-08-09,Joinville,0,0,Villa Nova-MG,False,False,first
+2000-08-09,Criciúma,2,0,Londrina,False,False,first
+2000-08-09,Caxias,1,1,Americano,False,False,first
+2000-08-09,GE Brasil,0,2,Avaí,False,False,first
+2000-08-11,América-RJ,1,0,Botafogo-SP,False,False,first
+2000-08-13,Londrina,0,3,XV de Novembro,False,False,first
+2000-08-13,Figueirense,3,0,Joinville,False,False,first
+2000-08-13,Avaí,2,0,Criciúma,False,False,first
+2000-08-13,Marcílio Dias,1,0,GE Brasil,False,False,first
+2000-08-13,Villa Nova-MG,1,2,Caxias,False,False,first
+2000-08-13,Americano,1,1,São Caetano,False,False,first
+2000-08-13,União São João,0,0,Paraná,False,False,first
+2000-08-14,Bragantino,1,2,Bangu,False,False,first
+2000-08-16,Paraná,1,0,Americano,False,False,first
+2000-08-16,Joinville,1,1,Londrina,False,False,first
+2000-08-16,Botafogo-SP,0,0,Figueirense,False,False,first
+2000-08-16,GE Brasil,1,1,União São João,False,False,first
+2000-08-16,XV de Novembro,1,0,Villa Nova-MG,False,False,first
+2000-08-16,São Caetano,2,1,Marcílio Dias,False,False,first
+2000-08-16,América-RJ,2,1,Avaí,False,False,first
+2000-08-17,Bangu,3,0,Criciúma,False,False,first
+2000-08-17,Caxias,1,1,Bragantino,False,False,first
+2000-08-20,Villa Nova-MG,1,0,Paraná,False,False,first
+2000-08-20,Criciúma,1,3,São Caetano,False,False,first
+2000-08-20,Figueirense,1,0,XV de Novembro,False,False,first
+2000-08-20,Bragantino,2,2,GE Brasil,False,False,first
+2000-08-20,Botafogo-SP,0,0,Avaí,False,False,first
+2000-08-20,Americano,2,1,Bangu,False,False,first
+2000-08-20,Londrina,0,0,América-RJ,False,False,first
+2000-08-20,Marcílio Dias,1,1,Joinville,False,False,first
+2000-08-21,União São João,0,0,Caxias,False,False,first
+2000-08-23,São Caetano,5,3,Villa Nova-MG,False,False,first
+2000-08-23,América-RJ,1,1,Bragantino,False,False,first
+2000-08-23,XV de Novembro,3,1,Criciúma,False,False,first
+2000-08-23,Paraná,3,0,Londrina,False,False,first
+2000-08-23,Joinville,3,0,Americano,False,False,first
+2000-08-23,Avaí,2,2,Bangu,False,False,first
+2000-08-24,Caxias,1,1,Botafogo-SP,False,False,first
+2000-08-24,Marcílio Dias,0,2,União São João,False,False,first
+2000-08-26,Criciúma,1,0,Paraná,False,False,first
+2000-08-27,São Caetano,4,3,Avaí,False,False,first
+2000-08-27,Botafogo-SP,3,1,GE Brasil,False,False,first
+2000-08-27,União São João,2,2,XV de Novembro,False,False,first
+2000-08-27,Bragantino,2,1,Londrina,False,False,first
+2000-08-27,Figueirense,3,2,Caxias,False,False,first
+2000-08-27,Marcílio Dias,1,2,Americano,False,False,first
+2000-08-27,Bangu,1,0,Joinville,False,False,first
+2000-08-27,Villa Nova-MG,2,1,América-RJ,False,False,first
+2000-08-30,XV de Novembro,0,1,Avaí,False,False,first
+2000-08-30,Paraná,2,1,Botafogo-SP,False,False,first
+2000-08-30,América-RJ,0,0,Criciúma,False,False,first
+2000-08-30,Americano,2,0,Villa Nova-MG,False,False,first
+2000-08-30,Caxias,2,4,São Caetano,False,False,first
+2000-08-30,Figueirense,3,1,Marcílio Dias,False,False,first
+2000-08-30,Joinville,0,0,Bragantino,False,False,first
+2000-08-30,Londrina,1,1,União São João,False,False,first
+2000-08-30,GE Brasil,4,1,Bangu,False,False,first
+2000-09-02,XV de Novembro,2,3,Caxias,False,False,first
+2000-09-02,Bangu,1,1,São Caetano,False,False,first
+2000-09-02,Bragantino,0,0,Marcílio Dias,False,False,first
+2000-09-02,Villa Nova-MG,0,0,Figueirense,False,False,first
+2000-09-02,Criciúma,2,1,Joinville,False,False,first
+2000-09-02,Paraná,2,0,GE Brasil,False,False,first
+2000-09-02,Avaí,1,1,Americano,False,False,first
+2000-09-02,União São João,1,1,América-RJ,False,False,first
+2000-09-03,Botafogo-SP,5,0,Londrina,False,False,first
+2000-09-06,São Caetano,1,0,Botafogo-SP,False,False,first
+2000-09-06,Joinville,3,0,Paraná,False,False,first
+2000-09-06,Figueirense,3,0,União São João,False,False,first
+2000-09-06,Americano,1,1,América-RJ,False,False,first
+2000-09-06,Londrina,1,0,Bangu,False,False,first
+2000-09-06,Bragantino,1,1,Villa Nova-MG,False,False,first
+2000-09-06,GE Brasil,0,0,XV de Novembro,False,False,first
+2000-09-06,Marcílio Dias,2,2,Avaí,False,False,first
+2000-09-10,Americano,2,1,Londrina,False,False,first
+2000-09-10,Bangu,0,0,Paraná,False,False,first
+2000-09-10,Criciúma,1,1,Bragantino,False,False,first
+2000-09-10,Botafogo-SP,5,2,Marcílio Dias,False,False,first
+2000-09-10,XV de Novembro,1,0,Joinville,False,False,first
+2000-09-10,União São João,4,3,Villa Nova-MG,False,False,first
+2000-09-10,São Caetano,3,0,GE Brasil,False,False,first
+2000-09-10,Avaí,1,1,Figueirense,False,False,first
+2000-09-11,América-RJ,2,3,Caxias,False,False,first
+2000-09-13,Paraná,0,0,São Caetano,False,False,first
+2000-09-13,Botafogo-SP,3,0,Bangu,False,False,first
+2000-09-13,Marcílio Dias,2,1,XV de Novembro,False,False,first
+2000-09-13,Bragantino,0,0,Americano,False,False,first
+2000-09-13,Londrina,0,1,Figueirense,False,False,first
+2000-09-13,Avaí,1,1,União São João,False,False,first
+2000-09-13,Villa Nova-MG,1,1,Criciúma,False,False,first
+2000-09-14,Joinville,2,2,Caxias,False,False,first
+2000-09-14,GE Brasil,2,1,América-RJ,False,False,first
+2000-09-17,GE Brasil,3,1,Villa Nova-MG,False,False,first
+2000-09-17,Caxias,3,1,Londrina,False,False,first
+2000-09-17,XV de Novembro,1,2,Paraná,False,False,first
+2000-09-17,São Caetano,1,1,União São João,False,False,first
+2000-09-17,Americano,1,1,Figueirense,False,False,first
+2000-09-17,Marcílio Dias,0,0,Bangu,False,False,first
+2000-09-17,América-RJ,3,1,Joinville,False,False,first
+2000-09-17,Criciúma,2,1,Botafogo-SP,False,False,first
+2000-09-17,Avaí,1,1,Bragantino,False,False,first
+2000-09-20,União São João,4,2,Bragantino,False,False,first
+2000-09-20,Joinville,2,0,Botafogo-SP,False,False,first
+2000-09-20,São Caetano,5,0,XV de Novembro,False,False,first
+2000-09-20,Villa Nova-MG,0,0,Marcílio Dias,False,False,first
+2000-09-20,Figueirense,2,0,América-RJ,False,False,first
+2000-09-20,Bangu,3,2,Caxias,False,False,first
+2000-09-20,Londrina,2,1,GE Brasil,False,False,first
+2000-09-20,Criciúma,3,0,Americano,False,False,first
+2000-09-20,Paraná,4,1,Avaí,False,False,first
+2000-09-24,Bangu,5,1,XV de Novembro,False,False,first
+2000-09-24,América-RJ,3,2,São Caetano,False,False,first
+2000-09-24,Botafogo-SP,2,1,Villa Nova-MG,False,False,first
+2000-09-24,Paraná,0,1,Bragantino,False,False,first
+2000-09-24,Figueirense,1,1,Criciúma,False,False,first
+2000-09-24,Londrina,0,1,Marcílio Dias,False,False,first
+2000-09-24,GE Brasil,0,1,Joinville,False,False,first
+2000-09-24,Americano,0,0,União São João,False,False,first
+2000-09-24,Avaí,1,1,Caxias,False,False,first
+2000-09-27,XV de Novembro,0,1,Botafogo-SP,False,False,first
+2000-09-27,Bragantino,1,1,Figueirense,False,False,first
+2000-09-27,União São João,0,2,Criciúma,False,False,first
+2000-09-27,Joinville,1,0,São Caetano,False,False,first
+2000-09-27,Americano,1,3,GE Brasil,False,False,first
+2000-09-27,Villa Nova-MG,3,3,Bangu,False,False,first
+2000-09-27,Marcílio Dias,1,0,América-RJ,False,False,first
+2000-09-27,Caxias,1,1,Paraná,False,False,first
+2000-09-27,Avaí,4,0,Londrina,False,False,first
+2000-09-30,GE Brasil,0,2,Figueirense,False,False,first
+2000-09-30,Caxias,1,0,Criciúma,False,False,first
+2000-10-02,Botafogo-SP,2,1,Americano,False,False,first
+2000-10-04,XV de Novembro,3,1,América-RJ,False,False,first
+2000-10-04,São Caetano,3,1,Bragantino,False,False,first
+2000-10-04,Bangu,2,1,União São João,False,False,first
+2000-10-04,Paraná,2,1,Figueirense,False,False,first
+2000-10-04,Villa Nova-MG,1,0,Londrina,False,False,first
+2000-10-04,Criciúma,1,0,GE Brasil,False,False,first
+2000-10-04,Caxias,3,3,Marcílio Dias,False,False,first
+2000-10-04,Joinville,2,2,Avaí,False,False,first
+2000-10-07,Americano,2,2,XV de Novembro,False,False,first
+2000-10-07,Bragantino,0,2,Botafogo-SP,False,False,first
+2000-10-07,União São João,1,1,Joinville,False,False,first
+2000-10-07,Figueirense,1,1,Bangu,False,False,first
+2000-10-07,Londrina,0,2,São Caetano,False,False,first
+2000-10-07,GE Brasil,0,1,Caxias,False,False,first
+2000-10-07,Marcílio Dias,1,1,Criciúma,False,False,first
+2000-10-07,Avaí,2,0,Villa Nova-MG,False,False,first
+2000-10-07,América-RJ,0,0,Paraná,False,False,first
+2000-08-06,River,2,2,Nacional-AM,False,False,first
+2000-08-06,Fortaleza,1,0,Náutico,False,False,first
+2000-08-06,Anapolina,0,0,Serra,False,False,first
+2000-08-06,São Raimundo,2,0,Sampaio Corrêa,False,False,first
+2000-08-06,Remo,1,1,América-RN,False,False,first
+2000-08-09,CSA,1,2,River,False,False,first
+2000-08-09,São Raimundo,1,0,Paysandu,False,False,first
+2000-08-09,Remo,2,0,Nacional-AM,False,False,first
+2000-08-09,Anapolina,1,1,Bandeirante,False,False,first
+2000-08-09,América-RN,1,1,Ceará,False,False,first
+2000-08-09,Fortaleza,2,1,ABC,False,False,first
+2000-08-09,Desportiva,1,0,Vila Nova,False,False,first
+2000-08-09,Sampaio Corrêa,1,2,Náutico,False,False,first
+2000-08-10,Serra,0,1,CRB,False,False,first
+2000-08-12,Vila Nova,5,1,Sampaio Corrêa,False,False,first
+2000-08-13,Ceará,0,1,São Raimundo,False,False,first
+2000-08-13,CRB,1,1,Fortaleza,False,False,first
+2000-08-13,ABC,1,3,CSA,False,False,first
+2000-08-13,Náutico,2,1,América-RN,False,False,first
+2000-08-13,Paysandu,0,1,Serra,False,False,first
+2000-08-13,Bandeirante,0,0,Remo,False,False,first
+2000-08-13,Nacional-AM,1,1,Anapolina,False,False,first
+2000-08-13,River,2,0,Desportiva,False,False,first
+2000-08-16,CRB,2,1,ABC,False,False,first
+2000-08-16,Nacional-AM,1,2,Desportiva,False,False,first
+2000-08-16,Paysandu,0,0,Sampaio Corrêa,False,False,first
+2000-08-16,América-RN,1,0,Bandeirante,False,False,first
+2000-08-16,Ceará,3,0,Serra,False,False,first
+2000-08-16,River,3,2,Vila Nova,False,False,first
+2000-08-16,Náutico,3,0,CSA,False,False,first
+2000-08-17,São Raimundo,1,2,Anapolina,False,False,first
+2000-08-17,Fortaleza,2,1,Remo,False,False,first
+2000-08-19,Serra,2,4,Náutico,False,False,first
+2000-08-19,Vila Nova,2,3,América-RN,False,False,first
+2000-08-20,CSA,0,3,Paysandu,False,False,first
+2000-08-20,Remo,1,1,CRB,False,False,first
+2000-08-20,ABC,2,0,Bandeirante,False,False,first
+2000-08-20,Sampaio Corrêa,3,2,Nacional-AM,False,False,first
+2000-08-20,Desportiva,0,2,Ceará,False,False,first
+2000-08-20,Anapolina,0,0,Fortaleza,False,False,first
+2000-08-20,São Raimundo,2,1,River,False,False,first
+2000-08-22,Vila Nova,0,1,Náutico,False,False,first
+2000-08-23,CSA,4,3,Nacional-AM,False,False,first
+2000-08-23,Paysandu,1,0,CRB,False,False,first
+2000-08-23,América-RN,1,1,ABC,False,False,first
+2000-08-23,Sampaio Corrêa,1,0,River,False,False,first
+2000-08-23,Bandeirante,0,2,Ceará,False,False,first
+2000-08-23,Desportiva,3,2,Fortaleza,False,False,first
+2000-08-23,Anapolina,3,1,Remo,False,False,first
+2000-08-24,Serra,0,0,São Raimundo,False,False,first
+2000-08-26,Ceará,1,0,CSA,False,False,first
+2000-08-26,Náutico,0,2,Anapolina,False,False,first
+2000-08-26,Nacional-AM,4,1,ABC,False,False,first
+2000-08-27,CRB,1,1,Vila Nova,False,False,first
+2000-08-27,América-RN,3,0,Serra,False,False,first
+2000-08-27,Fortaleza,3,2,Paysandu,False,False,first
+2000-08-27,River,1,2,Remo,False,False,first
+2000-08-27,São Raimundo,4,1,Desportiva,False,False,first
+2000-08-27,Bandeirante,3,3,Sampaio Corrêa,False,False,first
+2000-08-29,Ceará,2,2,Anapolina,False,False,first
+2000-08-30,Fortaleza,1,2,Bandeirante,False,False,first
+2000-08-30,River,1,0,Serra,False,False,first
+2000-08-30,Nacional-AM,3,2,Náutico,False,False,first
+2000-08-30,Remo,1,2,ABC,False,False,first
+2000-08-30,América-RN,1,2,Paysandu,False,False,first
+2000-08-30,CSA,3,2,Vila Nova,False,False,first
+2000-08-30,Desportiva,3,4,CRB,False,False,first
+2000-09-02,CRB,0,0,Ceará,False,False,first
+2000-09-02,Paysandu,3,1,River,False,False,first
+2000-09-02,ABC,3,0,São Raimundo,False,False,first
+2000-09-02,Vila Nova,3,3,Fortaleza,False,False,first
+2000-09-02,Anapolina,4,0,Desportiva,False,False,first
+2000-09-02,Náutico,2,0,Bandeirante,False,False,first
+2000-09-02,Serra,1,1,Nacional-AM,False,False,first
+2000-09-04,Sampaio Corrêa,1,0,CSA,False,False,first
+2000-09-06,São Raimundo,4,5,Nacional-AM,False,False,first
+2000-09-06,Paysandu,1,0,Anapolina,False,False,first
+2000-09-06,ABC,2,0,Desportiva,False,False,first
+2000-09-06,River,2,1,Ceará,False,False,first
+2000-09-06,Bandeirante,2,2,Vila Nova,False,False,first
+2000-09-06,Náutico,0,2,Remo,False,False,first
+2000-09-06,Serra,2,5,Fortaleza,False,False,first
+2000-09-07,CSA,0,2,CRB,False,False,first
+2000-09-07,Sampaio Corrêa,1,0,América-RN,False,False,first
+2000-09-09,Nacional-AM,1,0,Paysandu,False,False,first
+2000-09-09,Ceará,0,0,Náutico,False,False,first
+2000-09-10,CRB,6,2,Bandeirante,False,False,first
+2000-09-10,São Raimundo,2,0,CSA,False,False,first
+2000-09-10,Remo,1,0,Vila Nova,False,False,first
+2000-09-10,Desportiva,0,6,Serra,False,False,first
+2000-09-10,América-RN,1,1,Anapolina,False,False,first
+2000-09-10,Fortaleza,2,0,Sampaio Corrêa,False,False,first
+2000-09-10,River,1,1,ABC,False,False,first
+2000-09-13,CSA,5,2,América-RN,False,False,first
+2000-09-13,Sampaio Corrêa,1,0,CRB,False,False,first
+2000-09-13,ABC,2,2,Ceará,False,False,first
+2000-09-13,Fortaleza,4,3,São Raimundo,False,False,first
+2000-09-13,Vila Nova,2,0,Nacional-AM,False,False,first
+2000-09-13,Anapolina,3,2,River,False,False,first
+2000-09-13,Paysandu,0,0,Remo,False,False,first
+2000-09-13,Náutico,1,0,Desportiva,False,False,first
+2000-09-14,Bandeirante,1,2,Serra,False,False,first
+2000-09-16,ABC,2,2,Anapolina,False,False,first
+2000-09-17,CSA,1,1,Fortaleza,False,False,first
+2000-09-17,América-RN,1,0,River,False,False,first
+2000-09-17,Ceará,2,0,Nacional-AM,False,False,first
+2000-09-17,Sampaio Corrêa,3,2,Desportiva,False,False,first
+2000-09-17,Vila Nova,1,1,Paysandu,False,False,first
+2000-09-17,Bandeirante,2,2,São Raimundo,False,False,first
+2000-09-17,Náutico,1,1,CRB,False,False,first
+2000-09-17,Serra,5,2,Remo,False,False,first
+2000-09-20,CRB,0,2,Anapolina,False,False,first
+2000-09-20,São Raimundo,2,1,América-RN,False,False,first
+2000-09-20,Náutico,2,0,ABC,False,False,first
+2000-09-20,Desportiva,1,1,CSA,False,False,first
+2000-09-20,Remo,1,1,Sampaio Corrêa,False,False,first
+2000-09-21,River,3,0,Bandeirante,False,False,first
+2000-09-21,Serra,2,0,Vila Nova,False,False,first
+2000-09-21,Paysandu,4,2,Ceará,False,False,first
+2000-09-21,Nacional-AM,3,4,Fortaleza,False,False,first
+2000-09-23,CRB,0,0,América-RN,False,False,first
+2000-09-23,Remo,4,0,Desportiva,False,False,first
+2000-09-23,Vila Nova,0,1,São Raimundo,False,False,first
+2000-09-24,Bandeirante,1,1,Nacional-AM,False,False,first
+2000-09-24,CSA,1,0,Anapolina,False,False,first
+2000-09-24,Fortaleza,3,1,River,False,False,first
+2000-09-24,Sampaio Corrêa,2,0,Ceará,False,False,first
+2000-09-24,Paysandu,0,0,Náutico,False,False,first
+2000-09-24,ABC,0,0,Serra,False,False,first
+2000-09-27,CSA,0,2,Serra,False,False,first
+2000-09-27,Nacional-AM,3,4,CRB,False,False,first
+2000-09-27,América-RN,4,0,Desportiva,False,False,first
+2000-09-27,Ceará,1,3,Fortaleza,False,False,first
+2000-09-27,Sampaio Corrêa,3,2,ABC,False,False,first
+2000-09-27,Bandeirante,0,1,Paysandu,False,False,first
+2000-09-27,Anapolina,1,0,Vila Nova,False,False,first
+2000-09-27,Náutico,0,0,River,False,False,first
+2000-09-28,São Raimundo,4,1,Remo,False,False,first
+2000-09-30,América-RN,1,1,Fortaleza,False,False,first
+2000-10-03,Desportiva,3,0,Bandeirante,False,False,first
+2000-10-04,Serra,3,1,Sampaio Corrêa,False,False,first
+2000-10-04,Náutico,3,2,São Raimundo,False,False,first
+2000-10-04,River,1,1,CRB,False,False,first
+2000-10-04,Ceará,0,0,Vila Nova,False,False,first
+2000-10-04,ABC,4,1,Paysandu,False,False,first
+2000-10-04,Remo,1,0,CSA,False,False,first
+2000-10-07,Anapolina,0,1,Sampaio Corrêa,False,False,first
+2000-10-07,Vila Nova,0,1,ABC,False,False,first
+2000-10-07,Ceará,1,2,Remo,False,False,first
+2000-10-07,Paysandu,3,2,Desportiva,False,False,first
+2000-10-07,CRB,1,1,São Raimundo,False,False,first
+2000-10-07,Bandeirante,2,3,CSA,False,False,first
+2000-10-07,Nacional-AM,4,2,América-RN,False,False,first
+2000-10-07,Caxias,2,0,Sampaio Corrêa,False,False,second
+2000-10-07,Sampaio Corrêa,1,1,Caxias,False,False,second
+2000-10-07,Remo,4,1,Figueirense,False,False,second
+2000-10-07,Figueirense,2,1,Remo,False,False,second
+2000-10-07,Avaí,0,2,Fortaleza,False,False,second
+2000-10-07,Fortaleza,1,2,Avaí,False,False,second
+2000-10-07,Criciúma,1,2,Náutico,False,False,second
+2000-10-07,Náutico,0,0,Criciúma,False,False,second
+2000-10-07,Bangu,2,1,São Raimundo,False,False,second
+2000-10-07,São Raimundo,2,2,Bangu,False,False,second
+2000-10-07,Anapolina,0,1,Paraná,False,False,second
+2000-10-07,Paraná,2,0,Anapolina,False,False,second
+2000-10-07,Paysandu,3,0,Botafogo-SP,False,False,second
+2000-10-07,Botafogo-SP,2,1,Paysandu,False,False,second
+2000-10-07,CRB,1,1,São Caetano,False,False,second
+2000-10-07,São Caetano,4,1,CRB,False,False,second
+2000-10-07,Fortaleza,0,1,Paysandu,False,False,third
+2000-10-07,Paysandu,1,0,Fortaleza,False,False,third
+2000-10-07,Náutico,1,0,São Caetano,False,False,third
+2000-10-07,São Caetano,6,2,Náutico,False,False,third
+2000-10-07,Caxias,2,1,Remo,False,False,third
+2000-10-07,Remo,3,0,Caxias,False,False,third
+2000-10-07,Bangu,0,3,Paraná,False,False,third
+2000-10-07,Paraná,2,1,Bangu,False,False,third
+2000-10-07,Paraná,0,0,Remo,False,False,semi
+2000-10-07,Remo,1,2,Paraná,False,False,semi
+2000-10-07,Paysandu,1,1,São Caetano,False,False,semi
+2000-10-07,São Caetano,5,4,Paysandu,False,False,semi
+2000-10-07,Remo,3,2,Paysandu,False,False,semi
+2000-10-07,Paysandu,1,1,Remo,False,False,semi
+2000-10-07,Paraná,1,1,São Caetano,False,False,third
+2000-10-07,São Caetano,1,3,Paraná,False,False,third
+2000-08-06,Porto,0,1,Central,False,False,first
+2000-08-06,Tuna Luso,3,1,Botafogo-PB,False,False,first
+2000-08-06,Treze,2,0,Moto Clube,False,False,first
+2000-08-09,Porto,1,2,Tuna Luso,False,False,first
+2000-08-09,Botafogo-PB,3,1,Central,False,False,first
+2000-08-09,Moto Clube,3,1,Potiguar,False,False,first
+2000-08-13,Potiguar,1,0,Porto,False,False,first
+2000-08-13,Tuna Luso,1,1,Moto Clube,False,False,first
+2000-08-13,Central,1,0,Treze,False,False,first
+2000-08-16,Central,2,0,Potiguar,False,False,first
+2000-08-16,Treze,0,1,Tuna Luso,False,False,first
+2000-08-16,Moto Clube,2,0,Botafogo-PB,False,False,first
+2000-08-20,Tuna Luso,2,0,Central,False,False,first
+2000-08-20,Porto,3,0,Treze,False,False,first
+2000-08-21,Botafogo-PB,5,0,Potiguar,False,False,first
+2000-08-24,Potiguar,1,2,Tuna Luso,False,False,first
+2000-08-24,Treze,2,2,Botafogo-PB,False,False,first
+2000-08-24,Moto Clube,0,1,Porto,False,False,first
+2000-08-27,Central,2,0,Moto Clube,False,False,first
+2000-08-27,Botafogo-PB,3,1,Porto,False,False,first
+2000-08-27,Potiguar,1,2,Treze,False,False,first
+2000-09-02,Moto Clube,5,1,Central,False,False,first
+2000-09-02,Porto,0,2,Botafogo-PB,False,False,first
+2000-09-02,Treze,5,0,Potiguar,False,False,first
+2000-09-06,Tuna Luso,3,0,Potiguar,False,False,first
+2000-09-06,Porto,1,0,Moto Clube,False,False,first
+2000-09-06,Botafogo-PB,1,0,Treze,False,False,first
+2000-09-10,Central,3,2,Tuna Luso,False,False,first
+2000-09-10,Potiguar,1,0,Botafogo-PB,False,False,first
+2000-09-10,Treze,1,0,Porto,False,False,first
+2000-09-13,Botafogo-PB,2,2,Moto Clube,False,False,first
+2000-09-13,Tuna Luso,3,2,Treze,False,False,first
+2000-09-13,Potiguar,0,2,Central,False,False,first
+2000-09-16,Moto Clube,3,3,Tuna Luso,False,False,first
+2000-09-17,Porto,6,2,Potiguar,False,False,first
+2000-09-17,Treze,1,0,Central,False,False,first
+2000-09-20,Tuna Luso,1,2,Porto,False,False,first
+2000-09-20,Central,3,2,Botafogo-PB,False,False,first
+2000-09-20,Potiguar,2,3,Moto Clube,False,False,first
+2000-09-23,Moto Clube,5,1,Treze,False,False,first
+2000-09-24,Botafogo-PB,1,2,Tuna Luso,False,False,first
+2000-09-24,Central,0,0,Porto,False,False,first
+2000-08-06,Sergipe,1,0,Camaçari,False,False,first
+2000-08-06,Confiança,1,0,Campinense,False,False,first
+2000-08-29,ASA,0,0,Juazeiro,False,False,first
+2000-08-09,Sergipe,0,1,Confiança,False,False,first
+2000-08-09,Campinense,0,3,Camaçari,False,False,first
+2000-08-10,Juazeiro,2,2,Corinthians-AL,False,False,first
+2000-08-13,Confiança,2,1,Juazeiro,False,False,first
+2000-08-13,Camaçari,5,0,ASA,False,False,first
+2000-08-13,Corinthians-AL,2,1,Sergipe,False,False,first
+2000-08-16,Camaçari,1,1,Corinthians-AL,False,False,first
+2000-08-16,ASA,0,1,Confiança,False,False,first
+2000-08-16,Juazeiro,2,1,Campinense,False,False,first
+2000-08-20,Campinense,0,2,Corinthians-AL,False,False,first
+2000-08-29,Confiança,2,1,Camaçari,False,False,first
+2000-09-04,Sergipe,4,2,ASA,False,False,first
+2000-08-23,Juazeiro,3,2,Sergipe,False,False,first
+2000-08-23,ASA,3,0,Campinense,False,False,first
+2000-08-23,Corinthians-AL,1,0,Confiança,False,False,first
+2000-08-26,Camaçari,0,2,Juazeiro,False,False,first
+2000-08-26,Corinthians-AL,0,0,ASA,False,False,first
+2000-08-27,Campinense,3,2,Sergipe,False,False,first
+2000-09-01,Sergipe,2,1,Campinense,False,False,first
+2000-09-01,ASA,3,1,Corinthians-AL,False,False,first
+2000-09-02,Juazeiro,1,0,Camaçari,False,False,first
+2000-09-06,Confiança,0,1,Corinthians-AL,False,False,first
+2000-09-07,Sergipe,1,0,Juazeiro,False,False,first
+2000-09-07,Campinense,0,1,ASA,False,False,first
+2000-09-10,Corinthians-AL,3,1,Campinense,False,False,first
+2000-09-10,ASA,0,1,Sergipe,False,False,first
+2000-09-10,Camaçari,2,0,Confiança,False,False,first
+2000-09-13,Campinense,2,2,Juazeiro,False,False,first
+2000-09-13,Confiança,0,0,ASA,False,False,first
+2000-09-13,Corinthians-AL,1,0,Camaçari,False,False,first
+2000-09-17,Juazeiro,2,0,Confiança,False,False,first
+2000-09-17,ASA,2,0,Camaçari,False,False,first
+2000-09-17,Sergipe,0,1,Corinthians-AL,False,False,first
+2000-09-20,Confiança,1,1,Sergipe,False,False,first
+2000-09-20,Corinthians-AL,1,0,Juazeiro,False,False,first
+2000-09-20,Camaçari,1,1,Campinense,False,False,first
+2000-09-24,Campinense,2,2,Confiança,False,False,first
+2000-09-24,Juazeiro,1,0,ASA,False,False,first
+2000-09-24,Camaçari,0,0,Sergipe,False,False,first
+2000-08-06,Rio Branco-AC,4,2,Flamengo-PI,False,False,first
+2000-08-06,Genus,2,1,Rio Negro,False,False,first
+2000-08-06,Ypiranga,3,0,Baré,False,False,first
+2000-08-09,Rio Branco-AC,2,0,Genus,False,False,first
+2000-08-09,Rio Negro,0,2,Flamengo-PI,False,False,first
+2000-08-30,Baré,2,1,Tocantinópolis,False,False,first
+2000-08-12,Flamengo-PI,4,0,Ypiranga,False,False,first
+2000-08-13,Genus,1,3,Baré,False,False,first
+2000-08-15,Tocantinópolis,1,1,Rio Branco-AC,False,False,first
+2000-08-16,Ypiranga,5,3,Genus,False,False,first
+2000-08-16,Baré,0,0,Rio Negro,False,False,first
+2000-08-17,Flamengo-PI,2,0,Tocantinópolis,False,False,first
+2000-08-20,Rio Negro,0,2,Tocantinópolis,False,False,first
+2000-08-20,Rio Branco-AC,2,2,Ypiranga,False,False,first
+2000-08-20,Genus,0,1,Flamengo-PI,False,False,first
+2000-08-23,Tocantinópolis,4,0,Genus,False,False,first
+2000-08-23,Baré,2,1,Rio Branco-AC,False,False,first
+2000-08-23,Ypiranga,1,0,Rio Negro,False,False,first
+2000-08-26,Flamengo-PI,1,0,Baré,False,False,first
+2000-08-27,Rio Negro,2,1,Rio Branco-AC,False,False,first
+2000-08-27,Tocantinópolis,1,0,Ypiranga,False,False,first
+2000-09-02,Rio Branco-AC,3,0,Rio Negro,False,False,first
+2000-09-02,Ypiranga,3,0,Tocantinópolis,False,False,first
+2000-09-02,Baré,1,0,Flamengo-PI,False,False,first
+2000-09-06,Genus,2,3,Tocantinópolis,False,False,first
+2000-09-06,Rio Branco-AC,1,0,Baré,False,False,first
+2000-09-06,Rio Negro,2,0,Ypiranga,False,False,first
+2000-09-09,Flamengo-PI,1,0,Genus,False,False,first
+2000-09-10,Tocantinópolis,3,1,Rio Negro,False,False,first
+2000-09-10,Ypiranga,1,0,Rio Branco-AC,False,False,first
+2000-09-13,Tocantinópolis,1,0,Flamengo-PI,False,False,first
+2000-09-13,Genus,3,2,Ypiranga,False,False,first
+2000-09-13,Rio Negro,1,0,Baré,False,False,first
+2000-09-17,Ypiranga,3,1,Flamengo-PI,False,False,first
+2000-09-17,Rio Branco-AC,2,1,Tocantinópolis,False,False,first
+2000-09-17,Baré,9,1,Genus,False,False,first
+2000-09-20,Flamengo-PI,1,1,Rio Negro,False,False,first
+2000-09-20,Tocantinópolis,2,1,Baré,False,False,first
+2000-09-20,Genus,2,2,Rio Branco-AC,False,False,first
+2000-09-24,Rio Negro,4,2,Genus,False,False,first
+2000-09-24,Flamengo-PI,3,1,Rio Branco-AC,False,False,first
+2000-09-24,Baré,3,3,Ypiranga,False,False,first
+2000-08-04,Comercial-MS,1,0,Operário-MS,False,False,first
+2000-08-23,Brasília,0,1,Atlético-GO,False,False,first
+2000-08-06,Operário-MS,1,2,Atlético-GO,False,False,first
+2000-08-06,Brasília,2,1,Dom Pedro II,False,False,first
+2000-08-09,Atlético-GO,0,3,Goiânia,False,False,first
+2000-08-09,Dom Pedro II,0,0,Comercial-MS,False,False,first
+2000-08-13,Operário-MS,2,1,Dom Pedro II,False,False,first
+2000-08-13,Goiânia,1,2,Brasília,False,False,first
+2000-08-16,Brasília,2,2,Operário-MS,False,False,first
+2000-08-16,Dom Pedro II,1,1,Atlético-GO,False,False,first
+2000-08-16,Goiânia,1,0,Comercial-MS,False,False,first
+2000-08-20,Goiânia,3,2,Operário-MS,False,False,first
+2000-08-20,Atlético-GO,2,1,Comercial-MS,False,False,first
+2000-08-27,Goiânia,1,2,Dom Pedro II,False,False,first
+2000-08-27,Brasília,1,2,Comercial-MS,False,False,first
+2000-08-30,Operário-MS,1,1,Goiânia,False,False,first
+2000-09-10,Comercial-MS,0,0,Atlético-GO,False,False,first
+2000-09-02,Dom Pedro II,1,1,Goiânia,False,False,first
+2000-09-16,Comercial-MS,1,2,Brasília,False,False,first
+2000-09-06,Atlético-GO,2,0,Brasília,False,False,first
+2000-09-07,Operário-MS,0,2,Comercial-MS,False,False,first
+2000-09-13,Operário-MS,1,0,Brasília,False,False,first
+2000-09-13,Atlético-GO,0,1,Dom Pedro II,False,False,first
+2000-09-14,Comercial-MS,4,2,Goiânia,False,False,first
+2000-09-17,Dom Pedro II,1,2,Operário-MS,False,False,first
+2000-09-19,Brasília,1,1,Goiânia,False,False,first
+2000-09-20,Comercial-MS,0,1,Dom Pedro II,False,False,first
+2000-09-22,Goiânia,1,1,Atlético-GO,False,False,first
+2000-09-24,Atlético-GO,0,1,Operário-MS,False,False,first
+2000-09-24,Dom Pedro II,2,0,Brasília,False,False,first
+2000-09-30,Tuna Luso,2,0,Juazeiro,False,False,second
+2000-09-30,Ypiranga,2,1,Atlético-GO,False,False,second
+2000-10-04,Juazeiro,2,1,Ypiranga,False,False,second
+2000-10-04,Atlético-GO,0,1,Tuna Luso,False,False,second
+2000-10-07,Tuna Luso,1,0,Ypiranga,False,False,second
+2000-10-07,Atlético-GO,1,2,Juazeiro,False,False,second
+2000-10-11,Juazeiro,2,0,Atlético-GO,False,False,second
+2000-10-11,Ypiranga,2,1,Tuna Luso,False,False,second
+2000-10-15,Tuna Luso,3,2,Atlético-GO,False,False,second
+2000-10-15,Ypiranga,3,2,Juazeiro,False,False,second
+2000-10-19,Juazeiro,5,0,Tuna Luso,False,False,second
+2000-10-19,Atlético-GO,3,2,Ypiranga,False,False,second
+2000-09-30,Corinthians-AL,1,3,Central,False,False,second
+2000-09-30,Dom Pedro II,2,1,Tocantinópolis,False,False,second
+2000-10-04,Central,0,0,Dom Pedro II,False,False,second
+2000-10-04,Tocantinópolis,1,2,Corinthians-AL,False,False,second
+2000-10-07,Tocantinópolis,2,1,Central,False,False,second
+2000-10-07,Corinthians-AL,2,2,Dom Pedro II,False,False,second
+2000-10-11,Dom Pedro II,0,0,Corinthians-AL,False,False,second
+2000-10-13,Central,0,1,Tocantinópolis,False,False,second
+2000-10-15,Corinthians-AL,5,1,Tocantinópolis,False,False,second
+2000-10-15,Dom Pedro II,2,3,Central,False,False,second
+2000-10-19,Tocantinópolis,2,0,Dom Pedro II,False,False,second
+2000-10-19,Central,2,1,Corinthians-AL,False,False,second
+2000-09-30,Flamengo-PI,7,2,Operário-MS,False,False,second
+2000-09-30,Moto Clube,2,1,Confiança,False,False,second
+2000-10-04,Confiança,1,2,Flamengo-PI,False,False,second
+2000-10-04,Operário-MS,3,3,Moto Clube,False,False,second
+2000-10-07,Flamengo-PI,1,1,Moto Clube,False,False,second
+2000-10-07,Confiança,0,1,Operário-MS,False,False,second
+2000-10-11,Moto Clube,1,0,Flamengo-PI,False,False,second
+2000-10-11,Operário-MS,1,1,Confiança,False,False,second
+2000-10-15,Moto Clube,1,0,Operário-MS,False,False,second
+2000-10-15,Flamengo-PI,3,5,Confiança,False,False,second
+2000-10-19,Operário-MS,1,0,Flamengo,False,False,second
+2000-10-19,Confiança,3,0,Moto Clube,False,False,second
+2000-08-06,São José,1,2,Uberlândia,False,False,second
+2000-08-06,CA Juventus,2,0,Volta Redonda,False,False,second
+2000-08-06,Nacional-SP,2,1,Rio Branco-SP,False,False,second
+2000-08-09,Nacional-SP,1,4,CA Juventus,False,False,second
+2000-08-09,Volta Redonda,1,1,Rio Branco-SP,False,False,second
+2000-08-13,CA Juventus,4,0,Uberlândia,False,False,second
+2000-08-13,Rio Branco-SP,4,1,São José,False,False,second
+2000-08-16,São José,0,1,CA Juventus,False,False,second
+2000-08-16,Uberlândia,1,0,Volta Redonda,False,False,second
+2000-08-20,Nacional-SP,2,1,São José,False,False,second
+2000-08-20,CA Juventus,1,3,Rio Branco-SP,False,False,second
+2000-08-23,Uberlândia,3,0,Nacional-SP,False,False,second
+2000-08-23,São José,2,2,Volta Redonda,False,False,second
+2000-08-27,Volta Redonda,3,1,Nacional-SP,False,False,second
+2000-08-27,Rio Branco-SP,2,0,Uberlândia,False,False,second
+2000-09-02,Uberlândia,1,1,Rio Branco-SP,False,False,second
+2000-09-02,Nacional-SP,1,0,Volta Redonda,False,False,second
+2000-09-06,Nacional-SP,3,3,Uberlândia,False,False,second
+2000-09-06,Volta Redonda,2,1,São José,False,False,second
+2000-09-09,São José,0,2,Nacional-SP,False,False,second
+2000-09-10,Rio Branco-SP,2,2,CA Juventus,False,False,second
+2000-09-13,CA Juventus,1,0,São José,False,False,second
+2000-09-13,Volta Redonda,0,1,Uberlândia,False,False,second
+2000-09-17,Uberlândia,2,2,CA Juventus,False,False,second
+2000-09-17,São José,1,2,Rio Branco-SP,False,False,second
+2000-09-20,CA Juventus,2,1,Nacional-SP,False,False,second
+2000-09-20,Rio Branco-SP,3,1,Volta Redonda,False,False,second
+2000-09-24,Rio Branco-SP,4,0,Nacional-SP,False,False,second
+2000-09-24,Volta Redonda,1,1,CA Juventus,False,False,second
+2000-09-24,Uberlândia,2,1,São José,False,False,second
+2000-08-06,Etti Jundiaí,4,0,Malutrom,False,False,second
+2000-08-06,Internacional-SP,1,1,União Bandeirante,False,False,second
+2000-08-06,Comercial-SP,1,1,Madureira,False,False,second
+2000-08-09,Etti Jundiaí,2,0,Internacional-SP,False,False,second
+2000-08-09,União Bandeirante,2,1,Malutrom,False,False,second
+2000-08-30,Madureira,2,0,União,False,False,second
+2000-08-13,Internacional-SP,2,0,Madureira,False,False,second
+2000-08-13,Malutrom,3,0,Comercial-SP,False,False,second
+2000-08-13,União,0,2,Etti Jundiaí,False,False,second
+2000-08-16,Madureira,6,0,União Bandeirante,False,False,second
+2000-08-16,Malutrom,3,2,União,False,False,second
+2000-08-17,Comercial-SP,2,1,Internacional-SP,False,False,second
+2000-08-20,União Bandeirante,3,0,União,False,False,second
+2000-08-20,Internacional-SP,2,2,Malutrom,False,False,second
+2000-08-20,Etti Jundiaí,3,0,Comercial-SP,False,False,second
+2000-08-23,Madureira,0,2,Etti Jundiaí,False,False,second
+2000-08-23,Comercial-SP,1,0,União Bandeirante,False,False,second
+2000-08-23,União,2,1,Internacional-SP,False,False,second
+2000-08-27,União,2,0,Comercial-SP,False,False,second
+2000-08-27,União Bandeirante,1,1,Etti Jundiaí,False,False,second
+2000-08-28,Malutrom,2,1,Madureira,False,False,second
+2000-09-02,Madureira,0,0,Malutrom,False,False,second
+2000-09-02,Etti Jundiaí,8,0,União Bandeirante,False,False,second
+2000-09-19,Comercial-SP,2,1,União,False,False,second
+2000-09-06,Internacional-SP,6,0,União,False,False,second
+2000-09-06,Etti Jundiaí,4,0,Madureira,False,False,second
+2000-09-06,União Bandeirante,3,0,Comercial-SP,False,False,second
+2000-09-09,Malutrom,0,0,Internacional-SP,False,False,second
+2000-09-09,Comercial-SP,1,4,Etti Jundiaí,False,False,second
+2000-09-10,União,2,1,União Bandeirante,False,False,second
+2000-09-13,Internacional-SP,2,0,Comercial-SP,False,False,second
+2000-09-13,União,0,2,Malutrom,False,False,second
+2000-09-13,União Bandeirante,1,1,Madureira,False,False,second
+2000-09-16,Comercial-SP,1,4,Malutrom,False,False,second
+2000-09-16,Etti Jundiaí,5,2,União,False,False,second
+2000-09-17,Madureira,1,1,Internacional-SP,False,False,second
+2000-09-20,Internacional-SP,2,4,Etti Jundiaí,False,False,second
+2000-09-20,Malutrom,2,2,União Bandeirante,False,False,second
+2000-09-21,União,1,1,Madureira,False,False,second
+2000-09-24,Madureira,7,1,Comercial-SP,False,False,second
+2000-09-24,União Bandeirante,3,0,Internacional-SP,False,False,second
+2000-09-24,Malutrom,2,1,Etti Jundiaí,False,False,second
+2000-08-06,União Agrícola,2,0,Mogi Mirim,False,False,second
+2000-08-06,Olimpia,1,1,Ipatinga,False,False,second
+2000-08-06,Matonense,1,0,Friburguense,False,False,second
+2000-08-09,União Agrícola,0,0,Olimpia,False,False,second
+2000-08-09,Ipatinga,0,0,Mogi Mirim,False,False,second
+2000-08-09,Friburguense,1,1,São Cristóvão,False,False,second
+2000-08-13,Olimpia,0,1,Friburguense,False,False,second
+2000-08-13,São Cristóvão,2,0,União Agrícola,False,False,second
+2000-08-13,Mogi Mirim,1,1,Matonense,False,False,second
+2000-08-16,Mogi Mirim,4,0,São Cristóvão,False,False,second
+2000-08-16,Matonense,1,1,Olimpia,False,False,second
+2000-08-16,Friburguense,1,0,Ipatinga,False,False,second
+2000-08-20,Olimpia,2,5,Mogi Mirim,False,False,second
+2000-08-20,Ipatinga,3,2,São Cristóvão,False,False,second
+2000-08-20,União Agrícola,1,2,Matonense,False,False,second
+2000-08-23,Friburguense,0,0,União Agrícola,False,False,second
+2000-08-23,Matonense,2,0,Ipatinga,False,False,second
+2000-08-23,São Cristóvão,0,2,Olimpia,False,False,second
+2000-08-27,Mogi Mirim,1,1,Friburguense,False,False,second
+2000-08-27,Ipatinga,4,2,União Agrícola,False,False,second
+2000-08-27,São Cristóvão,0,0,Matonense,False,False,second
+2000-09-02,Friburguense,2,2,Mogi Mirim,False,False,second
+2000-09-02,União Agrícola,0,0,Ipatinga,False,False,second
+2000-09-03,Matonense,1,1,São Cristóvão,False,False,second
+2000-09-06,Olimpia,1,0,São Cristóvão,False,False,second
+2000-09-06,União Agrícola,3,1,Friburguense,False,False,second
+2000-09-06,Ipatinga,3,2,Matonense,False,False,second
+2000-09-10,Mogi Mirim,2,2,Olimpia,False,False,second
+2000-09-10,São Cristóvão,2,1,Ipatinga,False,False,second
+2000-09-10,Matonense,2,1,União Agrícola,False,False,second
+2000-09-13,Olimpia,1,0,Matonense,False,False,second
+2000-09-13,Ipatinga,0,1,Friburguense,False,False,second
+2000-09-13,São Cristóvão,1,0,Mogi Mirim,False,False,second
+2000-09-17,União Agrícola,2,3,São Cristóvão,False,False,second
+2000-09-17,Friburguense,0,0,Olimpia,False,False,second
+2000-09-17,Matonense,2,2,Mogi Mirim,False,False,second
+2000-09-20,Mogi Mirim,4,4,Ipatinga,False,False,second
+2000-09-20,Olimpia,3,1,União Agrícola,False,False,second
+2000-09-20,São Cristóvão,1,1,Friburguense,False,False,second
+2000-09-24,Ipatinga,0,3,Olimpia,False,False,second
+2000-09-24,Friburguense,2,1,Matonense,False,False,second
+2000-09-24,Mogi Mirim,2,0,União Agrícola,False,False,second
+2000-08-09,Internacional-SM,1,0,Olaria,False,False,second
+2000-08-09,Rio Branco-PR,2,1,Ituano,False,False,second
+2000-08-09,Santo André,2,2,Portuguesa-Santos,False,False,second
+2000-08-13,Portuguesa-Santos,5,0,Internacional-SM,False,False,second
+2000-08-13,Ituano,1,3,Santo André,False,False,second
+2000-08-13,Olaria,0,1,Rio Branco-PR,False,False,second
+2000-08-16,Rio Branco-PR,3,1,Portuguesa-Santos,False,False,second
+2000-08-16,Santo André,0,0,Olaria,False,False,second
+2000-08-30,Internacional-SM,0,2,Ituano,False,False,second
+2000-08-20,Olaria,1,1,Portuguesa-Santos,False,False,second
+2000-08-20,Rio Branco-PR,1,1,Santo André,False,False,second
+2000-08-23,Internacional-SM,1,4,Rio Branco-PR,False,False,second
+2000-08-23,Portuguesa-Santos,0,0,Ituano,False,False,second
+2000-08-27,Santo André,2,0,Internacional-SM,False,False,second
+2000-08-27,Ituano,1,0,Olaria,False,False,second
+2000-09-01,Olaria,3,1,Internacional-SM,False,False,second
+2000-09-02,Ituano,0,0,Rio Branco-PR,False,False,second
+2000-09-03,Portuguesa-Santos,3,0,Santo André,False,False,second
+2000-09-06,Internacional-SM,3,0,Santo André,False,False,second
+2000-09-06,Olaria,2,1,Ituano,False,False,second
+2000-09-10,Rio Branco-PR,0,0,Internacional-SM,False,False,second
+2000-09-10,Ituano,0,1,Portuguesa-Santos,False,False,second
+2000-09-13,Santo André,1,2,Rio Branco-PR,False,False,second
+2000-09-13,Portuguesa-Santos,2,1,Olaria,False,False,second
+2000-09-17,Santo André,2,0,Ituano,False,False,second
+2000-09-17,Rio Branco-PR,2,0,Olaria,False,False,second
+2000-09-17,Internacional-SM,1,1,Portuguesa-Santos,False,False,second
+2000-09-20,Portuguesa-Santos,3,1,Rio Branco-PR,False,False,second
+2000-09-20,Olaria,2,0,Santo André,False,False,second
+2000-09-20,Ituano,4,0,Internacional-SM,False,False,second
+2000-09-30,Rio Branco-SP,0,2,Malutrom,False,False,second
+2000-09-30,Friburguense,1,1,Santo André,False,False,second
+2000-10-04,Santo André,0,2,Rio Branco-SP,False,False,second
+2000-10-05,Malutrom,2,0,Friburguense,False,False,second
+2000-10-07,Santo André,1,1,Malutrom,False,False,second
+2000-10-07,Rio Branco-SP,1,3,Friburguense,False,False,second
+2000-10-11,Malutrom,4,2,Santo André,False,False,second
+2000-10-11,Friburguense,0,1,Rio Branco-SP,False,False,second
+2000-10-15,Rio Branco-SP,4,0,Santo André,False,False,second
+2000-10-15,Friburguense,0,0,Malutrom,False,False,second
+2000-10-18,Santo André,1,1,Friburguense,False,False,second
+2000-10-18,Malutrom,1,0,Rio Branco-SP,False,False,second
+2000-09-30,Etti Jundiaí,1,2,CA Juventus,False,False,second
+2000-09-30,Portuguesa-Santos,2,1,Matonense,False,False,second
+2000-10-04,CA Juventus,2,2,Portuguesa-Santos,False,False,second
+2000-10-04,Matonense,1,1,Etti Jundiaí,False,False,second
+2000-10-07,Etti Jundiaí,2,0,Portuguesa-Santos,False,False,second
+2000-10-07,Matonense,2,1,CA Juventus,False,False,second
+2000-10-11,CA Juventus,3,0,Matonense,False,False,second
+2000-10-11,Portuguesa-Santos,1,2,Etti Jundiaí,False,False,second
+2000-10-15,Etti Jundiaí,7,0,Matonense,False,False,second
+2000-10-15,Portuguesa-Santos,2,0,CA Juventus,False,False,second
+2000-10-18,CA Juventus,5,0,Etti Jundiaí,False,False,second
+2000-10-18,Matonense,0,0,Portuguesa-Santos,False,False,second
+2000-09-30,Olimpia,2,0,Rio Branco-PR,False,False,second
+2000-09-30,Uberlândia,1,0,União Bandeirante,False,False,second
+2000-10-04,Rio Branco-PR,3,2,Uberlândia,False,False,second
+2000-10-04,União Bandeirante,0,1,Olimpia,False,False,second
+2000-10-07,Olimpia,1,1,Uberlândia,False,False,second
+2000-10-07,União Bandeirante,0,1,Rio Branco-PR,False,False,second
+2000-10-11,Uberlândia,3,0,Olimpia,False,False,second
+2000-10-11,Rio Branco-PR,2,1,União Bandeirante,False,False,second
+2000-10-15,Olimpia,3,1,União Bandeirante,False,False,second
+2000-10-15,Uberlândia,0,0,Rio Branco-PR,False,False,second
+2000-10-18,União Bandeirante,3,4,Uberlândia,False,False,second
+2000-10-18,Rio Branco-PR,0,0,Olimpia,False,False,second
+2000-10-22,Juazeiro,1,1,Uberlândia,False,False,third
+2000-10-23,Central,0,0,Olimpia,False,False,third
+2000-10-25,Uberlândia,5,0,Central,False,False,third
+2000-10-26,Olimpia,1,0,Juazeiro,False,False,third
+2000-10-29,Juazeiro,1,1,Central,False,False,third
+2000-10-29,Olimpia,1,1,Uberlândia,False,False,third
+2000-11-01,Uberlândia,2,1,Olimpia,False,False,third
+2000-11-01,Central,1,2,Juazeiro,False,False,third
+2000-11-05,Juazeiro,1,0,Olimpia,False,False,third
+2000-11-05,Central,0,1,Uberlândia,False,False,third
+2000-11-08,Uberlândia,0,1,Juazeiro,False,False,third
+2000-11-08,Olimpia,5,1,Central,False,False,third
+2000-10-22,Moto Clube,2,2,Malutrom,False,False,third
+2000-11-04,Etti Jundiaí,4,0,Tuna Luso,False,False,third
+2000-10-25,Tuna Luso,1,0,Moto Clube,False,False,third
+2000-11-13,Etti Jundiaí,1,2,Malutrom,False,False,third
+2000-10-28,Tuna Luso,3,1,Malutrom,False,False,third
+2000-10-29,Moto Clube,1,1,Etti Jundiaí,False,False,third
+2000-11-01,Etti Jundiaí,7,0,Moto Clube,False,False,third
+2000-11-01,Malutrom,2,1,Tuna Luso,False,False,third
+2000-11-07,Malutrom,1,1,Etti Jundiaí,False,False,third
+2000-11-07,Moto Clube,3,2,Tuna Luso,False,False,third
+2000-11-11,Malutrom,4,3,Moto Clube,False,False,third
+2000-11-11,Tuna Luso,2,1,Etti Jundiaí,False,False,third
+2000-11-11,Uberlândia,1,1,Malutrom,False,False,third
+2000-11-11,Malutrom,3,2,Uberlândia,False,False,third
+2000-11-11,Paraná,1,1,Goiás,False,False,third
+2000-11-11,Goiás,0,3,Paraná,False,False,third
+2000-11-11,Internacional-RS,0,0,Atlético-PR,False,False,third
+2000-11-11,Atlético-PR,1,2,Internacional-RS,False,False,third
+2000-11-11,Remo,1,2,Sport,False,False,third
+2000-11-11,Sport,1,0,Remo,False,False,third
+2000-11-11,Malutrom,0,3,Cruzeiro,False,False,third
+2000-11-11,Cruzeiro,1,1,Malutrom,False,False,third
+2000-11-11,São Caetano,3,3,Fluminense,False,False,third
+2000-11-11,Fluminense,0,1,São Caetano,False,False,third
+2000-11-11,Grêmio,1,0,Ponte Preta-SP,False,False,third
+2000-11-11,Ponte Preta-SP,2,1,Grêmio,False,False,third
+2000-11-11,Bahia,3,3,Vasco da Gama,False,False,third
+2000-11-11,Vasco da Gama,3,2,Bahia,False,False,third
+2000-11-11,Palmeiras,1,1,São Paulo,False,False,third
+2000-11-11,São Paulo,1,2,Palmeiras,False,False,third
+2000-11-11,Internacional,1,1,Cruzeiro,False,False,quarter
+2000-11-11,Cruzeiro,3,2,Internacional,False,False,quarter
+2000-11-11,Grêmio,2,1,Sport,False,False,quarter
+2000-11-11,Sport,1,1,Grêmio,False,False,quarter
+2000-11-11,Vasco da Gama,3,1,Paraná,False,False,quarter
+2000-11-11,Paraná,1,0,Vasco da Gama,False,False,quarter
+2000-11-11,Palmeiras,3,4,São Caetano,False,False,quarter
+2000-11-11,São Caetano,2,2,Palmeiras,False,False,quarter
+2000-11-11,São Caetano,3,2,Grêmio,False,False,semi
+2000-11-11,Grêmio,1,3,São Caetano,False,False,semi
+2000-11-11,Vasco da Gama,2,2,Cruzeiro,False,False,semi
+2000-11-11,Cruzeiro,1,3,Vasco da Gama,False,False,semi
+2000-11-11,São Caetano,1,1,Vasco da Gama,False,False,final
+2000-11-11,Vasco da Gama,0,0,São Caetano,False,False,final
+2001-01-18,Vasco da Gama,3,1,São Caetano,False,False,final

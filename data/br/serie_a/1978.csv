@@ -1,793 +1,793 @@
-,date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-0,1978-03-26,Juventude,0,0,Figueirense,False,False,first
-1,1978-03-26,Coritiba,1,0,Londrina,False,False,first
-2,1978-03-26,GE Brasil,0,1,Joinville,False,False,first
-3,1978-03-26,Grêmio Maringá,0,1,Internacional,False,False,first
-4,1978-03-26,Grêmio,2,2,Caxias,False,False,first
-5,1978-03-29,Colorado,0,2,Internacional,False,False,first
-6,1978-03-29,Londrina,3,1,Juventude,False,False,first
-7,1978-03-29,Grêmio,2,0,Figueirense,False,False,first
-8,1978-03-29,Caxias,1,1,Joinville,False,False,first
-9,1978-03-30,Chapecoense,2,0,Atlético-PR,False,False,first
-10,1978-03-30,Coritiba,2,0,GE Brasil,False,False,first
-11,1978-04-02,Colorado,1,2,Caxias,False,False,first
-12,1978-04-02,Grêmio Maringá,3,1,Chapecoense,False,False,first
-13,1978-04-02,Internacional,3,1,Joinville,False,False,first
-14,1978-04-02,Juventude,0,1,Grêmio,False,False,first
-15,1978-04-02,Figueirense,1,1,Atlético-PR,False,False,first
-16,1978-04-06,Londrina,0,1,Atlético-PR,False,False,first
-17,1978-04-06,Grêmio Maringá,0,0,Caxias,False,False,first
-18,1978-04-06,Colorado,1,0,Chapecoense,False,False,first
-19,1978-04-06,GE Brasil,1,3,Grêmio,False,False,first
-20,1978-04-06,Figueirense,2,4,Coritiba,False,False,first
-21,1978-04-09,Londrina,1,0,Grêmio,False,False,first
-22,1978-04-09,Joinville,1,1,Coritiba,False,False,first
-23,1978-04-09,Internacional,4,1,Juventude,False,False,first
-24,1978-04-09,Figueirense,1,0,Chapecoense,False,False,first
-25,1978-04-09,Atlético-PR,1,0,Colorado,False,False,first
-26,1978-04-12,Grêmio Maringá,3,1,Colorado,False,False,first
-27,1978-04-12,Internacional,2,0,Chapecoense,False,False,first
-28,1978-04-12,Atlético-PR,0,0,Grêmio,False,False,first
-29,1978-04-12,Joinville,1,1,Londrina,False,False,first
-30,1978-04-16,Londrina,2,3,Grêmio Maringá,False,False,first
-31,1978-04-16,Coritiba,0,1,Colorado,False,False,first
-32,1978-04-16,Joinville,0,0,Grêmio,False,False,first
-33,1978-04-16,Internacional,3,0,Atlético-PR,False,False,first
-34,1978-04-16,Caxias,1,0,GE Brasil,False,False,first
-35,1978-04-16,Chapecoense,0,3,Juventude,False,False,first
-36,1978-04-19,GE Brasil,0,2,Internacional,False,False,first
-37,1978-04-19,Caxias,2,0,Atlético-PR,False,False,first
-38,1978-04-19,Chapecoense,0,3,Grêmio,False,False,first
-39,1978-04-20,Colorado,2,0,Figueirense,False,False,first
-40,1978-04-20,Joinville,1,1,Juventude,False,False,first
-41,1978-04-23,Coritiba,1,0,Atlético-PR,False,False,first
-42,1978-04-23,Londrina,2,1,Figueirense,False,False,first
-43,1978-04-23,Grêmio Maringá,1,1,Joinville,False,False,first
-44,1978-04-23,Internacional,2,3,Grêmio,False,False,first
-45,1978-04-23,Caxias,0,0,Juventude,False,False,first
-46,1978-04-23,GE Brasil,2,0,Colorado,False,False,first
-47,1978-04-26,Atlético-PR,0,2,Joinville,False,False,first
-48,1978-04-26,Grêmio Maringá,0,1,Coritiba,False,False,first
-49,1978-04-26,Juventude,2,0,Colorado,False,False,first
-50,1978-04-26,Chapecoense,1,0,Caxias,False,False,first
-51,1978-04-27,Figueirense,4,2,GE Brasil,False,False,first
-52,1978-04-30,Grêmio,3,1,Coritiba,False,False,first
-53,1978-04-30,Caxias,2,0,Internacional,False,False,first
-54,1978-04-30,Joinville,1,0,Figueirense,False,False,first
-55,1978-04-30,Londrina,4,0,GE Brasil,False,False,first
-56,1978-04-30,Atlético-PR,3,1,Grêmio Maringá,False,False,first
-57,1978-05-03,Atlético-PR,0,0,GE Brasil,False,False,first
-58,1978-05-03,Juventude,0,0,Coritiba,False,False,first
-59,1978-05-03,Chapecoense,1,1,Joinville,False,False,first
-60,1978-05-04,Colorado,0,1,Londrina,False,False,first
-61,1978-05-04,Figueirense,1,1,Grêmio Maringá,False,False,first
-62,1978-05-07,Chapecoense,1,0,Londrina,False,False,first
-63,1978-05-07,Figueirense,1,1,Caxias,False,False,first
-64,1978-05-07,Grêmio,3,2,Grêmio Maringá,False,False,first
-65,1978-05-07,GE Brasil,0,0,Juventude,False,False,first
-66,1978-05-07,Coritiba,1,1,Internacional,False,False,first
-67,1978-05-10,Coritiba,2,1,Chapecoense,False,False,first
-68,1978-05-11,Grêmio,2,0,Colorado,False,False,first
-69,1978-05-11,Caxias,2,1,Londrina,False,False,first
-70,1978-05-11,Atlético-PR,1,3,Juventude,False,False,first
-71,1978-05-11,Figueirense,1,1,Internacional,False,False,first
-72,1978-05-11,GE Brasil,0,4,Grêmio Maringá,False,False,first
-73,1978-05-14,Coritiba,2,0,Caxias,False,False,first
-74,1978-05-14,Internacional,5,2,Londrina,False,False,first
-75,1978-05-14,Juventude,1,0,Grêmio Maringá,False,False,first
-76,1978-05-14,GE Brasil,1,2,Chapecoense,False,False,first
-77,1978-05-14,Joinville,0,1,Colorado,False,False,first
-78,1978-03-26,Náutico,0,1,Santa Cruz,False,False,first
-79,1978-03-26,América-RN,2,0,Botafogo-PB,False,False,first
-80,1978-03-26,Uberlândia,1,3,Villa Nova-MG,False,False,first
-81,1978-03-26,Uberaba,2,0,América-MG,False,False,first
-82,1978-03-26,Cruzeiro,1,2,Sport,False,False,first
-83,1978-03-29,ABC,1,1,Santa Cruz,False,False,first
-84,1978-03-29,Uberaba,0,0,Sport,False,False,first
-85,1978-03-29,Uberlândia,1,1,América-MG,False,False,first
-86,1978-03-29,Campinense,1,1,América-RN,False,False,first
-87,1978-03-29,Atlético-MG,1,0,Villa Nova-MG,False,False,first
-88,1978-03-29,Náutico,3,1,Botafogo-PB,False,False,first
-89,1978-04-01,Villa Nova-MG,1,0,América-RN,False,False,first
-90,1978-04-02,Cruzeiro,4,1,América-MG,False,False,first
-91,1978-04-02,Botafogo-PB,0,0,ABC,False,False,first
-92,1978-04-02,Santa Cruz,3,0,Atlético-MG,False,False,first
-93,1978-04-02,Uberlândia,1,0,Uberaba,False,False,first
-94,1978-04-02,Campinense,0,0,Sport,False,False,first
-95,1978-04-05,Uberaba,1,1,América-RN,False,False,first
-96,1978-04-05,Campinense,1,3,Náutico,False,False,first
-97,1978-04-06,Botafogo-PB,0,3,Atlético-MG,False,False,first
-98,1978-04-06,ABC,2,2,Sport,False,False,first
-99,1978-04-06,Santa Cruz,1,1,Villa Nova-MG,False,False,first
-100,1978-04-06,Cruzeiro,6,0,Uberlândia,False,False,first
-101,1978-04-08,América-MG,5,1,América-RN,False,False,first
-102,1978-04-08,Náutico,2,0,Uberaba,False,False,first
-103,1978-04-09,Santa Cruz,2,2,Cruzeiro,False,False,first
-104,1978-04-10,ABC,0,2,Villa Nova-MG,False,False,first
-105,1978-04-12,Uberlândia,0,1,Atlético-MG,False,False,first
-106,1978-04-12,América-RN,0,1,Náutico,False,False,first
-107,1978-04-12,América-MG,1,2,Santa Cruz,False,False,first
-108,1978-04-12,Campinense,0,3,Cruzeiro,False,False,first
-109,1978-04-12,Sport,0,1,Villa Nova-MG,False,False,first
-110,1978-04-13,ABC,1,1,Uberaba,False,False,first
-111,1978-04-15,América-MG,2,2,Campinense,False,False,first
-112,1978-04-16,Uberaba,0,1,Santa Cruz,False,False,first
-113,1978-04-16,Náutico,1,0,Sport,False,False,first
-114,1978-04-16,ABC,1,2,Cruzeiro,False,False,first
-115,1978-04-16,Botafogo-PB,1,1,Villa Nova-MG,False,False,first
-116,1978-04-19,Villa Nova-MG,0,1,Náutico,False,False,first
-117,1978-04-20,Botafogo-PB,1,3,Santa Cruz,False,False,first
-118,1978-04-20,Sport,2,0,América-MG,False,False,first
-119,1978-04-20,Uberlândia,2,0,Campinense,False,False,first
-120,1978-04-23,Uberlândia,1,1,Náutico,False,False,first
-121,1978-04-23,Botafogo-PB,1,0,América-MG,False,False,first
-122,1978-04-23,Uberaba,1,1,Campinense,False,False,first
-123,1978-04-23,Atlético-MG,0,2,Cruzeiro,False,False,first
-124,1978-04-23,América-RN,1,1,ABC,False,False,first
-125,1978-04-23,Santa Cruz,1,0,Sport,False,False,first
-126,1978-04-26,ABC,2,0,América-MG,False,False,first
-127,1978-04-26,Uberaba,1,3,Cruzeiro,False,False,first
-128,1978-04-26,Atlético-MG,2,0,Náutico,False,False,first
-129,1978-04-26,Botafogo-PB,1,3,Sport,False,False,first
-130,1978-04-27,Santa Cruz,3,0,Uberlândia,False,False,first
-131,1978-04-27,Villa Nova-MG,2,3,Campinense,False,False,first
-132,1978-04-29,Náutico,4,0,América-MG,False,False,first
-133,1978-04-30,Sport,0,0,Atlético-MG,False,False,first
-134,1978-04-30,América-RN,0,0,Santa Cruz,False,False,first
-135,1978-04-30,Campinense,0,1,ABC,False,False,first
-136,1978-04-30,Cruzeiro,1,0,Villa Nova-MG,False,False,first
-137,1978-05-01,Botafogo-PB,6,3,Uberlândia,False,False,first
-138,1978-05-03,América-RN,4,2,Uberlândia,False,False,first
-139,1978-05-03,América-MG,0,1,Villa Nova-MG,False,False,first
-140,1978-05-03,Campinense,0,3,Atlético-MG,False,False,first
-141,1978-05-04,Uberaba,1,3,Botafogo-PB,False,False,first
-142,1978-05-04,Náutico,4,2,ABC,False,False,first
-143,1978-05-06,América-RN,0,0,Atlético-MG,False,False,first
-144,1978-05-06,Villa Nova-MG,1,0,Uberaba,False,False,first
-145,1978-05-07,Cruzeiro,4,3,Botafogo-PB,False,False,first
-146,1978-05-07,Sport,2,0,Uberlândia,False,False,first
-147,1978-05-07,Santa Cruz,6,0,Campinense,False,False,first
-148,1978-05-09,Campinense,3,0,Botafogo-PB,False,False,first
-149,1978-05-09,Atlético-MG,2,0,América-MG,False,False,first
-150,1978-05-10,Náutico,2,1,Cruzeiro,False,False,first
-151,1978-05-10,Sport,2,0,América-RN,False,False,first
-152,1978-05-11,Atlético-MG,0,0,Uberaba,False,False,first
-153,1978-05-11,Uberlândia,0,1,ABC,False,False,first
-154,1978-05-14,Atlético-MG,5,0,ABC,False,False,first
-155,1978-05-14,América-RN,1,1,Cruzeiro,False,False,first
-156,1978-03-25,Santos,3,0,Goiás,False,False,first
-157,1978-03-26,Rio Branco-ES,0,0,Mixto,False,False,first
-158,1978-03-26,Anapolina,0,0,Corinthians,False,False,first
-159,1978-03-26,Operário-MT,0,2,Brasília,False,False,first
-160,1978-03-26,Vila Nova,1,1,Dom Bosco,False,False,first
-161,1978-03-29,Anapolina,1,1,Dom Bosco,False,False,first
-162,1978-03-29,Santos,1,1,Mixto,False,False,first
-163,1978-03-29,Brasília,0,1,Corinthians,False,False,first
-164,1978-03-29,Desportiva,0,0,Goiás,False,False,first
-165,1978-04-02,Desportiva,0,0,Rio Branco-ES,False,False,first
-166,1978-04-02,Dom Bosco,0,3,Santos,False,False,first
-167,1978-04-02,Anapolina,1,1,Operário-MT,False,False,first
-168,1978-04-02,Comercial-MT,2,2,Mixto,False,False,first
-169,1978-04-02,Goiás,0,0,Corinthians,False,False,first
-170,1978-04-05,Comercial-MT,1,0,Santos,False,False,first
-171,1978-04-06,Vila Nova,0,1,Operário-MT,False,False,first
-172,1978-04-06,Dom Bosco,3,1,Brasília,False,False,first
-173,1978-04-06,Rio Branco-ES,1,0,Anapolina,False,False,first
-174,1978-04-08,Corinthians,0,0,Santos,False,False,first
-175,1978-04-09,Brasília,2,2,Comercial-MT,False,False,first
-176,1978-04-09,Dom Bosco,3,0,Rio Branco-ES,False,False,first
-177,1978-04-09,Vila Nova,1,0,Anapolina,False,False,first
-178,1978-04-09,Desportiva,1,0,Operário-MT,False,False,first
-179,1978-04-12,Goiás,1,0,Comercial-MT,False,False,first
-180,1978-04-12,Operário-MT,3,0,Rio Branco-ES,False,False,first
-181,1978-04-16,Desportiva,0,1,Corinthians,False,False,first
-182,1978-04-16,Comercial-MT,0,0,Vila Nova,False,False,first
-183,1978-04-16,Brasília,1,0,Rio Branco-ES,False,False,first
-184,1978-04-16,Anapolina,0,2,Goiás,False,False,first
-185,1978-04-16,Dom Bosco,1,1,Mixto,False,False,first
-186,1978-04-20,Brasília,1,0,Anapolina,False,False,first
-187,1978-04-20,Desportiva,2,0,Dom Bosco,False,False,first
-188,1978-04-20,Goiás,2,0,Rio Branco-ES,False,False,first
-189,1978-04-20,Santos,1,2,Operário-MT,False,False,first
-190,1978-04-20,Mixto,2,0,Vila Nova,False,False,first
-191,1978-04-22,Brasília,1,2,Mixto,False,False,first
-192,1978-04-23,Corinthians,4,0,Dom Bosco,False,False,first
-193,1978-04-23,Operário-MT,1,1,Comercial-MT,False,False,first
-194,1978-04-23,Rio Branco-ES,2,2,Santos,False,False,first
-195,1978-04-23,Vila Nova,0,1,Goiás,False,False,first
-196,1978-04-26,Operário-MT,2,1,Dom Bosco,False,False,first
-197,1978-04-26,Santos,1,1,Desportiva,False,False,first
-198,1978-04-26,Rio Branco-ES,0,1,Comercial-MT,False,False,first
-199,1978-04-26,Goiás,1,1,Mixto,False,False,first
-200,1978-04-27,Vila Nova,0,0,Brasília,False,False,first
-201,1978-04-29,Corinthians,2,0,Comercial-MT,False,False,first
-202,1978-04-30,Operário-MT,1,0,Goiás,False,False,first
-203,1978-04-30,Desportiva,0,0,Brasília,False,False,first
-204,1978-04-30,Mixto,2,1,Anapolina,False,False,first
-205,1978-05-03,Comercial-MT,1,1,Anapolina,False,False,first
-206,1978-05-03,Dom Bosco,0,2,Goiás,False,False,first
-207,1978-05-03,Vila Nova,2,0,Desportiva,False,False,first
-208,1978-05-04,Corinthians,4,1,Rio Branco-ES,False,False,first
-209,1978-05-04,Mixto,0,0,Operário-MT,False,False,first
-210,1978-05-07,Anapolina,2,1,Desportiva,False,False,first
-211,1978-05-07,Vila Nova,1,3,Santos,False,False,first
-212,1978-05-07,Operário-MT,0,0,Corinthians,False,False,first
-213,1978-05-07,Dom Bosco,1,1,Comercial-MT,False,False,first
-214,1978-05-10,Mixto,0,0,Corinthians,False,False,first
-215,1978-05-10,Rio Branco-ES,1,4,Vila Nova,False,False,first
-216,1978-05-10,Brasília,2,1,Santos,False,False,first
-217,1978-05-11,Comercial-MT,0,0,Desportiva,False,False,first
-218,1978-05-14,Corinthians,3,0,Vila Nova,False,False,first
-219,1978-05-14,Anapolina,1,1,Santos,False,False,first
-220,1978-05-14,Goiás,4,0,Brasília,False,False,first
-221,1978-05-14,Mixto,3,0,Desportiva,False,False,first
-222,1978-03-26,Itabuna,0,2,Botafogo,False,False,first
-223,1978-03-26,Confiança,1,2,Vitória,False,False,first
-224,1978-03-26,CRB,0,0,Sergipe,False,False,first
-225,1978-03-26,Bahia,0,0,Ponte Preta-SP,False,False,first
-226,1978-03-26,Guarani,1,3,Vasco da Gama,False,False,first
-227,1978-03-29,CRB,2,0,Volta Redonda,False,False,first
-228,1978-03-29,Itabuna,0,4,Ponte Preta-SP,False,False,first
-229,1978-03-30,Vasco da Gama,4,0,CSA,False,False,first
-230,1978-03-30,Vitória,2,0,Sergipe,False,False,first
-231,1978-03-30,Guarani,2,1,Bahia,False,False,first
-232,1978-04-02,Volta Redonda,0,0,CSA,False,False,first
-233,1978-04-02,Vitória,2,2,Itabuna,False,False,first
-234,1978-04-02,Ponte Preta-SP,2,0,Sergipe,False,False,first
-235,1978-04-02,Botafogo,1,1,Bahia,False,False,first
-236,1978-04-02,Confiança,2,2,CRB,False,False,first
-237,1978-04-06,Botafogo,5,1,Sergipe,False,False,first
-238,1978-04-06,Bahia,2,1,CRB,False,False,first
-239,1978-04-06,Guarani,2,0,CSA,False,False,first
-240,1978-04-06,Confiança,1,0,Itabuna,False,False,first
-241,1978-04-09,Volta Redonda,0,1,Botafogo,False,False,first
-242,1978-04-09,Vasco da Gama,3,1,Ponte Preta-SP,False,False,first
-243,1978-04-09,Vitória,0,0,Guarani,False,False,first
-244,1978-04-09,CSA,0,2,Bahia,False,False,first
-245,1978-04-09,Itabuna,1,3,CRB,False,False,first
-246,1978-04-12,Vasco da Gama,4,1,Confiança,False,False,first
-247,1978-04-12,Sergipe,0,1,Bahia,False,False,first
-248,1978-04-12,CRB,1,1,Guarani,False,False,first
-249,1978-04-12,Ponte Preta-SP,3,0,Volta Redonda,False,False,first
-250,1978-04-16,Ponte Preta-SP,0,1,Botafogo,False,False,first
-251,1978-04-16,CSA,1,3,CRB,False,False,first
-252,1978-04-16,Bahia,1,1,Vasco da Gama,False,False,first
-253,1978-04-16,Volta Redonda,0,0,Confiança,False,False,first
-254,1978-04-16,Sergipe,0,0,Guarani,False,False,first
-255,1978-04-20,Sergipe,1,0,Volta Redonda,False,False,first
-256,1978-04-20,Vitória,3,1,CSA,False,False,first
-257,1978-04-20,Itabuna,0,1,Vasco da Gama,False,False,first
-258,1978-04-20,Guarani,5,0,Confiança,False,False,first
-259,1978-04-23,Bahia,0,1,Vitória,False,False,first
-260,1978-04-23,Vasco da Gama,0,0,Botafogo,False,False,first
-261,1978-04-23,Sergipe,1,2,CSA,False,False,first
-262,1978-04-23,Guarani,2,1,Ponte Preta-SP,False,False,first
-263,1978-04-23,Itabuna,1,1,Volta Redonda,False,False,first
-264,1978-04-26,Bahia,5,0,Volta Redonda,False,False,first
-265,1978-04-26,CRB,2,0,Vitória,False,False,first
-266,1978-04-27,Confiança,1,2,Ponte Preta-SP,False,False,first
-267,1978-04-30,Volta Redonda,0,2,Vasco da Gama,False,False,first
-268,1978-04-30,CSA,1,2,Ponte Preta-SP,False,False,first
-269,1978-04-30,Vitória,0,3,Botafogo,False,False,first
-270,1978-04-30,Guarani,7,0,Itabuna,False,False,first
-271,1978-04-30,Confiança,1,1,Sergipe,False,False,first
-272,1978-05-03,Confiança,0,1,Botafogo,False,False,first
-273,1978-05-04,CSA,2,0,Itabuna,False,False,first
-274,1978-05-07,Bahia,3,1,Itabuna,False,False,first
-275,1978-05-07,Ponte Preta-SP,2,2,CRB,False,False,first
-276,1978-05-07,Vasco da Gama,1,1,Vitória,False,False,first
-277,1978-05-07,CSA,0,0,Botafogo,False,False,first
-278,1978-05-10,Botafogo,1,0,CRB,False,False,first
-279,1978-05-10,Volta Redonda,2,0,Guarani,False,False,first
-280,1978-05-11,Sergipe,0,5,Vasco da Gama,False,False,first
-281,1978-05-11,Ponte Preta-SP,2,0,Vitória,False,False,first
-282,1978-05-11,CSA,3,1,Confiança,False,False,first
-283,1978-05-14,CRB,0,2,Vasco da Gama,False,False,first
-284,1978-05-14,Botafogo,1,1,Guarani,False,False,first
-285,1978-05-14,Volta Redonda,0,1,Vitória,False,False,first
-286,1978-05-14,Bahia,1,0,Confiança,False,False,first
-287,1978-05-14,Itabuna,2,1,Sergipe,False,False,first
-288,1978-03-26,América-SP,3,0,Flamengo-PI,False,False,first
-289,1978-03-26,River,0,0,Sampaio Corrêa,False,False,first
-290,1978-03-26,Ceará,1,0,Moto Clube,False,False,first
-291,1978-03-26,Botafogo-SP,0,0,Palmeiras,False,False,first
-292,1978-03-26,Noroeste,0,1,Comercial-SP,False,False,first
-293,1978-03-29,Botafogo-SP,3,0,Flamengo-PI,False,False,first
-294,1978-03-29,América-SP,2,1,Sampaio Corrêa,False,False,first
-295,1978-03-30,São Paulo,2,0,Fortaleza,False,False,first
-296,1978-04-01,Palmeiras,3,0,Flamengo-PI,False,False,first
-297,1978-04-02,River,1,2,Botafogo-SP,False,False,first
-298,1978-04-02,Moto Clube,2,0,Sampaio Corrêa,False,False,first
-299,1978-04-02,Comercial-SP,0,1,São Paulo,False,False,first
-300,1978-04-02,Noroeste,3,1,Fortaleza,False,False,first
-301,1978-04-06,Comercial-SP,0,0,Fortaleza,False,False,first
-302,1978-04-06,Ceará,2,0,América-SP,False,False,first
-303,1978-04-06,Moto Clube,2,2,Botafogo-SP,False,False,first
-304,1978-04-06,São Paulo,6,1,River,False,False,first
-305,1978-04-09,Flamengo-PI,0,1,Ceará,False,False,first
-306,1978-04-09,Fortaleza,1,2,Botafogo-SP,False,False,first
-307,1978-04-09,Noroeste,0,0,Palmeiras,False,False,first
-308,1978-04-09,Moto Clube,1,0,América-SP,False,False,first
-309,1978-04-09,Comercial-SP,3,0,River,False,False,first
-310,1978-04-12,Flamengo-PI,0,0,Moto Clube,False,False,first
-311,1978-04-12,América-SP,1,0,São Paulo,False,False,first
-312,1978-04-12,Ceará,1,2,Comercial-SP,False,False,first
-313,1978-04-12,Noroeste,2,0,River,False,False,first
-314,1978-04-13,Fortaleza,2,0,Sampaio Corrêa,False,False,first
-315,1978-04-15,Palmeiras,4,0,Ceará,False,False,first
-316,1978-04-16,América-SP,1,0,Botafogo-SP,False,False,first
-317,1978-04-16,Moto Clube,0,0,River,False,False,first
-318,1978-04-16,Flamengo-PI,1,1,Comercial-SP,False,False,first
-319,1978-04-19,Flamengo-PI,0,0,Noroeste,False,False,first
-320,1978-04-20,América-SP,0,1,Palmeiras,False,False,first
-321,1978-04-20,River,1,0,Fortaleza,False,False,first
-322,1978-04-20,Sampaio Corrêa,1,2,Comercial-SP,False,False,first
-323,1978-04-20,Botafogo-SP,1,2,Ceará,False,False,first
-324,1978-04-23,São Paulo,0,0,Palmeiras,False,False,first
-325,1978-04-23,River,1,1,Flamengo-PI,False,False,first
-326,1978-04-23,Comercial-SP,1,1,Botafogo-SP,False,False,first
-327,1978-04-23,Sampaio Corrêa,1,0,Noroeste,False,False,first
-328,1978-04-23,Ceará,1,1,Fortaleza,False,False,first
-329,1978-04-26,Ceará,0,0,Noroeste,False,False,first
-330,1978-04-27,Palmeiras,6,0,Sampaio Corrêa,False,False,first
-331,1978-04-27,Moto Clube,0,0,Fortaleza,False,False,first
-332,1978-04-27,Flamengo-PI,0,3,São Paulo,False,False,first
-333,1978-04-30,Palmeiras,2,1,Comercial-SP,False,False,first
-334,1978-04-30,Botafogo-SP,4,1,Sampaio Corrêa,False,False,first
-335,1978-04-30,América-SP,2,0,Noroeste,False,False,first
-336,1978-04-30,Ceará,2,1,São Paulo,False,False,first
-337,1978-05-03,Sampaio Corrêa,2,2,São Paulo,False,False,first
-338,1978-05-03,Botafogo-SP,6,1,Noroeste,False,False,first
-339,1978-05-04,Ceará,2,0,River,False,False,first
-340,1978-05-04,Moto Clube,1,0,Palmeiras,False,False,first
-341,1978-05-07,São Paulo,6,2,Botafogo-SP,False,False,first
-342,1978-05-07,Comercial-SP,0,1,América-SP,False,False,first
-343,1978-05-07,Sampaio Corrêa,1,0,Flamengo-PI,False,False,first
-344,1978-05-07,Fortaleza,1,1,Palmeiras,False,False,first
-345,1978-05-07,Noroeste,2,0,Moto Clube,False,False,first
-346,1978-05-10,Fortaleza,1,0,América-SP,False,False,first
-347,1978-05-10,Noroeste,1,0,São Paulo,False,False,first
-348,1978-05-10,River,1,3,Palmeiras,False,False,first
-349,1978-05-11,Comercial-SP,0,0,Moto Clube,False,False,first
-350,1978-05-14,São Paulo,2,0,Moto Clube,False,False,first
-351,1978-05-14,River,3,2,América-SP,False,False,first
-352,1978-05-14,Sampaio Corrêa,1,1,Ceará,False,False,first
-353,1978-05-14,Fortaleza,3,0,Flamengo-PI,False,False,first
-354,1978-03-26,Portuguesa-SP,1,0,América-RJ,False,False,first
-355,1978-03-26,Fast,2,0,Bangu,False,False,first
-356,1978-03-26,Americano,0,1,Goytacaz,False,False,first
-357,1978-03-26,Flamengo,1,0,Fluminense,False,False,first
-358,1978-03-26,Remo,0,0,Paysandu,False,False,first
-359,1978-03-29,XV de Novembro,1,3,América-RJ,False,False,first
-360,1978-03-29,Fluminense,0,0,Americano,False,False,first
-361,1978-03-29,Remo,3,0,Bangu,False,False,first
-362,1978-03-29,Fast,0,1,Flamengo,False,False,first
-363,1978-04-02,Bangu,3,2,XV de Novembro,False,False,first
-364,1978-04-02,Remo,0,1,Flamengo,False,False,first
-365,1978-04-02,Nacional-AM,0,1,Goytacaz,False,False,first
-366,1978-04-02,Portuguesa-SP,2,0,Fluminense,False,False,first
-367,1978-04-05,Fast,0,3,Remo,False,False,first
-368,1978-04-05,Portuguesa-SP,3,0,Bangu,False,False,first
-369,1978-04-06,Nacional-AM,1,2,América-RJ,False,False,first
-370,1978-04-06,XV de Novembro,1,1,Fluminense,False,False,first
-371,1978-04-06,Paysandu,2,0,Goytacaz,False,False,first
-372,1978-04-08,Americano,1,0,Bangu,False,False,first
-373,1978-04-09,Remo,2,0,América-RJ,False,False,first
-374,1978-04-09,Goytacaz,0,1,Flamengo,False,False,first
-375,1978-04-09,Nacional-AM,0,2,Fluminense,False,False,first
-376,1978-04-09,XV de Novembro,0,2,Portuguesa-SP,False,False,first
-377,1978-04-12,Paysandu,1,2,Fluminense,False,False,first
-378,1978-04-12,Portuguesa-SP,1,1,Goytacaz,False,False,first
-379,1978-04-12,Fast,0,0,Americano,False,False,first
-380,1978-04-16,Flamengo,2,3,América-RJ,False,False,first
-381,1978-04-16,XV de Novembro,0,0,Goytacaz,False,False,first
-382,1978-04-16,Bangu,0,1,Fluminense,False,False,first
-383,1978-04-16,Remo,1,1,Americano,False,False,first
-384,1978-04-16,Nacional-AM,0,2,Paysandu,False,False,first
-385,1978-04-19,Paysandu,1,1,XV de Novembro,False,False,first
-386,1978-04-20,Nacional-AM,1,3,Portuguesa-SP,False,False,first
-387,1978-04-20,América-RJ,1,1,Goytacaz,False,False,first
-388,1978-04-20,Americano,0,1,Flamengo,False,False,first
-389,1978-04-22,Remo,2,0,XV de Novembro,False,False,first
-390,1978-04-23,Bangu,1,4,Flamengo,False,False,first
-391,1978-04-23,Americano,0,0,América-RJ,False,False,first
-392,1978-04-23,Nacional-AM,0,2,Fast,False,False,first
-393,1978-04-23,Paysandu,0,0,Portuguesa-SP,False,False,first
-394,1978-04-26,Fast,1,0,XV de Novembro,False,False,first
-395,1978-04-27,Flamengo,2,1,Nacional-AM,False,False,first
-396,1978-04-30,Goytacaz,0,2,Remo,False,False,first
-397,1978-04-30,Flamengo,2,1,Portuguesa-SP,False,False,first
-398,1978-04-30,Paysandu,0,0,Fast,False,False,first
-399,1978-04-30,XV de Novembro,2,0,Nacional-AM,False,False,first
-400,1978-04-30,Bangu,2,0,América-RJ,False,False,first
-401,1978-05-03,América-RJ,2,1,Fast,False,False,first
-402,1978-05-03,Americano,0,0,Nacional-AM,False,False,first
-403,1978-05-03,Portuguesa-SP,1,0,Remo,False,False,first
-404,1978-05-04,Flamengo,2,0,Paysandu,False,False,first
-405,1978-05-04,Goytacaz,0,1,Fluminense,False,False,first
-406,1978-05-07,Portuguesa-SP,6,0,Fast,False,False,first
-407,1978-05-07,XV de Novembro,1,2,Flamengo,False,False,first
-408,1978-05-07,Fluminense,0,2,América-RJ,False,False,first
-409,1978-05-07,Americano,2,0,Paysandu,False,False,first
-410,1978-05-07,Bangu,0,1,Nacional-AM,False,False,first
-411,1978-05-09,Fluminense,1,0,Remo,False,False,first
-412,1978-05-10,Portuguesa-SP,0,0,Americano,False,False,first
-413,1978-05-10,América-RJ,0,0,Paysandu,False,False,first
-414,1978-05-11,Fluminense,1,2,Fast,False,False,first
-415,1978-05-11,Goytacaz,3,0,Bangu,False,False,first
-416,1978-05-14,Bangu,4,0,Paysandu,False,False,first
-417,1978-05-14,Goytacaz,1,0,Fast,False,False,first
-418,1978-05-14,Remo,2,0,Nacional-AM,False,False,first
-419,1978-05-14,XV de Novembro,1,1,Americano,False,False,first
-420,1978-05-21,Cruzeiro,0,0,Atlético-MG,False,False,second
-421,1978-05-21,Vitória,2,1,Mixto,False,False,second
-422,1978-05-21,América-SP,0,1,Ponte Preta-SP,False,False,second
-423,1978-05-24,Atlético-MG,2,2,América-SP,False,False,second
-424,1978-05-24,Mixto,0,1,Cruzeiro,False,False,second
-425,1978-05-28,Cruzeiro,1,1,Internacional,False,False,second
-426,1978-05-28,Ponte Preta-SP,0,0,Atlético-MG,False,False,second
-427,1978-05-31,Internacional,2,0,Vitória,False,False,second
-428,1978-05-31,Atlético-MG,1,1,Mixto,False,False,second
-429,1978-05-31,Palmeiras,1,0,América-SP,False,False,second
-430,1978-05-31,Ponte Preta-SP,1,1,Goytacaz,False,False,second
-431,1978-06-04,Palmeiras,1,1,Cruzeiro,False,False,second
-432,1978-06-04,Internacional,2,1,Atlético-MG,False,False,second
-433,1978-06-04,Goytacaz,0,1,Vitória,False,False,second
-434,1978-06-04,América-SP,5,0,Mixto,False,False,second
-435,1978-06-07,Vitória,1,1,Ponte Preta-SP,False,False,second
-436,1978-06-08,Internacional,2,1,Goytacaz,False,False,second
-437,1978-06-08,Palmeiras,1,0,Mixto,False,False,second
-438,1978-06-08,América-SP,0,1,Cruzeiro,False,False,second
-439,1978-06-10,Ponte Preta-SP,1,2,Internacional,False,False,second
-440,1978-06-11,Atlético-MG,0,1,Palmeiras,False,False,second
-441,1978-06-11,Goytacaz,1,1,América-SP,False,False,second
-442,1978-06-13,Goytacaz,1,1,Atlético-MG,False,False,second
-443,1978-06-13,Vitória,0,1,Cruzeiro,False,False,second
-444,1978-06-13,Ponte Preta-SP,2,0,Palmeiras,False,False,second
-445,1978-06-13,Mixto,1,2,Internacional,False,False,second
-446,1978-06-17,Internacional,0,0,Palmeiras,False,False,second
-447,1978-06-18,Mixto,2,1,Ponte Preta-SP,False,False,second
-448,1978-06-18,Cruzeiro,3,1,Goytacaz,False,False,second
-449,1978-06-18,América-SP,0,0,Vitória,False,False,second
-450,1978-06-20,Mixto,1,2,Goytacaz,False,False,second
-451,1978-06-21,Palmeiras,0,0,Vitória,False,False,second
-452,1978-06-24,Internacional,2,1,América-SP,False,False,second
-453,1978-06-24,Goytacaz,2,1,Palmeiras,False,False,second
-454,1978-06-24,Vitória,0,2,Atlético-MG,False,False,second
-455,1978-06-24,Cruzeiro,1,0,Ponte Preta-SP,False,False,second
-456,1978-05-21,Fluminense,1,0,Santos,False,False,second
-457,1978-05-21,Goiás,3,0,Bahia,False,False,second
-458,1978-05-21,Santa Cruz,1,0,Náutico,False,False,second
-459,1978-05-24,Ceará,1,1,Náutico,False,False,second
-460,1978-05-24,Joinville,0,0,Santa Cruz,False,False,second
-461,1978-05-24,Goiás,0,0,Santos,False,False,second
-462,1978-05-28,Bahia,1,1,Fluminense,False,False,second
-463,1978-05-28,Grêmio,1,1,Santa Cruz,False,False,second
-464,1978-05-28,Náutico,2,0,Santos,False,False,second
-465,1978-05-31,Santos,1,1,Santa Cruz,False,False,second
-466,1978-05-31,Ceará,3,0,Grêmio,False,False,second
-467,1978-05-31,Bahia,1,0,Náutico,False,False,second
-468,1978-06-01,Fluminense,1,1,Joinville,False,False,second
-469,1978-06-04,Goiás,2,1,Fluminense,False,False,second
-470,1978-06-04,Náutico,1,1,Grêmio,False,False,second
-471,1978-06-04,Joinville,1,0,Ceará,False,False,second
-472,1978-06-04,Bahia,3,0,Santos,False,False,second
-473,1978-06-07,Santa Cruz,2,1,Bahia,False,False,second
-474,1978-06-07,Santos,2,1,Ceará,False,False,second
-475,1978-06-07,Joinville,0,2,Goiás,False,False,second
-476,1978-06-10,Santa Cruz,1,0,Fluminense,False,False,second
-477,1978-06-10,Bahia,2,1,Ceará,False,False,second
-478,1978-06-10,Santos,3,0,Joinville,False,False,second
-479,1978-06-11,Grêmio,4,1,Goiás,False,False,second
-480,1978-06-13,Ceará,0,1,Fluminense,False,False,second
-481,1978-06-13,Grêmio,0,0,Bahia,False,False,second
-482,1978-06-13,Náutico,4,1,Joinville,False,False,second
-483,1978-06-17,Santos,0,0,Grêmio,False,False,second
-484,1978-06-17,Joinville,2,2,Bahia,False,False,second
-485,1978-06-17,Ceará,3,2,Goiás,False,False,second
-486,1978-06-20,Grêmio,2,1,Joinville,False,False,second
-487,1978-06-20,Fluminense,2,1,Náutico,False,False,second
-488,1978-06-20,Santa Cruz,1,0,Goiás,False,False,second
-489,1978-06-24,Santa Cruz,4,2,Ceará,False,False,second
-490,1978-06-24,Fluminense,0,0,Grêmio,False,False,second
-491,1978-06-24,Goiás,3,0,Náutico,False,False,second
-492,1978-05-21,Corinthians,1,1,Flamengo,False,False,second
-493,1978-05-21,Sport,0,0,Comercial-SP,False,False,second
-494,1978-05-21,Botafogo,2,0,América-RJ,False,False,second
-495,1978-05-21,Botafogo-SP,3,0,Operário-MT,False,False,second
-496,1978-05-24,Corinthians,1,0,Botafogo-SP,False,False,second
-497,1978-05-24,Flamengo,0,0,Sport,False,False,second
-498,1978-05-24,América-RJ,2,0,Comercial-SP,False,False,second
-499,1978-05-28,Corinthians,0,1,América-RJ,False,False,second
-500,1978-05-28,Flamengo,1,1,Botafogo,False,False,second
-501,1978-05-28,Botafogo-SP,1,0,Sport,False,False,second
-502,1978-05-28,Juventude,1,3,Operário-MT,False,False,second
-503,1978-05-30,Flamengo,2,0,Juventude,False,False,second
-504,1978-05-30,Operário-MT,1,3,Sport,False,False,second
-505,1978-05-30,Botafogo-SP,3,1,América-RJ,False,False,second
-506,1978-06-04,Juventude,1,1,América-SP,False,False,second
-507,1978-06-04,Operário-MT,1,0,Flamengo,False,False,second
-508,1978-06-04,Botafogo-SP,2,2,Botafogo,False,False,second
-509,1978-06-07,Corinthians,1,0,Comercial-SP,False,False,second
-510,1978-06-07,Flamengo,2,0,Botafogo-SP,False,False,second
-511,1978-06-08,Sport,4,1,Juventude,False,False,second
-512,1978-06-10,Operário-MT,1,1,América-RJ,False,False,second
-513,1978-06-10,Comercial-SP,1,1,Flamengo,False,False,second
-514,1978-06-10,Botafogo,2,1,Corinthians,False,False,second
-515,1978-06-13,Botafogo,0,0,Operário-MT,False,False,second
-516,1978-06-13,Comercial-SP,2,2,Juventude,False,False,second
-517,1978-06-17,Botafogo-SP,1,0,Comercial-SP,False,False,second
-518,1978-06-17,Flamengo,0,2,América-RJ,False,False,second
-519,1978-06-17,Sport,1,2,Botafogo,False,False,second
-520,1978-06-18,Corinthians,2,0,Juventude,False,False,second
-521,1978-06-20,Juventude,1,0,Botafogo-SP,False,False,second
-522,1978-06-20,América-RJ,1,1,Sport,False,False,second
-523,1978-06-21,Corinthians,1,0,Operário-MT,False,False,second
-524,1978-06-22,Botafogo,3,0,Comercial-SP,False,False,second
-525,1978-06-24,Juventude,0,3,Botafogo,False,False,second
-526,1978-06-24,Operário-MT,1,0,Comercial-SP,False,False,second
-527,1978-06-24,Sport,3,0,Corinthians,False,False,second
-528,1978-05-21,Coritiba,0,2,Portuguesa-SP,False,False,second
-529,1978-05-21,Vasco da Gama,2,0,Villa Nova-MG,False,False,second
-530,1978-05-21,Guarani,1,1,São Paulo,False,False,second
-531,1978-05-21,Remo,2,0,Brasília,False,False,second
-532,1978-05-24,Brasília,0,3,Guarani,False,False,second
-533,1978-05-24,São Paulo,4,1,Coritiba,False,False,second
-534,1978-05-27,Villa Nova-MG,2,1,Portuguesa-SP,False,False,second
-535,1978-05-28,Brasília,0,1,Caxias,False,False,second
-536,1978-05-28,Remo,5,1,Guarani,False,False,second
-537,1978-05-28,Coritiba,0,2,Vasco da Gama,False,False,second
-538,1978-05-30,São Paulo,4,1,Villa Nova-MG,False,False,second
-539,1978-05-30,Brasília,1,2,Portuguesa-SP,False,False,second
-540,1978-05-30,Vasco da Gama,4,1,Caxias,False,False,second
-541,1978-06-04,Coritiba,2,0,Villa Nova-MG,False,False,second
-542,1978-06-04,Guarani,3,0,Caxias,False,False,second
-543,1978-06-04,Vasco da Gama,1,2,São Paulo,False,False,second
-544,1978-06-04,Remo,3,3,Portuguesa-SP,False,False,second
-545,1978-06-07,São Paulo,0,0,Brasília,False,False,second
-546,1978-06-08,Caxias,4,0,Villa Nova-MG,False,False,second
-547,1978-06-08,Vasco da Gama,2,2,Guarani,False,False,second
-548,1978-06-10,Caxias,0,0,Coritiba,False,False,second
-549,1978-06-10,Remo,0,5,Vasco da Gama,False,False,second
-550,1978-06-10,Portuguesa-SP,2,1,São Paulo,False,False,second
-551,1978-06-13,Portuguesa-SP,2,0,Guarani,False,False,second
-552,1978-06-13,Villa Nova-MG,0,2,Remo,False,False,second
-553,1978-06-17,Caxias,0,0,São Paulo,False,False,second
-554,1978-06-17,Coritiba,2,0,Remo,False,False,second
-555,1978-06-17,Vasco da Gama,2,0,Brasília,False,False,second
-556,1978-06-20,Villa Nova-MG,3,0,Brasília,False,False,second
-557,1978-06-20,Guarani,0,0,Coritiba,False,False,second
-558,1978-06-20,Portuguesa-SP,2,1,Caxias,False,False,second
-559,1978-06-20,São Paulo,1,0,Remo,False,False,second
-560,1978-06-24,Portuguesa-SP,1,1,Vasco da Gama,False,False,second
-561,1978-06-24,Guarani,2,0,Villa Nova-MG,False,False,second
-562,1978-06-24,Brasília,0,3,Coritiba,False,False,second
-563,1978-06-24,Caxias,4,0,Remo,False,False,second
-564,1978-05-21,Colorado,3,2,Grêmio Maringá,False,False,second
-565,1978-05-21,Londrina,1,0,Atlético-PR,False,False,second
-566,1978-05-24,Chapecoense,0,0,Grêmio Maringá,False,False,second
-567,1978-05-24,Figueirense,0,1,Londrina,False,False,second
-568,1978-05-27,Atlético-PR,0,1,Colorado,False,False,second
-569,1978-05-28,Grêmio Maringá,2,0,Figueirense,False,False,second
-570,1978-05-28,GE Brasil,2,3,Londrina,False,False,second
-571,1978-05-31,GE Brasil,2,0,Atlético-PR,False,False,second
-572,1978-05-31,Chapecoense,0,0,Colorado,False,False,second
-573,1978-06-04,Londrina,0,0,Colorado,False,False,second
-574,1978-06-04,GE Brasil,0,2,Figueirense,False,False,second
-575,1978-06-04,Grêmio Maringá,2,1,Atlético-PR,False,False,second
-576,1978-06-10,Colorado,3,0,GE Brasil,False,False,second
-577,1978-06-13,Figueirense,0,1,Chapecoense,False,False,second
-578,1978-06-17,Londrina,3,1,Grêmio Maringá,False,False,second
-579,1978-06-17,Figueirense,3,1,Colorado,False,False,second
-580,1978-06-18,Atlético-PR,1,1,Chapecoense,False,False,second
-581,1978-06-20,Chapecoense,1,1,GE Brasil,False,False,second
-582,1978-06-24,Atlético-PR,1,1,Figueirense,False,False,second
-583,1978-06-24,Londrina,3,1,Chapecoense,False,False,second
-584,1978-06-24,Grêmio Maringá,4,0,GE Brasil,False,False,second
-585,1978-05-21,ABC,1,1,América-RN,False,False,second
-586,1978-05-21,Uberaba,1,1,Uberlândia,False,False,second
-587,1978-05-21,Botafogo-PB,4,0,Campinense,False,False,second
-588,1978-05-24,Uberlândia,2,0,América-RN,False,False,second
-589,1978-05-27,Uberaba,0,0,ABC,False,False,second
-590,1978-05-27,Uberlândia,0,1,América-MG,False,False,second
-591,1978-05-28,América-RN,2,2,Campinense,False,False,second
-592,1978-05-30,América-MG,1,1,ABC,False,False,second
-593,1978-06-04,América-MG,1,1,Uberaba,False,False,second
-594,1978-06-04,ABC,2,0,Campinense,False,False,second
-595,1978-06-04,Uberlândia,0,0,Botafogo-PB,False,False,second
-596,1978-06-08,América-MG,0,2,Botafogo-PB,False,False,second
-597,1978-06-13,Botafogo-PB,1,0,América-RN,False,False,second
-598,1978-06-13,Campinense,1,1,Uberaba,False,False,second
-599,1978-06-17,Botafogo-PB,1,0,Uberaba,False,False,second
-600,1978-06-17,ABC,1,0,Uberlândia,False,False,second
-601,1978-06-20,Campinense,0,0,Uberlândia,False,False,second
-602,1978-06-20,América-RN,1,1,América-MG,False,False,second
-603,1978-06-22,ABC,2,2,Botafogo-PB,False,False,second
-604,1978-06-22,Campinense,1,0,América-MG,False,False,second
-605,1978-06-22,Uberaba,3,2,América-RN,False,False,second
-606,1978-05-21,Desportiva,2,0,Vila Nova,False,False,second
-607,1978-05-21,Dom Bosco,3,0,Anapolina,False,False,second
-608,1978-05-28,Desportiva,2,1,Rio Branco-ES,False,False,second
-609,1978-05-28,Vila Nova,1,0,Anapolina,False,False,second
-610,1978-05-28,Comercial-MT,3,1,Dom Bosco,False,False,second
-611,1978-06-04,Rio Branco-ES,0,0,Dom Bosco,False,False,second
-612,1978-06-08,Dom Bosco,2,0,Vila Nova,False,False,second
-613,1978-06-13,Vila Nova,2,2,Comercial-MT,False,False,second
-614,1978-06-17,Comercial-MT,1,2,Rio Branco-ES,False,False,second
-615,1978-06-17,Desportiva,0,2,Anapolina,False,False,second
-616,1978-06-20,Comercial-MT,1,0,Desportiva,False,False,second
-617,1978-06-20,Anapolina,2,2,Rio Branco-ES,False,False,second
-618,1978-06-23,Dom Bosco,2,1,Desportiva,False,False,second
-619,1978-06-24,Anapolina,0,0,Comercial-MT,False,False,second
-620,1978-06-24,Vila Nova,2,1,Rio Branco-ES,False,False,second
-621,1978-05-21,CSA,0,0,CRB,False,False,second
-622,1978-05-21,Confiança,2,1,Sergipe,False,False,second
-623,1978-05-21,Volta Redonda,1,0,Itabuna,False,False,second
-624,1978-05-24,CRB,1,0,Confiança,False,False,second
-625,1978-05-24,Itabuna,1,1,CSA,False,False,second
-626,1978-05-28,Volta Redonda,1,0,Sergipe,False,False,second
-627,1978-05-28,Confiança,3,1,CSA,False,False,second
-628,1978-05-28,CRB,1,0,Itabuna,False,False,second
-629,1978-05-30,Sergipe,0,2,Itabuna,False,False,second
-630,1978-05-31,CSA,3,1,Volta Redonda,False,False,second
-631,1978-06-04,Confiança,0,3,Volta Redonda,False,False,second
-632,1978-06-13,Sergipe,0,2,CRB,False,False,second
-633,1978-06-17,Itabuna,3,0,Confiança,False,False,second
-634,1978-06-17,CSA,3,1,Sergipe,False,False,second
-635,1978-06-17,Volta Redonda,2,1,CRB,False,False,second
-636,1978-05-21,River,0,1,Flamengo-PI,False,False,second
-637,1978-05-21,Fortaleza,2,1,Moto Clube,False,False,second
-638,1978-05-21,Noroeste,2,0,Sampaio Corrêa,False,False,second
-639,1978-05-24,River,1,2,Noroeste,False,False,second
-640,1978-05-28,Fortaleza,2,0,Flamengo-PI,False,False,second
-641,1978-05-28,Moto Clube,1,0,Noroeste,False,False,second
-642,1978-05-31,Moto Clube,0,1,Flamengo-PI,False,False,second
-643,1978-06-04,Fortaleza,1,0,River,False,False,second
-644,1978-06-04,Sampaio Corrêa,0,0,Moto Clube,False,False,second
-645,1978-06-13,Flamengo-PI,2,0,Sampaio Corrêa,False,False,second
-646,1978-06-17,Sampaio Corrêa,2,0,River,False,False,second
-647,1978-06-17,Noroeste,2,1,Fortaleza,False,False,second
-648,1978-06-24,River,4,2,Moto Clube,False,False,second
-649,1978-06-24,Sampaio Corrêa,1,1,Fortaleza,False,False,second
-650,1978-06-24,Noroeste,2,1,Flamengo-PI,False,False,second
-651,1978-05-21,Fast,1,0,Nacional-AM,False,False,second
-652,1978-05-21,XV de Novembro,2,1,Paysandu,False,False,second
-653,1978-05-21,Bangu,0,0,Americano,False,False,second
-654,1978-05-25,Americano,4,0,Nacional-AM,False,False,second
-655,1978-05-27,Paysandu,0,0,Americano,False,False,second
-656,1978-05-28,Bangu,1,0,Nacional-AM,False,False,second
-657,1978-05-28,XV de Novembro,3,0,Fast,False,False,second
-658,1978-05-31,Americano,1,0,Fast,False,False,second
-659,1978-06-04,Fast,2,2,Paysandu,False,False,second
-660,1978-06-04,XV de Novembro,0,1,Bangu,False,False,second
-661,1978-06-13,Paysandu,2,2,Bangu,False,False,second
-662,1978-06-13,Nacional-AM,1,1,XV de Novembro,False,False,second
-663,1978-06-17,Paysandu,4,0,Nacional-AM,False,False,second
-664,1978-06-17,Fast,1,5,Bangu,False,False,second
-665,1978-06-17,Americano,3,1,XV de Novembro,False,False,second
-666,1978-07-03,Internacional,0,3,Guarani,False,False,third
-667,1978-07-03,Botafogo-SP,1,2,Londrina,False,False,third
-668,1978-07-03,Santos,4,0,Goytacaz,False,False,third
-669,1978-07-03,Botafogo-PB,0,1,Goiás,False,False,third
-670,1978-07-05,Botafogo-PB,2,1,Goytacaz,False,False,third
-671,1978-07-05,Botafogo-SP,2,1,Santos,False,False,third
-672,1978-07-05,Goiás,1,1,Guarani,False,False,third
-673,1978-07-06,Londrina,1,2,Internacional,False,False,third
-674,1978-07-08,Guarani,2,1,Santos,False,False,third
-675,1978-07-09,Internacional,3,0,Goytacaz,False,False,third
-676,1978-07-09,Londrina,1,2,Botafogo-PB,False,False,third
-677,1978-07-09,Botafogo-SP,4,0,Goiás,False,False,third
-678,1978-07-13,Goiás,0,1,Internacional,False,False,third
-679,1978-07-13,Goytacaz,0,2,Botafogo-SP,False,False,third
-680,1978-07-13,Guarani,1,0,Botafogo-PB,False,False,third
-681,1978-07-13,Santos,0,0,Londrina,False,False,third
-682,1978-07-16,Internacional,1,0,Santos,False,False,third
-683,1978-07-16,Botafogo-SP,2,1,Botafogo-PB,False,False,third
-684,1978-07-16,Goiás,5,0,Londrina,False,False,third
-685,1978-07-16,Guarani,3,0,Goytacaz,False,False,third
-686,1978-07-19,Santos,3,0,Goiás,False,False,third
-687,1978-07-19,Internacional,3,0,Botafogo-PB,False,False,third
-688,1978-07-19,Goytacaz,2,0,Londrina,False,False,third
-689,1978-07-19,Guarani,1,0,Botafogo-SP,False,False,third
-690,1978-07-23,Goiás,2,0,Goytacaz,False,False,third
-691,1978-07-23,Londrina,0,1,Guarani,False,False,third
-692,1978-07-23,Botafogo-PB,1,1,Santos,False,False,third
-693,1978-07-23,Internacional,2,1,Botafogo-SP,False,False,third
-694,1978-07-01,Fluminense,0,0,Portuguesa-SP,False,False,third
-695,1978-07-03,Volta Redonda,0,0,Ponte Preta-SP,False,False,third
-696,1978-07-03,Dom Bosco,0,2,Operário-MT,False,False,third
-697,1978-07-03,Santa Cruz,3,0,Sport,False,False,third
-698,1978-07-05,Operário-MT,1,0,Volta Redonda,False,False,third
-699,1978-07-05,Ponte Preta-SP,0,0,Fluminense,False,False,third
-700,1978-07-06,Dom Bosco,2,3,Sport,False,False,third
-701,1978-07-06,Portuguesa-SP,1,1,Santa Cruz,False,False,third
-702,1978-07-09,Ponte Preta-SP,0,0,Sport,False,False,third
-703,1978-07-09,Volta Redonda,1,1,Dom Bosco,False,False,third
-704,1978-07-09,Operário-MT,1,0,Portuguesa-SP,False,False,third
-705,1978-07-09,Fluminense,1,1,Santa Cruz,False,False,third
-706,1978-07-13,Portuguesa-SP,0,0,Ponte Preta-SP,False,False,third
-707,1978-07-13,Santa Cruz,2,1,Dom Bosco,False,False,third
-708,1978-07-13,Fluminense,3,0,Volta Redonda,False,False,third
-709,1978-07-13,Sport,0,0,Operário-MT,False,False,third
-710,1978-07-15,Portuguesa-SP,2,0,Dom Bosco,False,False,third
-711,1978-07-16,Volta Redonda,0,3,Sport,False,False,third
-712,1978-07-16,Fluminense,2,1,Operário-MT,False,False,third
-713,1978-07-16,Santa Cruz,2,2,Ponte Preta-SP,False,False,third
-714,1978-07-19,Sport,2,1,Portuguesa-SP,False,False,third
-715,1978-07-20,Santa Cruz,5,1,Volta Redonda,False,False,third
-716,1978-07-20,Ponte Preta-SP,3,0,Operário-MT,False,False,third
-717,1978-07-20,Dom Bosco,2,1,Fluminense,False,False,third
-718,1978-07-23,Portuguesa-SP,2,1,Volta Redonda,False,False,third
-719,1978-07-23,Sport,1,0,Fluminense,False,False,third
-720,1978-07-23,Operário-MT,3,3,Santa Cruz,False,False,third
-721,1978-07-23,Ponte Preta-SP,3,0,Dom Bosco,False,False,third
-722,1978-07-03,São Paulo,0,1,Grêmio,False,False,third
-723,1978-07-03,Palmeiras,3,0,América-RJ,False,False,third
-724,1978-07-03,Noroeste,0,1,Coritiba,False,False,third
-725,1978-07-03,Flamengo,1,1,Botafogo,False,False,third
-726,1978-07-05,Flamengo,1,1,Palmeiras,False,False,third
-727,1978-07-05,Coritiba,0,1,Grêmio,False,False,third
-728,1978-07-05,São Paulo,2,2,Noroeste,False,False,third
-729,1978-07-06,Botafogo,3,1,América-RJ,False,False,third
-730,1978-07-09,Coritiba,0,0,Botafogo,False,False,third
-731,1978-07-09,São Paulo,1,1,Palmeiras,False,False,third
-732,1978-07-09,Noroeste,0,2,América-RJ,False,False,third
-733,1978-07-09,Grêmio,5,2,Flamengo,False,False,third
-734,1978-07-13,Coritiba,0,0,Palmeiras,False,False,third
-735,1978-07-13,Grêmio,1,0,América-RJ,False,False,third
-736,1978-07-13,São Paulo,0,0,Flamengo,False,False,third
-737,1978-07-13,Noroeste,1,1,Botafogo,False,False,third
-738,1978-07-15,Grêmio,6,0,Noroeste,False,False,third
-739,1978-07-15,América-RJ,2,1,São Paulo,False,False,third
-740,1978-07-15,Flamengo,3,1,Coritiba,False,False,third
-741,1978-07-16,Palmeiras,1,2,Botafogo,False,False,third
-742,1978-07-19,Palmeiras,4,0,Noroeste,False,False,third
-743,1978-07-19,América-RJ,1,0,Flamengo,False,False,third
-744,1978-07-19,Coritiba,2,1,São Paulo,False,False,third
-745,1978-07-20,Botafogo,0,3,Grêmio,False,False,third
-746,1978-07-23,América-RJ,1,1,Coritiba,False,False,third
-747,1978-07-23,Botafogo,2,1,São Paulo,False,False,third
-748,1978-07-23,Noroeste,1,0,Flamengo,False,False,third
-749,1978-07-23,Grêmio,1,1,Palmeiras,False,False,third
-750,1978-07-03,Cruzeiro,2,2,Vasco da Gama,False,False,third
-751,1978-07-03,Grêmio Maringá,3,0,Vitória,False,False,third
-752,1978-07-03,Caxias,3,0,Americano,False,False,third
-753,1978-07-03,Bahia,1,0,Corinthians,False,False,third
-754,1978-07-05,Vitória,0,2,Vasco da Gama,False,False,third
-755,1978-07-05,Cruzeiro,2,1,Caxias,False,False,third
-756,1978-07-05,Grêmio Maringá,1,2,Corinthians,False,False,third
-757,1978-07-05,Bahia,5,0,Americano,False,False,third
-758,1978-07-08,Corinthians,0,0,Caxias,False,False,third
-759,1978-07-09,Vasco da Gama,3,0,Americano,False,False,third
-760,1978-07-09,Cruzeiro,0,0,Grêmio Maringá,False,False,third
-761,1978-07-09,Bahia,4,0,Vitória,False,False,third
-762,1978-07-13,Cruzeiro,0,0,Vitória,False,False,third
-763,1978-07-13,Caxias,3,1,Grêmio Maringá,False,False,third
-764,1978-07-13,Vasco da Gama,1,0,Bahia,False,False,third
-765,1978-07-13,Corinthians,1,0,Americano,False,False,third
-766,1978-07-15,Vitória,0,2,Caxias,False,False,third
-767,1978-07-16,Bahia,1,0,Cruzeiro,False,False,third
-768,1978-07-16,Vasco da Gama,3,1,Corinthians,False,False,third
-769,1978-07-16,Americano,2,0,Grêmio Maringá,False,False,third
-770,1978-07-19,Caxias,1,1,Vasco da Gama,False,False,third
-771,1978-07-20,Grêmio Maringá,1,2,Bahia,False,False,third
-772,1978-07-20,Corinthians,2,2,Vitória,False,False,third
-773,1978-07-20,Americano,0,0,Cruzeiro,False,False,third
-774,1978-07-23,Corinthians,1,1,Cruzeiro,False,False,third
-775,1978-07-23,Vasco da Gama,1,1,Grêmio Maringá,False,False,third
-776,1978-07-23,Caxias,1,1,Bahia,False,False,third
-777,1978-07-23,Americano,1,0,Vitória,False,False,third
-778,1978-07-26,Internacional,1,0,Santa Cruz,False,False,quarter
-779,1978-07-30,Santa Cruz,1,2,Internacional,False,False,quarter
-780,1978-07-26,Palmeiras,2,1,Bahia,False,False,quarter
-781,1978-07-30,Bahia,1,1,Palmeiras,False,False,quarter
-782,1978-07-27,Vasco da Gama,1,1,Grêmio,False,False,quarter
-783,1978-07-30,Grêmio,1,1,Vasco da Gama,False,False,quarter
-784,1978-07-27,Sport,0,2,Guarani,False,False,quarter
-785,1978-07-30,Guarani,4,0,Sport,False,False,quarter
-786,1978-08-02,Guarani,2,0,Vasco da Gama,False,False,semi
-787,1978-08-06,Vasco da Gama,1,2,Guarani,False,False,semi
-788,1978-08-03,Palmeiras,2,0,Internacional,False,False,semi
-789,1978-08-06,Internacional,1,1,Palmeiras,False,False,semi
-790,1978-08-10,Palmeiras,0,1,Guarani,False,False,final
-791,1978-08-13,Guarani,1,0,Palmeiras,False,False,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+1978-03-26,Juventude,0,0,Figueirense,False,False,first
+1978-03-26,Coritiba,1,0,Londrina,False,False,first
+1978-03-26,GE Brasil,0,1,Joinville,False,False,first
+1978-03-26,Grêmio Maringá,0,1,Internacional,False,False,first
+1978-03-26,Grêmio,2,2,Caxias,False,False,first
+1978-03-29,Colorado,0,2,Internacional,False,False,first
+1978-03-29,Londrina,3,1,Juventude,False,False,first
+1978-03-29,Grêmio,2,0,Figueirense,False,False,first
+1978-03-29,Caxias,1,1,Joinville,False,False,first
+1978-03-30,Chapecoense,2,0,Atlético-PR,False,False,first
+1978-03-30,Coritiba,2,0,GE Brasil,False,False,first
+1978-04-02,Colorado,1,2,Caxias,False,False,first
+1978-04-02,Grêmio Maringá,3,1,Chapecoense,False,False,first
+1978-04-02,Internacional,3,1,Joinville,False,False,first
+1978-04-02,Juventude,0,1,Grêmio,False,False,first
+1978-04-02,Figueirense,1,1,Atlético-PR,False,False,first
+1978-04-06,Londrina,0,1,Atlético-PR,False,False,first
+1978-04-06,Grêmio Maringá,0,0,Caxias,False,False,first
+1978-04-06,Colorado,1,0,Chapecoense,False,False,first
+1978-04-06,GE Brasil,1,3,Grêmio,False,False,first
+1978-04-06,Figueirense,2,4,Coritiba,False,False,first
+1978-04-09,Londrina,1,0,Grêmio,False,False,first
+1978-04-09,Joinville,1,1,Coritiba,False,False,first
+1978-04-09,Internacional,4,1,Juventude,False,False,first
+1978-04-09,Figueirense,1,0,Chapecoense,False,False,first
+1978-04-09,Atlético-PR,1,0,Colorado,False,False,first
+1978-04-12,Grêmio Maringá,3,1,Colorado,False,False,first
+1978-04-12,Internacional,2,0,Chapecoense,False,False,first
+1978-04-12,Atlético-PR,0,0,Grêmio,False,False,first
+1978-04-12,Joinville,1,1,Londrina,False,False,first
+1978-04-16,Londrina,2,3,Grêmio Maringá,False,False,first
+1978-04-16,Coritiba,0,1,Colorado,False,False,first
+1978-04-16,Joinville,0,0,Grêmio,False,False,first
+1978-04-16,Internacional,3,0,Atlético-PR,False,False,first
+1978-04-16,Caxias,1,0,GE Brasil,False,False,first
+1978-04-16,Chapecoense,0,3,Juventude,False,False,first
+1978-04-19,GE Brasil,0,2,Internacional,False,False,first
+1978-04-19,Caxias,2,0,Atlético-PR,False,False,first
+1978-04-19,Chapecoense,0,3,Grêmio,False,False,first
+1978-04-20,Colorado,2,0,Figueirense,False,False,first
+1978-04-20,Joinville,1,1,Juventude,False,False,first
+1978-04-23,Coritiba,1,0,Atlético-PR,False,False,first
+1978-04-23,Londrina,2,1,Figueirense,False,False,first
+1978-04-23,Grêmio Maringá,1,1,Joinville,False,False,first
+1978-04-23,Internacional,2,3,Grêmio,False,False,first
+1978-04-23,Caxias,0,0,Juventude,False,False,first
+1978-04-23,GE Brasil,2,0,Colorado,False,False,first
+1978-04-26,Atlético-PR,0,2,Joinville,False,False,first
+1978-04-26,Grêmio Maringá,0,1,Coritiba,False,False,first
+1978-04-26,Juventude,2,0,Colorado,False,False,first
+1978-04-26,Chapecoense,1,0,Caxias,False,False,first
+1978-04-27,Figueirense,4,2,GE Brasil,False,False,first
+1978-04-30,Grêmio,3,1,Coritiba,False,False,first
+1978-04-30,Caxias,2,0,Internacional,False,False,first
+1978-04-30,Joinville,1,0,Figueirense,False,False,first
+1978-04-30,Londrina,4,0,GE Brasil,False,False,first
+1978-04-30,Atlético-PR,3,1,Grêmio Maringá,False,False,first
+1978-05-03,Atlético-PR,0,0,GE Brasil,False,False,first
+1978-05-03,Juventude,0,0,Coritiba,False,False,first
+1978-05-03,Chapecoense,1,1,Joinville,False,False,first
+1978-05-04,Colorado,0,1,Londrina,False,False,first
+1978-05-04,Figueirense,1,1,Grêmio Maringá,False,False,first
+1978-05-07,Chapecoense,1,0,Londrina,False,False,first
+1978-05-07,Figueirense,1,1,Caxias,False,False,first
+1978-05-07,Grêmio,3,2,Grêmio Maringá,False,False,first
+1978-05-07,GE Brasil,0,0,Juventude,False,False,first
+1978-05-07,Coritiba,1,1,Internacional,False,False,first
+1978-05-10,Coritiba,2,1,Chapecoense,False,False,first
+1978-05-11,Grêmio,2,0,Colorado,False,False,first
+1978-05-11,Caxias,2,1,Londrina,False,False,first
+1978-05-11,Atlético-PR,1,3,Juventude,False,False,first
+1978-05-11,Figueirense,1,1,Internacional,False,False,first
+1978-05-11,GE Brasil,0,4,Grêmio Maringá,False,False,first
+1978-05-14,Coritiba,2,0,Caxias,False,False,first
+1978-05-14,Internacional,5,2,Londrina,False,False,first
+1978-05-14,Juventude,1,0,Grêmio Maringá,False,False,first
+1978-05-14,GE Brasil,1,2,Chapecoense,False,False,first
+1978-05-14,Joinville,0,1,Colorado,False,False,first
+1978-03-26,Náutico,0,1,Santa Cruz,False,False,first
+1978-03-26,América-RN,2,0,Botafogo-PB,False,False,first
+1978-03-26,Uberlândia,1,3,Villa Nova-MG,False,False,first
+1978-03-26,Uberaba,2,0,América-MG,False,False,first
+1978-03-26,Cruzeiro,1,2,Sport,False,False,first
+1978-03-29,ABC,1,1,Santa Cruz,False,False,first
+1978-03-29,Uberaba,0,0,Sport,False,False,first
+1978-03-29,Uberlândia,1,1,América-MG,False,False,first
+1978-03-29,Campinense,1,1,América-RN,False,False,first
+1978-03-29,Atlético-MG,1,0,Villa Nova-MG,False,False,first
+1978-03-29,Náutico,3,1,Botafogo-PB,False,False,first
+1978-04-01,Villa Nova-MG,1,0,América-RN,False,False,first
+1978-04-02,Cruzeiro,4,1,América-MG,False,False,first
+1978-04-02,Botafogo-PB,0,0,ABC,False,False,first
+1978-04-02,Santa Cruz,3,0,Atlético-MG,False,False,first
+1978-04-02,Uberlândia,1,0,Uberaba,False,False,first
+1978-04-02,Campinense,0,0,Sport,False,False,first
+1978-04-05,Uberaba,1,1,América-RN,False,False,first
+1978-04-05,Campinense,1,3,Náutico,False,False,first
+1978-04-06,Botafogo-PB,0,3,Atlético-MG,False,False,first
+1978-04-06,ABC,2,2,Sport,False,False,first
+1978-04-06,Santa Cruz,1,1,Villa Nova-MG,False,False,first
+1978-04-06,Cruzeiro,6,0,Uberlândia,False,False,first
+1978-04-08,América-MG,5,1,América-RN,False,False,first
+1978-04-08,Náutico,2,0,Uberaba,False,False,first
+1978-04-09,Santa Cruz,2,2,Cruzeiro,False,False,first
+1978-04-10,ABC,0,2,Villa Nova-MG,False,False,first
+1978-04-12,Uberlândia,0,1,Atlético-MG,False,False,first
+1978-04-12,América-RN,0,1,Náutico,False,False,first
+1978-04-12,América-MG,1,2,Santa Cruz,False,False,first
+1978-04-12,Campinense,0,3,Cruzeiro,False,False,first
+1978-04-12,Sport,0,1,Villa Nova-MG,False,False,first
+1978-04-13,ABC,1,1,Uberaba,False,False,first
+1978-04-15,América-MG,2,2,Campinense,False,False,first
+1978-04-16,Uberaba,0,1,Santa Cruz,False,False,first
+1978-04-16,Náutico,1,0,Sport,False,False,first
+1978-04-16,ABC,1,2,Cruzeiro,False,False,first
+1978-04-16,Botafogo-PB,1,1,Villa Nova-MG,False,False,first
+1978-04-19,Villa Nova-MG,0,1,Náutico,False,False,first
+1978-04-20,Botafogo-PB,1,3,Santa Cruz,False,False,first
+1978-04-20,Sport,2,0,América-MG,False,False,first
+1978-04-20,Uberlândia,2,0,Campinense,False,False,first
+1978-04-23,Uberlândia,1,1,Náutico,False,False,first
+1978-04-23,Botafogo-PB,1,0,América-MG,False,False,first
+1978-04-23,Uberaba,1,1,Campinense,False,False,first
+1978-04-23,Atlético-MG,0,2,Cruzeiro,False,False,first
+1978-04-23,América-RN,1,1,ABC,False,False,first
+1978-04-23,Santa Cruz,1,0,Sport,False,False,first
+1978-04-26,ABC,2,0,América-MG,False,False,first
+1978-04-26,Uberaba,1,3,Cruzeiro,False,False,first
+1978-04-26,Atlético-MG,2,0,Náutico,False,False,first
+1978-04-26,Botafogo-PB,1,3,Sport,False,False,first
+1978-04-27,Santa Cruz,3,0,Uberlândia,False,False,first
+1978-04-27,Villa Nova-MG,2,3,Campinense,False,False,first
+1978-04-29,Náutico,4,0,América-MG,False,False,first
+1978-04-30,Sport,0,0,Atlético-MG,False,False,first
+1978-04-30,América-RN,0,0,Santa Cruz,False,False,first
+1978-04-30,Campinense,0,1,ABC,False,False,first
+1978-04-30,Cruzeiro,1,0,Villa Nova-MG,False,False,first
+1978-05-01,Botafogo-PB,6,3,Uberlândia,False,False,first
+1978-05-03,América-RN,4,2,Uberlândia,False,False,first
+1978-05-03,América-MG,0,1,Villa Nova-MG,False,False,first
+1978-05-03,Campinense,0,3,Atlético-MG,False,False,first
+1978-05-04,Uberaba,1,3,Botafogo-PB,False,False,first
+1978-05-04,Náutico,4,2,ABC,False,False,first
+1978-05-06,América-RN,0,0,Atlético-MG,False,False,first
+1978-05-06,Villa Nova-MG,1,0,Uberaba,False,False,first
+1978-05-07,Cruzeiro,4,3,Botafogo-PB,False,False,first
+1978-05-07,Sport,2,0,Uberlândia,False,False,first
+1978-05-07,Santa Cruz,6,0,Campinense,False,False,first
+1978-05-09,Campinense,3,0,Botafogo-PB,False,False,first
+1978-05-09,Atlético-MG,2,0,América-MG,False,False,first
+1978-05-10,Náutico,2,1,Cruzeiro,False,False,first
+1978-05-10,Sport,2,0,América-RN,False,False,first
+1978-05-11,Atlético-MG,0,0,Uberaba,False,False,first
+1978-05-11,Uberlândia,0,1,ABC,False,False,first
+1978-05-14,Atlético-MG,5,0,ABC,False,False,first
+1978-05-14,América-RN,1,1,Cruzeiro,False,False,first
+1978-03-25,Santos,3,0,Goiás,False,False,first
+1978-03-26,Rio Branco-ES,0,0,Mixto,False,False,first
+1978-03-26,Anapolina,0,0,Corinthians,False,False,first
+1978-03-26,Operário-MT,0,2,Brasília,False,False,first
+1978-03-26,Vila Nova,1,1,Dom Bosco,False,False,first
+1978-03-29,Anapolina,1,1,Dom Bosco,False,False,first
+1978-03-29,Santos,1,1,Mixto,False,False,first
+1978-03-29,Brasília,0,1,Corinthians,False,False,first
+1978-03-29,Desportiva,0,0,Goiás,False,False,first
+1978-04-02,Desportiva,0,0,Rio Branco-ES,False,False,first
+1978-04-02,Dom Bosco,0,3,Santos,False,False,first
+1978-04-02,Anapolina,1,1,Operário-MT,False,False,first
+1978-04-02,Comercial-MT,2,2,Mixto,False,False,first
+1978-04-02,Goiás,0,0,Corinthians,False,False,first
+1978-04-05,Comercial-MT,1,0,Santos,False,False,first
+1978-04-06,Vila Nova,0,1,Operário-MT,False,False,first
+1978-04-06,Dom Bosco,3,1,Brasília,False,False,first
+1978-04-06,Rio Branco-ES,1,0,Anapolina,False,False,first
+1978-04-08,Corinthians,0,0,Santos,False,False,first
+1978-04-09,Brasília,2,2,Comercial-MT,False,False,first
+1978-04-09,Dom Bosco,3,0,Rio Branco-ES,False,False,first
+1978-04-09,Vila Nova,1,0,Anapolina,False,False,first
+1978-04-09,Desportiva,1,0,Operário-MT,False,False,first
+1978-04-12,Goiás,1,0,Comercial-MT,False,False,first
+1978-04-12,Operário-MT,3,0,Rio Branco-ES,False,False,first
+1978-04-16,Desportiva,0,1,Corinthians,False,False,first
+1978-04-16,Comercial-MT,0,0,Vila Nova,False,False,first
+1978-04-16,Brasília,1,0,Rio Branco-ES,False,False,first
+1978-04-16,Anapolina,0,2,Goiás,False,False,first
+1978-04-16,Dom Bosco,1,1,Mixto,False,False,first
+1978-04-20,Brasília,1,0,Anapolina,False,False,first
+1978-04-20,Desportiva,2,0,Dom Bosco,False,False,first
+1978-04-20,Goiás,2,0,Rio Branco-ES,False,False,first
+1978-04-20,Santos,1,2,Operário-MT,False,False,first
+1978-04-20,Mixto,2,0,Vila Nova,False,False,first
+1978-04-22,Brasília,1,2,Mixto,False,False,first
+1978-04-23,Corinthians,4,0,Dom Bosco,False,False,first
+1978-04-23,Operário-MT,1,1,Comercial-MT,False,False,first
+1978-04-23,Rio Branco-ES,2,2,Santos,False,False,first
+1978-04-23,Vila Nova,0,1,Goiás,False,False,first
+1978-04-26,Operário-MT,2,1,Dom Bosco,False,False,first
+1978-04-26,Santos,1,1,Desportiva,False,False,first
+1978-04-26,Rio Branco-ES,0,1,Comercial-MT,False,False,first
+1978-04-26,Goiás,1,1,Mixto,False,False,first
+1978-04-27,Vila Nova,0,0,Brasília,False,False,first
+1978-04-29,Corinthians,2,0,Comercial-MT,False,False,first
+1978-04-30,Operário-MT,1,0,Goiás,False,False,first
+1978-04-30,Desportiva,0,0,Brasília,False,False,first
+1978-04-30,Mixto,2,1,Anapolina,False,False,first
+1978-05-03,Comercial-MT,1,1,Anapolina,False,False,first
+1978-05-03,Dom Bosco,0,2,Goiás,False,False,first
+1978-05-03,Vila Nova,2,0,Desportiva,False,False,first
+1978-05-04,Corinthians,4,1,Rio Branco-ES,False,False,first
+1978-05-04,Mixto,0,0,Operário-MT,False,False,first
+1978-05-07,Anapolina,2,1,Desportiva,False,False,first
+1978-05-07,Vila Nova,1,3,Santos,False,False,first
+1978-05-07,Operário-MT,0,0,Corinthians,False,False,first
+1978-05-07,Dom Bosco,1,1,Comercial-MT,False,False,first
+1978-05-10,Mixto,0,0,Corinthians,False,False,first
+1978-05-10,Rio Branco-ES,1,4,Vila Nova,False,False,first
+1978-05-10,Brasília,2,1,Santos,False,False,first
+1978-05-11,Comercial-MT,0,0,Desportiva,False,False,first
+1978-05-14,Corinthians,3,0,Vila Nova,False,False,first
+1978-05-14,Anapolina,1,1,Santos,False,False,first
+1978-05-14,Goiás,4,0,Brasília,False,False,first
+1978-05-14,Mixto,3,0,Desportiva,False,False,first
+1978-03-26,Itabuna,0,2,Botafogo,False,False,first
+1978-03-26,Confiança,1,2,Vitória,False,False,first
+1978-03-26,CRB,0,0,Sergipe,False,False,first
+1978-03-26,Bahia,0,0,Ponte Preta-SP,False,False,first
+1978-03-26,Guarani,1,3,Vasco da Gama,False,False,first
+1978-03-29,CRB,2,0,Volta Redonda,False,False,first
+1978-03-29,Itabuna,0,4,Ponte Preta-SP,False,False,first
+1978-03-30,Vasco da Gama,4,0,CSA,False,False,first
+1978-03-30,Vitória,2,0,Sergipe,False,False,first
+1978-03-30,Guarani,2,1,Bahia,False,False,first
+1978-04-02,Volta Redonda,0,0,CSA,False,False,first
+1978-04-02,Vitória,2,2,Itabuna,False,False,first
+1978-04-02,Ponte Preta-SP,2,0,Sergipe,False,False,first
+1978-04-02,Botafogo,1,1,Bahia,False,False,first
+1978-04-02,Confiança,2,2,CRB,False,False,first
+1978-04-06,Botafogo,5,1,Sergipe,False,False,first
+1978-04-06,Bahia,2,1,CRB,False,False,first
+1978-04-06,Guarani,2,0,CSA,False,False,first
+1978-04-06,Confiança,1,0,Itabuna,False,False,first
+1978-04-09,Volta Redonda,0,1,Botafogo,False,False,first
+1978-04-09,Vasco da Gama,3,1,Ponte Preta-SP,False,False,first
+1978-04-09,Vitória,0,0,Guarani,False,False,first
+1978-04-09,CSA,0,2,Bahia,False,False,first
+1978-04-09,Itabuna,1,3,CRB,False,False,first
+1978-04-12,Vasco da Gama,4,1,Confiança,False,False,first
+1978-04-12,Sergipe,0,1,Bahia,False,False,first
+1978-04-12,CRB,1,1,Guarani,False,False,first
+1978-04-12,Ponte Preta-SP,3,0,Volta Redonda,False,False,first
+1978-04-16,Ponte Preta-SP,0,1,Botafogo,False,False,first
+1978-04-16,CSA,1,3,CRB,False,False,first
+1978-04-16,Bahia,1,1,Vasco da Gama,False,False,first
+1978-04-16,Volta Redonda,0,0,Confiança,False,False,first
+1978-04-16,Sergipe,0,0,Guarani,False,False,first
+1978-04-20,Sergipe,1,0,Volta Redonda,False,False,first
+1978-04-20,Vitória,3,1,CSA,False,False,first
+1978-04-20,Itabuna,0,1,Vasco da Gama,False,False,first
+1978-04-20,Guarani,5,0,Confiança,False,False,first
+1978-04-23,Bahia,0,1,Vitória,False,False,first
+1978-04-23,Vasco da Gama,0,0,Botafogo,False,False,first
+1978-04-23,Sergipe,1,2,CSA,False,False,first
+1978-04-23,Guarani,2,1,Ponte Preta-SP,False,False,first
+1978-04-23,Itabuna,1,1,Volta Redonda,False,False,first
+1978-04-26,Bahia,5,0,Volta Redonda,False,False,first
+1978-04-26,CRB,2,0,Vitória,False,False,first
+1978-04-27,Confiança,1,2,Ponte Preta-SP,False,False,first
+1978-04-30,Volta Redonda,0,2,Vasco da Gama,False,False,first
+1978-04-30,CSA,1,2,Ponte Preta-SP,False,False,first
+1978-04-30,Vitória,0,3,Botafogo,False,False,first
+1978-04-30,Guarani,7,0,Itabuna,False,False,first
+1978-04-30,Confiança,1,1,Sergipe,False,False,first
+1978-05-03,Confiança,0,1,Botafogo,False,False,first
+1978-05-04,CSA,2,0,Itabuna,False,False,first
+1978-05-07,Bahia,3,1,Itabuna,False,False,first
+1978-05-07,Ponte Preta-SP,2,2,CRB,False,False,first
+1978-05-07,Vasco da Gama,1,1,Vitória,False,False,first
+1978-05-07,CSA,0,0,Botafogo,False,False,first
+1978-05-10,Botafogo,1,0,CRB,False,False,first
+1978-05-10,Volta Redonda,2,0,Guarani,False,False,first
+1978-05-11,Sergipe,0,5,Vasco da Gama,False,False,first
+1978-05-11,Ponte Preta-SP,2,0,Vitória,False,False,first
+1978-05-11,CSA,3,1,Confiança,False,False,first
+1978-05-14,CRB,0,2,Vasco da Gama,False,False,first
+1978-05-14,Botafogo,1,1,Guarani,False,False,first
+1978-05-14,Volta Redonda,0,1,Vitória,False,False,first
+1978-05-14,Bahia,1,0,Confiança,False,False,first
+1978-05-14,Itabuna,2,1,Sergipe,False,False,first
+1978-03-26,América-SP,3,0,Flamengo-PI,False,False,first
+1978-03-26,River,0,0,Sampaio Corrêa,False,False,first
+1978-03-26,Ceará,1,0,Moto Clube,False,False,first
+1978-03-26,Botafogo-SP,0,0,Palmeiras,False,False,first
+1978-03-26,Noroeste,0,1,Comercial-SP,False,False,first
+1978-03-29,Botafogo-SP,3,0,Flamengo-PI,False,False,first
+1978-03-29,América-SP,2,1,Sampaio Corrêa,False,False,first
+1978-03-30,São Paulo,2,0,Fortaleza,False,False,first
+1978-04-01,Palmeiras,3,0,Flamengo-PI,False,False,first
+1978-04-02,River,1,2,Botafogo-SP,False,False,first
+1978-04-02,Moto Clube,2,0,Sampaio Corrêa,False,False,first
+1978-04-02,Comercial-SP,0,1,São Paulo,False,False,first
+1978-04-02,Noroeste,3,1,Fortaleza,False,False,first
+1978-04-06,Comercial-SP,0,0,Fortaleza,False,False,first
+1978-04-06,Ceará,2,0,América-SP,False,False,first
+1978-04-06,Moto Clube,2,2,Botafogo-SP,False,False,first
+1978-04-06,São Paulo,6,1,River,False,False,first
+1978-04-09,Flamengo-PI,0,1,Ceará,False,False,first
+1978-04-09,Fortaleza,1,2,Botafogo-SP,False,False,first
+1978-04-09,Noroeste,0,0,Palmeiras,False,False,first
+1978-04-09,Moto Clube,1,0,América-SP,False,False,first
+1978-04-09,Comercial-SP,3,0,River,False,False,first
+1978-04-12,Flamengo-PI,0,0,Moto Clube,False,False,first
+1978-04-12,América-SP,1,0,São Paulo,False,False,first
+1978-04-12,Ceará,1,2,Comercial-SP,False,False,first
+1978-04-12,Noroeste,2,0,River,False,False,first
+1978-04-13,Fortaleza,2,0,Sampaio Corrêa,False,False,first
+1978-04-15,Palmeiras,4,0,Ceará,False,False,first
+1978-04-16,América-SP,1,0,Botafogo-SP,False,False,first
+1978-04-16,Moto Clube,0,0,River,False,False,first
+1978-04-16,Flamengo-PI,1,1,Comercial-SP,False,False,first
+1978-04-19,Flamengo-PI,0,0,Noroeste,False,False,first
+1978-04-20,América-SP,0,1,Palmeiras,False,False,first
+1978-04-20,River,1,0,Fortaleza,False,False,first
+1978-04-20,Sampaio Corrêa,1,2,Comercial-SP,False,False,first
+1978-04-20,Botafogo-SP,1,2,Ceará,False,False,first
+1978-04-23,São Paulo,0,0,Palmeiras,False,False,first
+1978-04-23,River,1,1,Flamengo-PI,False,False,first
+1978-04-23,Comercial-SP,1,1,Botafogo-SP,False,False,first
+1978-04-23,Sampaio Corrêa,1,0,Noroeste,False,False,first
+1978-04-23,Ceará,1,1,Fortaleza,False,False,first
+1978-04-26,Ceará,0,0,Noroeste,False,False,first
+1978-04-27,Palmeiras,6,0,Sampaio Corrêa,False,False,first
+1978-04-27,Moto Clube,0,0,Fortaleza,False,False,first
+1978-04-27,Flamengo-PI,0,3,São Paulo,False,False,first
+1978-04-30,Palmeiras,2,1,Comercial-SP,False,False,first
+1978-04-30,Botafogo-SP,4,1,Sampaio Corrêa,False,False,first
+1978-04-30,América-SP,2,0,Noroeste,False,False,first
+1978-04-30,Ceará,2,1,São Paulo,False,False,first
+1978-05-03,Sampaio Corrêa,2,2,São Paulo,False,False,first
+1978-05-03,Botafogo-SP,6,1,Noroeste,False,False,first
+1978-05-04,Ceará,2,0,River,False,False,first
+1978-05-04,Moto Clube,1,0,Palmeiras,False,False,first
+1978-05-07,São Paulo,6,2,Botafogo-SP,False,False,first
+1978-05-07,Comercial-SP,0,1,América-SP,False,False,first
+1978-05-07,Sampaio Corrêa,1,0,Flamengo-PI,False,False,first
+1978-05-07,Fortaleza,1,1,Palmeiras,False,False,first
+1978-05-07,Noroeste,2,0,Moto Clube,False,False,first
+1978-05-10,Fortaleza,1,0,América-SP,False,False,first
+1978-05-10,Noroeste,1,0,São Paulo,False,False,first
+1978-05-10,River,1,3,Palmeiras,False,False,first
+1978-05-11,Comercial-SP,0,0,Moto Clube,False,False,first
+1978-05-14,São Paulo,2,0,Moto Clube,False,False,first
+1978-05-14,River,3,2,América-SP,False,False,first
+1978-05-14,Sampaio Corrêa,1,1,Ceará,False,False,first
+1978-05-14,Fortaleza,3,0,Flamengo-PI,False,False,first
+1978-03-26,Portuguesa-SP,1,0,América-RJ,False,False,first
+1978-03-26,Fast,2,0,Bangu,False,False,first
+1978-03-26,Americano,0,1,Goytacaz,False,False,first
+1978-03-26,Flamengo,1,0,Fluminense,False,False,first
+1978-03-26,Remo,0,0,Paysandu,False,False,first
+1978-03-29,XV de Novembro,1,3,América-RJ,False,False,first
+1978-03-29,Fluminense,0,0,Americano,False,False,first
+1978-03-29,Remo,3,0,Bangu,False,False,first
+1978-03-29,Fast,0,1,Flamengo,False,False,first
+1978-04-02,Bangu,3,2,XV de Novembro,False,False,first
+1978-04-02,Remo,0,1,Flamengo,False,False,first
+1978-04-02,Nacional-AM,0,1,Goytacaz,False,False,first
+1978-04-02,Portuguesa-SP,2,0,Fluminense,False,False,first
+1978-04-05,Fast,0,3,Remo,False,False,first
+1978-04-05,Portuguesa-SP,3,0,Bangu,False,False,first
+1978-04-06,Nacional-AM,1,2,América-RJ,False,False,first
+1978-04-06,XV de Novembro,1,1,Fluminense,False,False,first
+1978-04-06,Paysandu,2,0,Goytacaz,False,False,first
+1978-04-08,Americano,1,0,Bangu,False,False,first
+1978-04-09,Remo,2,0,América-RJ,False,False,first
+1978-04-09,Goytacaz,0,1,Flamengo,False,False,first
+1978-04-09,Nacional-AM,0,2,Fluminense,False,False,first
+1978-04-09,XV de Novembro,0,2,Portuguesa-SP,False,False,first
+1978-04-12,Paysandu,1,2,Fluminense,False,False,first
+1978-04-12,Portuguesa-SP,1,1,Goytacaz,False,False,first
+1978-04-12,Fast,0,0,Americano,False,False,first
+1978-04-16,Flamengo,2,3,América-RJ,False,False,first
+1978-04-16,XV de Novembro,0,0,Goytacaz,False,False,first
+1978-04-16,Bangu,0,1,Fluminense,False,False,first
+1978-04-16,Remo,1,1,Americano,False,False,first
+1978-04-16,Nacional-AM,0,2,Paysandu,False,False,first
+1978-04-19,Paysandu,1,1,XV de Novembro,False,False,first
+1978-04-20,Nacional-AM,1,3,Portuguesa-SP,False,False,first
+1978-04-20,América-RJ,1,1,Goytacaz,False,False,first
+1978-04-20,Americano,0,1,Flamengo,False,False,first
+1978-04-22,Remo,2,0,XV de Novembro,False,False,first
+1978-04-23,Bangu,1,4,Flamengo,False,False,first
+1978-04-23,Americano,0,0,América-RJ,False,False,first
+1978-04-23,Nacional-AM,0,2,Fast,False,False,first
+1978-04-23,Paysandu,0,0,Portuguesa-SP,False,False,first
+1978-04-26,Fast,1,0,XV de Novembro,False,False,first
+1978-04-27,Flamengo,2,1,Nacional-AM,False,False,first
+1978-04-30,Goytacaz,0,2,Remo,False,False,first
+1978-04-30,Flamengo,2,1,Portuguesa-SP,False,False,first
+1978-04-30,Paysandu,0,0,Fast,False,False,first
+1978-04-30,XV de Novembro,2,0,Nacional-AM,False,False,first
+1978-04-30,Bangu,2,0,América-RJ,False,False,first
+1978-05-03,América-RJ,2,1,Fast,False,False,first
+1978-05-03,Americano,0,0,Nacional-AM,False,False,first
+1978-05-03,Portuguesa-SP,1,0,Remo,False,False,first
+1978-05-04,Flamengo,2,0,Paysandu,False,False,first
+1978-05-04,Goytacaz,0,1,Fluminense,False,False,first
+1978-05-07,Portuguesa-SP,6,0,Fast,False,False,first
+1978-05-07,XV de Novembro,1,2,Flamengo,False,False,first
+1978-05-07,Fluminense,0,2,América-RJ,False,False,first
+1978-05-07,Americano,2,0,Paysandu,False,False,first
+1978-05-07,Bangu,0,1,Nacional-AM,False,False,first
+1978-05-09,Fluminense,1,0,Remo,False,False,first
+1978-05-10,Portuguesa-SP,0,0,Americano,False,False,first
+1978-05-10,América-RJ,0,0,Paysandu,False,False,first
+1978-05-11,Fluminense,1,2,Fast,False,False,first
+1978-05-11,Goytacaz,3,0,Bangu,False,False,first
+1978-05-14,Bangu,4,0,Paysandu,False,False,first
+1978-05-14,Goytacaz,1,0,Fast,False,False,first
+1978-05-14,Remo,2,0,Nacional-AM,False,False,first
+1978-05-14,XV de Novembro,1,1,Americano,False,False,first
+1978-05-21,Cruzeiro,0,0,Atlético-MG,False,False,second
+1978-05-21,Vitória,2,1,Mixto,False,False,second
+1978-05-21,América-SP,0,1,Ponte Preta-SP,False,False,second
+1978-05-24,Atlético-MG,2,2,América-SP,False,False,second
+1978-05-24,Mixto,0,1,Cruzeiro,False,False,second
+1978-05-28,Cruzeiro,1,1,Internacional,False,False,second
+1978-05-28,Ponte Preta-SP,0,0,Atlético-MG,False,False,second
+1978-05-31,Internacional,2,0,Vitória,False,False,second
+1978-05-31,Atlético-MG,1,1,Mixto,False,False,second
+1978-05-31,Palmeiras,1,0,América-SP,False,False,second
+1978-05-31,Ponte Preta-SP,1,1,Goytacaz,False,False,second
+1978-06-04,Palmeiras,1,1,Cruzeiro,False,False,second
+1978-06-04,Internacional,2,1,Atlético-MG,False,False,second
+1978-06-04,Goytacaz,0,1,Vitória,False,False,second
+1978-06-04,América-SP,5,0,Mixto,False,False,second
+1978-06-07,Vitória,1,1,Ponte Preta-SP,False,False,second
+1978-06-08,Internacional,2,1,Goytacaz,False,False,second
+1978-06-08,Palmeiras,1,0,Mixto,False,False,second
+1978-06-08,América-SP,0,1,Cruzeiro,False,False,second
+1978-06-10,Ponte Preta-SP,1,2,Internacional,False,False,second
+1978-06-11,Atlético-MG,0,1,Palmeiras,False,False,second
+1978-06-11,Goytacaz,1,1,América-SP,False,False,second
+1978-06-13,Goytacaz,1,1,Atlético-MG,False,False,second
+1978-06-13,Vitória,0,1,Cruzeiro,False,False,second
+1978-06-13,Ponte Preta-SP,2,0,Palmeiras,False,False,second
+1978-06-13,Mixto,1,2,Internacional,False,False,second
+1978-06-17,Internacional,0,0,Palmeiras,False,False,second
+1978-06-18,Mixto,2,1,Ponte Preta-SP,False,False,second
+1978-06-18,Cruzeiro,3,1,Goytacaz,False,False,second
+1978-06-18,América-SP,0,0,Vitória,False,False,second
+1978-06-20,Mixto,1,2,Goytacaz,False,False,second
+1978-06-21,Palmeiras,0,0,Vitória,False,False,second
+1978-06-24,Internacional,2,1,América-SP,False,False,second
+1978-06-24,Goytacaz,2,1,Palmeiras,False,False,second
+1978-06-24,Vitória,0,2,Atlético-MG,False,False,second
+1978-06-24,Cruzeiro,1,0,Ponte Preta-SP,False,False,second
+1978-05-21,Fluminense,1,0,Santos,False,False,second
+1978-05-21,Goiás,3,0,Bahia,False,False,second
+1978-05-21,Santa Cruz,1,0,Náutico,False,False,second
+1978-05-24,Ceará,1,1,Náutico,False,False,second
+1978-05-24,Joinville,0,0,Santa Cruz,False,False,second
+1978-05-24,Goiás,0,0,Santos,False,False,second
+1978-05-28,Bahia,1,1,Fluminense,False,False,second
+1978-05-28,Grêmio,1,1,Santa Cruz,False,False,second
+1978-05-28,Náutico,2,0,Santos,False,False,second
+1978-05-31,Santos,1,1,Santa Cruz,False,False,second
+1978-05-31,Ceará,3,0,Grêmio,False,False,second
+1978-05-31,Bahia,1,0,Náutico,False,False,second
+1978-06-01,Fluminense,1,1,Joinville,False,False,second
+1978-06-04,Goiás,2,1,Fluminense,False,False,second
+1978-06-04,Náutico,1,1,Grêmio,False,False,second
+1978-06-04,Joinville,1,0,Ceará,False,False,second
+1978-06-04,Bahia,3,0,Santos,False,False,second
+1978-06-07,Santa Cruz,2,1,Bahia,False,False,second
+1978-06-07,Santos,2,1,Ceará,False,False,second
+1978-06-07,Joinville,0,2,Goiás,False,False,second
+1978-06-10,Santa Cruz,1,0,Fluminense,False,False,second
+1978-06-10,Bahia,2,1,Ceará,False,False,second
+1978-06-10,Santos,3,0,Joinville,False,False,second
+1978-06-11,Grêmio,4,1,Goiás,False,False,second
+1978-06-13,Ceará,0,1,Fluminense,False,False,second
+1978-06-13,Grêmio,0,0,Bahia,False,False,second
+1978-06-13,Náutico,4,1,Joinville,False,False,second
+1978-06-17,Santos,0,0,Grêmio,False,False,second
+1978-06-17,Joinville,2,2,Bahia,False,False,second
+1978-06-17,Ceará,3,2,Goiás,False,False,second
+1978-06-20,Grêmio,2,1,Joinville,False,False,second
+1978-06-20,Fluminense,2,1,Náutico,False,False,second
+1978-06-20,Santa Cruz,1,0,Goiás,False,False,second
+1978-06-24,Santa Cruz,4,2,Ceará,False,False,second
+1978-06-24,Fluminense,0,0,Grêmio,False,False,second
+1978-06-24,Goiás,3,0,Náutico,False,False,second
+1978-05-21,Corinthians,1,1,Flamengo,False,False,second
+1978-05-21,Sport,0,0,Comercial-SP,False,False,second
+1978-05-21,Botafogo,2,0,América-RJ,False,False,second
+1978-05-21,Botafogo-SP,3,0,Operário-MT,False,False,second
+1978-05-24,Corinthians,1,0,Botafogo-SP,False,False,second
+1978-05-24,Flamengo,0,0,Sport,False,False,second
+1978-05-24,América-RJ,2,0,Comercial-SP,False,False,second
+1978-05-28,Corinthians,0,1,América-RJ,False,False,second
+1978-05-28,Flamengo,1,1,Botafogo,False,False,second
+1978-05-28,Botafogo-SP,1,0,Sport,False,False,second
+1978-05-28,Juventude,1,3,Operário-MT,False,False,second
+1978-05-30,Flamengo,2,0,Juventude,False,False,second
+1978-05-30,Operário-MT,1,3,Sport,False,False,second
+1978-05-30,Botafogo-SP,3,1,América-RJ,False,False,second
+1978-06-04,Juventude,1,1,América-SP,False,False,second
+1978-06-04,Operário-MT,1,0,Flamengo,False,False,second
+1978-06-04,Botafogo-SP,2,2,Botafogo,False,False,second
+1978-06-07,Corinthians,1,0,Comercial-SP,False,False,second
+1978-06-07,Flamengo,2,0,Botafogo-SP,False,False,second
+1978-06-08,Sport,4,1,Juventude,False,False,second
+1978-06-10,Operário-MT,1,1,América-RJ,False,False,second
+1978-06-10,Comercial-SP,1,1,Flamengo,False,False,second
+1978-06-10,Botafogo,2,1,Corinthians,False,False,second
+1978-06-13,Botafogo,0,0,Operário-MT,False,False,second
+1978-06-13,Comercial-SP,2,2,Juventude,False,False,second
+1978-06-17,Botafogo-SP,1,0,Comercial-SP,False,False,second
+1978-06-17,Flamengo,0,2,América-RJ,False,False,second
+1978-06-17,Sport,1,2,Botafogo,False,False,second
+1978-06-18,Corinthians,2,0,Juventude,False,False,second
+1978-06-20,Juventude,1,0,Botafogo-SP,False,False,second
+1978-06-20,América-RJ,1,1,Sport,False,False,second
+1978-06-21,Corinthians,1,0,Operário-MT,False,False,second
+1978-06-22,Botafogo,3,0,Comercial-SP,False,False,second
+1978-06-24,Juventude,0,3,Botafogo,False,False,second
+1978-06-24,Operário-MT,1,0,Comercial-SP,False,False,second
+1978-06-24,Sport,3,0,Corinthians,False,False,second
+1978-05-21,Coritiba,0,2,Portuguesa-SP,False,False,second
+1978-05-21,Vasco da Gama,2,0,Villa Nova-MG,False,False,second
+1978-05-21,Guarani,1,1,São Paulo,False,False,second
+1978-05-21,Remo,2,0,Brasília,False,False,second
+1978-05-24,Brasília,0,3,Guarani,False,False,second
+1978-05-24,São Paulo,4,1,Coritiba,False,False,second
+1978-05-27,Villa Nova-MG,2,1,Portuguesa-SP,False,False,second
+1978-05-28,Brasília,0,1,Caxias,False,False,second
+1978-05-28,Remo,5,1,Guarani,False,False,second
+1978-05-28,Coritiba,0,2,Vasco da Gama,False,False,second
+1978-05-30,São Paulo,4,1,Villa Nova-MG,False,False,second
+1978-05-30,Brasília,1,2,Portuguesa-SP,False,False,second
+1978-05-30,Vasco da Gama,4,1,Caxias,False,False,second
+1978-06-04,Coritiba,2,0,Villa Nova-MG,False,False,second
+1978-06-04,Guarani,3,0,Caxias,False,False,second
+1978-06-04,Vasco da Gama,1,2,São Paulo,False,False,second
+1978-06-04,Remo,3,3,Portuguesa-SP,False,False,second
+1978-06-07,São Paulo,0,0,Brasília,False,False,second
+1978-06-08,Caxias,4,0,Villa Nova-MG,False,False,second
+1978-06-08,Vasco da Gama,2,2,Guarani,False,False,second
+1978-06-10,Caxias,0,0,Coritiba,False,False,second
+1978-06-10,Remo,0,5,Vasco da Gama,False,False,second
+1978-06-10,Portuguesa-SP,2,1,São Paulo,False,False,second
+1978-06-13,Portuguesa-SP,2,0,Guarani,False,False,second
+1978-06-13,Villa Nova-MG,0,2,Remo,False,False,second
+1978-06-17,Caxias,0,0,São Paulo,False,False,second
+1978-06-17,Coritiba,2,0,Remo,False,False,second
+1978-06-17,Vasco da Gama,2,0,Brasília,False,False,second
+1978-06-20,Villa Nova-MG,3,0,Brasília,False,False,second
+1978-06-20,Guarani,0,0,Coritiba,False,False,second
+1978-06-20,Portuguesa-SP,2,1,Caxias,False,False,second
+1978-06-20,São Paulo,1,0,Remo,False,False,second
+1978-06-24,Portuguesa-SP,1,1,Vasco da Gama,False,False,second
+1978-06-24,Guarani,2,0,Villa Nova-MG,False,False,second
+1978-06-24,Brasília,0,3,Coritiba,False,False,second
+1978-06-24,Caxias,4,0,Remo,False,False,second
+1978-05-21,Colorado,3,2,Grêmio Maringá,False,False,second
+1978-05-21,Londrina,1,0,Atlético-PR,False,False,second
+1978-05-24,Chapecoense,0,0,Grêmio Maringá,False,False,second
+1978-05-24,Figueirense,0,1,Londrina,False,False,second
+1978-05-27,Atlético-PR,0,1,Colorado,False,False,second
+1978-05-28,Grêmio Maringá,2,0,Figueirense,False,False,second
+1978-05-28,GE Brasil,2,3,Londrina,False,False,second
+1978-05-31,GE Brasil,2,0,Atlético-PR,False,False,second
+1978-05-31,Chapecoense,0,0,Colorado,False,False,second
+1978-06-04,Londrina,0,0,Colorado,False,False,second
+1978-06-04,GE Brasil,0,2,Figueirense,False,False,second
+1978-06-04,Grêmio Maringá,2,1,Atlético-PR,False,False,second
+1978-06-10,Colorado,3,0,GE Brasil,False,False,second
+1978-06-13,Figueirense,0,1,Chapecoense,False,False,second
+1978-06-17,Londrina,3,1,Grêmio Maringá,False,False,second
+1978-06-17,Figueirense,3,1,Colorado,False,False,second
+1978-06-18,Atlético-PR,1,1,Chapecoense,False,False,second
+1978-06-20,Chapecoense,1,1,GE Brasil,False,False,second
+1978-06-24,Atlético-PR,1,1,Figueirense,False,False,second
+1978-06-24,Londrina,3,1,Chapecoense,False,False,second
+1978-06-24,Grêmio Maringá,4,0,GE Brasil,False,False,second
+1978-05-21,ABC,1,1,América-RN,False,False,second
+1978-05-21,Uberaba,1,1,Uberlândia,False,False,second
+1978-05-21,Botafogo-PB,4,0,Campinense,False,False,second
+1978-05-24,Uberlândia,2,0,América-RN,False,False,second
+1978-05-27,Uberaba,0,0,ABC,False,False,second
+1978-05-27,Uberlândia,0,1,América-MG,False,False,second
+1978-05-28,América-RN,2,2,Campinense,False,False,second
+1978-05-30,América-MG,1,1,ABC,False,False,second
+1978-06-04,América-MG,1,1,Uberaba,False,False,second
+1978-06-04,ABC,2,0,Campinense,False,False,second
+1978-06-04,Uberlândia,0,0,Botafogo-PB,False,False,second
+1978-06-08,América-MG,0,2,Botafogo-PB,False,False,second
+1978-06-13,Botafogo-PB,1,0,América-RN,False,False,second
+1978-06-13,Campinense,1,1,Uberaba,False,False,second
+1978-06-17,Botafogo-PB,1,0,Uberaba,False,False,second
+1978-06-17,ABC,1,0,Uberlândia,False,False,second
+1978-06-20,Campinense,0,0,Uberlândia,False,False,second
+1978-06-20,América-RN,1,1,América-MG,False,False,second
+1978-06-22,ABC,2,2,Botafogo-PB,False,False,second
+1978-06-22,Campinense,1,0,América-MG,False,False,second
+1978-06-22,Uberaba,3,2,América-RN,False,False,second
+1978-05-21,Desportiva,2,0,Vila Nova,False,False,second
+1978-05-21,Dom Bosco,3,0,Anapolina,False,False,second
+1978-05-28,Desportiva,2,1,Rio Branco-ES,False,False,second
+1978-05-28,Vila Nova,1,0,Anapolina,False,False,second
+1978-05-28,Comercial-MT,3,1,Dom Bosco,False,False,second
+1978-06-04,Rio Branco-ES,0,0,Dom Bosco,False,False,second
+1978-06-08,Dom Bosco,2,0,Vila Nova,False,False,second
+1978-06-13,Vila Nova,2,2,Comercial-MT,False,False,second
+1978-06-17,Comercial-MT,1,2,Rio Branco-ES,False,False,second
+1978-06-17,Desportiva,0,2,Anapolina,False,False,second
+1978-06-20,Comercial-MT,1,0,Desportiva,False,False,second
+1978-06-20,Anapolina,2,2,Rio Branco-ES,False,False,second
+1978-06-23,Dom Bosco,2,1,Desportiva,False,False,second
+1978-06-24,Anapolina,0,0,Comercial-MT,False,False,second
+1978-06-24,Vila Nova,2,1,Rio Branco-ES,False,False,second
+1978-05-21,CSA,0,0,CRB,False,False,second
+1978-05-21,Confiança,2,1,Sergipe,False,False,second
+1978-05-21,Volta Redonda,1,0,Itabuna,False,False,second
+1978-05-24,CRB,1,0,Confiança,False,False,second
+1978-05-24,Itabuna,1,1,CSA,False,False,second
+1978-05-28,Volta Redonda,1,0,Sergipe,False,False,second
+1978-05-28,Confiança,3,1,CSA,False,False,second
+1978-05-28,CRB,1,0,Itabuna,False,False,second
+1978-05-30,Sergipe,0,2,Itabuna,False,False,second
+1978-05-31,CSA,3,1,Volta Redonda,False,False,second
+1978-06-04,Confiança,0,3,Volta Redonda,False,False,second
+1978-06-13,Sergipe,0,2,CRB,False,False,second
+1978-06-17,Itabuna,3,0,Confiança,False,False,second
+1978-06-17,CSA,3,1,Sergipe,False,False,second
+1978-06-17,Volta Redonda,2,1,CRB,False,False,second
+1978-05-21,River,0,1,Flamengo-PI,False,False,second
+1978-05-21,Fortaleza,2,1,Moto Clube,False,False,second
+1978-05-21,Noroeste,2,0,Sampaio Corrêa,False,False,second
+1978-05-24,River,1,2,Noroeste,False,False,second
+1978-05-28,Fortaleza,2,0,Flamengo-PI,False,False,second
+1978-05-28,Moto Clube,1,0,Noroeste,False,False,second
+1978-05-31,Moto Clube,0,1,Flamengo-PI,False,False,second
+1978-06-04,Fortaleza,1,0,River,False,False,second
+1978-06-04,Sampaio Corrêa,0,0,Moto Clube,False,False,second
+1978-06-13,Flamengo-PI,2,0,Sampaio Corrêa,False,False,second
+1978-06-17,Sampaio Corrêa,2,0,River,False,False,second
+1978-06-17,Noroeste,2,1,Fortaleza,False,False,second
+1978-06-24,River,4,2,Moto Clube,False,False,second
+1978-06-24,Sampaio Corrêa,1,1,Fortaleza,False,False,second
+1978-06-24,Noroeste,2,1,Flamengo-PI,False,False,second
+1978-05-21,Fast,1,0,Nacional-AM,False,False,second
+1978-05-21,XV de Novembro,2,1,Paysandu,False,False,second
+1978-05-21,Bangu,0,0,Americano,False,False,second
+1978-05-25,Americano,4,0,Nacional-AM,False,False,second
+1978-05-27,Paysandu,0,0,Americano,False,False,second
+1978-05-28,Bangu,1,0,Nacional-AM,False,False,second
+1978-05-28,XV de Novembro,3,0,Fast,False,False,second
+1978-05-31,Americano,1,0,Fast,False,False,second
+1978-06-04,Fast,2,2,Paysandu,False,False,second
+1978-06-04,XV de Novembro,0,1,Bangu,False,False,second
+1978-06-13,Paysandu,2,2,Bangu,False,False,second
+1978-06-13,Nacional-AM,1,1,XV de Novembro,False,False,second
+1978-06-17,Paysandu,4,0,Nacional-AM,False,False,second
+1978-06-17,Fast,1,5,Bangu,False,False,second
+1978-06-17,Americano,3,1,XV de Novembro,False,False,second
+1978-07-03,Internacional,0,3,Guarani,False,False,third
+1978-07-03,Botafogo-SP,1,2,Londrina,False,False,third
+1978-07-03,Santos,4,0,Goytacaz,False,False,third
+1978-07-03,Botafogo-PB,0,1,Goiás,False,False,third
+1978-07-05,Botafogo-PB,2,1,Goytacaz,False,False,third
+1978-07-05,Botafogo-SP,2,1,Santos,False,False,third
+1978-07-05,Goiás,1,1,Guarani,False,False,third
+1978-07-06,Londrina,1,2,Internacional,False,False,third
+1978-07-08,Guarani,2,1,Santos,False,False,third
+1978-07-09,Internacional,3,0,Goytacaz,False,False,third
+1978-07-09,Londrina,1,2,Botafogo-PB,False,False,third
+1978-07-09,Botafogo-SP,4,0,Goiás,False,False,third
+1978-07-13,Goiás,0,1,Internacional,False,False,third
+1978-07-13,Goytacaz,0,2,Botafogo-SP,False,False,third
+1978-07-13,Guarani,1,0,Botafogo-PB,False,False,third
+1978-07-13,Santos,0,0,Londrina,False,False,third
+1978-07-16,Internacional,1,0,Santos,False,False,third
+1978-07-16,Botafogo-SP,2,1,Botafogo-PB,False,False,third
+1978-07-16,Goiás,5,0,Londrina,False,False,third
+1978-07-16,Guarani,3,0,Goytacaz,False,False,third
+1978-07-19,Santos,3,0,Goiás,False,False,third
+1978-07-19,Internacional,3,0,Botafogo-PB,False,False,third
+1978-07-19,Goytacaz,2,0,Londrina,False,False,third
+1978-07-19,Guarani,1,0,Botafogo-SP,False,False,third
+1978-07-23,Goiás,2,0,Goytacaz,False,False,third
+1978-07-23,Londrina,0,1,Guarani,False,False,third
+1978-07-23,Botafogo-PB,1,1,Santos,False,False,third
+1978-07-23,Internacional,2,1,Botafogo-SP,False,False,third
+1978-07-01,Fluminense,0,0,Portuguesa-SP,False,False,third
+1978-07-03,Volta Redonda,0,0,Ponte Preta-SP,False,False,third
+1978-07-03,Dom Bosco,0,2,Operário-MT,False,False,third
+1978-07-03,Santa Cruz,3,0,Sport,False,False,third
+1978-07-05,Operário-MT,1,0,Volta Redonda,False,False,third
+1978-07-05,Ponte Preta-SP,0,0,Fluminense,False,False,third
+1978-07-06,Dom Bosco,2,3,Sport,False,False,third
+1978-07-06,Portuguesa-SP,1,1,Santa Cruz,False,False,third
+1978-07-09,Ponte Preta-SP,0,0,Sport,False,False,third
+1978-07-09,Volta Redonda,1,1,Dom Bosco,False,False,third
+1978-07-09,Operário-MT,1,0,Portuguesa-SP,False,False,third
+1978-07-09,Fluminense,1,1,Santa Cruz,False,False,third
+1978-07-13,Portuguesa-SP,0,0,Ponte Preta-SP,False,False,third
+1978-07-13,Santa Cruz,2,1,Dom Bosco,False,False,third
+1978-07-13,Fluminense,3,0,Volta Redonda,False,False,third
+1978-07-13,Sport,0,0,Operário-MT,False,False,third
+1978-07-15,Portuguesa-SP,2,0,Dom Bosco,False,False,third
+1978-07-16,Volta Redonda,0,3,Sport,False,False,third
+1978-07-16,Fluminense,2,1,Operário-MT,False,False,third
+1978-07-16,Santa Cruz,2,2,Ponte Preta-SP,False,False,third
+1978-07-19,Sport,2,1,Portuguesa-SP,False,False,third
+1978-07-20,Santa Cruz,5,1,Volta Redonda,False,False,third
+1978-07-20,Ponte Preta-SP,3,0,Operário-MT,False,False,third
+1978-07-20,Dom Bosco,2,1,Fluminense,False,False,third
+1978-07-23,Portuguesa-SP,2,1,Volta Redonda,False,False,third
+1978-07-23,Sport,1,0,Fluminense,False,False,third
+1978-07-23,Operário-MT,3,3,Santa Cruz,False,False,third
+1978-07-23,Ponte Preta-SP,3,0,Dom Bosco,False,False,third
+1978-07-03,São Paulo,0,1,Grêmio,False,False,third
+1978-07-03,Palmeiras,3,0,América-RJ,False,False,third
+1978-07-03,Noroeste,0,1,Coritiba,False,False,third
+1978-07-03,Flamengo,1,1,Botafogo,False,False,third
+1978-07-05,Flamengo,1,1,Palmeiras,False,False,third
+1978-07-05,Coritiba,0,1,Grêmio,False,False,third
+1978-07-05,São Paulo,2,2,Noroeste,False,False,third
+1978-07-06,Botafogo,3,1,América-RJ,False,False,third
+1978-07-09,Coritiba,0,0,Botafogo,False,False,third
+1978-07-09,São Paulo,1,1,Palmeiras,False,False,third
+1978-07-09,Noroeste,0,2,América-RJ,False,False,third
+1978-07-09,Grêmio,5,2,Flamengo,False,False,third
+1978-07-13,Coritiba,0,0,Palmeiras,False,False,third
+1978-07-13,Grêmio,1,0,América-RJ,False,False,third
+1978-07-13,São Paulo,0,0,Flamengo,False,False,third
+1978-07-13,Noroeste,1,1,Botafogo,False,False,third
+1978-07-15,Grêmio,6,0,Noroeste,False,False,third
+1978-07-15,América-RJ,2,1,São Paulo,False,False,third
+1978-07-15,Flamengo,3,1,Coritiba,False,False,third
+1978-07-16,Palmeiras,1,2,Botafogo,False,False,third
+1978-07-19,Palmeiras,4,0,Noroeste,False,False,third
+1978-07-19,América-RJ,1,0,Flamengo,False,False,third
+1978-07-19,Coritiba,2,1,São Paulo,False,False,third
+1978-07-20,Botafogo,0,3,Grêmio,False,False,third
+1978-07-23,América-RJ,1,1,Coritiba,False,False,third
+1978-07-23,Botafogo,2,1,São Paulo,False,False,third
+1978-07-23,Noroeste,1,0,Flamengo,False,False,third
+1978-07-23,Grêmio,1,1,Palmeiras,False,False,third
+1978-07-03,Cruzeiro,2,2,Vasco da Gama,False,False,third
+1978-07-03,Grêmio Maringá,3,0,Vitória,False,False,third
+1978-07-03,Caxias,3,0,Americano,False,False,third
+1978-07-03,Bahia,1,0,Corinthians,False,False,third
+1978-07-05,Vitória,0,2,Vasco da Gama,False,False,third
+1978-07-05,Cruzeiro,2,1,Caxias,False,False,third
+1978-07-05,Grêmio Maringá,1,2,Corinthians,False,False,third
+1978-07-05,Bahia,5,0,Americano,False,False,third
+1978-07-08,Corinthians,0,0,Caxias,False,False,third
+1978-07-09,Vasco da Gama,3,0,Americano,False,False,third
+1978-07-09,Cruzeiro,0,0,Grêmio Maringá,False,False,third
+1978-07-09,Bahia,4,0,Vitória,False,False,third
+1978-07-13,Cruzeiro,0,0,Vitória,False,False,third
+1978-07-13,Caxias,3,1,Grêmio Maringá,False,False,third
+1978-07-13,Vasco da Gama,1,0,Bahia,False,False,third
+1978-07-13,Corinthians,1,0,Americano,False,False,third
+1978-07-15,Vitória,0,2,Caxias,False,False,third
+1978-07-16,Bahia,1,0,Cruzeiro,False,False,third
+1978-07-16,Vasco da Gama,3,1,Corinthians,False,False,third
+1978-07-16,Americano,2,0,Grêmio Maringá,False,False,third
+1978-07-19,Caxias,1,1,Vasco da Gama,False,False,third
+1978-07-20,Grêmio Maringá,1,2,Bahia,False,False,third
+1978-07-20,Corinthians,2,2,Vitória,False,False,third
+1978-07-20,Americano,0,0,Cruzeiro,False,False,third
+1978-07-23,Corinthians,1,1,Cruzeiro,False,False,third
+1978-07-23,Vasco da Gama,1,1,Grêmio Maringá,False,False,third
+1978-07-23,Caxias,1,1,Bahia,False,False,third
+1978-07-23,Americano,1,0,Vitória,False,False,third
+1978-07-26,Internacional,1,0,Santa Cruz,False,False,quarter
+1978-07-30,Santa Cruz,1,2,Internacional,False,False,quarter
+1978-07-26,Palmeiras,2,1,Bahia,False,False,quarter
+1978-07-30,Bahia,1,1,Palmeiras,False,False,quarter
+1978-07-27,Vasco da Gama,1,1,Grêmio,False,False,quarter
+1978-07-30,Grêmio,1,1,Vasco da Gama,False,False,quarter
+1978-07-27,Sport,0,2,Guarani,False,False,quarter
+1978-07-30,Guarani,4,0,Sport,False,False,quarter
+1978-08-02,Guarani,2,0,Vasco da Gama,False,False,semi
+1978-08-06,Vasco da Gama,1,2,Guarani,False,False,semi
+1978-08-03,Palmeiras,2,0,Internacional,False,False,semi
+1978-08-06,Internacional,1,1,Palmeiras,False,False,semi
+1978-08-10,Palmeiras,0,1,Guarani,False,False,final
+1978-08-13,Guarani,1,0,Palmeiras,False,False,final
