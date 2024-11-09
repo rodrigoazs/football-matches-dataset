@@ -1,9 +1,8 @@
 import re
-
-import requests
+from datetime import datetime
 
 import pandas as pd
-from datetime import datetime
+import requests
 
 FOLDER = "data/br/serie_a/"
 
@@ -42,11 +41,10 @@ for championship in championships:
     link = championship["link"]
 
     print(f"Parsing {year} in link {link}")
-    
+
     response = requests.get(link)
 
     if response.status_code == 200:
-        
         # try:
         #     lines = response.content.decode("utf-8").split("\n")
         # except:
@@ -60,7 +58,7 @@ for championship in championships:
         lines = """
 
 
-        """.split("\n")   
+        """.split("\n")
 
         # Initialize a list to hold the results
         results = []
@@ -89,12 +87,31 @@ for championship in championships:
                     away_team = match.group(4).strip()
 
                     # Store the extracted data in results
-                    results.append([convert_date(current_date, year), home_team, home_score, away_score, away_team, False])
+                    results.append(
+                        [
+                            convert_date(current_date, year),
+                            home_team,
+                            home_score,
+                            away_score,
+                            away_team,
+                            False,
+                        ]
+                    )
 
         print("Matches:", len(results))
         assert len(results) == 552
 
-        dataframe = pd.DataFrame(results, columns=["date", "home_team", "home_score", "away_score", "away_team", "neutral"])
+        dataframe = pd.DataFrame(
+            results,
+            columns=[
+                "date",
+                "home_team",
+                "home_score",
+                "away_score",
+                "away_team",
+                "neutral",
+            ],
+        )
         dataframe.to_csv(FOLDER + str(year) + ".csv")
     else:
         print(f"Failed to retrieve the webpage. Status code: {response.status_code}")

@@ -1,7 +1,7 @@
 import re
+from datetime import datetime
 
 import pandas as pd
-from datetime import datetime
 
 FOLDER = "data/br/cup/"
 
@@ -9,20 +9,29 @@ FOLDER = "data/br/cup/"
 def convert_date(date_string):
     # Map Portuguese abbreviations to English
     portuguese_to_english_months = {
-        "jan": "jan", "fev": "feb", "mar": "mar", "abr": "apr", "mai": "may",
-        "jun": "jun", "jul": "jul", "ago": "aug", "set": "sep", "out": "oct",
-        "nov": "nov", "dez": "dec"
+        "jan": "jan",
+        "fev": "feb",
+        "mar": "mar",
+        "abr": "apr",
+        "mai": "may",
+        "jun": "jun",
+        "jul": "jul",
+        "ago": "aug",
+        "set": "sep",
+        "out": "oct",
+        "nov": "nov",
+        "dez": "dec",
     }
 
     # Replace Portuguese month abbreviation with English
     for pt, en in portuguese_to_english_months.items():
         date_string = date_string.replace(pt, en)
     try:
-      date_format = "%d %b %y"
-      date_object = datetime.strptime(date_string, date_format)
-      return date_object.strftime("%Y-%m-%d")
+        date_format = "%d %b %y"
+        date_object = datetime.strptime(date_string, date_format)
+        return date_object.strftime("%Y-%m-%d")
     except:
-      raise Exception(date_string)
+        raise Exception(date_string)
 
 
 year = 2020
@@ -167,7 +176,7 @@ Final
 
 [28 fev 21]  21:00 Grêmio-RS                0-1 Palmeiras-SP        .               Arena do Grêmio-Porto Alegre-RS             [GUSTAVO GOMEZ 31' (1ºT)]
 [07 mar 21]  18:00 Palmeiras-SP             2-0 Grêmio-RS            .              Allianz Parque-Sao Paulo-SP                 [Wesley Ribeiro Silva 8' (2ºT), Gabriel Menino 39' (2ºT)]
-   """.split("\n")   
+   """.split("\n")
 
 # Initialize a list to hold the results
 results = []
@@ -176,7 +185,8 @@ stage = "first"
 
 # Regular expression for capturing teams and scores, including accents
 match_pattern = re.compile(
-    r"\[(\d{2} \w{3} \d{2})\]\s+\d{2}\:\d{2}\s+([0-9A-Za-zÀ-ÿ\s/-]+)\s+(\d+\s*)-(s*\d+)\s+([0-9A-Za-zÀ-ÿ\s/-]+)", re.UNICODE
+    r"\[(\d{2} \w{3} \d{2})\]\s+\d{2}\:\d{2}\s+([0-9A-Za-zÀ-ÿ\s/-]+)\s+(\d+\s*)-(s*\d+)\s+([0-9A-Za-zÀ-ÿ\s/-]+)",
+    re.UNICODE,
 )
 
 # Process each line
@@ -193,37 +203,68 @@ for line in lines:
         away_team = match.group(5).strip()
 
         # Store the extracted data in results
-        results.append([convert_date(date), home_team, home_score, away_score, away_team, False, False, stage])
+        results.append(
+            [
+                convert_date(date),
+                home_team,
+                home_score,
+                away_score,
+                away_team,
+                False,
+                False,
+                stage,
+            ]
+        )
 
     if line.startswith("First Phase") or line.startswith("1a Fase"):
-      stage = "first"
+        stage = "first"
 
     if line.startswith("Second Phase") or line.startswith("2a Fase"):
-      stage = "second"
+        stage = "second"
 
     if line.startswith("Third Phase") or line.startswith("3a Fase"):
-      stage = "third"
+        stage = "third"
 
     if line.startswith("Fourth Phase") or line.startswith("4a Fase"):
-      stage = "fourth"
+        stage = "fourth"
 
     if line.startswith("Round16") or line.startswith("Oitavas de Final"):
-      stage = "round16"
+        stage = "round16"
 
-    if line.startswith("Quarterfinals") or line.startswith("Quarterfinal") or line.startswith("Quartas de Final"):
-      stage = "quarter"
+    if (
+        line.startswith("Quarterfinals")
+        or line.startswith("Quarterfinal")
+        or line.startswith("Quartas de Final")
+    ):
+        stage = "quarter"
 
-    if line.startswith("Semifinals") or line.startswith("Semifinal") or line.startswith("Semi Finais"):
-      stage = "semi"
+    if (
+        line.startswith("Semifinals")
+        or line.startswith("Semifinal")
+        or line.startswith("Semi Finais")
+    ):
+        stage = "semi"
 
     if line.startswith("Final"):
-      stage = "final"
+        stage = "final"
 
     if line.startswith("Playoff"):
-      stage = "relegation"
+        stage = "relegation"
 
 print("Matches:", len(results))
 assert len(results) == 120
 
-dataframe = pd.DataFrame(results, columns=["date", "home_team", "home_score", "away_score", "away_team", "neutral", "knockout", "stage"])
+dataframe = pd.DataFrame(
+    results,
+    columns=[
+        "date",
+        "home_team",
+        "home_score",
+        "away_score",
+        "away_team",
+        "neutral",
+        "knockout",
+        "stage",
+    ],
+)
 dataframe.to_csv(FOLDER + str(year) + ".csv")
