@@ -1,0 +1,113 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2012-03-14,Coruripe (AL),0,1,Palmeiras (SP),False,False,first
+2012-03-22,Palmeiras (SP),3,0,Coruripe (AL),False,False,first
+2012-03-07,Horizonte (CE),2,0,América (RN),False,False,first
+2012-03-14,América (RN),2,0,Horizonte (CE),False,False,first
+2012-03-07,Gama (DF),0,2,Ceará (CE),False,False,first
+2012-03-07,Luverdense (MT),2,2,Paraná (PR),False,False,first
+2012-03-14,Paraná (PR),2,0,Luverdense (MT),False,False,first
+2012-03-07,Rio Branco (AC),0,6,Cruzeiro (MG),False,False,first
+2012-03-14,São Mateus (ES),2,1,Chapecoense (SC),False,False,first
+2012-03-21,Chapecoense (SC),3,1,São Mateus (ES),False,False,first
+2012-03-07,Sampaio Corrêa (MA),2,1,Atlético (PR),False,False,first
+2012-03-15,Atlético (PR),1,0,Sampaio Corrêa (MA),False,False,first
+2012-03-14,Madureira (RJ),0,2,Criciúma (SC),False,False,first
+2012-03-07,River Plate (SE),2,3,Grêmio (RS),False,False,first
+2012-03-21,Grêmio (RS),3,1,River Plate (SE),False,False,first
+2012-03-07,Real Noroeste (ES),0,2,Ipatinga (MG),False,False,first
+2012-03-15,Santa Cruz (RN),1,3,Náutico (PE),False,False,first
+2012-03-07,Comercial (PI),2,3,Fortaleza (CE),False,False,first
+2012-03-21,Fortaleza (CE),3,0,Comercial (PI),False,False,first
+2012-03-07,Auto Esporte (PB),0,3,Bahia (BA),False,False,first
+2012-03-07,Real (RR),0,0,Remo (PA),False,False,first
+2012-03-14,Remo (PA),3,0,Real (RR),False,False,first
+2012-03-08,Cuiabá (MT),1,1,Portuguesa (SP),False,False,first
+2012-03-21,Portuguesa (SP),4,0,Cuiabá (MT),False,False,first
+2012-03-07,Operário (PR),0,4,Juventude (RS),False,False,first
+2012-03-07,Independente (PA),0,1,São Paulo (SP),False,False,first
+2012-03-14,São Paulo (SP),4,0,Independente (PA),False,False,first
+2012-03-07,Aquidauanense (MS),1,0,Bahia de Feira (BA),False,False,first
+2012-03-14,Bahia de Feira (BA),2,0,Aquidauanense (MS),False,False,first
+2012-03-07,Gurupi (TO),0,1,Atlético (GO),False,False,first
+2012-03-15,Atlético (GO),4,2,Gurupi (TO),False,False,first
+2012-03-14,Sapucaiense (RS),0,0,Ponte Preta (SP),False,False,first
+2012-03-21,Ponte Preta (SP),5,2,Sapucaiense (RS),False,False,first
+2012-03-14,CENE (MS),1,3,Atlético (MG),False,False,first
+2012-03-07,Penarol (AM),1,2,Santa Cruz (PE),False,False,first
+2012-03-14,Santa Cruz (PE),2,3,Penarol (AM),False,False,first
+2012-03-07,Boavista (RJ),0,0,América (MG),False,False,first
+2012-03-14,América (MG),2,1,Boavista (RJ),False,False,first
+2012-03-08,Paulista (SP),2,3,Goiás (GO),False,False,first
+2012-03-21,Goiás (GO),3,0,Paulista (SP),False,False,first
+2012-03-14,Nacional (AM),0,0,Coritiba (PR),False,False,first
+2012-03-22,Coritiba (PR),2,0,Nacional (AM),False,False,first
+2012-03-14,Santa Quitéria (MA),2,3,ASA (AL),False,False,first
+2012-03-21,ASA (AL),2,1,Santa Quitéria (MA),False,False,first
+2012-03-14,de Julho (PI),0,2,Sport (PE),False,False,first
+2012-03-07,Espigão (RO),1,3,Paysandu (PA),False,False,first
+2012-03-14,Treze (PB),1,1,Botafogo (RJ),False,False,first
+2012-03-21,Botafogo (RJ),1,1,Treze (PB),False,False,first
+2012-03-07,Brasiliense (DF),2,0,Guarani (SP),False,False,first
+2012-03-14,Guarani (SP),3,0,Brasiliense (DF),False,False,first
+2012-03-08,São Domingos (SE),0,0,Vitória (BA),False,False,first
+2012-03-14,Vitória (BA),2,0,São Domingos (SE),False,False,first
+2012-03-07,Trem (AP),0,5,ABC (RN),False,False,first
+2012-04-04,Horizonte,1,3,Palmeiras,False,False,second
+2012-04-11,Ceará,2,2,Paraná,False,False,second
+2012-04-18,Paraná,1,1,Ceará,False,False,second
+2012-04-11,Chapecoense,1,1,Cruzeiro,False,False,second
+2012-04-18,Cruzeiro,4,1,Chapecoense,False,False,second
+2012-04-05,Criciúma,1,2,Atlético (PR),False,False,second
+2012-04-12,Atlético (PR),5,1,Criciúma,False,False,second
+2012-04-04,Ipatinga,0,1,Grêmio,False,False,second
+2012-04-11,Grêmio,3,0,Ipatinga,False,False,second
+2012-04-12,Fortaleza,4,0,Náutico,False,False,second
+2012-04-18,Náutico,2,1,Fortaleza,False,False,second
+2012-04-11,Remo,2,1,Bahia,False,False,second
+2012-04-19,Bahia,4,0,Remo,False,False,second
+2012-04-04,Juventude,2,0,Portuguesa,False,False,second
+2012-04-12,Portuguesa,4,0,Juventude,False,False,second
+2012-04-11,Bahia de Feira,2,5,São Paulo,False,False,second
+2012-04-05,Atlético (GO),2,1,Ponte Preta,False,False,second
+2012-04-18,Ponte Preta,2,1,Atlético (GO),False,False,second
+2012-04-11,Penarol,0,5,Atlético (MG),False,False,second
+2012-04-04,América (MG),0,0,Goiás,False,False,second
+2012-04-11,Goiás,4,3,América (MG),False,False,second
+2012-04-04,ASA,1,0,Coritiba,False,False,second
+2012-04-11,Coritiba,3,0,ASA,False,False,second
+2012-04-04,Paysandu,2,1,Sport,False,False,second
+2012-04-11,Sport,1,4,Paysandu,False,False,second
+2012-04-04,Guarani,1,2,Botafogo,False,False,second
+2012-04-18,Botafogo,0,0,Guarani,False,False,second
+2012-04-11,ABC,1,1,Vitória,False,False,second
+2012-04-18,Vitória,3,2,ABC,False,False,second
+2012-04-25,Paraná,1,2,Palmeiras,False,False,round16
+2012-05-09,Palmeiras,4,0,Paraná,False,False,round16
+2012-05-02,Atlético (PR),1,0,Cruzeiro,False,False,round16
+2012-05-09,Cruzeiro,1,2,Atlético (PR),False,False,round16
+2012-05-02,Fortaleza,0,2,Grêmio,False,False,round16
+2012-05-09,Grêmio,2,0,Fortaleza,False,False,round16
+2012-04-25,Portuguesa,0,0,Bahia,False,False,round16
+2012-05-10,Bahia,2,0,Portuguesa,False,False,round16
+2012-05-02,Ponte Preta,1,0,São Paulo,False,False,round16
+2012-05-10,São Paulo,3,1,Ponte Preta,False,False,round16
+2012-04-25,Goiás,2,0,Atlético (MG),False,False,round16
+2012-05-03,Atlético (MG),2,1,Goiás,False,False,round16
+2012-04-26,Coritiba,4,1,Paysandu,False,False,round16
+2012-05-03,Paysandu,0,1,Coritiba,False,False,round16
+2012-05-02,Vitória,1,1,Botafogo,False,False,round16
+2012-05-09,Botafogo,1,2,Vitória,False,False,round16
+2012-05-16,Atlético (PR),2,2,Palmeiras,False,False,quarter
+2012-05-23,Palmeiras,2,0,Atlético (PR),False,False,quarter
+2012-05-17,Bahia,1,2,Grêmio,False,False,quarter
+2012-05-23,Grêmio,2,0,Bahia,False,False,quarter
+2012-05-16,São Paulo,2,0,Goiás,False,False,quarter
+2012-05-23,Goiás,2,2,São Paulo,False,False,quarter
+2012-05-16,Vitória,0,0,Coritiba,False,False,quarter
+2012-05-23,Coritiba,4,1,Vitória,False,False,quarter
+2012-06-13,Grêmio,0,2,Palmeiras,False,False,semi
+2012-06-21,Palmeiras,1,1,Grêmio,False,False,semi
+2012-06-14,São Paulo,1,0,Coritiba,False,False,semi
+2012-06-20,Coritiba,2,0,São Paulo,False,False,semi
+2012-07-05,Palmeiras,2,0,Coritiba,False,False,final
+2012-07-11,Coritiba,1,1,Palmeiras,False,False,final

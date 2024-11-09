@@ -1,0 +1,116 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2007-02-14,Operário (MT),0,5,Palmeiras (SP),False,False,first
+2007-02-14,Vitória (ES),1,0,Ipatinga (MG),False,False,first
+2007-02-21,Ipatinga (MG),3,1,Vitória (ES),False,False,first
+2007-02-21,Campinense (PB),1,1,Sport (PE),False,False,first
+2007-02-28,Sport (PE),3,0,Campinense (PB),False,False,first
+2007-02-21,Ananindeua (PA),2,0,São Raimundo (AM),False,False,first
+2007-02-28,São Raimundo (AM),1,0,Ananindeua (PA),False,False,first
+2007-02-21,Veranópolis (RS),0,0,Cruzeiro (MG),False,False,first
+2007-02-28,Cruzeiro (MG),1,0,Veranópolis (RS),False,False,first
+2007-02-14,SER Chapadão (MS),0,2,Portuguesa (SP),False,False,first
+2007-02-21,Ferroviária (SP),3,1,Juventude (RS),False,False,first
+2007-02-28,Juventude (RS),2,0,Ferroviária (SP),False,False,first
+2007-02-21,Barra do Garças (MT),1,4,Brasiliense (DF),False,False,first
+2007-02-21,Coxim (MS),2,5,Atlético (PR),False,False,first
+2007-02-14,Baraúnas (RN),1,1,Vitória (BA),False,False,first
+2007-02-22,Vitória (BA),1,1,Baraúnas (RN),False,False,first
+2007-02-14,Atlético (GO),2,1,Guarani (SP),False,False,first
+2007-02-21,Guarani (SP),0,0,Atlético (GO),False,False,first
+2007-02-14,Sampaio Corrêa (MA),1,3,Fortaleza (CE),False,False,first
+2007-02-14,Adesg (AC),1,2,Fluminense (RJ),False,False,first
+2007-02-28,Fluminense (RJ),6,0,Adesg (AC),False,False,first
+2007-02-14,Baré (RR),0,1,América (RN),False,False,first
+2007-02-21,América (RN),2,0,Baré (RR),False,False,first
+2007-02-21,Moto Clube (MA),1,3,Goiás (GO),False,False,first
+2007-02-21,Itabaiana (SE),1,2,Bahia (BA),False,False,first
+2007-02-28,Bahia (BA),0,1,Itabaiana (SE),False,False,first
+2007-02-21,Olímpico Pirambu (SE),1,1,Corinthians (SP),False,False,first
+2007-03-01,Corinthians (SP),3,0,Olímpico Pirambu (SE),False,False,first
+2007-02-22,Vilavelhense (ES),1,0,Treze (PB),False,False,first
+2007-02-28,Treze (PB),3,1,Vilavelhense (ES),False,False,first
+2007-02-14,Parnahyba (PI),1,2,Náutico (PE),False,False,first
+2007-02-21,Náutico (PE),6,0,Parnahyba (PI),False,False,first
+2007-02-21,São José (AP),0,1,Paysandu (PA),False,False,first
+2007-02-28,Paysandu (PA),2,2,São José (AP),False,False,first
+2007-02-14,Fast Clube (AM),1,2,Vasco (RJ),False,False,first
+2007-02-28,Vasco (RJ),6,0,Fast Clube (AM),False,False,first
+2007-02-14,Araguaína (TO),1,3,Gama (DF),False,False,first
+2007-02-21,Madureira (RJ),2,3,Figueirense (SC),False,False,first
+2007-02-28,Figueirense (SC),2,0,Madureira (RJ),False,False,first
+2007-02-14,ADAP Galo Maringá (PR),1,4,Noroeste (SP),False,False,first
+2007-02-14,Colo-Colo (BA),1,3,Atlético (MG),False,False,first
+2007-02-14,Coruripe (AL),1,1,América (RJ),False,False,first
+2007-02-21,América (RJ),3,1,Coruripe (AL),False,False,first
+2007-02-21,Villa Nova (MG),1,0,Ponte Preta (SP),False,False,first
+2007-02-28,Ponte Preta (SP),2,3,Villa Nova (MG),False,False,first
+2007-02-21,Rio Branco (PR),1,1,Avaí (SC),False,False,first
+2007-02-28,Avaí (SC),0,1,Rio Branco (PR),False,False,first
+2007-02-14,CSA (AL),1,1,Botafogo (RJ),False,False,first
+2007-03-01,Botafogo (RJ),5,2,CSA (AL),False,False,first
+2007-02-22,Barras (PI),1,0,Ceará (CE),False,False,first
+2007-02-28,Ceará (CE),2,0,Barras (PI),False,False,first
+2007-02-14,Caxias (RS),2,1,Coritiba (PR),False,False,first
+2007-02-21,Coritiba (PR),4,1,Caxias (RS),False,False,first
+2007-02-14,Ulbra Ji-Paraná (RO),2,0,Santa Cruz (PE),False,False,first
+2007-02-21,Santa Cruz (PE),1,2,Ulbra Ji-Paraná (RO),False,False,first
+2007-03-21,Ipatinga,2,0,Palmeiras,False,False,second
+2007-04-05,Palmeiras,2,0,Ipatinga,False,False,second
+2007-03-14,Ananindeua,0,5,Sport,False,False,second
+2007-03-14,Portuguesa,0,0,Cruzeiro,False,False,second
+2007-04-05,Cruzeiro,2,1,Portuguesa,False,False,second
+2007-03-14,Brasiliense,0,0,Juventude,False,False,second
+2007-03-21,Juventude,2,3,Brasiliense,False,False,second
+2007-03-21,Vitória (BA),4,1,Atlético (PR),False,False,second
+2007-04-05,Atlético (PR),3,0,Vitória (BA),False,False,second
+2007-03-14,Atlético (GO),2,3,Fortaleza,False,False,second
+2007-03-21,Fortaleza,2,3,Atlético (GO),False,False,second
+2007-03-14,América (RN),1,2,Fluminense,False,False,second
+2007-04-04,Fluminense,0,1,América (RN),False,False,second
+2007-03-14,Bahia,1,1,Goiás,False,False,second
+2007-03-21,Goiás,3,3,Bahia,False,False,second
+2007-03-14,Treze,0,2,Corinthians,False,False,second
+2007-03-21,Paysandu,1,0,Náutico,False,False,second
+2007-04-04,Náutico,5,0,Paysandu,False,False,second
+2007-03-21,Gama,2,2,Vasco,False,False,second
+2007-04-04,Vasco,1,2,Gama,False,False,second
+2007-03-21,Noroeste,0,0,Figueirense,False,False,second
+2007-04-04,Figueirense,4,1,Noroeste,False,False,second
+2007-03-21,América (RJ),1,1,Atlético (MG),False,False,second
+2007-04-04,Atlético (MG),2,1,América (RJ),False,False,second
+2007-04-04,Villa Nova (MG),0,0,Avaí (SC),False,False,second
+2007-04-11,Avaí (SC),3,2,Villa Nova (MG),False,False,second
+2007-03-14,Ceará,1,2,Botafogo,False,False,second
+2007-03-22,Botafogo,2,0,Ceará,False,False,second
+2007-03-21,Ulbra Ji-Paraná,2,2,Coritiba,False,False,second
+2007-04-04,Coritiba,1,0,Ulbra Ji-Paraná,False,False,second
+2007-04-18,Ipatinga,1,1,Sport,False,False,round16
+2007-04-25,Sport,1,1,Ipatinga,False,False,round16
+2007-04-18,Cruzeiro,0,1,Brasiliense,False,False,round16
+2007-04-25,Brasiliense,1,1,Cruzeiro,False,False,round16
+2007-04-18,Atlético (GO),3,1,Atlético (PR),False,False,round16
+2007-04-25,Atlético (PR),2,0,Atlético (GO),False,False,round16
+2007-04-19,Fluminense,1,1,Bahia,False,False,round16
+2007-04-25,Bahia,2,2,Fluminense,False,False,round16
+2007-04-18,Náutico,2,2,Corinthians,False,False,round16
+2007-04-26,Corinthians,0,2,Náutico,False,False,round16
+2007-04-18,Gama,2,4,Figueirense,False,False,round16
+2007-04-25,Figueirense,2,1,Gama,False,False,round16
+2007-04-18,Avaí,0,2,Atlético (MG),False,False,round16
+2007-04-25,Atlético (MG),1,0,Avaí,False,False,round16
+2007-04-19,Coritiba,0,1,Botafogo,False,False,round16
+2007-04-25,Botafogo,3,3,Coritiba,False,False,round16
+2007-05-02,Brasiliense,2,2,Ipatinga,False,False,quarter
+2007-05-09,Ipatinga,0,1,Brasiliense,False,False,quarter
+2007-05-02,Fluminense,1,1,Atlético (PR),False,False,quarter
+2007-05-09,Atlético (PR),0,1,Fluminense,False,False,quarter
+2007-05-02,Náutico,2,2,Figueirense,False,False,quarter
+2007-05-09,Figueirense,1,0,Náutico,False,False,quarter
+2007-05-02,Atlético (MG),0,0,Botafogo,False,False,quarter
+2007-05-10,Botafogo,2,1,Atlético (MG),False,False,quarter
+2007-05-16,Fluminense,4,2,Brasiliense,False,False,semi
+2007-05-23,Brasiliense,1,1,Fluminense,False,False,semi
+2007-05-16,Figueirense,2,0,Botafogo,False,False,semi
+2007-05-23,Botafogo,3,1,Figueirense,False,False,semi
+2007-05-30,Fluminense,1,1,Figueirense,False,False,final
+2007-06-06,Figueirense,0,1,Fluminense,False,False,final

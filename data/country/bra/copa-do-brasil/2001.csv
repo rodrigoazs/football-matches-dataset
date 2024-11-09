@@ -1,0 +1,118 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2001-03-14,Ríver (PI),0,2,Flamengo (RJ),False,False,first
+2001-04-04,Náutico (PE),2,2,ABC (RN),False,False,first
+2001-04-11,ABC (RN),2,0,Náutico (PE),False,False,first
+2001-03-14,URT (MG),2,1,Mixto (MT),False,False,first
+2001-03-21,Mixto (MT),2,0,URT (MG),False,False,first
+2001-03-14,Comercial (MS),2,0,Juventude (RS),False,False,first
+2001-03-21,Juventude (RS),5,0,Comercial (MS),False,False,first
+2001-03-14,Desportiva (ES),2,3,Coritiba (PR),False,False,first
+2001-03-29,Coritiba (PR),3,0,Desportiva (ES),False,False,first
+2001-03-14,Nacional (AM),3,0,Paysandú (PA),False,False,first
+2001-03-21,Paysandú (PA),1,1,Nacional (AM),False,False,first
+2001-03-21,Operário (MS),0,6,Atlético (MG),False,False,first
+2001-03-14,Americano (RJ),2,6,Goiás (GO),False,False,first
+2001-03-15,Cachoeiro (ES),0,1,Fluminense (RJ),False,False,first
+2001-03-21,Fluminense (RJ),2,1,Cachoeiro (ES),False,False,first
+2001-03-14,Malutrom (PR),1,0,Juventude (MT),False,False,first
+2001-03-22,Juventude (MT),4,0,Malutrom (PR),False,False,first
+2001-03-14,Villa Nova (MG),3,2,Grêmio (RS),False,False,first
+2001-03-21,Grêmio (RS),4,1,Villa Nova (MG),False,False,first
+2001-04-04,Lagartense (SE),1,2,Santa Cruz (PE),False,False,first
+2001-04-11,Santa Cruz (PE),3,3,Lagartense (SE),False,False,first
+2001-03-14,Guajará (RO),1,1,Rio Branco (AC),False,False,first
+2001-03-21,Rio Branco (AC),1,0,Guajará (RO),False,False,first
+2001-03-21,ASA (AL),1,2,Vitória (BA),False,False,first
+2001-03-29,Vitória (BA),2,1,ASA (AL),False,False,first
+2001-03-14,Ceará (CE),3,1,Paraná (PR),False,False,first
+2001-03-21,Paraná (PR),2,2,Ceará (CE),False,False,first
+2001-03-21,Botafogo (PB),0,1,São Paulo (SP),False,False,first
+2001-03-28,São Paulo (SP),10,0,Botafogo (PB),False,False,first
+2001-03-21,Joinville (SC),1,3,Corinthians (SP),False,False,first
+2001-03-14,Goiânia (GO),1,1,América (MG),False,False,first
+2001-03-21,América (MG),0,1,Goiânia (GO),False,False,first
+2001-04-04,CSA (AL),3,4,Sport (PE),False,False,first
+2001-04-11,Sport (PE),0,1,CSA (AL),False,False,first
+2001-03-14,Moto Clube (MA),1,2,Flamengo (PI),False,False,first
+2001-03-22,Flamengo (PI),2,1,Moto Clube (MA),False,False,first
+2001-03-14,Figueirense (SC),2,3,Portuguesa (SP),False,False,first
+2001-03-21,Portuguesa (SP),2,1,Figueirense (SC),False,False,first
+2001-03-14,Rio Negro (RR),1,2,São Raimundo (AM),False,False,first
+2001-03-21,São Raimundo (AM),6,0,Rio Negro (RR),False,False,first
+2001-03-14,Caxias (RS),0,1,Guarani (SP),False,False,first
+2001-03-22,Guarani (SP),4,1,Caxias (RS),False,False,first
+2001-03-15,Treze (PB),2,0,Atlético (PR),False,False,first
+2001-03-22,Atlético (PR),2,0,Treze (PB),False,False,first
+2001-03-21,Vila Nova (GO),3,3,Internacional (RS),False,False,first
+2001-03-29,Internacional (RS),3,1,Vila Nova (GO),False,False,first
+2001-03-15,Sampaio Corrêa (MA),0,2,Fortaleza (CE),False,False,first
+2001-03-14,América (RN),1,4,Bahia (BA),False,False,first
+2001-03-14,Anapolina (GO),1,2,Santos (SP),False,False,first
+2001-03-21,Santos (SP),5,1,Anapolina (GO),False,False,first
+2001-03-14,Sergipe (SE),2,3,Botafogo (RJ),False,False,first
+2001-03-21,Botafogo (RJ),2,1,Sergipe (SE),False,False,first
+2001-03-14,Remo (PA),1,0,Santos (AP),False,False,first
+2001-03-22,Santos (AP),0,3,Remo (PA),False,False,first
+2001-03-14,Palmas (TO),0,0,Gama (DF),False,False,first
+2001-03-21,Gama (DF),2,0,Palmas (TO),False,False,first
+2001-03-14,Castanhal (PA),0,1,Ponte Preta (SP),False,False,first
+2001-03-21,Ponte Preta (SP),8,1,Castanhal (PA),False,False,first
+2001-04-18,ABC,1,3,Flamengo,False,False,second
+2001-04-11,Juventude (RS),3,0,Mixto,False,False,second
+2001-04-18,Mixto,1,1,Juventude (RS),False,False,second
+2001-04-11,Nacional,2,2,Coritiba,False,False,second
+2001-04-18,Coritiba,2,1,Nacional,False,False,second
+2001-04-11,Goiás,3,1,Atlético (MG),False,False,second
+2001-04-18,Atlético (MG),2,2,Goiás,False,False,second
+2001-04-11,Juventude (MT),4,1,Fluminense,False,False,second
+2001-04-18,Fluminense,3,0,Juventude (MT),False,False,second
+2001-04-18,Santa Cruz,1,0,Grêmio,False,False,second
+2001-04-26,Grêmio,3,1,Santa Cruz,False,False,second
+2001-04-11,Rio Branco,0,0,Vitória,False,False,second
+2001-04-18,Vitória,3,0,Rio Branco,False,False,second
+2001-04-11,Ceará,2,4,São Paulo,False,False,second
+2001-04-04,Ponte Preta,0,0,Gama,False,False,second
+2001-04-11,Gama,0,2,Ponte Preta,False,False,second
+2001-04-04,Remo,2,1,Botafogo (RJ),False,False,second
+2001-04-11,Botafogo (RJ),1,2,Remo,False,False,second
+2001-04-11,Bahia,2,0,Santos,False,False,second
+2001-04-18,Santos,0,2,Bahia,False,False,second
+2001-04-18,Fortaleza,1,0,Internacional,False,False,second
+2001-04-26,Internacional,0,0,Fortaleza,False,False,second
+2001-04-05,Guarani,0,2,Atlético (PR),False,False,second
+2001-04-04,São Raimundo,1,0,Portuguesa,False,False,second
+2001-04-11,Portuguesa,3,1,São Raimundo,False,False,second
+2001-04-18,Flamengo (PI),2,0,Sport,False,False,second
+2001-04-26,Sport,1,0,Flamengo (PI),False,False,second
+2001-04-04,Goiânia,0,1,Corinthians,False,False,second
+2001-04-12,Corinthians,3,1,Goiânia,False,False,second
+2001-05-02,Flamengo,2,1,Juventude (RS),False,False,round16
+2001-05-09,Juventude (RS),2,1,Flamengo,False,False,round16
+2001-05-02,Goiás,1,1,Coritiba,False,False,round16
+2001-05-10,Coritiba,4,3,Goiás,False,False,round16
+2001-05-02,Grêmio,1,0,Fluminense,False,False,round16
+2001-05-09,Fluminense,0,0,Grêmio,False,False,round16
+2001-05-02,São Paulo,3,0,Vitória,False,False,round16
+2001-05-09,Vitória,0,2,São Paulo,False,False,round16
+2001-04-26,Remo,3,2,Ponte Preta,False,False,round16
+2001-05-09,Ponte Preta,4,1,Remo,False,False,round16
+2001-05-03,Bahia,0,0,Fortaleza,False,False,round16
+2001-05-09,Fortaleza,3,0,Bahia,False,False,round16
+2001-05-03,Atlético (PR),3,1,Portuguesa,False,False,round16
+2001-05-09,Portuguesa,1,1,Atlético (PR),False,False,round16
+2001-05-02,Flamengo (PI),1,8,Corinthians,False,False,round16
+2001-05-09,Corinthians,3,0,Flamengo (PI),False,False,round16
+2001-05-16,Coritiba,3,2,Flamengo,False,False,quarter
+2001-05-23,Flamengo,1,1,Coritiba,False,False,quarter
+2001-05-16,Grêmio,2,1,São Paulo,False,False,quarter
+2001-05-23,São Paulo,3,4,Grêmio,False,False,quarter
+2001-05-16,Fortaleza,1,0,Ponte Preta,False,False,quarter
+2001-05-23,Ponte Preta,5,2,Fortaleza,False,False,quarter
+2001-05-17,Corinthians,0,0,Atlético (PR),False,False,quarter
+2001-05-23,Atlético (PR),0,1,Corinthians,False,False,quarter
+2001-05-30,Grêmio,3,1,Coritiba,False,False,semi
+2001-06-06,Coritiba,0,1,Grêmio,False,False,semi
+2001-06-03,Ponte Preta,0,2,Corinthians,False,False,semi
+2001-06-06,Corinthians,3,0,Ponte Preta,False,False,semi
+2001-06-10,Grêmio,2,2,Corinthians,False,False,final
+2001-06-13,Corinthians,1,3,Grêmio,False,False,final

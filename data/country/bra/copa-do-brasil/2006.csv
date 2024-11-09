@@ -1,0 +1,114 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2006-02-22,ASA (AL),1,1,Flamengo (RJ),False,False,first
+2006-03-08,Flamengo (RJ),2,1,ASA (AL),False,False,first
+2006-02-15,Parnahyba (PI),0,1,ABC (RN),False,False,first
+2006-02-22,ABC (RN),5,1,Parnahyba (PI),False,False,first
+2006-02-15,Estrela do Norte (ES),1,1,Guarani (SP),False,False,first
+2006-03-08,Guarani (SP),3,0,Estrela do Norte (ES),False,False,first
+2006-02-15,Potiguar (RN),2,0,Santo André (SP),False,False,first
+2006-03-08,Santo André (SP),1,2,Potiguar (RN),False,False,first
+2006-02-15,Atl. Hermann Aichinger (SC),0,3,Atlético (MG),False,False,first
+2006-02-15,Mineiros (GO),3,1,Americano (RJ),False,False,first
+2006-03-08,Americano (RJ),4,2,Mineiros (GO),False,False,first
+2006-02-22,Vilhena (RO),1,3,Fortaleza (CE),False,False,first
+2006-02-22,Ceilândia (DF),0,0,Bahia (BA),False,False,first
+2006-03-08,Bahia (BA),1,2,Ceilândia (DF),False,False,first
+2006-02-15,Operário (MS),1,2,Botafogo (RJ),False,False,first
+2006-02-22,Botafogo (RJ),5,1,Operário (MS),False,False,first
+2006-02-22,Serra (ES),1,3,Ipatinga (MG),False,False,first
+2006-02-22,ICASA (CE),0,0,Coritiba (PR),False,False,first
+2006-03-08,Coritiba (PR),3,1,ICASA (CE),False,False,first
+2006-02-22,Rio Branco (AC),0,1,Náutico (PE),False,False,first
+2006-03-08,Náutico (PE),4,1,Rio Branco (AC),False,False,first
+2006-02-15,Sergipe (SE),0,0,Santos (SP),False,False,first
+2006-02-22,Santos (SP),3,0,Sergipe (SE),False,False,first
+2006-02-15,URT (MG),3,2,Londrina (PR),False,False,first
+2006-02-22,Londrina (PR),1,1,URT (MG),False,False,first
+2006-02-22,São Raimundo (RR),0,2,Brasiliense (DF),False,False,first
+2006-02-22,Itabaiana (SE),0,0,Remo (PA),False,False,first
+2006-03-08,Remo (PA),4,1,Itabaiana (SE),False,False,first
+2006-02-15,Botafogo (PB),1,1,Vasco (RJ),False,False,first
+2006-02-22,Vasco (RJ),7,0,Botafogo (PB),False,False,first
+2006-02-15,Ulbra (RS),2,4,Iraty (PR),False,False,first
+2006-02-22,Cabofriense (RJ),1,1,São Caetano (SP),False,False,first
+2006-03-08,São Caetano (SP),4,1,Cabofriense (RJ),False,False,first
+2006-02-15,Novo Hamburgo (RS),2,2,Criciúma (SC),False,False,first
+2006-02-22,Criciúma (SC),2,1,Novo Hamburgo (RS),False,False,first
+2006-02-15,Moto Clube (MA),1,3,Atlético (PR),False,False,first
+2006-02-15,Volta Redonda (RJ),2,1,América (MG),False,False,first
+2006-02-22,América (MG),2,1,Volta Redonda (RJ),False,False,first
+2006-02-22,Piauí (PI),1,2,Grêmio (RS),False,False,first
+2006-03-08,Grêmio (RS),4,0,Piauí (PI),False,False,first
+2006-02-22,de Novembro (RS),4,1,Noroeste (SP),False,False,first
+2006-03-08,Noroeste (SP),2,0,de Novembro (RS),False,False,first
+2006-02-22,Operário (MT),2,3,Fluminense (RJ),False,False,first
+2006-03-09,Fluminense (RJ),3,1,Operário (MT),False,False,first
+2006-02-22,CENE (MS),2,1,Treze (PB),False,False,first
+2006-03-08,Treze (PB),1,3,CENE (MS),False,False,first
+2006-02-15,Colinas (TO),0,2,Paysandu (PA),False,False,first
+2006-02-15,Grêmio Coariense (AM),2,5,Vila Nova (GO),False,False,first
+2006-02-22,Nacional (AM),2,5,Cruzeiro (MG),False,False,first
+2006-02-22,São José (AP),0,1,CRB (AL),False,False,first
+2006-03-08,CRB (AL),3,0,São José (AP),False,False,first
+2006-02-15,Vila Aurora (MT),0,0,Santa Cruz (PE),False,False,first
+2006-02-22,Santa Cruz (PE),1,0,Vila Aurora (MT),False,False,first
+2006-02-22,Imperatriz (MA),1,1,Vitória (BA),False,False,first
+2006-03-08,Vitória (BA),5,2,Imperatriz (MA),False,False,first
+2006-03-22,ABC,0,1,Flamengo,False,False,second
+2006-04-05,Flamengo,4,0,ABC,False,False,second
+2006-03-22,Potiguar,0,4,Guarani,False,False,second
+2006-03-15,Mineiros,3,2,Atlético (MG),False,False,second
+2006-03-22,Atlético (MG),4,1,Mineiros,False,False,second
+2006-03-15,Ceilândia,1,1,Fortaleza,False,False,second
+2006-04-05,Fortaleza,3,1,Ceilândia,False,False,second
+2006-03-15,Ipatinga,3,0,Botafogo (RJ),False,False,second
+2006-03-23,Botafogo (RJ),1,3,Ipatinga,False,False,second
+2006-03-15,Náutico,2,0,Coritiba,False,False,second
+2006-03-22,Coritiba,0,0,Náutico,False,False,second
+2006-03-22,URT,1,3,Santos,False,False,second
+2006-03-15,Brasiliense,3,1,Remo,False,False,second
+2006-03-22,Remo,0,1,Brasiliense,False,False,second
+2006-03-22,Iraty,2,2,Vasco,False,False,second
+2006-04-08,Vasco,5,1,Iraty,False,False,second
+2006-03-15,São Caetano,4,1,Criciúma,False,False,second
+2006-03-22,Criciúma,4,0,São Caetano,False,False,second
+2006-03-22,Volta Redonda,2,1,Atlético (PR),False,False,second
+2006-04-05,Atlético (PR),0,0,Volta Redonda,False,False,second
+2006-03-15,de Novembro,1,0,Grêmio,False,False,second
+2006-03-23,Grêmio,1,0,de Novembro,False,False,second
+2006-03-22,CENE,3,5,Fluminense,False,False,second
+2006-03-22,Vila Nova,3,1,Paysandu,False,False,second
+2006-04-05,Paysandu,1,0,Vila Nova,False,False,second
+2006-03-22,CRB,0,2,Cruzeiro,False,False,second
+2006-03-15,Santa Cruz,2,2,Vitória,False,False,second
+2006-03-22,Vitória,3,2,Santa Cruz,False,False,second
+2006-04-12,Flamengo,5,1,Guarani,False,False,round16
+2006-04-19,Guarani,1,0,Flamengo,False,False,round16
+2006-04-12,Atlético (MG),0,2,Fortaleza,False,False,round16
+2006-04-19,Fortaleza,1,3,Atlético (MG),False,False,round16
+2006-04-12,Ipatinga,3,1,Náutico,False,False,round16
+2006-04-19,Náutico,1,3,Ipatinga,False,False,round16
+2006-04-12,Santos,2,1,Brasiliense,False,False,round16
+2006-04-19,Brasiliense,1,1,Santos,False,False,round16
+2006-04-12,Criciúma,1,2,Vasco,False,False,round16
+2006-04-20,Vasco,1,0,Criciúma,False,False,round16
+2006-04-12,Volta Redonda,1,0,XV de Novembro,False,False,round16
+2006-04-19,XV de Novembro,2,1,Volta Redonda,False,False,round16
+2006-04-12,Vila Nova,2,2,Fluminense,False,False,round16
+2006-04-19,Fluminense,4,0,Vila Nova,False,False,round16
+2006-04-12,Vitória,2,1,Cruzeiro,False,False,round16
+2006-04-19,Cruzeiro,4,0,Vitória,False,False,round16
+2006-04-26,Flamengo,4,1,Atlético (MG),False,False,quarter
+2006-05-03,Atlético (MG),0,0,Flamengo,False,False,quarter
+2006-04-26,Santos,1,1,Ipatinga,False,False,quarter
+2006-05-03,Ipatinga,1,1,Santos,False,False,quarter
+2006-04-27,Volta Redonda,0,0,Vasco,False,False,quarter
+2006-05-04,Vasco,2,1,Volta Redonda,False,False,quarter
+2006-04-26,Cruzeiro,2,3,Fluminense,False,False,quarter
+2006-05-03,Fluminense,1,0,Cruzeiro,False,False,quarter
+2006-05-10,Ipatinga,1,1,Flamengo,False,False,semi
+2006-05-18,Flamengo,2,1,Ipatinga,False,False,semi
+2006-05-10,Fluminense,0,1,Vasco,False,False,semi
+2006-05-17,Vasco,1,1,Fluminense,False,False,semi
+2006-07-19,Flamengo,2,0,Vasco,False,False,final
+2006-07-26,Vasco,0,1,Flamengo,False,False,final

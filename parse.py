@@ -1,8 +1,9 @@
 from parsers import *
+import pandas as pd
 
 FOLDER = "data/country/bra/copa-do-brasil/"
-YEAR = 2015
-MATCHES = 158
+YEAR = 2000
+MATCHES = 129
 
 parsers = [parse for name, parse in globals().items() if name.endswith("_parser")]
 with open("text.txt", "r") as file:
@@ -15,26 +16,25 @@ def main():
         print(f"Parsing with {parse.__name__}")
         results = parse(text, YEAR)
         print("Matches extracted:", len(results))
-        if len(results) != MATCHES:
-            continue
+        if len(results) == MATCHES:
+            break
 
-    # print("Matches:", len(results))
-    # assert len(results) == 120
+    assert len(results) == MATCHES
 
-    # dataframe = pd.DataFrame(
-    #     results,
-    #     columns=[
-    #         "date",
-    #         "home_team",
-    #         "home_score",
-    #         "away_score",
-    #         "away_team",
-    #         "neutral",
-    #         "knockout",
-    #         "stage",
-    #     ],
-    # )
-    # dataframe.to_csv(FOLDER + str(year) + ".csv")
+    dataframe = pd.DataFrame(
+        results,
+        columns=[
+            "date",
+            "home_team",
+            "home_score",
+            "away_score",
+            "away_team",
+            "neutral",
+            "knockout",
+            "stage",
+        ],
+    )
+    dataframe.to_csv(FOLDER + str(YEAR) + ".csv", index=False)
 
 
 if __name__ == "__main__":

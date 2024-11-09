@@ -1,0 +1,118 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
+2002-01-23,Náutico-PE,2,2,Remo-PA,False,False,first
+2002-02-06,Remo-PA,3,4,Náutico-PE,False,False,first
+2002-01-23,Coritiba-PR,2,1,Ponte Preta-SP,False,False,first
+2002-02-20,Ponte Preta-SP,4,1,Coritiba-PR,False,False,first
+2002-02-06,Alegrense-ES,2,2,Botafogo-RJ,False,False,first
+2002-02-27,Botafogo-RJ,0,0,Alegrense-ES,False,False,first
+2002-01-23,Americano-RJ,3,0,Joinville-SC,False,False,first
+2002-02-06,Joinville-SC,3,1,Americano-RJ,False,False,first
+2002-01-23,América-MG,1,2,Guarani-SP,False,False,first
+2002-02-06,Guarani-SP,2,1,América-MG,False,False,first
+2002-02-05,Bragantino-SP,1,3,Paraná-PR,False,False,first
+2002-02-06,River-PI,1,2,Corinthians-SP,False,False,first
+2002-02-13,Corinthians-SP,2,0,River-PI,False,False,first
+2002-02-06,Atlético Roraima-RR,0,1,Paysandu-PA,False,False,first
+2002-02-13,Paysandu-PA,3,0,Atlético Roraima-RR,False,False,first
+2002-02-06,Sampaio Corrêa-MA,2,1,Fluminense-RJ,False,False,first
+2002-02-20,Fluminense-RJ,5,1,Sampaio Corrêa-MA,False,False,first
+2002-02-06,Anapolina-GO,1,3,Juventude-RS,False,False,first
+2002-02-06,Vasco da Gama-AC,2,1,Brasiliense-DF,False,False,first
+2002-02-13,Brasiliense-DF,1,0,Vasco da Gama-AC,False,False,first
+2002-02-06,Juazeiro-BA,1,1,Confiança-SE,False,False,first
+2002-02-20,Confiança-SE,4,1,Juazeiro-BA,False,False,first
+2002-02-06,Criciúma-SC,1,0,Gama-DF,False,False,first
+2002-02-20,Gama-DF,1,2,Criciúma-SC,False,False,first
+2002-02-06,Palmas-TO,0,1,Portuguesa-SP,False,False,first
+2002-02-13,Portuguesa-SP,5,2,Palmas-TO,False,False,first
+2002-02-06,Ji-Paraná-RO,0,0,Santos-SP,False,False,first
+2002-02-13,Santos-SP,4,2,Ji-Paraná-RO,False,False,first
+2002-02-06,Botafogo-SP,1,1,Sport-PE,False,False,first
+2002-02-20,Sport-PE,7,2,Botafogo-SP,False,False,first
+2002-02-06,Botafogo-PB,1,3,Figueirense-SC,False,False,first
+2002-02-06,Nova Esperança-MS,0,0,Vitória-BA,False,False,first
+2002-02-13,Vitória-BA,6,0,Nova Esperança-MS,False,False,first
+2002-02-06,Rio Negro-AM,0,1,Ceará-CE,False,False,first
+2002-02-13,Ceará-CE,2,0,Rio Negro-AM,False,False,first
+2002-02-06,Caxias-RS,1,3,Santa Cruz-PE,False,False,first
+2002-02-06,Bandeirante-DF,1,4,Cruzeiro-MG,False,False,first
+2002-02-13,ASA-AL,1,0,Palmeiras-SP,False,False,first
+2002-02-20,Palmeiras-SP,2,1,ASA-AL,False,False,first
+2002-02-13,São Raimundo-AM,1,1,América-RN,False,False,first
+2002-02-20,América-RN,4,0,São Raimundo-AM,False,False,first
+2002-02-13,Comercial-MS,1,1,Internacional-RS,False,False,first
+2002-02-21,Internacional-RS,2,0,Comercial-MS,False,False,first
+2002-02-06,Juventude-MT,2,1,Atlético-MG,False,False,first
+2002-02-20,Atlético-MG,2,0,Juventude-MT,False,False,first
+2002-02-13,Independente-AP,1,1,Flamengo-PI,False,False,first
+2002-02-20,Flamengo-PI,1,0,Independente-AP,False,False,first
+2002-02-13,Coríntians-RN,0,2,Bahia-BA,False,False,first
+2002-02-14,Treze-PB,1,0,São Paulo-SP,False,False,first
+2002-02-21,São Paulo-SP,4,1,Treze-PB,False,False,first
+2002-02-14,Moto Club-MA,1,2,CSA-AL,False,False,first
+2002-02-20,CSA-AL,2,0,Moto Club-MA,False,False,first
+2002-02-13,Sergipe-SE,1,1,Vasco da Gama-RJ,False,False,first
+2002-02-20,Vasco da Gama-RJ,2,1,Sergipe-SE,False,False,first
+2002-02-13,Vila Nova-GO,2,4,Fortaleza-CE,False,False,first
+2002-02-13,Londrina-PR,4,4,Goiás-GO,False,False,first
+2002-02-20,Goiás-GO,1,2,Londrina-PR,False,False,first
+2002-02-27,Paysandu,1,2,Fluminense,False,False,second
+2002-03-13,Fluminense,2,0,Paysandu,False,False,second
+2002-03-06,Juventude-RS,2,0,Ponte Preta,False,False,second
+2002-03-13,Ponte Preta,1,0,Juventude-RS,False,False,second
+2002-02-27,Brasiliense,3,2,Náutico,False,False,second
+2002-03-06,Náutico,0,0,Brasiliense,False,False,second
+2002-02-27,ASA,2,1,Confiança,False,False,second
+2002-03-06,Confiança,4,0,ASA,False,False,second
+2002-02-27,América-RN,0,1,Bahia,False,False,second
+2002-03-13,Bahia,3,0,América-RN,False,False,second
+2002-02-27,Criciúma,3,2,Portuguesa,False,False,second
+2002-03-13,Portuguesa,1,0,Criciúma,False,False,second
+2002-02-27,Santos,3,3,Internacional,False,False,second
+2002-03-06,Internacional,1,0,Santos,False,False,second
+2002-03-06,Sport,2,1,Atlético-MG,False,False,second
+2002-03-13,Atlético-MG,3,0,Sport,False,False,second
+2002-02-27,Figueirense,3,1,Vitória,False,False,second
+2002-03-13,Vitória,3,3,Figueirense,False,False,second
+2002-02-27,Flamengo-PI,0,5,São Paulo,False,False,second
+2002-03-06,CSA,0,0,Ceará,False,False,second
+2002-03-14,Ceará,2,3,CSA,False,False,second
+2002-02-27,Santa Cruz,1,2,Vasco,False,False,second
+2002-03-06,Vasco,3,3,Santa Cruz,False,False,second
+2002-03-06,Fortaleza,1,2,Botafogo-RJ,False,False,second
+2002-03-13,Botafogo-RJ,3,1,Fortaleza,False,False,second
+2002-03-06,Paraná,2,0,Guarani,False,False,second
+2002-03-14,Guarani,1,1,Paraná,False,False,second
+2002-02-27,Londrina,1,0,Cruzeiro,False,False,second
+2002-03-06,Cruzeiro,2,0,Londrina,False,False,second
+2002-02-20,Americano,2,6,Corinthians,False,False,second
+2002-03-27,Juventude,1,1,Fluminense,False,False,round16
+2002-04-03,Fluminense,2,1,Juventude,False,False,round16
+2002-03-13,Confiança,0,0,Brasiliense,False,False,round16
+2002-04-03,Brasiliense,4,1,Confiança,False,False,round16
+2002-03-27,Bahia,3,0,Portuguesa,False,False,round16
+2002-04-03,Portuguesa,2,2,Bahia,False,False,round16
+2002-03-28,Atlético-MG,2,0,Internacional,False,False,round16
+2002-04-03,Internacional,3,2,Atlético-MG,False,False,round16
+2002-03-28,Figueirense,3,1,São Paulo,False,False,round16
+2002-04-03,São Paulo,6,1,Figueirense,False,False,round16
+2002-03-27,CSA,2,1,Vasco,False,False,round16
+2002-04-03,Vasco,4,0,CSA,False,False,round16
+2002-03-28,Botafogo,1,3,Paraná,False,False,round16
+2002-04-03,Paraná,1,1,Botafogo,False,False,round16
+2002-03-13,Corinthians,2,2,Cruzeiro,False,False,round16
+2002-04-03,Cruzeiro,2,3,Corinthians,False,False,round16
+2002-04-10,Brasiliense,1,0,Fluminense,False,False,quarter
+2002-04-17,Fluminense,0,1,Brasiliense,False,False,quarter
+2002-04-10,Atlético MG,2,1,Bahia,False,False,quarter
+2002-04-17,Bahia,4,3,Atlético MG,False,False,quarter
+2002-04-10,Vasco,1,0,São Paulo,False,False,quarter
+2002-04-17,São Paulo,4,0,Vasco,False,False,quarter
+2002-04-10,Corinthians,3,1,Paraná,False,False,quarter
+2002-04-17,Paraná,1,0,Corinthians,False,False,quarter
+2002-04-24,Atlético MG,0,3,Brasiliense,False,False,semi
+2002-05-01,Brasiliense,2,1,Atlético MG,False,False,semi
+2002-04-24,São Paulo,0,2,Corinthians,False,False,semi
+2002-05-01,Corinthians,1,2,São Paulo,False,False,semi
+2002-05-08,Corinthians,2,1,Brasiliense,False,False,final
+2002-05-15,Brasiliense,1,1,Corinthians,False,False,final
