@@ -10,13 +10,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-02-14,Desportiva-ES,0,1,Grêmio-RS,False,False,first
 1995-02-14,Maranhão-MA,0,0,Kaburé-TO,False,False,first
 1995-02-17,ABC,1,2,Palmeiras-SP,False,False,first
-1995-03-03,Operário-MT,1,1,Corinthians-SP,False,False,first
-1995-03-03,CSA-AL,1,2,Cruzeiro-MG,False,False,first
+1995-03-03,Operário-MT,1,1,Corinthians,False,False,first
+1995-03-03,CSA,1,2,Cruzeiro-MG,False,False,first
 1995-03-10,Democrata-MG,3,2,Vitória-BA,False,False,first
 1995-03-10,Remo,1,1,Ferroviário-CE,False,False,first
 1995-03-10,Flamengo-PI,1,2,Vasco da Gama,False,False,first
 1995-03-12,Cristal-AP,1,1,Nacional-AM,False,False,first
-1995-03-14,Volta Redonda,0,0,Bahia-BA,False,False,first
+1995-03-14,Volta Redonda,0,0,Bahia,False,False,first
 1995-03-14,Náutico-PE,1,4,São Paulo,False,False,first
 1995-03-16,Paraná-PR,1,0,Juventude-RS,False,False,first
 1995-03-17,Atlético-MG,1,0,Sport-PE,False,False,first
@@ -28,10 +28,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-03-19,Nacional-AM,1,0,Cristal-AP,False,False,first
 1995-03-22,Juventude-RS,0,1,Paraná-PR,False,False,first
 1995-03-24,Internacional-RS,5,0,Pontaporanense-MS,False,False,first
-1995-03-24,Cruzeiro-MG,4,0,CSA-AL,False,False,first
-1995-03-24,Bahia-BA,0,0,Volta Redonda,False,False,first
+1995-03-24,Cruzeiro-MG,4,0,CSA,False,False,first
+1995-03-24,Bahia,0,0,Volta Redonda,False,False,first
 1995-03-24,Palmeiras-SP,1,0,ABC,False,False,first
-1995-03-28,Corinthians-SP,4,0,Operário-MT,False,False,first
+1995-03-28,Corinthians,4,0,Operário-MT,False,False,first
 1995-03-28,Palmares-RO,2,2,Rio Branco-AC,False,False,first
 1995-03-28,Vitória-BA,2,0,Democrata-MG,False,False,first
 1995-03-28,Sport-PE,2,2,Atlético-MG,False,False,first
@@ -40,31 +40,31 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-04-12,Flamengo-RJ,3,0,Gama-DF,False,False,first
 1995-04-04,Vitória-BA,2,3,Atlético-MG,False,False,round16
 1995-04-07,São Paulo,3,0,Remo,False,False,round16
-1995-04-11,Rio Branco-AC,0,3,Corinthians-SP,False,False,round16
+1995-04-11,Rio Branco-AC,0,3,Corinthians,False,False,round16
 1995-04-11,Grêmio-RS,1,1,Palmeiras-SP,False,False,round16
 1995-04-12,Paraná-PR,1,1,Internacional-RS,False,False,round16
 1995-04-15,Nacional-AM,0,2,Vasco da Gama,False,False,round16
 1995-04-19,Kaburé-TO,0,1,Flamengo-RJ,False,False,round16
-1995-04-21,Cruzeiro-MG,1,0,Bahia-BA,False,False,round16
+1995-04-21,Cruzeiro-MG,1,0,Bahia,False,False,round16
 1995-04-18,Palmeiras-SP,2,2,Grêmio-RS,False,False,round16
 1995-04-18,Remo,1,1,São Paulo,False,False,round16
-1995-04-25,Corinthians-SP,2,0,Rio Branco-AC,False,False,round16
+1995-04-25,Corinthians,2,0,Rio Branco-AC,False,False,round16
 1995-04-25,Internacional-RS,0,1,Paraná-PR,False,False,round16
 1995-04-25,Atlético-MG,1,1,Vitória-BA,False,False,round16
 1995-04-26,Flamengo-RJ,8,0,Kaburé-TO,False,False,round16
 1995-04-27,Vasco da Gama,4,0,Nacional-AM,False,False,round16
-1995-04-28,Bahia-BA,2,1,Cruzeiro-MG,False,False,round16
-1995-05-03,Paraná-PR,0,0,Corinthians-SP,False,False,quarter
+1995-04-28,Bahia,2,1,Cruzeiro-MG,False,False,round16
+1995-05-03,Paraná-PR,0,0,Corinthians,False,False,quarter
 1995-05-05,São Paulo,1,1,Grêmio-RS,False,False,quarter
 1995-05-10,Vasco da Gama,0,1,Atlético-MG,False,False,quarter
 1995-05-10,Cruzeiro-MG,0,1,Flamengo-RJ,False,False,quarter
 1995-05-12,Grêmio-RS,2,0,São Paulo,False,False,quarter
-1995-05-16,Corinthians-SP,2,1,Paraná-PR,False,False,quarter
+1995-05-16,Corinthians,2,1,Paraná-PR,False,False,quarter
 1995-05-17,Atlético-MG,0,1,Vasco da Gama,False,False,quarter
 1995-05-17,Flamengo-RJ,1,1,Cruzeiro-MG,False,False,quarter
 1995-05-23,Flamengo-RJ,2,1,Grêmio-RS,False,False,semi
-1995-05-24,Vasco da Gama,0,1,Corinthians-SP,False,False,semi
+1995-05-24,Vasco da Gama,0,1,Corinthians,False,False,semi
 1995-05-31,Grêmio-RS,1,0,Flamengo-RJ,False,False,semi
-1995-05-31,Corinthians-SP,5,0,Vasco da Gama,False,False,semi
-1995-06-14,Corinthians-SP,2,1,Grêmio-RS,False,False,final
-1995-06-21,Grêmio-RS,0,1,Corinthians-SP,False,False,final
+1995-05-31,Corinthians,5,0,Vasco da Gama,False,False,semi
+1995-06-14,Corinthians,2,1,Grêmio-RS,False,False,final
+1995-06-21,Grêmio-RS,0,1,Corinthians,False,False,final

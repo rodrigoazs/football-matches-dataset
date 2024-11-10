@@ -1,110 +1,110 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-03-09,Águia Negra,0,1,Vitória-BA,False,True,first
-2021-03-09,Campinense-PB,1,7,Bahia-BA,False,True,first
+2021-03-09,Campinense,1,7,Bahia,False,True,first
 2021-03-10,Gama-DF,1,2,Ponte Preta-SP,False,True,first
 2021-03-10,Madureira-RJ,0,1,Paysandu-PA,False,True,first
-2021-03-10,IV de Julho-PI,1,0,Confiança-SE,False,True,first
+2021-03-10,IV de Julho-PI,1,0,Confiança,False,True,first
 2021-03-10,Rio Branco-ES,2,1,Sampaio Corrêa-MA,False,True,first
-2021-03-10,Cianorte-PR,1,0,Paraná-PR,False,True,first
+2021-03-10,Cianorte,1,0,Paraná-PR,False,True,first
 2021-03-10,Juazeirense-BA,3,2,Sport-PE,False,True,first
 2021-03-10,Moto Club-MA,0,5,Botafogo,False,True,first
-2021-03-11,Real Brasília-DF,0,2,América-RN,False,True,first
+2021-03-11,Real Brasília,0,2,América-RN,False,True,first
 2021-03-11,Uberlândia-MG,1,1,Luverdense-MT,False,True,first
 2021-03-11,São Raimundo-RR,1,1,Cruzeiro-MG,False,True,first
-2021-03-11,Boavista-RJ,3,1,Goiás-GO,False,True,first
-2021-03-16,CRB-AL,0,0,Cuiabá-MT,False,True,first
+2021-03-11,Boavista,3,1,Goiás-GO,False,True,first
+2021-03-16,CRB,0,0,Cuiabá-MT,False,True,first
 2021-03-16,Murici-AL,0,3,Juventude-RS,False,True,first
 2021-03-17,Rio Branco-Vn-ES,1,1,ABC,False,True,first
-2021-03-17,Guarany de Sobral-CE,1,5,CSA-AL,False,True,first
-2021-03-17,Castanhal-PA,0,3,Volta Redonda,False,True,first
+2021-03-17,Guarany de Sobral-CE,1,5,CSA,False,True,first
+2021-03-17,Castanhal,0,3,Volta Redonda,False,True,first
 2021-03-17,Juventude-MA,0,2,Operário-PR,False,True,first
 2021-03-17,Picos-PI,1,0,Atlético-AC,False,True,first
 2021-03-17,Nova Mutum-MT,0,0,Tombense,False,True,first
 2021-03-17,Atlético-BA,0,3,Vila Nova-GO,False,True,first
 2021-03-17,Galvez-AC,1,3,Atlético-GO,False,True,first
-2021-03-17,Retrô-PE,1,0,Brusque-SC,False,True,first
+2021-03-17,Retrô-PE,1,0,Brusque,False,True,first
 2021-03-17,Esportivo-RS,0,2,Remo,False,True,first
 2021-03-17,Santa Cruz-RS,0,0,Joinville-SC,False,True,first
-2021-03-17,Caxias-RS,0,1,Fortaleza-CE,False,True,first
-2021-03-17,Salgueiro-PE,0,3,Corinthians-SP,False,True,first
+2021-03-17,Caxias,0,1,Fortaleza-CE,False,True,first
+2021-03-17,Salgueiro-PE,0,3,Corinthians,False,True,first
 2021-03-18,Marilia-SP,0,0,Criciúma-SC,False,True,first
-2021-03-18,Caldense-MG,1,1,Vasco da Gama,False,True,first
-2021-03-18,União-MT,0,1,Coritiba-PR,False,True,first
-2021-03-18,Treze,0,1,America-MG,False,True,first
+2021-03-18,Caldense,1,1,Vasco da Gama,False,True,first
+2021-03-18,União-MT,0,1,Coritiba,False,True,first
+2021-03-18,Treze,0,1,América-MG,False,True,first
 2021-03-18,FC Cascavel-PR,2,1,Figueirense-SC,False,True,first
 2021-03-18,Penarol-AM,1,1,Ypiranga-RS,False,True,first
 2021-03-18,Mirassol-SP,2,3,Bragantino,False,True,first
 2021-03-25,Porto Velho-RO,0,1,Ferroviário-CE,False,True,first
-2021-03-25,Palmas Ltda-TO,0,1,Avaí-SC,False,True,first
+2021-03-25,Palmas Ltda-TO,0,1,Avaí,False,True,first
 2021-03-26,Jaraguá-GO,1,4,Manaus-AM,False,True,first
 2021-03-26,Ypiranga-AP,0,4,Santa Cruz-PE,False,True,first
-2021-03-27,Goianesia-GO,2,3,CRB-AL,False,True,first
-2021-03-26,Corinthians-SP,1,1,Retrô-PE,False,True,second
+2021-03-27,Goianesia-GO,2,3,CRB,False,True,first
+2021-03-26,Corinthians,1,1,Retrô-PE,False,True,second
 2021-04-01,Luverdense-MT,1,2,Bragantino,False,True,second
-2021-04-06,Coritiba-PR,3,2,Operário-PR,False,True,second
+2021-04-06,Coritiba,3,2,Operário-PR,False,True,second
 2021-04-06,Fortaleza-CE,1,0,Ypiranga-RS,False,True,second
-2021-04-07,Picos-PI,0,1,Boavista-RJ,False,True,second
+2021-04-07,Picos-PI,0,1,Boavista,False,True,second
 2021-04-07,Juazeirense-BA,3,3,Volta Redonda,False,True,second
 2021-04-07,Vitória-BA,2,0,Rio Branco-ES,False,True,second
-2021-04-07,Bahia-BA,4,1,Manaus-AM,False,True,second
+2021-04-07,Bahia,4,1,Manaus-AM,False,True,second
 2021-04-07,Tombense,1,2,Vasco da Gama,False,True,second
 2021-04-08,Criciúma-SC,1,1,Ponte Preta-SP,False,True,second
 2021-04-08,Vila Nova-GO,1,1,Juventude-RS,False,True,second
-2021-04-13,Paysandu-PA,1,2,CRB-AL,False,True,second
-2021-04-13,Cianorte-PR,1,0,Santa Cruz-PE,False,True,second
-2021-04-13,CSA-AL,1,1,Remo,False,True,second
-2021-04-14,America-MG,1,1,Ferroviário-CE,False,True,second
+2021-04-13,Paysandu-PA,1,2,CRB,False,True,second
+2021-04-13,Cianorte,1,0,Santa Cruz-PE,False,True,second
+2021-04-13,CSA,1,1,Remo,False,True,second
+2021-04-14,América-MG,1,1,Ferroviário-CE,False,True,second
 2021-04-14,ABC,1,1,Botafogo,False,True,second
 2021-04-14,América-RN,0,1,Cruzeiro-MG,False,True,second
 2021-04-15,IV de Julho-PI,0,0,Cuiabá-MT,False,True,second
-2021-04-15,Avaí-SC,2,0,FC Cascavel-PR,False,True,second
+2021-04-15,Avaí,2,0,FC Cascavel-PR,False,True,second
 2021-04-15,Joinville-SC,0,2,Atlético-GO,False,True,second
-2021-06-01,Vila Nova-GO,0,1,Bahia-BA,False,False,third
-2021-06-01,Cianorte-PR,0,2,Santos Fc-SP,False,False,third
+2021-06-01,Vila Nova-GO,0,1,Bahia,False,False,third
+2021-06-01,Cianorte,0,2,Santos Fc-SP,False,False,third
 2021-06-01,IV de Julho-PI,3,2,São Paulo,False,False,third
-2021-06-01,Boavista-RJ,0,1,Vasco da Gama,False,False,third
-2021-06-02,Grêmio-RS,2,0,Brasiliense-DF,False,False,third
-2021-06-02,Chapecoense-SC,3,1,ABC,False,False,third
-2021-06-02,Fortaleza-CE,1,1,Ceará-CE,False,False,third
+2021-06-01,Boavista,0,1,Vasco da Gama,False,False,third
+2021-06-02,Grêmio-RS,2,0,Brasiliense,False,False,third
+2021-06-02,Chapecoense,3,1,ABC,False,False,third
+2021-06-02,Fortaleza-CE,1,1,Ceará,False,False,third
 2021-06-02,Remo,0,2,Atlético-MG,False,False,third
 2021-06-02,Fluminense-RJ,2,0,Bragantino,False,False,third
-2021-06-02,America-MG,0,0,Criciúma-SC,False,False,third
-2021-06-02,Corinthians-SP,0,2,Atlético-GO,False,False,third
+2021-06-02,América-MG,0,0,Criciúma-SC,False,False,third
+2021-06-02,Corinthians,0,2,Atlético-GO,False,False,third
 2021-06-03,Cruzeiro-MG,1,0,Juazeirense-BA,False,False,third
-2021-06-03,Avaí-SC,1,1,Athletico-PR,False,False,third
+2021-06-03,Avaí,1,1,Athletico-PR,False,False,third
 2021-06-03,Vitória-BA,0,1,Internacional-RS,False,False,third
-2021-06-03,CRB-AL,0,1,Palmeiras-SP,False,False,third
-2021-06-08,Santos Fc-SP,1,0,Cianorte-PR,False,False,third
+2021-06-03,CRB,0,1,Palmeiras-SP,False,False,third
+2021-06-08,Santos Fc-SP,1,0,Cianorte,False,False,third
 2021-06-08,São Paulo,9,1,IV de Julho-PI,False,False,third
-2021-06-09,ABC,3,0,Chapecoense-SC,False,False,third
-2021-06-09,Vasco da Gama,1,1,Boavista-RJ,False,False,third
-2021-06-09,Bahia-BA,1,0,Vila Nova-GO,False,False,third
-2021-06-09,Palmeiras-SP,0,1,CRB-AL,False,False,third
-2021-06-09,Athletico-PR,1,0,Avaí-SC,False,False,third
+2021-06-09,ABC,3,0,Chapecoense,False,False,third
+2021-06-09,Vasco da Gama,1,1,Boavista,False,False,third
+2021-06-09,Bahia,1,0,Vila Nova-GO,False,False,third
+2021-06-09,Palmeiras-SP,0,1,CRB,False,False,third
+2021-06-09,Athletico-PR,1,0,Avaí,False,False,third
 2021-06-09,Juazeirense-BA,1,0,Cruzeiro-MG,False,False,third
 2021-06-09,Bragantino,2,1,Fluminense-RJ,False,False,third
-2021-06-09,Criciúma-SC,2,2,America-MG,False,False,third
-2021-06-09,Atlético-GO,0,0,Corinthians-SP,False,False,third
-2021-06-10,Brasiliense-DF,0,0,Grêmio-RS,False,False,third
+2021-06-09,Criciúma-SC,2,2,América-MG,False,False,third
+2021-06-09,Atlético-GO,0,0,Corinthians,False,False,third
+2021-06-10,Brasiliense,0,0,Grêmio-RS,False,False,third
 2021-06-10,Atlético-MG,2,1,Remo,False,False,third
-2021-06-10,Coritiba-PR,0,1,Flamengo-RJ,False,False,third
-2021-06-10,Ceará-CE,0,3,Fortaleza-CE,False,False,third
+2021-06-10,Coritiba,0,1,Flamengo-RJ,False,False,third
+2021-06-10,Ceará,0,3,Fortaleza-CE,False,False,third
 2021-06-10,Internacional-RS,1,3,Vitória-BA,False,False,third
-2021-06-16,Flamengo-RJ,2,0,Coritiba-PR,False,False,third
+2021-06-16,Flamengo-RJ,2,0,Coritiba,False,False,third
 2021-07-27,Criciúma-SC,2,1,Fluminense-RJ,False,False,round16
 2021-07-27,Vitória-BA,0,3,Grêmio-RS,False,False,round16
 2021-07-28,Athletico-PR,2,1,Atlético-GO,False,False,round16
 2021-07-28,Santos Fc-SP,4,0,Juazeirense-BA,False,False,round16
 2021-07-28,São Paulo,2,0,Vasco da Gama,False,False,round16
-2021-07-28,Atlético-MG,2,0,Bahia-BA,False,False,round16
-2021-07-29,Fortaleza-CE,2,1,CRB-AL,False,False,round16
+2021-07-28,Atlético-MG,2,0,Bahia,False,False,round16
+2021-07-29,Fortaleza-CE,2,1,CRB,False,False,round16
 2021-07-29,Flamengo-RJ,6,0,ABC,False,False,round16
 2021-07-31,Fluminense-RJ,3,0,Criciúma-SC,False,False,round16
 2021-08-03,Grêmio-RS,1,0,Vitória-BA,False,False,round16
-2021-08-04,CRB-AL,0,1,Fortaleza-CE,False,False,round16
+2021-08-04,CRB,0,1,Fortaleza-CE,False,False,round16
 2021-08-04,Atlético-GO,2,2,Athletico-PR,False,False,round16
 2021-08-04,Vasco da Gama,1,2,São Paulo,False,False,round16
-2021-08-04,Bahia-BA,2,1,Atlético-MG,False,False,round16
+2021-08-04,Bahia,2,1,Atlético-MG,False,False,round16
 2021-08-05,Juazeirense-BA,2,0,Santos Fc-SP,False,False,round16
 2021-08-05,ABC,0,1,Flamengo-RJ,False,False,round16
 2021-08-25,Athletico-PR,1,0,Santos Fc-SP,False,False,quarter

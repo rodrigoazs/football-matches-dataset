@@ -1,44 +1,44 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-2018-01-30,Caxias-RS,0,0,Atlético-PR,False,True,first
+2018-01-30,Caxias,0,0,Atlético-PR,False,True,first
 2018-01-31,Tubarão,2,0,América-RN,False,True,first
-2018-02-07,Brusque-SC,0,1,Ceará-CE,False,True,first
-2018-01-31,Real Ariquemes-RO,0,1,Londrina-PR,False,True,first
-2018-01-31,Boavista-RJ,1,1,Internacional-RS,False,True,first
-2018-02-07,Atlético Itapemirim-ES,0,2,Remo,False,True,first
+2018-02-07,Brusque,0,1,Ceará,False,True,first
+2018-01-31,Real Ariquemes,0,1,Londrina-PR,False,True,first
+2018-01-31,Boavista,1,1,Internacional-RS,False,True,first
+2018-02-07,Atlético Itapemirim,0,2,Remo,False,True,first
 2018-02-07,São Caetano-SP,1,1,Criciúma-SC,False,True,first
-2018-02-07,Cianorte-PR,2,0,ABC,False,True,first
-2018-01-31,Caldense-MG,0,1,Fluminense-RJ,False,True,first
+2018-02-07,Cianorte,2,0,ABC,False,True,first
+2018-01-31,Caldense,0,1,Fluminense-RJ,False,True,first
 2018-01-31,Novoperário-MS,2,3,Salgueiro-PE,False,True,first
-2018-02-07,Ceilândia-DF,2,3,Avaí-SC,False,True,first
+2018-02-07,Ceilândia,2,3,Avaí,False,True,first
 2018-01-31,Interporto-TO,0,0,Juventude-RS,False,True,first
-2018-02-07,Parnahyba-PI,1,1,Coritiba-PR,False,True,first
+2018-02-07,Parnahyba-PI,1,1,Coritiba,False,True,first
 2018-01-31,Uberlândia-MG,2,0,Ituano-SP,False,True,first
 2018-02-07,Sinop-MT,0,1,Goiás-GO,False,True,first
-2018-01-30,Vitória da Conquista-BA,0,0,Boa-MG,False,True,first
+2018-01-30,Vitória da Conquista-BA,0,0,Boa Esporte,False,True,first
 2018-02-06,Nacional-AM,0,0,Ponte Preta-SP,False,True,first
 2018-02-06,Internacional-SP,1,0,Rio Branco-AC,False,True,first
 2018-02-01,URT-MG,1,1,Paraná-PR,False,True,first
 2018-01-31,Independente-PA,0,1,Sampaio Corrêa-MA,False,True,first
 2018-01-31,Madureira-RJ,0,1,São Paulo,False,True,first
-2018-02-07,Manaus-AM,2,2,CSA-AL,False,True,first
+2018-02-07,Manaus-AM,2,2,CSA,False,True,first
 2018-01-01,Novo Hamburgo-RS,2,1,Paysandu-PA,False,True,first
-2018-02-07,União-MT,1,3,CRB-AL,False,True,first
+2018-02-07,União-MT,1,3,CRB,False,True,first
 2018-02-07,Globo-RN,0,2,Vitória-BA,False,True,first
-2018-02-07,Corumbaense-MS,1,0,ASA,False,True,first
-2018-02-07,Altos-PI,2,1,Atlético-GO,False,True,first
+2018-02-07,Corumbaense,1,0,ASA,False,True,first
+2018-02-07,Altos,2,1,Atlético-GO,False,True,first
 2018-01-31,Nova Iguaçu-RJ,1,1,Bragantino,False,True,first
-2018-02-07,Atlético Acreano-AC,1,1,Atlético-MG,False,True,first
+2018-02-07,Atlético Acreano,1,1,Atlético-MG,False,True,first
 2018-01-31,Floresta-CE,0,2,Botafogo-PB,False,True,first
 2018-01-31,Treze,0,2,Figueirense-SC,False,True,first
-2018-02-06,Brasiliense-DF,1,1,Oeste-SP,False,True,first
+2018-02-06,Brasiliense,1,1,Oeste-SP,False,True,first
 2018-02-07,Santos-AP,1,2,Sport-PE,False,True,first
-2018-02-07,Ferroviário-CE,2,1,Confiança-SE,False,True,first
+2018-02-07,Ferroviário-CE,2,1,Confiança,False,True,first
 2018-01-31,Itabaiana-SE,0,1,Joinville-SC,False,True,first
 2018-02-07,São Raimundo-RR,0,1,Vila Nova-GO,False,True,first
-2018-02-06,Aparecidense-GO,2,1,Botafogo,False,True,first
-2018-01-31,Aimoré-RS,1,2,Cuiabá-MT,False,True,first
+2018-02-06,Aparecidense,2,1,Botafogo,False,True,first
+2018-01-31,Aimoré,1,2,Cuiabá-MT,False,True,first
 2018-01-31,Fluminense-BA,2,0,Santa Cruz-PE,False,True,first
-2018-01-31,Cordino-MA,1,1,Náutico-PE,False,True,first
+2018-01-31,Cordino,1,1,Náutico-PE,False,True,first
 2018-02-21,Atlético-PR,5,4,Tubarão,False,True,second
 2018-02-21,Londrina,1,2,Ceará,False,True,second
 2018-02-21,Remo,1,2,Internacional,False,True,second
@@ -46,7 +46,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-02-15,Fluminense,5,0,Salgueiro,False,True,second
 2018-02-22,Juventude,0,2,Avaí,False,True,second
 2018-02-22,Uberlândia,0,2,Coritiba,False,True,second
-2018-02-21,Goiás,0,0,Boa,False,True,second
+2018-02-21,Goiás,0,0,Boa Esporte,False,True,second
 2018-02-21,Ponte Preta,1,0,Internacional-SP,False,True,second
 2018-02-22,Sampaio Corrêa,1,0,Paraná,False,True,second
 2018-02-15,CSA,0,2,São Paulo,False,True,second

@@ -149,7 +149,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2023-07-17,Goiás,0,0,Atlético-MG,False,False,first
 2023-09-18,Corinthians,4,4,Grêmio,False,False,first
 2023-09-23,América-MG,0,1,Vasco da Gama,False,False,first
-2023-07-22,Flamengo,1,1,América-MG-MG,False,False,first
+2023-07-22,Flamengo,1,1,América-MG,False,False,first
 2023-07-22,Palmeiras,3,1,Fortaleza,False,False,first
 2023-07-22,Bahia,0,0,Corinthians,False,False,first
 2023-07-22,Cuiabá,2,1,São Paulo,False,False,first

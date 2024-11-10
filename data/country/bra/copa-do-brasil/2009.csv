@@ -1,21 +1,21 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-02-18,Flamengo-PI,1,4,Vasco da Gama,False,False,first
-2009-03-04,Central-PE,0,0,Ceará-CE,False,False,first
-2009-03-18,Ceará-CE,1,1,Central-PE,False,False,first
+2009-03-04,Central,0,0,Ceará,False,False,first
+2009-03-18,Ceará,1,1,Central,False,False,first
 2009-02-18,ICASA-CE,1,1,Portuguesa-SP,False,False,first
 2009-03-04,Portuguesa-SP,1,1,ICASA-CE,False,False,first
-2009-03-04,Confiança-SE,3,2,América-RN,False,False,first
-2009-03-18,América-RN,0,0,Confiança-SE,False,False,first
+2009-03-04,Confiança,3,2,América-RN,False,False,first
+2009-03-18,América-RN,0,0,Confiança,False,False,first
 2009-02-18,Itabaiana-SE,0,5,Atlético-MG,False,False,first
-2009-02-18,Guaratinguetá-SP,2,0,Caxias-RS,False,False,first
-2009-03-04,Caxias-RS,2,1,Guaratinguetá-SP,False,False,first
+2009-02-18,Guaratinguetá-SP,2,0,Caxias,False,False,first
+2009-03-04,Caxias,2,1,Guaratinguetá-SP,False,False,first
 2009-03-04,ASA,1,1,Vitória-BA,False,False,first
 2009-03-18,Vitória-BA,1,1,ASA,False,False,first
-2009-03-04,Atlético Sorocaba-SP,1,0,Juventude-RS,False,False,first
-2009-03-18,Juventude-RS,2,0,Atlético Sorocaba-SP,False,False,first
-2009-03-04,Itumbiara-GO,0,2,Corinthians-SP,False,False,first
-2009-02-18,Misto-MS,1,1,Campinense-PB,False,False,first
-2009-03-04,Campinense-PB,1,1,Misto-MS,False,False,first
+2009-03-04,Atlético Sorocaba,1,0,Juventude-RS,False,False,first
+2009-03-18,Juventude-RS,2,0,Atlético Sorocaba,False,False,first
+2009-03-04,Itumbiara-GO,0,2,Corinthians,False,False,first
+2009-02-18,Misto-MS,1,1,Campinense,False,False,first
+2009-03-04,Campinense,1,1,Misto-MS,False,False,first
 2009-03-04,Tocantins-TO,0,3,Atlético-PR,False,False,first
 2009-03-04,Fast Club-AM,1,1,ABC,False,False,first
 2009-03-19,ABC,4,0,Fast Club-AM,False,False,first
@@ -23,27 +23,27 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-03-05,Fluminense-RJ,3,0,Nacional-PB,False,False,first
 2009-03-04,Águia de Marabá,2,1,América-MG,False,False,first
 2009-03-19,América-MG,0,1,Águia de Marabá,False,False,first
-2009-03-04,Atlético Roraima-RR,1,3,Goiás-GO,False,False,first
-2009-03-04,Cristal-AP,1,2,Brasiliense-DF,False,False,first
-2009-03-18,Brasiliense-DF,3,1,Cristal-AP,False,False,first
+2009-03-04,Atlético Roraima,1,3,Goiás-GO,False,False,first
+2009-03-04,Cristal-AP,1,2,Brasiliense,False,False,first
+2009-03-18,Brasiliense,3,1,Cristal-AP,False,False,first
 2009-03-05,Dom Pedro II-DF,0,2,Botafogo,False,False,first
-2009-02-18,Americano-RJ,2,0,Santa Cruz-PE,False,False,first
-2009-03-05,Santa Cruz-PE,2,4,Americano-RJ,False,False,first
+2009-02-18,Americano,2,0,Santa Cruz-PE,False,False,first
+2009-03-05,Santa Cruz-PE,2,4,Americano,False,False,first
 2009-03-04,Vilhena-RO,1,2,Ponte Preta-SP,False,False,first
 2009-03-18,Ponte Preta-SP,6,1,Vilhena-RO,False,False,first
 2009-02-18,Sampaio Corrêa-MA,3,2,Figueirense-SC,False,False,first
 2009-03-04,Figueirense-SC,2,1,Sampaio Corrêa-MA,False,False,first
 2009-02-18,Rio Branco-AC,1,2,Santos,False,False,first
 2009-03-18,Santos,4,0,Rio Branco-AC,False,False,first
-2009-03-04,Serra-ES,2,3,CSA-AL,False,False,first
-2009-03-18,CSA-AL,3,1,Serra-ES,False,False,first
-2009-02-18,Holanda-AM,1,2,Coritiba-PR,False,False,first
-2009-03-04,Coritiba-PR,3,0,Holanda-AM,False,False,first
-2009-03-04,Potiguar-RN,2,2,Bahia-BA,False,False,first
-2009-03-19,Bahia-BA,6,1,Potiguar-RN,False,False,first
+2009-03-04,Serra-ES,2,3,CSA,False,False,first
+2009-03-18,CSA,3,1,Serra-ES,False,False,first
+2009-02-18,Holanda-AM,1,2,Coritiba,False,False,first
+2009-03-04,Coritiba,3,0,Holanda-AM,False,False,first
+2009-03-04,Potiguar-RN,2,2,Bahia,False,False,first
+2009-03-19,Bahia,6,1,Potiguar-RN,False,False,first
 2009-03-04,Ivinhema-MS,0,5,Flamengo-RJ,False,False,first
-2009-03-04,Barras-PI,0,1,Remo,False,False,first
-2009-03-18,Remo,2,0,Barras-PI,False,False,first
+2009-03-04,Barras,0,1,Remo,False,False,first
+2009-03-18,Remo,2,0,Barras,False,False,first
 2009-02-18,Mixto-MT,1,2,Paraná-PR,False,False,first
 2009-03-05,Paraná-PR,1,2,Mixto-MT,False,False,first
 2009-02-18,Desportiva-ES,1,1,Fortaleza-CE,False,False,first

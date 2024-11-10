@@ -18,30 +18,30 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-04-02,ABC,4,1,Desportiva-ES,False,False,first
 2014-04-02,Mixto-MT,0,0,Santos,False,False,first
 2014-04-16,Santos,3,0,Mixto-MT,False,False,first
-2014-04-16,Princesa do Solimões-AM,3,1,Brasiliense-DF,False,False,first
-2014-04-23,Brasiliense-DF,4,2,Princesa do Solimões-AM,False,False,first
+2014-04-16,Princesa do Solimões-AM,3,1,Brasiliense,False,False,first
+2014-04-23,Brasiliense,4,2,Princesa do Solimões-AM,False,False,first
 2014-03-12,Londrina-PR,2,0,Criciúma-SC,False,False,first
 2014-04-10,Criciúma-SC,2,1,Londrina-PR,False,False,first
-2014-03-12,Goianésia-GO,2,2,Barueri-SP,False,False,first
-2014-04-09,Barueri-SP,0,0,Goianésia-GO,False,False,first
+2014-03-12,Goianésia-GO,2,2,Barueri,False,False,first
+2014-04-09,Barueri,0,0,Goianésia-GO,False,False,first
 2014-03-12,Vilhena-RO,0,1,Palmeiras-SP,False,False,first
 2014-04-02,Palmeiras-SP,2,0,Vilhena-RO,False,False,first
 2014-03-12,Interporto-TO,2,2,Sampaio Corrêa-MA,False,False,first
 2014-04-09,Sampaio Corrêa-MA,3,1,Interporto-TO,False,False,first
-2014-04-02,Naviraiense-MS,1,4,Avaí-SC,False,False,first
+2014-04-02,Naviraiense-MS,1,4,Avaí,False,False,first
 2014-04-03,Paragominas-PA,0,4,ASA,False,False,first
 2014-03-20,Horizonte-CE,3,1,Fluminense-RJ,False,False,first
 2014-04-10,Fluminense-RJ,5,0,Horizonte-CE,False,False,first
 2014-03-12,Juazeiro-BA,0,2,Tupi-MG,False,False,first
 2014-03-12,Sergipe-SE,1,0,Náutico-PE,False,False,first
 2014-04-09,Náutico-PE,1,0,Sergipe-SE,False,False,first
-2014-04-02,Boavista-RJ,1,2,América-RN,False,False,first
-2014-04-23,América-RN,2,0,Boavista-RJ,False,False,first
-2014-03-19,Bahia de Feira-BA,0,2,Corinthians-SP,False,False,first
+2014-04-02,Boavista,1,2,América-RN,False,False,first
+2014-04-23,América-RN,2,0,Boavista,False,False,first
+2014-03-19,Bahia de Feira,0,2,Corinthians,False,False,first
 2014-03-12,São Luiz-RS,2,2,Nacional-AM,False,False,first
 2014-04-09,Nacional-AM,2,1,São Luiz-RS,False,False,first
-2014-03-19,Villa Nova-MG,1,1,Bahia-BA,False,False,first
-2014-04-17,Bahia-BA,2,0,Villa Nova-MG,False,False,first
+2014-03-19,Villa Nova-MG,1,1,Bahia,False,False,first
+2014-04-17,Bahia,2,0,Villa Nova-MG,False,False,first
 2014-04-02,Santos-AP,0,3,América-MG,False,False,first
 2014-04-02,Botafogo-PB,2,0,Goiás-GO,False,False,first
 2014-04-16,Goiás-GO,0,0,Botafogo-PB,False,False,first
@@ -51,27 +51,27 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-04-09,Portuguesa-SP,2,1,Potiguar-M (EN),False,False,first
 2014-04-02,Santa Rita-AL,0,0,Guarani-SP,False,False,first
 2014-04-09,Guarani-SP,1,2,Santa Rita-AL,False,False,first
-2014-03-12,CSA-AL,0,1,São Paulo,False,False,first
-2014-04-09,São Paulo,3,0,CSA-AL,False,False,first
-2014-03-13,Rondonópolis-MT,2,2,CRB-AL,False,False,first
-2014-04-09,CRB-AL,2,0,Rondonópolis-MT,False,False,first
+2014-03-12,CSA,0,1,São Paulo,False,False,first
+2014-04-09,São Paulo,3,0,CSA,False,False,first
+2014-03-13,Rondonópolis-MT,2,2,CRB,False,False,first
+2014-04-09,CRB,2,0,Rondonópolis-MT,False,False,first
 2014-04-02,Plácido de Castro-AC,0,0,Figueirense-SC,False,False,first
 2014-04-09,Figueirense-SC,3,1,Plácido de Castro-AC,False,False,first
 2014-04-02,Lajeadense-RS,0,0,Bragantino,False,False,first
 2014-04-09,Bragantino,1,0,Lajeadense-RS,False,False,first
-2014-03-13,CENE-MS,2,2,Coritiba-PR,False,False,first
-2014-04-16,Coritiba-PR,2,0,CENE-MS,False,False,first
-2014-04-02,Caldense-MG,2,0,Duque de Caxias-RJ,False,False,first
-2014-04-16,Duque de Caxias-RJ,2,2,Caldense-MG,False,False,first
-2014-05-01,Brasília-DF,1,3,Sport-PE,False,False,first
+2014-03-13,CENE,2,2,Coritiba,False,False,first
+2014-04-16,Coritiba,2,0,CENE,False,False,first
+2014-04-02,Caldense,2,0,Duque de Caxias-RJ,False,False,first
+2014-04-16,Duque de Caxias-RJ,2,2,Caldense,False,False,first
+2014-05-01,Brasília,1,3,Sport-PE,False,False,first
 2014-04-02,Maranhão-MA,2,2,Paysandu-PA,False,False,first
 2014-04-16,Paysandu-PA,2,1,Maranhão-MA,False,False,first
 2014-03-12,Remo,1,6,Internacional-RS,False,False,first
-2014-04-02,Barbalha-CE,0,0,Cuiabá-MT,False,False,first
-2014-04-16,Cuiabá-MT,2,0,Barbalha-CE,False,False,first
-2014-04-30,Parnahyba-PI,0,1,Ceará-CE,False,False,first
-2014-05-07,Ceará-CE,4,1,Parnahyba-PI,False,False,first
-2014-04-08,Rio Branco-AC,0,2,Chapecoense-SC,False,False,first
+2014-04-02,Barbalha,0,0,Cuiabá-MT,False,False,first
+2014-04-16,Cuiabá-MT,2,0,Barbalha,False,False,first
+2014-04-30,Parnahyba-PI,0,1,Ceará,False,False,first
+2014-05-07,Ceará,4,1,Parnahyba-PI,False,False,first
+2014-04-08,Rio Branco-AC,0,2,Chapecoense,False,False,first
 2014-04-30,Treze,2,1,Vasco da Gama,False,False,second
 2014-05-07,Vasco da Gama,1,1,Treze,False,False,second
 2014-04-22,Paraná,1,1,Ponte Preta,False,False,second

@@ -1,9 +1,9 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-03-23,Ypiranga-AP,0,0,São Raimundo-AM,False,False,first
 2000-03-29,São Raimundo-AM,3,1,Ypiranga-AP,False,False,first
-2000-03-22,Independência-AC,1,0,Baré-RR,False,False,first
-2000-03-29,Baré-RR,1,1,Independência-AC,False,False,first
-2000-03-15,Interporto-TO,0,8,Bahia-BA,False,False,first
+2000-03-22,Independência-AC,1,0,Baré,False,False,first
+2000-03-29,Baré,1,1,Independência-AC,False,False,first
+2000-03-15,Interporto-TO,0,8,Bahia,False,False,first
 2000-03-16,Ji-Paraná (RO),2,1,Vasco-AC,False,False,first
 2000-03-24,Vasco-AC,1,2,Ji-Paraná (RO),False,False,first
 2000-03-22,Paysandú-PA,0,1,Maranhão-MA,False,False,first
@@ -12,29 +12,29 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-03-29,Fortaleza-CE,3,1,IV de Julho-PI,False,False,first
 2000-03-09,URT-MG,1,1,Fluminense-RJ,False,False,first
 2000-03-15,Fluminense-RJ,2,0,URT-MG,False,False,first
-2000-03-22,CRB-AL,0,1,Santa Cruz-PE,False,False,first
-2000-03-30,Santa Cruz-PE,1,1,CRB-AL,False,False,first
+2000-03-22,CRB,0,1,Santa Cruz-PE,False,False,first
+2000-03-30,Santa Cruz-PE,1,1,CRB,False,False,first
 2000-03-22,Santos-AP,0,0,Remo,False,False,first
 2000-03-30,Remo,6,0,Santos-AP,False,False,first
 2000-03-22,Nacional-AM,1,1,Rio Negro-AM,False,False,first
 2000-03-30,Rio Negro-AM,1,1,Nacional-AM,False,False,first
-2000-03-22,Sampaio Corrêa-MA,0,0,Ceará-CE,False,False,first
-2000-03-30,Ceará-CE,1,1,Sampaio Corrêa-MA,False,False,first
+2000-03-22,Sampaio Corrêa-MA,0,0,Ceará,False,False,first
+2000-03-30,Ceará,1,1,Sampaio Corrêa-MA,False,False,first
 2000-03-22,América-RN,0,1,Sport-PE,False,False,first
 2000-03-29,Sport-PE,0,1,América-RN,False,False,first
 2000-03-15,Treze,0,1,ABC,False,False,first
 2000-03-23,ABC,2,1,Treze,False,False,first
 2000-03-15,Pinheiros-RO,0,2,Vitória-BA,False,False,first
-2000-03-22,Náutico-PE,2,1,CSA-AL,False,False,first
-2000-03-29,CSA-AL,0,1,Náutico-PE,False,False,first
-2000-03-23,Confiança-SE,0,1,Goiás-GO,False,False,first
-2000-03-30,Goiás-GO,4,0,Confiança-SE,False,False,first
+2000-03-22,Náutico-PE,2,1,CSA,False,False,first
+2000-03-29,CSA,0,1,Náutico-PE,False,False,first
+2000-03-23,Confiança,0,1,Goiás-GO,False,False,first
+2000-03-30,Goiás-GO,4,0,Confiança,False,False,first
 2000-03-22,Sergipe-SE,3,2,Vila Nova-GO,False,False,first
 2000-03-29,Vila Nova-GO,0,0,Sergipe-SE,False,False,first
-2000-03-22,Caxias-RS,1,1,Avaí-SC,False,False,first
-2000-03-29,Avaí-SC,1,3,Caxias-RS,False,False,first
-2000-03-09,Americano-RJ,1,1,Paraná Clube-PR,False,False,first
-2000-03-15,Paraná Clube-PR,2,1,Americano-RJ,False,False,first
+2000-03-22,Caxias,1,1,Avaí,False,False,first
+2000-03-29,Avaí,1,3,Caxias,False,False,first
+2000-03-09,Americano,1,1,Paraná Clube-PR,False,False,first
+2000-03-15,Paraná Clube-PR,2,1,Americano,False,False,first
 2000-03-14,Gama-DF,1,1,Cruzeiro-MG,False,False,first
 2000-03-17,Cruzeiro-MG,4,1,Gama-DF,False,False,first
 2000-03-16,Ríver-PI,1,1,Flamengo-RJ,False,False,second
@@ -51,7 +51,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-04-05,América-MG,3,2,Portuguesa-SP,False,False,second
 2000-04-20,Portuguesa-SP,4,2,América-MG,False,False,second
 2000-03-22,União-MT,0,4,Grêmio-RS,False,False,second
-2000-03-15,Poções-BA,1,5,Coritiba-PR,False,False,second
+2000-03-15,Poções-BA,1,5,Coritiba,False,False,second
 2000-04-05,Serra-ES,0,3,Santos,False,False,second
 2000-04-05,Botafogo-SP,2,1,Internacional-RS,False,False,second
 2000-04-19,Internacional-RS,3,0,Botafogo-SP,False,False,second
@@ -59,8 +59,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-04-05,Botafogo,5,0,Rio Branco-ES,False,False,second
 2000-04-12,Independência-AC,1,1,São Raimundo-AM,False,False,second
 2000-04-20,São Raimundo-AM,6,1,Independência-AC,False,False,second
-2000-03-29,Ji-Paraná (RO),1,0,Bahia-BA,False,False,second
-2000-04-12,Bahia-BA,5,0,Ji-Paraná (RO),False,False,second
+2000-03-29,Ji-Paraná (RO),1,0,Bahia,False,False,second
+2000-04-12,Bahia,5,0,Ji-Paraná (RO),False,False,second
 2000-04-12,Maranhão-MA,2,1,Fortaleza-CE,False,False,second
 2000-04-19,Fortaleza-CE,0,0,Maranhão-MA,False,False,second
 2000-04-05,Santa Cruz-PE,1,1,Fluminense-RJ,False,False,second
@@ -73,8 +73,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-04-12,Vitória-BA,1,2,ABC,False,False,second
 2000-04-12,Náutico-PE,1,1,Goiás-GO,False,False,second
 2000-04-19,Goiás-GO,1,1,Náutico-PE,False,False,second
-2000-04-12,Caxias-RS,1,0,Sergipe-SE,False,False,second
-2000-04-19,Sergipe-SE,2,1,Caxias-RS,False,False,second
+2000-04-12,Caxias,1,0,Sergipe-SE,False,False,second
+2000-04-19,Sergipe-SE,2,1,Caxias,False,False,second
 2000-04-06,Paraná Clube-PR,0,2,Cruzeiro-MG,False,False,second
 2000-04-27,Guarani-SP,0,2,Flamengo-RJ,False,False,round16
 2000-05-04,Flamengo-RJ,3,3,Guarani-SP,False,False,round16
@@ -82,28 +82,28 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-05-03,Ponte Preta-SP,0,1,Vasco da Gama,False,False,round16
 2000-04-27,Sinop-MT,0,4,São Paulo,False,False,round16
 2000-05-03,São Paulo,2,0,Sinop-MT,False,False,round16
-2000-04-27,Bahia-BA,5,0,São Raimundo-AM,False,False,round16
-2000-05-03,São Raimundo-AM,3,1,Bahia-BA,False,False,round16
+2000-04-27,Bahia,5,0,São Raimundo-AM,False,False,round16
+2000-05-03,São Raimundo-AM,3,1,Bahia,False,False,round16
 2000-05-04,Maranhão-MA,1,1,Fluminense-RJ,False,False,round16
 2000-05-09,Fluminense-RJ,6,0,Maranhão-MA,False,False,round16
 2000-05-03,Remo,2,0,América-RN,False,False,round16
 2000-05-10,América-RN,6,2,Remo,False,False,round16
 2000-04-27,ABC,1,1,Goiás-GO,False,False,round16
 2000-05-03,Goiás-GO,1,1,ABC,False,False,round16
-2000-04-27,Caxias-RS,1,3,Cruzeiro-MG,False,False,round16
-2000-05-03,Cruzeiro-MG,6,1,Caxias-RS,False,False,round16
+2000-04-27,Caxias,1,3,Cruzeiro-MG,False,False,round16
+2000-05-03,Cruzeiro-MG,6,1,Caxias,False,False,round16
 2000-04-27,Portuguesa-SP,0,0,Grêmio-RS,False,False,round16
 2000-05-03,Grêmio-RS,1,4,Portuguesa-SP,False,False,round16
-2000-04-27,Coritiba-PR,0,1,Santos,False,False,round16
-2000-05-03,Santos,1,1,Coritiba-PR,False,False,round16
+2000-04-27,Coritiba,0,1,Santos,False,False,round16
+2000-05-03,Santos,1,1,Coritiba,False,False,round16
 2000-04-25,Internacional-RS,2,2,Botafogo,False,False,round16
 2000-05-03,Botafogo,1,1,Internacional-RS,False,False,round16
-2000-05-25,Botafogo,1,0,Corinthians-SP,False,False,round16
-2000-06-01,Corinthians-SP,1,2,Botafogo,False,False,round16
-2000-05-24,B Cruzeiro-MG,2,1,Atlético-PR,False,False,round16
-2000-05-31,Atlético-PR,2,2,B Cruzeiro-MG,False,False,round16
-2000-05-24,C Bahia-BA,1,3,Flamengo-RJ,False,False,round16
-2000-05-31,Flamengo-RJ,1,1,C Bahia-BA,False,False,round16
+2000-05-25,Botafogo,1,0,Corinthians,False,False,round16
+2000-06-01,Corinthians,1,2,Botafogo,False,False,round16
+2000-05-24,Cruzeiro,2,1,Atlético-PR,False,False,round16
+2000-05-31,Atlético-PR,2,2,Cruzeiro,False,False,round16
+2000-05-24,Bahia,1,3,Flamengo-RJ,False,False,round16
+2000-05-31,Flamengo-RJ,1,1,Bahia,False,False,round16
 2000-05-24,D Juventude-RS,1,3,Santos,False,False,round16
 2000-05-31,Santos,3,0,D Juventude-RS,False,False,round16
 2000-06-01,E ABC,3,3,Palmeiras-SP,False,False,round16
