@@ -1,70 +1,70 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-2009-02-18,Flamengo (PI),1,4,Vasco da Gama,False,False,first
-2009-03-04,Central (PE),0,0,Ceará (CE),False,False,first
-2009-03-18,Ceará (CE),1,1,Central (PE),False,False,first
-2009-02-18,ICASA (CE),1,1,Portuguesa (SP),False,False,first
-2009-03-04,Portuguesa (SP),1,1,ICASA (CE),False,False,first
-2009-03-04,Confiança (SE),3,2,América (RN),False,False,first
-2009-03-18,América (RN),0,0,Confiança (SE),False,False,first
-2009-02-18,Itabaiana (SE),0,5,Atlético (MG),False,False,first
-2009-02-18,Guaratinguetá (SP),2,0,Caxias (RS),False,False,first
-2009-03-04,Caxias (RS),2,1,Guaratinguetá (SP),False,False,first
-2009-03-04,ASA,1,1,Vitória (BA),False,False,first
-2009-03-18,Vitória (BA),1,1,ASA,False,False,first
-2009-03-04,Atlético Sorocaba (SP),1,0,Juventude (RS),False,False,first
-2009-03-18,Juventude (RS),2,0,Atlético Sorocaba (SP),False,False,first
-2009-03-04,Itumbiara (GO),0,2,Corinthians (SP),False,False,first
-2009-02-18,Misto (MS),1,1,Campinense (PB),False,False,first
-2009-03-04,Campinense (PB),1,1,Misto (MS),False,False,first
-2009-03-04,Tocantins (TO),0,3,Atlético (PR),False,False,first
-2009-03-04,Fast Club (AM),1,1,ABC,False,False,first
-2009-03-19,ABC,4,0,Fast Club (AM),False,False,first
-2009-02-18,Nacional (PB),0,1,Fluminense (RJ),False,False,first
-2009-03-05,Fluminense (RJ),3,0,Nacional (PB),False,False,first
-2009-03-04,Águia de Marabá,2,1,América (MG),False,False,first
-2009-03-19,América (MG),0,1,Águia de Marabá,False,False,first
-2009-03-04,Atlético Roraima (RR),1,3,Goiás (GO),False,False,first
-2009-03-04,Cristal (AP),1,2,Brasiliense (DF),False,False,first
-2009-03-18,Brasiliense (DF),3,1,Cristal (AP),False,False,first
-2009-03-05,Dom Pedro II (DF),0,2,Botafogo,False,False,first
-2009-02-18,Americano (RJ),2,0,Santa Cruz (PE),False,False,first
-2009-03-05,Santa Cruz (PE),2,4,Americano (RJ),False,False,first
-2009-03-04,Vilhena (RO),1,2,Ponte Preta (SP),False,False,first
-2009-03-18,Ponte Preta (SP),6,1,Vilhena (RO),False,False,first
-2009-02-18,Sampaio Corrêa (MA),3,2,Figueirense (SC),False,False,first
-2009-03-04,Figueirense (SC),2,1,Sampaio Corrêa (MA),False,False,first
-2009-02-18,Rio Branco (AC),1,2,Santos,False,False,first
-2009-03-18,Santos,4,0,Rio Branco (AC),False,False,first
-2009-03-04,Serra (ES),2,3,CSA (AL),False,False,first
-2009-03-18,CSA (AL),3,1,Serra (ES),False,False,first
-2009-02-18,Holanda (AM),1,2,Coritiba (PR),False,False,first
-2009-03-04,Coritiba (PR),3,0,Holanda (AM),False,False,first
-2009-03-04,Potiguar (RN),2,2,Bahia (BA),False,False,first
-2009-03-19,Bahia (BA),6,1,Potiguar (RN),False,False,first
-2009-03-04,Ivinhema (MS),0,5,Flamengo (RJ),False,False,first
-2009-03-04,Barras (PI),0,1,Remo,False,False,first
-2009-03-18,Remo,2,0,Barras (PI),False,False,first
-2009-02-18,Mixto (MT),1,2,Paraná (PR),False,False,first
-2009-03-05,Paraná (PR),1,2,Mixto (MT),False,False,first
-2009-02-18,Desportiva (ES),1,1,Fortaleza (CE),False,False,first
-2009-03-04,Fortaleza (CE),3,0,Desportiva (ES),False,False,first
-2009-02-18,União (MT),1,0,Internacional (RS),False,False,first
-2009-03-04,Internacional (RS),2,0,União (MT),False,False,first
-2009-02-18,J.Malucelli (PR),0,2,Guarani (SP),False,False,first
-2009-03-04,Moto Clube (MA),1,1,Náutico (PE),False,False,first
-2009-03-18,Náutico (PE),2,0,Moto Clube (MA),False,False,first
-2009-02-18,Tupi (MG),2,0,Criciúma (SC),False,False,first
-2009-03-04,Criciúma (SC),3,0,Tupi (MG),False,False,first
+2009-02-18,Flamengo-PI,1,4,Vasco da Gama,False,False,first
+2009-03-04,Central-PE,0,0,Ceará-CE,False,False,first
+2009-03-18,Ceará-CE,1,1,Central-PE,False,False,first
+2009-02-18,ICASA-CE,1,1,Portuguesa-SP,False,False,first
+2009-03-04,Portuguesa-SP,1,1,ICASA-CE,False,False,first
+2009-03-04,Confiança-SE,3,2,América-RN,False,False,first
+2009-03-18,América-RN,0,0,Confiança-SE,False,False,first
+2009-02-18,Itabaiana-SE,0,5,Atlético-MG,False,False,first
+2009-02-18,Guaratinguetá-SP,2,0,Caxias-RS,False,False,first
+2009-03-04,Caxias-RS,2,1,Guaratinguetá-SP,False,False,first
+2009-03-04,ASA,1,1,Vitória-BA,False,False,first
+2009-03-18,Vitória-BA,1,1,ASA,False,False,first
+2009-03-04,Atlético Sorocaba-SP,1,0,Juventude-RS,False,False,first
+2009-03-18,Juventude-RS,2,0,Atlético Sorocaba-SP,False,False,first
+2009-03-04,Itumbiara-GO,0,2,Corinthians-SP,False,False,first
+2009-02-18,Misto-MS,1,1,Campinense-PB,False,False,first
+2009-03-04,Campinense-PB,1,1,Misto-MS,False,False,first
+2009-03-04,Tocantins-TO,0,3,Atlético-PR,False,False,first
+2009-03-04,Fast Club-AM,1,1,ABC,False,False,first
+2009-03-19,ABC,4,0,Fast Club-AM,False,False,first
+2009-02-18,Nacional-PB,0,1,Fluminense-RJ,False,False,first
+2009-03-05,Fluminense-RJ,3,0,Nacional-PB,False,False,first
+2009-03-04,Águia de Marabá,2,1,América-MG,False,False,first
+2009-03-19,América-MG,0,1,Águia de Marabá,False,False,first
+2009-03-04,Atlético Roraima-RR,1,3,Goiás-GO,False,False,first
+2009-03-04,Cristal-AP,1,2,Brasiliense-DF,False,False,first
+2009-03-18,Brasiliense-DF,3,1,Cristal-AP,False,False,first
+2009-03-05,Dom Pedro II-DF,0,2,Botafogo,False,False,first
+2009-02-18,Americano-RJ,2,0,Santa Cruz-PE,False,False,first
+2009-03-05,Santa Cruz-PE,2,4,Americano-RJ,False,False,first
+2009-03-04,Vilhena-RO,1,2,Ponte Preta-SP,False,False,first
+2009-03-18,Ponte Preta-SP,6,1,Vilhena-RO,False,False,first
+2009-02-18,Sampaio Corrêa-MA,3,2,Figueirense-SC,False,False,first
+2009-03-04,Figueirense-SC,2,1,Sampaio Corrêa-MA,False,False,first
+2009-02-18,Rio Branco-AC,1,2,Santos,False,False,first
+2009-03-18,Santos,4,0,Rio Branco-AC,False,False,first
+2009-03-04,Serra-ES,2,3,CSA-AL,False,False,first
+2009-03-18,CSA-AL,3,1,Serra-ES,False,False,first
+2009-02-18,Holanda-AM,1,2,Coritiba-PR,False,False,first
+2009-03-04,Coritiba-PR,3,0,Holanda-AM,False,False,first
+2009-03-04,Potiguar-RN,2,2,Bahia-BA,False,False,first
+2009-03-19,Bahia-BA,6,1,Potiguar-RN,False,False,first
+2009-03-04,Ivinhema-MS,0,5,Flamengo-RJ,False,False,first
+2009-03-04,Barras-PI,0,1,Remo,False,False,first
+2009-03-18,Remo,2,0,Barras-PI,False,False,first
+2009-02-18,Mixto-MT,1,2,Paraná-PR,False,False,first
+2009-03-05,Paraná-PR,1,2,Mixto-MT,False,False,first
+2009-02-18,Desportiva-ES,1,1,Fortaleza-CE,False,False,first
+2009-03-04,Fortaleza-CE,3,0,Desportiva-ES,False,False,first
+2009-02-18,União-MT,1,0,Internacional-RS,False,False,first
+2009-03-04,Internacional-RS,2,0,União-MT,False,False,first
+2009-02-18,J.Malucelli (PR),0,2,Guarani-SP,False,False,first
+2009-03-04,Moto Clube-MA,1,1,Náutico-PE,False,False,first
+2009-03-18,Náutico-PE,2,0,Moto Clube-MA,False,False,first
+2009-02-18,Tupi-MG,2,0,Criciúma-SC,False,False,first
+2009-03-04,Criciúma-SC,3,0,Tupi-MG,False,False,first
 2009-04-15,Central,0,3,Vasco da Gama,False,False,second
 2009-04-15,ICASA,0,0,Confiança,False,False,second
 2009-04-22,Confiança,1,2,ICASA,False,False,second
-2009-04-15,Guaratinguetá,2,2,Atlético (MG),False,False,second
-2009-04-23,Atlético (MG),2,0,Guaratinguetá,False,False,second
+2009-04-15,Guaratinguetá,2,2,Atlético-MG,False,False,second
+2009-04-23,Atlético-MG,2,0,Guaratinguetá,False,False,second
 2009-04-08,Juventude,1,2,Vitória,False,False,second
 2009-04-15,Vitória,1,1,Juventude,False,False,second
-2009-04-15,Misto (MS),0,2,Corinthians,False,False,second
-2009-04-08,ABC,2,2,Atlético (PR),False,False,second
-2009-04-22,Atlético (PR),3,1,ABC,False,False,second
+2009-04-15,Misto-MS,0,2,Corinthians,False,False,second
+2009-04-08,ABC,2,2,Atlético-PR,False,False,second
+2009-04-22,Atlético-PR,3,1,ABC,False,False,second
 2009-04-16,Águia de Marabá,2,1,Fluminense,False,False,second
 2009-04-22,Fluminense,3,0,Águia de Marabá,False,False,second
 2009-04-08,Brasiliense,0,1,Goiás,False,False,second
@@ -86,10 +86,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-04-23,Náutico,3,2,Criciúma,False,False,second
 2009-04-30,Vasco da Gama,1,1,ICASA,False,False,round16
 2009-05-06,ICASA,1,4,Vasco da Gama,False,False,round16
-2009-04-29,Vitória,3,0,Atlético (MG),False,False,round16
-2009-05-06,Atlético (MG),3,0,Vitória,False,False,round16
-2009-04-29,Atlético (PR),3,2,Corinthians,False,False,round16
-2009-05-06,Corinthians,2,0,Atlético (PR),False,False,round16
+2009-04-29,Vitória,3,0,Atlético-MG,False,False,round16
+2009-05-06,Atlético-MG,3,0,Vitória,False,False,round16
+2009-04-29,Atlético-PR,3,2,Corinthians,False,False,round16
+2009-05-06,Corinthians,2,0,Atlético-PR,False,False,round16
 2009-04-30,Goiás,2,2,Fluminense,False,False,round16
 2009-05-07,Fluminense,1,1,Goiás,False,False,round16
 2009-04-29,Americano,0,0,Ponte Preta,False,False,round16
