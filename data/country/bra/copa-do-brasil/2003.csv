@@ -9,7 +9,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-02-19,Atlético-MG,4,0,CRB,False,False,first
 2003-02-19,Tuna Luso,2,2,Atlético-PR,False,False,first
 2003-03-12,Atlético-PR,1,0,Tuna Luso,False,False,first
-2003-02-19,Dom Bosco-MT,0,5,Sport-PE,False,False,first
+2003-02-19,Dom Bosco,0,5,Sport-PE,False,False,first
 2003-02-06,Corinthians-AL,0,1,Flamengo-PI,False,False,first
 2003-02-19,Flamengo-PI,1,0,Corinthians-AL,False,False,first
 2003-02-06,Fluminense-BA,1,1,Fluminense-RJ,False,False,first
@@ -18,43 +18,43 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-03-12,Vitória-BA,0,1,Tocantinópolis-TO,False,False,first
 2003-02-20,Atlético Roraima,4,1,Nacional-AM,False,False,first
 2003-03-12,Nacional-AM,2,0,Atlético Roraima,False,False,first
-2003-02-20,Alegrense,2,3,Criciúma-SC,False,False,first
-2003-03-12,Criciúma-SC,5,1,Alegrense,False,False,first
+2003-02-20,Alegrense,2,3,Criciúma,False,False,first
+2003-03-12,Criciúma,5,1,Alegrense,False,False,first
 2003-02-05,Operário-MT,0,1,Palmeiras-SP,False,False,first
 2003-03-12,Palmeiras-SP,5,1,Operário-MT,False,False,first
 2003-02-05,Botafogo-PB,1,4,Flamengo-RJ,False,False,first
 2003-02-19,Confiança,1,0,Ceará,False,False,first
 2003-03-12,Ceará,2,0,Confiança,False,False,first
 2003-02-05,Ypiranga-AP,1,3,Remo,False,False,first
-2003-02-19,Comercial-MS,0,2,Internacional-RS,False,False,first
+2003-02-19,Comercial-MS,0,2,Internacional,False,False,first
 2003-02-19,Americano,2,1,Figueirense-SC,False,False,first
 2003-03-12,Figueirense-SC,4,2,Americano,False,False,first
-2003-02-05,CFZ de Brasília,0,0,Fortaleza-CE,False,False,first
-2003-02-19,Fortaleza-CE,1,0,CFZ de Brasília,False,False,first
-2003-02-05,Bangu,2,1,Gama-DF,False,False,first
-2003-03-12,Gama-DF,2,0,Bangu,False,False,first
+2003-02-05,CFZ de Brasília,0,0,Fortaleza,False,False,first
+2003-02-19,Fortaleza,1,0,CFZ de Brasília,False,False,first
+2003-02-05,Bangu,2,1,Gama,False,False,first
+2003-03-12,Gama,2,0,Bangu,False,False,first
 2003-02-19,São Raimundo-AM,2,0,São Paulo,False,False,first
 2003-03-12,São Paulo,6,0,São Raimundo-AM,False,False,first
-2003-02-19,Ituano-SP,2,0,Coritiba,False,False,first
-2003-03-12,Coritiba,1,0,Ituano-SP,False,False,first
-2003-02-05,Ipatinga-MG,2,1,Goiás-GO,False,False,first
-2003-03-12,Goiás-GO,1,0,Ipatinga-MG,False,False,first
+2003-02-19,Ituano,2,0,Coritiba,False,False,first
+2003-03-12,Coritiba,1,0,Ituano,False,False,first
+2003-02-05,Ipatinga,2,1,Goiás-GO,False,False,first
+2003-03-12,Goiás-GO,1,0,Ipatinga,False,False,first
 2003-02-05,Sampaio Corrêa-MA,1,4,São Caetano-SP,False,False,first
 2003-02-05,CE Nova Esperança,0,2,Botafogo,False,False,first
-2003-02-19,Iraty-PR,0,3,Vila Nova-GO,False,False,first
+2003-02-19,Iraty,0,3,Vila Nova-GO,False,False,first
 2003-02-05,Pelotas-RS,1,2,Guarani-SP,False,False,first
 2003-02-20,Guarani-SP,1,1,Pelotas-RS,False,False,first
 2003-02-05,Coríntians-RN,2,0,Santa Cruz-PE,False,False,first
 2003-03-13,Santa Cruz-PE,2,1,Coríntians-RN,False,False,first
-2003-02-19,Rio Branco-ES,2,4,Cruzeiro-MG,False,False,first
+2003-02-19,Rio Branco-ES,2,4,Cruzeiro,False,False,first
 2003-02-05,Atlético Cajazeirense,1,1,Bahia,False,False,first
 2003-03-12,Bahia,4,1,Atlético Cajazeirense,False,False,first
 2003-02-19,CF Amazônia,3,0,Rio Branco-AC,False,False,first
 2003-03-12,Rio Branco-AC,2,0,CF Amazônia,False,False,first
 2003-02-19,Moto Clube-MA,0,1,Ríver-PI,False,False,first
 2003-03-12,Ríver-PI,2,4,Moto Clube-MA,False,False,first
-2003-02-05,Itabaiana-SE,0,1,Vasco da Gama,False,False,first
-2003-03-12,Vasco da Gama,4,0,Itabaiana-SE,False,False,first
+2003-02-05,Itabaiana,0,1,Vasco da Gama,False,False,first
+2003-03-12,Vasco da Gama,4,0,Itabaiana,False,False,first
 2003-03-26,América-RN,2,1,Náutico,False,False,second
 2003-04-02,Náutico,3,1,América-RN,False,False,second
 2003-03-19,Caldense,0,1,Atlético-MG,False,False,second

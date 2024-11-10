@@ -1037,8 +1037,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-11-11,Malutrom,3,2,Uberlândia,False,False,third
 2000-11-11,Paraná,1,1,Goiás,False,False,third
 2000-11-11,Goiás,0,3,Paraná,False,False,third
-2000-11-11,Internacional-RS,0,0,Atlético-PR,False,False,third
-2000-11-11,Atlético-PR,1,2,Internacional-RS,False,False,third
+2000-11-11,Internacional,0,0,Atlético-PR,False,False,third
+2000-11-11,Atlético-PR,1,2,Internacional,False,False,third
 2000-11-11,Remo,1,2,Sport,False,False,third
 2000-11-11,Sport,1,0,Remo,False,False,third
 2000-11-11,Malutrom,0,3,Cruzeiro,False,False,third

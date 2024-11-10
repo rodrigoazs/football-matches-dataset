@@ -17,6 +17,7 @@ def main():
     teams = set()
     files = get_all_files(directory)
     for file in files:
+        print(file)
         df = pd.read_csv(file)
         teams.update(list(df["home_team"].unique()))
         teams.update(list(df["away_team"].unique()))

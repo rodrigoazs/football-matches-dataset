@@ -1,13 +1,13 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-1997-02-18,Guara,0,7,Internacional-RS,False,False,first
+1997-02-18,Guará,0,7,Internacional,False,False,first
 1997-02-18,Mixto,0,3,Corinthians,False,False,first
 1997-02-18,Ypiranga-AP,1,0,Remo,False,False,first
 1997-02-25,Remo,5,0,Ypiranga-AP,False,False,first
 1997-02-20,CSA,2,6,Atletico-PR,False,False,first
 1997-02-20,Operario-MS,2,2,Santa Cruz-PE,False,False,first
 1997-02-25,Santa Cruz-PE,6,1,Operario-MS,False,False,first
-1997-02-20,Desportiva-ES,1,1,Santos,False,False,first
-1997-02-27,Santos,5,1,Desportiva-ES,False,False,first
+1997-02-20,Desportiva,1,1,Santos,False,False,first
+1997-02-27,Santos,5,1,Desportiva,False,False,first
 1997-02-20,Paysandu-PA,2,1,Vila Nova-GO,False,False,first
 1997-02-27,Vila Nova-GO,3,0,Paysandu-PA,False,False,first
 1997-02-25,Santa Cruz-PB,0,4,Fluminense,False,False,first
@@ -24,8 +24,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-02-27,Nacional-AM,2,6,Flamengo,False,False,first
 1997-03-04,Santa Cruz-PE,1,1,Cruzeiro,False,False,first
 1997-03-26,Cruzeiro,0,1,Santa Cruz-PE,False,False,first
-1997-03-06,Parana,1,1,Internacional-RS,False,False,first
-1997-03-13,Internacional-RS,3,0,Parana,False,False,first
+1997-03-06,Parana,1,1,Internacional,False,False,first
+1997-03-13,Internacional,3,0,Parana,False,False,first
 1997-03-11,Vila Nova-GO,2,3,São Paulo,False,False,first
 1997-03-25,São Paulo,2,0,Vila Nova-GO,False,False,first
 1997-03-12,Botafogo,0,3,Vitoria-BA,False,False,first
@@ -35,8 +35,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-03-18,Santos,3,2,Figueirense-SC,False,False,first
 1997-03-13,Remo,3,3,Atletico-MG,False,False,first
 1997-03-19,Atletico-MG,3,2,Remo,False,False,first
-1997-03-13,Rio Branco-AC,1,0,Goias,False,False,first
-1997-03-20,Goias,2,1,Rio Branco-AC,False,False,first
+1997-03-13,Rio Branco-AC,1,0,Goiás,False,False,first
+1997-03-20,Goiás,2,1,Rio Branco-AC,False,False,first
 1997-03-13,Bahia,2,2,Coritiba,False,False,first
 1997-03-20,Coritiba,1,0,Bahia,False,False,first
 1997-03-13,Corinthians,2,0,Juventude-RS,False,False,first
@@ -45,8 +45,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-03-20,Portuguesa,3,0,América-RN,False,False,first
 1997-03-14,Atletico-PR,3,0,Sport-PE,False,False,first
 1997-03-20,Sport-PE,1,1,Atletico-PR,False,False,first
-1997-03-18,Fortaleza,2,3,Gremio,False,False,first
-1997-03-25,Gremio,3,1,Fortaleza,False,False,first
+1997-03-18,Fortaleza,2,3,Grêmio,False,False,first
+1997-03-25,Grêmio,3,1,Fortaleza,False,False,first
 1997-03-25,Coritiba,0,1,Palmeiras,False,False,round16
 1997-04-03,Palmeiras,4,2,Coritiba,False,False,round16
 1997-03-26,Santos,2,0,Internacional,False,False,round16
@@ -61,19 +61,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-04-10,Flamengo,5,1,Rio Branco-AC,False,False,round16
 1997-04-03,Atletico-PR,3,1,Vasco da Gama,False,False,round16
 1997-04-10,Vasco da Gama,4,3,Atletico-PR,False,False,round16
-1997-04-04,Gremio,2,1,Portuguesa,False,False,round16
-1997-04-08,Portuguesa,1,1,Gremio,False,False,round16
+1997-04-04,Grêmio,2,1,Portuguesa,False,False,round16
+1997-04-08,Portuguesa,1,1,Grêmio,False,False,round16
 1997-04-17,Internacional,1,1,Flamengo,False,False,quarter
 1997-04-25,Flamengo,1,0,Internacional,False,False,quarter
 1997-04-15,Ceará,2,5,Palmeiras,False,False,quarter
 1997-04-29,Palmeiras,5,0,Ceará,False,False,quarter
 1997-04-15,Corinthians,1,2,Atletico-PR,False,False,quarter
 1997-04-22,Atletico-PR,2,6,Corinthians,False,False,quarter
-1997-04-18,Gremio,2,0,Vitoria,False,False,quarter
-1997-05-03,Vitoria,3,3,Gremio,False,False,quarter
+1997-04-18,Grêmio,2,0,Vitoria,False,False,quarter
+1997-05-03,Vitoria,3,3,Grêmio,False,False,quarter
 1997-05-06,Flamengo,2,0,Palmeiras,False,False,semi
 1997-05-13,Palmeiras,0,1,Flamengo,False,False,semi
-1997-05-08,Corinthians,1,2,Gremio,False,False,semi
-1997-05-15,Gremio,1,1,Corinthians,False,False,semi
-1997-05-20,Gremio,0,0,Flamengo,False,False,final
-1997-05-22,Flamengo,2,2,Gremio,False,False,final
+1997-05-08,Corinthians,1,2,Grêmio,False,False,semi
+1997-05-15,Grêmio,1,1,Corinthians,False,False,semi
+1997-05-20,Grêmio,0,0,Flamengo,False,False,final
+1997-05-22,Flamengo,2,2,Grêmio,False,False,final

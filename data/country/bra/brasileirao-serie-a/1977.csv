@@ -247,42 +247,42 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1977-10-16,Santos,0,2,Cruzeiro,False,False,first
 1977-10-16,Atlético-MG,4,1,Remo,False,False,first
 1977-10-16,Uberaba,3,1,Paysandu,False,False,first
-1977-10-16,Nacional-AM,2,0,Fast,False,False,first
+1977-10-16,Nacional-AM,2,0,Fast Clube,False,False,first
 1977-10-19,Santos,4,0,Paysandu,False,False,first
 1977-10-19,América-MG,0,1,Remo,False,False,first
-1977-10-20,Fast,2,0,Uberaba,False,False,first
+1977-10-20,Fast Clube,2,0,Uberaba,False,False,first
 1977-10-23,Cruzeiro,4,0,Paysandu,False,False,first
 1977-10-23,Atlético-MG,3,0,Santos,False,False,first
 1977-10-23,Nacional-AM,1,0,Uberaba,False,False,first
 1977-10-23,Botafogo-SP,3,2,Remo,False,False,first
 1977-10-26,Paysandu,1,1,Nacional-AM,False,False,first
 1977-10-26,Botafogo-SP,0,1,Atlético-MG,False,False,first
-1977-10-26,Fast,1,3,Santos,False,False,first
+1977-10-26,Fast Clube,1,3,Santos,False,False,first
 1977-10-27,Remo,0,0,Uberaba,False,False,first
-1977-10-27,Fast,2,3,Paysandu,False,False,first
+1977-10-27,Fast Clube,2,3,Paysandu,False,False,first
 1977-10-30,Remo,0,2,Santos,False,False,first
 1977-10-30,Botafogo-SP,2,1,Uberaba,False,False,first
 1977-10-30,Cruzeiro,2,2,América-MG,False,False,first
 1977-10-30,Nacional-AM,2,4,Atlético-MG,False,False,first
 1977-11-02,Uberaba,0,0,Cruzeiro,False,False,first
 1977-11-02,Paysandu,1,3,Atlético-MG,False,False,first
-1977-11-05,América-MG,2,0,Fast,False,False,first
+1977-11-05,América-MG,2,0,Fast Clube,False,False,first
 1977-11-06,Atlético-MG,1,0,Cruzeiro,False,False,first
 1977-11-06,Santos,0,1,Botafogo-SP,False,False,first
 1977-11-06,Remo,0,0,Paysandu,False,False,first
-1977-11-09,Atlético-MG,6,2,Fast,False,False,first
+1977-11-09,Atlético-MG,6,2,Fast Clube,False,False,first
 1977-11-09,Santos,1,1,América-MG,False,False,first
 1977-11-10,Cruzeiro,3,0,Nacional-AM,False,False,first
 1977-11-13,Atlético-MG,3,1,América-MG,False,False,first
 1977-11-13,Remo,4,0,Cruzeiro,False,False,first
-1977-11-13,Botafogo-SP,5,1,Fast,False,False,first
+1977-11-13,Botafogo-SP,5,1,Fast Clube,False,False,first
 1977-11-13,Santos,2,0,Nacional-AM,False,False,first
-1977-11-16,Fast,1,1,Cruzeiro,False,False,first
+1977-11-16,Fast Clube,1,1,Cruzeiro,False,False,first
 1977-11-16,Botafogo-SP,4,0,Nacional-AM,False,False,first
 1977-11-16,Uberaba,1,0,América-MG,False,False,first
 1977-11-20,Uberaba,1,1,Atlético-MG,False,False,first
 1977-11-20,América-MG,1,2,Botafogo-SP,False,False,first
-1977-11-20,Remo,4,1,Fast,False,False,first
+1977-11-20,Remo,4,1,Fast Clube,False,False,first
 1977-11-23,Paysandu,2,1,Botafogo-SP,False,False,first
 1977-11-24,Nacional-AM,1,0,América-MG,False,False,first
 1977-11-27,Uberaba,4,1,Santos,False,False,first
@@ -410,13 +410,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1977-12-18,Sergipe,0,1,Vitória-ES,False,False,relegation
 1977-12-01,América-MG,3,1,Paysandu,False,False,relegation
 1977-12-04,Uberaba,2,0,Nacional-AM,False,False,relegation
-1977-12-04,Paysandu,1,2,Fast,False,False,relegation
+1977-12-04,Paysandu,1,2,Fast Clube,False,False,relegation
 1977-12-07,América-MG,1,0,Nacional-AM,False,False,relegation
 1977-12-10,América-MG,1,0,Uberaba,False,False,relegation
-1977-12-11,Fast,2,1,Nacional-AM,False,False,relegation
-1977-12-14,Fast,2,0,América-MG,False,False,relegation
+1977-12-11,Fast Clube,2,1,Nacional-AM,False,False,relegation
+1977-12-14,Fast Clube,2,0,América-MG,False,False,relegation
 1977-12-14,Paysandu,2,2,Uberaba,False,False,relegation
-1977-12-18,Uberaba,1,0,Fast,False,False,relegation
+1977-12-18,Uberaba,1,0,Fast Clube,False,False,relegation
 1977-12-18,Nacional-AM,1,1,Paysandu,False,False,relegation
 1978-01-29,Corinthians,1,1,Santos,False,False,third
 1978-01-29,Londrina,2,0,Caxias,False,False,third
@@ -435,19 +435,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-02-19,Vasco da Gama,0,2,Londrina,False,False,third
 1978-01-29,Bahia,0,0,Botafogo,False,False,third
 1978-01-29,Atlético-MG,2,1,Cruzeiro,False,False,third
-1978-01-29,Fast,0,0,América-RN,False,False,third
-1978-02-01,Fast,1,2,Atlético-MG,False,False,third
+1978-01-29,Fast Clube,0,0,América-RN,False,False,third
+1978-02-01,Fast Clube,1,2,Atlético-MG,False,False,third
 1978-02-01,Botafogo,2,0,América-RN,False,False,third
 1978-02-12,Botafogo,0,0,Atlético-MG,False,False,third
 1978-02-12,Bahia,2,2,Cruzeiro,False,False,third
 1978-02-15,América-RN,0,0,Bahia,False,False,third
-1978-02-15,Cruzeiro,5,4,Fast,False,False,third
-1978-02-19,Bahia,2,0,Fast,False,False,third
+1978-02-15,Cruzeiro,5,4,Fast Clube,False,False,third
+1978-02-19,Bahia,2,0,Fast Clube,False,False,third
 1978-02-19,Cruzeiro,0,3,Botafogo,False,False,third
 1978-02-19,Atlético-MG,6,0,América-RN,False,False,third
 1978-02-22,América-RN,2,2,Cruzeiro,False,False,third
 1978-02-22,Atlético-MG,4,0,Bahia,False,False,third
-1978-02-22,Botafogo,3,1,Fast,False,False,third
+1978-02-22,Botafogo,3,1,Fast Clube,False,False,third
 1978-01-28,São Paulo,4,2,XV de Novembro,False,False,third
 1978-01-29,Grêmio,1,0,Sport,False,False,third
 1978-01-29,Ponte Preta-SP,4,1,Botafogo-SP,False,False,third

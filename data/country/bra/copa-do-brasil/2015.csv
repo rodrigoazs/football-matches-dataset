@@ -2,8 +2,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2015-02-08,Real Noroeste-ES,1,0,Atlético Acreano,False,False,first
 2015-02-22,Atlético Acreano,2,3,Real Noroeste-ES,False,False,first
 2015-03-04,Palmeiras-SP,4,1,Vitória da Conquista-BA,False,False,first
-2015-02-25,Sampaio Corrêa-MA,2,3,Estrela do Norte-ES,False,False,first
-2015-04-01,Estrela do Norte-ES,1,4,Sampaio Corrêa-MA,False,False,first
+2015-02-25,Sampaio Corrêa-MA,2,3,Estrela do Norte,False,False,first
+2015-04-01,Estrela do Norte,1,4,Sampaio Corrêa-MA,False,False,first
 2015-04-01,Vitória-BA,2,1,Anapolina,False,False,first
 2015-04-14,Anapolina,1,1,Vitória-BA,False,False,first
 2015-02-25,ASA,3,1,São Raimundo-RR,False,False,first
@@ -17,50 +17,50 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2015-04-15,Operário-MT,1,3,Avaí,False,False,first
 2015-03-17,Santos,1,0,Londrina-PR,False,False,first
 2015-04-16,Londrina-PR,0,1,Santos,False,False,first
-2015-03-05,Madureira-RJ,0,2,Maringá-PR,False,False,first
-2015-04-15,Maringá-PR,1,3,Madureira-RJ,False,False,first
+2015-03-05,Madureira,0,2,Maringá-PR,False,False,first
+2015-04-15,Maringá-PR,1,3,Madureira,False,False,first
 2015-04-01,Sport-PE,2,1,CENE,False,False,first
 2015-04-16,CENE,1,4,Sport-PE,False,False,first
-2015-03-18,Chapecoense,5,2,Interporto-TO,False,False,first
+2015-03-18,Chapecoense,5,2,Interporto,False,False,first
 2015-02-25,Flamengo-RJ,2,1,Brasil-RS,False,False,first
 2015-03-18,Brasil-RS,0,2,Flamengo-RJ,False,False,first
 2015-03-31,Salgueiro-PE,5,1,Piauí-PI,False,False,first
 2015-04-02,Náutico-PE,1,0,Brasília,False,False,first
 2015-04-15,Brasília,0,2,Náutico-PE,False,False,first
-2015-04-01,Paraná-PR,1,0,Jacuipense-BA,False,False,first
-2015-04-23,Jacuipense-BA,1,0,Paraná-PR,False,False,first
+2015-04-01,Paraná-PR,1,0,Jacuipense,False,False,first
+2015-04-23,Jacuipense,1,0,Paraná-PR,False,False,first
 2015-02-25,Goiás-GO,1,0,Santo André-SP,False,False,first
 2015-04-01,Santo André-SP,0,1,Goiás-GO,False,False,first
-2015-03-04,ICASA-CE,0,5,Independente-PA,False,False,first
-2015-03-19,Independente-PA,0,2,ICASA-CE,False,False,first
+2015-03-04,ICASA,0,5,Independente-PA,False,False,first
+2015-03-19,Independente-PA,0,2,ICASA,False,False,first
 2015-03-04,Portuguesa-SP,3,1,Santos-AP,False,False,first
-2015-04-01,Joinville-SC,0,3,Ituano-SP,False,False,first
-2015-04-15,Ituano-SP,0,1,Joinville-SC,False,False,first
+2015-04-01,Joinville,0,3,Ituano,False,False,first
+2015-04-15,Ituano,0,1,Joinville,False,False,first
 2015-03-04,Coritiba,3,0,Villa Nova-MG,False,False,first
-2015-04-01,Fortaleza-CE,1,0,Ríver-PI,False,False,first
-2015-04-16,Ríver-PI,1,2,Fortaleza-CE,False,False,first
+2015-04-01,Fortaleza,1,0,Ríver-PI,False,False,first
+2015-04-16,Ríver-PI,1,2,Fortaleza,False,False,first
 2015-03-03,Ponte Preta-SP,1,1,Vilhena-RO,False,False,first
 2015-04-02,Vilhena-RO,0,3,Ponte Preta-SP,False,False,first
 2015-02-25,Boa Esporte,1,1,Moto Club-MA,False,False,first
 2015-04-15,Moto Club-MA,1,1,Boa Esporte,False,False,first
 2015-04-01,Vasco da Gama,2,1,Rio Branco-AC,False,False,first
 2015-04-15,Rio Branco-AC,2,3,Vasco da Gama,False,False,first
-2015-03-04,Cuiabá-MT,2,3,Murici-AL,False,False,first
-2015-03-18,Murici-AL,0,2,Cuiabá-MT,False,False,first
+2015-03-04,Cuiabá,2,3,Murici-AL,False,False,first
+2015-03-18,Murici-AL,0,2,Cuiabá,False,False,first
 2015-04-01,Atlético-GO,1,1,Coruripe,False,False,first
 2015-04-30,Coruripe,0,2,Atlético-GO,False,False,first
-2015-04-01,América-RN,5,1,Globo-RN,False,False,first
+2015-04-01,América-RN,5,1,Globo,False,False,first
 2015-04-02,Atlético-PR,1,1,Remo,False,False,first
 2015-04-16,Remo,1,1,Atlético-PR,False,False,first
 2015-03-04,Tupi-MG,2,0,Alecrim,False,False,first
 2015-04-01,Ceará,0,0,Confiança,False,False,first
 2015-04-15,Confiança,0,1,Ceará,False,False,first
 2015-02-25,América-MG,3,0,Luziânia-DF,False,False,first
-2015-04-01,Grêmio-RS,2,1,Campinense,False,False,first
-2015-04-15,Campinense,0,2,Grêmio-RS,False,False,first
+2015-04-01,Grêmio,2,1,Campinense,False,False,first
+2015-04-15,Campinense,0,2,Grêmio,False,False,first
 2015-02-25,CRB,2,1,Amadense,False,False,first
 2015-04-02,Amadense,0,1,CRB,False,False,first
-2015-03-18,Criciúma-SC,4,1,Real Noroeste-ES,False,False,first
+2015-03-18,Criciúma,4,1,Real Noroeste-ES,False,False,first
 2015-03-18,Bragantino,1,2,Lajeadense-RS,False,False,first
 2015-04-16,Lajeadense-RS,0,1,Bragantino,False,False,first
 2015-04-02,Bahia,0,0,Nacional-AM,False,False,first

@@ -28,21 +28,21 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1998-02-11,Vitoria-BA,3,1,Operario-MT,False,False,first
 1998-02-04,Botafogo-PB,2,3,Bahia,False,False,first
 1998-02-18,Bahia,1,2,Botafogo-PB,False,False,first
-1998-02-04,América-MG,1,0,Internacional-RS,False,False,first
-1998-03-05,Internacional-RS,1,0,América-MG,False,False,first
-1998-02-05,Amapá,1,7,Cruzeiro-MG,False,False,first
+1998-02-04,América-MG,1,0,Internacional,False,False,first
+1998-03-05,Internacional,1,0,América-MG,False,False,first
+1998-02-05,Amapá,1,7,Cruzeiro,False,False,first
 1998-02-10,Ceará,1,1,Palmeiras-SP,False,False,first
 1998-02-19,Palmeiras-SP,6,0,Ceará,False,False,first
-1998-02-10,Itabaiana-SE,0,3,Corinthians,False,False,first
-1998-02-11,Linhares-ES,0,0,Gremio-RS,False,False,first
-1998-02-18,Gremio-RS,2,0,Linhares-ES,False,False,first
-1998-02-17,Gama-DF,2,4,Flamengo-RJ,False,False,first
+1998-02-10,Itabaiana,0,3,Corinthians,False,False,first
+1998-02-11,Linhares-ES,0,0,Grêmio,False,False,first
+1998-02-18,Grêmio,2,0,Linhares-ES,False,False,first
+1998-02-17,Gama,2,4,Flamengo-RJ,False,False,first
 1998-02-18,Rio Branco-AC,0,2,Vila Nova-GO,False,False,first
 1998-02-18,Alvorada,1,2,Atletico-MG,False,False,first
 1998-02-26,Atletico-MG,7,0,Alvorada,False,False,first
 1998-02-18,Portuguesa-SP,2,1,Sport-PE,False,False,first
 1998-03-04,Sport-PE,4,2,Portuguesa-SP,False,False,first
-1998-02-19,Goias-GO,2,5,Santos,False,False,first
+1998-02-19,Goiás,2,5,Santos,False,False,first
 1998-02-19,Fluminense-RJ,0,2,Parana-PR,False,False,first
 1998-03-01,Vasco da Gama,2,0,Vila Nova-GO,False,False,round16
 1998-03-12,Vila Nova-GO,0,0,Vasco da Gama,False,False,round16
@@ -52,25 +52,25 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1998-03-24,Palmeiras-SP,1,0,Botafogo,False,False,round16
 1998-03-12,Parana-PR,1,0,Atletico-MG,False,False,round16
 1998-04-07,Atletico-MG,1,1,Parana-PR,False,False,round16
-1998-03-19,São Paulo,2,0,Gremio-RS,False,False,round16
-1998-04-21,Gremio-RS,0,2,São Paulo,False,False,round16
+1998-03-19,São Paulo,2,0,Grêmio,False,False,round16
+1998-04-21,Grêmio,0,2,São Paulo,False,False,round16
 1998-03-24,Bahia,3,3,Santos,False,False,round16
 1998-04-23,Santos,5,2,Bahia,False,False,round16
 1998-03-26,América-MG,3,3,Sport-PE,False,False,round16
 1998-04-16,Sport-PE,2,1,América-MG,False,False,round16
-1998-03-31,Cruzeiro-MG,3,1,Corinthians,False,False,round16
-1998-04-23,Corinthians,1,1,Cruzeiro-MG,False,False,round16
+1998-03-31,Cruzeiro,3,1,Corinthians,False,False,round16
+1998-04-23,Corinthians,1,1,Cruzeiro,False,False,round16
 1998-05-05,Santos,1,0,Parana-PR,False,False,quarter
 1998-05-14,Parana-PR,0,1,Santos,False,False,quarter
-1998-05-05,Cruzeiro-MG,2,0,Vitoria-BA,False,False,quarter
-1998-05-14,Vitoria-BA,1,0,Cruzeiro-MG,False,False,quarter
+1998-05-05,Cruzeiro,2,0,Vitoria-BA,False,False,quarter
+1998-05-14,Vitoria-BA,1,0,Cruzeiro,False,False,quarter
 1998-05-07,Sport-PE,0,2,Palmeiras-SP,False,False,quarter
 1998-05-12,Palmeiras-SP,1,1,Sport-PE,False,False,quarter
 1998-05-07,São Paulo,1,1,Vasco da Gama,False,False,quarter
 1998-05-12,Vasco da Gama,4,3,São Paulo,False,False,quarter
 1998-05-19,Palmeiras-SP,1,1,Santos,False,False,semi
 1998-05-23,Santos,2,2,Palmeiras-SP,False,False,semi
-1998-05-19,Cruzeiro-MG,2,0,Vasco da Gama,False,False,semi
-1998-05-23,Vasco da Gama,0,0,Cruzeiro-MG,False,False,semi
-1998-05-26,Cruzeiro-MG,1,0,Palmeiras-SP,False,False,final
-1998-05-30,Palmeiras-SP,2,0,Cruzeiro-MG,False,False,final
+1998-05-19,Cruzeiro,2,0,Vasco da Gama,False,False,semi
+1998-05-23,Vasco da Gama,0,0,Cruzeiro,False,False,semi
+1998-05-26,Cruzeiro,1,0,Palmeiras-SP,False,False,final
+1998-05-30,Palmeiras-SP,2,0,Cruzeiro,False,False,final

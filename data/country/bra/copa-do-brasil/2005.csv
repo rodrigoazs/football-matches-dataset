@@ -7,17 +7,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2005-03-02,Náutico-PE,3,1,Palmas-TO,False,False,first
 2005-02-16,Campinense,1,0,Fluminense-RJ,False,False,first
 2005-03-02,Fluminense-RJ,3,1,Campinense,False,False,first
-2005-02-02,Esportivo-RS,4,1,Londrina-PR,False,False,first
-2005-02-16,Londrina-PR,2,0,Esportivo-RS,False,False,first
-2005-02-16,Bahia,2,1,Grêmio-RS,False,False,first
-2005-03-02,Grêmio-RS,1,0,Bahia,False,False,first
-2005-02-02,Cuiabá-MT,1,1,Vila Nova-GO,False,False,first
-2005-02-16,Vila Nova-GO,2,0,Cuiabá-MT,False,False,first
-2005-02-16,Atlético Hermann Aichinger,0,0,Ituano-SP,False,False,first
-2005-02-16,Coruripe,1,1,Fortaleza-CE,False,False,first
-2005-03-02,Fortaleza-CE,3,1,Coruripe,False,False,first
-2005-02-16,Estrela do Norte-ES,3,4,Atlético-MG,False,False,first
-2005-03-02,Atlético-MG,6,0,Estrela do Norte-ES,False,False,first
+2005-02-02,Esportivo,4,1,Londrina-PR,False,False,first
+2005-02-16,Londrina-PR,2,0,Esportivo,False,False,first
+2005-02-16,Bahia,2,1,Grêmio,False,False,first
+2005-03-02,Grêmio,1,0,Bahia,False,False,first
+2005-02-02,Cuiabá,1,1,Vila Nova-GO,False,False,first
+2005-02-16,Vila Nova-GO,2,0,Cuiabá,False,False,first
+2005-02-16,Atlético Hermann Aichinger,0,0,Ituano,False,False,first
+2005-02-16,Coruripe,1,1,Fortaleza,False,False,first
+2005-03-02,Fortaleza,3,1,Coruripe,False,False,first
+2005-02-16,Estrela do Norte,3,4,Atlético-MG,False,False,first
+2005-03-02,Atlético-MG,6,0,Estrela do Norte,False,False,first
 2005-02-02,Serra-ES,2,2,Brasiliense,False,False,first
 2005-02-16,Brasiliense,4,2,Serra-ES,False,False,first
 2005-02-16,Ríver-PI,1,1,Flamengo-RJ,False,False,first
@@ -34,22 +34,22 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2005-02-16,CENE,1,1,Cianorte,False,False,first
 2005-02-16,Figueirense-SC,1,0,América-RJ,False,False,first
 2005-03-02,América-RJ,2,1,Figueirense-SC,False,False,first
-2005-02-02,Grêmio Coariense-AM,1,1,Remo,False,False,first
-2005-02-16,Remo,4,2,Grêmio Coariense-AM,False,False,first
+2005-02-02,Grêmio Coariense,1,1,Remo,False,False,first
+2005-02-16,Remo,4,2,Grêmio Coariense,False,False,first
 2005-02-16,São Raimundo-RR,1,4,Botafogo,False,False,first
 2005-02-16,Paulista-SP,1,0,Juventude-RS,False,False,first
 2005-03-02,Juventude-RS,1,1,Paulista-SP,False,False,first
-2005-02-02,SER Chapadão-MS,1,2,Internacional-RS,False,False,first
-2005-02-16,Internacional-RS,2,0,SER Chapadão-MS,False,False,first
-2005-02-16,Friburguense-RJ,4,1,Caldense,False,False,first
-2005-03-02,Caldense,2,1,Friburguense-RJ,False,False,first
+2005-02-02,SER Chapadão-MS,1,2,Internacional,False,False,first
+2005-02-16,Internacional,2,0,SER Chapadão-MS,False,False,first
+2005-02-16,Friburguense,4,1,Caldense,False,False,first
+2005-03-02,Caldense,2,1,Friburguense,False,False,first
 2005-02-16,CRAC,0,0,Guarani-SP,False,False,first
 2005-03-03,Guarani-SP,2,1,CRAC,False,False,first
 2005-02-16,Potiguar-RN,0,4,Santa Cruz-PE,False,False,first
-2005-02-02,Sergipe-SE,0,1,Cruzeiro-MG,False,False,first
-2005-02-16,Cruzeiro-MG,7,0,Sergipe-SE,False,False,first
-2005-02-16,Ipatinga-MG,2,0,Americano,False,False,first
-2005-03-02,Americano,2,2,Ipatinga-MG,False,False,first
+2005-02-02,Sergipe-SE,0,1,Cruzeiro,False,False,first
+2005-02-16,Cruzeiro,7,0,Sergipe-SE,False,False,first
+2005-02-16,Ipatinga,2,0,Americano,False,False,first
+2005-03-02,Americano,2,2,Ipatinga,False,False,first
 2005-02-16,União-MT,2,2,Vasco da Gama,False,False,first
 2005-03-02,Vasco da Gama,2,0,União-MT,False,False,first
 2005-02-02,Rio Branco-AC,1,3,Moto Club-MA,False,False,first

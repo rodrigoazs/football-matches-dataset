@@ -2,31 +2,31 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-02-18,Flamengo-PI,1,4,Vasco da Gama,False,False,first
 2009-03-04,Central,0,0,Ceará,False,False,first
 2009-03-18,Ceará,1,1,Central,False,False,first
-2009-02-18,ICASA-CE,1,1,Portuguesa-SP,False,False,first
-2009-03-04,Portuguesa-SP,1,1,ICASA-CE,False,False,first
+2009-02-18,ICASA,1,1,Portuguesa-SP,False,False,first
+2009-03-04,Portuguesa-SP,1,1,ICASA,False,False,first
 2009-03-04,Confiança,3,2,América-RN,False,False,first
 2009-03-18,América-RN,0,0,Confiança,False,False,first
-2009-02-18,Itabaiana-SE,0,5,Atlético-MG,False,False,first
-2009-02-18,Guaratinguetá-SP,2,0,Caxias,False,False,first
-2009-03-04,Caxias,2,1,Guaratinguetá-SP,False,False,first
+2009-02-18,Itabaiana,0,5,Atlético-MG,False,False,first
+2009-02-18,Guaratinguetá,2,0,Caxias,False,False,first
+2009-03-04,Caxias,2,1,Guaratinguetá,False,False,first
 2009-03-04,ASA,1,1,Vitória-BA,False,False,first
 2009-03-18,Vitória-BA,1,1,ASA,False,False,first
 2009-03-04,Atlético Sorocaba,1,0,Juventude-RS,False,False,first
 2009-03-18,Juventude-RS,2,0,Atlético Sorocaba,False,False,first
-2009-03-04,Itumbiara-GO,0,2,Corinthians,False,False,first
+2009-03-04,Itumbiara,0,2,Corinthians,False,False,first
 2009-02-18,Misto-MS,1,1,Campinense,False,False,first
 2009-03-04,Campinense,1,1,Misto-MS,False,False,first
 2009-03-04,Tocantins-TO,0,3,Atlético-PR,False,False,first
-2009-03-04,Fast Club-AM,1,1,ABC,False,False,first
-2009-03-19,ABC,4,0,Fast Club-AM,False,False,first
+2009-03-04,Fast Clube,1,1,ABC,False,False,first
+2009-03-19,ABC,4,0,Fast Clube,False,False,first
 2009-02-18,Nacional-PB,0,1,Fluminense-RJ,False,False,first
 2009-03-05,Fluminense-RJ,3,0,Nacional-PB,False,False,first
 2009-03-04,Águia de Marabá,2,1,América-MG,False,False,first
 2009-03-19,América-MG,0,1,Águia de Marabá,False,False,first
 2009-03-04,Atlético Roraima,1,3,Goiás-GO,False,False,first
-2009-03-04,Cristal-AP,1,2,Brasiliense,False,False,first
-2009-03-18,Brasiliense,3,1,Cristal-AP,False,False,first
-2009-03-05,Dom Pedro II-DF,0,2,Botafogo,False,False,first
+2009-03-04,Cristal,1,2,Brasiliense,False,False,first
+2009-03-18,Brasiliense,3,1,Cristal,False,False,first
+2009-03-05,Dom Pedro II,0,2,Botafogo,False,False,first
 2009-02-18,Americano,2,0,Santa Cruz-PE,False,False,first
 2009-03-05,Santa Cruz-PE,2,4,Americano,False,False,first
 2009-03-04,Vilhena-RO,1,2,Ponte Preta-SP,False,False,first
@@ -46,15 +46,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-03-18,Remo,2,0,Barras,False,False,first
 2009-02-18,Mixto-MT,1,2,Paraná-PR,False,False,first
 2009-03-05,Paraná-PR,1,2,Mixto-MT,False,False,first
-2009-02-18,Desportiva-ES,1,1,Fortaleza-CE,False,False,first
-2009-03-04,Fortaleza-CE,3,0,Desportiva-ES,False,False,first
-2009-02-18,União-MT,1,0,Internacional-RS,False,False,first
-2009-03-04,Internacional-RS,2,0,União-MT,False,False,first
-2009-02-18,J.Malucelli (PR),0,2,Guarani-SP,False,False,first
+2009-02-18,Desportiva,1,1,Fortaleza,False,False,first
+2009-03-04,Fortaleza,3,0,Desportiva,False,False,first
+2009-02-18,União-MT,1,0,Internacional,False,False,first
+2009-03-04,Internacional,2,0,União-MT,False,False,first
+2009-02-18,J. Malucelli,0,2,Guarani-SP,False,False,first
 2009-03-04,Moto Clube-MA,1,1,Náutico-PE,False,False,first
 2009-03-18,Náutico-PE,2,0,Moto Clube-MA,False,False,first
-2009-02-18,Tupi-MG,2,0,Criciúma-SC,False,False,first
-2009-03-04,Criciúma-SC,3,0,Tupi-MG,False,False,first
+2009-02-18,Tupi-MG,2,0,Criciúma,False,False,first
+2009-03-04,Criciúma,3,0,Tupi-MG,False,False,first
 2009-04-15,Central,0,3,Vasco da Gama,False,False,second
 2009-04-15,ICASA,0,0,Confiança,False,False,second
 2009-04-22,Confiança,1,2,ICASA,False,False,second

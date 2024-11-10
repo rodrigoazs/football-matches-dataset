@@ -3,44 +3,44 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-08-31,Remo,1,1,Ceará,False,False,first
 1986-08-31,Bangu,0,1,Fluminense,False,False,first
 1986-08-31,Sampaio Corrêa,1,2,Sport,False,False,first
-1986-08-31,Sobradinho,0,1,Internacional-RS,False,False,first
-1986-09-02,Coritiba,1,0,Internacional-RS,False,False,first
+1986-08-31,Sobradinho,0,1,Internacional,False,False,first
+1986-09-02,Coritiba,1,0,Internacional,False,False,first
 1986-09-02,Fluminense,1,0,Operário-MS,False,False,first
 1986-09-02,Remo,0,0,Sport,False,False,first
 1986-09-02,Sampaio Corrêa,0,3,Ceará,False,False,first
 1986-09-02,Sobradinho,1,1,São Paulo,False,False,first
 1986-09-06,Sport,1,0,Coritiba,False,False,first
-1986-09-07,Internacional-RS,2,0,Fluminense,False,False,first
+1986-09-07,Internacional,2,0,Fluminense,False,False,first
 1986-09-07,São Paulo,1,1,Bangu,False,False,first
 1986-09-07,Operário-MS,0,1,Sampaio Corrêa,False,False,first
 1986-09-07,Ceará,1,2,Sobradinho,False,False,first
 1986-09-10,Sport,1,0,Sobradinho,False,False,first
 1986-09-10,Ceará,1,0,Coritiba,False,False,first
 1986-09-10,Fluminense,0,0,Sampaio Corrêa,False,False,first
-1986-09-10,Internacional-RS,1,1,Bangu,False,False,first
+1986-09-10,Internacional,1,1,Bangu,False,False,first
 1986-09-11,Operário-MS,2,1,Remo,False,False,first
 1986-09-13,Fluminense,1,0,Coritiba,False,False,first
 1986-09-14,São Paulo,4,0,Ceará,False,False,first
-1986-09-14,Sport,0,0,Internacional-RS,False,False,first
+1986-09-14,Sport,0,0,Internacional,False,False,first
 1986-09-14,Sobradinho,1,0,Remo,False,False,first
 1986-09-14,Bangu,2,0,Operário-MS,False,False,first
 1986-09-17,Bangu,3,0,Sobradinho,False,False,first
-1986-09-17,Internacional-RS,1,1,Ceará,False,False,first
+1986-09-17,Internacional,1,1,Ceará,False,False,first
 1986-09-17,Coritiba,0,0,Sampaio Corrêa,False,False,first
 1986-09-18,Remo,1,1,Fluminense,False,False,first
 1986-09-30,Operário-MS,1,2,São Paulo,False,False,first
-1986-09-21,São Paulo,0,0,Internacional-RS,False,False,first
+1986-09-21,São Paulo,0,0,Internacional,False,False,first
 1986-09-21,Sobradinho,0,1,Fluminense,False,False,first
 1986-09-21,Coritiba,1,1,Remo,False,False,first
 1986-09-21,Sampaio Corrêa,0,0,Bangu,False,False,first
 1986-09-21,Sport,4,1,Operário-MS,False,False,first
 1986-09-24,Ceará,0,0,Operário-MS,False,False,first
 1986-09-24,Bangu,1,0,Coritiba,False,False,first
-1986-09-24,Internacional-RS,3,1,Remo,False,False,first
+1986-09-24,Internacional,3,1,Remo,False,False,first
 1986-09-24,São Paulo,4,0,Sampaio Corrêa,False,False,first
 1986-09-25,Fluminense,0,1,Sport,False,False,first
 1986-09-28,Fluminense,2,3,São Paulo,False,False,first
-1986-09-28,Sampaio Corrêa,0,2,Internacional-RS,False,False,first
+1986-09-28,Sampaio Corrêa,0,2,Internacional,False,False,first
 1986-09-28,Remo,2,2,Bangu,False,False,first
 1986-09-28,Ceará,0,0,Sport,False,False,first
 1986-10-07,Operário-MS,2,1,Sobradinho,False,False,first
@@ -51,7 +51,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-10-02,Operário-MS,2,0,Coritiba,False,False,first
 1986-10-05,São Paulo,3,2,Sport,False,False,first
 1986-10-05,Bangu,0,1,Ceará,False,False,first
-1986-10-05,Internacional-RS,3,1,Operário-MS,False,False,first
+1986-10-05,Internacional,3,1,Operário-MS,False,False,first
 1986-10-05,Coritiba,1,1,Sobradinho,False,False,first
 1986-10-05,Sampaio Corrêa,2,2,Remo,False,False,first
 1986-08-31,Corinthians,3,0,Goiás,False,False,first
@@ -578,19 +578,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-01-28,Sport,0,1,Bahia,False,False,second
 1986-01-28,Internacional-SP,2,0,CSA,False,False,second
 1986-10-12,Corinthians,1,1,Criciúma,False,False,second
-1986-10-12,Internacional-RS,2,0,Ceará,False,False,second
+1986-10-12,Internacional,2,0,Ceará,False,False,second
 1986-10-12,Rio Branco-ES,0,1,Atlético-MG,False,False,second
 1986-10-15,Atlético-MG,2,0,Ceará,False,False,second
 1986-10-15,Nacional-AM,2,1,Rio Branco-ES,False,False,second
-1986-10-16,Criciúma,1,1,Internacional-RS,False,False,second
-1986-10-19,Internacional-RS,2,2,Corinthians,False,False,second
+1986-10-16,Criciúma,1,1,Internacional,False,False,second
+1986-10-19,Internacional,2,2,Corinthians,False,False,second
 1986-10-19,Atlético-MG,1,0,Nacional-AM,False,False,second
 1986-10-19,Ceará,3,0,Rio Branco-ES,False,False,second
 1986-10-19,Vasco da Gama,2,0,Criciúma,False,False,second
 1986-10-22,Corinthians,4,0,Ceará,False,False,second
 1986-10-22,Criciúma,2,1,Nacional-AM,False,False,second
 1986-10-23,Sobradinho,1,3,Vasco da Gama,False,False,second
-1986-10-26,Atlético-MG,1,0,Internacional-RS,False,False,second
+1986-10-26,Atlético-MG,1,0,Internacional,False,False,second
 1986-10-26,Nacional-AM,1,3,Corinthians,False,False,second
 1986-10-26,Criciúma,0,0,Rio Branco-ES,False,False,second
 1986-11-12,Ceará,2,2,Vasco da Gama,False,False,second
@@ -599,55 +599,55 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-10-29,Vasco da Gama,1,2,Rio Branco-ES,False,False,second
 1986-10-30,Atlético-MG,1,1,Criciúma,False,False,second
 1986-11-02,Corinthians,1,2,Atlético-MG,False,False,second
-1986-11-02,Nacional-AM,2,1,Internacional-RS,False,False,second
+1986-11-02,Nacional-AM,2,1,Internacional,False,False,second
 1986-11-02,Criciúma,2,0,Ceará,False,False,second
 1986-11-02,Rio Branco-ES,2,3,Sobradinho,False,False,second
 1986-11-05,Vasco da Gama,2,1,Nacional-AM,False,False,second
-1986-11-05,Internacional-RS,3,1,Sobradinho,False,False,second
+1986-11-05,Internacional,3,1,Sobradinho,False,False,second
 1986-11-09,Rio Branco-ES,1,2,Corinthians,False,False,second
 1986-11-09,Vasco da Gama,0,0,Atlético-MG,False,False,second
 1986-11-09,Ceará,3,1,Sobradinho,False,False,second
 1986-11-12,Sobradinho,0,1,Criciúma,False,False,second
 1986-11-16,Corinthians,0,0,Vasco da Gama,False,False,second
-1986-11-16,Rio Branco-ES,2,1,Internacional-RS,False,False,second
+1986-11-16,Rio Branco-ES,2,1,Internacional,False,False,second
 1986-11-16,Sobradinho,1,1,Atlético-MG,False,False,second
-1986-11-19,Internacional-RS,0,1,Vasco da Gama,False,False,second
+1986-11-19,Internacional,0,1,Vasco da Gama,False,False,second
 1986-11-19,Nacional-AM,1,1,Sobradinho,False,False,second
 1986-11-23,Atlético-MG,0,1,Corinthians,False,False,second
 1986-11-23,Nacional-AM,0,0,Ceará,False,False,second
 1986-11-23,Sobradinho,2,3,Rio Branco-ES,False,False,second
-1986-11-23,Vasco da Gama,2,3,Internacional-RS,False,False,second
+1986-11-23,Vasco da Gama,2,3,Internacional,False,False,second
 1986-11-26,Rio Branco-ES,1,1,Vasco da Gama,False,False,second
 1986-11-26,Sobradinho,0,2,Ceará,False,False,second
 1986-11-26,Criciúma,1,2,Atlético-MG,False,False,second
 1986-11-27,Corinthians,1,0,Nacional-AM,False,False,second
-1986-11-30,Internacional-RS,2,0,Criciúma,False,False,second
+1986-11-30,Internacional,2,0,Criciúma,False,False,second
 1986-11-30,Ceará,0,0,Corinthians,False,False,second
 1986-11-30,Vasco da Gama,4,0,Sobradinho,False,False,second
 1986-11-30,Nacional-AM,2,1,Atlético-MG,False,False,second
 1986-12-03,Atlético-MG,1,0,Rio Branco-ES,False,False,second
-1986-12-03,Internacional-RS,2,1,Nacional-AM,False,False,second
+1986-12-03,Internacional,2,1,Nacional-AM,False,False,second
 1986-12-03,Criciúma,1,0,Vasco da Gama,False,False,second
 1986-12-04,Corinthians,0,0,Sobradinho,False,False,second
 1986-12-07,Rio Branco-ES,3,0,Nacional-AM,False,False,second
 1986-12-07,Atlético-MG,1,0,Vasco da Gama,False,False,second
-1986-12-07,Corinthians,1,1,Internacional-RS,False,False,second
+1986-12-07,Corinthians,1,1,Internacional,False,False,second
 1986-12-07,Ceará,2,0,Criciúma,False,False,second
 1986-12-10,Criciúma,1,0,Corinthians,False,False,second
-1986-12-10,Internacional-RS,5,1,Rio Branco-ES,False,False,second
+1986-12-10,Internacional,5,1,Rio Branco-ES,False,False,second
 1986-12-10,Ceará,2,0,Atlético-MG,False,False,second
 1986-12-10,Sobradinho,2,1,Nacional-AM,False,False,second
 1986-12-14,Vasco da Gama,1,1,Corinthians,False,False,second
-1986-12-14,Internacional-RS,0,2,Atlético-MG,False,False,second
+1986-12-14,Internacional,0,2,Atlético-MG,False,False,second
 1986-12-14,Criciúma,1,0,Sobradinho,False,False,second
 1986-12-14,Rio Branco-ES,2,0,Ceará,False,False,second
 1987-01-25,Atlético-MG,1,1,Sobradinho,False,False,second
-1987-01-25,Ceará,1,1,Internacional-RS,False,False,second
+1987-01-25,Ceará,1,1,Internacional,False,False,second
 1987-01-25,Nacional-AM,1,2,Vasco da Gama,False,False,second
 1987-01-25,Rio Branco-ES,1,1,Criciúma,False,False,second
 1987-01-28,Corinthians,1,0,Rio Branco-ES,False,False,second
 1987-01-28,Vasco da Gama,3,1,Ceará,False,False,second
-1987-01-28,Sobradinho,0,3,Internacional-RS,False,False,second
+1987-01-28,Sobradinho,0,3,Internacional,False,False,second
 1987-01-28,Nacional-AM,0,1,Criciúma,False,False,second
 1987-01-31,Vasco da Gama,0,3,Guarani,False,False,third
 1987-02-04,Guarani,2,0,Vasco da Gama,False,False,third

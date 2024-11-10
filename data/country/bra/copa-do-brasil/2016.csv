@@ -1,20 +1,20 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-21,Santos,1,1,Santos-AP,False,False,first
 2016-04-28,Santos-AP,0,3,Santos,False,False,first
-2016-04-20,Rio Branco-AC,0,1,Galvez-AC,False,False,first
-2016-04-27,Galvez-AC,1,1,Rio Branco-AC,False,False,first
-2016-03-16,ABC,1,1,Goianésia-GO,False,False,first
-2016-04-20,Goianésia-GO,2,3,ABC,False,False,first
-2016-05-14,América-RN,0,1,Gama-DF,False,False,first
-2016-05-25,Gama-DF,2,3,América-RN,False,False,first
+2016-04-20,Rio Branco-AC,0,1,Galvez,False,False,first
+2016-04-27,Galvez,1,1,Rio Branco-AC,False,False,first
+2016-03-16,ABC,1,1,Goianésia,False,False,first
+2016-04-20,Goianésia,2,3,ABC,False,False,first
+2016-05-14,América-RN,0,1,Gama,False,False,first
+2016-05-25,Gama,2,3,América-RN,False,False,first
 2016-04-07,Goiás-GO,1,2,Ríver-PI,False,False,first
 2016-04-27,Ríver-PI,1,2,Goiás-GO,False,False,first
 2016-03-16,Botafogo-PB,1,1,Linense-SP,False,False,first
 2016-04-06,Linense-SP,1,1,Botafogo-PB,False,False,first
 2016-04-06,Ceará,2,2,Resende,False,False,first
 2016-04-27,Resende,1,1,Ceará,False,False,first
-2016-04-20,Joinville-SC,1,1,Comercial-MS,False,False,first
-2016-05-04,Comercial-MS,0,1,Joinville-SC,False,False,first
+2016-04-20,Joinville,1,1,Comercial-MS,False,False,first
+2016-05-04,Comercial-MS,0,1,Joinville,False,False,first
 2016-04-13,Vasco da Gama,1,0,Remo,False,False,first
 2016-04-27,Remo,1,2,Vasco da Gama,False,False,first
 2016-04-06,CRB,2,0,Ivinhema-MS,False,False,first
@@ -22,35 +22,35 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-07,Vitória da Conquista-BA,1,1,Náutico-PE,False,False,first
 2016-03-16,Santa Cruz-PE,1,0,Rio Branco-ES,False,False,first
 2016-04-06,Rio Branco-ES,0,0,Santa Cruz-PE,False,False,first
-2016-04-20,Cruzeiro-MG,0,0,Campinense,False,False,first
-2016-05-05,Campinense,2,3,Cruzeiro-MG,False,False,first
+2016-04-20,Cruzeiro,0,0,Campinense,False,False,first
+2016-05-05,Campinense,2,3,Cruzeiro,False,False,first
 2016-03-16,Londrina-PR,1,0,Parauapebas-PA,False,False,first
 2016-04-06,Parauapebas-PA,0,6,Londrina-PR,False,False,first
 2016-04-13,Vitória-BA,3,2,Náutico-RR,False,False,first
 2016-04-27,Náutico-RR,1,3,Vitória-BA,False,False,first
 2016-04-13,Portuguesa-SP,1,2,Parnahyba-PI,False,False,first
 2016-04-26,Parnahyba-PI,0,1,Portuguesa-SP,False,False,first
-2016-04-13,Coritiba,3,0,Guarany-CE,False,False,first
+2016-04-13,Coritiba,3,0,Guarany de Sobral,False,False,first
 2016-04-06,Juventude-RS,1,1,Tocantinópolis-TO,False,False,first
 2016-04-28,Tocantinópolis-TO,0,2,Juventude-RS,False,False,first
-2016-04-12,Criciúma-SC,1,2,Operário-PR,False,False,first
-2016-04-28,Operário-PR,1,1,Criciúma-SC,False,False,first
+2016-04-12,Criciúma,1,2,Operário-PR,False,False,first
+2016-04-28,Operário-PR,1,1,Criciúma,False,False,first
 2016-04-27,Paysandu-PA,2,1,Independente-PA,False,False,first
 2016-04-30,Independente-PA,0,2,Paysandu-PA,False,False,first
 2016-03-17,Atlético-PR,1,1,Brasil-RS,False,False,first
 2016-04-13,Brasil-RS,0,1,Atlético-PR,False,False,first
-2016-04-20,Nacional-AM,0,2,Dom Bosco-MT,False,False,first
-2016-04-27,Dom Bosco-MT,1,1,Nacional-AM,False,False,first
+2016-04-20,Nacional-AM,0,2,Dom Bosco,False,False,first
+2016-04-27,Dom Bosco,1,1,Nacional-AM,False,False,first
 2016-04-06,Chapecoense,2,1,Princesa do Solimões-AM,False,False,first
 2016-04-14,Princesa do Solimões-AM,0,2,Chapecoense,False,False,first
-2016-04-06,Paraná-PR,1,1,Estanciano-SE,False,False,first
-2016-04-21,Estanciano-SE,0,2,Paraná-PR,False,False,first
+2016-04-06,Paraná-PR,1,1,Estanciano,False,False,first
+2016-04-21,Estanciano,0,2,Paraná-PR,False,False,first
 2016-03-16,Flamengo-RJ,0,1,Confiança,False,False,first
 2016-04-20,Confiança,0,3,Flamengo-RJ,False,False,first
-2016-03-16,Fortaleza-CE,1,1,Imperatriz-MA,False,False,first
-2016-04-28,Imperatriz-MA,0,2,Fortaleza-CE,False,False,first
-2016-03-16,Bahia,0,0,Globo-RN,False,False,first
-2016-04-06,Globo-RN,1,3,Bahia,False,False,first
+2016-03-16,Fortaleza,1,1,Imperatriz,False,False,first
+2016-04-28,Imperatriz,0,2,Fortaleza,False,False,first
+2016-03-16,Bahia,0,0,Globo,False,False,first
+2016-04-06,Globo,1,3,Bahia,False,False,first
 2016-04-20,América-MG,1,1,Bragantino,False,False,first
 2016-04-28,Bragantino,2,3,América-MG,False,False,first
 2016-04-06,Fluminense-RJ,3,0,Tombense,False,False,first
@@ -65,12 +65,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-20,Internacional-SC,1,0,Sampaio Corrêa-MA,False,False,first
 2016-04-07,Ponte Preta-SP,2,1,Caldense,False,False,first
 2016-04-14,Caldense,1,1,Ponte Preta-SP,False,False,first
-2016-04-06,ASA,0,2,Genus-RO,False,False,first
-2016-04-28,Genus-RO,1,2,ASA,False,False,first
+2016-04-06,ASA,0,2,Genus,False,False,first
+2016-04-28,Genus,1,2,ASA,False,False,first
 2016-04-05,Botafogo,1,0,Coruripe,False,False,first
 2016-04-28,Coruripe,1,1,Botafogo,False,False,first
-2016-04-13,Cuiabá-MT,0,1,Juazeirense-BA,False,False,first
-2016-04-27,Juazeirense-BA,0,1,Cuiabá-MT,False,False,first
+2016-04-13,Cuiabá,0,1,Juazeirense,False,False,first
+2016-04-27,Juazeirense,0,1,Cuiabá,False,False,first
 2016-04-21,Avaí,0,1,Operário-MT,False,False,first
 2016-04-28,Operário-MT,0,2,Avaí,False,False,first
 2016-04-20,Bragantino,2,0,Brasília,False,False,first

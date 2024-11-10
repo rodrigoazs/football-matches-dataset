@@ -1,7 +1,7 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1994-02-08,IV de Julho-PI,1,3,Palmeiras-SP,False,False,first
 1994-02-11,Atlético-MG,4,3,Vila Nova-GO,False,False,first
-1994-02-11,Criciúma-SC,2,2,Grêmio-RS,False,False,first
+1994-02-11,Criciúma,2,2,Grêmio,False,False,first
 1994-02-17,ABC,0,2,Vasco da Gama,False,False,first
 1994-02-18,Fluminense-RJ,2,2,Linhares-ES,False,False,first
 1994-02-22,Remo,3,0,Maranhão-MA,False,False,first
@@ -12,11 +12,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1994-02-25,Paysandu-PA,0,0,Comercial-MS,False,False,first
 1994-03-04,Vitória-BA,4,0,Sorriso-MT,False,False,first
 1994-03-08,Kaburé-TO,2,0,América-MG,False,False,first
-1994-03-11,Internacional-RS,1,1,Paraná Clube-PR,False,False,first
+1994-03-11,Internacional,1,1,Paraná Clube-PR,False,False,first
 1994-03-15,Taguatinga-DF,0,2,Bahia,False,False,first
 1994-03-29,CRB,0,1,Corinthians,False,False,first
 1994-02-15,Palmeiras-SP,5,2,IV de Julho-PI,False,False,first
-1994-02-18,Grêmio-RS,2,1,Criciúma-SC,False,False,first
+1994-02-18,Grêmio,2,1,Criciúma,False,False,first
 1994-02-25,Vila Nova-GO,0,2,Atlético-MG,False,False,first
 1994-03-04,São José-AP,2,1,Nacional-AM,False,False,first
 1994-03-04,Sorriso-MT,1,1,Vitória-BA,False,False,first
@@ -26,7 +26,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1994-03-17,América-MG,1,0,Kaburé-TO,False,False,first
 1994-03-18,Linhares-ES,1,1,Fluminense-RJ,False,False,first
 1994-03-22,Maranhão-MA,1,1,Remo,False,False,first
-1994-03-22,Paraná Clube-PR,0,1,Internacional-RS,False,False,first
+1994-03-22,Paraná Clube-PR,0,1,Internacional,False,False,first
 1994-03-25,Bahia,2,1,Taguatinga-DF,False,False,first
 1994-03-25,Campinense,2,1,Ceará,False,False,first
 1994-04-05,Corinthians,3,1,CRB,False,False,first
@@ -34,30 +34,30 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1994-04-12,Ariquemes,0,2,Vitória-BA,False,False,round16
 1994-04-12,Comercial-MS,2,0,Kaburé-TO,False,False,round16
 1994-04-12,Remo,2,1,Atlético-MG,False,False,round16
-1994-04-19,Grêmio-RS,2,0,Corinthians,False,False,round16
+1994-04-19,Grêmio,2,0,Corinthians,False,False,round16
 1994-05-01,Linhares-ES,0,0,São José-AP,False,False,round16
-1994-05-06,Internacional-RS,1,0,Bahia,False,False,round16
+1994-05-06,Internacional,1,0,Bahia,False,False,round16
 1994-05-10,Santa Cruz-PE,1,0,Vasco da Gama,False,False,round16
 1994-05-18,Ceará,0,0,Palmeiras-SP,False,False,round16
 1994-04-26,Vitória-BA,3,0,Ariquemes,False,False,round16
 1994-04-26,Kaburé-TO,0,2,Comercial-MS,False,False,round16
 1994-05-17,Atlético-MG,2,0,Remo,False,False,round16
 1994-05-21,São José-AP,2,3,Linhares-ES,False,False,round16
-1994-05-24,Bahia,5,4,Internacional-RS,False,False,round16
+1994-05-24,Bahia,5,4,Internacional,False,False,round16
 1994-05-27,Vasco da Gama,3,1,Santa Cruz-PE,False,False,round16
-1994-05-28,Corinthians,2,2,Grêmio-RS,False,False,round16
+1994-05-28,Corinthians,2,2,Grêmio,False,False,round16
 1994-05-29,Palmeiras-SP,1,1,Ceará,False,False,round16
-1994-06-04,Grêmio-RS,1,0,Vitória-BA,False,False,quarter
+1994-06-04,Grêmio,1,0,Vitória-BA,False,False,quarter
 1994-06-05,Linhares-ES,1,0,Comercial-MS,False,False,quarter
-1994-06-05,Ceará,1,0,Internacional-RS,False,False,quarter
+1994-06-05,Ceará,1,0,Internacional,False,False,quarter
 1994-06-14,Vasco da Gama,3,1,Atlético-MG,False,False,quarter
-1994-06-07,Vitória-BA,0,1,Grêmio-RS,False,False,quarter
-1994-06-08,Internacional-RS,2,1,Ceará,False,False,quarter
+1994-06-07,Vitória-BA,0,1,Grêmio,False,False,quarter
+1994-06-08,Internacional,2,1,Ceará,False,False,quarter
 1994-06-12,Comercial-MS,1,1,Linhares-ES,False,False,quarter
 1994-06-17,Atlético-MG,3,4,Vasco da Gama,False,False,quarter
 1994-06-23,Ceará,0,0,Linhares-ES,False,False,semi
-1994-07-24,Vasco da Gama,0,0,Grêmio-RS,False,False,semi
+1994-07-24,Vasco da Gama,0,0,Grêmio,False,False,semi
 1994-07-24,Linhares-ES,0,1,Ceará,False,False,semi
-1994-07-30,Grêmio-RS,2,1,Vasco da Gama,False,False,semi
-1994-08-07,Ceará,0,0,Grêmio-RS,False,False,final
-1994-08-10,Grêmio-RS,1,0,Ceará,False,False,final
+1994-07-30,Grêmio,2,1,Vasco da Gama,False,False,semi
+1994-08-07,Ceará,0,0,Grêmio,False,False,final
+1994-08-10,Grêmio,1,0,Ceará,False,False,final

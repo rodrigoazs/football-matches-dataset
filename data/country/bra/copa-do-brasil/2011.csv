@@ -1,16 +1,16 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2011-02-16,Murici-AL,0,3,Flamengo-RJ,False,False,first
-2011-02-16,Fast Clube-AM,2,0,Fortaleza-CE,False,False,first
-2011-02-23,Fortaleza-CE,4,1,Fast Clube-AM,False,False,first
+2011-02-16,Fast Clube,2,0,Fortaleza,False,False,first
+2011-02-23,Fortaleza,4,1,Fast Clube,False,False,first
 2011-02-16,União-MT,4,4,Guarani-SP,False,False,first
 2011-02-23,Guarani-SP,0,0,União-MT,False,False,first
-2011-02-16,Horizonte-CE,3,1,ASA,False,False,first
-2011-02-23,ASA,3,3,Horizonte-CE,False,False,first
-2011-02-23,IAPE-MA,2,3,Atlético-MG,False,False,first
-2011-03-02,Atlético-MG,8,1,IAPE-MA,False,False,first
-2011-02-16,Iraty-PR,3,1,Prudente-SP,False,False,first
-2011-02-23,Prudente-SP,3,0,Iraty-PR,False,False,first
-2011-02-23,Cuiabá-MT,0,2,Ceará,False,False,first
+2011-02-16,Horizonte,3,1,ASA,False,False,first
+2011-02-23,ASA,3,3,Horizonte,False,False,first
+2011-02-23,IAPE,2,3,Atlético-MG,False,False,first
+2011-03-02,Atlético-MG,8,1,IAPE,False,False,first
+2011-02-16,Iraty,3,1,Prudente-SP,False,False,first
+2011-02-23,Prudente-SP,3,0,Iraty,False,False,first
+2011-02-23,Cuiabá,0,2,Ceará,False,False,first
 2011-02-23,Águia de Marabá,1,1,Brasiliense,False,False,first
 2011-03-02,Brasiliense,2,0,Águia de Marabá,False,False,first
 2011-02-16,Botafogo-PB,3,1,Vitória-BA,False,False,first
@@ -44,11 +44,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2011-03-02,Paysandu-PA,2,2,Penarol-AM,False,False,first
 2011-02-23,River Plate-SE,1,0,Botafogo,False,False,first
 2011-03-03,Botafogo,1,0,River Plate-SE,False,False,first
-2011-02-16,Gurupi-TO,1,1,Paraná-PR,False,False,first
-2011-02-23,Paraná-PR,3,0,Gurupi-TO,False,False,first
+2011-02-16,Gurupi,1,1,Paraná-PR,False,False,first
+2011-02-23,Paraná-PR,3,0,Gurupi,False,False,first
 2011-02-23,Vilhena-RO,0,3,Avaí,False,False,first
-2011-02-23,Rio Branco-ES,0,1,Ipatinga-MG,False,False,first
-2011-03-02,Ipatinga-MG,3,0,Rio Branco-ES,False,False,first
+2011-02-23,Rio Branco-ES,0,1,Ipatinga,False,False,first
+2011-03-02,Ipatinga,3,0,Rio Branco-ES,False,False,first
 2011-02-16,Treze,0,3,São Paulo,False,False,first
 2011-02-23,Coríntians-RN,1,4,Santa Cruz-PE,False,False,first
 2011-02-16,Vitória-ES,1,4,Goiás-GO,False,False,first
