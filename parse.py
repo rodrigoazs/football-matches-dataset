@@ -1,9 +1,10 @@
-from parsers import *
 import pandas as pd
 
+from parsers import *
+
 FOLDER = "data/country/bra/copa-do-brasil/"
-YEAR = 2000
-MATCHES = 129
+YEAR = 1989
+MATCHES = 61
 
 parsers = [parse for name, parse in globals().items() if name.endswith("_parser")]
 with open("text.txt", "r") as file:
