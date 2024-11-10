@@ -27,18 +27,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2007-02-28,Bahia (BA),0,1,Itabaiana (SE),False,False,first
 2007-02-21,Olímpico Pirambu (SE),1,1,Corinthians (SP),False,False,first
 2007-03-01,Corinthians (SP),3,0,Olímpico Pirambu (SE),False,False,first
-2007-02-22,Vilavelhense (ES),1,0,Treze (PB),False,False,first
-2007-02-28,Treze (PB),3,1,Vilavelhense (ES),False,False,first
+2007-02-22,Vilavelhense (ES),1,0,Treze,False,False,first
+2007-02-28,Treze,3,1,Vilavelhense (ES),False,False,first
 2007-02-14,Parnahyba (PI),1,2,Náutico (PE),False,False,first
 2007-02-21,Náutico (PE),6,0,Parnahyba (PI),False,False,first
 2007-02-21,São José (AP),0,1,Paysandu (PA),False,False,first
 2007-02-28,Paysandu (PA),2,2,São José (AP),False,False,first
-2007-02-14,Fast Clube (AM),1,2,Vasco (RJ),False,False,first
-2007-02-28,Vasco (RJ),6,0,Fast Clube (AM),False,False,first
+2007-02-14,Fast Clube (AM),1,2,Vasco da Gama,False,False,first
+2007-02-28,Vasco da Gama,6,0,Fast Clube (AM),False,False,first
 2007-02-14,Araguaína (TO),1,3,Gama (DF),False,False,first
 2007-02-21,Madureira (RJ),2,3,Figueirense (SC),False,False,first
 2007-02-28,Figueirense (SC),2,0,Madureira (RJ),False,False,first
-2007-02-14,ADAP Galo Maringá (PR),1,4,Noroeste (SP),False,False,first
+2007-02-14,ADAP Galo Maringá,1,4,Noroeste (SP),False,False,first
 2007-02-14,Colo-Colo (BA),1,3,Atlético (MG),False,False,first
 2007-02-14,Coruripe (AL),1,1,América (RJ),False,False,first
 2007-02-21,América (RJ),3,1,Coruripe (AL),False,False,first
@@ -46,8 +46,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2007-02-28,Ponte Preta (SP),2,3,Villa Nova (MG),False,False,first
 2007-02-21,Rio Branco (PR),1,1,Avaí (SC),False,False,first
 2007-02-28,Avaí (SC),0,1,Rio Branco (PR),False,False,first
-2007-02-14,CSA (AL),1,1,Botafogo (RJ),False,False,first
-2007-03-01,Botafogo (RJ),5,2,CSA (AL),False,False,first
+2007-02-14,CSA (AL),1,1,Botafogo,False,False,first
+2007-03-01,Botafogo,5,2,CSA (AL),False,False,first
 2007-02-22,Barras (PI),1,0,Ceará (CE),False,False,first
 2007-02-28,Ceará (CE),2,0,Barras (PI),False,False,first
 2007-02-14,Caxias (RS),2,1,Coritiba (PR),False,False,first
@@ -72,8 +72,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2007-03-14,Treze,0,2,Corinthians,False,False,second
 2007-03-21,Paysandu,1,0,Náutico,False,False,second
 2007-04-04,Náutico,5,0,Paysandu,False,False,second
-2007-03-21,Gama,2,2,Vasco,False,False,second
-2007-04-04,Vasco,1,2,Gama,False,False,second
+2007-03-21,Gama,2,2,Vasco da Gama,False,False,second
+2007-04-04,Vasco da Gama,1,2,Gama,False,False,second
 2007-03-21,Noroeste,0,0,Figueirense,False,False,second
 2007-04-04,Figueirense,4,1,Noroeste,False,False,second
 2007-03-21,América (RJ),1,1,Atlético (MG),False,False,second

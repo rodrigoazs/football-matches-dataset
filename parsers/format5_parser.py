@@ -111,7 +111,6 @@ def format5_parser(text, year):
             match = match_1_match_pattern.search(line)
 
             if match:
-                print(match.groups())
                 match_home_team = match.group(1).strip()
                 match_away_team = match.group(4).strip()
                 match_home_score = match.group(2)

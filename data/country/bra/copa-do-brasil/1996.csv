@@ -13,7 +13,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-02-28,Bahia,2,1,Gama-DF,False,False,first
 1996-02-14,Ji-Parana,1,1,Atletico-PR,False,False,first
 1996-02-28,Atletico-PR,3,0,Ji-Parana,False,False,first
-1996-02-13,Santa Cruz-PB,0,2,Vasco,False,False,first
+1996-02-13,Santa Cruz-PB,0,2,Vasco da Gama,False,False,first
 1996-02-27,ABC,0,4,Corinthians,False,False,first
 1996-02-28,Sergipe,0,8,Palmeiras,False,False,first
 1996-02-06,Operario-MS,0,1,Grêmio,False,False,first
@@ -32,8 +32,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-03-20,Santa Cruz-PE,0,1,Remo,False,False,first
 1996-03-19,Vila Nova,0,1,Atletico-MG,False,False,first
 1996-03-26,Atletico-MG,4,1,Vila Nova,False,False,first
-1996-03-05,Cori-Sabba,1,0,Botafogo-RJ,False,False,first
-1996-03-29,Botafogo-RJ,3,0,Cori-Sabba,False,False,first
+1996-03-05,Cori-Sabba,1,0,Botafogo,False,False,first
+1996-03-29,Botafogo,3,0,Cori-Sabba,False,False,first
 1996-03-05,Atletico-PR,3,0,Santos,False,False,first
 1996-03-12,Santos,1,1,Atletico-PR,False,False,first
 1996-03-05,Vitoria,0,0,Parana,False,False,first
@@ -41,8 +41,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-03-06,Bahia,0,0,Coritiba,False,False,first
 1996-03-14,Coritiba,3,1,Bahia,False,False,first
 1996-04-02,Internacional-RS,1,1,São Paulo,False,False,round16
-1996-03-28,Vasco,2,6,Cruzeiro,False,False,round16
-1996-04-17,Cruzeiro,1,1,Vasco,False,False,round16
+1996-03-28,Vasco da Gama,2,6,Cruzeiro,False,False,round16
+1996-04-17,Cruzeiro,1,1,Vasco da Gama,False,False,round16
 1996-04-05,Corinthians,0,0,Remo,False,False,round16
 1996-04-09,Remo,1,1,Corinthians,False,False,round16
 1996-04-03,Fluminense,2,1,Criciuma,False,False,round16
@@ -53,8 +53,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-04-19,Grêmio,3,0,Atletico-PR,False,False,round16
 1996-03-28,Coritiba,1,2,Flamengo,False,False,round16
 1996-04-17,Flamengo,0,0,Coritiba,False,False,round16
-1996-04-16,Botafogo-RJ,0,0,Parana,False,False,round16
-1996-04-23,Parana,0,0,Botafogo-RJ,False,False,round16
+1996-04-16,Botafogo,0,0,Parana,False,False,round16
+1996-04-23,Parana,0,0,Botafogo,False,False,round16
 1996-05-09,Internacional-RS,3,2,Flamengo,False,False,quarter
 1996-05-16,Flamengo,3,1,Internacional-RS,False,False,quarter
 1996-04-24,Cruzeiro,4,0,Corinthians,False,False,quarter

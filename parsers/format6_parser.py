@@ -71,10 +71,18 @@ def format6_parser(text, year):
         if line.startswith("1/8 Finals") or line.lower().startswith("segunda fase"):
             stage = "round16"
 
-        if line.startswith("Quarterfinals") or line.startswith("Quarterfinal") or line.lower().startswith("terceira fase"):
+        if (
+            line.startswith("Quarterfinals")
+            or line.startswith("Quarterfinal")
+            or line.lower().startswith("terceira fase")
+        ):
             stage = "quarter"
 
-        if line.startswith("Semifinals") or line.startswith("Semifinal") or line.lower().startswith("semi final"):
+        if (
+            line.startswith("Semifinals")
+            or line.startswith("Semifinal")
+            or line.lower().startswith("semi final")
+        ):
             stage = "semi"
 
         if line.lower().startswith("final"):

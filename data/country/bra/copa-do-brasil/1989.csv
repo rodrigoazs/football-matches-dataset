@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-19,Flamengo-RJ,2,0,Paysandu-PA,False,False,first
-1989-07-19,Rio Negro-AM,1,1,Vasco-RJ,False,False,first
+1989-07-19,Rio Negro-AM,1,1,Vasco da Gama,False,False,first
 1989-07-19,Vitória-BA,2,0,Avaí-SC,False,False,first
 1989-07-19,Guarani-SP,3,1,Flamengo-PI,False,False,first
 1989-07-19,Fortaleza-CE,0,0,Sport-PE,False,False,first
@@ -15,7 +15,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-19,Pinheiros-PR,0,1,Mixto-MT,False,False,first
 1989-07-19,Cruzeiro-MG,0,0,Botafogo-PB,False,False,first
 1989-07-19,Confiança-SE,0,1,Bahia-BA,False,False,first
-1989-07-22,Vasco-RJ,2,1,Rio Negro-AM,False,False,first
+1989-07-22,Vasco da Gama,2,1,Rio Negro-AM,False,False,first
 1989-07-22,Avaí-SC,1,0,Vitória-BA,False,False,first
 1989-07-22,Flamengo-PI,1,1,Guarani-SP,False,False,first
 1989-07-22,Sport-PE,1,0,Fortaleza-CE,False,False,first
@@ -31,7 +31,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-22,Botafogo-PB,1,1,Cruzeiro-MG,False,False,first
 1989-07-22,Bahia-BA,1,0,Confiança-SE,False,False,first
 1989-07-23,Corinthians-SP,1,0,Sampaio Corrêa-MA,False,False,first
-1989-07-26,Vitória-BA,0,0,Vasco-RJ,False,False,round16
+1989-07-26,Vitória-BA,0,0,Vasco da Gama,False,False,round16
 1989-07-26,Blumenau-SC,1,3,Flamengo-RJ,False,False,round16
 1989-07-26,Internacional-RS,0,0,Goiás-GO,False,False,round16
 1989-07-26,Náutico-PE,1,1,Atlético-MG,False,False,round16
@@ -39,7 +39,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-26,Cruzeiro-MG,1,0,Bahia-BA,False,False,round16
 1989-07-26,Mixto-MT,0,5,Grêmio-RS,False,False,round16
 1989-07-27,Corinthians-SP,5,0,Tiradentes-DF,False,False,round16
-1989-07-22,Vasco-RJ,1,2,Vitória-BA,False,False,round16
+1989-07-22,Vasco da Gama,1,2,Vitória-BA,False,False,round16
 1989-07-22,Flamengo-RJ,3,1,Blumenau-SC,False,False,round16
 1989-07-22,Goiás-GO,4,0,Internacional-RS,False,False,round16
 1989-07-22,Atlético-MG,3,0,Náutico-PE,False,False,round16

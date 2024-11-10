@@ -1,381 +1,381 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-Fortaleza,0.0,2,Athletico-PR,,False,False,first
-Coritiba,0.0,1,Internacional,False,False,first,
-Sport,3.0,2,Ceará,False,False,first,
-Flamengo,0.0,1,Atlético-MG,False,False,first,
-Santos,1.0,1,Bragantino,False,False,first,
-Grêmio,1.0,0,Fluminense,False,False,first,
-Botafogo,1.0,2,Bahia,False,False,first,
-Corinthians,0.0,0,Atlético-GO,False,False,first,
-Goiás,0.0,3,São Paulo,False,False,first,
-Palmeiras,1.0,1,Vasco da Gama,False,False,first,
-Bragantino,1.0,1,Botafogo,False,False,first,
-Athletico-PR,,2,1,Goiás,False,False,first
-Atlético-MG,3.0,2,Corinthians,False,False,first,
-Atlético-GO,3.0,0,Flamengo,False,False,first,
-Bahia,1.0,0,Coritiba,False,False,first,
-Ceará,1.0,1,Grêmio,False,False,first,
-Fluminense,1.0,1,Palmeiras,False,False,first,
-São Paulo,1.0,0,Fortaleza,False,False,first,
-Internacional,2.0,0,Santos,False,False,first,
-Vasco da Gama,2.0,0,Sport,False,False,first,
-Grêmio,0.0,0,Corinthians,False,False,first,
-Coritiba,0.0,1,Flamengo,False,False,first,
-Palmeiras,1.0,1,Goiás,False,False,first,
-Atlético-MG,2.0,0,Ceará,False,False,first,
-Vasco da Gama,2.0,1,São Paulo,False,False,first,
-Bahia,2.0,1,Bragantino,False,False,first,
-Fluminense,2.0,1,Internacional,False,False,first,
-Atlético-GO,1.0,1,Sport,False,False,first,
-Fortaleza,0.0,0,Botafogo,False,False,first,
-Santos,3.0,1,Athletico-PR,,False,False,first
-Flamengo,1.0,1,Grêmio,False,False,first,
-Bragantino,2.0,1,Fluminense,False,False,first,
-Athletico-PR,,0,1,Palmeiras,False,False,first
-Goiás,1.0,3,Fortaleza,False,False,first,
-Internacional,3.0,0,Atlético-GO,False,False,first,
-Botafogo,2.0,1,Atlético-MG,False,False,first,
-Corinthians,3.0,1,Coritiba,False,False,first,
-Sport,0.0,1,Santos,False,False,first,
-São Paulo,1.0,1,Bahia,False,False,first,
-Ceará,0.0,3,Vasco da Gama,False,False,first,
-Athletico-PR,,0,1,Fluminense,False,False,first
-Internacional,1.0,0,Atlético-MG,False,False,first,
-Goiás,2.0,0,Atlético-GO,False,False,first,
-Flamengo,1.0,1,Botafogo,False,False,first,
-Vasco da Gama,0.0,0,Grêmio,False,False,first,
-Palmeiras,2.0,1,Santos,False,False,first,
-Bragantino,1.0,2,Coritiba,False,False,first,
-Sport,0.0,1,São Paulo,False,False,first,
-Ceará,2.0,0,Bahia,False,False,first,
-Corinthians,1.0,1,Fortaleza,False,False,first,
-Botafogo,0.0,2,Internacional,False,False,first,
-Fluminense,2.0,1,Vasco da Gama,False,False,first,
-Bahia,1.0,1,Palmeiras,False,False,first,
-Fortaleza,3.0,0,Bragantino,False,False,first,
-São Paulo,2.0,1,Corinthians,False,False,first,
-Santos,0.0,1,Flamengo,False,False,first,
-Coritiba,1.0,0,Sport,False,False,first,
-Atlético-GO,0.0,2,Ceará,False,False,first,
-Atlético-MG,0.0,2,Athletico-PR,,False,False,first
-Grêmio,2.0,1,Goiás,False,False,first,
-Ceará,1.0,0,Fortaleza,False,False,first,
-Fluminense,1.0,1,Atlético-GO,False,False,first,
-Goiás,1.0,2,Corinthians,False,False,first,
-Athletico-PR,,1,1,Bragantino,False,False,first
-Bahia,3.0,5,Flamengo,False,False,first,
-Botafogo,0.0,0,Coritiba,False,False,first,
-Palmeiras,1.0,1,Internacional,False,False,first,
-Santos,2.0,2,Vasco da Gama,False,False,first,
-Grêmio,1.0,2,Sport,False,False,first,
-Atlético-MG,3.0,0,São Paulo,False,False,first,
-Flamengo,2.0,1,Fortaleza,False,False,first,
-Corinthians,2.0,2,Botafogo,False,False,first,
-Ceará,0.0,1,Santos,False,False,first,
-Bragantino,1.0,2,Palmeiras,False,False,first,
-Internacional,2.0,2,Bahia,False,False,first,
-São Paulo,3.0,1,Fluminense,False,False,first,
-Vasco da Gama,1.0,0,Athletico-PR,,False,False,first
-Atlético-GO,1.0,1,Grêmio,False,False,first,
-Coritiba,0.0,1,Atlético-MG,False,False,first,
-Sport,2.0,1,Goiás,False,False,first,
-Athletico-PR,,1,1,Botafogo,False,False,first
-Goiás,3.0,3,Coritiba,False,False,first,
-Fortaleza,1.0,0,Sport,False,False,first,
-São Paulo,1.0,1,Bragantino,False,False,first,
-Fluminense,1.0,2,Flamengo,False,False,first,
-Santos,3.0,1,Atlético-MG,False,False,first,
-Corinthians,0.0,2,Palmeiras,False,False,first,
-Internacional,2.0,0,Ceará,False,False,first,
-Bahia,0.0,2,Grêmio,False,False,first,
-Vasco da Gama,1.0,2,Atlético-GO,False,False,first,
-Athletico-PR,,1,0,Coritiba,False,False,first
-Santos,2.0,2,São Paulo,False,False,first,
-Fluminense,2.0,1,Corinthians,False,False,first,
-Grêmio,1.0,1,Fortaleza,False,False,first,
-Atlético-MG,2.0,1,Bragantino,False,False,first,
-Bahia,0.0,1,Atlético-GO,False,False,first,
-Ceará,2.0,0,Flamengo,False,False,first,
-Goiás,1.0,0,Internacional,False,False,first,
-Palmeiras,2.0,2,Sport,False,False,first,
-Botafogo,2.0,3,Vasco da Gama,False,False,first,
-São Paulo,1.0,0,Athletico-PR,,False,False,first
-Corinthians,3.0,2,Bahia,False,False,first,
-Fortaleza,1.0,0,Internacional,False,False,first,
-Bragantino,4.0,2,Ceará,False,False,first,
-Atlético-GO,3.0,4,Atlético-MG,False,False,first,
-Grêmio,1.0,1,Palmeiras,False,False,first,
-Coritiba,1.0,0,Vasco da Gama,False,False,first,
-Botafogo,0.0,0,Santos,False,False,first,
-Sport,1.0,0,Fluminense,False,False,first,
-Flamengo,2.0,1,Goiás,False,False,first,
-Sport,1.0,0,Corinthians,False,False,first,
-Internacional,1.0,1,São Paulo,False,False,first,
-Athletico-PR,,1,0,Bahia,False,False,first
-Atlético-MG,3.0,1,Grêmio,False,False,first,
-Vasco da Gama,1.0,1,Bragantino,False,False,first,
-Palmeiras,1.0,1,Flamengo,False,False,first,
-Ceará,2.0,2,Goiás,False,False,first,
-Atlético-GO,1.0,1,Botafogo,False,False,first,
-Santos,1.0,1,Fortaleza,False,False,first,
-Fluminense,4.0,0,Coritiba,False,False,first,
-Grêmio,1.0,1,Internacional,False,False,first,
-Palmeiras,2.0,1,Ceará,False,False,first,
-Bragantino,0.0,0,Corinthians,False,False,first,
-Botafogo,1.0,1,Fluminense,False,False,first,
-Coritiba,1.0,1,São Paulo,False,False,first,
-Flamengo,3.0,1,Athletico-PR,,False,False,first
-Bahia,1.0,2,Sport,False,False,first,
-Fortaleza,0.0,0,Atlético-GO,False,False,first,
-Goiás,2.0,3,Santos,False,False,first,
-Atlético-MG,4.0,1,Vasco da Gama,False,False,first,
-Corinthians,1.0,1,Santos,False,False,first,
-Flamengo,3.0,0,Sport,False,False,first,
-Bahia,3.0,0,Vasco da Gama,False,False,first,
-Grêmio,2.0,1,Coritiba,False,False,first,
-São Paulo,3.0,0,Atlético-GO,False,False,first,
-Goiás,2.0,4,Fluminense,False,False,first,
-Botafogo,2.0,1,Palmeiras,False,False,first,
-Fortaleza,2.0,1,Atlético-MG,False,False,first,
-Athletico-PR,,0,0,Ceará,False,False,first
-Bragantino,0.0,2,Internacional,False,False,first,
-Vasco da Gama,1.0,2,Flamengo,False,False,first,
-Palmeiras,0.0,2,São Paulo,False,False,first,
-Coritiba,0.0,0,Fortaleza,False,False,first,
-Atlético-MG,3.0,0,Goiás,False,False,first,
-Santos,2.0,1,Grêmio,False,False,first,
-Fluminense,1.0,0,Bahia,False,False,first,
-Atlético-GO,2.0,1,Bragantino,False,False,first,
-Sport,1.0,2,Botafogo,False,False,first,
-Internacional,2.0,1,Athletico-PR,,False,False,first
-Ceará,2.0,1,Corinthians,False,False,first,
-Palmeiras,1.0,3,Coritiba,False,False,first,
-Grêmio,3.0,1,Botafogo,False,False,first,
-Santos,0.0,1,Atlético-GO,False,False,first,
-Athletico-PR,,0,1,Corinthians,False,False,first
-Atlético-MG,1.0,1,Fluminense,False,False,first,
-Sport,3.0,5,Internacional,False,False,first,
-Flamengo,1.0,1,Bragantino,False,False,first,
-Goiás,1.0,1,Bahia,False,False,first,
-Vasco da Gama,0.0,0,Fortaleza,False,False,first,
-Ceará,1.0,1,São Paulo,False,False,first,
-Atlético-GO,1.0,1,Athletico-PR,,False,False,first
-Fluminense,2.0,2,Ceará,False,False,first,
-Coritiba,1.0,2,Santos,False,False,first,
-São Paulo,0.0,0,Grêmio,False,False,first,
-Corinthians,1.0,5,Flamengo,False,False,first,
-Internacional,2.0,0,Vasco da Gama,False,False,first,
-Bragantino,2.0,0,Sport,False,False,first,
-Fortaleza,2.0,0,Palmeiras,False,False,first,
-Bahia,3.0,1,Atlético-MG,False,False,first,
-Botafogo,0.0,0,Goiás,False,False,first,
-Vasco da Gama,1.0,2,Corinthians,False,False,first,
-Bragantino,2.0,0,Goiás,False,False,first,
-Ceará,2.0,1,Coritiba,False,False,first,
-Atlético-MG,0.0,0,Sport,False,False,first,
-Atlético-GO,0.0,3,Palmeiras,False,False,first,
-Fluminense,3.0,1,Santos,False,False,first,
-Athletico-PR,,1,2,Grêmio,False,False,first
-Internacional,2.0,2,Flamengo,False,False,first,
-Bahia,2.0,1,Fortaleza,False,False,first,
-São Paulo,4.0,0,Botafogo,False,False,first,
-Botafogo,2.0,2,Ceará,False,False,first,
-Corinthians,1.0,0,Internacional,False,False,first,
-Coritiba,1.0,0,Atlético-GO,False,False,first,
-Fortaleza,0.0,1,Fluminense,False,False,first,
-Sport,1.0,0,Athletico-PR,,False,False,first
-Flamengo,1.0,4,São Paulo,False,False,first,
-Santos,3.0,1,Bahia,False,False,first,
-Goiás,1.0,1,Vasco da Gama,False,False,first,
-Palmeiras,3.0,0,Atlético-MG,False,False,first,
-Grêmio,2.0,1,Bragantino,False,False,first,
-Athletico-PR,,2,1,Fortaleza,False,False,first
-São Paulo,2.0,1,Goiás,False,False,first,
-Atlético-GO,1.0,1,Corinthians,False,False,first,
-Internacional,2.0,2,Coritiba,False,False,first,
-Vasco da Gama,0.0,1,Palmeiras,False,False,first,
-Bragantino,1.0,1,Santos,False,False,first,
-Atlético-MG,4.0,0,Flamengo,False,False,first,
-Bahia,1.0,0,Botafogo,False,False,first,
-Ceará,0.0,0,Sport,False,False,first,
-Fluminense,0.0,1,Grêmio,False,False,first,
-Sport,0.0,2,Vasco da Gama,False,False,first,
-Santos,2.0,0,Internacional,False,False,first,
-Goiás,0.0,1,Athletico-PR,,False,False,first
-Grêmio,4.0,2,Ceará,False,False,first,
-Fortaleza,2.0,3,São Paulo,False,False,first,
-Corinthians,1.0,2,Atlético-MG,False,False,first,
-Flamengo,1.0,1,Atlético-GO,False,False,first,
-Palmeiras,2.0,0,Fluminense,False,False,first,
-Coritiba,1.0,2,Bahia,False,False,first,
-Botafogo,1.0,2,Bragantino,False,False,first,
-Bragantino,4.0,0,Bahia,False,False,first,
-Athletico-PR,,1,0,Santos,False,False,first
-Flamengo,3.0,1,Coritiba,False,False,first,
-Goiás,1.0,0,Palmeiras,False,False,first,
-São Paulo,1.0,1,Vasco da Gama,False,False,first,
-Ceará,2.0,2,Atlético-MG,False,False,first,
-Botafogo,1.0,2,Fortaleza,False,False,first,
-Internacional,1.0,2,Fluminense,False,False,first,
-Corinthians,0.0,0,Grêmio,False,False,first,
-Sport,0.0,1,Atlético-GO,False,False,first,
-Atlético-MG,2.0,1,Botafogo,False,False,first,
-Coritiba,0.0,1,Corinthians,False,False,first,
-Fortaleza,1.0,1,Goiás,False,False,first,
-Palmeiras,3.0,0,Athletico-PR,,False,False,first
-Santos,4.0,2,Sport,False,False,first,
-Bahia,1.0,3,São Paulo,False,False,first,
-Atlético-GO,0.0,0,Internacional,False,False,first,
-Vasco da Gama,1.0,4,Ceará,False,False,first,
-Fluminense,0.0,0,Bragantino,False,False,first,
-Grêmio,2.0,4,Flamengo,False,False,first,
-Fortaleza,0.0,0,Corinthians,False,False,first,
-Botafogo,0.0,1,Flamengo,False,False,first,
-Santos,2.0,2,Palmeiras,False,False,first,
-Fluminense,3.0,1,Athletico-PR,,False,False,first
-Bahia,0.0,2,Ceará,False,False,first,
-Coritiba,0.0,0,Bragantino,False,False,first,
-Grêmio,4.0,0,Vasco da Gama,False,False,first,
-São Paulo,1.0,0,Sport,False,False,first,
-Atlético-MG,2.0,2,Internacional,False,False,first,
-Atlético-GO,0.0,1,Goiás,False,False,first,
-Bragantino,2.0,1,Fortaleza,False,False,first,
-Athletico-PR,,0,1,Atlético-MG,False,False,first
-Palmeiras,3.0,0,Bahia,False,False,first,
-Internacional,2.0,1,Botafogo,False,False,first,
-Ceará,1.0,2,Atlético-GO,False,False,first,
-Goiás,0.0,0,Grêmio,False,False,first,
-Flamengo,4.0,1,Santos,False,False,first,
-Corinthians,1.0,0,São Paulo,False,False,first,
-Sport,1.0,0,Coritiba,False,False,first,
-Vasco da Gama,1.0,1,Fluminense,False,False,first,
-São Paulo,3.0,0,Atlético-MG,False,False,first,
-Atlético-GO,2.0,1,Fluminense,False,False,first,
-Sport,1.0,1,Grêmio,False,False,first,
-Internacional,2.0,0,Palmeiras,False,False,first,
-Coritiba,1.0,2,Botafogo,False,False,first,
-Bragantino,0.0,1,Athletico-PR,,False,False,first
-Vasco da Gama,1.0,0,Santos,False,False,first,
-Flamengo,4.0,3,Bahia,False,False,first,
-Fortaleza,0.0,2,Ceará,False,False,first,
-Corinthians,2.0,1,Goiás,False,False,first,
-Atlético-MG,2.0,0,Coritiba,False,False,first,
-Fortaleza,0.0,0,Flamengo,False,False,first,
-Goiás,1.0,0,Sport,False,False,first,
-Fluminense,1.0,2,São Paulo,False,False,first,
-Botafogo,0.0,2,Corinthians,False,False,first,
-Bahia,1.0,2,Internacional,False,False,first,
-Palmeiras,1.0,0,Bragantino,False,False,first,
-Santos,1.0,1,Ceará,False,False,first,
-Athletico-PR,,3,0,Vasco da Gama,False,False,first
-Grêmio,2.0,1,Atlético-GO,False,False,first,
-Botafogo,0.0,2,Athletico-PR,,False,False,first
-Grêmio,2.0,1,Bahia,False,False,first,
-Coritiba,1.0,2,Goiás,False,False,first,
-Sport,1.0,0,Fortaleza,False,False,first,
-Flamengo,1.0,2,Fluminense,False,False,first,
-Bragantino,4.0,2,São Paulo,False,False,first,
-Ceará,0.0,2,Internacional,False,False,first,
-Atlético-GO,0.0,0,Vasco da Gama,False,False,first,
-Palmeiras,4.0,0,Corinthians,False,False,first,
-Atlético-MG,2.0,0,Santos,False,False,first,
-Coritiba,0.0,0,Athletico-PR,,False,False,first
-Sport,0.0,1,Palmeiras,False,False,first,
-Fortaleza,0.0,0,Grêmio,False,False,first,
-Flamengo,0.0,2,Ceará,False,False,first,
-São Paulo,0.0,1,Santos,False,False,first,
-Internacional,1.0,0,Goiás,False,False,first,
-Atlético-GO,1.0,1,Bahia,False,False,first,
-Vasco da Gama,3.0,0,Botafogo,False,False,first,
-Bragantino,2.0,2,Atlético-MG,False,False,first,
-Corinthians,5.0,0,Fluminense,False,False,first,
-Palmeiras,1.0,1,Grêmio,False,False,first,
-Fluminense,1.0,0,Sport,False,False,first,
-Vasco da Gama,0.0,1,Coritiba,False,False,first,
-Santos,2.0,1,Botafogo,False,False,first,
-Athletico-PR,,1,1,São Paulo,False,False,first
-Atlético-MG,3.0,1,Atlético-GO,False,False,first,
-Internacional,4.0,2,Fortaleza,False,False,first,
-Ceará,1.0,2,Bragantino,False,False,first,
-Goiás,0.0,3,Flamengo,False,False,first,
-Bahia,2.0,1,Corinthians,False,False,first,
-Botafogo,1.0,3,Atlético-GO,False,False,first,
-Bahia,1.0,0,Athletico-PR,,False,False,first
-Grêmio,1.0,1,Atlético-MG,False,False,first,
-Coritiba,3.0,3,Fluminense,False,False,first,
-São Paulo,1.0,5,Internacional,False,False,first,
-Bragantino,4.0,1,Vasco da Gama,False,False,first,
-Goiás,0.0,4,Ceará,False,False,first,
-Fortaleza,2.0,0,Santos,False,False,first,
-Flamengo,2.0,0,Palmeiras,False,False,first,
-Corinthians,3.0,0,Sport,False,False,first,
-São Paulo,1.0,1,Coritiba,False,False,first,
-Vasco da Gama,3.0,2,Atlético-MG,False,False,first,
-Athletico-PR,,2,1,Flamengo,False,False,first
-Ceará,2.0,1,Palmeiras,False,False,first,
-Internacional,2.0,1,Grêmio,False,False,first,
-Sport,2.0,0,Bahia,False,False,first,
-Atlético-GO,2.0,0,Fortaleza,False,False,first,
-Santos,3.0,4,Goiás,False,False,first,
-Fluminense,2.0,0,Botafogo,False,False,first,
-Corinthians,0.0,2,Bragantino,False,False,first,
-Coritiba,1.0,1,Grêmio,False,False,first,
-Ceará,0.0,2,Athletico-PR,,False,False,first
-Atlético-GO,2.0,1,São Paulo,False,False,first,
-Vasco da Gama,0.0,0,Bahia,False,False,first,
-Atlético-MG,2.0,0,Fortaleza,False,False,first,
-Internacional,2.0,1,Bragantino,False,False,first,
-Fluminense,3.0,0,Goiás,False,False,first,
-Sport,0.0,3,Flamengo,False,False,first,
-Palmeiras,1.0,1,Botafogo,False,False,first,
-Santos,1.0,0,Corinthians,False,False,first,
-Grêmio,3.0,3,Santos,False,False,first,
-Bragantino,2.0,0,Atlético-GO,False,False,first,
-Bahia,0.0,1,Fluminense,False,False,first,
-Goiás,1.0,0,Atlético-MG,False,False,first,
-Corinthians,2.0,1,Ceará,False,False,first,
-Fortaleza,3.0,1,Coritiba,False,False,first,
-Flamengo,2.0,0,Vasco da Gama,False,False,first,
-Athletico-PR,,0,0,Internacional,False,False,first
-Botafogo,0.0,1,Sport,False,False,first,
-São Paulo,1.0,1,Palmeiras,False,False,first,
-Bahia,3.0,3,Goiás,False,False,first,
-Atlético-GO,1.0,1,Santos,False,False,first,
-Bragantino,1.0,1,Flamengo,False,False,first,
-Botafogo,2.0,5,Grêmio,False,False,first,
-Internacional,1.0,2,Sport,False,False,first,
-Fortaleza,3.0,0,Vasco da Gama,False,False,first,
-São Paulo,1.0,1,Ceará,False,False,first,
-Corinthians,3.0,3,Athletico-PR,,False,False,first
-Fluminense,0.0,0,Atlético-MG,False,False,first,
-Coritiba,1.0,0,Palmeiras,False,False,first,
-Goiás,2.0,0,Botafogo,False,False,first,
-Atlético-MG,1.0,1,Bahia,False,False,first,
-Santos,2.0,0,Coritiba,False,False,first,
-Vasco da Gama,0.0,2,Internacional,False,False,first,
-Flamengo,2.0,1,Corinthians,False,False,first,
-Palmeiras,3.0,0,Fortaleza,False,False,first,
-Athletico-PR,,2,1,Atlético-GO,False,False,first
-Grêmio,1.0,2,São Paulo,False,False,first,
-Ceará,1.0,3,Fluminense,False,False,first,
-Sport,0.0,0,Bragantino,False,False,first,
-Coritiba,0.0,2,Ceará,False,False,first,
-Fortaleza,0.0,4,Bahia,False,False,first,
-Flamengo,2.0,1,Internacional,False,False,first,
-Corinthians,0.0,0,Vasco da Gama,False,False,first,
-Sport,2.0,3,Atlético-MG,False,False,first,
-Santos,1.0,1,Fluminense,False,False,first,
-Grêmio,1.0,0,Athletico-PR,,False,False,first
-Goiás,0.0,0,Bragantino,False,False,first,
-Palmeiras,1.0,1,Atlético-GO,False,False,first,
-Botafogo,1.0,0,São Paulo,False,False,first,
-Fluminense,2.0,0,Fortaleza,False,False,first,
-Vasco da Gama,3.0,2,Goiás,False,False,first,
-Athletico-PR,,2,0,Sport,False,False,first
-Ceará,2.0,1,Botafogo,False,False,first,
-Bragantino,1.0,0,Grêmio,False,False,first,
-Bahia,2.0,0,Santos,False,False,first,
-Atlético-GO,3.0,1,Coritiba,False,False,first,
-Atlético-MG,2.0,0,Palmeiras,False,False,first,
-São Paulo,2.0,1,Flamengo,False,False,first,
-Internacional,0.0,0,Corinthians,False,False,first,
+2020-08-08,Fortaleza,0,2,Athletico/PR,False,False,first
+2020-08-08,Coritiba,0,1,Internacional,False,False,first
+2020-08-08,Sport,3,2,Ceará,False,False,first
+2020-08-09,Flamengo,0,1,Atlético-MG,False,False,first
+2020-08-09,Santos,1,1,Bragantino,False,False,first
+2020-08-09,Grêmio,1,0,Fluminense,False,False,first
+2020-09-30,Botafogo,1,2,Bahia,False,False,first
+2020-09-30,Corinthians,0,0,Atlético-GO,False,False,first
+2020-12-03,Goiás,0,3,São Paulo,False,False,first
+2020-12-03,Palmeiras,1,1,Vasco da Gama,False,False,first
+2020-08-12,Bragantino,1,1,Botafogo,False,False,first
+2020-08-12,Athletico/PR,2,1,Goiás,False,False,first
+2020-08-12,Atlético-MG,3,2,Corinthians,False,False,first
+2020-08-12,Atlético-GO,3,0,Flamengo,False,False,first
+2020-08-12,Bahia,1,0,Coritiba,False,False,first
+2020-08-12,Ceará,1,1,Grêmio,False,False,first
+2020-08-12,Fluminense,1,1,Palmeiras,False,False,first
+2020-08-13,São Paulo,1,0,Fortaleza,False,False,first
+2020-08-13,Internacional,2,0,Santos,False,False,first
+2020-08-13,Vasco da Gama,2,0,Sport,False,False,first
+2020-08-15,Grêmio,0,0,Corinthians,False,False,first
+2020-08-15,Coritiba,0,1,Flamengo,False,False,first
+2020-08-15,Palmeiras,1,1,Goiás,False,False,first
+2020-08-16,Atlético-MG,2,0,Ceará,False,False,first
+2020-08-16,Vasco da Gama,2,1,São Paulo,False,False,first
+2020-08-16,Bahia,2,1,Bragantino,False,False,first
+2020-08-16,Fluminense,2,1,Internacional,False,False,first
+2020-08-16,Atlético-GO,1,1,Sport,False,False,first
+2020-08-16,Fortaleza,0,0,Botafogo,False,False,first
+2020-08-16,Santos,3,1,Athletico/PR,False,False,first
+2020-08-19,Flamengo,1,1,Grêmio,False,False,first
+2020-08-19,Bragantino,2,1,Fluminense,False,False,first
+2020-08-19,Athletico/PR,0,1,Palmeiras,False,False,first
+2020-08-19,Goiás,1,3,Fortaleza,False,False,first
+2020-08-19,Internacional,3,0,Atlético-GO,False,False,first
+2020-08-19,Botafogo,2,1,Atlético-MG,False,False,first
+2020-08-19,Corinthians,3,1,Coritiba,False,False,first
+2020-08-20,Sport,0,1,Santos,False,False,first
+2020-08-20,São Paulo,1,1,Bahia,False,False,first
+2020-08-20,Ceará,0,3,Vasco da Gama,False,False,first
+2020-08-22,Athletico/PR,0,1,Fluminense,False,False,first
+2020-08-22,Internacional,1,0,Atlético-MG,False,False,first
+2020-08-22,Goiás,2,0,Atlético-GO,False,False,first
+2020-08-23,Flamengo,1,1,Botafogo,False,False,first
+2020-08-23,Vasco da Gama,0,0,Grêmio,False,False,first
+2020-08-23,Palmeiras,2,1,Santos,False,False,first
+2020-08-23,Bragantino,1,2,Coritiba,False,False,first
+2020-08-23,Sport,0,1,São Paulo,False,False,first
+2020-08-23,Ceará,2,0,Bahia,False,False,first
+2020-08-26,Corinthians,1,1,Fortaleza,False,False,first
+2020-08-29,Botafogo,0,2,Internacional,False,False,first
+2020-08-29,Fluminense,2,1,Vasco da Gama,False,False,first
+2020-08-29,Bahia,1,1,Palmeiras,False,False,first
+2020-08-29,Fortaleza,3,0,Bragantino,False,False,first
+2020-08-30,São Paulo,2,1,Corinthians,False,False,first
+2020-08-30,Santos,0,1,Flamengo,False,False,first
+2020-08-30,Coritiba,1,0,Sport,False,False,first
+2020-08-30,Atlético-GO,0,2,Ceará,False,False,first
+2020-11-18,Atlético-MG,0,2,Athletico/PR,False,False,first
+2020-11-30,Grêmio,2,1,Goiás,False,False,first
+2020-09-02,Ceará,1,0,Fortaleza,False,False,first
+2020-09-02,Fluminense,1,1,Atlético-GO,False,False,first
+2020-09-02,Goiás,1,2,Corinthians,False,False,first
+2020-09-02,Athletico/PR,1,1,Bragantino,False,False,first
+2020-09-02,Bahia,3,5,Flamengo,False,False,first
+2020-09-02,Botafogo,0,0,Coritiba,False,False,first
+2020-09-02,Palmeiras,1,1,Internacional,False,False,first
+2020-09-02,Santos,2,2,Vasco da Gama,False,False,first
+2020-09-03,Grêmio,1,2,Sport,False,False,first
+2020-09-03,Atlético-MG,3,0,São Paulo,False,False,first
+2020-09-05,Flamengo,2,1,Fortaleza,False,False,first
+2020-09-05,Corinthians,2,2,Botafogo,False,False,first
+2020-09-05,Ceará,0,1,Santos,False,False,first
+2020-09-06,Bragantino,1,2,Palmeiras,False,False,first
+2020-09-06,Internacional,2,2,Bahia,False,False,first
+2020-09-06,São Paulo,3,1,Fluminense,False,False,first
+2020-09-06,Vasco da Gama,1,0,Athletico/PR,False,False,first
+2020-09-06,Atlético-GO,1,1,Grêmio,False,False,first
+2020-09-06,Coritiba,0,1,Atlético-MG,False,False,first
+2020-09-06,Sport,2,1,Goiás,False,False,first
+2020-09-09,Athletico/PR,1,1,Botafogo,False,False,first
+2020-09-09,Goiás,3,3,Coritiba,False,False,first
+2020-09-09,Fortaleza,1,0,Sport,False,False,first
+2020-09-09,São Paulo,1,1,Bragantino,False,False,first
+2020-09-09,Fluminense,1,2,Flamengo,False,False,first
+2020-09-09,Santos,3,1,Atlético-MG,False,False,first
+2020-09-10,Corinthians,0,2,Palmeiras,False,False,first
+2020-09-10,Internacional,2,0,Ceará,False,False,first
+2020-09-10,Bahia,0,2,Grêmio,False,False,first
+2020-09-10,Vasco da Gama,1,2,Atlético-GO,False,False,first
+2020-09-12,Athletico/PR,1,0,Coritiba,False,False,first
+2020-09-12,Santos,2,2,São Paulo,False,False,first
+2020-09-13,Fluminense,2,1,Corinthians,False,False,first
+2020-09-13,Grêmio,1,1,Fortaleza,False,False,first
+2020-09-13,Atlético-MG,2,1,Bragantino,False,False,first
+2020-09-13,Bahia,0,1,Atlético-GO,False,False,first
+2020-09-13,Ceará,2,0,Flamengo,False,False,first
+2020-09-13,Goiás,1,0,Internacional,False,False,first
+2020-09-13,Palmeiras,2,2,Sport,False,False,first
+2020-09-13,Botafogo,2,3,Vasco da Gama,False,False,first
+2020-08-26,São Paulo,1,0,Athletico/PR,False,False,first
+2020-09-16,Corinthians,3,2,Bahia,False,False,first
+2020-09-19,Fortaleza,1,0,Internacional,False,False,first
+2020-09-19,Bragantino,4,2,Ceará,False,False,first
+2020-09-19,Atlético-GO,3,4,Atlético-MG,False,False,first
+2020-09-20,Grêmio,1,1,Palmeiras,False,False,first
+2020-09-20,Coritiba,1,0,Vasco da Gama,False,False,first
+2020-09-20,Botafogo,0,0,Santos,False,False,first
+2020-09-20,Sport,1,0,Fluminense,False,False,first
+2020-10-13,Flamengo,2,1,Goiás,False,False,first
+2020-09-23,Sport,1,0,Corinthians,False,False,first
+2020-09-26,Internacional,1,1,São Paulo,False,False,first
+2020-09-26,Athletico/PR,1,0,Bahia,False,False,first
+2020-09-26,Atlético-MG,3,1,Grêmio,False,False,first
+2020-09-27,Vasco da Gama,1,1,Bragantino,False,False,first
+2020-09-27,Palmeiras,1,1,Flamengo,False,False,first
+2020-09-27,Ceará,2,2,Goiás,False,False,first
+2020-09-27,Atlético-GO,1,1,Botafogo,False,False,first
+2020-09-27,Santos,1,1,Fortaleza,False,False,first
+2020-09-28,Fluminense,4,0,Coritiba,False,False,first
+2020-10-03,Grêmio,1,1,Internacional,False,False,first
+2020-10-03,Palmeiras,2,1,Ceará,False,False,first
+2020-10-03,Bragantino,0,0,Corinthians,False,False,first
+2020-10-04,Botafogo,1,1,Fluminense,False,False,first
+2020-10-04,Coritiba,1,1,São Paulo,False,False,first
+2020-10-04,Flamengo,3,1,Athletico/PR,False,False,first
+2020-10-04,Bahia,1,2,Sport,False,False,first
+2020-10-04,Fortaleza,0,0,Atlético-GO,False,False,first
+2020-10-04,Goiás,2,3,Santos,False,False,first
+2020-10-04,Atlético-MG,4,1,Vasco da Gama,False,False,first
+2020-10-07,Corinthians,1,1,Santos,False,False,first
+2020-10-07,Flamengo,3,0,Sport,False,False,first
+2020-10-07,Bahia,3,0,Vasco da Gama,False,False,first
+2020-10-07,Grêmio,2,1,Coritiba,False,False,first
+2020-10-07,São Paulo,3,0,Atlético-GO,False,False,first
+2020-10-07,Goiás,2,4,Fluminense,False,False,first
+2020-10-07,Botafogo,2,1,Palmeiras,False,False,first
+2020-10-07,Fortaleza,2,1,Atlético-MG,False,False,first
+2020-10-08,Athletico/PR,0,0,Ceará,False,False,first
+2020-10-08,Bragantino,0,2,Internacional,False,False,first
+2020-10-10,Vasco da Gama,1,2,Flamengo,False,False,first
+2020-10-10,Palmeiras,0,2,São Paulo,False,False,first
+2020-10-10,Coritiba,0,0,Fortaleza,False,False,first
+2020-10-10,Atlético-MG,3,0,Goiás,False,False,first
+2020-10-11,Santos,2,1,Grêmio,False,False,first
+2020-10-11,Fluminense,1,0,Bahia,False,False,first
+2020-10-11,Atlético-GO,2,1,Bragantino,False,False,first
+2020-10-11,Sport,1,2,Botafogo,False,False,first
+2020-10-11,Internacional,2,1,Athletico/PR,False,False,first
+2020-10-11,Ceará,2,1,Corinthians,False,False,first
+2020-10-14,Palmeiras,1,3,Coritiba,False,False,first
+2020-10-14,Grêmio,3,1,Botafogo,False,False,first
+2020-10-14,Santos,0,1,Atlético-GO,False,False,first
+2020-10-14,Athletico/PR,0,1,Corinthians,False,False,first
+2020-10-14,Atlético-MG,1,1,Fluminense,False,False,first
+2020-10-14,Sport,3,5,Internacional,False,False,first
+2020-10-15,Flamengo,1,1,Bragantino,False,False,first
+2020-10-16,Goiás,1,1,Bahia,False,False,first
+2020-11-19,Vasco da Gama,0,0,Fortaleza,False,False,first
+2020-11-25,Ceará,1,1,São Paulo,False,False,first
+2020-10-17,Atlético-GO,1,1,Athletico/PR,False,False,first
+2020-10-17,Fluminense,2,2,Ceará,False,False,first
+2020-10-17,Coritiba,1,2,Santos,False,False,first
+2020-10-17,São Paulo,0,0,Grêmio,False,False,first
+2020-10-18,Corinthians,1,5,Flamengo,False,False,first
+2020-10-18,Internacional,2,0,Vasco da Gama,False,False,first
+2020-10-18,Bragantino,2,0,Sport,False,False,first
+2020-10-18,Fortaleza,2,0,Palmeiras,False,False,first
+2020-10-19,Bahia,3,1,Atlético-MG,False,False,first
+2020-10-19,Botafogo,0,0,Goiás,False,False,first
+2020-10-21,Vasco da Gama,1,2,Corinthians,False,False,first
+2020-10-24,Bragantino,2,0,Goiás,False,False,first
+2020-10-24,Ceará,2,1,Coritiba,False,False,first
+2020-10-24,Atlético-MG,0,0,Sport,False,False,first
+2020-10-25,Atlético-GO,0,3,Palmeiras,False,False,first
+2020-10-25,Fluminense,3,1,Santos,False,False,first
+2020-10-25,Athletico/PR,1,2,Grêmio,False,False,first
+2020-10-25,Internacional,2,2,Flamengo,False,False,first
+2020-11-11,Bahia,2,1,Fortaleza,False,False,first
+2020-12-09,São Paulo,4,0,Botafogo,False,False,first
+2020-10-31,Botafogo,2,2,Ceará,False,False,first
+2020-10-31,Corinthians,1,0,Internacional,False,False,first
+2020-10-31,Coritiba,1,0,Atlético-GO,False,False,first
+2020-10-31,Fortaleza,0,1,Fluminense,False,False,first
+2020-11-01,Sport,1,0,Athletico/PR,False,False,first
+2020-11-01,Flamengo,1,4,São Paulo,False,False,first
+2020-11-01,Santos,3,1,Bahia,False,False,first
+2020-11-01,Goiás,1,1,Vasco da Gama,False,False,first
+2020-11-02,Palmeiras,3,0,Atlético-MG,False,False,first
+2020-11-02,Grêmio,2,1,Bragantino,False,False,first
+2020-11-07,Athletico/PR,2,1,Fortaleza,False,False,first
+2020-11-07,São Paulo,2,1,Goiás,False,False,first
+2020-11-07,Atlético-GO,1,1,Corinthians,False,False,first
+2020-11-08,Internacional,2,2,Coritiba,False,False,first
+2020-11-08,Vasco da Gama,0,1,Palmeiras,False,False,first
+2020-11-08,Bragantino,1,1,Santos,False,False,first
+2020-11-08,Atlético-MG,4,0,Flamengo,False,False,first
+2020-11-08,Bahia,1,0,Botafogo,False,False,first
+2020-11-08,Ceará,0,0,Sport,False,False,first
+2020-11-08,Fluminense,0,1,Grêmio,False,False,first
+2020-11-14,Sport,0,2,Vasco da Gama,False,False,first
+2020-11-14,Santos,2,0,Internacional,False,False,first
+2020-11-14,Goiás,0,1,Athletico/PR,False,False,first
+2020-11-14,Grêmio,4,2,Ceará,False,False,first
+2020-11-14,Fortaleza,2,3,São Paulo,False,False,first
+2020-11-14,Corinthians,1,2,Atlético-MG,False,False,first
+2020-11-14,Flamengo,1,1,Atlético-GO,False,False,first
+2020-11-14,Palmeiras,2,0,Fluminense,False,False,first
+2020-11-16,Coritiba,1,2,Bahia,False,False,first
+2020-11-16,Botafogo,1,2,Bragantino,False,False,first
+2020-11-20,Bragantino,4,0,Bahia,False,False,first
+2020-11-21,Athletico/PR,1,0,Santos,False,False,first
+2020-11-21,Flamengo,3,1,Coritiba,False,False,first
+2020-11-21,Goiás,1,0,Palmeiras,False,False,first
+2020-11-22,São Paulo,1,1,Vasco da Gama,False,False,first
+2020-11-22,Ceará,2,2,Atlético-MG,False,False,first
+2020-11-22,Botafogo,1,2,Fortaleza,False,False,first
+2020-11-22,Internacional,1,2,Fluminense,False,False,first
+2020-11-22,Corinthians,0,0,Grêmio,False,False,first
+2020-11-23,Sport,0,1,Atlético-GO,False,False,first
+2020-11-25,Atlético-MG,2,1,Botafogo,False,False,first
+2020-11-25,Coritiba,0,1,Corinthians,False,False,first
+2020-11-26,Fortaleza,1,1,Goiás,False,False,first
+2020-11-28,Palmeiras,3,0,Athletico/PR,False,False,first
+2020-11-28,Santos,4,2,Sport,False,False,first
+2020-11-28,Bahia,1,3,São Paulo,False,False,first
+2020-11-28,Atlético-GO,0,0,Internacional,False,False,first
+2020-11-30,Vasco da Gama,1,4,Ceará,False,False,first
+2020-11-30,Fluminense,0,0,Bragantino,False,False,first
+2020-11-30,Grêmio,2,4,Flamengo,False,False,first
+2020-12-02,Fortaleza,0,0,Corinthians,False,False,first
+2020-12-05,Botafogo,0,1,Flamengo,False,False,first
+2020-12-05,Santos,2,2,Palmeiras,False,False,first
+2020-12-05,Fluminense,3,1,Athletico/PR,False,False,first
+2020-12-05,Bahia,0,2,Ceará,False,False,first
+2020-12-05,Coritiba,0,0,Bragantino,False,False,first
+2020-12-06,Grêmio,4,0,Vasco da Gama,False,False,first
+2020-12-06,São Paulo,1,0,Sport,False,False,first
+2020-12-06,Atlético-MG,2,2,Internacional,False,False,first
+2020-12-07,Atlético-GO,0,1,Goiás,False,False,first
+2020-12-12,Bragantino,2,1,Fortaleza,False,False,first
+2020-12-12,Athletico/PR,0,1,Atlético-MG,False,False,first
+2020-12-12,Palmeiras,3,0,Bahia,False,False,first
+2020-12-12,Internacional,2,1,Botafogo,False,False,first
+2020-12-12,Ceará,1,2,Atlético-GO,False,False,first
+2020-12-12,Goiás,0,0,Grêmio,False,False,first
+2020-12-13,Flamengo,4,1,Santos,False,False,first
+2020-12-13,Corinthians,1,0,São Paulo,False,False,first
+2020-12-13,Sport,1,0,Coritiba,False,False,first
+2020-12-13,Vasco da Gama,1,1,Fluminense,False,False,first
+2020-12-16,São Paulo,3,0,Atlético-MG,False,False,first
+2020-12-16,Atlético-GO,2,1,Fluminense,False,False,first
+2020-12-19,Sport,1,1,Grêmio,False,False,first
+2020-12-19,Internacional,2,0,Palmeiras,False,False,first
+2020-12-19,Coritiba,1,2,Botafogo,False,False,first
+2020-12-20,Bragantino,0,1,Athletico/PR,False,False,first
+2020-12-20,Vasco da Gama,1,0,Santos,False,False,first
+2020-12-20,Flamengo,4,3,Bahia,False,False,first
+2020-12-20,Fortaleza,0,2,Ceará,False,False,first
+2020-12-21,Corinthians,2,1,Goiás,False,False,first
+2020-12-26,Atlético-MG,2,0,Coritiba,False,False,first
+2020-12-26,Fortaleza,0,0,Flamengo,False,False,first
+2020-12-26,Goiás,1,0,Sport,False,False,first
+2020-12-26,Fluminense,1,2,São Paulo,False,False,first
+2020-12-27,Botafogo,0,2,Corinthians,False,False,first
+2020-12-27,Bahia,1,2,Internacional,False,False,first
+2020-12-27,Palmeiras,1,0,Bragantino,False,False,first
+2020-12-27,Santos,1,1,Ceará,False,False,first
+2020-12-27,Athletico/PR,3,0,Vasco da Gama,False,False,first
+2020-12-27,Grêmio,2,1,Atlético-GO,False,False,first
+2020-01-06,Botafogo,0,2,Athletico/PR,False,False,first
+2020-01-06,Grêmio,2,1,Bahia,False,False,first
+2020-01-06,Coritiba,1,2,Goiás,False,False,first
+2020-01-06,Sport,1,0,Fortaleza,False,False,first
+2020-01-06,Flamengo,1,2,Fluminense,False,False,first
+2020-01-06,Bragantino,4,2,São Paulo,False,False,first
+2020-01-07,Ceará,0,2,Internacional,False,False,first
+2020-01-07,Atlético-GO,0,0,Vasco da Gama,False,False,first
+2020-01-18,Palmeiras,4,0,Corinthians,False,False,first
+2020-01-26,Atlético-MG,2,0,Santos,False,False,first
+2020-01-09,Coritiba,0,0,Athletico/PR,False,False,first
+2020-01-09,Sport,0,1,Palmeiras,False,False,first
+2020-01-09,Fortaleza,0,0,Grêmio,False,False,first
+2020-01-10,Flamengo,0,2,Ceará,False,False,first
+2020-01-10,São Paulo,0,1,Santos,False,False,first
+2020-01-10,Internacional,1,0,Goiás,False,False,first
+2020-01-10,Atlético-GO,1,1,Bahia,False,False,first
+2020-01-10,Vasco da Gama,3,0,Botafogo,False,False,first
+2020-01-11,Bragantino,2,2,Atlético-MG,False,False,first
+2020-01-13,Corinthians,5,0,Fluminense,False,False,first
+2020-01-15,Palmeiras,1,1,Grêmio,False,False,first
+2020-01-16,Fluminense,1,0,Sport,False,False,first
+2020-01-16,Vasco da Gama,0,1,Coritiba,False,False,first
+2020-01-17,Santos,2,1,Botafogo,False,False,first
+2020-01-17,Athletico/PR,1,1,São Paulo,False,False,first
+2020-01-17,Atlético-MG,3,1,Atlético-GO,False,False,first
+2020-01-17,Internacional,4,2,Fortaleza,False,False,first
+2020-01-17,Ceará,1,2,Bragantino,False,False,first
+2020-01-18,Goiás,0,3,Flamengo,False,False,first
+2020-01-28,Bahia,2,1,Corinthians,False,False,first
+2020-01-20,Botafogo,1,3,Atlético-GO,False,False,first
+2020-01-20,Bahia,1,0,Athletico/PR,False,False,first
+2020-01-20,Grêmio,1,1,Atlético-MG,False,False,first
+2020-01-20,Coritiba,3,3,Fluminense,False,False,first
+2020-01-20,São Paulo,1,5,Internacional,False,False,first
+2020-01-20,Bragantino,4,1,Vasco da Gama,False,False,first
+2020-01-21,Goiás,0,4,Ceará,False,False,first
+2020-01-21,Fortaleza,2,0,Santos,False,False,first
+2020-01-21,Flamengo,2,0,Palmeiras,False,False,first
+2020-01-21,Corinthians,3,0,Sport,False,False,first
+2020-01-23,São Paulo,1,1,Coritiba,False,False,first
+2020-01-23,Vasco da Gama,3,2,Atlético-MG,False,False,first
+2020-01-24,Athletico/PR,2,1,Flamengo,False,False,first
+2020-01-24,Ceará,2,1,Palmeiras,False,False,first
+2020-01-24,Internacional,2,1,Grêmio,False,False,first
+2020-01-24,Sport,2,0,Bahia,False,False,first
+2020-01-24,Atlético-GO,2,0,Fortaleza,False,False,first
+2020-01-24,Santos,3,4,Goiás,False,False,first
+2020-01-24,Fluminense,2,0,Botafogo,False,False,first
+2020-01-25,Corinthians,0,2,Bragantino,False,False,first
+2020-01-31,Coritiba,1,1,Grêmio,False,False,first
+2020-01-31,Ceará,0,2,Athletico/PR,False,False,first
+2020-01-31,Atlético-GO,2,1,São Paulo,False,False,first
+2020-01-31,Vasco da Gama,0,0,Bahia,False,False,first
+2020-01-31,Atlético-MG,2,0,Fortaleza,False,False,first
+2020-01-31,Internacional,2,1,Bragantino,False,False,first
+2020-01-31,Fluminense,3,0,Goiás,False,False,first
+2020-02-01,Sport,0,3,Flamengo,False,False,first
+2020-02-02,Palmeiras,1,1,Botafogo,False,False,first
+2020-02-17,Santos,1,0,Corinthians,False,False,first
+2020-02-03,Grêmio,3,3,Santos,False,False,first
+2020-02-03,Bragantino,2,0,Atlético-GO,False,False,first
+2020-02-03,Bahia,0,1,Fluminense,False,False,first
+2020-02-03,Goiás,1,0,Atlético-MG,False,False,first
+2020-02-03,Corinthians,2,1,Ceará,False,False,first
+2020-02-04,Fortaleza,3,1,Coritiba,False,False,first
+2020-02-04,Flamengo,2,0,Vasco da Gama,False,False,first
+2020-02-04,Athletico/PR,0,0,Internacional,False,False,first
+2020-02-05,Botafogo,0,1,Sport,False,False,first
+2020-02-19,São Paulo,1,1,Palmeiras,False,False,first
+2020-02-06,Bahia,3,3,Goiás,False,False,first
+2020-02-06,Atlético-GO,1,1,Santos,False,False,first
+2020-02-07,Bragantino,1,1,Flamengo,False,False,first
+2020-02-08,Botafogo,2,5,Grêmio,False,False,first
+2020-02-10,Internacional,1,2,Sport,False,False,first
+2020-02-10,Fortaleza,3,0,Vasco da Gama,False,False,first
+2020-02-10,São Paulo,1,1,Ceará,False,False,first
+2020-02-10,Corinthians,3,3,Athletico/PR,False,False,first
+2020-02-10,Fluminense,0,0,Atlético-MG,False,False,first
+2020-02-17,Coritiba,1,0,Palmeiras,False,False,first
+2020-02-13,Goiás,2,0,Botafogo,False,False,first
+2020-02-13,Atlético-MG,1,1,Bahia,False,False,first
+2020-02-13,Santos,2,0,Coritiba,False,False,first
+2020-02-14,Vasco da Gama,0,2,Internacional,False,False,first
+2020-02-14,Flamengo,2,1,Corinthians,False,False,first
+2020-02-14,Palmeiras,3,0,Fortaleza,False,False,first
+2020-02-14,Athletico/PR,2,1,Atlético-GO,False,False,first
+2020-02-14,Grêmio,1,2,São Paulo,False,False,first
+2020-02-15,Ceará,1,3,Fluminense,False,False,first
+2020-02-15,Sport,0,0,Bragantino,False,False,first
+2020-02-20,Coritiba,0,2,Ceará,False,False,first
+2020-02-20,Fortaleza,0,4,Bahia,False,False,first
+2020-02-21,Flamengo,2,1,Internacional,False,False,first
+2020-02-21,Corinthians,0,0,Vasco da Gama,False,False,first
+2020-02-21,Sport,2,3,Atlético-MG,False,False,first
+2020-02-21,Santos,1,1,Fluminense,False,False,first
+2020-02-21,Grêmio,1,0,Athletico/PR,False,False,first
+2020-02-21,Goiás,0,0,Bragantino,False,False,first
+2020-02-22,Palmeiras,1,1,Atlético-GO,False,False,first
+2020-02-22,Botafogo,1,0,São Paulo,False,False,first
+2020-02-25,Fluminense,2,0,Fortaleza,False,False,first
+2020-02-25,Vasco da Gama,3,2,Goiás,False,False,first
+2020-02-25,Athletico/PR,2,0,Sport,False,False,first
+2020-02-25,Ceará,2,1,Botafogo,False,False,first
+2020-02-25,Bragantino,1,0,Grêmio,False,False,first
+2020-02-25,Bahia,2,0,Santos,False,False,first
+2020-02-25,Atlético-GO,3,1,Coritiba,False,False,first
+2020-02-25,Atlético-MG,2,0,Palmeiras,False,False,first
+2020-02-25,São Paulo,2,1,Flamengo,False,False,first
+2020-02-25,Internacional,0,0,Corinthians,False,False,first

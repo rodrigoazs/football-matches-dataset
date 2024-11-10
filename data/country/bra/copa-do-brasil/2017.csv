@@ -27,7 +27,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-02-08,Rondoniense,0,2,Cuiabá,False,True,first
 2017-02-15,Itabaiana,2,4,Goiás,False,True,first
 2017-02-08,São Raimundo (RR),0,2,Boa,False,True,first
-2017-02-09,Santos (AP),0,2,Vasco,False,True,first
+2017-02-09,Santos (AP),0,2,Vasco da Gama,False,True,first
 2017-02-16,Fast Clube,1,1,Vila Nova,False,True,first
 2017-02-08,Luziânia,0,2,Vitória,False,True,first
 2017-02-15,Anápolis,0,0,Bragantino,False,True,first
@@ -53,7 +53,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-03-01,Avaí,1,1,Luverdense,False,True,second
 2017-03-02,Ponte Preta,1,1,Cuiabá,False,True,second
 2017-03-01,Boa,0,0,Goiás,False,True,second
-2017-03-01,Vila Nova,1,2,Vasco,False,True,second
+2017-03-01,Vila Nova,1,2,Vasco da Gama,False,True,second
 2017-02-22,Vitória,3,2,Bragantino,False,True,second
 2017-02-23,Coritiba,0,2,ASA,False,True,second
 2017-03-08,Paraná,2,0,Bahia,False,True,second
@@ -73,8 +73,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-03-16,Corinthians,1,1,Luverdense,False,False,third
 2017-03-08,Goiás,4,0,Cuiabá,False,False,third
 2017-03-16,Cuiabá,1,1,Goiás,False,False,third
-2017-03-09,Vasco,1,1,Vitória,False,False,third
-2017-03-16,Vitória,1,0,Vasco,False,False,third
+2017-03-09,Vasco da Gama,1,1,Vitória,False,False,third
+2017-03-16,Vitória,1,0,Vasco da Gama,False,False,third
 2017-03-16,ASA,0,0,Paraná,False,False,third
 2017-04-06,Paraná,0,0,ASA,False,False,third
 2017-03-08,São Paulo,3,1,ABC,False,False,third
