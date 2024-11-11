@@ -221,21 +221,21 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-10-09,Alecrim,0,0,Comercial-MS,False,False,first
 1986-09-06,River,2,2,Guarany,False,False,first
 1986-09-07,Rio Negro,1,1,América-RN,False,False,first
-1986-09-07,Moto Clube,1,0,Sport-PA,False,False,first
+1986-09-07,Moto Club,1,0,Sport-PA,False,False,first
 1986-09-07,Treze,1,0,Ferroviário,False,False,first
 1986-09-09,Sport-PA,0,0,Maranhão,False,False,first
 1986-09-10,Treze,1,0,Guarany,False,False,first
-1986-09-10,Moto Clube,1,0,América-RN,False,False,first
+1986-09-10,Moto Club,1,0,América-RN,False,False,first
 1986-09-11,River,1,1,Ferroviário,False,False,first
 1986-09-13,América-RN,0,0,Treze,False,False,first
 1986-09-14,Rio Negro,0,0,River,False,False,first
-1986-09-14,Maranhão,2,3,Moto Clube,False,False,first
+1986-09-14,Maranhão,2,3,Moto Club,False,False,first
 1986-09-14,Guarany,0,0,Ferroviário,False,False,first
 1986-09-18,Sport-PA,1,2,Treze,False,False,first
-1986-09-18,River,1,2,Moto Clube,False,False,first
+1986-09-18,River,1,2,Moto Club,False,False,first
 1986-09-18,Ferroviário,2,3,Maranhão,False,False,first
 1986-09-18,Guarany,1,0,Rio Negro,False,False,first
-1986-09-20,Moto Clube,0,1,Rio Negro,False,False,first
+1986-09-20,Moto Club,0,1,Rio Negro,False,False,first
 1986-09-21,América-RN,1,0,Sport-PA,False,False,first
 1986-09-21,Treze,2,0,River,False,False,first
 1986-09-21,Guarany,2,1,Maranhão,False,False,first
@@ -246,14 +246,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-09-27,Maranhão,0,0,Rio Negro,False,False,first
 1986-09-27,América-RN,3,0,Guarany,False,False,first
 1986-09-28,Ferroviário,3,1,Sport-PA,False,False,first
-1986-09-28,Treze,2,0,Moto Clube,False,False,first
+1986-09-28,Treze,2,0,Moto Club,False,False,first
 1986-10-02,River,0,4,América-RN,False,False,first
 1986-10-02,Rio Negro,2,0,Sport-PA,False,False,first
 1986-10-02,Maranhão,1,0,Treze,False,False,first
-1986-10-02,Moto Clube,1,1,Ferroviário,False,False,first
+1986-10-02,Moto Club,1,1,Ferroviário,False,False,first
 1986-10-02,América-RN,0,1,Maranhão,False,False,first
 1986-10-02,Sport-PA,2,2,River,False,False,first
-1986-10-02,Guarany,3,1,Moto Clube,False,False,first
+1986-10-02,Guarany,3,1,Moto Club,False,False,first
 1986-10-02,Ferroviário,0,1,Rio Negro,False,False,first
 1986-09-06,CRB,2,1,Taguatinga,False,False,first
 1986-09-07,Central,2,1,Desportiva,False,False,first

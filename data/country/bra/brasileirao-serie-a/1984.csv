@@ -80,7 +80,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1984-02-28,Santo André,1,0,Náutico,False,False,first
 1984-02-28,Grêmio,5,0,Coritiba,False,False,first
 1984-01-28,Flamengo,1,0,Palmeiras,False,False,first
-1984-01-29,Brasília,0,2,Operario-MS,False,False,first
+1984-01-29,Brasília,0,2,Operário-MS,False,False,first
 1984-01-31,Palmeiras,3,1,Goiás,False,False,first
 1984-02-02,Brasília,0,2,Flamengo,False,False,first
 1984-02-05,Goiás,0,0,Flamengo,False,False,first
@@ -140,24 +140,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1984-02-28,Internacional,1,1,Joinville,False,False,first
 1984-02-28,Anapolina,0,0,Corinthians,False,False,first
 1984-01-29,Santa Cruz,0,0,Portuguesa-SP,False,False,first
-1984-01-29,Auto Esporte-PI,4,2,Moto Clube,False,False,first
+1984-01-29,Auto Esporte-PI,4,2,Moto Club,False,False,first
 1984-02-01,Portuguesa-SP,0,1,Botafogo,False,False,first
 1984-02-01,Auto Esporte-PI,0,1,Santa Cruz,False,False,first
-1984-02-05,Moto Clube,0,1,Portuguesa-SP,False,False,first
+1984-02-05,Moto Club,0,1,Portuguesa-SP,False,False,first
 1984-02-05,Botafogo,0,1,Santa Cruz,False,False,first
-1984-02-08,Santa Cruz,3,1,Moto Clube,False,False,first
+1984-02-08,Santa Cruz,3,1,Moto Club,False,False,first
 1984-02-09,Botafogo,2,0,Auto Esporte-PI,False,False,first
-1984-02-12,Moto Clube,1,1,Botafogo,False,False,first
+1984-02-12,Moto Club,1,1,Botafogo,False,False,first
 1984-02-12,Portuguesa-SP,5,0,Auto Esporte-PI,False,False,first
 1984-02-15,Auto Esporte-PI,1,2,Botafogo,False,False,first
-1984-02-15,Moto Clube,2,2,Santa Cruz,False,False,first
+1984-02-15,Moto Club,2,2,Santa Cruz,False,False,first
 1984-02-18,Portuguesa-SP,0,0,Santa Cruz,False,False,first
-1984-02-19,Moto Clube,0,1,Auto Esporte-PI,False,False,first
-1984-02-22,Botafogo,0,1,Moto Clube,False,False,first
+1984-02-19,Moto Club,0,1,Auto Esporte-PI,False,False,first
+1984-02-22,Botafogo,0,1,Moto Club,False,False,first
 1984-02-22,Auto Esporte-PI,3,2,Portuguesa-SP,False,False,first
 1984-02-25,Botafogo,0,0,Portuguesa-SP,False,False,first
 1984-02-26,Santa Cruz,3,1,Auto Esporte-PI,False,False,first
-1984-02-28,Portuguesa-SP,2,0,Moto Clube,False,False,first
+1984-02-28,Portuguesa-SP,2,0,Moto Club,False,False,first
 1984-02-28,Santa Cruz,1,2,Botafogo,False,False,first
 1984-03-02,Tuna Luso,0,1,Treze,False,True,relegation
 1984-03-02,Coritiba,3,1,Ferroviário,False,True,relegation

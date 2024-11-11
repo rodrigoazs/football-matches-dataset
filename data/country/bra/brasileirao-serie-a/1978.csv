@@ -289,7 +289,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-05-14,Itabuna,2,1,Sergipe,False,False,first
 1978-03-26,América-SP,3,0,Flamengo-PI,False,False,first
 1978-03-26,River,0,0,Sampaio Corrêa,False,False,first
-1978-03-26,Ceará,1,0,Moto Clube,False,False,first
+1978-03-26,Ceará,1,0,Moto Club,False,False,first
 1978-03-26,Botafogo-SP,0,0,Palmeiras,False,False,first
 1978-03-26,Noroeste,0,1,Comercial-SP,False,False,first
 1978-03-29,Botafogo-SP,3,0,Flamengo-PI,False,False,first
@@ -297,26 +297,26 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-03-30,São Paulo,2,0,Fortaleza,False,False,first
 1978-04-01,Palmeiras,3,0,Flamengo-PI,False,False,first
 1978-04-02,River,1,2,Botafogo-SP,False,False,first
-1978-04-02,Moto Clube,2,0,Sampaio Corrêa,False,False,first
+1978-04-02,Moto Club,2,0,Sampaio Corrêa,False,False,first
 1978-04-02,Comercial-SP,0,1,São Paulo,False,False,first
 1978-04-02,Noroeste,3,1,Fortaleza,False,False,first
 1978-04-06,Comercial-SP,0,0,Fortaleza,False,False,first
 1978-04-06,Ceará,2,0,América-SP,False,False,first
-1978-04-06,Moto Clube,2,2,Botafogo-SP,False,False,first
+1978-04-06,Moto Club,2,2,Botafogo-SP,False,False,first
 1978-04-06,São Paulo,6,1,River,False,False,first
 1978-04-09,Flamengo-PI,0,1,Ceará,False,False,first
 1978-04-09,Fortaleza,1,2,Botafogo-SP,False,False,first
 1978-04-09,Noroeste,0,0,Palmeiras,False,False,first
-1978-04-09,Moto Clube,1,0,América-SP,False,False,first
+1978-04-09,Moto Club,1,0,América-SP,False,False,first
 1978-04-09,Comercial-SP,3,0,River,False,False,first
-1978-04-12,Flamengo-PI,0,0,Moto Clube,False,False,first
+1978-04-12,Flamengo-PI,0,0,Moto Club,False,False,first
 1978-04-12,América-SP,1,0,São Paulo,False,False,first
 1978-04-12,Ceará,1,2,Comercial-SP,False,False,first
 1978-04-12,Noroeste,2,0,River,False,False,first
 1978-04-13,Fortaleza,2,0,Sampaio Corrêa,False,False,first
 1978-04-15,Palmeiras,4,0,Ceará,False,False,first
 1978-04-16,América-SP,1,0,Botafogo-SP,False,False,first
-1978-04-16,Moto Clube,0,0,River,False,False,first
+1978-04-16,Moto Club,0,0,River,False,False,first
 1978-04-16,Flamengo-PI,1,1,Comercial-SP,False,False,first
 1978-04-19,Flamengo-PI,0,0,Noroeste,False,False,first
 1978-04-20,América-SP,0,1,Palmeiras,False,False,first
@@ -330,7 +330,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-04-23,Ceará,1,1,Fortaleza,False,False,first
 1978-04-26,Ceará,0,0,Noroeste,False,False,first
 1978-04-27,Palmeiras,6,0,Sampaio Corrêa,False,False,first
-1978-04-27,Moto Clube,0,0,Fortaleza,False,False,first
+1978-04-27,Moto Club,0,0,Fortaleza,False,False,first
 1978-04-27,Flamengo-PI,0,3,São Paulo,False,False,first
 1978-04-30,Palmeiras,2,1,Comercial-SP,False,False,first
 1978-04-30,Botafogo-SP,4,1,Sampaio Corrêa,False,False,first
@@ -339,17 +339,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-05-03,Sampaio Corrêa,2,2,São Paulo,False,False,first
 1978-05-03,Botafogo-SP,6,1,Noroeste,False,False,first
 1978-05-04,Ceará,2,0,River,False,False,first
-1978-05-04,Moto Clube,1,0,Palmeiras,False,False,first
+1978-05-04,Moto Club,1,0,Palmeiras,False,False,first
 1978-05-07,São Paulo,6,2,Botafogo-SP,False,False,first
 1978-05-07,Comercial-SP,0,1,América-SP,False,False,first
 1978-05-07,Sampaio Corrêa,1,0,Flamengo-PI,False,False,first
 1978-05-07,Fortaleza,1,1,Palmeiras,False,False,first
-1978-05-07,Noroeste,2,0,Moto Clube,False,False,first
+1978-05-07,Noroeste,2,0,Moto Club,False,False,first
 1978-05-10,Fortaleza,1,0,América-SP,False,False,first
 1978-05-10,Noroeste,1,0,São Paulo,False,False,first
 1978-05-10,River,1,3,Palmeiras,False,False,first
-1978-05-11,Comercial-SP,0,0,Moto Clube,False,False,first
-1978-05-14,São Paulo,2,0,Moto Clube,False,False,first
+1978-05-11,Comercial-SP,0,0,Moto Club,False,False,first
+1978-05-14,São Paulo,2,0,Moto Club,False,False,first
 1978-05-14,River,3,2,América-SP,False,False,first
 1978-05-14,Sampaio Corrêa,1,1,Ceará,False,False,first
 1978-05-14,Fortaleza,3,0,Flamengo-PI,False,False,first
@@ -636,18 +636,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-06-17,CSA,3,1,Sergipe,False,False,second
 1978-06-17,Volta Redonda,2,1,CRB,False,False,second
 1978-05-21,River,0,1,Flamengo-PI,False,False,second
-1978-05-21,Fortaleza,2,1,Moto Clube,False,False,second
+1978-05-21,Fortaleza,2,1,Moto Club,False,False,second
 1978-05-21,Noroeste,2,0,Sampaio Corrêa,False,False,second
 1978-05-24,River,1,2,Noroeste,False,False,second
 1978-05-28,Fortaleza,2,0,Flamengo-PI,False,False,second
-1978-05-28,Moto Clube,1,0,Noroeste,False,False,second
-1978-05-31,Moto Clube,0,1,Flamengo-PI,False,False,second
+1978-05-28,Moto Club,1,0,Noroeste,False,False,second
+1978-05-31,Moto Club,0,1,Flamengo-PI,False,False,second
 1978-06-04,Fortaleza,1,0,River,False,False,second
-1978-06-04,Sampaio Corrêa,0,0,Moto Clube,False,False,second
+1978-06-04,Sampaio Corrêa,0,0,Moto Club,False,False,second
 1978-06-13,Flamengo-PI,2,0,Sampaio Corrêa,False,False,second
 1978-06-17,Sampaio Corrêa,2,0,River,False,False,second
 1978-06-17,Noroeste,2,1,Fortaleza,False,False,second
-1978-06-24,River,4,2,Moto Clube,False,False,second
+1978-06-24,River,4,2,Moto Club,False,False,second
 1978-06-24,Sampaio Corrêa,1,1,Fortaleza,False,False,second
 1978-06-24,Noroeste,2,1,Flamengo-PI,False,False,second
 1978-05-21,Fast Clube,1,0,Nacional-AM,False,False,second

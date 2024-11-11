@@ -6,7 +6,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-08-25,Figueirense,0,0,Coritiba,False,False,first
 1973-08-25,CRB,0,1,América-MG,False,False,first
 1973-08-25,Bahia,1,1,São Paulo,False,False,first
-1973-08-25,Moto Clube,0,3,Cruzeiro,False,False,first
+1973-08-25,Moto Club,0,3,Cruzeiro,False,False,first
 1973-08-25,Sport,0,0,Fortaleza,False,False,first
 1973-08-25,Grêmio,4,0,Santa Cruz,False,False,first
 1973-08-25,Desportiva,2,0,Sergipe,False,False,first
@@ -17,7 +17,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-08-25,América-RN,0,0,Rio Negro,False,False,first
 1973-08-25,Remo,0,2,Palmeiras,False,False,first
 1973-08-26,Nacional-AM,1,1,Guarani,False,False,first
-1973-08-29,Moto Clube,1,4,Fluminense,False,False,first
+1973-08-29,Moto Club,1,4,Fluminense,False,False,first
 1973-08-29,Figueirense,2,2,Botafogo,False,False,first
 1973-08-29,Guarani,0,1,Corinthians,False,False,first
 1973-08-29,CRB,0,1,São Paulo,False,False,first
@@ -47,7 +47,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-08-31,Rio Negro,1,3,Portuguesa-SP,False,False,first
 1973-09-02,Internacional,0,1,Cruzeiro,False,False,first
 1973-09-02,CRB,0,1,Bahia,False,False,first
-1973-09-02,Moto Clube,0,1,Tiradentes,False,False,first
+1973-09-02,Moto Club,0,1,Tiradentes,False,False,first
 1973-09-02,Vitória,0,0,Vasco da Gama,False,False,first
 1973-09-02,Santa Cruz,3,1,Flamengo,False,False,first
 1973-09-02,Santos,0,0,Palmeiras,False,False,first
@@ -57,7 +57,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-02,América-RN,2,0,Sergipe,False,False,first
 1973-09-02,Goiás,2,0,Comercial-MS,False,False,first
 1973-09-05,Bahia,0,1,Fluminense,False,False,first
-1973-09-05,Moto Clube,0,2,Botafogo,False,False,first
+1973-09-05,Moto Club,0,2,Botafogo,False,False,first
 1973-09-05,Figueirense,1,1,Corinthians,False,False,first
 1973-09-05,Guarani,1,1,São Paulo,False,False,first
 1973-09-05,CEUB,2,0,Cruzeiro,False,False,first
@@ -80,7 +80,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-08,Portuguesa-SP,4,2,Olaria,False,False,first
 1973-09-09,CRB,1,2,Fluminense,False,False,first
 1973-09-09,Tiradentes,0,0,Botafogo,False,False,first
-1973-09-09,Moto Clube,1,1,América-GB,False,False,first
+1973-09-09,Moto Club,1,1,América-GB,False,False,first
 1973-09-09,Corinthians,1,0,São Paulo,False,False,first
 1973-09-09,Guarani,3,1,CEUB,False,False,first
 1973-09-09,Cruzeiro,1,0,América-MG,False,False,first
@@ -98,7 +98,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-12,Fluminense,3,0,Guarani,False,False,first
 1973-09-12,Fortaleza,0,2,Botafogo,False,False,first
 1973-09-12,Tiradentes,0,0,América-GB,False,False,first
-1973-09-12,Moto Clube,0,0,Corinthians,False,False,first
+1973-09-12,Moto Club,0,0,Corinthians,False,False,first
 1973-09-12,São Paulo,1,0,América-MG,False,False,first
 1973-09-12,Figueirense,0,1,Cruzeiro,False,False,first
 1973-09-12,CRB,0,1,Internacional,False,False,first
@@ -124,7 +124,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-16,Fortaleza,0,0,São Paulo,False,False,first
 1973-09-16,Figueirense,1,1,Guarani,False,False,first
 1973-09-16,Nacional-AM,2,1,Paysandu,False,False,first
-1973-09-16,Moto Clube,0,0,América-MG,False,False,first
+1973-09-16,Moto Club,0,0,América-MG,False,False,first
 1973-09-16,Náutico,2,1,Vasco da Gama,False,False,first
 1973-09-16,Atlético-MG,3,0,Flamengo,False,False,first
 1973-09-16,Palmeiras,1,1,Portuguesa-SP,False,False,first
@@ -144,7 +144,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-22,Rio Negro,1,0,Goiás,False,False,first
 1973-09-23,São Paulo,2,2,Fluminense,False,False,first
 1973-09-23,Nacional-AM,1,1,Botafogo,False,False,first
-1973-09-23,Guarani,1,0,Moto Clube,False,False,first
+1973-09-23,Guarani,1,0,Moto Club,False,False,first
 1973-09-23,Cruzeiro,0,0,Coritiba,False,False,first
 1973-09-23,CRB,3,2,Paysandu,False,False,first
 1973-09-23,Bahia,1,0,Figueirense,False,False,first
@@ -162,7 +162,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-26,CEUB,0,0,São Paulo,False,False,first
 1973-09-26,Cruzeiro,1,1,Guarani,False,False,first
 1973-09-26,Nacional-AM,2,2,Bahia,False,False,first
-1973-09-26,Moto Clube,0,0,Fortaleza,False,False,first
+1973-09-26,Moto Club,0,0,Fortaleza,False,False,first
 1973-09-26,Tiradentes,1,1,CRB,False,False,first
 1973-09-26,Comercial-MS,1,1,Rio Negro,False,False,first
 1973-09-26,Ceará,1,1,Flamengo,False,False,first
@@ -182,7 +182,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-09-30,CRB,0,3,Corinthians,False,False,first
 1973-09-30,Internacional,0,0,América-GB,False,False,first
 1973-09-30,Guarani,2,2,Fortaleza,False,False,first
-1973-09-30,Moto Clube,0,2,Sport,False,False,first
+1973-09-30,Moto Club,0,2,Sport,False,False,first
 1973-09-30,Bahia,3,0,Paysandu,False,False,first
 1973-09-30,Figueirense,1,0,Tiradentes,False,False,first
 1973-09-30,Coritiba,0,2,América-MG,False,False,first
@@ -199,7 +199,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-03,Guarani,1,1,Botafogo,False,False,first
 1973-10-03,CEUB,1,0,América-GB,False,False,first
 1973-10-03,Bahia,0,1,Corinthians,False,False,first
-1973-10-03,Moto Clube,1,4,São Paulo,False,False,first
+1973-10-03,Moto Club,1,4,São Paulo,False,False,first
 1973-10-03,Paysandu,1,2,Cruzeiro,False,False,first
 1973-10-03,Fortaleza,0,0,Internacional,False,False,first
 1973-10-03,CRB,0,3,Sport,False,False,first
@@ -225,7 +225,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-07,Nacional-AM,2,2,Cruzeiro,False,False,first
 1973-10-07,Paysandu,1,2,Figueirense,False,False,first
 1973-10-07,CRB,1,3,Fortaleza,False,False,first
-1973-10-07,Coritiba,4,0,Moto Clube,False,False,first
+1973-10-07,Coritiba,4,0,Moto Club,False,False,first
 1973-10-07,Grêmio,1,0,Vasco da Gama,False,False,first
 1973-10-07,Flamengo,0,2,Palmeiras,False,False,first
 1973-10-07,Sergipe,1,0,Olaria,False,False,first
@@ -238,7 +238,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-10,Internacional,1,1,América-MG,False,False,first
 1973-10-10,Atlético-PR,1,1,Grêmio,False,False,first
 1973-10-13,Botafogo,0,1,América-GB,False,False,first
-1973-10-13,CEUB,1,2,Moto Clube,False,False,first
+1973-10-13,CEUB,1,2,Moto Club,False,False,first
 1973-10-13,Paysandu,0,2,Corinthians,False,False,first
 1973-10-13,Atlético-PR,0,2,Olaria,False,False,first
 1973-10-13,Portuguesa-SP,3,0,Flamengo,False,False,first
@@ -263,7 +263,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-17,Nacional-AM,1,2,Corinthians,False,False,first
 1973-10-17,Figueirense,0,1,São Paulo,False,False,first
 1973-10-17,CRB,0,1,Cruzeiro,False,False,first
-1973-10-17,Moto Clube,0,2,Internacional,False,False,first
+1973-10-17,Moto Club,0,2,Internacional,False,False,first
 1973-10-17,Tiradentes,0,1,Sport,False,False,first
 1973-10-17,Fortaleza,2,0,Paysandu,False,False,first
 1973-10-17,América-MG,1,2,Bahia,False,False,first
@@ -285,7 +285,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-21,Cruzeiro,2,1,América-GB,False,False,first
 1973-10-21,Internacional,2,2,São Paulo,False,False,first
 1973-10-21,Guarani,4,1,Sport,False,False,first
-1973-10-21,Moto Clube,1,1,Paysandu,False,False,first
+1973-10-21,Moto Club,1,1,Paysandu,False,False,first
 1973-10-21,Tiradentes,0,0,Nacional-AM,False,False,first
 1973-10-21,Bahia,2,0,Coritiba,False,False,first
 1973-10-21,Figueirense,1,0,CRB,False,False,first
@@ -301,7 +301,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-24,Sport,1,2,América-GB,False,False,first
 1973-10-24,Paysandu,0,2,São Paulo,False,False,first
 1973-10-24,Figueirense,0,2,Internacional,False,False,first
-1973-10-24,Moto Clube,0,1,Nacional-AM,False,False,first
+1973-10-24,Moto Club,0,1,Nacional-AM,False,False,first
 1973-10-24,Bahia,1,0,Tiradentes,False,False,first
 1973-10-24,Coritiba,2,0,CRB,False,False,first
 1973-10-24,Palmeiras,0,0,Vasco da Gama,False,False,first
@@ -322,7 +322,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-27,Tiradentes,0,1,Guarani,False,False,first
 1973-10-27,Sport,0,3,Cruzeiro,False,False,first
 1973-10-27,Internacional,1,0,Coritiba,False,False,first
-1973-10-27,Figueirense,0,0,Moto Clube,False,False,first
+1973-10-27,Figueirense,0,0,Moto Club,False,False,first
 1973-10-27,CEUB,0,1,América-MG,False,False,first
 1973-10-27,Olaria,1,0,Vasco da Gama,False,False,first
 1973-10-27,Vitória,1,0,Remo,False,False,first
@@ -342,7 +342,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-10-31,Fortaleza,0,0,Cruzeiro,False,False,first
 1973-10-31,Figueirense,0,1,Sport,False,False,first
 1973-10-31,América-MG,2,0,Paysandu,False,False,first
-1973-10-31,Moto Clube,0,0,Bahia,False,False,first
+1973-10-31,Moto Club,0,0,Bahia,False,False,first
 1973-10-31,Goiás,1,0,Vasco da Gama,False,False,first
 1973-10-31,Vitória,0,0,Flamengo,False,False,first
 1973-10-31,Comercial-MS,0,4,Palmeiras,False,False,first
@@ -362,7 +362,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-11-04,Bahia,0,0,Guarani,False,False,first
 1973-11-04,Nacional-AM,0,0,América-MG,False,False,first
 1973-11-04,Tiradentes,1,0,Fortaleza,False,False,first
-1973-11-04,Moto Clube,1,1,CRB,False,False,first
+1973-11-04,Moto Club,1,1,CRB,False,False,first
 1973-11-04,Vasco da Gama,2,0,Atlético-MG,False,False,first
 1973-11-04,Atlético-PR,1,0,Flamengo,False,False,first
 1973-11-04,Goiás,0,1,Palmeiras,False,False,first
@@ -398,7 +398,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-11-11,Náutico,0,0,Sport,False,False,first
 1973-11-11,Goiás,0,2,Paysandu,False,False,first
 1973-11-11,Desportiva,1,0,CEUB,False,False,first
-1973-11-11,Comercial-MS,2,0,Moto Clube,False,False,first
+1973-11-11,Comercial-MS,2,0,Moto Club,False,False,first
 1973-11-14,Flamengo,1,2,Cruzeiro,False,False,first
 1973-11-14,Vasco da Gama,1,1,Olaria,False,False,first
 1973-11-14,Figueirense,0,0,Fluminense,False,False,first
@@ -413,7 +413,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-11-14,América-RN,0,0,Fortaleza,False,False,first
 1973-11-14,Tiradentes,1,1,Ceará,False,False,first
 1973-11-14,Goiás,0,0,Santa Cruz,False,False,first
-1973-11-14,Moto Clube,1,1,Náutico,False,False,first
+1973-11-14,Moto Club,1,1,Náutico,False,False,first
 1973-11-14,Sport,3,0,CEUB,False,False,first
 1973-11-14,Comercial-MS,1,1,Remo,False,False,first
 1973-11-14,Paysandu,0,2,Desportiva,False,False,first
@@ -423,7 +423,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-11-17,Cruzeiro,2,0,Olaria,False,False,first
 1973-11-17,Portuguesa-SP,0,0,Atlético-PR,False,False,first
 1973-11-17,Grêmio,1,0,Guarani,False,False,first
-1973-11-17,Moto Clube,1,1,Santa Cruz,False,False,first
+1973-11-17,Moto Club,1,1,Santa Cruz,False,False,first
 1973-11-17,Náutico,2,0,CEUB,False,False,first
 1973-11-17,Comercial-MS,1,0,Sport,False,False,first
 1973-11-17,Remo,1,1,Paysandu,False,False,first
@@ -456,7 +456,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-11-25,CRB,2,1,Sergipe,False,False,first
 1973-11-25,Santa Cruz,1,1,Sport,False,False,first
 1973-11-25,Remo,2,0,Goiás,False,False,first
-1973-11-25,Moto Clube,0,0,Paysandu,False,False,first
+1973-11-25,Moto Club,0,0,Paysandu,False,False,first
 1973-11-25,CEUB,2,1,Comercial-MS,False,False,first
 1973-11-28,Figueirense,0,0,Botafogo,False,False,first
 1973-11-28,Vasco da Gama,3,1,Cruzeiro,False,False,first
@@ -472,7 +472,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-11-28,Santa Cruz,5,1,Comercial-MS,False,False,first
 1973-11-28,Remo,4,1,Sport,False,False,first
 1973-11-28,Goiás,3,0,CEUB,False,False,first
-1973-11-28,Moto Clube,1,1,Desportiva,False,False,first
+1973-11-28,Moto Club,1,1,Desportiva,False,False,first
 1973-11-29,Fluminense,1,2,Olaria,False,False,first
 1973-11-29,Atlético-MG,2,1,Flamengo,False,False,first
 1973-11-29,Atlético-PR,2,2,Corinthians,False,False,first
@@ -493,7 +493,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-12-02,Fortaleza,2,1,Bahia,False,False,first
 1973-12-02,América-RN,0,1,Vitória,False,False,first
 1973-12-02,Tiradentes,2,0,Sergipe,False,False,first
-1973-12-02,Remo,5,0,Moto Clube,False,False,first
+1973-12-02,Remo,5,0,Moto Club,False,False,first
 1973-12-02,Desportiva,0,3,Comercial-MS,False,False,first
 1973-12-02,Santa Cruz,2,1,Náutico,False,False,first
 1973-12-02,Goiás,0,0,Sport,False,False,first
@@ -517,7 +517,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-12-08,Paysandu,2,0,Santa Cruz,False,False,first
 1973-12-08,Náutico,0,0,Remo,False,False,first
 1973-12-08,Desportiva,1,1,Sport,False,False,first
-1973-12-08,CEUB,1,0,Moto Clube,False,False,first
+1973-12-08,CEUB,1,0,Moto Club,False,False,first
 1973-12-08,Comercial-MS,1,1,Goiás,False,False,first
 1973-12-12,Vasco da Gama,2,1,América-GB,False,False,first
 1973-12-12,Flamengo,2,1,Olaria,False,False,first
@@ -534,7 +534,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-12-12,CEUB,2,2,Santa Cruz,False,False,first
 1973-12-12,Sport,0,0,Paysandu,False,False,first
 1973-12-12,Remo,2,1,Desportiva,False,False,first
-1973-12-12,Moto Clube,0,2,Goiás,False,False,first
+1973-12-12,Moto Club,0,2,Goiás,False,False,first
 1973-12-13,Fluminense,0,1,Atlético-MG,False,False,first
 1973-12-13,Cruzeiro,2,1,Botafogo,False,False,first
 1973-12-13,Atlético-PR,0,2,Palmeiras,False,False,first
@@ -542,7 +542,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1973-12-15,Flamengo,3,2,América-GB,False,False,first
 1973-12-15,América-MG,2,1,Olaria,False,False,first
 1973-12-15,Corinthians,2,2,Internacional,False,False,first
-1973-12-15,Sport,2,1,Moto Clube,False,False,first
+1973-12-15,Sport,2,1,Moto Club,False,False,first
 1973-12-15,CEUB,0,0,Remo,False,False,first
 1973-12-16,Vasco da Gama,1,0,Botafogo,False,False,first
 1973-12-16,Cruzeiro,1,1,Fluminense,False,False,first

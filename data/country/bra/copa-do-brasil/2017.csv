@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-02-08,CSA,1,4,Sport,False,True,first
-2017-02-08,Sete de Setembro,1,0,Ríver,False,True,first
+2017-02-08,Sete de Setembro,1,0,River,False,True,first
 2017-02-15,Boavista,1,0,Ceará,False,True,first
 2017-02-15,Uniclinic,1,2,Portuguesa,False,True,first
 2017-02-15,Rio Branco,1,0,Figueirense,False,True,first
@@ -10,12 +10,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-02-15,Volta Redonda,1,2,Cruzeiro,False,True,first
 2017-02-08,São Francisco,3,0,Botafogo,False,True,first
 2017-02-08,Atlético Acreano,0,2,América-RN,False,True,first
-2017-02-08,Murici,3,1,Juventude,False,True,first
+2017-02-08,Murici-AL,3,1,Juventude,False,True,first
 2017-02-15,Globo,2,5,Fluminense,False,True,first
 2017-02-16,Sinop,1,0,Salgueiro,False,True,first
 2017-02-16,Santo André,0,1,Criciúma,False,True,first
 2017-02-08,Altos,2,0,CRB,False,True,first
-2017-02-15,Pr. do Solimões,0,2,Internacional,False,True,first
+2017-02-15,Princesa do Solimões,0,2,Internacional,False,True,first
 2017-02-15,Friburguense,0,1,Oeste,False,True,first
 2017-02-15,Guarani-J,1,0,Náutico,False,True,first
 2017-02-09,São José,1,1,Sampaio Corrêa,False,True,first
@@ -44,7 +44,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-03-01,Gurupi,2,0,Rio Branco,False,True,second
 2017-03-01,Joinville,1,0,São Raimundo,False,True,second
 2017-02-22,Cruzeiro,6,0,São Francisco,False,True,second
-2017-02-22,Murici,0,0,América-RN,False,True,second
+2017-02-22,Murici-AL,0,0,América-RN,False,True,second
 2017-02-22,Sinop,1,3,Fluminense,False,True,second
 2017-02-22,Criciúma,2,2,Altos,False,True,second
 2017-02-22,Internacional,4,1,Oeste,False,True,second
@@ -63,8 +63,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-03-15,Sport,1,0,Boavista,False,False,third
 2017-03-08,Joinville,3,1,Gurupi,False,False,third
 2017-03-15,Gurupi,1,0,Joinville,False,False,third
-2017-03-08,Murici,0,2,Cruzeiro,False,False,third
-2017-03-15,Cruzeiro,3,0,Murici,False,False,third
+2017-03-08,Murici-AL,0,2,Cruzeiro,False,False,third
+2017-03-15,Cruzeiro,3,0,Murici-AL,False,False,third
 2017-03-09,Criciúma,1,1,Fluminense,False,False,third
 2017-03-15,Fluminense,3,2,Criciúma,False,False,third
 2017-03-08,Sampaio Corrêa,1,4,Internacional,False,False,third

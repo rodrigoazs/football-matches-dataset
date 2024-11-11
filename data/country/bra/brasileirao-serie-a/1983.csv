@@ -1,23 +1,23 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1983-01-23,Flamengo,2,0,Santos,False,False,first
-1983-01-23,Moto Clube,1,1,Paysandu,False,False,first
-1983-01-26,Santos,3,1,Moto Clube,False,False,first
+1983-01-23,Moto Club,1,1,Paysandu,False,False,first
+1983-01-26,Santos,3,1,Moto Club,False,False,first
 1983-01-26,Rio Negro,1,0,Paysandu,False,False,first
-1983-01-29,Flamengo,1,1,Moto Clube,False,False,first
+1983-01-29,Flamengo,1,1,Moto Club,False,False,first
 1983-01-29,Rio Negro,0,1,Santos,False,False,first
 1983-02-02,Rio Negro,1,1,Flamengo,False,False,first
 1983-02-03,Paysandu,1,2,Santos,False,False,first
-1983-02-05,Moto Clube,0,0,Rio Negro,False,False,first
+1983-02-05,Moto Club,0,0,Rio Negro,False,False,first
 1983-02-05,Paysandu,2,3,Flamengo,False,False,first
-1983-02-09,Moto Clube,1,5,Flamengo,False,False,first
+1983-02-09,Moto Club,1,5,Flamengo,False,False,first
 1983-02-09,Santos,3,0,Rio Negro,False,False,first
 1983-02-19,Santos,4,1,Paysandu,False,False,first
 1983-02-19,Flamengo,7,1,Rio Negro,False,False,first
 1983-02-23,Flamengo,3,2,Paysandu,False,False,first
-1983-02-23,Rio Negro,1,0,Moto Clube,False,False,first
+1983-02-23,Rio Negro,1,0,Moto Club,False,False,first
 1983-02-27,Santos,3,2,Flamengo,False,False,first
-1983-02-27,Paysandu,2,1,Moto Clube,False,False,first
-1983-03-06,Moto Clube,1,1,Santos,False,False,first
+1983-02-27,Paysandu,2,1,Moto Club,False,False,first
+1983-03-06,Moto Club,1,1,Santos,False,False,first
 1983-03-06,Paysandu,3,0,Rio Negro,False,False,first
 1983-01-23,Atlético-PR,0,1,Grêmio,False,False,first
 1983-01-23,Campo Grande,0,1,Ponte Preta-SP,False,False,first

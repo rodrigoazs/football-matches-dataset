@@ -2,7 +2,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-08-20,Fluminense,0,1,Coritiba,False,False,first
 1975-08-20,Atlético-PR,2,1,Botafogo,False,False,first
 1975-08-20,Corinthians,1,0,América-RJ,False,False,first
-1975-08-20,Moto Clube,4,3,Paysandu,False,False,first
+1975-08-20,Moto Club,4,3,Paysandu,False,False,first
 1975-08-20,Fortaleza,2,0,América-MG,False,False,first
 1975-08-20,Rio Negro,1,1,Tiradentes,False,False,first
 1975-08-21,Palmeiras,1,1,Guarani,False,False,first
@@ -10,7 +10,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-08-24,Palmeiras,3,1,Fluminense,False,False,first
 1975-08-24,Fortaleza,2,1,Atlético-PR,False,False,first
 1975-08-24,Rio Negro,0,0,Nacional-AM,False,False,first
-1975-08-24,Moto Clube,0,3,Ceará,False,False,first
+1975-08-24,Moto Club,0,3,Ceará,False,False,first
 1975-08-24,Atlético-MG,0,0,Corinthians,False,False,first
 1975-08-24,Remo,1,0,Tiradentes,False,False,first
 1975-08-24,Comercial-MT,0,0,Cruzeiro,False,False,first
@@ -23,14 +23,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-08-31,Corinthians,1,0,Fortaleza,False,False,first
 1975-08-31,Coritiba,4,0,Ceará,False,False,first
 1975-08-31,Botafogo,0,2,Cruzeiro,False,False,first
-1975-08-31,América-MG,0,0,Moto Clube,False,False,first
+1975-08-31,América-MG,0,0,Moto Club,False,False,first
 1975-08-31,Tiradentes,2,1,América-RJ,False,False,first
 1975-08-31,Comercial-MT,2,0,Nacional-AM,False,False,first
 1975-08-31,Remo,2,2,Atlético-PR,False,False,first
 1975-09-03,Guarani,0,0,Remo,False,False,first
 1975-09-03,Tiradentes,0,0,Fortaleza,False,False,first
 1975-09-03,Comercial-MT,1,0,Ceará,False,False,first
-1975-09-03,Atlético-PR,5,1,Moto Clube,False,False,first
+1975-09-03,Atlético-PR,5,1,Moto Club,False,False,first
 1975-09-03,Cruzeiro,4,0,Rio Negro,False,False,first
 1975-09-03,Paysandu,3,3,América-RJ,False,False,first
 1975-09-04,Atlético-MG,1,1,América-MG,False,False,first
@@ -38,7 +38,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-09-06,América-MG,2,0,Rio Negro,False,False,first
 1975-09-07,Coritiba,1,0,Guarani,False,False,first
 1975-09-07,Corinthians,1,1,Botafogo,False,False,first
-1975-09-07,Tiradentes,4,1,Moto Clube,False,False,first
+1975-09-07,Tiradentes,4,1,Moto Club,False,False,first
 1975-09-07,Atlético-MG,2,2,Cruzeiro,False,False,first
 1975-09-07,Nacional-AM,1,1,América-RJ,False,False,first
 1975-09-07,Comercial-MT,1,1,Fluminense,False,False,first
@@ -54,7 +54,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-09-14,Cruzeiro,2,0,Palmeiras,False,False,first
 1975-09-14,Coritiba,0,2,Corinthians,False,False,first
 1975-09-14,Guarani,1,1,Botafogo,False,False,first
-1975-09-14,Moto Clube,1,3,Fluminense,False,False,first
+1975-09-14,Moto Club,1,3,Fluminense,False,False,first
 1975-09-14,Nacional-AM,0,2,Atlético-MG,False,False,first
 1975-09-14,Ceará,0,0,Rio Negro,False,False,first
 1975-09-14,Paysandu,3,1,Fortaleza,False,False,first
@@ -66,7 +66,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-09-17,Comercial-MT,0,0,América-MG,False,False,first
 1975-09-20,Guarani,2,0,Comercial-MT,False,False,first
 1975-09-20,Fortaleza,0,0,Cruzeiro,False,False,first
-1975-09-21,Moto Clube,1,1,Nacional-AM,False,False,first
+1975-09-21,Moto Club,1,1,Nacional-AM,False,False,first
 1975-09-21,Rio Negro,1,1,Paysandu,False,False,first
 1975-09-21,Ceará,1,0,Botafogo,False,False,first
 1975-09-21,Palmeiras,1,1,Corinthians,False,False,first
@@ -79,14 +79,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-09-24,América-MG,0,0,Palmeiras,False,False,first
 1975-09-24,Comercial-MT,0,1,Corinthians,False,False,first
 1975-09-24,Ceará,0,1,Atlético-MG,False,False,first
-1975-09-24,Moto Clube,0,4,Cruzeiro,False,False,first
+1975-09-24,Moto Club,0,4,Cruzeiro,False,False,first
 1975-09-24,Tiradentes,0,1,Botafogo,False,False,first
 1975-09-25,Fortaleza,1,1,Guarani,False,False,first
 1975-09-27,Rio Negro,0,0,Corinthians,False,False,first
 1975-09-27,Fluminense,2,0,América-RJ,False,False,first
 1975-09-28,Atlético-PR,4,1,Comercial-MT,False,False,first
 1975-09-28,América-MG,1,1,Botafogo,False,False,first
-1975-09-28,Moto Clube,1,3,Guarani,False,False,first
+1975-09-28,Moto Club,1,3,Guarani,False,False,first
 1975-09-28,Ceará,0,0,Fortaleza,False,False,first
 1975-09-28,Paysandu,0,0,Coritiba,False,False,first
 1975-09-28,Nacional-AM,1,1,Palmeiras,False,False,first
@@ -95,7 +95,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-10-01,Tiradentes,2,0,Comercial-MT,False,False,first
 1975-10-02,Remo,1,0,Corinthians,False,False,first
 1975-10-04,América-RJ,2,0,Guarani,False,False,first
-1975-10-05,Moto Clube,0,3,Corinthians,False,False,first
+1975-10-05,Moto Club,0,3,Corinthians,False,False,first
 1975-10-05,Fluminense,3,1,Botafogo,False,False,first
 1975-10-05,América-MG,1,1,Coritiba,False,False,first
 1975-10-05,Tiradentes,1,0,Palmeiras,False,False,first
@@ -321,15 +321,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1975-11-09,Remo,4,1,Figueirense,False,False,second
 1975-11-09,Goiás,2,2,Coritiba,False,False,second
 1975-10-19,Rio Negro,1,2,Comercial-MS,False,False,second
-1975-10-19,Fortaleza,1,0,Moto Clube,False,False,second
+1975-10-19,Fortaleza,1,0,Moto Club,False,False,second
 1975-10-22,Comercial-MS,2,3,Fortaleza,False,False,second
 1975-10-22,Rio Negro,1,3,Botafogo,False,False,second
 1975-10-25,Fortaleza,0,1,Rio Negro,False,False,second
-1975-10-26,Moto Clube,1,2,Botafogo,False,False,second
-1975-10-29,Moto Clube,1,1,Rio Negro,False,False,second
+1975-10-26,Moto Club,1,2,Botafogo,False,False,second
+1975-10-29,Moto Club,1,1,Rio Negro,False,False,second
 1975-10-29,Botafogo,0,0,Comercial-MS,False,False,second
 1975-11-05,Botafogo,1,1,Fortaleza,False,False,second
-1975-11-05,Comercial-MS,3,2,Moto Clube,False,False,second
+1975-11-05,Comercial-MS,3,2,Moto Club,False,False,second
 1975-10-23,América-MG,3,2,Paysandu,False,False,second
 1975-11-05,Atlético-PR,3,0,Ceará,False,False,second
 1975-10-26,Nacional-AM,2,0,Atlético-PR,False,False,second

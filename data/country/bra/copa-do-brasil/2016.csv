@@ -7,8 +7,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-20,Goianésia,2,3,ABC,False,False,first
 2016-05-14,América-RN,0,1,Gama,False,False,first
 2016-05-25,Gama,2,3,América-RN,False,False,first
-2016-04-07,Goiás-GO,1,2,Ríver-PI,False,False,first
-2016-04-27,Ríver-PI,1,2,Goiás-GO,False,False,first
+2016-04-07,Goiás,1,2,River,False,False,first
+2016-04-27,River,1,2,Goiás,False,False,first
 2016-03-16,Botafogo-PB,1,1,Linense-SP,False,False,first
 2016-04-06,Linense-SP,1,1,Botafogo-PB,False,False,first
 2016-04-06,Ceará,2,2,Resende,False,False,first
@@ -24,25 +24,25 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-06,Rio Branco-ES,0,0,Santa Cruz-PE,False,False,first
 2016-04-20,Cruzeiro,0,0,Campinense,False,False,first
 2016-05-05,Campinense,2,3,Cruzeiro,False,False,first
-2016-03-16,Londrina-PR,1,0,Parauapebas-PA,False,False,first
-2016-04-06,Parauapebas-PA,0,6,Londrina-PR,False,False,first
+2016-03-16,Londrina,1,0,Parauapebas-PA,False,False,first
+2016-04-06,Parauapebas-PA,0,6,Londrina,False,False,first
 2016-04-13,Vitória-BA,3,2,Náutico-RR,False,False,first
 2016-04-27,Náutico-RR,1,3,Vitória-BA,False,False,first
 2016-04-13,Portuguesa-SP,1,2,Parnahyba-PI,False,False,first
 2016-04-26,Parnahyba-PI,0,1,Portuguesa-SP,False,False,first
 2016-04-13,Coritiba,3,0,Guarany de Sobral,False,False,first
-2016-04-06,Juventude-RS,1,1,Tocantinópolis-TO,False,False,first
-2016-04-28,Tocantinópolis-TO,0,2,Juventude-RS,False,False,first
+2016-04-06,Juventude,1,1,Tocantinópolis-TO,False,False,first
+2016-04-28,Tocantinópolis-TO,0,2,Juventude,False,False,first
 2016-04-12,Criciúma,1,2,Operário-PR,False,False,first
 2016-04-28,Operário-PR,1,1,Criciúma,False,False,first
-2016-04-27,Paysandu-PA,2,1,Independente-PA,False,False,first
-2016-04-30,Independente-PA,0,2,Paysandu-PA,False,False,first
+2016-04-27,Paysandu,2,1,Independente-PA,False,False,first
+2016-04-30,Independente-PA,0,2,Paysandu,False,False,first
 2016-03-17,Atlético-PR,1,1,Brasil-RS,False,False,first
 2016-04-13,Brasil-RS,0,1,Atlético-PR,False,False,first
 2016-04-20,Nacional-AM,0,2,Dom Bosco,False,False,first
 2016-04-27,Dom Bosco,1,1,Nacional-AM,False,False,first
-2016-04-06,Chapecoense,2,1,Princesa do Solimões-AM,False,False,first
-2016-04-14,Princesa do Solimões-AM,0,2,Chapecoense,False,False,first
+2016-04-06,Chapecoense,2,1,Princesa do Solimões,False,False,first
+2016-04-14,Princesa do Solimões,0,2,Chapecoense,False,False,first
 2016-04-06,Paraná-PR,1,1,Estanciano,False,False,first
 2016-04-21,Estanciano,0,2,Paraná-PR,False,False,first
 2016-03-16,Flamengo-RJ,0,1,Confiança,False,False,first
@@ -56,8 +56,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-06,Fluminense,3,0,Tombense,False,False,first
 2016-03-17,Salgueiro-PE,0,1,Ferroviária-SP,False,False,first
 2016-04-13,Ferroviária-SP,1,1,Salgueiro-PE,False,False,first
-2016-04-06,Sport-PE,0,2,Aparecidense,False,False,first
-2016-04-28,Aparecidense,2,1,Sport-PE,False,False,first
+2016-04-06,Sport,0,2,Aparecidense,False,False,first
+2016-04-28,Aparecidense,2,1,Sport,False,False,first
 2016-03-17,Atlético-GO,2,2,Ypiranga-RS,False,False,first
 2016-04-07,Ypiranga-RS,2,0,Atlético-GO,False,False,first
 2016-04-14,Figueirense-SC,2,0,Lajeadense-RS,False,False,first
@@ -77,8 +77,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-05-11,Santos,3,0,Galvez,False,False,second
 2016-06-01,ABC,1,1,Gama,False,False,second
 2016-06-15,Gama,1,1,ABC,False,False,second
-2016-05-11,Botafogo-PB,1,0,Ríver,False,False,second
-2016-05-18,Ríver,0,1,Botafogo-PB,False,False,second
+2016-05-11,Botafogo-PB,1,0,River,False,False,second
+2016-05-18,River,0,1,Botafogo-PB,False,False,second
 2016-05-11,Ceará,1,0,Joinville,False,False,second
 2016-05-17,Joinville,0,1,Ceará,False,False,second
 2016-05-11,Vasco da Gama,1,0,CRB,False,False,second

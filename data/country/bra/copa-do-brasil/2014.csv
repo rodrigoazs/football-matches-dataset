@@ -16,12 +16,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-04-09,Atlético-GO,2,2,Flamengo-PI,False,False,first
 2014-03-12,Desportiva,1,0,ABC,False,False,first
 2014-04-02,ABC,4,1,Desportiva,False,False,first
-2014-04-02,Mixto-MT,0,0,Santos,False,False,first
-2014-04-16,Santos,3,0,Mixto-MT,False,False,first
-2014-04-16,Princesa do Solimões-AM,3,1,Brasiliense,False,False,first
-2014-04-23,Brasiliense,4,2,Princesa do Solimões-AM,False,False,first
-2014-03-12,Londrina-PR,2,0,Criciúma,False,False,first
-2014-04-10,Criciúma,2,1,Londrina-PR,False,False,first
+2014-04-02,Mixto,0,0,Santos,False,False,first
+2014-04-16,Santos,3,0,Mixto,False,False,first
+2014-04-16,Princesa do Solimões,3,1,Brasiliense,False,False,first
+2014-04-23,Brasiliense,4,2,Princesa do Solimões,False,False,first
+2014-03-12,Londrina,2,0,Criciúma,False,False,first
+2014-04-10,Criciúma,2,1,Londrina,False,False,first
 2014-03-12,Goianésia,2,2,Barueri,False,False,first
 2014-04-09,Barueri,0,0,Goianésia,False,False,first
 2014-03-12,Vilhena-RO,0,1,Palmeiras,False,False,first
@@ -43,8 +43,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-03-19,Villa Nova-MG,1,1,Bahia,False,False,first
 2014-04-17,Bahia,2,0,Villa Nova-MG,False,False,first
 2014-04-02,Santos-AP,0,3,América-MG,False,False,first
-2014-04-02,Botafogo-PB,2,0,Goiás-GO,False,False,first
-2014-04-16,Goiás-GO,0,0,Botafogo-PB,False,False,first
+2014-04-02,Botafogo-PB,2,0,Goiás,False,False,first
+2014-04-16,Goiás,0,0,Botafogo-PB,False,False,first
 2014-04-09,Lagarto-SE,0,1,Santa Cruz-PE,False,False,first
 2014-05-07,Santa Cruz-PE,3,1,Lagarto-SE,False,False,first
 2014-04-02,Potiguar-M (EN),1,0,Portuguesa-SP,False,False,first
@@ -63,9 +63,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-04-16,Coritiba,2,0,CENE,False,False,first
 2014-04-02,Caldense,2,0,Duque de Caxias,False,False,first
 2014-04-16,Duque de Caxias,2,2,Caldense,False,False,first
-2014-05-01,Brasília,1,3,Sport-PE,False,False,first
-2014-04-02,Maranhão-MA,2,2,Paysandu-PA,False,False,first
-2014-04-16,Paysandu-PA,2,1,Maranhão-MA,False,False,first
+2014-05-01,Brasília,1,3,Sport,False,False,first
+2014-04-02,Maranhão,2,2,Paysandu,False,False,first
+2014-04-16,Paysandu,2,1,Maranhão,False,False,first
 2014-03-12,Remo,1,6,Internacional,False,False,first
 2014-04-02,Barbalha,0,0,Cuiabá,False,False,first
 2014-04-16,Cuiabá,2,0,Barbalha,False,False,first

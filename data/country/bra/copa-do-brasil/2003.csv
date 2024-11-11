@@ -3,13 +3,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-02-19,Náutico-PE,3,1,Anapolina,False,False,first
 2003-02-19,Guarani-RS,2,1,América-RN,False,False,first
 2003-03-12,América-RN,1,0,Guarani-RS,False,False,first
-2003-02-19,Caldense,2,1,Juventude-RS,False,False,first
-2003-03-12,Juventude-RS,2,1,Caldense,False,False,first
+2003-02-19,Caldense,2,1,Juventude,False,False,first
+2003-03-12,Juventude,2,1,Caldense,False,False,first
 2003-02-05,CRB,0,1,Atlético-MG,False,False,first
 2003-02-19,Atlético-MG,4,0,CRB,False,False,first
 2003-02-19,Tuna Luso,2,2,Atlético-PR,False,False,first
 2003-03-12,Atlético-PR,1,0,Tuna Luso,False,False,first
-2003-02-19,Dom Bosco,0,5,Sport-PE,False,False,first
+2003-02-19,Dom Bosco,0,5,Sport,False,False,first
 2003-02-06,Corinthians-AL,0,1,Flamengo-PI,False,False,first
 2003-02-19,Flamengo-PI,1,0,Corinthians-AL,False,False,first
 2003-02-06,Fluminense-BA,1,1,Fluminense,False,False,first
@@ -37,8 +37,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-03-12,São Paulo,6,0,São Raimundo-AM,False,False,first
 2003-02-19,Ituano,2,0,Coritiba,False,False,first
 2003-03-12,Coritiba,1,0,Ituano,False,False,first
-2003-02-05,Ipatinga,2,1,Goiás-GO,False,False,first
-2003-03-12,Goiás-GO,1,0,Ipatinga,False,False,first
+2003-02-05,Ipatinga,2,1,Goiás,False,False,first
+2003-03-12,Goiás,1,0,Ipatinga,False,False,first
 2003-02-05,Sampaio Corrêa-MA,1,4,São Caetano-SP,False,False,first
 2003-02-05,CE Nova Esperança,0,2,Botafogo,False,False,first
 2003-02-19,Iraty,0,3,Vila Nova-GO,False,False,first
@@ -51,8 +51,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-03-12,Bahia,4,1,Atlético Cajazeirense,False,False,first
 2003-02-19,CF Amazônia,3,0,Rio Branco-AC,False,False,first
 2003-03-12,Rio Branco-AC,2,0,CF Amazônia,False,False,first
-2003-02-19,Moto Clube-MA,0,1,Ríver-PI,False,False,first
-2003-03-12,Ríver-PI,2,4,Moto Clube-MA,False,False,first
+2003-02-19,Moto Club,0,1,River,False,False,first
+2003-03-12,River,2,4,Moto Club,False,False,first
 2003-02-05,Itabaiana,0,1,Vasco da Gama,False,False,first
 2003-03-12,Vasco da Gama,4,0,Itabaiana,False,False,first
 2003-03-26,América-RN,2,1,Náutico,False,False,second
@@ -85,7 +85,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-04-02,Cruzeiro,7,0,Coríntians-RN,False,False,second
 2003-03-19,CF Amazônia,3,3,Bahia,False,False,second
 2003-03-26,Bahia,4,1,CF Amazônia,False,False,second
-2003-03-26,Moto Clube,0,2,Vasco da Gama,False,False,second
+2003-03-26,Moto Club,0,2,Vasco da Gama,False,False,second
 2003-04-09,Náutico,1,2,Atlético-MG,False,False,round16
 2003-05-01,Atlético-MG,3,1,Náutico,False,False,round16
 2003-04-24,Fluminense,0,1,Sport,False,False,round16

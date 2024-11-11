@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "FootballMatches"
+name = "Football-Matches-Dataset"
 version = "0.1.0"
 description = ""
 authors = ["Rodrigo <rodrigo4zevedo@gmail.com>"]

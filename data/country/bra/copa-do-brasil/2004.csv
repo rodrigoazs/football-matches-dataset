@@ -2,8 +2,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-02-04,Tuna Luso,1,3,Palmeiras,False,False,first
 2004-02-04,São Gabriel-RS,2,2,Figueirense-SC,False,False,first
 2004-02-18,Figueirense-SC,0,1,São Gabriel-RS,False,False,first
-2004-02-18,Cuiabá,0,1,Goiás-GO,False,False,first
-2004-03-03,Goiás-GO,3,1,Cuiabá,False,False,first
+2004-02-18,Cuiabá,0,1,Goiás,False,False,first
+2004-03-03,Goiás,3,1,Cuiabá,False,False,first
 2004-02-04,ASA,1,1,Brasiliense,False,False,first
 2004-03-03,Brasiliense,3,0,ASA,False,False,first
 2004-02-18,Catuense,4,2,Atlético-MG,False,False,first
@@ -12,9 +12,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-02-18,Serra-ES,1,4,América-MG,False,False,first
 2004-02-18,União Cacoalense-RO,1,1,Guarani-SP,False,False,first
 2004-03-03,Guarani-SP,0,0,União Cacoalense-RO,False,False,first
-2004-02-04,Maranhão-MA,0,5,Botafogo,False,False,first
-2004-02-04,Paranavaí-PR,0,0,Gama,False,False,first
-2004-02-18,Gama,3,0,Paranavaí-PR,False,False,first
+2004-02-04,Maranhão,0,5,Botafogo,False,False,first
+2004-02-04,Paranávaí-PR,0,0,Gama,False,False,first
+2004-02-18,Gama,3,0,Paranávaí-PR,False,False,first
 2004-02-04,Palmas-TO,1,2,Remo,False,False,first
 2004-02-18,Remo,1,3,Palmas-TO,False,False,first
 2004-02-04,Parnahyba-PI,2,2,Nacional-AM,False,False,first
@@ -24,8 +24,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-02-18,XV de Novembro-RS,1,1,Portuguesa/San (SP),False,False,first
 2004-03-03,Portuguesa/San (SP),2,2,XV de Novembro-RS,False,False,first
 2004-02-04,Sergipe-SE,1,4,Americano,False,False,first
-2004-02-04,Atlético Roraima,1,2,Sport-PE,False,False,first
-2004-02-18,Sport-PE,4,0,Atlético Roraima,False,False,first
+2004-02-04,Atlético Roraima,1,2,Sport,False,False,first
+2004-02-18,Sport,4,0,Atlético Roraima,False,False,first
 2004-02-04,Botafogo-PB,0,2,Corinthians,False,False,first
 2004-02-04,Ferroviário-CE,4,0,América-RN,False,False,first
 2004-03-03,América-RN,1,0,Ferroviário-CE,False,False,first
@@ -43,9 +43,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-03-03,Sampaio Corrêa-MA,4,0,Ypiranga-AP,False,False,first
 2004-02-04,SER Chapadão-MS,0,0,Grêmio,False,False,first
 2004-02-18,Grêmio,2,1,SER Chapadão-MS,False,False,first
-2004-02-04,América-RJ,0,1,Londrina-PR,False,False,first
-2004-02-18,Londrina-PR,1,0,América-RJ,False,False,first
-2004-02-18,Uberlândia-MG,0,3,Juventude-RS,False,False,first
+2004-02-04,América-RJ,0,1,Londrina,False,False,first
+2004-02-18,Londrina,1,0,América-RJ,False,False,first
+2004-02-18,Uberlândia-MG,0,3,Juventude,False,False,first
 2004-02-04,Caxias-SC,1,3,Fluminense,False,False,first
 2004-02-04,CRB,4,4,Flamengo-RJ,False,False,first
 2004-02-18,Flamengo-RJ,3,1,CRB,False,False,first

@@ -16,14 +16,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2013-04-24,Avaí,4,1,Volta Redonda,False,False,first
 2013-04-10,Gurupi,2,3,América-MG,False,False,first
 2013-04-17,América-MG,0,0,Gurupi,False,False,first
-2013-04-10,Oratório-AP,1,3,Goiás-GO,False,False,first
+2013-04-10,Oratório-AP,1,3,Goiás,False,False,first
 2013-04-03,Veranópolis-RS,1,0,Santo André-SP,False,False,first
 2013-04-17,Santo André-SP,2,0,Veranópolis-RS,False,False,first
-2013-04-03,Vitória da Conquista-BA,0,1,Sport-PE,False,False,first
-2013-04-17,Sport-PE,2,0,Vitória da Conquista-BA,False,False,first
+2013-04-03,Vitória da Conquista-BA,0,1,Sport,False,False,first
+2013-04-17,Sport,2,0,Vitória da Conquista-BA,False,False,first
 2013-04-11,Parnahyba-PI,1,3,ABC,False,False,first
-2013-04-10,Mixto-MT,2,1,Vitória-BA,False,False,first
-2013-04-16,Vitória-BA,5,1,Mixto-MT,False,False,first
+2013-04-10,Mixto,2,1,Vitória-BA,False,False,first
+2013-04-16,Vitória-BA,5,1,Mixto,False,False,first
 2013-04-10,Salgueiro-PE,2,0,Boa Esporte,False,False,first
 2013-04-17,Boa Esporte,2,2,Salgueiro-PE,False,False,first
 2013-04-11,São Bernardo-SP,1,1,Paraná-PR,False,False,first
@@ -50,11 +50,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2013-04-17,Barueri,0,3,Cianorte,False,False,first
 2013-04-03,Brasil-RS,0,1,Atlético-PR,False,False,first
 2013-04-17,Atlético-PR,2,0,Brasil-RS,False,False,first
-2013-04-10,Ji-Paraná (RO),0,1,América-RN,False,False,first
-2013-04-25,América-RN,1,0,Ji-Paraná (RO),False,False,first
+2013-04-10,Ji-Paraná,0,1,América-RN,False,False,first
+2013-04-25,América-RN,1,0,Ji-Paraná,False,False,first
 2013-04-03,Naviraiense-MS,0,0,Portuguesa-SP,False,False,first
 2013-04-16,Portuguesa-SP,1,1,Naviraiense-MS,False,False,first
-2013-04-10,São Raimundo-RR,0,2,Paysandu-PA,False,False,first
+2013-04-10,São Raimundo-RR,0,2,Paysandu,False,False,first
 2013-04-10,Flamengo-PI,2,2,Santos,False,False,first
 2013-04-17,Santos,2,0,Flamengo-PI,False,False,first
 2013-04-10,Aracruz,1,1,Joinville,False,False,first
@@ -63,13 +63,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2013-04-18,Náutico-PE,1,1,CRAC,False,False,first
 2013-04-03,Bangu,1,2,Betim,False,False,first
 2013-04-17,Betim,1,0,Bangu,False,False,first
-2013-04-11,Maranhão-MA,0,2,Bahia,False,False,first
-2013-04-10,Tupi-MG,1,0,Luverdense-MT,False,False,first
-2013-04-17,Luverdense-MT,3,0,Tupi-MG,False,False,first
+2013-04-11,Maranhão,0,2,Bahia,False,False,first
+2013-04-10,Tupi-MG,1,0,Luverdense,False,False,first
+2013-04-17,Luverdense,3,0,Tupi-MG,False,False,first
 2013-04-10,Confiança,1,0,Guarani-SP,False,False,first
 2013-04-17,Guarani-SP,1,0,Confiança,False,False,first
-2013-04-10,Luziânia-DF,0,0,Fortaleza,False,False,first
-2013-04-17,Fortaleza,0,0,Luziânia-DF,False,False,first
+2013-04-10,Luziânia,0,0,Fortaleza,False,False,first
+2013-04-17,Fortaleza,0,0,Luziânia,False,False,first
 2013-05-01,Campinense,1,2,Flamengo,False,False,second
 2013-05-15,Flamengo,2,1,Campinense,False,False,second
 2013-05-01,ASA,3,0,Ceará,False,False,second

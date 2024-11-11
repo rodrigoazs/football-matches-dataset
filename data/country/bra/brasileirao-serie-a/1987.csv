@@ -286,17 +286,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1987-12-06,Sampaio Corrêa,1,1,Maranhão,False,False,first
 1987-12-06,Serrano,0,0,Ferroviário,False,False,first
 1987-12-06,Imperatriz,1,1,Piauí,False,False,first
-1987-12-06,Moto Clube,3,1,River,False,False,first
+1987-12-06,Moto Club,3,1,River,False,False,first
 1987-12-06,Imperatriz,0,0,River,False,False,first
-1987-12-06,Moto Clube,0,0,Piauí,False,False,first
-1987-12-06,Imperatriz,0,2,Moto Clube,False,False,first
+1987-12-06,Moto Club,0,0,Piauí,False,False,first
+1987-12-06,Imperatriz,0,2,Moto Club,False,False,first
 1987-12-06,Piauí,2,0,River,False,False,first
 1987-12-06,River,1,0,Piauí,False,False,first
-1987-12-06,Moto Clube,2,0,Imperatriz,False,False,first
-1987-12-06,Piauí,0,0,Moto Clube,False,False,first
+1987-12-06,Moto Club,2,0,Imperatriz,False,False,first
+1987-12-06,Piauí,0,0,Moto Club,False,False,first
 1987-12-06,River,1,2,Imperatriz,False,False,first
 1987-12-06,Piauí,1,0,Imperatriz,False,False,first
-1987-12-06,River,1,3,Moto Clube,False,False,first
+1987-12-06,River,1,3,Moto Club,False,False,first
 1987-12-06,Nacional-AM,2,1,Rio Negro,False,False,first
 1987-12-06,Paysandu,0,1,Tuna Luso,False,False,first
 1987-12-06,Nacional-AM,1,2,Paysandu,False,False,first
@@ -317,8 +317,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1987-11-21,Botafogo-PB,0,0,Sampaio Corrêa,False,False,first
 1987-11-18,América-RN,1,0,Ferroviário,False,False,first
 1987-11-21,Ferroviário,0,2,América-RN,False,False,first
-1987-11-18,Tuna Luso,2,0,Moto Clube,False,False,first
-1987-11-21,Moto Clube,2,0,Tuna Luso,False,False,first
+1987-11-18,Tuna Luso,2,0,Moto Club,False,False,first
+1987-11-21,Moto Club,2,0,Tuna Luso,False,False,first
 1987-11-18,Piauí,1,1,Paysandu,False,False,first
 1987-11-21,Paysandu,2,0,Piauí,False,False,first
 1987-11-25,Tuna Luso,2,2,Paysandu,False,False,first

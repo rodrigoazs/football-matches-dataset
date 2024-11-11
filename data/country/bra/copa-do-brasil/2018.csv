@@ -2,7 +2,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-01-30,Caxias,0,0,Atlético-PR,False,True,first
 2018-01-31,Tubarão,2,0,América-RN,False,True,first
 2018-02-07,Brusque,0,1,Ceará,False,True,first
-2018-01-31,Real Ariquemes,0,1,Londrina-PR,False,True,first
+2018-01-31,Real Ariquemes,0,1,Londrina,False,True,first
 2018-01-31,Boavista,1,1,Internacional,False,True,first
 2018-02-07,Atlético Itapemirim,0,2,Remo,False,True,first
 2018-02-07,São Caetano-SP,1,1,Criciúma,False,True,first
@@ -10,18 +10,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-01-31,Caldense,0,1,Fluminense,False,True,first
 2018-01-31,Novoperário-MS,2,3,Salgueiro-PE,False,True,first
 2018-02-07,Ceilândia,2,3,Avaí,False,True,first
-2018-01-31,Interporto,0,0,Juventude-RS,False,True,first
+2018-01-31,Interporto,0,0,Juventude,False,True,first
 2018-02-07,Parnahyba-PI,1,1,Coritiba,False,True,first
 2018-01-31,Uberlândia-MG,2,0,Ituano,False,True,first
-2018-02-07,Sinop-MT,0,1,Goiás-GO,False,True,first
+2018-02-07,Sinop-MT,0,1,Goiás,False,True,first
 2018-01-30,Vitória da Conquista-BA,0,0,Boa Esporte,False,True,first
 2018-02-06,Nacional-AM,0,0,Ponte Preta-SP,False,True,first
 2018-02-06,Internacional-SP,1,0,Rio Branco-AC,False,True,first
 2018-02-01,URT-MG,1,1,Paraná-PR,False,True,first
 2018-01-31,Independente-PA,0,1,Sampaio Corrêa-MA,False,True,first
 2018-01-31,Madureira,0,1,São Paulo,False,True,first
-2018-02-07,Manaus-AM,2,2,CSA,False,True,first
-2018-01-01,Novo Hamburgo-RS,2,1,Paysandu-PA,False,True,first
+2018-02-07,Manaus,2,2,CSA,False,True,first
+2018-01-01,Novo Hamburgo-RS,2,1,Paysandu,False,True,first
 2018-02-07,União-MT,1,3,CRB,False,True,first
 2018-02-07,Globo,0,2,Vitória-BA,False,True,first
 2018-02-07,Corumbaense,1,0,ASA,False,True,first
@@ -31,7 +31,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-01-31,Floresta-CE,0,2,Botafogo-PB,False,True,first
 2018-01-31,Treze,0,2,Figueirense-SC,False,True,first
 2018-02-06,Brasiliense,1,1,Oeste-SP,False,True,first
-2018-02-07,Santos-AP,1,2,Sport-PE,False,True,first
+2018-02-07,Santos-AP,1,2,Sport,False,True,first
 2018-02-07,Ferroviário-CE,2,1,Confiança,False,True,first
 2018-01-31,Itabaiana,0,1,Joinville,False,True,first
 2018-02-07,São Raimundo-RR,0,1,Vila Nova-GO,False,True,first
