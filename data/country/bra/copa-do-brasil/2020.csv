@@ -38,7 +38,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-02-13,São Raimundo-RR,2,2,Cruzeiro,False,True,first
 2020-02-19,Lagarto-SE,1,0,Volta Redonda,False,True,first
 2020-02-19,Boavista,0,2,Chapecoense,False,True,first
-2020-02-26,Moto Club-MA,2,4,Fluminense-RJ,False,True,first
+2020-02-26,Moto Club-MA,2,4,Fluminense,False,True,first
 2020-02-18,Vitoria FC-ES,0,1,Figueirense-SC,False,True,second
 2020-02-19,Paysandu-PA,1,1,CRB,False,True,second
 2020-02-19,Náutico-PE,1,1,Botafogo,False,True,second
@@ -51,7 +51,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-02-26,Afogados,2,2,Atlético-MG,False,True,second
 2020-02-27,São José-RS,0,0,Chapecoense,False,True,second
 2020-02-27,Ponte Preta-SP,0,0,Vila Nova-GO,False,True,second
-2020-03-04,Fluminense-RJ,2,0,Botafogo-PB,False,True,second
+2020-03-04,Fluminense,2,0,Botafogo-PB,False,True,second
 2020-03-04,Santo André-SP,0,2,Goiás-GO,False,True,second
 2020-03-04,Brasil-RS,1,0,Manaus-AM,False,True,second
 2020-03-04,Boa Esporte,1,1,Cruzeiro,False,True,second
@@ -61,7 +61,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-03-05,Vasco da Gama,1,0,ABC,False,True,second
 2020-03-10,Botafogo,1,0,Paraná-PR,False,False,third
 2020-03-11,Juventude-RS,1,1,América-RN,False,False,third
-2020-03-11,Figueirense-SC,1,0,Fluminense-RJ,False,False,third
+2020-03-11,Figueirense-SC,1,0,Fluminense,False,False,third
 2020-03-11,Ferroviária-SP,0,0,América-MG,False,False,third
 2020-03-11,Cruzeiro,0,2,CRB,False,False,third
 2020-03-11,Atlético-GO,2,0,São José-RS,False,False,third
@@ -71,7 +71,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-03-12,Vasco da Gama,0,1,Goiás-GO,False,False,third
 2020-08-25,Afogados,0,2,Ponte Preta-SP,False,False,third
 2020-08-25,América-MG,1,0,Ferroviária-SP,False,False,third
-2020-08-25,Fluminense-RJ,3,0,Figueirense-SC,False,False,third
+2020-08-25,Fluminense,3,0,Figueirense-SC,False,False,third
 2020-08-26,América-RN,1,1,Juventude-RS,False,False,third
 2020-08-26,CRB,1,1,Cruzeiro,False,False,third
 2020-08-26,Paraná-PR,1,2,Botafogo,False,False,third
@@ -80,7 +80,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-08-27,Brusque,1,0,Brasil-RS,False,False,third
 2020-08-27,São José-RS,1,0,Atlético-GO,False,False,third
 2020-09-16,Ponte Preta-SP,2,2,América-MG,False,False,fourth
-2020-09-16,Fluminense-RJ,1,0,Atlético-GO,False,False,fourth
+2020-09-16,Fluminense,1,0,Atlético-GO,False,False,fourth
 2020-09-16,Brusque,0,2,Ceará,False,False,fourth
 2020-09-17,Juventude-RS,2,0,CRB,False,False,fourth
 2020-09-17,Botafogo,1,0,Vasco da Gama,False,False,fourth
@@ -88,7 +88,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-09-22,América-MG,3,1,Ponte Preta-SP,False,False,fourth
 2020-09-23,Ceará,5,1,Brusque,False,False,fourth
 2020-09-23,Vasco da Gama,0,0,Botafogo,False,False,fourth
-2020-09-24,Atlético-GO,3,1,Fluminense-RJ,False,False,fourth
+2020-09-24,Atlético-GO,3,1,Fluminense,False,False,fourth
 2020-10-14,Fortaleza,3,3,São Paulo,False,False,round16
 2020-10-25,São Paulo,2,2,Fortaleza,False,False,round16
 2020-10-27,Botafogo,0,1,Cuiabá,False,False,round16
@@ -96,26 +96,26 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-10-28,Atlético-GO,1,2,Internacional,False,False,round16
 2020-10-28,Athletico-PR,0,1,Flamengo-RJ,False,False,round16
 2020-10-28,Corinthians,0,1,América-MG,False,False,round16
-2020-10-29,Bragantino,1,3,Palmeiras-SP,False,False,round16
+2020-10-29,RB Bragantino,1,3,Palmeiras,False,False,round16
 2020-10-29,Grêmio,1,0,Juventude-RS,False,False,round16
 2020-11-03,Cuiabá,0,0,Botafogo,False,False,round16
 2020-11-03,Internacional,2,1,Atlético-GO,False,False,round16
 2020-11-04,Ceará,1,0,Santos,False,False,round16
 2020-11-04,Flamengo-RJ,3,2,Athletico-PR,False,False,round16
 2020-11-04,América-MG,1,1,Corinthians,False,False,round16
-2020-11-05,Palmeiras-SP,1,0,Bragantino,False,False,round16
+2020-11-05,Palmeiras,1,0,RB Bragantino,False,False,round16
 2020-11-05,Juventude-RS,0,1,Grêmio,False,False,round16
-2020-11-11,Palmeiras-SP,3,0,Ceará,False,False,quarter
+2020-11-11,Palmeiras,3,0,Ceará,False,False,quarter
 2020-11-11,Cuiabá,1,2,Grêmio,False,False,quarter
 2020-11-11,Flamengo-RJ,1,2,São Paulo,False,False,quarter
 2020-11-11,Internacional,0,1,América-MG,False,False,quarter
 2020-11-18,Grêmio,2,0,Cuiabá,False,False,quarter
-2020-11-18,Ceará,2,2,Palmeiras-SP,False,False,quarter
+2020-11-18,Ceará,2,2,Palmeiras,False,False,quarter
 2020-11-18,São Paulo,3,0,Flamengo-RJ,False,False,quarter
 2020-11-18,América-MG,0,1,Internacional,False,False,quarter
 2020-12-23,Grêmio,1,0,São Paulo,False,False,semi
-2020-12-23,Palmeiras-SP,1,1,América-MG,False,False,semi
+2020-12-23,Palmeiras,1,1,América-MG,False,False,semi
 2020-12-30,São Paulo,0,0,Grêmio,False,False,semi
-2020-12-30,América-MG,0,2,Palmeiras-SP,False,False,semi
-2021-02-28,Grêmio,0,1,Palmeiras-SP,False,False,final
-2021-03-07,Palmeiras-SP,2,0,Grêmio,False,False,final
+2020-12-30,América-MG,0,2,Palmeiras,False,False,semi
+2021-02-28,Grêmio,0,1,Palmeiras,False,False,final
+2021-03-07,Palmeiras,2,0,Grêmio,False,False,final

@@ -12,8 +12,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2001-03-21,Paysandú-PA,1,1,Nacional-AM,False,False,first
 2001-03-21,Operário-MS,0,6,Atlético-MG,False,False,first
 2001-03-14,Americano,2,6,Goiás-GO,False,False,first
-2001-03-15,Cachoeiro,0,1,Fluminense-RJ,False,False,first
-2001-03-21,Fluminense-RJ,2,1,Cachoeiro,False,False,first
+2001-03-15,Cachoeiro,0,1,Fluminense,False,False,first
+2001-03-21,Fluminense,2,1,Cachoeiro,False,False,first
 2001-03-14,Malutrom-PR,1,0,Juventude-MT,False,False,first
 2001-03-22,Juventude-MT,4,0,Malutrom-PR,False,False,first
 2001-03-14,Villa Nova-MG,3,2,Grêmio,False,False,first

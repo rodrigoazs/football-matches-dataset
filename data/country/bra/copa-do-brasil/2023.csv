@@ -21,7 +21,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2023-03-01,Cordino,0,2,Brasil-RS,False,True,first
 2023-03-01,ASA,1,1,Goiás-GO,False,True,first
 2023-03-01,Atlético-BA,0,0,Atlético-GO,False,True,first
-2023-03-01,Bahia de Feira,1,1,Bragantino,False,True,first
+2023-03-01,Bahia de Feira,1,1,RB Bragantino,False,True,first
 2023-03-01,Tuntum-MA,0,5,ABC,False,True,first
 2023-03-01,Campinense,0,2,Grêmio,False,True,first
 2023-03-01,União-MT,0,1,CRB,False,True,first
@@ -53,7 +53,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2023-03-14,Coritiba,1,1,Criciúma,False,True,second
 2023-03-15,Atlético-GO,1,1,Volta Redonda,False,True,second
 2023-03-09,Náutico-PE,2,1,Vila Nova-GO,False,True,second
-2023-03-15,Ypiranga-RS,3,1,Bragantino,False,True,second
+2023-03-15,Ypiranga-RS,3,1,RB Bragantino,False,True,second
 2023-03-16,Vasco da Gama,0,0,ABC,False,True,second
 2023-03-09,Santos,3,0,Iguatu,False,True,second
 2023-03-08,Tombense,1,0,Retrô-PE,False,True,second

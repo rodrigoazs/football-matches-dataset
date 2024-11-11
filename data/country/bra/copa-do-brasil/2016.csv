@@ -51,9 +51,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-28,Imperatriz,0,2,Fortaleza,False,False,first
 2016-03-16,Bahia,0,0,Globo,False,False,first
 2016-04-06,Globo,1,3,Bahia,False,False,first
-2016-04-20,América-MG,1,1,Bragantino,False,False,first
-2016-04-28,Bragantino,2,3,América-MG,False,False,first
-2016-04-06,Fluminense-RJ,3,0,Tombense,False,False,first
+2016-04-20,América-MG,1,1,RB Bragantino,False,False,first
+2016-04-28,RB Bragantino,2,3,América-MG,False,False,first
+2016-04-06,Fluminense,3,0,Tombense,False,False,first
 2016-03-17,Salgueiro-PE,0,1,Ferroviária-SP,False,False,first
 2016-04-13,Ferroviária-SP,1,1,Salgueiro-PE,False,False,first
 2016-04-06,Sport-PE,0,2,Aparecidense,False,False,first
@@ -73,7 +73,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-04-27,Juazeirense,0,1,Cuiabá,False,False,first
 2016-04-21,Avaí,0,1,Operário-MT,False,False,first
 2016-04-28,Operário-MT,0,2,Avaí,False,False,first
-2016-04-20,Bragantino,2,0,Brasília,False,False,first
+2016-04-20,RB Bragantino,2,0,Brasília,False,False,first
 2016-05-11,Santos,3,0,Galvez,False,False,second
 2016-06-01,ABC,1,1,Gama,False,False,second
 2016-06-15,Gama,1,1,ABC,False,False,second
@@ -109,8 +109,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-05-12,Genus,0,3,Ponte Preta,False,False,second
 2016-05-12,Botafogo,2,1,Juazeirense,False,False,second
 2016-05-19,Juazeirense,0,1,Botafogo,False,False,second
-2016-05-03,Avaí,0,1,Bragantino,False,False,second
-2016-05-10,Bragantino,1,1,Avaí,False,False,second
+2016-05-03,Avaí,0,1,RB Bragantino,False,False,second
+2016-05-10,RB Bragantino,1,1,Avaí,False,False,second
 2016-07-20,Santos,0,0,Gama,False,False,third
 2016-07-27,Gama,0,3,Santos,False,False,third
 2016-07-13,Ceará,0,3,Botafogo-PB,False,False,third
@@ -129,8 +129,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2016-07-27,Fluminense,2,0,Ypiranga-RS,False,False,third
 2016-07-13,Ponte Preta,0,0,Figueirense,False,False,third
 2016-07-27,Figueirense,0,5,Ponte Preta,False,False,third
-2016-07-13,Botafogo,2,2,Bragantino,False,False,third
-2016-07-27,Bragantino,0,1,Botafogo,False,False,third
+2016-07-13,Botafogo,2,2,RB Bragantino,False,False,third
+2016-07-27,RB Bragantino,0,1,Botafogo,False,False,third
 2016-08-24,Juventude,2,1,São Paulo,False,False,round16
 2016-09-22,São Paulo,1,0,Juventude,False,False,round16
 2016-08-31,Corinthians,1,1,Fluminense,False,False,round16

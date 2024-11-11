@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-2012-03-14,Coruripe,0,1,Palmeiras-SP,False,False,first
-2012-03-22,Palmeiras-SP,3,0,Coruripe,False,False,first
+2012-03-14,Coruripe,0,1,Palmeiras,False,False,first
+2012-03-22,Palmeiras,3,0,Coruripe,False,False,first
 2012-03-07,Horizonte,2,0,América-RN,False,False,first
 2012-03-14,América-RN,2,0,Horizonte,False,False,first
 2012-03-07,Gama,0,2,Ceará,False,False,first

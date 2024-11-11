@@ -5,8 +5,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2005-02-02,CFZ de Brasília,0,2,Coritiba,False,False,first
 2005-02-02,Palmas-TO,0,1,Náutico-PE,False,False,first
 2005-03-02,Náutico-PE,3,1,Palmas-TO,False,False,first
-2005-02-16,Campinense,1,0,Fluminense-RJ,False,False,first
-2005-03-02,Fluminense-RJ,3,1,Campinense,False,False,first
+2005-02-16,Campinense,1,0,Fluminense,False,False,first
+2005-03-02,Fluminense,3,1,Campinense,False,False,first
 2005-02-02,Esportivo,4,1,Londrina-PR,False,False,first
 2005-02-16,Londrina-PR,2,0,Esportivo,False,False,first
 2005-02-16,Bahia,2,1,Grêmio,False,False,first

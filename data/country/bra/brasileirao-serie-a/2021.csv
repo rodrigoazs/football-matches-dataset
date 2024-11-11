@@ -5,13 +5,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-05-30,Atlético-MG,1,2,Fortaleza,False,False,first
 2021-05-30,Ceará,3,2,Grêmio,False,False,first
 2021-05-30,Flamengo,1,0,Palmeiras,False,False,first
-2021-05-30,Chapecoense,0,3,Bragantino,False,False,first
+2021-05-30,Chapecoense,0,3,RB Bragantino,False,False,first
 2021-05-30,Corinthians,0,1,Atlético-GO,False,False,first
 2021-05-30,Athletico-PR,1,0,América-MG,False,False,first
 2021-05-30,Internacional,2,2,Sport,False,False,first
 2021-06-05,Atlético-GO,2,0,São Paulo,False,False,first
 2021-06-05,Santos,3,1,Ceará,False,False,first
-2021-06-05,Bragantino,3,3,Bahia,False,False,first
+2021-06-05,RB Bragantino,3,3,Bahia,False,False,first
 2021-06-06,Fluminense,1,0,Cuiabá,False,False,first
 2021-06-06,América-MG,0,1,Corinthians,False,False,first
 2021-06-06,Fortaleza,5,1,Internacional,False,False,first
@@ -26,17 +26,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-06-13,Fortaleza,1,0,Sport,False,False,first
 2021-06-13,Chapecoense,0,0,Ceará,False,False,first
 2021-06-13,Bahia,0,1,Internacional,False,False,first
-2021-06-13,Bragantino,2,2,Fluminense,False,False,first
+2021-06-13,RB Bragantino,2,2,Fluminense,False,False,first
 2021-06-16,Internacional,0,1,Atlético-MG,False,False,first
 2021-06-16,São Paulo,1,1,Chapecoense,False,False,first
-2021-06-16,Corinthians,1,2,Bragantino,False,False,first
+2021-06-16,Corinthians,1,2,RB Bragantino,False,False,first
 2021-06-16,Juventude,0,3,Palmeiras,False,False,first
 2021-06-17,Ceará,1,2,Bahia,False,False,first
 2021-06-17,América-MG,0,0,Cuiabá,False,False,first
 2021-06-17,Atlético-GO,0,0,Fortaleza,False,False,first
 2021-06-17,Fluminense,1,0,Santos,False,False,first
 2021-06-17,Sport,1,0,Grêmio,False,False,first
-2021-06-19,Flamengo,2,3,Bragantino,False,False,first
+2021-06-19,Flamengo,2,3,RB Bragantino,False,False,first
 2021-06-20,Palmeiras,2,1,América-MG,False,False,first
 2021-06-20,Bahia,0,0,Corinthians,False,False,first
 2021-06-20,Internacional,1,1,Ceará,False,False,first
@@ -47,7 +47,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-06-21,Atlético-MG,1,1,Chapecoense,False,False,first
 2021-06-23,São Paulo,2,2,Cuiabá,False,False,first
 2021-06-23,Flamengo,2,1,Fortaleza,False,False,first
-2021-06-23,Bragantino,3,1,Palmeiras,False,False,first
+2021-06-23,RB Bragantino,3,1,Palmeiras,False,False,first
 2021-06-23,Atlético-GO,1,0,Fluminense,False,False,first
 2021-06-24,América-MG,1,1,Juventude,False,False,first
 2021-06-24,Corinthians,2,1,Sport,False,False,first
@@ -64,7 +64,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-06-27,América-MG,1,1,Internacional,False,False,first
 2021-06-27,Ceará,1,1,São Paulo,False,False,first
 2021-06-27,Sport,0,0,Cuiabá,False,False,first
-2021-06-28,Atlético-GO,0,1,Bragantino,False,False,first
+2021-06-28,Atlético-GO,0,1,RB Bragantino,False,False,first
 2021-06-30,Fluminense,1,4,Athletico-PR,False,False,first
 2021-06-30,Fortaleza,3,2,Chapecoense,False,False,first
 2021-06-30,Internacional,1,2,Palmeiras,False,False,first
@@ -72,7 +72,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-06-30,Santos,0,0,Sport,False,False,first
 2021-06-30,Corinthians,0,0,São Paulo,False,False,first
 2021-06-30,Juventude,2,0,Grêmio,False,False,first
-2021-07-01,Bragantino,0,0,Ceará,False,False,first
+2021-07-01,RB Bragantino,0,0,Ceará,False,False,first
 2021-07-01,Atlético-MG,4,1,Atlético-GO,False,False,first
 2021-07-01,Cuiabá,0,2,Flamengo,False,False,first
 2021-07-03,América-MG,2,0,Santos,False,False,first
@@ -81,13 +81,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-07-04,Chapecoense,0,2,Bahia,False,False,first
 2021-07-04,Flamengo,0,1,Fluminense,False,False,first
 2021-07-04,Sport,0,1,Palmeiras,False,False,first
-2021-07-04,São Paulo,1,2,Bragantino,False,False,first
+2021-07-04,São Paulo,1,2,RB Bragantino,False,False,first
 2021-07-04,Ceará,2,0,Juventude,False,False,first
 2021-07-04,Cuiabá,0,1,Atlético-MG,False,False,first
 2021-07-04,Grêmio,0,1,Atlético-GO,False,False,first
 2021-07-06,Santos,2,1,Athletico-PR,False,False,first
 2021-07-07,Bahia,1,0,Juventude,False,False,first
-2021-07-07,Bragantino,1,1,Cuiabá,False,False,first
+2021-07-07,RB Bragantino,1,1,Cuiabá,False,False,first
 2021-07-07,Fortaleza,4,0,América-MG,False,False,first
 2021-07-07,Palmeiras,2,0,Grêmio,False,False,first
 2021-07-07,Atlético-MG,2,1,Flamengo,False,False,first
@@ -97,7 +97,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-07-08,Chapecoense,0,1,Corinthians,False,False,first
 2021-07-10,Palmeiras,3,2,Santos,False,False,first
 2021-07-10,Grêmio,0,0,Internacional,False,False,first
-2021-07-10,Athletico-PR,2,2,Bragantino,False,False,first
+2021-07-10,Athletico-PR,2,2,RB Bragantino,False,False,first
 2021-07-10,São Paulo,1,0,Bahia,False,False,first
 2021-07-10,Sport,1,2,Fluminense,False,False,first
 2021-07-10,América-MG,0,1,Atlético-MG,False,False,first
@@ -112,7 +112,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-07-18,Chapecoense,2,3,Cuiabá,False,False,first
 2021-07-18,Atlético-GO,0,3,Palmeiras,False,False,first
 2021-07-18,Bahia,0,5,Flamengo,False,False,first
-2021-07-18,Bragantino,2,2,Santos,False,False,first
+2021-07-18,RB Bragantino,2,2,Santos,False,False,first
 2021-07-18,Internacional,1,0,Juventude,False,False,first
 2021-07-19,América-MG,0,1,Sport,False,False,first
 2021-07-21,Cuiabá,2,1,Atlético-GO,False,False,first
@@ -120,7 +120,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-07-24,Palmeiras,1,0,Fluminense,False,False,first
 2021-07-25,Atlético-MG,3,0,Bahia,False,False,first
 2021-07-25,Flamengo,5,1,São Paulo,False,False,first
-2021-07-25,Fortaleza,1,0,Bragantino,False,False,first
+2021-07-25,Fortaleza,1,0,RB Bragantino,False,False,first
 2021-07-25,Santos,0,1,Atlético-GO,False,False,first
 2021-07-25,Athletico-PR,2,1,Internacional,False,False,first
 2021-07-25,Sport,0,0,Ceará,False,False,first
@@ -128,14 +128,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-07-26,Cuiabá,1,2,Corinthians,False,False,first
 2021-07-31,São Paulo,0,0,Palmeiras,False,False,first
 2021-07-31,Internacional,0,0,Cuiabá,False,False,first
-2021-07-31,Bragantino,1,0,Grêmio,False,False,first
+2021-07-31,RB Bragantino,1,0,Grêmio,False,False,first
 2021-08-01,Corinthians,1,3,Flamengo,False,False,first
 2021-08-01,Atlético-MG,2,0,Athletico-PR,False,False,first
 2021-08-01,Chapecoense,0,1,Santos,False,False,first
 2021-08-01,Bahia,0,1,Sport,False,False,first
 2021-08-01,Atlético-GO,1,1,América-MG,False,False,first
 2021-08-01,Ceará,3,1,Fortaleza,False,False,first
-2021-08-06,Sport,0,0,Bragantino,False,False,first
+2021-08-06,Sport,0,0,RB Bragantino,False,False,first
 2021-08-07,Athletico-PR,1,2,São Paulo,False,False,first
 2021-08-07,Palmeiras,2,3,Fortaleza,False,False,first
 2021-08-07,Cuiabá,1,1,Bahia,False,False,first
@@ -145,7 +145,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-08-08,Ceará,0,0,Atlético-GO,False,False,first
 2021-08-08,Flamengo,0,4,Internacional,False,False,first
 2021-08-09,Grêmio,2,1,Chapecoense,False,False,first
-2021-08-14,Bragantino,1,2,Juventude,False,False,first
+2021-08-14,RB Bragantino,1,2,Juventude,False,False,first
 2021-08-14,Atlético-MG,2,0,Palmeiras,False,False,first
 2021-08-14,São Paulo,2,1,Grêmio,False,False,first
 2021-08-15,Flamengo,2,0,Sport,False,False,first
@@ -165,7 +165,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-08-22,Santos,2,2,Internacional,False,False,first
 2021-08-22,Sport,0,1,São Paulo,False,False,first
 2021-08-23,Fluminense,1,1,Atlético-MG,False,False,first
-2021-08-23,América-MG,0,2,Bragantino,False,False,first
+2021-08-23,América-MG,0,2,RB Bragantino,False,False,first
 2021-08-28,Sport,0,0,Chapecoense,False,False,first
 2021-08-28,Santos,0,4,Flamengo,False,False,first
 2021-08-28,Grêmio,0,1,Corinthians,False,False,first
@@ -173,7 +173,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-08-29,América-MG,2,0,Ceará,False,False,first
 2021-08-29,Juventude,1,1,São Paulo,False,False,first
 2021-08-29,Atlético-GO,0,0,Internacional,False,False,first
-2021-08-29,Bragantino,1,1,Atlético-MG,False,False,first
+2021-08-29,RB Bragantino,1,1,Atlético-MG,False,False,first
 2021-08-30,Fluminense,2,0,Bahia,False,False,first
 2021-08-30,Fortaleza,0,0,Cuiabá,False,False,first
 2021-09-02,Fluminense,1,1,Juventude,False,False,first
@@ -184,7 +184,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-09-07,Chapecoense,1,2,Fluminense,False,False,first
 2021-09-11,América-MG,2,0,Athletico-PR,False,False,first
 2021-09-11,Juventude,1,2,Cuiabá,False,False,first
-2021-09-11,Bragantino,1,2,Chapecoense,False,False,first
+2021-09-11,RB Bragantino,1,2,Chapecoense,False,False,first
 2021-09-11,Santos,0,0,Bahia,False,False,first
 2021-09-12,Grêmio,2,0,Ceará,False,False,first
 2021-09-12,Palmeiras,1,3,Flamengo,False,False,first
@@ -196,7 +196,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-09-18,Athletico-PR,2,1,Juventude,False,False,first
 2021-09-18,Atlético-MG,3,0,Sport,False,False,first
 2021-09-18,Ceará,0,0,Santos,False,False,first
-2021-09-18,Bahia,1,1,Bragantino,False,False,first
+2021-09-18,Bahia,1,1,RB Bragantino,False,False,first
 2021-09-19,Internacional,1,0,Fortaleza,False,False,first
 2021-09-19,São Paulo,2,1,Atlético-GO,False,False,first
 2021-09-19,Corinthians,1,1,América-MG,False,False,first
@@ -208,14 +208,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-09-25,São Paulo,0,0,Atlético-MG,False,False,first
 2021-09-26,América-MG,1,1,Flamengo,False,False,first
 2021-09-26,Internacional,2,0,Bahia,False,False,first
-2021-09-26,Fluminense,2,1,Bragantino,False,False,first
+2021-09-26,Fluminense,2,1,RB Bragantino,False,False,first
 2021-09-26,Juventude,3,0,Santos,False,False,first
 2021-09-26,Athletico-PR,4,2,Grêmio,False,False,first
 2021-09-26,Sport,0,1,Fortaleza,False,False,first
 2021-09-26,Atlético-GO,0,0,Cuiabá,False,False,first
 2021-10-02,Cuiabá,0,2,América-MG,False,False,first
 2021-10-02,Fortaleza,0,3,Atlético-GO,False,False,first
-2021-10-02,Bragantino,2,2,Corinthians,False,False,first
+2021-10-02,RB Bragantino,2,2,Corinthians,False,False,first
 2021-10-02,Atlético-MG,1,0,Internacional,False,False,first
 2021-10-03,Flamengo,3,0,Athletico-PR,False,False,first
 2021-10-03,Chapecoense,1,1,São Paulo,False,False,first
@@ -226,7 +226,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-10-06,Atlético-GO,0,2,Athletico-PR,False,False,first
 2021-10-06,Sport,3,1,Juventude,False,False,first
 2021-10-06,Ceará,0,0,Internacional,False,False,first
-2021-10-06,Bragantino,1,1,Flamengo,False,False,first
+2021-10-06,RB Bragantino,1,1,Flamengo,False,False,first
 2021-10-06,Grêmio,2,2,Cuiabá,False,False,first
 2021-10-06,Fluminense,0,2,Fortaleza,False,False,first
 2021-10-06,América-MG,2,1,Palmeiras,False,False,first
@@ -236,12 +236,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-10-09,Sport,1,0,Corinthians,False,False,first
 2021-10-09,Fortaleza,0,3,Flamengo,False,False,first
 2021-10-09,Athletico-PR,0,2,Bahia,False,False,first
-2021-10-09,Palmeiras,2,4,Bragantino,False,False,first
+2021-10-09,Palmeiras,2,4,RB Bragantino,False,False,first
 2021-10-09,Juventude,1,1,América-MG,False,False,first
 2021-10-10,Internacional,5,2,Chapecoense,False,False,first
 2021-10-10,Santos,1,0,Grêmio,False,False,first
 2021-10-11,Cuiabá,0,0,São Paulo,False,False,first
-2021-10-12,Bragantino,1,0,Atlético-GO,False,False,first
+2021-10-12,RB Bragantino,1,0,Atlético-GO,False,False,first
 2021-10-12,Bahia,0,0,Palmeiras,False,False,first
 2021-10-13,Atlético-MG,3,1,Santos,False,False,first
 2021-10-13,Chapecoense,1,1,Athletico-PR,False,False,first
@@ -255,27 +255,27 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-10-16,América-MG,0,0,Bahia,False,False,first
 2021-10-17,Athletico-PR,0,1,Fluminense,False,False,first
 2021-10-17,Palmeiras,1,0,Internacional,False,False,first
-2021-10-17,Ceará,2,2,Bragantino,False,False,first
+2021-10-17,Ceará,2,2,RB Bragantino,False,False,first
 2021-10-17,Grêmio,3,2,Juventude,False,False,first
 2021-10-17,Atlético-GO,2,1,Atlético-MG,False,False,first
 2021-10-17,Sport,0,0,Santos,False,False,first
 2021-10-17,Flamengo,0,0,Cuiabá,False,False,first
 2021-10-18,São Paulo,1,0,Corinthians,False,False,first
 2021-10-20,Ceará,1,2,Palmeiras,False,False,first
-2021-10-21,Internacional,1,1,Bragantino,False,False,first
+2021-10-21,Internacional,1,1,RB Bragantino,False,False,first
 2021-10-23,Santos,0,2,América-MG,False,False,first
 2021-10-23,Juventude,0,0,Ceará,False,False,first
 2021-10-23,Fluminense,3,1,Flamengo,False,False,first
 2021-10-23,Fortaleza,3,0,Athletico-PR,False,False,first
 2021-10-24,Internacional,2,2,Corinthians,False,False,first
 2021-10-24,Atlético-MG,2,1,Cuiabá,False,False,first
-2021-10-24,Bragantino,1,0,São Paulo,False,False,first
+2021-10-24,RB Bragantino,1,0,São Paulo,False,False,first
 2021-10-24,Bahia,3,0,Chapecoense,False,False,first
 2021-10-25,Atlético-GO,2,0,Grêmio,False,False,first
 2021-10-25,Palmeiras,2,1,Sport,False,False,first
 2021-10-27,Santos,2,0,Fluminense,False,False,first
 2021-10-27,Bahia,1,1,Ceará,False,False,first
-2021-10-28,Bragantino,3,0,Sport,False,False,first
+2021-10-28,RB Bragantino,3,0,Sport,False,False,first
 2021-10-30,Athletico-PR,0,1,Santos,False,False,first
 2021-10-30,Flamengo,1,0,Atlético-MG,False,False,first
 2021-10-30,Juventude,0,0,Bahia,False,False,first
@@ -284,7 +284,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-10-31,Ceará,1,0,Fluminense,False,False,first
 2021-10-31,São Paulo,1,0,Internacional,False,False,first
 2021-10-31,Sport,2,0,Atlético-GO,False,False,first
-2021-11-01,Cuiabá,1,0,Bragantino,False,False,first
+2021-11-01,Cuiabá,1,0,RB Bragantino,False,False,first
 2021-11-01,Corinthians,1,0,Chapecoense,False,False,first
 2021-11-02,Athletico-PR,2,2,Flamengo,False,False,first
 2021-11-03,Atlético-MG,2,1,Grêmio,False,False,first
@@ -294,14 +294,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-11-06,Internacional,1,0,Grêmio,False,False,first
 2021-11-06,Fluminense,1,0,Sport,False,False,first
 2021-11-07,Santos,0,2,Palmeiras,False,False,first
-2021-11-07,Bragantino,0,2,Athletico-PR,False,False,first
+2021-11-07,RB Bragantino,0,2,Athletico-PR,False,False,first
 2021-11-07,Atlético-MG,1,0,América-MG,False,False,first
 2021-11-07,Bahia,1,0,São Paulo,False,False,first
 2021-11-07,Ceará,1,0,Cuiabá,False,False,first
 2021-11-08,Chapecoense,2,2,Flamengo,False,False,first
 2021-11-09,Grêmio,1,0,Fluminense,False,False,first
 2021-11-10,Athletico-PR,2,1,Ceará,False,False,first
-2021-11-10,Santos,2,0,Bragantino,False,False,first
+2021-11-10,Santos,2,0,RB Bragantino,False,False,first
 2021-11-10,Atlético-MG,3,0,Corinthians,False,False,first
 2021-11-10,Palmeiras,4,0,Atlético-GO,False,False,first
 2021-11-10,Juventude,2,1,Internacional,False,False,first
@@ -310,7 +310,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-11-11,Flamengo,3,0,Bahia,False,False,first
 2021-11-13,América-MG,3,1,Grêmio,False,False,first
 2021-11-13,Atlético-GO,0,0,Santos,False,False,first
-2021-11-13,Bragantino,3,0,Fortaleza,False,False,first
+2021-11-13,RB Bragantino,3,0,Fortaleza,False,False,first
 2021-11-13,Internacional,2,1,Athletico-PR,False,False,first
 2021-11-13,Corinthians,3,2,Cuiabá,False,False,first
 2021-11-14,São Paulo,0,4,Flamengo,False,False,first
@@ -318,7 +318,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-11-14,Ceará,2,1,Sport,False,False,first
 2021-11-14,Chapecoense,0,2,Juventude,False,False,first
 2021-11-16,Athletico-PR,0,1,Atlético-MG,False,False,first
-2021-11-16,Grêmio,3,0,Bragantino,False,False,first
+2021-11-16,Grêmio,3,0,RB Bragantino,False,False,first
 2021-11-17,América-MG,0,0,Atlético-GO,False,False,first
 2021-11-17,Santos,2,0,Chapecoense,False,False,first
 2021-11-17,Cuiabá,1,0,Internacional,False,False,first
@@ -343,13 +343,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-11-25,Santos,2,0,Fortaleza,False,False,first
 2021-11-25,Ceará,2,1,Corinthians,False,False,first
 2021-11-26,Bahia,3,1,Grêmio,False,False,first
-2021-11-27,Bragantino,1,1,América-MG,False,False,first
+2021-11-27,RB Bragantino,1,1,América-MG,False,False,first
 2021-11-27,São Paulo,2,0,Sport,False,False,first
 2021-11-28,Corinthians,1,0,Athletico-PR,False,False,first
 2021-11-28,Atlético-MG,2,1,Fluminense,False,False,first
 2021-11-28,Internacional,1,1,Santos,False,False,first
 2021-11-29,Atlético-GO,2,1,Bahia,False,False,first
-2021-11-30,Juventude,1,0,Bragantino,False,False,first
+2021-11-30,Juventude,1,0,RB Bragantino,False,False,first
 2021-11-30,América-MG,3,0,Chapecoense,False,False,first
 2021-11-30,Flamengo,2,1,Ceará,False,False,first
 2021-11-30,Cuiabá,1,3,Palmeiras,False,False,first
@@ -360,7 +360,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-12-03,Chapecoense,0,1,Atlético-GO,False,False,first
 2021-12-03,Fortaleza,1,0,Juventude,False,False,first
 2021-12-05,Bahia,2,0,Fluminense,False,False,first
-2021-12-05,Atlético-MG,4,3,Bragantino,False,False,first
+2021-12-05,Atlético-MG,4,3,RB Bragantino,False,False,first
 2021-12-05,Corinthians,1,1,Grêmio,False,False,first
 2021-12-05,Ceará,0,0,América-MG,False,False,first
 2021-12-06,Athletico-PR,0,0,Palmeiras,False,False,first
@@ -375,7 +375,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-12-09,Palmeiras,1,0,Ceará,False,False,first
 2021-12-09,Fluminense,3,0,Chapecoense,False,False,first
 2021-12-09,América-MG,2,0,São Paulo,False,False,first
-2021-12-09,Bragantino,1,0,Internacional,False,False,first
+2021-12-09,RB Bragantino,1,0,Internacional,False,False,first
 2021-12-09,Juventude,1,0,Corinthians,False,False,first
 2021-12-09,Grêmio,4,3,Atlético-MG,False,False,first
 2021-12-09,Santos,1,1,Cuiabá,False,False,first

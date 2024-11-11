@@ -20,8 +20,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2011-02-24,Coritiba,2,0,Ypiranga-RS,False,False,first
 2011-02-23,Brusque,3,2,Atlético-GO,False,False,first
 2011-03-02,Atlético-GO,1,0,Brusque,False,False,first
-2011-02-23,Comercial-PI,1,2,Palmeiras-SP,False,False,first
-2011-03-02,Palmeiras-SP,5,1,Comercial-PI,False,False,first
+2011-02-23,Comercial-PI,1,2,Palmeiras,False,False,first
+2011-03-02,Palmeiras,5,1,Comercial-PI,False,False,first
 2011-02-16,Santa Helena-GO,1,3,Uberaba-MG,False,False,first
 2011-02-24,Sampaio Corrêa-MA,0,0,Sport-PE,False,False,first
 2011-03-02,Sport-PE,2,2,Sampaio Corrêa-MA,False,False,first

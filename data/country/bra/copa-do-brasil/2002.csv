@@ -9,13 +9,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2002-02-06,Joinville,3,1,Americano,False,False,first
 2002-01-23,América-MG,1,2,Guarani-SP,False,False,first
 2002-02-06,Guarani-SP,2,1,América-MG,False,False,first
-2002-02-05,Bragantino,1,3,Paraná-PR,False,False,first
+2002-02-05,RB Bragantino,1,3,Paraná-PR,False,False,first
 2002-02-06,River-PI,1,2,Corinthians,False,False,first
 2002-02-13,Corinthians,2,0,River-PI,False,False,first
 2002-02-06,Atlético Roraima,0,1,Paysandu-PA,False,False,first
 2002-02-13,Paysandu-PA,3,0,Atlético Roraima,False,False,first
-2002-02-06,Sampaio Corrêa-MA,2,1,Fluminense-RJ,False,False,first
-2002-02-20,Fluminense-RJ,5,1,Sampaio Corrêa-MA,False,False,first
+2002-02-06,Sampaio Corrêa-MA,2,1,Fluminense,False,False,first
+2002-02-20,Fluminense,5,1,Sampaio Corrêa-MA,False,False,first
 2002-02-06,Anapolina,1,3,Juventude-RS,False,False,first
 2002-02-06,Vasco da Gama-AC,2,1,Brasiliense,False,False,first
 2002-02-13,Brasiliense,1,0,Vasco da Gama-AC,False,False,first
@@ -36,8 +36,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2002-02-13,Ceará,2,0,Rio Negro-AM,False,False,first
 2002-02-06,Caxias,1,3,Santa Cruz-PE,False,False,first
 2002-02-06,Bandeirante,1,4,Cruzeiro,False,False,first
-2002-02-13,ASA,1,0,Palmeiras-SP,False,False,first
-2002-02-20,Palmeiras-SP,2,1,ASA,False,False,first
+2002-02-13,ASA,1,0,Palmeiras,False,False,first
+2002-02-20,Palmeiras,2,1,ASA,False,False,first
 2002-02-13,São Raimundo-AM,1,1,América-RN,False,False,first
 2002-02-20,América-RN,4,0,São Raimundo-AM,False,False,first
 2002-02-13,Comercial-MS,1,1,Internacional,False,False,first

@@ -1,7 +1,7 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1993-03-02,CRB,0,1,Náutico-PE,False,False,first
 1993-03-02,Trem,0,5,Remo,False,False,first
-1993-03-02,IV de Julho-PI,0,2,Palmeiras-SP,False,False,first
+1993-03-02,IV de Julho-PI,0,2,Palmeiras,False,False,first
 1993-03-02,Vitória-BA,1,0,América-MG,False,False,first
 1993-03-05,Taguatinga-DF,1,4,Sport-PE,False,False,first
 1993-03-05,América-RN,2,2,Flamengo-RJ,False,False,first
@@ -29,14 +29,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1993-03-19,Grêmio,5,2,Sorriso-MT,False,False,first
 1993-03-24,Rio Branco-AC,0,0,Sul América-AM,False,False,first
 1993-04-06,Internacional,9,1,Ji Paraná-RO,False,False,first
-1993-04-06,Palmeiras-SP,3,0,IV de Julho-PI,False,False,first
+1993-04-06,Palmeiras,3,0,IV de Julho-PI,False,False,first
 1993-04-06,São Paulo,4,3,Sergipe-SE,False,False,first
 1993-03-25,Paysandu-PA,3,2,Flamengo-RJ,False,False,round16
 1993-03-30,União Bandeirante-PR,0,4,Grêmio,False,False,round16
 1993-04-06,Náutico-PE,1,0,Cruzeiro,False,False,round16
 1993-04-06,Remo,0,0,Vasco da Gama,False,False,round16
 1993-04-06,Ceará,1,0,Sport-PE,False,False,round16
-1993-04-06,Vitória-BA,2,1,Palmeiras-SP,False,False,round16
+1993-04-06,Vitória-BA,2,1,Palmeiras,False,False,round16
 1993-04-16,Londrina-PR,1,1,Internacional,False,False,round16
 1993-04-20,Rio Branco-AC,1,0,São Paulo,False,False,round16
 1993-04-03,Flamengo-RJ,3,0,Paysandu-PA,False,False,round16
@@ -44,17 +44,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1993-04-13,Sport-PE,0,1,Ceará,False,False,round16
 1993-04-13,Grêmio,2,1,União Bandeirante-PR,False,False,round16
 1993-04-16,Vasco da Gama,4,0,Remo,False,False,round16
-1993-04-20,Palmeiras-SP,1,0,Vitória-BA,False,False,round16
+1993-04-20,Palmeiras,1,0,Vitória-BA,False,False,round16
 1993-04-23,Internacional,0,1,Londrina-PR,False,False,round16
 1993-04-27,São Paulo,3,1,Rio Branco-AC,False,False,round16
-1993-04-27,Palmeiras-SP,1,1,Grêmio,False,False,quarter
+1993-04-27,Palmeiras,1,1,Grêmio,False,False,quarter
 1993-04-30,Flamengo-RJ,1,0,Londrina-PR,False,False,quarter
 1993-05-04,São Paulo,1,2,Cruzeiro,False,False,quarter
 1993-05-06,Ceará,1,2,Vasco da Gama,False,False,quarter
 1993-05-08,Londrina-PR,1,1,Flamengo-RJ,False,False,quarter
 1993-05-11,Cruzeiro,2,2,São Paulo,False,False,quarter
 1993-05-14,Vasco da Gama,2,0,Ceará,False,False,quarter
-1993-05-14,Grêmio,1,1,Palmeiras-SP,False,False,quarter
+1993-05-14,Grêmio,1,1,Palmeiras,False,False,quarter
 1993-05-20,Cruzeiro,3,1,Vasco da Gama,False,False,semi
 1993-05-20,Flamengo-RJ,4,3,Grêmio,False,False,semi
 1993-05-20,Vasco da Gama,1,1,Cruzeiro,False,False,semi

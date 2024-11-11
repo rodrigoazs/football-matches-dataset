@@ -4,15 +4,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-08-20,Cruzeiro,0,0,Juventude,False,False,first
 1995-08-20,Paraná,2,0,Grêmio,False,False,first
 1995-08-23,Botafogo,3,1,Paysandu,False,False,first
-1995-08-23,Bragantino,0,2,Palmeiras,False,False,first
+1995-08-23,RB Bragantino,0,2,Palmeiras,False,False,first
 1995-08-23,Juventude,1,2,Paraná,False,False,first
 1995-08-24,Guarani,2,1,Corinthians,False,False,first
 1995-08-26,Paraná,1,0,Palmeiras,False,False,first
 1995-08-27,Botafogo,3,1,Guarani,False,False,first
-1995-08-27,Flamengo,2,1,Bragantino,False,False,first
+1995-08-27,Flamengo,2,1,RB Bragantino,False,False,first
 1995-08-27,Cruzeiro,2,0,Corinthians,False,False,first
 1995-08-27,Paysandu,1,1,Vitória,False,False,first
-1995-08-30,Bragantino,1,0,Botafogo,False,False,first
+1995-08-30,RB Bragantino,1,0,Botafogo,False,False,first
 1995-08-30,Corinthians,1,1,Paraná,False,False,first
 1995-08-30,Paysandu,2,0,Juventude,False,False,first
 1995-08-31,Guarani,0,0,Flamengo,False,False,first
@@ -21,18 +21,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-09-03,Flamengo,1,2,Palmeiras,False,False,first
 1995-09-03,Guarani,1,0,Paraná,False,False,first
 1995-09-03,Grêmio,1,1,Paysandu,False,False,first
-1995-09-03,Bragantino,2,1,Cruzeiro,False,False,first
+1995-09-03,RB Bragantino,2,1,Cruzeiro,False,False,first
 1995-09-05,Juventude,1,1,Grêmio,False,False,first
-1995-09-06,Corinthians,1,2,Bragantino,False,False,first
+1995-09-06,Corinthians,1,2,RB Bragantino,False,False,first
 1995-09-06,Paysandu,2,0,Flamengo,False,False,first
 1995-09-07,Vitória,2,0,Grêmio,False,False,first
 1995-09-07,Palmeiras,2,1,Botafogo,False,False,first
 1995-09-09,Corinthians,2,1,Flamengo,False,False,first
-1995-09-10,Juventude,1,1,Bragantino,False,False,first
+1995-09-10,Juventude,1,1,RB Bragantino,False,False,first
 1995-09-10,Grêmio,2,1,Guarani,False,False,first
 1995-09-10,Cruzeiro,3,0,Vitória,False,False,first
 1995-09-13,Corinthians,0,2,Palmeiras,False,False,first
-1995-09-13,Guarani,3,3,Bragantino,False,False,first
+1995-09-13,Guarani,3,3,RB Bragantino,False,False,first
 1995-09-13,Paysandu,1,3,Cruzeiro,False,False,first
 1995-09-13,Vitória,3,3,Paraná,False,False,first
 1995-09-13,Juventude,0,2,Flamengo,False,False,first
@@ -41,12 +41,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-09-20,Botafogo,0,0,Juventude,False,False,first
 1995-09-20,Corinthians,3,0,Vitória,False,False,first
 1995-09-20,Palmeiras,2,1,Paysandu,False,False,first
-1995-09-20,Paraná,0,0,Bragantino,False,False,first
+1995-09-20,Paraná,0,0,RB Bragantino,False,False,first
 1995-09-21,Flamengo,2,2,Grêmio,False,False,first
 1995-09-23,Vitória,0,0,Palmeiras,False,False,first
 1995-09-24,Flamengo,1,3,Botafogo,False,False,first
 1995-09-24,Paysandu,3,3,Corinthians,False,False,first
-1995-09-24,Bragantino,2,0,Grêmio,False,False,first
+1995-09-24,RB Bragantino,2,0,Grêmio,False,False,first
 1995-09-24,Guarani,0,1,Juventude,False,False,first
 1995-09-24,Paraná,1,2,Cruzeiro,False,False,first
 1995-09-28,Grêmio,2,0,Cruzeiro,False,False,first
@@ -55,7 +55,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-09-30,Corinthians,0,1,Juventude,False,False,first
 1995-10-01,Cruzeiro,5,3,Botafogo,False,False,first
 1995-10-01,Palmeiras,3,0,Grêmio,False,False,first
-1995-10-01,Vitória,0,1,Bragantino,False,False,first
+1995-10-01,Vitória,0,1,RB Bragantino,False,False,first
 1995-10-01,Paysandu,2,2,Guarani,False,False,first
 1995-10-04,Cruzeiro,2,0,Guarani,False,False,first
 1995-10-04,Paraná,1,0,Paysandu,False,False,first
@@ -63,7 +63,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-10-08,Botafogo,0,0,Paraná,False,False,first
 1995-10-08,Flamengo,0,2,Cruzeiro,False,False,first
 1995-10-08,Juventude,1,1,Palmeiras,False,False,first
-1995-10-08,Bragantino,2,0,Paysandu,False,False,first
+1995-10-08,RB Bragantino,2,0,Paysandu,False,False,first
 1995-10-08,Guarani,3,1,Vitória,False,False,first
 1995-08-19,Santos,1,1,Goiás,False,False,first
 1995-08-20,Fluminense,1,0,Criciúma,False,False,first
@@ -136,7 +136,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-10-12,São Paulo,0,2,Botafogo,False,False,first
 1995-10-12,Portuguesa-SP,0,1,Corinthians,False,False,first
 1995-10-12,Vasco da Gama,0,1,Palmeiras,False,False,first
-1995-10-12,Santos,4,4,Bragantino,False,False,first
+1995-10-12,Santos,4,4,RB Bragantino,False,False,first
 1995-10-12,Atlético-MG,2,0,Cruzeiro,False,False,first
 1995-10-12,Bahia,1,0,Grêmio,False,False,first
 1995-10-12,Sport,3,1,Juventude,False,False,first
@@ -147,7 +147,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-10-15,Botafogo,0,0,Internacional,False,False,first
 1995-10-15,Flamengo,1,0,Criciúma,False,False,first
 1995-10-15,Corinthians,3,1,Atlético-MG,False,False,first
-1995-10-15,Bragantino,3,0,Portuguesa-SP,False,False,first
+1995-10-15,RB Bragantino,3,0,Portuguesa-SP,False,False,first
 1995-10-15,Cruzeiro,2,3,Vasco da Gama,False,False,first
 1995-10-15,Grêmio,2,0,União São João,False,False,first
 1995-10-15,Juventude,1,1,Santos,False,False,first
@@ -159,7 +159,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-10-21,Criciúma,1,1,Corinthians,False,False,first
 1995-10-22,Sport,1,2,Botafogo,False,False,first
 1995-10-22,Internacional,2,0,Palmeiras,False,False,first
-1995-10-22,Atlético-MG,1,1,Bragantino,False,False,first
+1995-10-22,Atlético-MG,1,1,RB Bragantino,False,False,first
 1995-10-22,Goiás,3,1,Guarani,False,False,first
 1995-10-22,Santos,2,1,Cruzeiro,False,False,first
 1995-10-22,União São João,2,1,Paraná,False,False,first
@@ -173,7 +173,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-10-28,Palmeiras,1,1,Fluminense,False,False,first
 1995-10-29,Flamengo,1,1,Vasco da Gama,False,False,first
 1995-10-29,Corinthians,1,0,São Paulo,False,False,first
-1995-10-29,Bragantino,0,0,Criciúma,False,False,first
+1995-10-29,RB Bragantino,0,0,Criciúma,False,False,first
 1995-10-29,Guarani,2,1,Internacional,False,False,first
 1995-10-29,Cruzeiro,0,0,Goiás,False,False,first
 1995-10-29,Paraná,2,3,Atlético-MG,False,False,first
@@ -182,7 +182,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-10-29,Vitória,4,0,Santos,False,False,first
 1995-10-29,Paysandu,2,2,União São João,False,False,first
 1995-10-31,Internacional,0,1,Grêmio,False,False,first
-1995-11-01,Vasco da Gama,3,1,Bragantino,False,False,first
+1995-11-01,Vasco da Gama,3,1,RB Bragantino,False,False,first
 1995-11-04,Criciúma,1,1,Botafogo,False,False,first
 1995-11-04,Goiás,2,1,Corinthians,False,False,first
 1995-11-05,Internacional,0,0,Flamengo,False,False,first
@@ -201,7 +201,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-11-09,Palmeiras,3,0,Bahia,False,False,first
 1995-11-09,Botafogo,3,0,União São João,False,False,first
 1995-11-09,Flamengo,0,3,Santos,False,False,first
-1995-11-09,Bragantino,1,0,Fluminense,False,False,first
+1995-11-09,RB Bragantino,1,0,Fluminense,False,False,first
 1995-11-09,Juventude,1,1,Atlético-MG,False,False,first
 1995-11-10,Paraná,2,2,Portuguesa-SP,False,False,first
 1995-11-11,Grêmio,2,1,São Paulo,False,False,first
@@ -210,7 +210,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-11-12,Botafogo,5,0,Atlético-MG,False,False,first
 1995-11-12,Flamengo,2,1,Goiás,False,False,first
 1995-11-12,Palmeiras,2,0,Criciúma,False,False,first
-1995-11-12,Bragantino,3,0,Bahia,False,False,first
+1995-11-12,RB Bragantino,3,0,Bahia,False,False,first
 1995-11-12,Guarani,3,1,Sport,False,False,first
 1995-11-12,Cruzeiro,2,1,União São João,False,False,first
 1995-11-12,Paraná,0,0,Santos,False,False,first
@@ -227,7 +227,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-11-19,Atlético-MG,2,1,Flamengo,False,False,first
 1995-11-19,Vasco da Gama,1,3,Paraná,False,False,first
 1995-11-19,Bahia,1,0,Guarani,False,False,first
-1995-11-19,Sport,2,0,Bragantino,False,False,first
+1995-11-19,Sport,2,0,RB Bragantino,False,False,first
 1995-11-19,Fluminense,0,2,Cruzeiro,False,False,first
 1995-11-19,Portuguesa-SP,2,1,Paysandu,False,False,first
 1995-11-19,Santos,3,0,Corinthians,False,False,first
@@ -235,7 +235,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-11-21,Cruzeiro,4,1,Criciúma,False,False,first
 1995-11-22,Palmeiras,0,1,Santos,False,False,first
 1995-11-22,Botafogo,2,0,Bahia,False,False,first
-1995-11-22,Bragantino,2,1,Goiás,False,False,first
+1995-11-22,RB Bragantino,2,1,Goiás,False,False,first
 1995-11-22,Paraná,2,2,Internacional,False,False,first
 1995-11-22,Juventude,3,1,Fluminense,False,False,first
 1995-11-22,Vitória,1,2,Portuguesa-SP,False,False,first
@@ -247,7 +247,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-11-26,Vasco da Gama,0,2,Botafogo,False,False,first
 1995-11-26,Fluminense,1,1,Corinthians,False,False,first
 1995-11-26,São Paulo,0,2,Palmeiras,False,False,first
-1995-11-26,Internacional,2,2,Bragantino,False,False,first
+1995-11-26,Internacional,2,2,RB Bragantino,False,False,first
 1995-11-26,Criciúma,2,0,Guarani,False,False,first
 1995-11-26,Sport,1,0,Cruzeiro,False,False,first
 1995-11-26,Bahia,0,2,Paraná,False,False,first
@@ -261,10 +261,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1995-11-29,Internacional,2,0,Cruzeiro,False,False,first
 1995-11-29,Criciúma,0,0,Paraná,False,False,first
 1995-11-29,Goiás,2,0,Vitória,False,False,first
-1995-11-30,São Paulo,2,0,Bragantino,False,False,first
+1995-11-30,São Paulo,2,0,RB Bragantino,False,False,first
 1995-11-30,Vasco da Gama,1,2,Juventude,False,False,first
 1995-11-02,Corinthians,3,1,Vasco da Gama,False,False,first
-1995-11-02,Bragantino,3,1,União São João,False,False,first
+1995-11-02,RB Bragantino,3,1,União São João,False,False,first
 1995-11-03,Botafogo,1,1,Fluminense,False,False,first
 1995-11-03,Flamengo,2,2,São Paulo,False,False,first
 1995-11-03,Palmeiras,1,2,Portuguesa-SP,False,False,first

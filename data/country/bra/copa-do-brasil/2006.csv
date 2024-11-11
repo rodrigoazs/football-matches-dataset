@@ -41,8 +41,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2006-03-08,Grêmio,4,0,Piauí-PI,False,False,first
 2006-02-22,XV de Novembro-RS,4,1,Noroeste-SP,False,False,first
 2006-03-08,Noroeste-SP,2,0,XV de Novembro-RS,False,False,first
-2006-02-22,Operário-MT,2,3,Fluminense-RJ,False,False,first
-2006-03-09,Fluminense-RJ,3,1,Operário-MT,False,False,first
+2006-02-22,Operário-MT,2,3,Fluminense,False,False,first
+2006-03-09,Fluminense,3,1,Operário-MT,False,False,first
 2006-02-22,CENE,2,1,Treze,False,False,first
 2006-03-08,Treze,1,3,CENE,False,False,first
 2006-02-15,Colinas,0,2,Paysandu-PA,False,False,first

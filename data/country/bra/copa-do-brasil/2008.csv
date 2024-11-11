@@ -23,7 +23,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2008-02-14,Atlético Roraima,1,7,Náutico-PE,False,False,first
 2008-02-27,Coruripe,4,1,Juventus-SP,False,False,first
 2008-03-05,Juventus-SP,5,1,Coruripe,False,False,first
-2008-02-27,CENE,0,2,Palmeiras-SP,False,False,first
+2008-02-27,CENE,0,2,Palmeiras,False,False,first
 2008-02-27,Central,0,0,Remo,False,False,first
 2008-03-05,Remo,0,2,Central,False,False,first
 2008-02-27,Imperatriz,2,2,Sport-PE,False,False,first
@@ -38,8 +38,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2008-02-27,Paraná-PR,4,0,Trem,False,False,first
 2008-02-13,Itabaiana,0,1,Vasco da Gama,False,False,first
 2008-02-27,Vasco da Gama,3,2,Itabaiana,False,False,first
-2008-02-27,Democrata-GV,3,2,Bragantino,False,False,first
-2008-03-05,Bragantino,2,1,Democrata-GV,False,False,first
+2008-02-27,Democrata-GV,3,2,RB Bragantino,False,False,first
+2008-03-05,RB Bragantino,2,1,Democrata-GV,False,False,first
 2008-02-27,ICASA,3,2,Bahia,False,False,first
 2008-03-05,Bahia,2,2,ICASA,False,False,first
 2008-02-13,Baraúnas,2,2,Criciúma,False,False,first
@@ -73,8 +73,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2008-03-19,Chapecoense,0,2,Internacional,False,False,second
 2008-03-19,Paraná,1,0,Vitória,False,False,second
 2008-04-02,Vitória,2,1,Paraná,False,False,second
-2008-03-20,Bragantino,2,2,Vasco da Gama,False,False,second
-2008-04-03,Vasco da Gama,2,1,Bragantino,False,False,second
+2008-03-20,RB Bragantino,2,2,Vasco da Gama,False,False,second
+2008-04-03,Vasco da Gama,2,1,RB Bragantino,False,False,second
 2008-04-02,ICASA,1,6,Criciúma,False,False,second
 2008-04-02,Paranavaí,0,1,Corinthians-AL,False,False,second
 2008-04-09,Corinthians-AL,4,1,Paranavaí,False,False,second

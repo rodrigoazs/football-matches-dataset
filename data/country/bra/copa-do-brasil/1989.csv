@@ -59,4 +59,4 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-08-19,Sport-PE,1,0,Goiás-GO,False,False,semi
 1989-08-19,Grêmio,6,1,Flamengo-RJ,False,False,semi
 1989-08-26,Sport-PE,0,0,Grêmio,False,False,final
-1989-09-02,Grêmio,2,1,Sport-PE    Pernambuco,False,False,final
+1989-09-02,Grêmio,2,1,Sport,False,False,final

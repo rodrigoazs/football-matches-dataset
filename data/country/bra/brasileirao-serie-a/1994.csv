@@ -1,34 +1,34 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1994-08-13,Criciúma,1,1,Corinthians,False,False,first
 1994-08-13,Sport,1,1,Flamengo,False,False,first
-1994-08-14,Bragantino,0,0,Grêmio,False,False,first
-1994-08-17,Flamengo,2,1,Bragantino,False,False,first
+1994-08-14,RB Bragantino,0,0,Grêmio,False,False,first
+1994-08-17,Flamengo,2,1,RB Bragantino,False,False,first
 1994-08-17,Grêmio,2,1,Criciúma,False,False,first
 1994-08-17,Corinthians,1,1,Sport,False,False,first
 1994-08-21,Corinthians,2,2,Grêmio,False,False,first
 1994-08-21,Criciúma,1,1,Flamengo,False,False,first
-1994-08-21,Bragantino,0,1,Sport,False,False,first
+1994-08-21,RB Bragantino,0,1,Sport,False,False,first
 1994-08-24,Grêmio,2,0,Flamengo,False,False,first
-1994-08-24,Bragantino,0,1,Corinthians,False,False,first
+1994-08-24,RB Bragantino,0,1,Corinthians,False,False,first
 1994-08-24,Sport,1,1,Criciúma,False,False,first
-1994-08-28,Criciúma,1,1,Bragantino,False,False,first
+1994-08-28,Criciúma,1,1,RB Bragantino,False,False,first
 1994-08-28,Sport,0,1,Grêmio,False,False,first
 1994-08-28,Flamengo,5,2,Corinthians,False,False,first
-1994-08-31,Corinthians,6,1,Bragantino,False,False,first
+1994-08-31,Corinthians,6,1,RB Bragantino,False,False,first
 1994-08-31,Flamengo,2,2,Grêmio,False,False,first
 1994-09-01,Criciúma,5,0,Sport,False,False,first
 1994-09-03,Corinthians,1,0,Flamengo,False,False,first
 1994-09-04,Grêmio,1,1,Sport,False,False,first
-1994-09-07,Bragantino,1,0,Criciúma,False,False,first
+1994-09-07,RB Bragantino,1,0,Criciúma,False,False,first
 1994-09-10,Grêmio,0,1,Corinthians,False,False,first
 1994-09-11,Flamengo,1,1,Criciúma,False,False,first
-1994-09-11,Sport,4,3,Bragantino,False,False,first
+1994-09-11,Sport,4,3,RB Bragantino,False,False,first
 1994-09-18,Sport,2,0,Corinthians,False,False,first
-1994-09-18,Bragantino,0,1,Flamengo,False,False,first
+1994-09-18,RB Bragantino,0,1,Flamengo,False,False,first
 1994-09-18,Criciúma,1,0,Grêmio,False,False,first
 1994-09-25,Corinthians,3,2,Criciúma,False,False,first
 1994-09-25,Flamengo,3,0,Sport,False,False,first
-1994-09-25,Grêmio,2,1,Bragantino,False,False,first
+1994-09-25,Grêmio,2,1,RB Bragantino,False,False,first
 1994-08-14,Paysandu,0,0,São Paulo,False,False,first
 1994-08-14,Botafogo,1,1,Vitória,False,False,first
 1994-08-14,Atlético-MG,0,0,Portuguesa-SP,False,False,first
@@ -242,66 +242,66 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,category
 1994-10-02,Vitória,2,0,Náutico,False,False,relegation
 1994-10-02,Cruzeiro,3,0,Criciúma,False,False,relegation
 1994-10-05,Atlético-MG,3,0,União São João,False,False,relegation
-1994-10-06,Remo,0,3,Bragantino,False,False,relegation
+1994-10-06,Remo,0,3,RB Bragantino,False,False,relegation
 1994-10-09,Cruzeiro,2,1,Vitória,False,False,relegation
 1994-10-09,Náutico,0,1,Remo,False,False,relegation
 1994-10-09,Criciúma,2,0,Atlético-MG,False,False,relegation
-1994-10-09,Bragantino,1,0,União São João,False,False,relegation
+1994-10-09,RB Bragantino,1,0,União São João,False,False,relegation
 1994-10-12,Vitória,0,1,Remo,False,False,relegation
-1994-10-16,Atlético-MG,1,1,Bragantino,False,False,relegation
+1994-10-16,Atlético-MG,1,1,RB Bragantino,False,False,relegation
 1994-10-16,Náutico,2,0,Cruzeiro,False,False,relegation
 1994-10-16,União São João,1,1,Criciúma,False,False,relegation
-1994-10-19,Bragantino,4,1,Criciúma,False,False,relegation
+1994-10-19,RB Bragantino,4,1,Criciúma,False,False,relegation
 1994-10-20,União São João,4,2,Vitória,False,False,relegation
 1994-10-20,Atlético-MG,1,0,Náutico,False,False,relegation
 1994-11-01,Remo,0,0,Cruzeiro,False,False,relegation
 1994-10-22,Remo,2,2,Criciúma,False,False,relegation
 1994-10-23,Atlético-MG,1,0,Cruzeiro,False,False,relegation
-1994-10-23,Bragantino,0,1,Vitória,False,False,relegation
+1994-10-23,RB Bragantino,0,1,Vitória,False,False,relegation
 1994-10-23,União São João,1,0,Náutico,False,False,relegation
 1994-10-26,Criciúma,2,2,Vitória,False,False,relegation
-1994-10-26,Náutico,2,0,Bragantino,False,False,relegation
+1994-10-26,Náutico,2,0,RB Bragantino,False,False,relegation
 1994-10-27,Atlético-MG,2,1,Remo,False,False,relegation
 1994-10-28,Cruzeiro,3,2,União São João,False,False,relegation
-1994-10-30,Bragantino,1,0,Cruzeiro,False,False,relegation
+1994-10-30,RB Bragantino,1,0,Cruzeiro,False,False,relegation
 1994-10-30,Vitória,1,0,Atlético-MG,False,False,relegation
 1994-10-30,Criciúma,2,1,Náutico,False,False,relegation
 1994-10-30,União São João,0,0,Remo,False,False,relegation
-1994-11-02,Vitória,0,2,Bragantino,False,False,relegation
+1994-11-02,Vitória,0,2,RB Bragantino,False,False,relegation
 1994-11-03,Remo,0,0,União São João,False,False,relegation
 1994-11-03,Náutico,3,1,Criciúma,False,False,relegation
 1994-11-23,Cruzeiro,0,1,Atlético-MG,False,False,relegation
-1994-11-06,Cruzeiro,1,1,Bragantino,False,False,relegation
+1994-11-06,Cruzeiro,1,1,RB Bragantino,False,False,relegation
 1994-11-06,Remo,0,6,Atlético-MG,False,False,relegation
 1994-11-06,Vitória,1,0,Criciúma,False,False,relegation
 1994-11-06,Náutico,0,1,União São João,False,False,relegation
 1994-11-09,Náutico,0,0,Atlético-MG,False,False,relegation
 1994-11-09,Criciúma,1,0,Cruzeiro,False,False,relegation
 1994-11-09,Vitória,1,1,União São João,False,False,relegation
-1994-11-10,Bragantino,2,0,Remo,False,False,relegation
+1994-11-10,RB Bragantino,2,0,Remo,False,False,relegation
 1994-11-13,Cruzeiro,1,5,Remo,False,False,relegation
-1994-11-13,Bragantino,2,2,Atlético-MG,False,False,relegation
+1994-11-13,RB Bragantino,2,2,Atlético-MG,False,False,relegation
 1994-11-23,Náutico,1,0,Vitória,False,False,relegation
 1994-11-23,Criciúma,3,1,União São João,False,False,relegation
 1994-11-16,Criciúma,2,1,Remo,False,False,relegation
-1994-11-16,União São João,0,0,Bragantino,False,False,relegation
+1994-11-16,União São João,0,0,RB Bragantino,False,False,relegation
 1994-11-16,Atlético-MG,2,2,Vitória,False,False,relegation
 1994-11-17,Cruzeiro,2,0,Náutico,False,False,relegation
 1994-11-20,Remo,0,1,Vitória,False,False,relegation
 1994-11-20,União São João,2,3,Cruzeiro,False,False,relegation
-1994-11-20,Bragantino,1,0,Náutico,False,False,relegation
+1994-11-20,RB Bragantino,1,0,Náutico,False,False,relegation
 1994-11-20,Atlético-MG,2,1,Criciúma,False,False,relegation
 1994-11-27,Vitória,2,0,Cruzeiro,False,False,relegation
 1994-11-27,Remo,2,0,Náutico,False,False,relegation
 1994-11-27,União São João,3,1,Atlético-MG,False,False,relegation
-1994-11-27,Criciúma,2,2,Bragantino,False,False,relegation
-1994-11-30,Bragantino,1,1,Corinthians,False,False,quarter
+1994-11-27,Criciúma,2,2,RB Bragantino,False,False,relegation
+1994-11-30,RB Bragantino,1,1,Corinthians,False,False,quarter
 1994-11-30,São Paulo,1,0,Guarani,False,False,quarter
 1994-11-30,Bahia,1,2,Palmeiras,False,False,quarter
 1994-12-01,Atlético-MG,2,0,Botafogo,False,False,quarter
 1994-12-03,Palmeiras,2,1,Bahia,False,False,quarter
 1994-12-03,Guarani,4,2,São Paulo,False,False,quarter
-1994-12-04,Corinthians,0,0,Bragantino,False,False,quarter
+1994-12-04,Corinthians,0,0,RB Bragantino,False,False,quarter
 1994-12-04,Botafogo,2,1,Atlético-MG,False,False,quarter
 1994-12-07,Atlético-MG,3,2,Corinthians,False,False,semi
 1994-12-08,Palmeiras,3,1,Guarani,False,False,semi

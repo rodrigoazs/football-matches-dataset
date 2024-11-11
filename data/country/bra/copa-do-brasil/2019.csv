@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-2019-02-05,River-PI,0,5,Fluminense-RJ,False,True,first
+2019-02-05,River-PI,0,5,Fluminense,False,True,first
 2019-02-06,Santa Cruz-RN,1,0,Tupi-MG,False,True,first
 2019-02-06,Sobradinho-DF,0,0,América-RN,False,True,first
 2019-02-06,Foz do Iguaçu,1,0,Boa Esporte,False,True,first
@@ -54,7 +54,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2019-02-28,Juventude-RS,2,1,América-MG,False,True,second
 2019-02-28,Tombense,2,2,Botafogo-PB,False,True,second
 2019-03-06,Mixto-MT,1,2,Chapecoense,False,True,second
-2019-03-06,Fluminense-RJ,3,0,Ypiranga-RS,False,True,second
+2019-03-06,Fluminense,3,0,Ypiranga-RS,False,True,second
 2019-03-06,Santa Cruz-RN,0,1,Bahia,False,True,second
 2019-03-07,ABC,2,2,Moto Club-MA,False,True,second
 2019-03-07,Santos,4,0,América-RN,False,True,second
@@ -66,7 +66,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2019-03-27,Chapecoense,3,2,Criciúma,False,False,third
 2019-04-02,CRB,1,1,Bahia,False,False,third
 2019-04-03,ABC,1,0,Santa Cruz-PE,False,False,third
-2019-04-03,Luverdense-MT,0,0,Fluminense-RJ,False,False,third
+2019-04-03,Luverdense-MT,0,0,Fluminense,False,False,third
 2019-04-03,Londrina-PR,3,3,Botafogo-PB,False,False,third
 2019-04-03,Corinthians,0,1,Ceará,False,False,third
 2019-04-04,Botafogo,1,1,Juventude-RS,False,False,third
@@ -75,43 +75,43 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2019-04-10,Santa Cruz-PE,3,0,ABC,False,False,third
 2019-04-10,Avaí,0,1,Vasco da Gama,False,False,third
 2019-04-10,Criciúma,0,2,Chapecoense,False,False,third
-2019-04-10,Fluminense-RJ,2,0,Luverdense-MT,False,False,third
+2019-04-10,Fluminense,2,0,Luverdense-MT,False,False,third
 2019-04-11,Santos,3,0,Atlético-GO,False,False,third
 2019-04-11,Juventude-RS,2,1,Botafogo,False,False,third
 2019-04-16,Vila Nova-GO,2,0,Bragantino-PA,False,False,third
 2019-04-20,Bragantino-PA,2,1,Vila Nova-GO,False,False,third
-2019-04-17,Fluminense-RJ,2,0,Santa Cruz-PE,False,False,fourth
+2019-04-17,Fluminense,2,0,Santa Cruz-PE,False,False,fourth
 2019-04-17,Chapecoense,1,0,Corinthians,False,False,fourth
 2019-04-17,Santos,2,0,Vasco da Gama,False,False,fourth
 2019-04-18,Bahia,4,0,Londrina-PR,False,False,fourth
 2019-04-24,Juventude-RS,0,0,Vila Nova-GO,False,False,fourth
 2019-04-24,Corinthians,2,0,Chapecoense,False,False,fourth
 2019-04-24,Vasco da Gama,2,1,Santos,False,False,fourth
-2019-04-25,Santa Cruz-PE,2,0,Fluminense-RJ,False,False,fourth
+2019-04-25,Santa Cruz-PE,2,0,Fluminense,False,False,fourth
 2019-04-25,Londrina-PR,2,1,Bahia,False,False,fourth
 2019-05-07,Vila Nova-GO,0,0,Juventude-RS,False,False,fourth
 2019-05-15,Corinthians,0,1,Flamengo-RJ,False,False,round16
-2019-05-15,Fluminense-RJ,1,1,Cruzeiro,False,False,round16
+2019-05-15,Fluminense,1,1,Cruzeiro,False,False,round16
 2019-05-15,Atlético-MG,0,0,Santos,False,False,round16
 2019-05-16,Fortaleza,0,0,Athletico-PR,False,False,round16
 2019-05-22,Juventude-RS,0,0,Grêmio,False,False,round16
 2019-05-22,São Paulo,0,1,Bahia,False,False,round16
-2019-05-22,Sampaio Corrêa-MA,0,1,Palmeiras-SP,False,False,round16
+2019-05-22,Sampaio Corrêa-MA,0,1,Palmeiras,False,False,round16
 2019-05-23,Internacional,3,1,Paysandu-PA,False,False,round16
 2019-05-29,Bahia,1,0,São Paulo,False,False,round16
 2019-05-29,Grêmio,3,0,Juventude-RS,False,False,round16
 2019-05-29,Paysandu-PA,0,1,Internacional,False,False,round16
-2019-05-30,Palmeiras-SP,2,0,Sampaio Corrêa-MA,False,False,round16
+2019-05-30,Palmeiras,2,0,Sampaio Corrêa-MA,False,False,round16
 2019-06-04,Flamengo-RJ,1,0,Corinthians,False,False,round16
-2019-06-05,Cruzeiro,2,2,Fluminense-RJ,False,False,round16
+2019-06-05,Cruzeiro,2,2,Fluminense,False,False,round16
 2019-06-05,Athletico-PR,1,0,Fortaleza,False,False,round16
 2019-06-06,Santos,1,2,Atlético-MG,False,False,round16
 2019-07-10,Athletico-PR,1,1,Flamengo-RJ,False,False,quarter
-2019-07-10,Palmeiras-SP,1,0,Internacional,False,False,quarter
+2019-07-10,Palmeiras,1,0,Internacional,False,False,quarter
 2019-07-10,Grêmio,1,1,Bahia,False,False,quarter
 2019-07-11,Cruzeiro,3,0,Atlético-MG,False,False,quarter
 2019-07-17,Flamengo-RJ,1,1,Athletico-PR,False,False,quarter
-2019-07-17,Internacional,1,0,Palmeiras-SP,False,False,quarter
+2019-07-17,Internacional,1,0,Palmeiras,False,False,quarter
 2019-07-17,Bahia,0,1,Grêmio,False,False,quarter
 2019-07-17,Atlético-MG,2,0,Cruzeiro,False,False,quarter
 2019-08-07,Cruzeiro,0,1,Internacional,False,False,semi

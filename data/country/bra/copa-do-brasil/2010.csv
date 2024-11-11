@@ -20,16 +20,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2010-03-10,Santa Cruz-PE,3,0,América-AM,False,False,first
 2010-02-10,Vitória-ES,0,2,Bahia,False,False,first
 2010-02-10,ASSU,0,3,Atlético-GO,False,False,first
-2010-02-10,Flamengo-PI,0,1,Palmeiras-SP,False,False,first
-2010-02-25,Palmeiras-SP,4,0,Flamengo-PI,False,False,first
+2010-02-10,Flamengo-PI,0,1,Palmeiras,False,False,first
+2010-02-25,Palmeiras,4,0,Flamengo-PI,False,False,first
 2010-02-10,Potyguar-CN (RN),0,0,Paysandu-PA,False,False,first
 2010-02-24,Paysandu-PA,3,1,Potyguar-CN (RN),False,False,first
 2010-02-10,Vilhena-RO,2,2,Atlético-PR,False,False,first
 2010-02-24,Atlético-PR,4,0,Vilhena-RO,False,False,first
 2010-02-10,São Domingos-SE,1,1,Sampaio Corrêa-MA,False,False,first
 2010-02-25,Sampaio Corrêa-MA,2,1,São Domingos-SE,False,False,first
-2010-02-24,Confiança,1,1,Fluminense-RJ,False,False,first
-2010-03-10,Fluminense-RJ,2,0,Confiança,False,False,first
+2010-02-24,Confiança,1,1,Fluminense,False,False,first
+2010-03-10,Fluminense,2,0,Confiança,False,False,first
 2010-02-24,Uberaba-MG,1,0,Londrina-PR,False,False,first
 2010-03-10,Londrina-PR,0,2,Uberaba-MG,False,False,first
 2010-02-24,Atlético Roraima,0,7,Portuguesa-SP,False,False,first

@@ -19,8 +19,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-03-04,Tocantins-TO,0,3,Atlético-PR,False,False,first
 2009-03-04,Fast Clube,1,1,ABC,False,False,first
 2009-03-19,ABC,4,0,Fast Clube,False,False,first
-2009-02-18,Nacional-PB,0,1,Fluminense-RJ,False,False,first
-2009-03-05,Fluminense-RJ,3,0,Nacional-PB,False,False,first
+2009-02-18,Nacional-PB,0,1,Fluminense,False,False,first
+2009-03-05,Fluminense,3,0,Nacional-PB,False,False,first
 2009-03-04,Águia de Marabá,2,1,América-MG,False,False,first
 2009-03-19,América-MG,0,1,Águia de Marabá,False,False,first
 2009-03-04,Atlético Roraima,1,3,Goiás-GO,False,False,first

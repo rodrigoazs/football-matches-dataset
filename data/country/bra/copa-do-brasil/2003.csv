@@ -12,16 +12,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-02-19,Dom Bosco,0,5,Sport-PE,False,False,first
 2003-02-06,Corinthians-AL,0,1,Flamengo-PI,False,False,first
 2003-02-19,Flamengo-PI,1,0,Corinthians-AL,False,False,first
-2003-02-06,Fluminense-BA,1,1,Fluminense-RJ,False,False,first
-2003-03-12,Fluminense-RJ,4,0,Fluminense-BA,False,False,first
+2003-02-06,Fluminense-BA,1,1,Fluminense,False,False,first
+2003-03-12,Fluminense,4,0,Fluminense-BA,False,False,first
 2003-02-19,Tocantinópolis-TO,1,2,Vitória-BA,False,False,first
 2003-03-12,Vitória-BA,0,1,Tocantinópolis-TO,False,False,first
 2003-02-20,Atlético Roraima,4,1,Nacional-AM,False,False,first
 2003-03-12,Nacional-AM,2,0,Atlético Roraima,False,False,first
 2003-02-20,Alegrense,2,3,Criciúma,False,False,first
 2003-03-12,Criciúma,5,1,Alegrense,False,False,first
-2003-02-05,Operário-MT,0,1,Palmeiras-SP,False,False,first
-2003-03-12,Palmeiras-SP,5,1,Operário-MT,False,False,first
+2003-02-05,Operário-MT,0,1,Palmeiras,False,False,first
+2003-03-12,Palmeiras,5,1,Operário-MT,False,False,first
 2003-02-05,Botafogo-PB,1,4,Flamengo-RJ,False,False,first
 2003-02-19,Confiança,1,0,Ceará,False,False,first
 2003-03-12,Ceará,2,0,Confiança,False,False,first
@@ -61,8 +61,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-03-26,Atlético-MG,4,0,Caldense,False,False,second
 2003-03-19,Atlético-PR,2,3,Sport,False,False,second
 2003-03-26,Sport,1,0,Atlético-PR,False,False,second
-2003-03-26,Flamengo-PI,1,2,Fluminense-RJ,False,False,second
-2003-04-02,Fluminense-RJ,2,0,Flamengo-PI,False,False,second
+2003-03-26,Flamengo-PI,1,2,Fluminense,False,False,second
+2003-04-02,Fluminense,2,0,Flamengo-PI,False,False,second
 2003-04-02,Atlético Roraima,1,2,Vitória,False,False,second
 2003-04-09,Vitória,5,1,Atlético Roraima,False,False,second
 2003-03-19,Criciúma,1,1,Palmeiras,False,False,second

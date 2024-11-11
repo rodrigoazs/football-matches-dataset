@@ -33,14 +33,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-03-18,Treze,0,1,América-MG,False,True,first
 2021-03-18,Cascavel,2,1,Figueirense-SC,False,True,first
 2021-03-18,Penarol-AM,1,1,Ypiranga-RS,False,True,first
-2021-03-18,Mirassol-SP,2,3,Bragantino,False,True,first
+2021-03-18,Mirassol-SP,2,3,RB Bragantino,False,True,first
 2021-03-25,Porto Velho-RO,0,1,Ferroviário-CE,False,True,first
 2021-03-25,Palmas Ltda-TO,0,1,Avaí,False,True,first
 2021-03-26,Jaraguá-GO,1,4,Manaus-AM,False,True,first
 2021-03-26,Ypiranga-AP,0,4,Santa Cruz-PE,False,True,first
 2021-03-27,Goianésia,2,3,CRB,False,True,first
 2021-03-26,Corinthians,1,1,Retrô-PE,False,True,second
-2021-04-01,Luverdense-MT,1,2,Bragantino,False,True,second
+2021-04-01,Luverdense-MT,1,2,RB Bragantino,False,True,second
 2021-04-06,Coritiba,3,2,Operário-PR,False,True,second
 2021-04-06,Fortaleza,1,0,Ypiranga-RS,False,True,second
 2021-04-07,Picos-PI,0,1,Boavista,False,True,second
@@ -67,22 +67,22 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-06-02,Chapecoense,3,1,ABC,False,False,third
 2021-06-02,Fortaleza,1,1,Ceará,False,False,third
 2021-06-02,Remo,0,2,Atlético-MG,False,False,third
-2021-06-02,Fluminense-RJ,2,0,Bragantino,False,False,third
+2021-06-02,Fluminense,2,0,RB Bragantino,False,False,third
 2021-06-02,América-MG,0,0,Criciúma,False,False,third
 2021-06-02,Corinthians,0,2,Atlético-GO,False,False,third
 2021-06-03,Cruzeiro,1,0,Juazeirense,False,False,third
 2021-06-03,Avaí,1,1,Athletico-PR,False,False,third
 2021-06-03,Vitória-BA,0,1,Internacional,False,False,third
-2021-06-03,CRB,0,1,Palmeiras-SP,False,False,third
+2021-06-03,CRB,0,1,Palmeiras,False,False,third
 2021-06-08,Santos Fc-SP,1,0,Cianorte,False,False,third
 2021-06-08,São Paulo,9,1,IV de Julho-PI,False,False,third
 2021-06-09,ABC,3,0,Chapecoense,False,False,third
 2021-06-09,Vasco da Gama,1,1,Boavista,False,False,third
 2021-06-09,Bahia,1,0,Vila Nova-GO,False,False,third
-2021-06-09,Palmeiras-SP,0,1,CRB,False,False,third
+2021-06-09,Palmeiras,0,1,CRB,False,False,third
 2021-06-09,Athletico-PR,1,0,Avaí,False,False,third
 2021-06-09,Juazeirense,1,0,Cruzeiro,False,False,third
-2021-06-09,Bragantino,2,1,Fluminense-RJ,False,False,third
+2021-06-09,RB Bragantino,2,1,Fluminense,False,False,third
 2021-06-09,Criciúma,2,2,América-MG,False,False,third
 2021-06-09,Atlético-GO,0,0,Corinthians,False,False,third
 2021-06-10,Brasiliense,0,0,Grêmio,False,False,third
@@ -91,7 +91,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-06-10,Ceará,0,3,Fortaleza,False,False,third
 2021-06-10,Internacional,1,3,Vitória-BA,False,False,third
 2021-06-16,Flamengo-RJ,2,0,Coritiba,False,False,third
-2021-07-27,Criciúma,2,1,Fluminense-RJ,False,False,round16
+2021-07-27,Criciúma,2,1,Fluminense,False,False,round16
 2021-07-27,Vitória-BA,0,3,Grêmio,False,False,round16
 2021-07-28,Athletico-PR,2,1,Atlético-GO,False,False,round16
 2021-07-28,Santos Fc-SP,4,0,Juazeirense,False,False,round16
@@ -99,7 +99,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-07-28,Atlético-MG,2,0,Bahia,False,False,round16
 2021-07-29,Fortaleza,2,1,CRB,False,False,round16
 2021-07-29,Flamengo-RJ,6,0,ABC,False,False,round16
-2021-07-31,Fluminense-RJ,3,0,Criciúma,False,False,round16
+2021-07-31,Fluminense,3,0,Criciúma,False,False,round16
 2021-08-03,Grêmio,1,0,Vitória-BA,False,False,round16
 2021-08-04,CRB,0,1,Fortaleza,False,False,round16
 2021-08-04,Atlético-GO,2,2,Athletico-PR,False,False,round16
@@ -110,9 +110,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2021-08-25,Athletico-PR,1,0,Santos Fc-SP,False,False,quarter
 2021-08-25,Grêmio,0,4,Flamengo-RJ,False,False,quarter
 2021-08-25,São Paulo,2,2,Fortaleza,False,False,quarter
-2021-08-26,Fluminense-RJ,1,2,Atlético-MG,False,False,quarter
+2021-08-26,Fluminense,1,2,Atlético-MG,False,False,quarter
 2021-09-14,Santos Fc-SP,0,1,Athletico-PR,False,False,quarter
-2021-09-15,Atlético-MG,1,0,Fluminense-RJ,False,False,quarter
+2021-09-15,Atlético-MG,1,0,Fluminense,False,False,quarter
 2021-09-15,Flamengo-RJ,2,0,Grêmio,False,False,quarter
 2021-09-15,Fortaleza,3,1,São Paulo,False,False,quarter
 2021-10-20,Athletico-PR,2,2,Flamengo-RJ,False,False,semi
