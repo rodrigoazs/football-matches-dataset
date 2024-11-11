@@ -180,10 +180,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1976-09-29,Treze,2,1,Fluminense-BA,False,False,first
 1976-09-30,Botafogo-PB,1,2,Bahia,False,False,first
 1976-08-29,América-RN,0,0,Santa Cruz,False,False,first
-1976-08-29,Sampaio Corrêa,0,0,Flamengo-PI,False,False,first
+1976-08-29,Sampaio Corrêa-MA,0,0,Flamengo-PI,False,False,first
 1976-08-29,Sport,1,0,ABC,False,False,first
 1976-09-01,Flamengo,2,0,ABC,False,False,first
-1976-09-01,Sampaio Corrêa,0,2,Santa Cruz,False,False,first
+1976-09-01,Sampaio Corrêa-MA,0,2,Santa Cruz,False,False,first
 1976-09-01,Náutico,3,0,Flamengo-PI,False,False,first
 1976-09-01,Volta Redonda,1,1,América-RN,False,False,first
 1976-09-04,Sport,1,0,Santa Cruz,False,False,first
@@ -192,23 +192,23 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1976-09-04,Volta Redonda,0,0,ABC,False,False,first
 1976-09-07,América-RN,3,1,ABC,False,False,first
 1976-09-07,Santa Cruz,2,1,Flamengo,False,False,first
-1976-09-07,Sampaio Corrêa,2,3,Náutico,False,False,first
+1976-09-07,Sampaio Corrêa-MA,2,3,Náutico,False,False,first
 1976-09-08,Volta Redonda,1,0,Sport,False,False,first
 1976-09-12,ABC,1,1,Náutico,False,False,first
-1976-09-12,Volta Redonda,5,1,Sampaio Corrêa,False,False,first
+1976-09-12,Volta Redonda,5,1,Sampaio Corrêa-MA,False,False,first
 1976-09-15,Flamengo-PI,0,0,Santa Cruz,False,False,first
 1976-09-15,Volta Redonda,0,0,Náutico,False,False,first
 1976-09-15,Sport,0,0,América-RN,False,False,first
-1976-09-16,Flamengo,8,1,Sampaio Corrêa,False,False,first
+1976-09-16,Flamengo,8,1,Sampaio Corrêa-MA,False,False,first
 1976-09-19,ABC,2,4,Santa Cruz,False,False,first
 1976-09-19,Flamengo-PI,2,2,Volta Redonda,False,False,first
 1976-09-19,Sport,1,0,Náutico,False,False,first
-1976-09-19,Sampaio Corrêa,0,0,América-RN,False,False,first
+1976-09-19,Sampaio Corrêa-MA,0,0,América-RN,False,False,first
 1976-09-22,América-RN,0,0,Flamengo,False,False,first
 1976-09-22,Santa Cruz,2,0,Volta Redonda,False,False,first
-1976-09-22,Sampaio Corrêa,0,3,Sport,False,False,first
+1976-09-22,Sampaio Corrêa-MA,0,3,Sport,False,False,first
 1976-09-22,Flamengo-PI,0,0,ABC,False,False,first
-1976-09-26,ABC,1,1,Sampaio Corrêa,False,False,first
+1976-09-26,ABC,1,1,Sampaio Corrêa-MA,False,False,first
 1976-09-26,Flamengo-PI,1,2,Sport,False,False,first
 1976-09-26,Náutico,0,3,Flamengo,False,False,first
 1976-09-29,Santa Cruz,2,1,Náutico,False,False,first
@@ -326,13 +326,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1976-10-24,CSA,1,1,Fluminense-BA,False,False,second
 1976-10-10,Náutico,2,1,ABC,False,False,second
 1976-10-10,Volta Redonda,0,0,Flamengo-PI,False,False,second
-1976-10-13,Sampaio Corrêa,2,0,ABC,False,False,second
+1976-10-13,Sampaio Corrêa-MA,2,0,ABC,False,False,second
 1976-10-14,Náutico,0,0,Volta Redonda,False,False,second
 1976-10-17,ABC,0,1,Volta Redonda,False,False,second
-1976-10-17,Flamengo-PI,2,0,Sampaio Corrêa,False,False,second
-1976-10-20,Sampaio Corrêa,3,1,Volta Redonda,False,False,second
+1976-10-17,Flamengo-PI,2,0,Sampaio Corrêa-MA,False,False,second
+1976-10-20,Sampaio Corrêa-MA,3,1,Volta Redonda,False,False,second
 1976-10-20,Flamengo-PI,0,0,Náutico,False,False,second
-1976-10-23,Náutico,4,0,Sampaio Corrêa,False,False,second
+1976-10-23,Náutico,4,0,Sampaio Corrêa-MA,False,False,second
 1976-10-23,ABC,5,1,Flamengo-PI,False,False,second
 1976-10-30,Ponte Preta-SP,1,0,Botafogo-SP,False,False,third
 1976-10-30,Coritiba,1,0,Internacional,False,False,third

@@ -4,8 +4,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-03-22,Independência-AC,1,0,Baré,False,False,first
 2000-03-29,Baré,1,1,Independência-AC,False,False,first
 2000-03-15,Interporto,0,8,Bahia,False,False,first
-2000-03-16,Ji-Paraná,2,1,Vasco-AC,False,False,first
-2000-03-24,Vasco-AC,1,2,Ji-Paraná,False,False,first
+2000-03-16,Ji-Paraná,2,1,Vasco da Gama-AC,False,False,first
+2000-03-24,Vasco da Gama-AC,1,2,Ji-Paraná,False,False,first
 2000-03-22,Paysandu,0,1,Maranhão,False,False,first
 2000-03-29,Maranhão,1,1,Paysandu,False,False,first
 2000-03-22,IV de Julho-PI,2,1,Fortaleza,False,False,first
@@ -24,7 +24,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-03-29,Sport,0,1,América-RN,False,False,first
 2000-03-15,Treze,0,1,ABC,False,False,first
 2000-03-23,ABC,2,1,Treze,False,False,first
-2000-03-15,Pinheiros-RO,0,2,Vitória-BA,False,False,first
+2000-03-15,Pinheiros-RO,0,2,Vitória,False,False,first
 2000-03-22,Náutico-PE,2,1,CSA,False,False,first
 2000-03-29,CSA,0,1,Náutico-PE,False,False,first
 2000-03-23,Confiança,0,1,Goiás,False,False,first
@@ -69,8 +69,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-04-19,Remo,2,1,Nacional-AM,False,False,second
 2000-04-12,América-RN,2,1,Sampaio Corrêa-MA,False,False,second
 2000-04-27,Sampaio Corrêa-MA,2,2,América-RN,False,False,second
-2000-03-29,ABC,1,0,Vitória-BA,False,False,second
-2000-04-12,Vitória-BA,1,2,ABC,False,False,second
+2000-03-29,ABC,1,0,Vitória,False,False,second
+2000-04-12,Vitória,1,2,ABC,False,False,second
 2000-04-12,Náutico-PE,1,1,Goiás,False,False,second
 2000-04-19,Goiás,1,1,Náutico-PE,False,False,second
 2000-04-12,Caxias,1,0,Sergipe-SE,False,False,second

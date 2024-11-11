@@ -23,7 +23,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-02-07,Manaus,2,2,CSA,False,True,first
 2018-01-01,Novo Hamburgo-RS,2,1,Paysandu,False,True,first
 2018-02-07,União-MT,1,3,CRB,False,True,first
-2018-02-07,Globo,0,2,Vitória-BA,False,True,first
+2018-02-07,Globo,0,2,Vitória,False,True,first
 2018-02-07,Corumbaense,1,0,ASA,False,True,first
 2018-02-07,Altos,2,1,Atlético-GO,False,True,first
 2018-01-31,Nova Iguaçu-RJ,1,1,RB Bragantino,False,True,first
@@ -48,7 +48,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-02-22,Uberlândia,0,2,Coritiba,False,True,second
 2018-02-21,Goiás,0,0,Boa Esporte,False,True,second
 2018-02-21,Ponte Preta,1,0,Internacional-SP,False,True,second
-2018-02-22,Sampaio Corrêa,1,0,Paraná,False,True,second
+2018-02-22,Sampaio Corrêa-MA,1,0,Paraná,False,True,second
 2018-02-15,CSA,0,2,São Paulo,False,True,second
 2018-02-15,Novo Hamburgo,1,1,CRB,False,True,second
 2018-02-15,Vitória,3,0,Corumbaense,False,True,second
@@ -67,8 +67,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-03-15,Avaí,1,0,Fluminense,False,False,third
 2018-02-28,Goiás,1,0,Coritiba,False,False,third
 2018-03-14,Coritiba,1,1,Goiás,False,False,third
-2018-02-28,Ponte Preta,0,0,Sampaio Corrêa,False,False,third
-2018-03-15,Sampaio Corrêa,0,0,Ponte Preta,False,False,third
+2018-02-28,Ponte Preta,0,0,Sampaio Corrêa-MA,False,False,third
+2018-03-15,Sampaio Corrêa-MA,0,0,Ponte Preta,False,False,third
 2018-02-28,São Paulo,2,0,CRB,False,False,third
 2018-03-14,CRB,0,3,São Paulo,False,False,third
 2018-02-28,RB Bragantino,1,0,Vitória,False,False,third

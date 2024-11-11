@@ -274,16 +274,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1987-12-06,América-RN,0,0,ABC,False,False,first
 1987-12-06,Fortaleza,2,0,Botafogo-PB,False,False,first
 1987-12-06,Ferroviário,1,0,Serrano,False,False,first
-1987-12-06,Maranhão,0,1,Sampaio Corrêa,False,False,first
+1987-12-06,Maranhão,0,1,Sampaio Corrêa-MA,False,False,first
 1987-12-06,Ferroviário,2,0,Maranhão,False,False,first
-1987-12-06,Sampaio Corrêa,0,1,Serrano,False,False,first
-1987-12-06,Ferroviário,3,1,Sampaio Corrêa,False,False,first
+1987-12-06,Sampaio Corrêa-MA,0,1,Serrano,False,False,first
+1987-12-06,Ferroviário,3,1,Sampaio Corrêa-MA,False,False,first
 1987-12-06,Maranhão,2,1,Serrano,False,False,first
 1987-12-06,Serrano,1,0,Maranhão,False,False,first
-1987-12-06,Sampaio Corrêa,1,0,Ferroviário,False,False,first
-1987-12-06,Serrano,0,0,Sampaio Corrêa,False,False,first
+1987-12-06,Sampaio Corrêa-MA,1,0,Ferroviário,False,False,first
+1987-12-06,Serrano,0,0,Sampaio Corrêa-MA,False,False,first
 1987-12-06,Maranhão,3,1,Ferroviário,False,False,first
-1987-12-06,Sampaio Corrêa,1,1,Maranhão,False,False,first
+1987-12-06,Sampaio Corrêa-MA,1,1,Maranhão,False,False,first
 1987-12-06,Serrano,0,0,Ferroviário,False,False,first
 1987-12-06,Imperatriz,1,1,Piauí,False,False,first
 1987-12-06,Moto Club,3,1,River,False,False,first
@@ -313,8 +313,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1987-11-21,Mixto,3,0,Auto Esporte-PB,False,False,first
 1987-11-18,Operário-MS,2,0,Catuense,False,False,first
 1987-11-21,Catuense,2,2,Operário-MS,False,False,first
-1987-11-18,Sampaio Corrêa,1,1,Botafogo-PB,False,False,first
-1987-11-21,Botafogo-PB,0,0,Sampaio Corrêa,False,False,first
+1987-11-18,Sampaio Corrêa-MA,1,1,Botafogo-PB,False,False,first
+1987-11-21,Botafogo-PB,0,0,Sampaio Corrêa-MA,False,False,first
 1987-11-18,América-RN,1,0,Ferroviário,False,False,first
 1987-11-21,Ferroviário,0,2,América-RN,False,False,first
 1987-11-18,Tuna Luso,2,0,Moto Club,False,False,first

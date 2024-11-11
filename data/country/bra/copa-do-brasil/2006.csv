@@ -52,8 +52,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2006-03-08,CRB,3,0,São José-AP,False,False,first
 2006-02-15,Vila Aurora-MT,0,0,Santa Cruz-PE,False,False,first
 2006-02-22,Santa Cruz-PE,1,0,Vila Aurora-MT,False,False,first
-2006-02-22,Imperatriz,1,1,Vitória-BA,False,False,first
-2006-03-08,Vitória-BA,5,2,Imperatriz,False,False,first
+2006-02-22,Imperatriz,1,1,Vitória,False,False,first
+2006-03-08,Vitória,5,2,Imperatriz,False,False,first
 2006-03-22,ABC,0,1,Flamengo,False,False,second
 2006-04-05,Flamengo,4,0,ABC,False,False,second
 2006-03-22,Potiguar,0,4,Guarani,False,False,second

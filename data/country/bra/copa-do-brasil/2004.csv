@@ -37,8 +37,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-03-03,Internacional,4,1,Confiança,False,False,first
 2004-02-04,Prudentópolis-PR,4,0,São Gonçalo-RN,False,False,first
 2004-03-04,São Gonçalo-RN,2,1,Prudentópolis-PR,False,False,first
-2004-02-18,CTE Colatina,1,2,Vitória-BA,False,False,first
-2004-03-03,Vitória-BA,4,0,CTE Colatina,False,False,first
+2004-02-18,CTE Colatina,1,2,Vitória,False,False,first
+2004-03-03,Vitória,4,0,CTE Colatina,False,False,first
 2004-02-18,Ypiranga-AP,0,0,Sampaio Corrêa-MA,False,False,first
 2004-03-03,Sampaio Corrêa-MA,4,0,Ypiranga-AP,False,False,first
 2004-02-04,SER Chapadão-MS,0,0,Grêmio,False,False,first
@@ -52,8 +52,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-02-04,Tupi-MG,2,2,Bangu,False,False,first
 2004-02-18,Bangu,0,1,Tupi-MG,False,False,first
 2004-02-04,Barra,0,0,Santa Cruz-PE,False,False,first
-2004-02-18,CE Nova Esperança,1,0,U. A. Barbarense (SP),False,False,first
-2004-03-03,U. A. Barbarense (SP),1,0,CE Nova Esperança,False,False,first
+2004-02-18,CE Nova Esperança,1,0,União Agrícola Barbarense,False,False,first
+2004-03-03,União Agrícola Barbarense,1,0,CE Nova Esperança,False,False,first
 2004-03-17,São Gabriel,2,1,Palmeiras,False,False,second
 2004-04-07,Palmeiras,4,0,São Gabriel,False,False,second
 2004-03-17,Brasiliense,2,2,Goiás,False,False,second
@@ -74,8 +74,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-03-17,Rio Branco,1,1,Fortaleza,False,False,second
 2004-03-24,Fortaleza,5,1,Rio Branco,False,False,second
 2004-03-24,Prudentópolis,0,2,Internacional,False,False,second
-2004-03-17,Sampaio Corrêa,1,0,Vitória,False,False,second
-2004-03-24,Vitória,3,1,Sampaio Corrêa,False,False,second
+2004-03-17,Sampaio Corrêa-MA,1,0,Vitória,False,False,second
+2004-03-24,Vitória,3,1,Sampaio Corrêa-MA,False,False,second
 2004-03-17,Londrina,0,2,Grêmio,False,False,second
 2004-03-17,Juventude,2,2,Fluminense,False,False,second
 2004-03-24,Fluminense,2,1,Juventude,False,False,second

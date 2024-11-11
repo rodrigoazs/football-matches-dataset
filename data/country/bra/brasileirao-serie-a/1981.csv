@@ -136,48 +136,48 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1981-02-26,Ferroviário,2,1,River,False,False,first
 1981-01-17,Santa Cruz,3,0,Paysandu,False,False,first
 1981-01-18,CRB,1,1,Fortaleza,False,False,first
-1981-01-18,Sampaio Corrêa,1,0,Itabaiana,False,False,first
+1981-01-18,Sampaio Corrêa-MA,1,0,Itabaiana,False,False,first
 1981-01-18,Nacional-AM,1,0,Cruzeiro,False,False,first
 1981-01-18,Flamengo,0,0,Santos,False,False,first
 1981-01-21,Nacional-AM,0,1,Flamengo,False,False,first
 1981-01-21,Paysandu,1,3,Cruzeiro,False,False,first
 1981-01-21,Fortaleza,1,0,Itabaiana,False,False,first
 1981-01-21,Santos,5,2,CRB,False,False,first
-1981-01-22,Sampaio Corrêa,1,1,Santa Cruz,False,False,first
+1981-01-22,Sampaio Corrêa-MA,1,1,Santa Cruz,False,False,first
 1981-01-24,Fortaleza,1,1,Nacional-AM,False,False,first
 1981-01-25,Itabaiana,3,1,CRB,False,False,first
 1981-01-25,Paysandu,3,0,Flamengo,False,False,first
 1981-01-25,Santa Cruz,1,1,Santos,False,False,first
-1981-01-25,Cruzeiro,1,1,Sampaio Corrêa,False,False,first
+1981-01-25,Cruzeiro,1,1,Sampaio Corrêa-MA,False,False,first
 1981-01-28,CRB,3,1,Santa Cruz,False,False,first
 1981-01-28,Santos,4,0,Paysandu,False,False,first
-1981-01-28,Flamengo,2,0,Sampaio Corrêa,False,False,first
+1981-01-28,Flamengo,2,0,Sampaio Corrêa-MA,False,False,first
 1981-01-29,Cruzeiro,1,0,Fortaleza,False,False,first
 1981-01-29,Nacional-AM,1,0,Itabaiana,False,False,first
 1981-02-01,Santos,0,0,Cruzeiro,False,False,first
-1981-02-01,Sampaio Corrêa,1,1,CRB,False,False,first
+1981-02-01,Sampaio Corrêa-MA,1,1,CRB,False,False,first
 1981-02-01,Itabaiana,0,2,Flamengo,False,False,first
 1981-02-01,Fortaleza,1,1,Paysandu,False,False,first
 1981-02-01,Nacional-AM,1,1,Santa Cruz,False,False,first
 1981-02-04,Paysandu,0,0,Nacional-AM,False,False,first
 1981-02-04,Flamengo,8,0,Fortaleza,False,False,first
 1981-02-04,CRB,0,1,Cruzeiro,False,False,first
-1981-02-04,Sampaio Corrêa,0,1,Santos,False,False,first
+1981-02-04,Sampaio Corrêa-MA,0,1,Santos,False,False,first
 1981-02-04,Santa Cruz,2,0,Itabaiana,False,False,first
 1981-02-07,Santa Cruz,2,1,Fortaleza,False,False,first
 1981-02-07,Cruzeiro,0,0,Flamengo,False,False,first
 1981-02-07,Nacional-AM,1,0,CRB,False,False,first
-1981-02-07,Paysandu,4,0,Sampaio Corrêa,False,False,first
+1981-02-07,Paysandu,4,0,Sampaio Corrêa-MA,False,False,first
 1981-02-07,Itabaiana,0,3,Santos,False,False,first
 1981-02-14,Santos,3,0,Nacional-AM,False,False,first
-1981-02-14,Fortaleza,3,0,Sampaio Corrêa,False,False,first
+1981-02-14,Fortaleza,3,0,Sampaio Corrêa-MA,False,False,first
 1981-02-14,CRB,2,3,Flamengo,False,False,first
 1981-02-14,Cruzeiro,0,3,Santa Cruz,False,False,first
 1981-02-14,Paysandu,3,0,Itabaiana,False,False,first
 1981-02-21,Itabaiana,1,5,Cruzeiro,False,False,first
 1981-02-21,Fortaleza,1,2,Santos,False,False,first
 1981-02-21,Flamengo,2,2,Santa Cruz,False,False,first
-1981-02-21,Sampaio Corrêa,0,2,Nacional-AM,False,False,first
+1981-02-21,Sampaio Corrêa-MA,0,2,Nacional-AM,False,False,first
 1981-02-21,CRB,1,0,Paysandu,False,False,first
 1981-03-07,Nacional-AM,0,1,Galícia,False,False,second
 1981-03-07,CSA,1,1,Vasco da Gama,False,False,second

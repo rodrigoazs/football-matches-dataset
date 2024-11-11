@@ -18,7 +18,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-02-15,Princesa do Solimões,0,2,Internacional,False,True,first
 2017-02-15,Friburguense,0,1,Oeste,False,True,first
 2017-02-15,Guarani-J,1,0,Náutico,False,True,first
-2017-02-09,São José,1,1,Sampaio Corrêa,False,True,first
+2017-02-09,São José,1,1,Sampaio Corrêa-MA,False,True,first
 2017-02-08,Caldense,0,1,Corinthians,False,True,first
 2017-02-15,Brusque,2,1,Remo,False,True,first
 2017-02-15,Desportiva,1,2,Avaí,False,True,first
@@ -48,7 +48,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-02-22,Sinop,1,3,Fluminense,False,True,second
 2017-02-22,Criciúma,2,2,Altos,False,True,second
 2017-02-22,Internacional,4,1,Oeste,False,True,second
-2017-02-26,Sampaio Corrêa,2,0,Guarani-J,False,True,second
+2017-02-26,Sampaio Corrêa-MA,2,0,Guarani-J,False,True,second
 2017-03-01,Brusque,0,0,Corinthians,False,True,second
 2017-03-01,Avaí,1,1,Luverdense,False,True,second
 2017-03-02,Ponte Preta,1,1,Cuiabá,False,True,second
@@ -67,8 +67,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-03-15,Cruzeiro,3,0,Murici-AL,False,False,third
 2017-03-09,Criciúma,1,1,Fluminense,False,False,third
 2017-03-15,Fluminense,3,2,Criciúma,False,False,third
-2017-03-08,Sampaio Corrêa,1,4,Internacional,False,False,third
-2017-03-15,Internacional,3,0,Sampaio Corrêa,False,False,third
+2017-03-08,Sampaio Corrêa-MA,1,4,Internacional,False,False,third
+2017-03-15,Internacional,3,0,Sampaio Corrêa-MA,False,False,third
 2017-03-09,Luverdense,0,2,Corinthians,False,False,third
 2017-03-16,Corinthians,1,1,Luverdense,False,False,third
 2017-03-08,Goiás,4,0,Cuiabá,False,False,third

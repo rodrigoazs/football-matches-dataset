@@ -12,7 +12,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-02-17,ABC,1,2,Palmeiras,False,False,first
 1995-03-03,Operário-MT,1,1,Corinthians,False,False,first
 1995-03-03,CSA,1,2,Cruzeiro,False,False,first
-1995-03-10,Democrata-MG,3,2,Vitória-BA,False,False,first
+1995-03-10,Democrata-MG,3,2,Vitória,False,False,first
 1995-03-10,Remo,1,1,Ferroviário-CE,False,False,first
 1995-03-10,Flamengo-PI,1,2,Vasco da Gama,False,False,first
 1995-03-12,Cristal,1,1,Nacional-AM,False,False,first
@@ -33,12 +33,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-03-24,Palmeiras,1,0,ABC,False,False,first
 1995-03-28,Corinthians,4,0,Operário-MT,False,False,first
 1995-03-28,Palmares-RO,2,2,Rio Branco-AC,False,False,first
-1995-03-28,Vitória-BA,2,0,Democrata-MG,False,False,first
+1995-03-28,Vitória,2,0,Democrata-MG,False,False,first
 1995-03-28,Sport,2,2,Atlético-MG,False,False,first
 1995-03-28,Grêmio,2,1,Desportiva,False,False,first
 1995-03-30,Vasco da Gama,4,1,Flamengo-PI,False,False,first
 1995-04-12,Flamengo-RJ,3,0,Gama,False,False,first
-1995-04-04,Vitória-BA,2,3,Atlético-MG,False,False,round16
+1995-04-04,Vitória,2,3,Atlético-MG,False,False,round16
 1995-04-07,São Paulo,3,0,Remo,False,False,round16
 1995-04-11,Rio Branco-AC,0,3,Corinthians,False,False,round16
 1995-04-11,Grêmio,1,1,Palmeiras,False,False,round16
@@ -50,7 +50,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-04-18,Remo,1,1,São Paulo,False,False,round16
 1995-04-25,Corinthians,2,0,Rio Branco-AC,False,False,round16
 1995-04-25,Internacional,0,1,Paraná-PR,False,False,round16
-1995-04-25,Atlético-MG,1,1,Vitória-BA,False,False,round16
+1995-04-25,Atlético-MG,1,1,Vitória,False,False,round16
 1995-04-26,Flamengo-RJ,8,0,Kaburé,False,False,round16
 1995-04-27,Vasco da Gama,4,0,Nacional-AM,False,False,round16
 1995-04-28,Bahia,2,1,Cruzeiro,False,False,round16

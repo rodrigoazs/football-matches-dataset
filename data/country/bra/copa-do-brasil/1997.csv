@@ -28,7 +28,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-03-13,Internacional,3,0,Paraná,False,False,first
 1997-03-11,Vila Nova-GO,2,3,São Paulo,False,False,first
 1997-03-25,São Paulo,2,0,Vila Nova-GO,False,False,first
-1997-03-12,Botafogo,0,3,Vitoria-BA,False,False,first
+1997-03-12,Botafogo,0,3,Vitória,False,False,first
 1997-03-12,Ceará,1,0,Fluminense,False,False,first
 1997-03-20,Fluminense,0,0,Ceará,False,False,first
 1997-03-13,Figueirense-SC,0,1,Santos,False,False,first
@@ -53,8 +53,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-04-03,Internacional,2,0,Santos,False,False,round16
 1997-03-26,Corinthians,1,0,Atletico-MG,False,False,round16
 1997-04-03,Atletico-MG,1,1,Corinthians,False,False,round16
-1997-04-03,Vitoria,2,1,São Paulo,False,False,round16
-1997-04-08,São Paulo,2,2,Vitoria,False,False,round16
+1997-04-03,Vitória,2,1,São Paulo,False,False,round16
+1997-04-08,São Paulo,2,2,Vitória,False,False,round16
 1997-04-03,Ceará,3,2,Santa Cruz-PE,False,False,round16
 1997-04-08,Santa Cruz-PE,0,1,Ceará,False,False,round16
 1997-04-03,Rio Branco-AC,2,1,Flamengo,False,False,round16
@@ -69,8 +69,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-04-29,Palmeiras,5,0,Ceará,False,False,quarter
 1997-04-15,Corinthians,1,2,Atletico-PR,False,False,quarter
 1997-04-22,Atletico-PR,2,6,Corinthians,False,False,quarter
-1997-04-18,Grêmio,2,0,Vitoria,False,False,quarter
-1997-05-03,Vitoria,3,3,Grêmio,False,False,quarter
+1997-04-18,Grêmio,2,0,Vitória,False,False,quarter
+1997-05-03,Vitória,3,3,Grêmio,False,False,quarter
 1997-05-06,Flamengo,2,0,Palmeiras,False,False,semi
 1997-05-13,Palmeiras,0,1,Flamengo,False,False,semi
 1997-05-08,Corinthians,1,2,Grêmio,False,False,semi

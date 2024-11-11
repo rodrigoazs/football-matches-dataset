@@ -2,21 +2,21 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-08-30,Coritiba,0,1,São Paulo,False,False,first
 1986-08-31,Remo,1,1,Ceará,False,False,first
 1986-08-31,Bangu,0,1,Fluminense,False,False,first
-1986-08-31,Sampaio Corrêa,1,2,Sport,False,False,first
+1986-08-31,Sampaio Corrêa-MA,1,2,Sport,False,False,first
 1986-08-31,Sobradinho,0,1,Internacional,False,False,first
 1986-09-02,Coritiba,1,0,Internacional,False,False,first
 1986-09-02,Fluminense,1,0,Operário-MS,False,False,first
 1986-09-02,Remo,0,0,Sport,False,False,first
-1986-09-02,Sampaio Corrêa,0,3,Ceará,False,False,first
+1986-09-02,Sampaio Corrêa-MA,0,3,Ceará,False,False,first
 1986-09-02,Sobradinho,1,1,São Paulo,False,False,first
 1986-09-06,Sport,1,0,Coritiba,False,False,first
 1986-09-07,Internacional,2,0,Fluminense,False,False,first
 1986-09-07,São Paulo,1,1,Bangu,False,False,first
-1986-09-07,Operário-MS,0,1,Sampaio Corrêa,False,False,first
+1986-09-07,Operário-MS,0,1,Sampaio Corrêa-MA,False,False,first
 1986-09-07,Ceará,1,2,Sobradinho,False,False,first
 1986-09-10,Sport,1,0,Sobradinho,False,False,first
 1986-09-10,Ceará,1,0,Coritiba,False,False,first
-1986-09-10,Fluminense,0,0,Sampaio Corrêa,False,False,first
+1986-09-10,Fluminense,0,0,Sampaio Corrêa-MA,False,False,first
 1986-09-10,Internacional,1,1,Bangu,False,False,first
 1986-09-11,Operário-MS,2,1,Remo,False,False,first
 1986-09-13,Fluminense,1,0,Coritiba,False,False,first
@@ -26,34 +26,34 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-09-14,Bangu,2,0,Operário-MS,False,False,first
 1986-09-17,Bangu,3,0,Sobradinho,False,False,first
 1986-09-17,Internacional,1,1,Ceará,False,False,first
-1986-09-17,Coritiba,0,0,Sampaio Corrêa,False,False,first
+1986-09-17,Coritiba,0,0,Sampaio Corrêa-MA,False,False,first
 1986-09-18,Remo,1,1,Fluminense,False,False,first
 1986-09-30,Operário-MS,1,2,São Paulo,False,False,first
 1986-09-21,São Paulo,0,0,Internacional,False,False,first
 1986-09-21,Sobradinho,0,1,Fluminense,False,False,first
 1986-09-21,Coritiba,1,1,Remo,False,False,first
-1986-09-21,Sampaio Corrêa,0,0,Bangu,False,False,first
+1986-09-21,Sampaio Corrêa-MA,0,0,Bangu,False,False,first
 1986-09-21,Sport,4,1,Operário-MS,False,False,first
 1986-09-24,Ceará,0,0,Operário-MS,False,False,first
 1986-09-24,Bangu,1,0,Coritiba,False,False,first
 1986-09-24,Internacional,3,1,Remo,False,False,first
-1986-09-24,São Paulo,4,0,Sampaio Corrêa,False,False,first
+1986-09-24,São Paulo,4,0,Sampaio Corrêa-MA,False,False,first
 1986-09-25,Fluminense,0,1,Sport,False,False,first
 1986-09-28,Fluminense,2,3,São Paulo,False,False,first
-1986-09-28,Sampaio Corrêa,0,2,Internacional,False,False,first
+1986-09-28,Sampaio Corrêa-MA,0,2,Internacional,False,False,first
 1986-09-28,Remo,2,2,Bangu,False,False,first
 1986-09-28,Ceará,0,0,Sport,False,False,first
 1986-10-07,Operário-MS,2,1,Sobradinho,False,False,first
 1986-10-01,Sport,0,1,Bangu,False,False,first
 1986-10-01,Ceará,0,2,Fluminense,False,False,first
-1986-10-01,Sobradinho,2,1,Sampaio Corrêa,False,False,first
+1986-10-01,Sobradinho,2,1,Sampaio Corrêa-MA,False,False,first
 1986-10-02,Remo,0,2,São Paulo,False,False,first
 1986-10-02,Operário-MS,2,0,Coritiba,False,False,first
 1986-10-05,São Paulo,3,2,Sport,False,False,first
 1986-10-05,Bangu,0,1,Ceará,False,False,first
 1986-10-05,Internacional,3,1,Operário-MS,False,False,first
 1986-10-05,Coritiba,1,1,Sobradinho,False,False,first
-1986-10-05,Sampaio Corrêa,2,2,Remo,False,False,first
+1986-10-05,Sampaio Corrêa-MA,2,2,Remo,False,False,first
 1986-08-31,Corinthians,3,0,Goiás,False,False,first
 1986-08-31,Joinville,2,0,Atlético-PR,False,False,first
 1986-08-31,Botafogo-PB,0,1,América-RJ,False,False,first

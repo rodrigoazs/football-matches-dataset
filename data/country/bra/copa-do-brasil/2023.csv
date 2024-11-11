@@ -9,7 +9,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2023-02-23,São Luiz-RS,1,0,Juventude,False,True,first
 2023-02-23,Humaitá,0,3,Coritiba,False,True,first
 2023-02-23,Ceilândia,0,1,Santos,False,True,first
-2023-02-23,Vitoria FC-ES,0,1,Remo,False,True,first
+2023-02-23,Vitória-ES,0,1,Remo,False,True,first
 2023-02-23,Trem,0,4,Vasco da Gama,False,True,first
 2023-02-28,Resende,1,2,Ferroviário-CE,False,True,first
 2023-02-28,Tocantinópolis-TO,1,1,América-MG,False,True,first
@@ -17,7 +17,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2023-02-28,Real Noroeste-ES,1,1,Vila Nova-GO,False,True,first
 2023-02-28,Fluminense-PI,0,4,Ponte Preta-SP,False,True,first
 2023-03-01,Tuna Luso,0,1,CSA,False,True,first
-2023-03-01,Nova Iguaçu-RJ,2,0,Vitória-BA,False,True,first
+2023-03-01,Nova Iguaçu-RJ,2,0,Vitória,False,True,first
 2023-03-01,Cordino,0,2,Brasil-RS,False,True,first
 2023-03-01,ASA,1,1,Goiás,False,True,first
 2023-03-01,Atlético-BA,0,0,Atlético-GO,False,True,first

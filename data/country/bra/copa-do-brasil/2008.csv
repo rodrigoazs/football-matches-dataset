@@ -33,7 +33,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2008-02-27,Nacional-PB,0,4,Internacional,False,False,first
 2008-02-13,Chapecoense,3,1,Guarani-SP,False,False,first
 2008-03-05,Guarani-SP,0,0,Chapecoense,False,False,first
-2008-02-13,Sousa-PB,1,4,Vitória-BA,False,False,first
+2008-02-13,Sousa-PB,1,4,Vitória,False,False,first
 2008-02-13,Trem,0,0,Paraná-PR,False,False,first
 2008-02-27,Paraná-PR,4,0,Trem,False,False,first
 2008-02-13,Itabaiana,0,1,Vasco da Gama,False,False,first

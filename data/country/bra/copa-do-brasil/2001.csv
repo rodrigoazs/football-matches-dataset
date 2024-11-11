@@ -22,8 +22,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2001-04-11,Santa Cruz-PE,3,3,Lagartense-SE,False,False,first
 2001-03-14,Guajará,1,1,Rio Branco-AC,False,False,first
 2001-03-21,Rio Branco-AC,1,0,Guajará,False,False,first
-2001-03-21,ASA,1,2,Vitória-BA,False,False,first
-2001-03-29,Vitória-BA,2,1,ASA,False,False,first
+2001-03-21,ASA,1,2,Vitória,False,False,first
+2001-03-29,Vitória,2,1,ASA,False,False,first
 2001-03-14,Ceará,3,1,Paraná-PR,False,False,first
 2001-03-21,Paraná-PR,2,2,Ceará,False,False,first
 2001-03-21,Botafogo-PB,0,1,São Paulo,False,False,first

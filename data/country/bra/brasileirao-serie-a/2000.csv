@@ -455,7 +455,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-06,River,2,2,Nacional-AM,False,False,first
 2000-08-06,Fortaleza,1,0,Náutico,False,False,first
 2000-08-06,Anapolina,0,0,Serra,False,False,first
-2000-08-06,São Raimundo,2,0,Sampaio Corrêa,False,False,first
+2000-08-06,São Raimundo,2,0,Sampaio Corrêa-MA,False,False,first
 2000-08-06,Remo,1,1,América-RN,False,False,first
 2000-08-09,CSA,1,2,River,False,False,first
 2000-08-09,São Raimundo,1,0,Paysandu,False,False,first
@@ -464,9 +464,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-09,América-RN,1,1,Ceará,False,False,first
 2000-08-09,Fortaleza,2,1,ABC,False,False,first
 2000-08-09,Desportiva,1,0,Vila Nova,False,False,first
-2000-08-09,Sampaio Corrêa,1,2,Náutico,False,False,first
+2000-08-09,Sampaio Corrêa-MA,1,2,Náutico,False,False,first
 2000-08-10,Serra,0,1,CRB,False,False,first
-2000-08-12,Vila Nova,5,1,Sampaio Corrêa,False,False,first
+2000-08-12,Vila Nova,5,1,Sampaio Corrêa-MA,False,False,first
 2000-08-13,Ceará,0,1,São Raimundo,False,False,first
 2000-08-13,CRB,1,1,Fortaleza,False,False,first
 2000-08-13,ABC,1,3,CSA,False,False,first
@@ -477,7 +477,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-13,River,2,0,Desportiva,False,False,first
 2000-08-16,CRB,2,1,ABC,False,False,first
 2000-08-16,Nacional-AM,1,2,Desportiva,False,False,first
-2000-08-16,Paysandu,0,0,Sampaio Corrêa,False,False,first
+2000-08-16,Paysandu,0,0,Sampaio Corrêa-MA,False,False,first
 2000-08-16,América-RN,1,0,Bandeirante,False,False,first
 2000-08-16,Ceará,3,0,Serra,False,False,first
 2000-08-16,River,3,2,Vila Nova,False,False,first
@@ -489,7 +489,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-20,CSA,0,3,Paysandu,False,False,first
 2000-08-20,Remo,1,1,CRB,False,False,first
 2000-08-20,ABC,2,0,Bandeirante,False,False,first
-2000-08-20,Sampaio Corrêa,3,2,Nacional-AM,False,False,first
+2000-08-20,Sampaio Corrêa-MA,3,2,Nacional-AM,False,False,first
 2000-08-20,Desportiva,0,2,Ceará,False,False,first
 2000-08-20,Anapolina,0,0,Fortaleza,False,False,first
 2000-08-20,São Raimundo,2,1,River,False,False,first
@@ -497,7 +497,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-23,CSA,4,3,Nacional-AM,False,False,first
 2000-08-23,Paysandu,1,0,CRB,False,False,first
 2000-08-23,América-RN,1,1,ABC,False,False,first
-2000-08-23,Sampaio Corrêa,1,0,River,False,False,first
+2000-08-23,Sampaio Corrêa-MA,1,0,River,False,False,first
 2000-08-23,Bandeirante,0,2,Ceará,False,False,first
 2000-08-23,Desportiva,3,2,Fortaleza,False,False,first
 2000-08-23,Anapolina,3,1,Remo,False,False,first
@@ -510,7 +510,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-27,Fortaleza,3,2,Paysandu,False,False,first
 2000-08-27,River,1,2,Remo,False,False,first
 2000-08-27,São Raimundo,4,1,Desportiva,False,False,first
-2000-08-27,Bandeirante,3,3,Sampaio Corrêa,False,False,first
+2000-08-27,Bandeirante,3,3,Sampaio Corrêa-MA,False,False,first
 2000-08-29,Ceará,2,2,Anapolina,False,False,first
 2000-08-30,Fortaleza,1,2,Bandeirante,False,False,first
 2000-08-30,River,1,0,Serra,False,False,first
@@ -526,7 +526,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-02,Anapolina,4,0,Desportiva,False,False,first
 2000-09-02,Náutico,2,0,Bandeirante,False,False,first
 2000-09-02,Serra,1,1,Nacional-AM,False,False,first
-2000-09-04,Sampaio Corrêa,1,0,CSA,False,False,first
+2000-09-04,Sampaio Corrêa-MA,1,0,CSA,False,False,first
 2000-09-06,São Raimundo,4,5,Nacional-AM,False,False,first
 2000-09-06,Paysandu,1,0,Anapolina,False,False,first
 2000-09-06,ABC,2,0,Desportiva,False,False,first
@@ -535,7 +535,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-06,Náutico,0,2,Remo,False,False,first
 2000-09-06,Serra,2,5,Fortaleza,False,False,first
 2000-09-07,CSA,0,2,CRB,False,False,first
-2000-09-07,Sampaio Corrêa,1,0,América-RN,False,False,first
+2000-09-07,Sampaio Corrêa-MA,1,0,América-RN,False,False,first
 2000-09-09,Nacional-AM,1,0,Paysandu,False,False,first
 2000-09-09,Ceará,0,0,Náutico,False,False,first
 2000-09-10,CRB,6,2,Bandeirante,False,False,first
@@ -543,10 +543,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-10,Remo,1,0,Vila Nova,False,False,first
 2000-09-10,Desportiva,0,6,Serra,False,False,first
 2000-09-10,América-RN,1,1,Anapolina,False,False,first
-2000-09-10,Fortaleza,2,0,Sampaio Corrêa,False,False,first
+2000-09-10,Fortaleza,2,0,Sampaio Corrêa-MA,False,False,first
 2000-09-10,River,1,1,ABC,False,False,first
 2000-09-13,CSA,5,2,América-RN,False,False,first
-2000-09-13,Sampaio Corrêa,1,0,CRB,False,False,first
+2000-09-13,Sampaio Corrêa-MA,1,0,CRB,False,False,first
 2000-09-13,ABC,2,2,Ceará,False,False,first
 2000-09-13,Fortaleza,4,3,São Raimundo,False,False,first
 2000-09-13,Vila Nova,2,0,Nacional-AM,False,False,first
@@ -558,7 +558,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-17,CSA,1,1,Fortaleza,False,False,first
 2000-09-17,América-RN,1,0,River,False,False,first
 2000-09-17,Ceará,2,0,Nacional-AM,False,False,first
-2000-09-17,Sampaio Corrêa,3,2,Desportiva,False,False,first
+2000-09-17,Sampaio Corrêa-MA,3,2,Desportiva,False,False,first
 2000-09-17,Vila Nova,1,1,Paysandu,False,False,first
 2000-09-17,Bandeirante,2,2,São Raimundo,False,False,first
 2000-09-17,Náutico,1,1,CRB,False,False,first
@@ -567,7 +567,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-20,São Raimundo,2,1,América-RN,False,False,first
 2000-09-20,Náutico,2,0,ABC,False,False,first
 2000-09-20,Desportiva,1,1,CSA,False,False,first
-2000-09-20,Remo,1,1,Sampaio Corrêa,False,False,first
+2000-09-20,Remo,1,1,Sampaio Corrêa-MA,False,False,first
 2000-09-21,River,3,0,Bandeirante,False,False,first
 2000-09-21,Serra,2,0,Vila Nova,False,False,first
 2000-09-21,Paysandu,4,2,Ceará,False,False,first
@@ -578,35 +578,35 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-24,Bandeirante,1,1,Nacional-AM,False,False,first
 2000-09-24,CSA,1,0,Anapolina,False,False,first
 2000-09-24,Fortaleza,3,1,River,False,False,first
-2000-09-24,Sampaio Corrêa,2,0,Ceará,False,False,first
+2000-09-24,Sampaio Corrêa-MA,2,0,Ceará,False,False,first
 2000-09-24,Paysandu,0,0,Náutico,False,False,first
 2000-09-24,ABC,0,0,Serra,False,False,first
 2000-09-27,CSA,0,2,Serra,False,False,first
 2000-09-27,Nacional-AM,3,4,CRB,False,False,first
 2000-09-27,América-RN,4,0,Desportiva,False,False,first
 2000-09-27,Ceará,1,3,Fortaleza,False,False,first
-2000-09-27,Sampaio Corrêa,3,2,ABC,False,False,first
+2000-09-27,Sampaio Corrêa-MA,3,2,ABC,False,False,first
 2000-09-27,Bandeirante,0,1,Paysandu,False,False,first
 2000-09-27,Anapolina,1,0,Vila Nova,False,False,first
 2000-09-27,Náutico,0,0,River,False,False,first
 2000-09-28,São Raimundo,4,1,Remo,False,False,first
 2000-09-30,América-RN,1,1,Fortaleza,False,False,first
 2000-10-03,Desportiva,3,0,Bandeirante,False,False,first
-2000-10-04,Serra,3,1,Sampaio Corrêa,False,False,first
+2000-10-04,Serra,3,1,Sampaio Corrêa-MA,False,False,first
 2000-10-04,Náutico,3,2,São Raimundo,False,False,first
 2000-10-04,River,1,1,CRB,False,False,first
 2000-10-04,Ceará,0,0,Vila Nova,False,False,first
 2000-10-04,ABC,4,1,Paysandu,False,False,first
 2000-10-04,Remo,1,0,CSA,False,False,first
-2000-10-07,Anapolina,0,1,Sampaio Corrêa,False,False,first
+2000-10-07,Anapolina,0,1,Sampaio Corrêa-MA,False,False,first
 2000-10-07,Vila Nova,0,1,ABC,False,False,first
 2000-10-07,Ceará,1,2,Remo,False,False,first
 2000-10-07,Paysandu,3,2,Desportiva,False,False,first
 2000-10-07,CRB,1,1,São Raimundo,False,False,first
 2000-10-07,Bandeirante,2,3,CSA,False,False,first
 2000-10-07,Nacional-AM,4,2,América-RN,False,False,first
-2000-10-07,Caxias,2,0,Sampaio Corrêa,False,False,second
-2000-10-07,Sampaio Corrêa,1,1,Caxias,False,False,second
+2000-10-07,Caxias,2,0,Sampaio Corrêa-MA,False,False,second
+2000-10-07,Sampaio Corrêa-MA,1,1,Caxias,False,False,second
 2000-10-07,Remo,4,1,Figueirense,False,False,second
 2000-10-07,Figueirense,2,1,Remo,False,False,second
 2000-10-07,Avaí,0,2,Fortaleza,False,False,second

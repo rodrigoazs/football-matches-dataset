@@ -8,8 +8,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-03-12,Náutico-RR,1,4,Ponte Preta-SP,False,False,first
 2014-03-20,São Bernardo-SP,1,1,Paraná-PR,False,False,first
 2014-04-10,Paraná-PR,3,1,São Bernardo-SP,False,False,first
-2014-03-19,J. Malucelli,1,1,Vitória-BA,False,False,first
-2014-04-24,Vitória-BA,1,1,J. Malucelli,False,False,first
+2014-03-19,J. Malucelli,1,1,Vitória,False,False,first
+2014-04-24,Vitória,1,1,J. Malucelli,False,False,first
 2014-04-09,Novo Hamburgo-RS,1,0,Joinville,False,False,first
 2014-04-22,Joinville,2,2,Novo Hamburgo-RS,False,False,first
 2014-03-12,Flamengo-PI,0,1,Atlético-GO,False,False,first
@@ -84,8 +84,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2014-05-15,Santos,4,2,Princesa do Solimões,False,False,second
 2014-05-01,Londrina,0,0,Barueri,False,False,second
 2014-05-08,Barueri,3,3,Londrina,False,False,second
-2014-05-07,Sampaio Corrêa,2,1,Palmeiras,False,False,second
-2014-05-14,Palmeiras,3,0,Sampaio Corrêa,False,False,second
+2014-05-07,Sampaio Corrêa-MA,2,1,Palmeiras,False,False,second
+2014-05-14,Palmeiras,3,0,Sampaio Corrêa-MA,False,False,second
 2014-05-07,ASA,3,2,Avaí,False,False,second
 2014-05-13,Avaí,2,1,ASA,False,False,second
 2014-04-23,Tupi,0,3,Fluminense,False,False,second

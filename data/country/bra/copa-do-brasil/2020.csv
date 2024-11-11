@@ -16,9 +16,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-02-05,Fast Clube,0,2,Goiás,False,True,first
 2020-02-06,Novorizontino-SP,1,2,Figueirense-SC,False,True,first
 2020-02-06,Brasiliense,1,1,Paysandu,False,True,first
-2020-02-06,Vitoria FC-ES,2,1,CSA,False,True,first
+2020-02-06,Vitória-ES,2,1,CSA,False,True,first
 2020-02-06,União-MT,0,1,Atlético-GO,False,True,first
-2020-02-11,Imperatriz,0,0,Vitória-BA,False,True,first
+2020-02-11,Imperatriz,0,0,Vitória,False,True,first
 2020-02-12,Bragantino-PA,1,2,Ceará,False,True,first
 2020-02-12,Frei Paulistano1,2,Remo,False,True,first
 2020-02-12,Caucaia,1,2,São José-RS,False,True,first
@@ -39,7 +39,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-02-19,Lagarto-SE,1,0,Volta Redonda,False,True,first
 2020-02-19,Boavista,0,2,Chapecoense,False,True,first
 2020-02-26,Moto Club,2,4,Fluminense,False,True,first
-2020-02-18,Vitoria FC-ES,0,1,Figueirense-SC,False,True,second
+2020-02-18,Vitória-ES,0,1,Figueirense-SC,False,True,second
 2020-02-19,Paysandu,1,1,CRB,False,True,second
 2020-02-19,Náutico-PE,1,1,Botafogo,False,True,second
 2020-02-19,Oeste-SP,1,1,Ceará,False,True,second
@@ -56,7 +56,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-03-04,Brasil-RS,1,0,Manaus,False,True,second
 2020-03-04,Boa Esporte,1,1,Cruzeiro,False,True,second
 2020-03-04,Atlético-GO,1,1,Santa Cruz-PE,False,True,second
-2020-03-05,Vitória-BA,3,1,Lagarto-SE,False,True,second
+2020-03-05,Vitória,3,1,Lagarto-SE,False,True,second
 2020-03-05,Operário-PR,0,2,América-MG,False,True,second
 2020-03-05,Vasco da Gama,1,0,ABC,False,True,second
 2020-03-10,Botafogo,1,0,Paraná-PR,False,False,third
@@ -65,7 +65,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-03-11,Ferroviária-SP,0,0,América-MG,False,False,third
 2020-03-11,Cruzeiro,0,2,CRB,False,False,third
 2020-03-11,Atlético-GO,2,0,São José-RS,False,False,third
-2020-03-12,Ceará,1,0,Vitória-BA,False,False,third
+2020-03-12,Ceará,1,0,Vitória,False,False,third
 2020-03-12,Ponte Preta-SP,3,0,Afogados,False,False,third
 2020-03-12,Brasil-RS,0,1,Brusque,False,False,third
 2020-03-12,Vasco da Gama,0,1,Goiás,False,False,third
@@ -75,7 +75,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2020-08-26,América-RN,1,1,Juventude,False,False,third
 2020-08-26,CRB,1,1,Cruzeiro,False,False,third
 2020-08-26,Paraná-PR,1,2,Botafogo,False,False,third
-2020-08-26,Vitória-BA,3,4,Ceará,False,False,third
+2020-08-26,Vitória,3,4,Ceará,False,False,third
 2020-08-26,Goiás,1,2,Vasco da Gama,False,False,third
 2020-08-27,Brusque,1,0,Brasil-RS,False,False,third
 2020-08-27,São José-RS,1,0,Atlético-GO,False,False,third

@@ -13,8 +13,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2011-02-23,Cuiabá,0,2,Ceará,False,False,first
 2011-02-23,Águia de Marabá,1,1,Brasiliense,False,False,first
 2011-03-02,Brasiliense,2,0,Águia de Marabá,False,False,first
-2011-02-16,Botafogo-PB,3,1,Vitória-BA,False,False,first
-2011-02-24,Vitória-BA,0,0,Botafogo-PB,False,False,first
+2011-02-16,Botafogo-PB,3,1,Vitória,False,False,first
+2011-02-24,Vitória,0,0,Botafogo-PB,False,False,first
 2011-02-16,Ceilândia,0,5,Caxias,False,False,first
 2011-02-16,Ypiranga-RS,0,1,Coritiba,False,False,first
 2011-02-24,Coritiba,2,0,Ypiranga-RS,False,False,first
@@ -65,8 +65,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2011-03-17,Atlético-GO,1,2,Coritiba,False,False,second
 2011-03-30,Coritiba,3,1,Atlético-GO,False,False,second
 2011-03-16,Uberaba,0,4,Palmeiras,False,False,second
-2011-03-16,Sampaio Corrêa,3,2,Santo André,False,False,second
-2011-04-06,Santo André,1,0,Sampaio Corrêa,False,False,second
+2011-03-16,Sampaio Corrêa-MA,3,2,Santo André,False,False,second
+2011-04-06,Santo André,1,0,Sampaio Corrêa-MA,False,False,second
 2011-03-30,ABC,0,0,Vasco da Gama,False,False,second
 2011-04-06,Vasco da Gama,2,1,ABC,False,False,second
 2011-03-16,Bangu,0,2,Náutico,False,False,second

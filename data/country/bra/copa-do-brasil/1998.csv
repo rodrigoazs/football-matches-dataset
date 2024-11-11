@@ -24,8 +24,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1998-02-10,Vasco da Gama,8,0,Picos-PI,False,False,first
 1998-01-27,S.Raimundo(AM),0,1,Botafogo,False,False,first
 1998-02-10,Botafogo,4,0,S.Raimundo(AM),False,False,first
-1998-02-04,Operário-MT,2,2,Vitoria-BA,False,False,first
-1998-02-11,Vitoria-BA,3,1,Operário-MT,False,False,first
+1998-02-04,Operário-MT,2,2,Vitória,False,False,first
+1998-02-11,Vitória,3,1,Operário-MT,False,False,first
 1998-02-04,Botafogo-PB,2,3,Bahia,False,False,first
 1998-02-18,Bahia,1,2,Botafogo-PB,False,False,first
 1998-02-04,América-MG,1,0,Internacional,False,False,first
@@ -46,8 +46,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1998-02-19,Fluminense,0,2,Paraná-PR,False,False,first
 1998-03-01,Vasco da Gama,2,0,Vila Nova-GO,False,False,round16
 1998-03-12,Vila Nova-GO,0,0,Vasco da Gama,False,False,round16
-1998-03-03,Vitoria-BA,5,0,Flamengo-RJ,False,False,round16
-1998-04-09,Flamengo-RJ,5,2,Vitoria-BA,False,False,round16
+1998-03-03,Vitória,5,0,Flamengo-RJ,False,False,round16
+1998-04-09,Flamengo-RJ,5,2,Vitória,False,False,round16
 1998-03-10,Botafogo,2,1,Palmeiras,False,False,round16
 1998-03-24,Palmeiras,1,0,Botafogo,False,False,round16
 1998-03-12,Paraná-PR,1,0,Atletico-MG,False,False,round16
@@ -62,8 +62,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1998-04-23,Corinthians,1,1,Cruzeiro,False,False,round16
 1998-05-05,Santos,1,0,Paraná-PR,False,False,quarter
 1998-05-14,Paraná-PR,0,1,Santos,False,False,quarter
-1998-05-05,Cruzeiro,2,0,Vitoria-BA,False,False,quarter
-1998-05-14,Vitoria-BA,1,0,Cruzeiro,False,False,quarter
+1998-05-05,Cruzeiro,2,0,Vitória,False,False,quarter
+1998-05-14,Vitória,1,0,Cruzeiro,False,False,quarter
 1998-05-07,Sport,0,2,Palmeiras,False,False,quarter
 1998-05-12,Palmeiras,1,1,Sport,False,False,quarter
 1998-05-07,São Paulo,1,1,Vasco da Gama,False,False,quarter

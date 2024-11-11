@@ -90,13 +90,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1977-11-27,Treze,2,1,Náutico,False,False,first
 1977-11-27,Santa Cruz,1,2,Palmeiras,False,False,first
 1977-10-15,River,5,1,América-RN,False,False,first
-1977-10-16,Sampaio Corrêa,0,0,Corinthians,False,False,first
+1977-10-16,Sampaio Corrêa-MA,0,0,Corinthians,False,False,first
 1977-10-16,ABC,1,0,Ceará,False,False,first
 1977-10-16,Guarani,0,1,Portuguesa-SP,False,False,first
 1977-10-16,Flamengo-PI,1,2,Ponte Preta-SP,False,False,first
 1977-10-19,Ceará,1,1,América-RN,False,False,first
 1977-10-19,River,2,2,Corinthians,False,False,first
-1977-10-19,Sampaio Corrêa,0,0,Ponte Preta-SP,False,False,first
+1977-10-19,Sampaio Corrêa-MA,0,0,Ponte Preta-SP,False,False,first
 1977-10-20,ABC,1,0,Portuguesa-SP,False,False,first
 1977-10-23,Corinthians,1,0,Guarani,False,False,first
 1977-10-23,Flamengo-PI,0,1,Ceará,False,False,first
@@ -104,26 +104,26 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1977-10-23,América-RN,1,0,Ponte Preta-SP,False,False,first
 1977-10-26,América-RN,5,1,Flamengo-PI,False,False,first
 1977-10-26,Ceará,1,3,Ponte Preta-SP,False,False,first
-1977-10-26,Sampaio Corrêa,1,0,Fortaleza,False,False,first
+1977-10-26,Sampaio Corrêa-MA,1,0,Fortaleza,False,False,first
 1977-10-27,ABC,1,1,Guarani,False,False,first
 1977-10-27,Portuguesa-SP,2,0,River,False,False,first
 1977-10-30,Ponte Preta-SP,2,1,Corinthians,False,False,first
 1977-10-30,ABC,2,0,River,False,False,first
-1977-10-30,Flamengo-PI,1,3,Sampaio Corrêa,False,False,first
+1977-10-30,Flamengo-PI,1,3,Sampaio Corrêa-MA,False,False,first
 1977-10-30,Fortaleza,1,2,Guarani,False,False,first
-1977-11-02,América-RN,1,0,Sampaio Corrêa,False,False,first
+1977-11-02,América-RN,1,0,Sampaio Corrêa-MA,False,False,first
 1977-11-02,Corinthians,3,0,Flamengo-PI,False,False,first
 1977-11-02,Fortaleza,2,1,River,False,False,first
 1977-11-02,Ponte Preta-SP,2,0,ABC,False,False,first
 1977-11-05,Corinthians,1,0,ABC,False,False,first
 1977-11-06,Guarani,2,0,Flamengo-PI,False,False,first
-1977-11-06,Ceará,4,0,Sampaio Corrêa,False,False,first
+1977-11-06,Ceará,4,0,Sampaio Corrêa-MA,False,False,first
 1977-11-06,América-RN,1,1,Fortaleza,False,False,first
 1977-11-09,River,1,0,Ceará,False,False,first
 1977-11-09,ABC,0,0,Flamengo-PI,False,False,first
-1977-11-10,Sampaio Corrêa,1,2,Portuguesa-SP,False,False,first
+1977-11-10,Sampaio Corrêa-MA,1,2,Portuguesa-SP,False,False,first
 1977-11-10,Corinthians,3,0,Fortaleza,False,False,first
-1977-11-13,Sampaio Corrêa,0,2,Guarani,False,False,first
+1977-11-13,Sampaio Corrêa-MA,0,2,Guarani,False,False,first
 1977-11-13,Flamengo-PI,0,2,Portuguesa-SP,False,False,first
 1977-11-13,Ponte Preta-SP,3,1,Fortaleza,False,False,first
 1977-11-13,Ceará,1,0,Corinthians,False,False,first
@@ -137,11 +137,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1977-11-20,Ceará,1,0,Fortaleza,False,False,first
 1977-11-23,Flamengo-PI,1,0,Fortaleza,False,False,first
 1977-11-23,Ponte Preta-SP,5,0,River,False,False,first
-1977-11-24,Sampaio Corrêa,1,1,ABC,False,False,first
+1977-11-24,Sampaio Corrêa-MA,1,1,ABC,False,False,first
 1977-11-24,Portuguesa-SP,3,0,América-RN,False,False,first
 1977-11-24,Guarani,3,0,Ceará,False,False,first
 1977-11-27,Portuguesa-SP,2,1,Ceará,False,False,first
-1977-11-27,River,0,0,Sampaio Corrêa,False,False,first
+1977-11-27,River,0,0,Sampaio Corrêa-MA,False,False,first
 1977-11-27,Fortaleza,3,2,ABC,False,False,first
 1977-11-27,Guarani,1,0,América-RN,False,False,first
 1977-10-16,Vila Nova,0,0,Botafogo,False,False,first
@@ -371,17 +371,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1977-12-18,Sport,1,0,CRB,False,False,relegation
 1977-11-30,América-RN,2,0,Ceará,False,False,relegation
 1977-12-01,Flamengo-PI,0,0,Fortaleza,False,False,relegation
-1977-12-04,River,4,3,Sampaio Corrêa,False,False,relegation
+1977-12-04,River,4,3,Sampaio Corrêa-MA,False,False,relegation
 1977-12-04,Fortaleza,0,2,América-RN,False,False,relegation
 1977-12-07,Flamengo-PI,1,1,América-RN,False,False,relegation
 1977-12-08,River,2,1,Fortaleza,False,False,relegation
-1977-12-08,Sampaio Corrêa,1,1,Ceará,False,False,relegation
+1977-12-08,Sampaio Corrêa-MA,1,1,Ceará,False,False,relegation
 1977-12-11,Ceará,2,1,Fortaleza,False,False,relegation
-1977-12-11,Sampaio Corrêa,1,1,América-RN,False,False,relegation
+1977-12-11,Sampaio Corrêa-MA,1,1,América-RN,False,False,relegation
 1977-12-11,Flamengo-PI,0,0,River,False,False,relegation
-1977-12-14,Sampaio Corrêa,4,1,Flamengo-PI,False,False,relegation
+1977-12-14,Sampaio Corrêa-MA,4,1,Flamengo-PI,False,False,relegation
 1977-12-15,Ceará,3,0,River,False,False,relegation
-1977-12-15,Fortaleza,2,0,Sampaio Corrêa,False,False,relegation
+1977-12-15,Fortaleza,2,0,Sampaio Corrêa-MA,False,False,relegation
 1977-12-18,América-RN,5,0,River,False,False,relegation
 1977-12-18,Ceará,0,0,Flamengo-PI,False,False,relegation
 1977-12-01,Londrina,4,1,Goiânia,False,False,relegation

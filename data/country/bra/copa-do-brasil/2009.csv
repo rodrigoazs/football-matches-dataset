@@ -9,8 +9,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2009-02-18,Itabaiana,0,5,Atlético-MG,False,False,first
 2009-02-18,Guaratinguetá,2,0,Caxias,False,False,first
 2009-03-04,Caxias,2,1,Guaratinguetá,False,False,first
-2009-03-04,ASA,1,1,Vitória-BA,False,False,first
-2009-03-18,Vitória-BA,1,1,ASA,False,False,first
+2009-03-04,ASA,1,1,Vitória,False,False,first
+2009-03-18,Vitória,1,1,ASA,False,False,first
 2009-03-04,Atlético Sorocaba,1,0,Juventude,False,False,first
 2009-03-18,Juventude,2,0,Atlético Sorocaba,False,False,first
 2009-03-04,Itumbiara,0,2,Corinthians,False,False,first

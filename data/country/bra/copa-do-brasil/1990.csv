@@ -7,7 +7,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1990-06-22,São José-SP,1,2,Coritiba,False,False,first
 1990-06-22,Bahia,0,0,Sergipe-SE,False,False,first
 1990-06-22,Desportiva,1,1,Botafogo,False,False,first
-1990-06-22,Taguatinga-DF,1,0,Vitória-BA,False,False,first
+1990-06-22,Taguatinga-DF,1,0,Vitória,False,False,first
 1990-06-22,Moto Club,1,1,Remo,False,False,first
 1990-06-22,Santa Cruz-PE,3,1,América-RN,False,False,first
 1990-06-22,River,2,2,Ceará,False,False,first
@@ -23,7 +23,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1990-06-27,São Paulo,2,0,União Bandeirante-PR,False,False,first
 1990-06-27,Sergipe-SE,1,1,Bahia,False,False,first
 1990-06-27,Botafogo,2,1,Desportiva,False,False,first
-1990-06-27,Vitória-BA,0,1,Taguatinga-DF,False,False,first
+1990-06-27,Vitória,0,1,Taguatinga-DF,False,False,first
 1990-06-27,Remo,1,1,Moto Club,False,False,first
 1990-06-27,América-RN,0,1,Santa Cruz-PE,False,False,first
 1990-06-27,Ceará,1,0,River,False,False,first

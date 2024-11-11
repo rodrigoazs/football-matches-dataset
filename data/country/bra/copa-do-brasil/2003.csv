@@ -14,8 +14,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-02-19,Flamengo-PI,1,0,Corinthians-AL,False,False,first
 2003-02-06,Fluminense-BA,1,1,Fluminense,False,False,first
 2003-03-12,Fluminense,4,0,Fluminense-BA,False,False,first
-2003-02-19,Tocantinópolis-TO,1,2,Vitória-BA,False,False,first
-2003-03-12,Vitória-BA,0,1,Tocantinópolis-TO,False,False,first
+2003-02-19,Tocantinópolis-TO,1,2,Vitória,False,False,first
+2003-03-12,Vitória,0,1,Tocantinópolis-TO,False,False,first
 2003-02-20,Atlético Roraima,4,1,Nacional-AM,False,False,first
 2003-03-12,Nacional-AM,2,0,Atlético Roraima,False,False,first
 2003-02-20,Alegrense,2,3,Criciúma,False,False,first

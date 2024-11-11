@@ -37,7 +37,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2022-03-02,Portuguesa-RJ,1,0,CRB,False,True,first
 2022-03-03,Nova Venecia FC-ES,2,1,Ferroviário-CE,False,True,first
 2022-03-03,União-MT,0,3,Atlético-GO,False,True,first
-2022-03-03,Castanhal,1,1,Vitória-BA,False,True,first
+2022-03-03,Castanhal,1,1,Vitória,False,True,first
 2022-03-03,Globo,2,0,Internacional,False,True,first
 2022-03-08,Figueirense-SC,2,2,Cuiabá,False,True,second
 2022-03-08,Fluminense-PI,1,1,Santos,False,True,second
@@ -58,14 +58,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2022-03-16,São Paulo,2,0,Manaus,False,True,second
 2022-03-17,Real Noroeste-ES,0,1,Juventude,False,True,second
 2022-03-17,Goiás,1,0,Criciúma,False,True,second
-2022-03-23,Vitória-BA,2,0,Gloria-RS,False,True,second
+2022-03-23,Vitória,2,0,Gloria-RS,False,True,second
 2022-04-19,CSA,0,3,América-MG,False,False,third
 2022-04-19,Bahia,0,0,Azuriz,False,False,third
 2022-04-19,Fluminense,3,2,Vila Nova-GO,False,False,third
 2022-04-19,Remo,2,1,Cruzeiro,False,False,third
 2022-04-20,Goiás,1,2,RB Bragantino,False,False,third
 2022-04-20,Atlético-MG,3,0,Brasiliense,False,False,third
-2022-04-20,Fortaleza,3,0,Vitória-BA,False,False,third
+2022-04-20,Fortaleza,3,0,Vitória,False,False,third
 2022-04-20,Tocantinópolis-TO,2,5,Athletico-PR,False,False,third
 2022-04-20,Juventude,2,2,São Paulo,False,False,third
 2022-04-20,Coritiba,1,0,Santos,False,False,third
@@ -84,7 +84,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2022-05-11,Vila Nova-GO,0,2,Fluminense,False,False,third
 2022-05-11,Corinthians,2,0,Portuguesa-RJ,False,False,third
 2022-05-11,Cuiabá,0,0,Atlético-GO,False,False,third
-2022-05-12,Vitória-BA,0,1,Fortaleza,False,False,third
+2022-05-12,Vitória,0,1,Fortaleza,False,False,third
 2022-05-12,São Paulo,2,0,Juventude,False,False,third
 2022-05-12,Cruzeiro,1,0,Remo,False,False,third
 2022-05-12,Botafogo,3,0,Ceilândia,False,False,third

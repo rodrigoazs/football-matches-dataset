@@ -4,8 +4,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2015-03-04,Palmeiras,4,1,Vitória da Conquista-BA,False,False,first
 2015-02-25,Sampaio Corrêa-MA,2,3,Estrela do Norte,False,False,first
 2015-04-01,Estrela do Norte,1,4,Sampaio Corrêa-MA,False,False,first
-2015-04-01,Vitória-BA,2,1,Anapolina,False,False,first
-2015-04-14,Anapolina,1,1,Vitória-BA,False,False,first
+2015-04-01,Vitória,2,1,Anapolina,False,False,first
+2015-04-14,Anapolina,1,1,Vitória,False,False,first
 2015-02-25,ASA,3,1,São Raimundo-RR,False,False,first
 2015-04-01,Botafogo,2,2,Botafogo-PB,False,False,first
 2015-04-16,Botafogo-PB,2,4,Botafogo,False,False,first
@@ -71,8 +71,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2015-03-19,Boavista,0,2,ABC,False,False,first
 2015-03-18,Paysandu,2,2,Águia Negra,False,False,first
 2015-04-01,Águia Negra,2,0,Paysandu,False,False,first
-2015-04-29,Palmeiras,1,1,Sampaio Corrêa,False,False,second
-2015-05-12,Sampaio Corrêa,1,5,Palmeiras,False,False,second
+2015-04-29,Palmeiras,1,1,Sampaio Corrêa-MA,False,False,second
+2015-05-12,Sampaio Corrêa-MA,1,5,Palmeiras,False,False,second
 2015-05-13,Vitória,1,1,ASA,False,False,second
 2015-05-19,ASA,2,2,Vitória,False,False,second
 2015-04-29,Botafogo,2,1,Capivariano,False,False,second

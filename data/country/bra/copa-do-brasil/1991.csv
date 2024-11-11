@@ -12,7 +12,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1991-02-21,Ubiratan-MS,1,1,Criciúma,False,False,first
 1991-02-21,Caxias,2,1,XV de Piracicaba,False,False,first
 1991-02-21,União-MT,0,1,Goiás,False,False,first
-1991-02-21,Atlético-PR,1,1,Vitória-BA,False,False,first
+1991-02-21,Atlético-PR,1,1,Vitória,False,False,first
 1991-02-21,Gama,0,1,Sport,False,False,first
 1991-02-27,Confiança,0,0,Corinthians,False,False,first
 1991-02-21,Cruzeiro,4,0,ABC,False,False,first
@@ -27,7 +27,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1991-02-28,Atlético-MG,11,0,Caiçara,False,False,first
 1991-02-28,Criciúma,4,1,Ubiratan-MS,False,False,first
 1991-02-28,XV de Piracicaba,1,1,Caxias,False,False,first
-1991-02-28,Vitória-BA,2,1,Atlético-PR,False,False,first
+1991-02-28,Vitória,2,1,Atlético-PR,False,False,first
 1991-02-28,Sport,3,0,Gama,False,False,first
 1991-02-28,Remo,4,0,Rio Branco-AC,False,False,first
 1991-03-04,Corinthians,1,0,Confiança,False,False,first
@@ -35,7 +35,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1991-03-10,Caxias,1,1,Goiás,False,False,round16
 1991-03-13,Coritiba,3,0,Paysandu,False,False,round16
 1991-03-13,Fluminense-BA,0,1,Grêmio,False,False,round16
-1991-03-13,Vitória-BA,2,1,Sport,False,False,round16
+1991-03-13,Vitória,2,1,Sport,False,False,round16
 1991-03-14,Santa Cruz-PE,0,1,Botafogo,False,False,round16
 1991-03-14,Remo,0,0,Vasco da Gama,False,False,round16
 1991-03-22,Corinthians,3,1,Cruzeiro,False,False,round16
@@ -44,16 +44,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1991-03-21,Paysandu,0,0,Coritiba,False,False,round16
 1991-03-21,Goiás,2,0,Caxias,False,False,round16
 1991-03-21,Vasco da Gama,1,1,Remo,False,False,round16
-1991-03-21,Sport,0,0,Vitória-BA,False,False,round16
+1991-03-21,Sport,0,0,Vitória,False,False,round16
 1991-03-27,Grêmio,2,0,Fluminense-BA,False,False,round16
 1991-04-11,Cruzeiro,0,1,Corinthians,False,False,round16
 1991-04-18,Coritiba,3,0,Botafogo,False,False,quarter
 1991-04-18,Goiás,0,0,Criciúma,False,False,quarter
-1991-04-18,Remo,2,0,Vitória-BA,False,False,quarter
+1991-04-18,Remo,2,0,Vitória,False,False,quarter
 1991-05-08,Corinthians,1,1,Grêmio,False,False,quarter
 1991-04-25,Botafogo,1,1,Coritiba,False,False,quarter
 1991-04-25,Criciúma,3,0,Goiás,False,False,quarter
-1991-04-25,Vitória-BA,2,2,Remo,False,False,quarter
+1991-04-25,Vitória,2,2,Remo,False,False,quarter
 1991-05-15,Grêmio,2,1,Corinthians,False,False,quarter
 1991-05-12,Remo,0,1,Criciúma,False,False,semi
 1991-05-22,Coritiba,1,1,Grêmio,False,False,semi

@@ -1,7 +1,7 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-19,Flamengo-RJ,2,0,Paysandu,False,False,first
 1989-07-19,Rio Negro-AM,1,1,Vasco da Gama,False,False,first
-1989-07-19,Vitória-BA,2,0,Avaí,False,False,first
+1989-07-19,Vitória,2,0,Avaí,False,False,first
 1989-07-19,Guarani-SP,3,1,Flamengo-PI,False,False,first
 1989-07-19,Fortaleza,0,0,Sport,False,False,first
 1989-07-19,América-RN,0,3,Atlético-MG,False,False,first
@@ -16,7 +16,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-19,Cruzeiro,0,0,Botafogo-PB,False,False,first
 1989-07-19,Confiança,0,1,Bahia,False,False,first
 1989-07-22,Vasco da Gama,2,1,Rio Negro-AM,False,False,first
-1989-07-22,Avaí,1,0,Vitória-BA,False,False,first
+1989-07-22,Avaí,1,0,Vitória,False,False,first
 1989-07-22,Flamengo-PI,1,1,Guarani-SP,False,False,first
 1989-07-22,Sport,1,0,Fortaleza,False,False,first
 1989-07-22,Atlético-MG,7,0,América-RN,False,False,first
@@ -31,7 +31,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-22,Botafogo-PB,1,1,Cruzeiro,False,False,first
 1989-07-22,Bahia,1,0,Confiança,False,False,first
 1989-07-23,Corinthians,1,0,Sampaio Corrêa-MA,False,False,first
-1989-07-26,Vitória-BA,0,0,Vasco da Gama,False,False,round16
+1989-07-26,Vitória,0,0,Vasco da Gama,False,False,round16
 1989-07-26,Blumenau,1,3,Flamengo-RJ,False,False,round16
 1989-07-26,Internacional,0,0,Goiás,False,False,round16
 1989-07-26,Náutico-PE,1,1,Atlético-MG,False,False,round16
@@ -39,7 +39,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-26,Cruzeiro,1,0,Bahia,False,False,round16
 1989-07-26,Mixto,0,5,Grêmio,False,False,round16
 1989-07-27,Corinthians,5,0,Tiradentes-DF,False,False,round16
-1989-07-22,Vasco da Gama,1,2,Vitória-BA,False,False,round16
+1989-07-22,Vasco da Gama,1,2,Vitória,False,False,round16
 1989-07-22,Flamengo-RJ,3,1,Blumenau,False,False,round16
 1989-07-22,Goiás,4,0,Internacional,False,False,round16
 1989-07-22,Atlético-MG,3,0,Náutico-PE,False,False,round16
@@ -47,10 +47,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1989-07-22,Bahia,2,0,Cruzeiro,False,False,round16
 1989-07-22,Tiradentes-DF,1,0,Corinthians,False,False,round16
 1989-08-02,Flamengo-RJ,2,0,Corinthians,False,False,round16
-1989-08-05,Vitória-BA,1,0,Sport,False,False,round16
+1989-08-05,Vitória,1,0,Sport,False,False,round16
 1989-08-05,Goiás,2,1,Atlético-MG,False,False,round16
 1989-08-05,Bahia,0,2,Grêmio,False,False,round16
-1989-08-12,Sport,2,0,Vitória-BA,False,False,round16
+1989-08-12,Sport,2,0,Vitória,False,False,round16
 1989-08-12,Atlético-MG,2,0,Goiás,False,False,round16
 1989-08-12,Corinthians,4,2,Flamengo-RJ,False,False,round16
 1989-08-12,Grêmio,1,0,Bahia,False,False,round16
