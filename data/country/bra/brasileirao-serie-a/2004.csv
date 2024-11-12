@@ -1,553 +1,553 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-2004-04-21,Paraná,3,2,Santos,False,False,first
-2004-04-21,Figueirense,1,0,Internacional,False,False,first
-2004-04-21,Grêmio,0,0,Flamengo,False,False,first
-2004-04-21,Botafogo,1,4,Goiás,False,False,first
-2004-04-21,São Caetano,1,0,Vitória,False,False,first
-2004-04-21,Ponte Preta-SP,3,2,Corinthians,False,False,first
-2004-04-21,Cruzeiro,2,1,Juventude,False,False,first
-2004-04-21,Palmeiras,0,0,Atlético-MG,False,False,first
-2004-04-22,Vasco da Gama,0,1,Criciúma,False,False,first
-2004-04-22,Paysandu,3,3,Fluminense,False,False,first
-2004-04-22,São Paulo,1,0,Atlético-PR,False,False,first
-2004-04-22,Coritiba,1,0,Guarani,False,False,first
-2004-04-24,Goiás,2,2,Cruzeiro,False,False,first
-2004-04-24,Flamengo,0,0,Ponte Preta-SP,False,False,first
-2004-04-24,Juventude,1,1,Grêmio,False,False,first
-2004-04-25,Criciúma,1,1,São Paulo,False,False,first
-2004-04-25,Internacional,1,0,Palmeiras,False,False,first
-2004-04-25,Fluminense,1,1,Coritiba,False,False,first
-2004-04-25,Vitória,6,1,Paraná,False,False,first
-2004-04-25,Guarani,1,1,São Caetano,False,False,first
-2004-04-25,Atlético-MG,1,1,Vasco da Gama,False,False,first
-2004-04-25,Santos,2,0,Botafogo,False,False,first
-2004-04-25,Atlético-PR,0,3,Figueirense,False,False,first
-2004-04-25,Corinthians,2,1,Paysandu,False,False,first
-2004-04-28,Figueirense,2,1,Santos,False,False,first
-2004-04-28,Grêmio,4,0,Corinthians,False,False,first
-2004-04-28,Botafogo,2,2,Atlético-MG,False,False,first
-2004-04-28,Paysandu,0,3,Atlético-PR,False,False,first
-2004-04-28,Ponte Preta-SP,2,0,Goiás,False,False,first
-2004-04-28,Cruzeiro,2,2,Criciúma,False,False,first
-2004-04-28,São Paulo,1,0,Fluminense,False,False,first
-2004-04-28,Coritiba,1,1,Internacional,False,False,first
-2004-04-29,Vasco da Gama,0,1,Guarani,False,False,first
-2004-04-29,Palmeiras,2,2,Vitória,False,False,first
-2004-04-29,Paraná,2,1,Flamengo,False,False,first
-2004-06-24,São Caetano,1,0,Juventude,False,False,first
-2004-05-01,Atlético-MG,1,2,Ponte Preta-SP,False,False,first
-2004-05-01,Criciúma,1,0,Botafogo,False,False,first
-2004-05-01,Goiás,4,0,Grêmio,False,False,first
-2004-05-01,Internacional,1,0,Paysandu,False,False,first
-2004-05-02,Flamengo,1,1,São Caetano,False,False,first
-2004-05-02,Fluminense,1,0,Vasco da Gama,False,False,first
-2004-05-02,Vitória,3,1,Figueirense,False,False,first
-2004-05-02,Guarani,2,3,São Paulo,False,False,first
-2004-05-02,Santos,1,3,Cruzeiro,False,False,first
-2004-05-02,Atlético-PR,1,1,Coritiba,False,False,first
-2004-05-02,Corinthians,0,4,Palmeiras,False,False,first
-2004-05-02,Juventude,4,0,Paraná,False,False,first
-2004-05-08,São Caetano,5,0,Criciúma,False,False,first
-2004-05-08,Vasco da Gama,1,1,Grêmio,False,False,first
-2004-05-08,Guarani,0,0,Atlético-PR,False,False,first
-2004-05-08,Santos,2,1,Juventude,False,False,first
-2004-05-08,Palmeiras,3,0,Ponte Preta-SP,False,False,first
-2004-05-08,Paraná,2,0,Cruzeiro,False,False,first
-2004-05-09,Internacional,0,0,Fluminense,False,False,first
-2004-05-09,Botafogo,2,2,Paysandu,False,False,first
-2004-05-09,Vitória,5,1,Flamengo,False,False,first
-2004-05-09,Goiás,1,0,Figueirense,False,False,first
-2004-05-09,Atlético-MG,2,2,Corinthians,False,False,first
-2004-05-09,Coritiba,1,2,São Paulo,False,False,first
-2004-05-15,Atlético-PR,1,0,Santos,False,False,first
-2004-05-15,Paysandu,1,2,Vasco da Gama,False,False,first
-2004-05-16,Figueirense,1,0,São Caetano,False,False,first
-2004-05-16,Grêmio,2,2,Botafogo,False,False,first
-2004-05-16,Flamengo,1,2,Internacional,False,False,first
-2004-05-16,Fluminense,1,0,Vitória,False,False,first
-2004-05-16,Criciúma,7,2,Goiás,False,False,first
-2004-05-16,Ponte Preta-SP,0,0,Coritiba,False,False,first
-2004-05-16,Cruzeiro,2,1,Palmeiras,False,False,first
-2004-05-16,São Paulo,2,2,Paraná,False,False,first
-2004-05-16,Corinthians,1,0,Guarani,False,False,first
-2004-05-16,Juventude,1,1,Atlético-MG,False,False,first
-2004-05-22,Botafogo,1,1,Figueirense,False,False,first
-2004-05-22,Paysandu,1,3,Grêmio,False,False,first
-2004-05-22,Coritiba,0,1,Atlético-MG,False,False,first
-2004-05-22,Internacional,1,0,Goiás,False,False,first
-2004-05-23,Criciúma,2,0,Vitória,False,False,first
-2004-05-23,Flamengo,1,2,Fluminense,False,False,first
-2004-05-23,São Caetano,3,2,Vasco da Gama,False,False,first
-2004-05-23,Paraná,0,1,Ponte Preta-SP,False,False,first
-2004-05-23,Cruzeiro,2,1,São Paulo,False,False,first
-2004-05-23,Santos,0,4,Palmeiras,False,False,first
-2004-05-23,Corinthians,0,5,Atlético-PR,False,False,first
-2004-05-23,Juventude,2,0,Guarani,False,False,first
-2004-05-29,Fluminense,1,1,Criciúma,False,False,first
-2004-05-29,Ponte Preta-SP,0,1,Juventude,False,False,first
-2004-05-29,Vitória,2,1,Internacional,False,False,first
-2004-05-29,Palmeiras,2,0,Coritiba,False,False,first
-2004-05-29,Figueirense,1,1,Paysandu,False,False,first
-2004-05-30,Grêmio,1,2,São Caetano,False,False,first
-2004-05-30,Vasco da Gama,4,0,Botafogo,False,False,first
-2004-05-30,Goiás,2,2,Flamengo,False,False,first
-2004-05-30,Guarani,1,0,Paraná,False,False,first
-2004-05-30,Atlético-MG,3,3,Santos,False,False,first
-2004-05-30,São Paulo,1,1,Corinthians,False,False,first
-2004-05-30,Atlético-PR,3,1,Cruzeiro,False,False,first
-2004-06-12,Internacional,4,1,Atlético-MG,False,False,first
-2004-06-12,São Paulo,3,2,Grêmio,False,False,first
-2004-06-12,Paraná,1,1,Botafogo,False,False,first
-2004-06-12,Fluminense,1,1,Guarani,False,False,first
-2004-06-13,Criciúma,2,0,Juventude,False,False,first
-2004-06-13,Flamengo,3,0,Atlético-PR,False,False,first
-2004-06-13,Vitória,1,2,Santos,False,False,first
-2004-06-13,Goiás,1,1,Corinthians,False,False,first
-2004-06-13,Ponte Preta-SP,0,2,Figueirense,False,False,first
-2004-06-13,Cruzeiro,1,0,Paysandu,False,False,first
-2004-06-13,Coritiba,1,0,São Caetano,False,False,first
-2004-06-13,Palmeiras,2,2,Vasco da Gama,False,False,first
-2004-06-19,Vasco da Gama,0,0,Paraná,False,False,first
-2004-06-19,Figueirense,0,0,Cruzeiro,False,False,first
-2004-06-19,Grêmio,1,1,Coritiba,False,False,first
-2004-06-19,Atlético-PR,1,3,Vitória,False,False,first
-2004-06-20,Botafogo,0,1,Ponte Preta-SP,False,False,first
-2004-06-20,Paysandu,1,0,São Paulo,False,False,first
-2004-06-20,São Caetano,1,1,Palmeiras,False,False,first
-2004-06-20,Guarani,2,1,Criciúma,False,False,first
-2004-06-20,Atlético-MG,2,1,Fluminense,False,False,first
-2004-06-20,Santos,3,0,Internacional,False,False,first
-2004-06-20,Corinthians,1,1,Flamengo,False,False,first
-2004-06-20,Juventude,1,1,Goiás,False,False,first
-2004-06-26,Flamengo,0,3,Figueirense,False,False,first
-2004-06-26,Santos,2,1,Guarani,False,False,first
-2004-06-26,Coritiba,1,1,Paraná,False,False,first
-2004-06-26,Criciúma,1,2,Grêmio,False,False,first
-2004-06-27,Internacional,1,3,Vasco da Gama,False,False,first
-2004-06-27,Botafogo,3,3,Fluminense,False,False,first
-2004-06-27,Paysandu,4,2,Vitória,False,False,first
-2004-06-27,Goiás,3,2,São Caetano,False,False,first
-2004-06-27,Ponte Preta-SP,1,0,Cruzeiro,False,False,first
-2004-06-27,Atlético-MG,0,1,Atlético-PR,False,False,first
-2004-06-27,Palmeiras,2,1,São Paulo,False,False,first
-2004-06-27,Juventude,1,0,Corinthians,False,False,first
-2004-07-03,Fluminense,2,0,Grêmio,False,False,first
-2004-07-03,Vitória,0,0,Goiás,False,False,first
-2004-07-03,Guarani,1,1,Atlético-MG,False,False,first
-2004-07-03,Atlético-PR,4,1,Juventude,False,False,first
-2004-07-03,Internacional,3,0,Criciúma,False,False,first
-2004-07-03,Figueirense,2,2,Vasco da Gama,False,False,first
-2004-07-03,São Paulo,2,0,Ponte Preta-SP,False,False,first
-2004-07-04,Flamengo,4,1,Paysandu,False,False,first
-2004-07-04,São Caetano,1,2,Botafogo,False,False,first
-2004-07-04,Cruzeiro,0,3,Coritiba,False,False,first
-2004-07-04,Corinthians,2,3,Santos,False,False,first
-2004-07-04,Paraná,1,2,Palmeiras,False,False,first
-2004-07-06,Grêmio,2,2,Figueirense,False,False,first
-2004-07-06,Vasco da Gama,3,1,Vitória,False,False,first
-2004-07-06,Goiás,4,0,Fluminense,False,False,first
-2004-07-06,São Paulo,1,0,Atlético-MG,False,False,first
-2004-07-07,Criciúma,1,1,Flamengo,False,False,first
-2004-07-07,Botafogo,5,1,Internacional,False,False,first
-2004-07-07,Paysandu,0,0,São Caetano,False,False,first
-2004-07-07,Ponte Preta-SP,0,4,Santos,False,False,first
-2004-07-07,Cruzeiro,2,0,Guarani,False,False,first
-2004-07-07,Coritiba,1,2,Corinthians,False,False,first
-2004-07-07,Palmeiras,4,1,Juventude,False,False,first
-2004-07-07,Paraná,1,0,Atlético-PR,False,False,first
-2004-07-10,Figueirense,2,0,Criciúma,False,False,first
-2004-07-10,Internacional,2,0,Grêmio,False,False,first
-2004-07-10,Flamengo,0,1,Vasco da Gama,False,False,first
-2004-07-10,Fluminense,1,0,São Caetano,False,False,first
-2004-07-10,Vitória,1,0,Botafogo,False,False,first
-2004-07-10,Goiás,3,2,Paysandu,False,False,first
-2004-07-10,Ponte Preta-SP,3,1,Guarani,False,False,first
-2004-07-10,Atlético-MG,2,0,Cruzeiro,False,False,first
-2004-07-10,Santos,2,1,São Paulo,False,False,first
-2004-07-10,Atlético-PR,0,0,Palmeiras,False,False,first
-2004-07-10,Corinthians,1,0,Paraná,False,False,first
-2004-07-10,Juventude,1,0,Coritiba,False,False,first
-2004-07-13,Figueirense,0,0,Paraná,False,False,first
-2004-07-13,Grêmio,2,3,Cruzeiro,False,False,first
-2004-07-13,Vasco da Gama,2,3,Coritiba,False,False,first
-2004-07-13,Botafogo,1,1,Palmeiras,False,False,first
-2004-07-13,Paysandu,3,0,Ponte Preta-SP,False,False,first
-2004-07-13,São Caetano,0,0,São Paulo,False,False,first
-2004-07-13,Guarani,2,1,Internacional,False,False,first
-2004-07-13,Atlético-MG,1,1,Vitória,False,False,first
-2004-07-13,Santos,2,0,Flamengo,False,False,first
-2004-07-13,Atlético-PR,6,0,Goiás,False,False,first
-2004-07-13,Corinthians,1,0,Criciúma,False,False,first
-2004-07-13,Juventude,2,1,Fluminense,False,False,first
-2004-07-17,Criciúma,4,2,Atlético-MG,False,False,first
-2004-07-17,Internacional,6,0,Atlético-PR,False,False,first
-2004-07-17,Flamengo,0,1,Juventude,False,False,first
-2004-07-17,Fluminense,1,0,Santos,False,False,first
-2004-07-17,Vitória,1,1,Corinthians,False,False,first
-2004-07-17,Goiás,2,0,Guarani,False,False,first
-2004-07-17,Ponte Preta-SP,3,2,Vasco da Gama,False,False,first
-2004-07-17,Cruzeiro,3,2,Botafogo,False,False,first
-2004-07-17,São Paulo,2,1,Figueirense,False,False,first
-2004-07-17,Coritiba,1,1,Paysandu,False,False,first
-2004-07-17,Palmeiras,2,0,Grêmio,False,False,first
-2004-07-17,Paraná,0,1,São Caetano,False,False,first
-2004-07-20,Figueirense,1,1,Coritiba,False,False,first
-2004-07-20,Grêmio,4,0,Paraná,False,False,first
-2004-07-20,Vasco da Gama,3,2,Cruzeiro,False,False,first
-2004-07-20,Botafogo,1,0,São Paulo,False,False,first
-2004-07-20,Paysandu,1,0,Palmeiras,False,False,first
-2004-07-20,São Caetano,0,1,Ponte Preta-SP,False,False,first
-2004-07-20,Guarani,0,1,Flamengo,False,False,first
-2004-07-20,Atlético-MG,0,2,Goiás,False,False,first
-2004-07-20,Santos,5,2,Criciúma,False,False,first
-2004-07-20,Atlético-PR,4,1,Fluminense,False,False,first
-2004-07-20,Corinthians,0,0,Internacional,False,False,first
-2004-07-20,Juventude,3,2,Vitória,False,False,first
-2004-07-24,Criciúma,4,1,Atlético-PR,False,False,first
-2004-07-24,Internacional,1,2,Juventude,False,False,first
-2004-07-24,Flamengo,0,0,Atlético-MG,False,False,first
-2004-07-24,Fluminense,2,0,Corinthians,False,False,first
-2004-07-24,Vitória,3,2,Guarani,False,False,first
-2004-07-24,Goiás,3,3,Santos,False,False,first
-2004-07-24,Ponte Preta-SP,1,0,Grêmio,False,False,first
-2004-07-24,Cruzeiro,0,1,São Caetano,False,False,first
-2004-07-24,São Paulo,1,0,Vasco da Gama,False,False,first
-2004-07-24,Coritiba,1,0,Botafogo,False,False,first
-2004-07-24,Palmeiras,0,0,Figueirense,False,False,first
-2004-07-24,Paraná,2,0,Paysandu,False,False,first
-2004-07-28,Figueirense,2,1,Fluminense,False,False,first
-2004-07-28,Grêmio,4,0,Vitória,False,False,first
-2004-07-28,Botafogo,0,0,Flamengo,False,False,first
-2004-07-28,Paysandu,2,2,Criciúma,False,False,first
-2004-07-28,Guarani,1,0,Palmeiras,False,False,first
-2004-07-28,Atlético-PR,4,0,Ponte Preta-SP,False,False,first
-2004-07-28,Corinthians,1,0,Cruzeiro,False,False,first
-2004-07-28,Juventude,1,2,São Paulo,False,False,first
-2004-07-29,Atlético-MG,4,1,Paraná,False,False,first
-2004-07-29,Vasco da Gama,3,1,Goiás,False,False,first
-2004-07-29,Santos,4,2,Coritiba,False,False,first
-2004-07-29,São Caetano,2,0,Internacional,False,False,first
-2004-07-31,Atlético-PR,0,0,Grêmio,False,False,first
-2004-07-31,Fluminense,0,0,Cruzeiro,False,False,first
-2004-08-01,Criciúma,3,1,Ponte Preta-SP,False,False,first
-2004-08-01,Internacional,1,1,São Paulo,False,False,first
-2004-08-01,Flamengo,0,1,Palmeiras,False,False,first
-2004-08-01,Vitória,2,2,Coritiba,False,False,first
-2004-08-01,Goiás,3,0,Paraná,False,False,first
-2004-08-01,Guarani,0,2,Botafogo,False,False,first
-2004-08-01,Atlético-MG,3,1,Figueirense,False,False,first
-2004-08-01,Santos,6,0,Paysandu,False,False,first
-2004-08-01,Corinthians,2,0,São Caetano,False,False,first
-2004-08-01,Juventude,1,1,Vasco da Gama,False,False,first
-2004-08-04,Figueirense,1,1,Guarani,False,False,first
-2004-08-04,Grêmio,3,1,Santos,False,False,first
-2004-08-04,Vasco da Gama,1,3,Corinthians,False,False,first
-2004-08-04,Paysandu,2,1,Atlético-MG,False,False,first
-2004-08-04,São Caetano,0,3,Atlético-PR,False,False,first
-2004-08-04,Ponte Preta-SP,3,2,Fluminense,False,False,first
-2004-08-04,Coritiba,1,0,Flamengo,False,False,first
-2004-08-04,Palmeiras,0,3,Goiás,False,False,first
-2004-08-04,Paraná,0,3,Criciúma,False,False,first
-2004-08-05,Botafogo,0,1,Juventude,False,False,first
-2004-08-05,Cruzeiro,2,0,Internacional,False,False,first
-2004-08-05,São Paulo,2,1,Vitória,False,False,first
-2004-08-07,Fluminense,3,1,Paraná,False,False,first
-2004-08-07,Goiás,1,2,Coritiba,False,False,first
-2004-08-07,Atlético-MG,3,0,Grêmio,False,False,first
-2004-08-07,Santos,0,1,São Caetano,False,False,first
-2004-08-08,Criciúma,1,2,Palmeiras,False,False,first
-2004-08-08,Internacional,1,2,Ponte Preta-SP,False,False,first
-2004-08-08,Flamengo,1,0,São Paulo,False,False,first
-2004-08-08,Vitória,3,2,Cruzeiro,False,False,first
-2004-08-08,Guarani,0,0,Paysandu,False,False,first
-2004-08-08,Atlético-PR,2,0,Vasco da Gama,False,False,first
-2004-08-08,Corinthians,2,2,Botafogo,False,False,first
-2004-08-08,Juventude,0,0,Figueirense,False,False,first
-2004-08-11,Figueirense,0,1,Corinthians,False,False,first
-2004-08-11,Grêmio,1,1,Guarani,False,False,first
-2004-08-11,Vasco da Gama,2,3,Santos,False,False,first
-2004-08-11,Paysandu,0,1,Juventude,False,False,first
-2004-08-11,Cruzeiro,2,0,Flamengo,False,False,first
-2004-08-11,Paraná,1,2,Internacional,False,False,first
-2004-08-11,Ponte Preta-SP,1,0,Vitória,False,False,first
-2004-08-11,São Paulo,4,0,Goiás,False,False,first
-2004-08-12,Botafogo,1,1,Atlético-PR,False,False,first
-2004-08-12,São Caetano,1,1,Atlético-MG,False,False,first
-2004-08-12,Coritiba,1,0,Criciúma,False,False,first
-2004-08-12,Palmeiras,3,2,Fluminense,False,False,first
-2004-08-14,Internacional,4,0,Figueirense,False,False,first
-2004-08-14,Juventude,1,0,Cruzeiro,False,False,first
-2004-08-14,Flamengo,3,0,Grêmio,False,False,first
-2004-08-14,Corinthians,2,0,Ponte Preta-SP,False,False,first
-2004-08-15,Criciúma,1,0,Vasco da Gama,False,False,first
-2004-08-15,Fluminense,1,1,Paysandu,False,False,first
-2004-08-15,Vitória,1,2,São Caetano,False,False,first
-2004-08-15,Goiás,3,1,Botafogo,False,False,first
-2004-08-15,Guarani,0,0,Coritiba,False,False,first
-2004-08-15,Atlético-MG,1,2,Palmeiras,False,False,first
-2004-08-15,Santos,5,1,Paraná,False,False,first
-2004-08-15,Atlético-PR,1,0,São Paulo,False,False,first
-2004-08-18,Figueirense,1,1,Atlético-PR,False,False,first
-2004-08-18,Grêmio,2,4,Juventude,False,False,first
-2004-08-18,Botafogo,2,0,Santos,False,False,first
-2004-08-18,Paysandu,2,1,Corinthians,False,False,first
-2004-08-18,São Caetano,3,0,Guarani,False,False,first
-2004-08-18,Ponte Preta-SP,1,0,Flamengo,False,False,first
-2004-08-18,Cruzeiro,1,3,Goiás,False,False,first
-2004-08-18,Palmeiras,3,1,Internacional,False,False,first
-2004-08-18,Paraná,4,1,Vitória,False,False,first
-2004-08-19,São Paulo,2,0,Criciúma,False,False,first
-2004-08-19,Vasco da Gama,3,0,Atlético-MG,False,False,first
-2004-08-19,Coritiba,2,0,Fluminense,False,False,first
-2004-08-21,Flamengo,2,1,Paraná,False,False,first
-2004-08-21,Corinthians,1,1,Grêmio,False,False,first
-2004-08-22,Criciúma,1,2,Cruzeiro,False,False,first
-2004-08-22,Internacional,1,1,Coritiba,False,False,first
-2004-08-22,Fluminense,1,0,São Paulo,False,False,first
-2004-08-22,Vitória,2,2,Palmeiras,False,False,first
-2004-08-22,Goiás,5,0,Ponte Preta-SP,False,False,first
-2004-08-22,Guarani,1,1,Vasco da Gama,False,False,first
-2004-08-22,Atlético-MG,1,1,Botafogo,False,False,first
-2004-08-22,Santos,4,1,Figueirense,False,False,first
-2004-08-22,Atlético-PR,2,0,Paysandu,False,False,first
-2004-08-22,Juventude,2,2,São Caetano,False,False,first
-2004-08-28,Grêmio,1,1,Goiás,False,False,first
-2004-08-28,Paysandu,2,1,Internacional,False,False,first
-2004-08-28,Botafogo,1,1,Criciúma,False,False,first
-2004-08-28,Paraná,1,2,Juventude,False,False,first
-2004-08-28,São Paulo,3,3,Guarani,False,False,first
-2004-08-29,Figueirense,2,1,Vitória,False,False,first
-2004-08-29,Vasco da Gama,1,1,Fluminense,False,False,first
-2004-08-29,São Caetano,0,1,Flamengo,False,False,first
-2004-08-29,Ponte Preta-SP,1,1,Atlético-MG,False,False,first
-2004-08-29,Cruzeiro,4,4,Santos,False,False,first
-2004-08-29,Coritiba,1,2,Atlético-PR,False,False,first
-2004-08-29,Palmeiras,0,1,Corinthians,False,False,first
-2004-09-01,Figueirense,3,2,Goiás,False,False,first
-2004-09-01,Fluminense,3,1,Internacional,False,False,first
-2004-09-01,Criciúma,0,4,São Caetano,False,False,first
-2004-09-01,Ponte Preta-SP,0,0,Palmeiras,False,False,first
-2004-09-01,Cruzeiro,1,4,Paraná,False,False,first
-2004-09-01,São Paulo,2,3,Coritiba,False,False,first
-2004-09-01,Corinthians,1,0,Atlético-MG,False,False,first
-2004-09-01,Juventude,1,2,Santos,False,False,first
-2004-09-02,Paysandu,2,0,Botafogo,False,False,first
-2004-09-02,Atlético-PR,2,0,Guarani,False,False,first
-2004-09-02,Grêmio,1,2,Vasco da Gama,False,False,first
-2004-09-02,Flamengo,2,0,Vitória,False,False,first
-2004-09-07,Vasco da Gama,0,1,Paysandu,False,False,first
-2004-09-07,Palmeiras,1,3,Cruzeiro,False,False,first
-2004-09-08,São Caetano,1,0,Figueirense,False,False,first
-2004-09-08,Internacional,0,0,Flamengo,False,False,first
-2004-09-08,Goiás,2,1,Criciúma,False,False,first
-2004-09-08,Guarani,0,1,Corinthians,False,False,first
-2004-09-08,Atlético-MG,1,1,Juventude,False,False,first
-2004-09-08,Santos,1,1,Atlético-PR,False,False,first
-2004-09-08,Paraná,0,2,São Paulo,False,False,first
-2004-09-09,Coritiba,2,0,Ponte Preta-SP,False,False,first
-2004-09-09,Botafogo,2,1,Grêmio,False,False,first
-2004-09-09,Vitória,2,3,Fluminense,False,False,first
-2004-09-11,São Paulo,0,0,Cruzeiro,False,False,first
-2004-09-11,Guarani,3,1,Juventude,False,False,first
-2004-09-11,Vasco da Gama,1,2,São Caetano,False,False,first
-2004-09-11,Goiás,1,0,Internacional,False,False,first
-2004-09-12,Figueirense,3,1,Botafogo,False,False,first
-2004-09-12,Grêmio,1,1,Paysandu,False,False,first
-2004-09-12,Fluminense,2,1,Flamengo,False,False,first
-2004-09-12,Vitória,1,0,Criciúma,False,False,first
-2004-09-12,Atlético-MG,2,1,Coritiba,False,False,first
-2004-09-12,Atlético-PR,3,1,Corinthians,False,False,first
-2004-09-12,Palmeiras,1,2,Santos,False,False,first
-2004-09-12,Ponte Preta-SP,0,2,Paraná,False,False,first
-2004-09-18,Criciúma,0,2,Fluminense,False,False,first
-2004-09-18,São Caetano,2,0,Grêmio,False,False,first
-2004-09-18,Paraná,0,0,Guarani,False,False,first
-2004-09-18,Santos,2,0,Atlético-MG,False,False,first
-2004-09-19,Internacional,2,1,Vitória,False,False,first
-2004-09-19,Flamengo,4,0,Goiás,False,False,first
-2004-09-19,Botafogo,2,2,Vasco da Gama,False,False,first
-2004-09-19,Paysandu,3,1,Figueirense,False,False,first
-2004-09-19,Cruzeiro,2,4,Atlético-PR,False,False,first
-2004-09-19,Coritiba,0,0,Palmeiras,False,False,first
-2004-09-19,Corinthians,0,0,São Paulo,False,False,first
-2004-09-19,Juventude,1,2,Ponte Preta-SP,False,False,first
-2004-09-24,Figueirense,0,1,Ponte Preta-SP,False,False,first
-2004-09-25,Grêmio,2,1,São Paulo,False,False,first
-2004-09-25,Paysandu,3,1,Cruzeiro,False,False,first
-2004-09-25,São Caetano,1,0,Coritiba,False,False,first
-2004-09-25,Guarani,1,1,Fluminense,False,False,first
-2004-09-25,Atlético-MG,1,1,Internacional,False,False,first
-2004-09-26,Vasco da Gama,2,5,Palmeiras,False,False,first
-2004-09-26,Botafogo,4,3,Paraná,False,False,first
-2004-09-26,Santos,4,1,Vitória,False,False,first
-2004-09-26,Atlético-PR,2,1,Flamengo,False,False,first
-2004-09-26,Corinthians,1,0,Goiás,False,False,first
-2004-09-26,Juventude,1,0,Criciúma,False,False,first
-2004-09-28,Cruzeiro,3,3,Figueirense,False,False,first
-2004-09-28,São Paulo,7,0,Paysandu,False,False,first
-2004-09-28,Coritiba,2,1,Grêmio,False,False,first
-2004-09-28,Fluminense,1,1,Atlético-MG,False,False,first
-2004-09-29,Criciúma,1,1,Guarani,False,False,first
-2004-09-29,Internacional,2,1,Santos,False,False,first
-2004-09-29,Flamengo,0,0,Corinthians,False,False,first
-2004-09-29,Vitória,2,3,Atlético-PR,False,False,first
-2004-09-29,Ponte Preta-SP,1,1,Botafogo,False,False,first
-2004-09-29,Palmeiras,3,1,São Caetano,False,False,first
-2004-09-29,Paraná,2,1,Vasco da Gama,False,False,first
-2004-09-30,Goiás,1,2,Juventude,False,False,first
-2004-10-02,Figueirense,3,2,Flamengo,False,False,first
-2004-10-02,Grêmio,2,0,Criciúma,False,False,first
-2004-10-02,Vasco da Gama,2,0,Internacional,False,False,first
-2004-10-02,Fluminense,1,4,Botafogo,False,False,first
-2004-10-02,Vitória,4,1,Paysandu,False,False,first
-2004-10-02,São Caetano,2,0,Goiás,False,False,first
-2004-10-02,Guarani,0,1,Santos,False,False,first
-2004-10-02,Cruzeiro,5,0,Ponte Preta-SP,False,False,first
-2004-10-02,São Paulo,2,1,Palmeiras,False,False,first
-2004-10-02,Atlético-PR,5,0,Atlético-MG,False,False,first
-2004-10-02,Corinthians,1,2,Juventude,False,False,first
-2004-10-02,Paraná,1,0,Coritiba,False,False,first
-2004-10-06,Criciúma,2,1,Internacional,False,False,first
-2004-10-06,Grêmio,2,3,Fluminense,False,False,first
-2004-10-06,Vasco da Gama,1,0,Figueirense,False,False,first
-2004-10-06,Goiás,4,0,Vitória,False,False,first
-2004-10-06,Ponte Preta-SP,0,1,São Paulo,False,False,first
-2004-10-06,Santos,1,1,Corinthians,False,False,first
-2004-10-06,Coritiba,1,1,Cruzeiro,False,False,first
-2004-10-07,Paysandu,2,2,Flamengo,False,False,first
-2004-10-07,Botafogo,1,1,São Caetano,False,False,first
-2004-10-07,Atlético-MG,3,2,Guarani,False,False,first
-2004-10-07,Palmeiras,1,1,Paraná,False,False,first
-2004-10-07,Juventude,3,3,Atlético-PR,False,False,first
-2004-10-16,Fluminense,1,4,Goiás,False,False,first
-2004-10-16,Vitória,4,1,Vasco da Gama,False,False,first
-2004-10-16,Figueirense,2,0,Grêmio,False,False,first
-2004-10-16,Santos,4,0,Ponte Preta-SP,False,False,first
-2004-10-17,Internacional,3,1,Botafogo,False,False,first
-2004-10-17,Flamengo,3,1,Criciúma,False,False,first
-2004-10-17,São Caetano,3,0,Paysandu,False,False,first
-2004-10-17,Guarani,2,0,Cruzeiro,False,False,first
-2004-10-17,Atlético-MG,0,5,São Paulo,False,False,first
-2004-10-17,Atlético-PR,1,1,Paraná,False,False,first
-2004-10-17,Corinthians,0,0,Coritiba,False,False,first
-2004-10-17,Juventude,0,2,Palmeiras,False,False,first
-2004-10-23,Palmeiras,3,1,Atlético-PR,False,False,first
-2004-10-23,Paysandu,4,2,Goiás,False,False,first
-2004-10-23,Cruzeiro,0,3,Atlético-MG,False,False,first
-2004-10-23,Grêmio,1,3,Internacional,False,False,first
-2004-10-23,Coritiba,2,3,Juventude,False,False,first
-2004-10-23,Botafogo,1,1,Vitória,False,False,first
-2004-10-24,Criciúma,2,1,Figueirense,False,False,first
-2004-10-24,Vasco da Gama,1,0,Flamengo,False,False,first
-2004-10-24,São Caetano,2,0,Fluminense,False,False,first
-2004-10-24,Guarani,0,0,Ponte Preta-SP,False,False,first
-2004-10-24,São Paulo,1,0,Santos,False,False,first
-2004-10-24,Paraná,1,2,Corinthians,False,False,first
-2004-10-26,Cruzeiro,2,0,Grêmio,False,False,first
-2004-10-26,Goiás,2,0,Atlético-PR,False,False,first
-2004-10-26,Vitória,2,1,Atlético-MG,False,False,first
-2004-10-26,Palmeiras,2,1,Botafogo,False,False,first
-2004-10-27,Criciúma,1,1,Corinthians,False,False,first
-2004-10-27,Internacional,1,3,Guarani,False,False,first
-2004-10-27,Flamengo,1,1,Santos,False,False,first
-2004-10-27,Fluminense,7,1,Juventude,False,False,first
-2004-10-27,Ponte Preta-SP,3,0,Paysandu,False,False,first
-2004-10-27,Coritiba,0,1,Vasco da Gama,False,False,first
-2004-10-27,Paraná,2,1,Figueirense,False,False,first
-2004-11-03,São Paulo,4,2,São Caetano,False,False,first
-2004-10-30,Figueirense,1,0,São Paulo,False,False,first
-2004-10-30,Grêmio,2,3,Palmeiras,False,False,first
-2004-10-30,Botafogo,2,1,Cruzeiro,False,False,first
-2004-10-30,Paysandu,0,0,Coritiba,False,False,first
-2004-10-30,Guarani,1,1,Goiás,False,False,first
-2004-10-30,Atlético-MG,2,2,Criciúma,False,False,first
-2004-10-30,Santos,5,0,Fluminense,False,False,first
-2004-10-30,Atlético-PR,2,1,Internacional,False,False,first
-2004-10-30,Corinthians,1,0,Vitória,False,False,first
-2004-10-30,Juventude,1,0,Flamengo,False,False,first
-2004-10-31,Vasco da Gama,2,2,Ponte Preta-SP,False,False,first
-2004-11-10,São Caetano,2,1,Paraná,False,False,first
-2004-11-06,Flamengo,1,0,Guarani,False,False,first
-2004-11-06,Palmeiras,1,0,Paysandu,False,False,first
-2004-11-06,Paraná,1,0,Grêmio,False,False,first
-2004-11-06,Goiás,1,0,Atlético-MG,False,False,first
-2004-11-07,Criciúma,1,1,Santos,False,False,first
-2004-11-07,Internacional,3,0,Corinthians,False,False,first
-2004-11-07,Fluminense,1,2,Atlético-PR,False,False,first
-2004-11-07,Vitória,1,1,Juventude,False,False,first
-2004-11-07,Ponte Preta-SP,0,3,São Caetano,False,False,first
-2004-11-07,Cruzeiro,3,2,Vasco da Gama,False,False,first
-2004-11-07,São Paulo,5,2,Botafogo,False,False,first
-2004-11-07,Coritiba,2,0,Figueirense,False,False,first
-2004-11-13,Corinthians,1,1,Fluminense,False,False,first
-2004-11-13,Grêmio,6,1,Ponte Preta-SP,False,False,first
-2004-11-13,Botafogo,4,1,Coritiba,False,False,first
-2004-11-13,São Caetano,4,1,Cruzeiro,False,False,first
-2004-11-14,Figueirense,0,1,Palmeiras,False,False,first
-2004-11-14,Vasco da Gama,0,0,São Paulo,False,False,first
-2004-11-14,Paysandu,1,1,Paraná,False,False,first
-2004-11-14,Guarani,0,0,Vitória,False,False,first
-2004-11-14,Atlético-MG,6,1,Flamengo,False,False,first
-2004-11-14,Santos,2,1,Goiás,False,False,first
-2004-11-14,Atlético-PR,6,1,Criciúma,False,False,first
-2004-11-14,Juventude,2,3,Internacional,False,False,first
-2004-11-20,Fluminense,0,2,Figueirense,False,False,first
-2004-11-20,Paraná,1,0,Atlético-MG,False,False,first
-2004-11-20,Vitória,2,0,Grêmio,False,False,first
-2004-11-20,Palmeiras,0,2,Guarani,False,False,first
-2004-11-21,Criciúma,1,0,Paysandu,False,False,first
-2004-11-21,Internacional,1,0,São Caetano,False,False,first
-2004-11-21,Flamengo,0,0,Botafogo,False,False,first
-2004-11-21,Goiás,3,2,Vasco da Gama,False,False,first
-2004-11-21,Ponte Preta-SP,2,3,Atlético-PR,False,False,first
-2004-11-21,Cruzeiro,0,1,Corinthians,False,False,first
-2004-11-21,São Paulo,4,0,Juventude,False,False,first
-2004-11-21,Coritiba,0,1,Santos,False,False,first
-2004-11-27,Figueirense,2,1,Atlético-MG,False,False,first
-2004-11-27,Botafogo,1,0,Guarani,False,False,first
-2004-11-27,Paraná,2,1,Goiás,False,False,first
-2004-11-27,Cruzeiro,2,3,Fluminense,False,False,first
-2004-11-27,São Paulo,2,1,Internacional,False,False,first
-2004-11-28,Grêmio,3,3,Atlético-PR,False,False,first
-2004-11-28,Vasco da Gama,1,1,Juventude,False,False,first
-2004-11-28,Paysandu,1,1,Santos,False,False,first
-2004-11-28,São Caetano,2,1,Corinthians,False,False,first
-2004-11-28,Ponte Preta-SP,1,0,Criciúma,False,False,first
-2004-11-28,Coritiba,5,1,Vitória,False,False,first
-2004-11-28,Palmeiras,1,2,Flamengo,False,False,first
-2004-12-04,Atlético-MG,0,0,Paysandu,False,False,first
-2004-12-04,Fluminense,1,0,Ponte Preta-SP,False,False,first
-2004-12-04,Guarani,2,1,Figueirense,False,False,first
-2004-12-04,Criciúma,1,2,Paraná,False,False,first
-2004-12-04,Goiás,0,0,Palmeiras,False,False,first
-2004-12-04,Corinthians,3,1,Vasco da Gama,False,False,first
-2004-12-05,Internacional,2,0,Cruzeiro,False,False,first
-2004-12-05,Flamengo,0,0,Coritiba,False,False,first
-2004-12-05,Vitória,1,4,São Paulo,False,False,first
-2004-12-05,Santos,5,1,Grêmio,False,False,first
-2004-12-05,Atlético-PR,5,2,São Caetano,False,False,first
-2004-12-05,Juventude,1,0,Botafogo,False,False,first
-2004-12-11,Palmeiras,3,2,Criciúma,False,False,first
-2004-12-11,Paraná,0,1,Fluminense,False,False,first
-2004-12-11,Paysandu,4,2,Guarani,False,False,first
-2004-12-11,Grêmio,0,1,Atlético-MG,False,False,first
-2004-12-12,Figueirense,1,0,Juventude,False,False,first
-2004-12-12,Vasco da Gama,1,0,Atlético-PR,False,False,first
-2004-12-12,Botafogo,1,2,Corinthians,False,False,first
-2004-12-12,São Caetano,0,3,Santos,False,False,first
-2004-12-12,Ponte Preta-SP,1,2,Internacional,False,False,first
-2004-12-12,Cruzeiro,4,0,Vitória,False,False,first
-2004-12-12,São Paulo,1,1,Flamengo,False,False,first
-2004-12-12,Coritiba,1,0,Goiás,False,False,first
-2004-12-19,Criciúma,3,3,Coritiba,False,False,first
-2004-12-19,Internacional,2,1,Paraná,False,False,first
-2004-12-19,Flamengo,6,2,Cruzeiro,False,False,first
-2004-12-19,Fluminense,1,1,Palmeiras,False,False,first
-2004-12-19,Vitória,1,2,Ponte Preta-SP,False,False,first
-2004-12-19,Goiás,2,0,São Paulo,False,False,first
-2004-12-19,Guarani,2,0,Grêmio,False,False,first
-2004-12-19,Atlético-MG,3,0,São Caetano,False,False,first
-2004-12-19,Santos,2,1,Vasco da Gama,False,False,first
-2004-12-19,Atlético-PR,1,1,Botafogo,False,False,first
-2004-12-19,Corinthians,5,2,Figueirense,False,False,first
-2004-12-19,Juventude,1,2,Paysandu,False,False,first
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2004-04-21,Paraná,3,2,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,Figueirense,1,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,Grêmio,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,Botafogo,1,4,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,São Caetano,1,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,Ponte Preta-SP,3,2,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,Cruzeiro,2,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-04-21,Palmeiras,0,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-04-22,Vasco da Gama,0,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-04-22,Paysandu,3,3,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-04-22,São Paulo,1,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-04-22,Coritiba,1,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-04-24,Goiás,2,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-04-24,Flamengo,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-04-24,Juventude,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Criciúma,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Internacional,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Fluminense,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Vitória,6,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Guarani,1,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Atlético-MG,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Santos,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Atlético-PR,0,3,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-04-25,Corinthians,2,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Figueirense,2,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Grêmio,4,0,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Botafogo,2,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Paysandu,0,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Ponte Preta-SP,2,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Cruzeiro,2,2,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,São Paulo,1,0,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-04-28,Coritiba,1,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-04-29,Vasco da Gama,0,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-04-29,Palmeiras,2,2,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-04-29,Paraná,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-06-24,São Caetano,1,0,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-05-01,Atlético-MG,1,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-05-01,Criciúma,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-01,Goiás,4,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-05-01,Internacional,1,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Flamengo,1,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Fluminense,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Vitória,3,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Guarani,2,3,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Santos,1,3,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Atlético-PR,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Corinthians,0,4,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-05-02,Juventude,4,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-05-08,São Caetano,5,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-05-08,Vasco da Gama,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-05-08,Guarani,0,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-05-08,Santos,2,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-05-08,Palmeiras,3,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-05-08,Paraná,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-05-09,Internacional,0,0,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-05-09,Botafogo,2,2,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-05-09,Vitória,5,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-09,Goiás,1,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-05-09,Atlético-MG,2,2,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-05-09,Coritiba,1,2,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-15,Atlético-PR,1,0,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-05-15,Paysandu,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Figueirense,1,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Grêmio,2,2,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Flamengo,1,2,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Fluminense,1,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Criciúma,7,2,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Ponte Preta-SP,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Cruzeiro,2,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,São Paulo,2,2,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Corinthians,1,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-05-16,Juventude,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-05-22,Botafogo,1,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-05-22,Paysandu,1,3,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-05-22,Coritiba,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-05-22,Internacional,1,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Criciúma,2,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Flamengo,1,2,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,São Caetano,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Paraná,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Cruzeiro,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Santos,0,4,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Corinthians,0,5,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-05-23,Juventude,2,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-05-29,Fluminense,1,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-05-29,Ponte Preta-SP,0,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-05-29,Vitória,2,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-05-29,Palmeiras,2,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-05-29,Figueirense,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,Grêmio,1,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,Vasco da Gama,4,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,Goiás,2,2,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,Guarani,1,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,Atlético-MG,3,3,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,São Paulo,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-05-30,Atlético-PR,3,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-06-12,Internacional,4,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-06-12,São Paulo,3,2,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-06-12,Paraná,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-06-12,Fluminense,1,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Criciúma,2,0,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Flamengo,3,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Vitória,1,2,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Goiás,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Ponte Preta-SP,0,2,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Cruzeiro,1,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Coritiba,1,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-06-13,Palmeiras,2,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-06-19,Vasco da Gama,0,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-06-19,Figueirense,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-06-19,Grêmio,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-06-19,Atlético-PR,1,3,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Botafogo,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Paysandu,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,São Caetano,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Guarani,2,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Atlético-MG,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Santos,3,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Corinthians,1,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-06-20,Juventude,1,1,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-06-26,Flamengo,0,3,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-06-26,Santos,2,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-06-26,Coritiba,1,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-06-26,Criciúma,1,2,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Internacional,1,3,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Botafogo,3,3,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Paysandu,4,2,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Goiás,3,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Ponte Preta-SP,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Atlético-MG,0,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Palmeiras,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-06-27,Juventude,1,0,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,Fluminense,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,Vitória,0,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,Guarani,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,Atlético-PR,4,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,Internacional,3,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,Figueirense,2,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-07-03,São Paulo,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-07-04,Flamengo,4,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-07-04,São Caetano,1,2,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-04,Cruzeiro,0,3,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-07-04,Corinthians,2,3,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-07-04,Paraná,1,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-07-06,Grêmio,2,2,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-06,Vasco da Gama,3,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-07-06,Goiás,4,0,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-06,São Paulo,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Criciúma,1,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Botafogo,5,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Paysandu,0,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Ponte Preta-SP,0,4,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Cruzeiro,2,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Coritiba,1,2,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Palmeiras,4,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-07-07,Paraná,1,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Figueirense,2,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Internacional,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Flamengo,0,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Fluminense,1,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Vitória,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Goiás,3,2,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Ponte Preta-SP,3,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Atlético-MG,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Santos,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Atlético-PR,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Corinthians,1,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-07-10,Juventude,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Figueirense,0,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Grêmio,2,3,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Vasco da Gama,2,3,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Botafogo,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Paysandu,3,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,São Caetano,0,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Guarani,2,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Atlético-MG,1,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Santos,2,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Atlético-PR,6,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Corinthians,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-07-13,Juventude,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Criciúma,4,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Internacional,6,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Flamengo,0,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Fluminense,1,0,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Vitória,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Goiás,2,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Ponte Preta-SP,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Cruzeiro,3,2,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,São Paulo,2,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Coritiba,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Palmeiras,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-07-17,Paraná,0,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Figueirense,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Grêmio,4,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Vasco da Gama,3,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Botafogo,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Paysandu,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,São Caetano,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Guarani,0,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Atlético-MG,0,2,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Santos,5,2,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Atlético-PR,4,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Corinthians,0,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-07-20,Juventude,3,2,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Criciúma,4,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Internacional,1,2,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Flamengo,0,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Fluminense,2,0,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Vitória,3,2,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Goiás,3,3,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Ponte Preta-SP,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Cruzeiro,0,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,São Paulo,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Coritiba,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Palmeiras,0,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-24,Paraná,2,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Figueirense,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Grêmio,4,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Botafogo,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Paysandu,2,2,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Guarani,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Atlético-PR,4,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Corinthians,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-07-28,Juventude,1,2,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-07-29,Atlético-MG,4,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-07-29,Vasco da Gama,3,1,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-07-29,Santos,4,2,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-07-29,São Caetano,2,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-07-31,Atlético-PR,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-07-31,Fluminense,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Criciúma,3,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Internacional,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Flamengo,0,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Vitória,2,2,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Goiás,3,0,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Guarani,0,2,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Atlético-MG,3,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Santos,6,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Corinthians,2,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-08-01,Juventude,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Figueirense,1,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Grêmio,3,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Vasco da Gama,1,3,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Paysandu,2,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,São Caetano,0,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Ponte Preta-SP,3,2,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Coritiba,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Palmeiras,0,3,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-08-04,Paraná,0,3,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-08-05,Botafogo,0,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-08-05,Cruzeiro,2,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-08-05,São Paulo,2,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-08-07,Fluminense,3,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-08-07,Goiás,1,2,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-08-07,Atlético-MG,3,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-08-07,Santos,0,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Criciúma,1,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Internacional,1,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Flamengo,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Vitória,3,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Guarani,0,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Atlético-PR,2,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Corinthians,2,2,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-08,Juventude,0,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Figueirense,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Grêmio,1,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Vasco da Gama,2,3,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Paysandu,0,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Cruzeiro,2,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Paraná,1,2,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,Ponte Preta-SP,1,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-08-11,São Paulo,4,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-08-12,Botafogo,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-08-12,São Caetano,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-08-12,Coritiba,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-08-12,Palmeiras,3,2,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-14,Internacional,4,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-14,Juventude,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-08-14,Flamengo,3,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-08-14,Corinthians,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Criciúma,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Fluminense,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Vitória,1,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Goiás,3,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Guarani,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Atlético-MG,1,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Santos,5,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-08-15,Atlético-PR,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Figueirense,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Grêmio,2,4,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Botafogo,2,0,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Paysandu,2,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,São Caetano,3,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Ponte Preta-SP,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Cruzeiro,1,3,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Palmeiras,3,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-08-18,Paraná,4,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-08-19,São Paulo,2,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-08-19,Vasco da Gama,3,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-08-19,Coritiba,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-21,Flamengo,2,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-08-21,Corinthians,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Criciúma,1,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Internacional,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Fluminense,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Vitória,2,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Goiás,5,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Guarani,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Atlético-MG,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Santos,4,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Atlético-PR,2,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-08-22,Juventude,2,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-08-28,Grêmio,1,1,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-08-28,Paysandu,2,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-08-28,Botafogo,1,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-08-28,Paraná,1,2,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-08-28,São Paulo,3,3,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,Figueirense,2,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,Vasco da Gama,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,São Caetano,0,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,Ponte Preta-SP,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,Cruzeiro,4,4,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,Coritiba,1,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-08-29,Palmeiras,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Figueirense,3,2,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Fluminense,3,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Criciúma,0,4,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Ponte Preta-SP,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Cruzeiro,1,4,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,São Paulo,2,3,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Corinthians,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-09-01,Juventude,1,2,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-09-02,Paysandu,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-02,Atlético-PR,2,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-09-02,Grêmio,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-09-02,Flamengo,2,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-09-07,Vasco da Gama,0,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-09-07,Palmeiras,1,3,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,São Caetano,1,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,Internacional,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,Goiás,2,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,Guarani,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,Atlético-MG,1,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,Santos,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-09-08,Paraná,0,2,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-09,Coritiba,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-09-09,Botafogo,2,1,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-09-09,Vitória,2,3,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-09-11,São Paulo,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-09-11,Guarani,3,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-09-11,Vasco da Gama,1,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-09-11,Goiás,1,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Figueirense,3,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Grêmio,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Fluminense,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Vitória,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Atlético-MG,2,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Atlético-PR,3,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Palmeiras,1,2,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-09-12,Ponte Preta-SP,0,2,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-09-18,Criciúma,0,2,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-09-18,São Caetano,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-09-18,Paraná,0,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-09-18,Santos,2,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Internacional,2,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Flamengo,4,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Botafogo,2,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Paysandu,3,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Cruzeiro,2,4,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Coritiba,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Corinthians,0,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-19,Juventude,1,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-09-24,Figueirense,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-09-25,Grêmio,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-25,Paysandu,3,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-09-25,São Caetano,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-09-25,Guarani,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-09-25,Atlético-MG,1,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-09-26,Vasco da Gama,2,5,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-09-26,Botafogo,4,3,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-09-26,Santos,4,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-09-26,Atlético-PR,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-26,Corinthians,1,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-09-26,Juventude,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-09-28,Cruzeiro,3,3,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-09-28,São Paulo,7,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-09-28,Coritiba,2,1,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-09-28,Fluminense,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Criciúma,1,1,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Internacional,2,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Flamengo,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Vitória,2,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Ponte Preta-SP,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Palmeiras,3,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-09-29,Paraná,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-09-30,Goiás,1,2,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Figueirense,3,2,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Grêmio,2,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Vasco da Gama,2,0,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Fluminense,1,4,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Vitória,4,1,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,São Caetano,2,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Guarani,0,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Cruzeiro,5,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,São Paulo,2,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Atlético-PR,5,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Corinthians,1,2,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-10-02,Paraná,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Criciúma,2,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Grêmio,2,3,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Vasco da Gama,1,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Goiás,4,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Ponte Preta-SP,0,1,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Santos,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-10-06,Coritiba,1,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-10-07,Paysandu,2,2,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-07,Botafogo,1,1,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-10-07,Atlético-MG,3,2,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-10-07,Palmeiras,1,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-10-07,Juventude,3,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-10-16,Fluminense,1,4,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-10-16,Vitória,4,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-10-16,Figueirense,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-10-16,Santos,4,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Internacional,3,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Flamengo,3,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,São Caetano,3,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Guarani,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Atlético-MG,0,5,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Atlético-PR,1,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Corinthians,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-10-17,Juventude,0,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-10-23,Palmeiras,3,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-10-23,Paysandu,4,2,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-10-23,Cruzeiro,0,3,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-10-23,Grêmio,1,3,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-10-23,Coritiba,2,3,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-10-23,Botafogo,1,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-10-24,Criciúma,2,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-10-24,Vasco da Gama,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-24,São Caetano,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-10-24,Guarani,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-10-24,São Paulo,1,0,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-10-24,Paraná,1,2,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-10-26,Cruzeiro,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-10-26,Goiás,2,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-10-26,Vitória,2,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-10-26,Palmeiras,2,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Criciúma,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Internacional,1,3,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Flamengo,1,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Fluminense,7,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Ponte Preta-SP,3,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Coritiba,0,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-10-27,Paraná,2,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-11-03,São Paulo,4,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Figueirense,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Grêmio,2,3,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Botafogo,2,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Paysandu,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Guarani,1,1,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Atlético-MG,2,2,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Santos,5,0,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Atlético-PR,2,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Corinthians,1,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-10-30,Juventude,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-10-31,Vasco da Gama,2,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-11-10,São Caetano,2,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-11-06,Flamengo,1,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-11-06,Palmeiras,1,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-11-06,Paraná,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-11-06,Goiás,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Criciúma,1,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Internacional,3,0,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Fluminense,1,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Vitória,1,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Ponte Preta-SP,0,3,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Cruzeiro,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,São Paulo,5,2,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-11-07,Coritiba,2,0,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-11-13,Corinthians,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-11-13,Grêmio,6,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-11-13,Botafogo,4,1,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-11-13,São Caetano,4,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Figueirense,0,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Vasco da Gama,0,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Paysandu,1,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Guarani,0,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Atlético-MG,6,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Santos,2,1,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Atlético-PR,6,1,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-11-14,Juventude,2,3,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-11-20,Fluminense,0,2,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-11-20,Paraná,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-11-20,Vitória,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-11-20,Palmeiras,0,2,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Criciúma,1,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Internacional,1,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Flamengo,0,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Goiás,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Ponte Preta-SP,2,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Cruzeiro,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,São Paulo,4,0,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-11-21,Coritiba,0,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-11-27,Figueirense,2,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-11-27,Botafogo,1,0,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-11-27,Paraná,2,1,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-11-27,Cruzeiro,2,3,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-11-27,São Paulo,2,1,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,Grêmio,3,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,Vasco da Gama,1,1,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,Paysandu,1,1,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,São Caetano,2,1,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,Ponte Preta-SP,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,Coritiba,5,1,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-11-28,Palmeiras,1,2,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-12-04,Atlético-MG,0,0,Paysandu,False,False,first,Brasileirão Série A 2024,2004
+2004-12-04,Fluminense,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-12-04,Guarani,2,1,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-12-04,Criciúma,1,2,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-12-04,Goiás,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-12-04,Corinthians,3,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-12-05,Internacional,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-12-05,Flamengo,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-12-05,Vitória,1,4,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-12-05,Santos,5,1,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-12-05,Atlético-PR,5,2,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-12-05,Juventude,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-12-11,Palmeiras,3,2,Criciúma,False,False,first,Brasileirão Série A 2024,2004
+2004-12-11,Paraná,0,1,Fluminense,False,False,first,Brasileirão Série A 2024,2004
+2004-12-11,Paysandu,4,2,Guarani,False,False,first,Brasileirão Série A 2024,2004
+2004-12-11,Grêmio,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,Figueirense,1,0,Juventude,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,Vasco da Gama,1,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,Botafogo,1,2,Corinthians,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,São Caetano,0,3,Santos,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,Ponte Preta-SP,1,2,Internacional,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,Cruzeiro,4,0,Vitória,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,São Paulo,1,1,Flamengo,False,False,first,Brasileirão Série A 2024,2004
+2004-12-12,Coritiba,1,0,Goiás,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Criciúma,3,3,Coritiba,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Internacional,2,1,Paraná,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Flamengo,6,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Fluminense,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Vitória,1,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Goiás,2,0,São Paulo,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Guarani,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Atlético-MG,3,0,São Caetano,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Santos,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Atlético-PR,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Corinthians,5,2,Figueirense,False,False,first,Brasileirão Série A 2024,2004
+2004-12-19,Juventude,1,2,Paysandu,False,False,first,Brasileirão Série A 2024,2004

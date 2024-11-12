@@ -1,111 +1,111 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-2008-02-13,Barras,0,6,Corinthians,False,False,first
-2008-02-27,América-SE,0,0,Fortaleza,False,False,first
-2008-03-05,Fortaleza,4,0,América-SE,False,False,first
-2008-02-27,Cacerense,1,4,Goiás,False,False,first
-2008-02-13,Fast Clube,3,1,Santa Cruz-PE,False,False,first
-2008-02-27,Santa Cruz-PE,1,0,Fast Clube,False,False,first
-2008-02-13,Grêmio Jaciara,0,1,Grêmio,False,False,first
-2008-02-27,Grêmio,6,0,Grêmio Jaciara,False,False,first
-2008-02-13,Ituiutaba,0,0,Atlético-GO,False,False,first
-2008-02-27,Atlético-GO,3,2,Ituiutaba,False,False,first
-2008-02-13,Tuna Luso,0,0,Coritiba,False,False,first
-2008-02-27,Coritiba,6,0,Tuna Luso,False,False,first
-2008-02-13,Maranhão,1,2,São Caetano-SP,False,False,first
-2008-02-27,Rio Branco-AC,1,3,Botafogo,False,False,first
-2008-02-27,Jaguaré-ES,3,2,River,False,False,first
-2008-03-05,River,2,0,Jaguaré-ES,False,False,first
-2008-02-13,Ulbra Ji-Paraná,1,1,Portuguesa-SP,False,False,first
-2008-02-27,Portuguesa-SP,3,1,Ulbra Ji-Paraná,False,False,first
-2008-02-13,Roma Apucarana-PR,0,2,Volta Redonda,False,False,first
-2008-02-27,Palmas-TO,0,7,Atlético-MG,False,False,first
-2008-02-27,Esportivo Guará,1,3,Nacional-AM,False,False,first
-2008-02-14,Atlético Roraima,1,7,Náutico-PE,False,False,first
-2008-02-27,Coruripe,4,1,Juventus-SP,False,False,first
-2008-03-05,Juventus-SP,5,1,Coruripe,False,False,first
-2008-02-27,CENE,0,2,Palmeiras,False,False,first
-2008-02-27,Central,0,0,Remo,False,False,first
-2008-03-05,Remo,0,2,Central,False,False,first
-2008-02-27,Imperatriz,2,2,Sport,False,False,first
-2008-03-05,Sport,4,1,Imperatriz,False,False,first
-2008-02-27,Ulbra-RS,1,1,Brasiliense,False,False,first
-2008-03-05,Brasiliense,1,0,Ulbra-RS,False,False,first
-2008-02-27,Nacional-PB,0,4,Internacional,False,False,first
-2008-02-13,Chapecoense,3,1,Guarani-SP,False,False,first
-2008-03-05,Guarani-SP,0,0,Chapecoense,False,False,first
-2008-02-13,Sousa-PB,1,4,Vitória,False,False,first
-2008-02-13,Trem,0,0,Paraná-PR,False,False,first
-2008-02-27,Paraná-PR,4,0,Trem,False,False,first
-2008-02-13,Itabaiana,0,1,Vasco da Gama,False,False,first
-2008-02-27,Vasco da Gama,3,2,Itabaiana,False,False,first
-2008-02-27,Democrata-GV,3,2,RB Bragantino,False,False,first
-2008-03-05,RB Bragantino,2,1,Democrata-GV,False,False,first
-2008-02-27,ICASA,3,2,Bahia,False,False,first
-2008-03-05,Bahia,2,2,ICASA,False,False,first
-2008-02-13,Baraúnas,2,2,Criciúma,False,False,first
-2008-03-05,Criciúma,2,0,Baraúnas,False,False,first
-2008-02-27,Corinthians-AL,1,1,Atlético-PR,False,False,first
-2008-03-06,Atlético-PR,1,1,Corinthians-AL,False,False,first
-2008-02-13,Águia Negra,3,4,Paranávaí-PR,False,False,first
-2008-02-27,Paranávaí-PR,3,3,Águia Negra,False,False,first
-2008-02-13,Linhares-ES,0,0,Juventude,False,False,first
-2008-02-27,Juventude,0,0,Linhares-ES,False,False,first
-2008-02-27,Madureira,1,1,ABC,False,False,first
-2008-03-05,ABC,1,1,Madureira,False,False,first
-2008-03-19,Fortaleza,1,2,Corinthians,False,False,second
-2008-04-03,Corinthians,2,0,Fortaleza,False,False,second
-2008-04-02,Fast Clube,1,3,Goiás,False,False,second
-2008-04-02,Atlético-GO,2,1,Grêmio,False,False,second
-2008-04-09,Grêmio,2,1,Atlético-GO,False,False,second
-2008-04-02,São Caetano,1,0,Coritiba,False,False,second
-2008-04-09,Coritiba,0,0,São Caetano,False,False,second
-2008-04-02,River,2,1,Botafogo,False,False,second
-2008-04-09,Botafogo,2,0,River,False,False,second
-2008-03-19,Volta Redonda,0,0,Portuguesa,False,False,second
-2008-04-02,Portuguesa,2,0,Volta Redonda,False,False,second
-2008-03-19,Nacional-AM,2,2,Atlético-MG,False,False,second
-2008-04-09,Atlético-MG,4,1,Nacional-AM,False,False,second
-2008-03-19,Juventus-SP,2,0,Náutico,False,False,second
-2008-04-02,Náutico,3,0,Juventus-SP,False,False,second
-2008-04-02,Central,1,5,Palmeiras,False,False,second
-2008-04-02,Brasiliense,1,2,Sport,False,False,second
-2008-04-09,Sport,4,1,Brasiliense,False,False,second
-2008-03-19,Chapecoense,0,2,Internacional,False,False,second
-2008-03-19,Paraná,1,0,Vitória,False,False,second
-2008-04-02,Vitória,2,1,Paraná,False,False,second
-2008-03-20,RB Bragantino,2,2,Vasco da Gama,False,False,second
-2008-04-03,Vasco da Gama,2,1,RB Bragantino,False,False,second
-2008-04-02,ICASA,1,6,Criciúma,False,False,second
-2008-04-02,Paranávaí,0,1,Corinthians-AL,False,False,second
-2008-04-09,Corinthians-AL,4,1,Paranávaí,False,False,second
-2008-04-02,Madureira,0,3,Juventude,False,False,second
-2008-04-16,Goiás,3,1,Corinthians,False,False,round16
-2008-04-30,Corinthians,4,0,Goiás,False,False,round16
-2008-04-16,São Caetano,2,1,Atlético-GO,False,False,round16
-2008-04-30,Atlético-GO,1,2,São Caetano,False,False,round16
-2008-04-16,Portuguesa,1,1,Botafogo,False,False,round16
-2008-04-23,Botafogo,2,1,Portuguesa,False,False,round16
-2008-04-23,Náutico,3,2,Atlético-MG,False,False,round16
-2008-04-30,Atlético-MG,1,0,Náutico,False,False,round16
-2008-04-24,Palmeiras,0,0,Sport,False,False,round16
-2008-04-30,Sport,4,1,Palmeiras,False,False,round16
-2008-04-16,Paraná,2,0,Internacional,False,False,round16
-2008-04-23,Internacional,5,1,Paraná,False,False,round16
-2008-04-16,Vasco da Gama,1,0,Criciúma,False,False,round16
-2008-04-23,Criciúma,2,2,Vasco da Gama,False,False,round16
-2008-04-23,Corinthians-AL,2,0,Juventude,False,False,round16
-2008-04-30,Juventude,3,1,Corinthians-AL,False,False,round16
-2008-05-06,Corinthians,2,1,São Caetano,False,False,quarter
-2008-05-13,São Caetano,1,3,Corinthians,False,False,quarter
-2008-05-08,Atlético-MG,0,0,Botafogo,False,False,quarter
-2008-05-14,Botafogo,2,0,Atlético-MG,False,False,quarter
-2008-05-07,Internacional,1,0,Sport,False,False,quarter
-2008-05-14,Sport,3,1,Internacional,False,False,quarter
-2008-05-07,Vasco da Gama,5,1,Corinthians-AL,False,False,quarter
-2008-05-14,Corinthians-AL,1,3,Vasco da Gama,False,False,quarter
-2008-05-21,Botafogo,2,1,Corinthians,False,False,semi
-2008-05-28,Corinthians,2,1,Botafogo,False,False,semi
-2008-05-21,Sport,2,0,Vasco da Gama,False,False,semi
-2008-05-28,Vasco da Gama,2,0,Sport,False,False,semi
-2008-06-04,Corinthians,3,1,Sport,False,False,final
-2008-06-11,Sport,2,0,Corinthians,False,False,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2008-02-13,Barras,0,6,Corinthians,False,False,first,Copa do Brasil,2008
+2008-02-27,América-SE,0,0,Fortaleza,False,False,first,Copa do Brasil,2008
+2008-03-05,Fortaleza,4,0,América-SE,False,False,first,Copa do Brasil,2008
+2008-02-27,Cacerense,1,4,Goiás,False,False,first,Copa do Brasil,2008
+2008-02-13,Fast Clube,3,1,Santa Cruz-PE,False,False,first,Copa do Brasil,2008
+2008-02-27,Santa Cruz-PE,1,0,Fast Clube,False,False,first,Copa do Brasil,2008
+2008-02-13,Grêmio Jaciara,0,1,Grêmio,False,False,first,Copa do Brasil,2008
+2008-02-27,Grêmio,6,0,Grêmio Jaciara,False,False,first,Copa do Brasil,2008
+2008-02-13,Ituiutaba,0,0,Atlético-GO,False,False,first,Copa do Brasil,2008
+2008-02-27,Atlético-GO,3,2,Ituiutaba,False,False,first,Copa do Brasil,2008
+2008-02-13,Tuna Luso,0,0,Coritiba,False,False,first,Copa do Brasil,2008
+2008-02-27,Coritiba,6,0,Tuna Luso,False,False,first,Copa do Brasil,2008
+2008-02-13,Maranhão,1,2,São Caetano-SP,False,False,first,Copa do Brasil,2008
+2008-02-27,Rio Branco-AC,1,3,Botafogo,False,False,first,Copa do Brasil,2008
+2008-02-27,Jaguaré-ES,3,2,River,False,False,first,Copa do Brasil,2008
+2008-03-05,River,2,0,Jaguaré-ES,False,False,first,Copa do Brasil,2008
+2008-02-13,Ulbra Ji-Paraná,1,1,Portuguesa-SP,False,False,first,Copa do Brasil,2008
+2008-02-27,Portuguesa-SP,3,1,Ulbra Ji-Paraná,False,False,first,Copa do Brasil,2008
+2008-02-13,Roma Apucarana-PR,0,2,Volta Redonda,False,False,first,Copa do Brasil,2008
+2008-02-27,Palmas-TO,0,7,Atlético-MG,False,False,first,Copa do Brasil,2008
+2008-02-27,Esportivo Guará,1,3,Nacional-AM,False,False,first,Copa do Brasil,2008
+2008-02-14,Atlético Roraima,1,7,Náutico-PE,False,False,first,Copa do Brasil,2008
+2008-02-27,Coruripe,4,1,Juventus-SP,False,False,first,Copa do Brasil,2008
+2008-03-05,Juventus-SP,5,1,Coruripe,False,False,first,Copa do Brasil,2008
+2008-02-27,CENE,0,2,Palmeiras,False,False,first,Copa do Brasil,2008
+2008-02-27,Central,0,0,Remo,False,False,first,Copa do Brasil,2008
+2008-03-05,Remo,0,2,Central,False,False,first,Copa do Brasil,2008
+2008-02-27,Imperatriz,2,2,Sport,False,False,first,Copa do Brasil,2008
+2008-03-05,Sport,4,1,Imperatriz,False,False,first,Copa do Brasil,2008
+2008-02-27,Ulbra-RS,1,1,Brasiliense,False,False,first,Copa do Brasil,2008
+2008-03-05,Brasiliense,1,0,Ulbra-RS,False,False,first,Copa do Brasil,2008
+2008-02-27,Nacional-PB,0,4,Internacional,False,False,first,Copa do Brasil,2008
+2008-02-13,Chapecoense,3,1,Guarani-SP,False,False,first,Copa do Brasil,2008
+2008-03-05,Guarani-SP,0,0,Chapecoense,False,False,first,Copa do Brasil,2008
+2008-02-13,Sousa-PB,1,4,Vitória,False,False,first,Copa do Brasil,2008
+2008-02-13,Trem,0,0,Paraná-PR,False,False,first,Copa do Brasil,2008
+2008-02-27,Paraná-PR,4,0,Trem,False,False,first,Copa do Brasil,2008
+2008-02-13,Itabaiana,0,1,Vasco da Gama,False,False,first,Copa do Brasil,2008
+2008-02-27,Vasco da Gama,3,2,Itabaiana,False,False,first,Copa do Brasil,2008
+2008-02-27,Democrata-GV,3,2,RB Bragantino,False,False,first,Copa do Brasil,2008
+2008-03-05,RB Bragantino,2,1,Democrata-GV,False,False,first,Copa do Brasil,2008
+2008-02-27,ICASA,3,2,Bahia,False,False,first,Copa do Brasil,2008
+2008-03-05,Bahia,2,2,ICASA,False,False,first,Copa do Brasil,2008
+2008-02-13,Baraúnas,2,2,Criciúma,False,False,first,Copa do Brasil,2008
+2008-03-05,Criciúma,2,0,Baraúnas,False,False,first,Copa do Brasil,2008
+2008-02-27,Corinthians-AL,1,1,Atlético-PR,False,False,first,Copa do Brasil,2008
+2008-03-06,Atlético-PR,1,1,Corinthians-AL,False,False,first,Copa do Brasil,2008
+2008-02-13,Águia Negra,3,4,Paranávaí-PR,False,False,first,Copa do Brasil,2008
+2008-02-27,Paranávaí-PR,3,3,Águia Negra,False,False,first,Copa do Brasil,2008
+2008-02-13,Linhares-ES,0,0,Juventude,False,False,first,Copa do Brasil,2008
+2008-02-27,Juventude,0,0,Linhares-ES,False,False,first,Copa do Brasil,2008
+2008-02-27,Madureira,1,1,ABC,False,False,first,Copa do Brasil,2008
+2008-03-05,ABC,1,1,Madureira,False,False,first,Copa do Brasil,2008
+2008-03-19,Fortaleza,1,2,Corinthians,False,False,second,Copa do Brasil,2008
+2008-04-03,Corinthians,2,0,Fortaleza,False,False,second,Copa do Brasil,2008
+2008-04-02,Fast Clube,1,3,Goiás,False,False,second,Copa do Brasil,2008
+2008-04-02,Atlético-GO,2,1,Grêmio,False,False,second,Copa do Brasil,2008
+2008-04-09,Grêmio,2,1,Atlético-GO,False,False,second,Copa do Brasil,2008
+2008-04-02,São Caetano,1,0,Coritiba,False,False,second,Copa do Brasil,2008
+2008-04-09,Coritiba,0,0,São Caetano,False,False,second,Copa do Brasil,2008
+2008-04-02,River,2,1,Botafogo,False,False,second,Copa do Brasil,2008
+2008-04-09,Botafogo,2,0,River,False,False,second,Copa do Brasil,2008
+2008-03-19,Volta Redonda,0,0,Portuguesa,False,False,second,Copa do Brasil,2008
+2008-04-02,Portuguesa,2,0,Volta Redonda,False,False,second,Copa do Brasil,2008
+2008-03-19,Nacional-AM,2,2,Atlético-MG,False,False,second,Copa do Brasil,2008
+2008-04-09,Atlético-MG,4,1,Nacional-AM,False,False,second,Copa do Brasil,2008
+2008-03-19,Juventus-SP,2,0,Náutico,False,False,second,Copa do Brasil,2008
+2008-04-02,Náutico,3,0,Juventus-SP,False,False,second,Copa do Brasil,2008
+2008-04-02,Central,1,5,Palmeiras,False,False,second,Copa do Brasil,2008
+2008-04-02,Brasiliense,1,2,Sport,False,False,second,Copa do Brasil,2008
+2008-04-09,Sport,4,1,Brasiliense,False,False,second,Copa do Brasil,2008
+2008-03-19,Chapecoense,0,2,Internacional,False,False,second,Copa do Brasil,2008
+2008-03-19,Paraná,1,0,Vitória,False,False,second,Copa do Brasil,2008
+2008-04-02,Vitória,2,1,Paraná,False,False,second,Copa do Brasil,2008
+2008-03-20,RB Bragantino,2,2,Vasco da Gama,False,False,second,Copa do Brasil,2008
+2008-04-03,Vasco da Gama,2,1,RB Bragantino,False,False,second,Copa do Brasil,2008
+2008-04-02,ICASA,1,6,Criciúma,False,False,second,Copa do Brasil,2008
+2008-04-02,Paranávaí,0,1,Corinthians-AL,False,False,second,Copa do Brasil,2008
+2008-04-09,Corinthians-AL,4,1,Paranávaí,False,False,second,Copa do Brasil,2008
+2008-04-02,Madureira,0,3,Juventude,False,False,second,Copa do Brasil,2008
+2008-04-16,Goiás,3,1,Corinthians,False,False,round16,Copa do Brasil,2008
+2008-04-30,Corinthians,4,0,Goiás,False,False,round16,Copa do Brasil,2008
+2008-04-16,São Caetano,2,1,Atlético-GO,False,False,round16,Copa do Brasil,2008
+2008-04-30,Atlético-GO,1,2,São Caetano,False,False,round16,Copa do Brasil,2008
+2008-04-16,Portuguesa,1,1,Botafogo,False,False,round16,Copa do Brasil,2008
+2008-04-23,Botafogo,2,1,Portuguesa,False,False,round16,Copa do Brasil,2008
+2008-04-23,Náutico,3,2,Atlético-MG,False,False,round16,Copa do Brasil,2008
+2008-04-30,Atlético-MG,1,0,Náutico,False,False,round16,Copa do Brasil,2008
+2008-04-24,Palmeiras,0,0,Sport,False,False,round16,Copa do Brasil,2008
+2008-04-30,Sport,4,1,Palmeiras,False,False,round16,Copa do Brasil,2008
+2008-04-16,Paraná,2,0,Internacional,False,False,round16,Copa do Brasil,2008
+2008-04-23,Internacional,5,1,Paraná,False,False,round16,Copa do Brasil,2008
+2008-04-16,Vasco da Gama,1,0,Criciúma,False,False,round16,Copa do Brasil,2008
+2008-04-23,Criciúma,2,2,Vasco da Gama,False,False,round16,Copa do Brasil,2008
+2008-04-23,Corinthians-AL,2,0,Juventude,False,False,round16,Copa do Brasil,2008
+2008-04-30,Juventude,3,1,Corinthians-AL,False,False,round16,Copa do Brasil,2008
+2008-05-06,Corinthians,2,1,São Caetano,False,False,quarter,Copa do Brasil,2008
+2008-05-13,São Caetano,1,3,Corinthians,False,False,quarter,Copa do Brasil,2008
+2008-05-08,Atlético-MG,0,0,Botafogo,False,False,quarter,Copa do Brasil,2008
+2008-05-14,Botafogo,2,0,Atlético-MG,False,False,quarter,Copa do Brasil,2008
+2008-05-07,Internacional,1,0,Sport,False,False,quarter,Copa do Brasil,2008
+2008-05-14,Sport,3,1,Internacional,False,False,quarter,Copa do Brasil,2008
+2008-05-07,Vasco da Gama,5,1,Corinthians-AL,False,False,quarter,Copa do Brasil,2008
+2008-05-14,Corinthians-AL,1,3,Vasco da Gama,False,False,quarter,Copa do Brasil,2008
+2008-05-21,Botafogo,2,1,Corinthians,False,False,semi,Copa do Brasil,2008
+2008-05-28,Corinthians,2,1,Botafogo,False,False,semi,Copa do Brasil,2008
+2008-05-21,Sport,2,0,Vasco da Gama,False,False,semi,Copa do Brasil,2008
+2008-05-28,Vasco da Gama,2,0,Sport,False,False,semi,Copa do Brasil,2008
+2008-06-04,Corinthians,3,1,Sport,False,False,final,Copa do Brasil,2008
+2008-06-11,Sport,2,0,Corinthians,False,False,final,Copa do Brasil,2008

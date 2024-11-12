@@ -1,431 +1,431 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-1975-08-20,Fluminense,0,1,Coritiba,False,False,first
-1975-08-20,Atlético-PR,2,1,Botafogo,False,False,first
-1975-08-20,Corinthians,1,0,América-RJ,False,False,first
-1975-08-20,Moto Club,4,3,Paysandu,False,False,first
-1975-08-20,Fortaleza,2,0,América-MG,False,False,first
-1975-08-20,Rio Negro,1,1,Tiradentes,False,False,first
-1975-08-21,Palmeiras,1,1,Guarani,False,False,first
-1975-08-23,Botafogo,2,1,Paysandu,False,False,first
-1975-08-24,Palmeiras,3,1,Fluminense,False,False,first
-1975-08-24,Fortaleza,2,1,Atlético-PR,False,False,first
-1975-08-24,Rio Negro,0,0,Nacional-AM,False,False,first
-1975-08-24,Moto Club,0,3,Ceará,False,False,first
-1975-08-24,Atlético-MG,0,0,Corinthians,False,False,first
-1975-08-24,Remo,1,0,Tiradentes,False,False,first
-1975-08-24,Comercial-MT,0,0,Cruzeiro,False,False,first
-1975-08-26,Comercial-MT,2,1,Paysandu,False,False,first
-1975-08-27,Ceará,0,2,América-RJ,False,False,first
-1975-08-27,Cruzeiro,1,0,Coritiba,False,False,first
-1975-08-27,Rio Negro,2,0,Atlético-PR,False,False,first
-1975-08-28,Atlético-MG,2,0,Guarani,False,False,first
-1975-08-30,Fluminense,5,2,Atlético-MG,False,False,first
-1975-08-31,Corinthians,1,0,Fortaleza,False,False,first
-1975-08-31,Coritiba,4,0,Ceará,False,False,first
-1975-08-31,Botafogo,0,2,Cruzeiro,False,False,first
-1975-08-31,América-MG,0,0,Moto Club,False,False,first
-1975-08-31,Tiradentes,2,1,América-RJ,False,False,first
-1975-08-31,Comercial-MT,2,0,Nacional-AM,False,False,first
-1975-08-31,Remo,2,2,Atlético-PR,False,False,first
-1975-09-03,Guarani,0,0,Remo,False,False,first
-1975-09-03,Tiradentes,0,0,Fortaleza,False,False,first
-1975-09-03,Comercial-MT,1,0,Ceará,False,False,first
-1975-09-03,Atlético-PR,5,1,Moto Club,False,False,first
-1975-09-03,Cruzeiro,4,0,Rio Negro,False,False,first
-1975-09-03,Paysandu,3,3,América-RJ,False,False,first
-1975-09-04,Atlético-MG,1,1,América-MG,False,False,first
-1975-09-06,Palmeiras,2,0,Ceará,False,False,first
-1975-09-06,América-MG,2,0,Rio Negro,False,False,first
-1975-09-07,Coritiba,1,0,Guarani,False,False,first
-1975-09-07,Corinthians,1,1,Botafogo,False,False,first
-1975-09-07,Tiradentes,4,1,Moto Club,False,False,first
-1975-09-07,Atlético-MG,2,2,Cruzeiro,False,False,first
-1975-09-07,Nacional-AM,1,1,América-RJ,False,False,first
-1975-09-07,Comercial-MT,1,1,Fluminense,False,False,first
-1975-09-07,Remo,2,0,Paysandu,False,False,first
-1975-09-10,Guarani,2,0,Rio Negro,False,False,first
-1975-09-10,Coritiba,2,0,Tiradentes,False,False,first
-1975-09-10,América-RJ,0,0,Cruzeiro,False,False,first
-1975-09-10,Nacional-AM,1,1,Fortaleza,False,False,first
-1975-09-10,Ceará,2,0,Remo,False,False,first
-1975-09-10,Atlético-MG,0,0,Atlético-PR,False,False,first
-1975-09-13,América-MG,1,1,Remo,False,False,first
-1975-09-13,América-RJ,5,2,Atlético-PR,False,False,first
-1975-09-14,Cruzeiro,2,0,Palmeiras,False,False,first
-1975-09-14,Coritiba,0,2,Corinthians,False,False,first
-1975-09-14,Guarani,1,1,Botafogo,False,False,first
-1975-09-14,Moto Club,1,3,Fluminense,False,False,first
-1975-09-14,Nacional-AM,0,2,Atlético-MG,False,False,first
-1975-09-14,Ceará,0,0,Rio Negro,False,False,first
-1975-09-14,Paysandu,3,1,Fortaleza,False,False,first
-1975-09-17,Botafogo,4,0,Nacional-AM,False,False,first
-1975-09-17,Cruzeiro,0,0,Remo,False,False,first
-1975-09-17,Paysandu,1,0,Atlético-MG,False,False,first
-1975-09-17,Fortaleza,1,0,Fluminense,False,False,first
-1975-09-17,Atlético-PR,2,4,Palmeiras,False,False,first
-1975-09-17,Comercial-MT,0,0,América-MG,False,False,first
-1975-09-20,Guarani,2,0,Comercial-MT,False,False,first
-1975-09-20,Fortaleza,0,0,Cruzeiro,False,False,first
-1975-09-21,Moto Club,1,1,Nacional-AM,False,False,first
-1975-09-21,Rio Negro,1,1,Paysandu,False,False,first
-1975-09-21,Ceará,1,0,Botafogo,False,False,first
-1975-09-21,Palmeiras,1,1,Corinthians,False,False,first
-1975-09-21,América-RJ,3,0,América-MG,False,False,first
-1975-09-21,Tiradentes,0,1,Atlético-MG,False,False,first
-1975-09-21,Remo,2,1,Fluminense,False,False,first
-1975-09-24,Remo,2,2,Nacional-AM,False,False,first
-1975-09-24,Rio Negro,1,2,Fluminense,False,False,first
-1975-09-24,Coritiba,1,0,Atlético-PR,False,False,first
-1975-09-24,América-MG,0,0,Palmeiras,False,False,first
-1975-09-24,Comercial-MT,0,1,Corinthians,False,False,first
-1975-09-24,Ceará,0,1,Atlético-MG,False,False,first
-1975-09-24,Moto Club,0,4,Cruzeiro,False,False,first
-1975-09-24,Tiradentes,0,1,Botafogo,False,False,first
-1975-09-25,Fortaleza,1,1,Guarani,False,False,first
-1975-09-27,Rio Negro,0,0,Corinthians,False,False,first
-1975-09-27,Fluminense,2,0,América-RJ,False,False,first
-1975-09-28,Atlético-PR,4,1,Comercial-MT,False,False,first
-1975-09-28,América-MG,1,1,Botafogo,False,False,first
-1975-09-28,Moto Club,1,3,Guarani,False,False,first
-1975-09-28,Ceará,0,0,Fortaleza,False,False,first
-1975-09-28,Paysandu,0,0,Coritiba,False,False,first
-1975-09-28,Nacional-AM,1,1,Palmeiras,False,False,first
-1975-10-01,Paysandu,0,0,Palmeiras,False,False,first
-1975-10-01,Nacional-AM,1,0,Coritiba,False,False,first
-1975-10-01,Tiradentes,2,0,Comercial-MT,False,False,first
-1975-10-02,Remo,1,0,Corinthians,False,False,first
-1975-10-04,América-RJ,2,0,Guarani,False,False,first
-1975-10-05,Moto Club,0,3,Corinthians,False,False,first
-1975-10-05,Fluminense,3,1,Botafogo,False,False,first
-1975-10-05,América-MG,1,1,Coritiba,False,False,first
-1975-10-05,Tiradentes,1,0,Palmeiras,False,False,first
-1975-08-20,CSA,1,0,Grêmio,False,False,first
-1975-08-20,Internacional,3,1,Figueirense,False,False,first
-1975-08-20,Sergipe,0,0,São Paulo,False,False,first
-1975-08-20,Desportiva,0,0,Vitória,False,False,first
-1975-08-20,Goiás,0,0,Santos,False,False,first
-1975-08-21,Flamengo,1,2,Sport,False,False,first
-1975-08-23,Vitória,0,5,Internacional,False,False,first
-1975-08-24,Figueirense,0,0,Sport,False,False,first
-1975-08-24,Sergipe,2,3,Náutico,False,False,first
-1975-08-24,Vasco da Gama,2,1,Grêmio,False,False,first
-1975-08-24,Bahia,0,0,Flamengo,False,False,first
-1975-08-24,América-RN,2,1,Desportiva,False,False,first
-1975-08-24,Goiânia,2,1,CEUB,False,False,first
-1975-08-24,Campinense,0,2,CSA,False,False,first
-1975-08-24,Santa Cruz,1,2,São Paulo,False,False,first
-1975-08-24,Americano,2,1,Santos,False,False,first
-1975-08-27,Sergipe,0,1,Sport,False,False,first
-1975-08-27,Campinense,2,2,São Paulo,False,False,first
-1975-08-27,Portuguesa-SP,2,1,Bahia,False,False,first
-1975-08-27,Náutico,1,0,Flamengo,False,False,first
-1975-08-27,Desportiva,1,2,Santos,False,False,first
-1975-08-27,Americano,0,2,Grêmio,False,False,first
-1975-08-27,Goiânia,0,1,Internacional,False,False,first
-1975-08-27,CSA,2,1,América-RN,False,False,first
-1975-08-28,Santa Cruz,1,1,Vasco da Gama,False,False,first
-1975-08-28,Figueirense,2,1,CEUB,False,False,first
-1975-08-30,Portuguesa-SP,0,2,Internacional,False,False,first
-1975-08-30,Santos,0,2,Bahia,False,False,first
-1975-08-31,Desportiva,0,2,Flamengo,False,False,first
-1975-08-31,América-RN,3,4,São Paulo,False,False,first
-1975-08-31,Vitória,2,2,Vasco da Gama,False,False,first
-1975-08-31,Campinense,1,1,Náutico,False,False,first
-1975-08-31,Grêmio,0,0,CEUB,False,False,first
-1975-08-31,Americano,2,1,Figueirense,False,False,first
-1975-08-31,Goiás,3,1,Goiânia,False,False,first
-1975-09-03,Sergipe,0,1,Vasco da Gama,False,False,first
-1975-09-03,América-RN,2,1,Sport,False,False,first
-1975-09-03,CSA,1,1,Figueirense,False,False,first
-1975-09-03,Santa Cruz,2,2,Goiás,False,False,first
-1975-09-03,Flamengo,1,0,Americano,False,False,first
-1975-09-03,Portuguesa-SP,1,1,CEUB,False,False,first
-1975-09-04,São Paulo,2,0,Goiânia,False,False,first
-1975-09-06,Santos,2,0,CSA,False,False,first
-1975-09-07,Desportiva,0,0,Portuguesa-SP,False,False,first
-1975-09-07,América-RN,3,3,Goiás,False,False,first
-1975-09-07,Bahia,1,1,Vitória,False,False,first
-1975-09-07,Internacional,1,1,Grêmio,False,False,first
-1975-09-07,Vasco da Gama,4,2,Flamengo,False,False,first
-1975-09-07,Náutico,3,1,Goiânia,False,False,first
-1975-09-07,Campinense,0,1,Americano,False,False,first
-1975-09-10,CEUB,2,1,Campinense,False,False,first
-1975-09-10,Americano,0,1,Portuguesa-SP,False,False,first
-1975-09-10,São Paulo,3,0,Vitória,False,False,first
-1975-09-10,Sport,1,1,Goiânia,False,False,first
-1975-09-10,Sergipe,1,1,Bahia,False,False,first
-1975-09-10,Internacional,1,0,Santa Cruz,False,False,first
-1975-09-11,Flamengo,3,1,CSA,False,False,first
-1975-09-11,Náutico,0,0,Grêmio,False,False,first
-1975-09-13,CEUB,1,0,Vitória,False,False,first
-1975-09-14,CSA,1,0,Goiânia,False,False,first
-1975-09-14,Figueirense,1,1,Náutico,False,False,first
-1975-09-14,São Paulo,2,0,Flamengo,False,False,first
-1975-09-14,Desportiva,1,1,Sergipe,False,False,first
-1975-09-14,América-RN,1,1,Bahia,False,False,first
-1975-09-14,Sport,2,2,Grêmio,False,False,first
-1975-09-14,Vasco da Gama,2,0,Portuguesa-SP,False,False,first
-1975-09-14,Internacional,1,0,Santos,False,False,first
-1975-09-14,Americano,1,4,Santa Cruz,False,False,first
-1975-09-14,Goiás,4,0,Campinense,False,False,first
-1975-09-17,Campinense,1,1,Sport,False,False,first
-1975-09-17,Desportiva,1,0,Santa Cruz,False,False,first
-1975-09-17,Bahia,1,1,Grêmio,False,False,first
-1975-09-17,Internacional,5,0,Sergipe,False,False,first
-1975-09-17,Santos,0,3,Náutico,False,False,first
-1975-09-17,CEUB,0,1,Flamengo,False,False,first
-1975-09-17,Figueirense,1,1,São Paulo,False,False,first
-1975-09-17,Goiânia,2,1,Vasco da Gama,False,False,first
-1975-09-17,Americano,1,3,América-RN,False,False,first
-1975-09-18,Goiás,1,0,Vitória,False,False,first
-1975-09-20,Santos,1,1,Vasco da Gama,False,False,first
-1975-09-21,CSA,0,0,Portuguesa-SP,False,False,first
-1975-09-21,América-RN,1,1,Internacional,False,False,first
-1975-09-21,Sergipe,2,2,CEUB,False,False,first
-1975-09-21,Figueirense,5,1,Desportiva,False,False,first
-1975-09-21,Santa Cruz,1,1,Bahia,False,False,first
-1975-09-21,Grêmio,1,1,São Paulo,False,False,first
-1975-09-21,Goiás,0,0,Flamengo,False,False,first
-1975-09-21,Vitória,2,0,Náutico,False,False,first
-1975-09-24,Vitória,2,1,CSA,False,False,first
-1975-09-24,Santa Cruz,1,0,Náutico,False,False,first
-1975-09-24,Figueirense,0,1,Vasco da Gama,False,False,first
-1975-09-24,Goiás,2,0,Sergipe,False,False,first
-1975-09-24,Campinense,0,3,Internacional,False,False,first
-1975-09-24,Grêmio,3,1,Desportiva,False,False,first
-1975-09-24,CEUB,2,1,América-RN,False,False,first
-1975-09-25,Sport,1,0,Portuguesa-SP,False,False,first
-1975-09-25,Bahia,0,0,Goiânia,False,False,first
-1975-09-27,Náutico,1,2,Portuguesa-SP,False,False,first
-1975-09-27,Vasco da Gama,0,1,América-RN,False,False,first
-1975-09-28,Sergipe,1,0,Americano,False,False,first
-1975-09-28,São Paulo,1,0,Santos,False,False,first
-1975-09-28,Campinense,2,5,Bahia,False,False,first
-1975-09-28,Grêmio,0,0,Goiás,False,False,first
-1975-09-28,Flamengo,2,1,Internacional,False,False,first
-1975-09-28,Santa Cruz,3,3,Sport,False,False,first
-1975-09-28,Goiânia,4,2,Desportiva,False,False,first
-1975-10-01,CSA,1,0,Sergipe,False,False,first
-1975-10-01,Figueirense,1,1,Goiás,False,False,first
-1975-10-01,Sport,2,0,Santos,False,False,first
-1975-10-01,CEUB,0,0,Santa Cruz,False,False,first
-1975-10-01,Portuguesa-SP,0,1,São Paulo,False,False,first
-1975-10-02,Vasco da Gama,4,0,Campinense,False,False,first
-1975-10-02,Americano,0,1,Vitória,False,False,first
-1975-10-04,Náutico,1,0,América-RN,False,False,first
-1975-10-04,CEUB,2,2,Santos,False,False,first
-1975-10-05,Portuguesa-SP,0,0,Goiás,False,False,first
-1975-10-05,CSA,0,1,Santa Cruz,False,False,first
-1975-10-05,Desportiva,2,1,Campinense,False,False,first
-1975-10-05,Sport,2,0,Vitória,False,False,first
-1975-10-05,Bahia,0,1,Figueirense,False,False,first
-1975-10-05,Goiânia,2,1,Americano,False,False,first
-1975-10-08,Guarani,1,1,América-RN,False,False,second
-1975-10-08,São Paulo,1,0,Fluminense,False,False,second
-1975-10-08,Grêmio,4,0,Remo,False,False,second
-1975-10-08,Atlético-MG,0,2,Internacional,False,False,second
-1975-10-08,Goiás,2,0,América-RJ,False,False,second
-1975-10-08,Coritiba,1,2,Figueirense,False,False,second
-1975-10-09,Corinthians,0,0,Sport,False,False,second
-1975-10-09,Vasco da Gama,1,1,Tiradentes,False,False,second
-1975-10-09,Cruzeiro,1,1,Santa Cruz,False,False,second
-1975-10-12,Flamengo,3,0,Palmeiras,False,False,second
-1975-10-11,Fluminense,0,0,Grêmio,False,False,second
-1975-10-21,São Paulo,0,0,Palmeiras,False,False,second
-1975-10-21,Internacional,4,0,Remo,False,False,second
-1975-10-21,América-RJ,0,0,Vasco da Gama,False,False,second
-1975-10-21,Figueirense,2,0,Tiradentes,False,False,second
-1975-10-21,América-RN,3,0,Coritiba,False,False,second
-1975-10-21,Guarani,1,1,Sport,False,False,second
-1975-10-21,Cruzeiro,2,0,Goiás,False,False,second
-1975-10-21,Santa Cruz,1,0,Corinthians,False,False,second
-1975-11-04,Atlético-MG,1,1,Flamengo,False,False,second
-1975-10-14,Fluminense,4,1,Goiás,False,False,second
-1975-10-15,Coritiba,0,1,Santa Cruz,False,False,second
-1975-10-15,América-RN,2,1,Remo,False,False,second
-1975-10-15,América-RJ,0,0,São Paulo,False,False,second
-1975-10-15,Sport,0,0,Palmeiras,False,False,second
-1975-10-15,Figueirense,0,0,Corinthians,False,False,second
-1975-10-15,Guarani,2,2,Grêmio,False,False,second
-1975-10-15,Vasco da Gama,1,1,Atlético-MG,False,False,second
-1975-10-15,Internacional,2,0,Tiradentes,False,False,second
-1975-10-16,Flamengo,0,1,Cruzeiro,False,False,second
-1975-10-18,Fluminense,3,0,América-RN,False,False,second
-1975-10-18,Palmeiras,2,2,Figueirense,False,False,second
-1975-10-18,Grêmio,3,0,Atlético-MG,False,False,second
-1975-10-19,São Paulo,0,1,Corinthians,False,False,second
-1975-10-19,Internacional,1,1,Cruzeiro,False,False,second
-1975-10-19,Flamengo,2,0,América-RJ,False,False,second
-1975-10-19,Coritiba,1,1,Vasco da Gama,False,False,second
-1975-10-19,Tiradentes,0,3,Sport,False,False,second
-1975-10-19,Santa Cruz,0,0,Guarani,False,False,second
-1975-10-19,Goiás,1,0,Remo,False,False,second
-1975-10-22,Figueirense,0,0,Guarani,False,False,second
-1975-10-22,Internacional,3,1,Fluminense,False,False,second
-1975-10-22,Sport,1,1,América-RJ,False,False,second
-1975-10-22,Cruzeiro,0,1,Vasco da Gama,False,False,second
-1975-10-22,Tiradentes,0,0,Goiás,False,False,second
-1975-10-22,Remo,2,2,São Paulo,False,False,second
-1975-10-23,Santa Cruz,2,0,Atlético-MG,False,False,second
-1975-10-23,Grêmio,1,3,Coritiba,False,False,second
-1975-10-23,América-RN,0,2,Palmeiras,False,False,second
-1975-10-23,Corinthians,0,1,Flamengo,False,False,second
-1975-10-25,Flamengo,1,2,Remo,False,False,second
-1975-10-25,São Paulo,0,0,Guarani,False,False,second
-1975-10-26,Palmeiras,2,3,Santa Cruz,False,False,second
-1975-10-26,Sport,1,0,Coritiba,False,False,second
-1975-10-26,América-RN,1,4,América-RJ,False,False,second
-1975-10-26,Tiradentes,1,2,Grêmio,False,False,second
-1975-10-26,Vasco da Gama,1,4,Fluminense,False,False,second
-1975-10-26,Internacional,1,1,Corinthians,False,False,second
-1975-10-26,Figueirense,0,1,Cruzeiro,False,False,second
-1975-10-26,Goiás,1,5,Atlético-MG,False,False,second
-1975-10-29,Corinthians,4,1,América-RN,False,False,second
-1975-10-29,Remo,2,0,Vasco da Gama,False,False,second
-1975-10-29,Atlético-MG,3,3,Figueirense,False,False,second
-1975-10-29,Coritiba,2,2,São Paulo,False,False,second
-1975-10-29,Grêmio,1,1,Palmeiras,False,False,second
-1975-10-29,Tiradentes,3,2,Flamengo,False,False,second
-1975-10-29,Sport,0,1,Cruzeiro,False,False,second
-1975-10-29,América-RJ,1,0,Internacional,False,False,second
-1975-10-29,Guarani,0,0,Goiás,False,False,second
-1975-10-30,Santa Cruz,0,1,Fluminense,False,False,second
-1975-11-01,Santa Cruz,1,1,Tiradentes,False,False,second
-1975-11-01,Vasco da Gama,1,2,Guarani,False,False,second
-1975-11-01,América-RJ,2,1,Figueirense,False,False,second
-1975-11-01,São Paulo,0,0,Cruzeiro,False,False,second
-1975-11-02,Corinthians,3,2,Grêmio,False,False,second
-1975-11-02,América-RN,1,1,Atlético-MG,False,False,second
-1975-11-02,Fluminense,3,0,Flamengo,False,False,second
-1975-11-02,Goiás,1,2,Palmeiras,False,False,second
-1975-11-02,Sport,0,0,Remo,False,False,second
-1975-11-02,Coritiba,0,0,Internacional,False,False,second
-1975-11-05,Cruzeiro,2,1,América-RN,False,False,second
-1975-11-05,Palmeiras,1,0,Vasco da Gama,False,False,second
-1975-11-05,Grêmio,0,1,América-RJ,False,False,second
-1975-11-05,Figueirense,0,0,Fluminense,False,False,second
-1975-11-05,Remo,0,0,Santa Cruz,False,False,second
-1975-11-06,Flamengo,2,0,Coritiba,False,False,second
-1975-11-06,Atlético-MG,1,0,Sport,False,False,second
-1975-11-06,Internacional,2,0,Guarani,False,False,second
-1975-11-06,São Paulo,2,0,Tiradentes,False,False,second
-1975-11-06,Corinthians,0,0,Goiás,False,False,second
-1975-11-08,Cruzeiro,3,1,Grêmio,False,False,second
-1975-11-08,América-RJ,1,3,Santa Cruz,False,False,second
-1975-11-08,Fluminense,3,0,Sport,False,False,second
-1975-11-09,Palmeiras,0,0,Internacional,False,False,second
-1975-11-09,Guarani,2,0,Flamengo,False,False,second
-1975-11-09,Vasco da Gama,0,1,Corinthians,False,False,second
-1975-11-09,Tiradentes,1,0,América-RN,False,False,second
-1975-11-09,Atlético-MG,1,1,São Paulo,False,False,second
-1975-11-09,Remo,4,1,Figueirense,False,False,second
-1975-11-09,Goiás,2,2,Coritiba,False,False,second
-1975-10-19,Rio Negro,1,2,Comercial-MS,False,False,second
-1975-10-19,Fortaleza,1,0,Moto Club,False,False,second
-1975-10-22,Comercial-MS,2,3,Fortaleza,False,False,second
-1975-10-22,Rio Negro,1,3,Botafogo,False,False,second
-1975-10-25,Fortaleza,0,1,Rio Negro,False,False,second
-1975-10-26,Moto Club,1,2,Botafogo,False,False,second
-1975-10-29,Moto Club,1,1,Rio Negro,False,False,second
-1975-10-29,Botafogo,0,0,Comercial-MS,False,False,second
-1975-11-05,Botafogo,1,1,Fortaleza,False,False,second
-1975-11-05,Comercial-MS,3,2,Moto Club,False,False,second
-1975-10-23,América-MG,3,2,Paysandu,False,False,second
-1975-11-05,Atlético-PR,3,0,Ceará,False,False,second
-1975-10-26,Nacional-AM,2,0,Atlético-PR,False,False,second
-1975-10-26,Ceará,2,1,América-MG,False,False,second
-1975-10-30,Ceará,0,0,Nacional-AM,False,False,second
-1975-10-30,Paysandu,0,1,Atlético-PR,False,False,second
-1975-11-02,Paysandu,1,0,Ceará,False,False,second
-1975-11-02,América-MG,1,2,Nacional-AM,False,False,second
-1975-11-08,Nacional-AM,2,2,Paysandu,False,False,second
-1975-11-08,Atlético-PR,0,0,América-MG,False,False,second
-1975-10-18,Portuguesa-SP,3,0,Vitória,False,False,second
-1975-10-19,Sergipe,0,2,Santos,False,False,second
-1975-10-19,Campinense,0,0,Goiânia,False,False,second
-1975-10-22,Campinense,1,5,Portuguesa-SP,False,False,second
-1975-10-22,Santos,2,1,Goiânia,False,False,second
-1975-10-22,Vitória,1,0,Sergipe,False,False,second
-1975-10-26,Portuguesa-SP,2,1,Goiânia,False,False,second
-1975-10-26,Vitória,1,3,Santos,False,False,second
-1975-10-26,Sergipe,4,2,Campinense,False,False,second
-1975-10-29,Goiânia,1,0,Sergipe,False,False,second
-1975-10-29,Vitória,3,1,Campinense,False,False,second
-1975-10-29,Santos,0,0,Portuguesa-SP,False,False,second
-1975-11-01,Portuguesa-SP,4,0,Sergipe,False,False,second
-1975-11-01,Santos,5,1,Campinense,False,False,second
-1975-11-01,Goiânia,1,0,Vitória,False,False,second
-1975-10-25,Bahia,1,0,Americano,False,False,second
-1975-10-25,CEUB,2,0,Desportiva,False,False,second
-1975-10-26,CSA,0,2,Náutico,False,False,second
-1975-10-28,Náutico,2,0,Americano,False,False,second
-1975-10-29,CSA,1,1,CEUB,False,False,second
-1975-10-29,Desportiva,0,0,Bahia,False,False,second
-1975-11-01,CEUB,0,2,Americano,False,False,second
-1975-11-02,Desportiva,1,0,CSA,False,False,second
-1975-11-02,Bahia,1,1,Náutico,False,False,second
-1975-11-05,CEUB,1,2,Bahia,False,False,second
-1975-11-05,Náutico,4,1,Desportiva,False,False,second
-1975-11-05,Americano,2,1,CSA,False,False,second
-1975-11-08,Bahia,3,0,CSA,False,False,second
-1975-11-08,Americano,0,3,Desportiva,False,False,second
-1975-11-08,Náutico,3,0,CEUB,False,False,second
-1975-11-12,Fluminense,4,0,Nacional-AM,False,False,third
-1975-11-12,Palmeiras,0,0,Cruzeiro,False,False,third
-1975-11-12,Guarani,1,1,América-RJ,False,False,third
-1975-11-13,Botafogo,2,3,Corinthians,False,False,third
-1975-11-15,América-RJ,3,1,Nacional-AM,False,False,third
-1975-11-15,Guarani,2,0,Cruzeiro,False,False,third
-1975-11-16,Palmeiras,2,0,Botafogo,False,False,third
-1975-11-16,Corinthians,0,0,Fluminense,False,False,third
-1975-11-19,Cruzeiro,1,2,Fluminense,False,False,third
-1975-11-19,Guarani,3,1,Palmeiras,False,False,third
-1975-11-20,Corinthians,1,0,Nacional-AM,False,False,third
-1975-11-20,Botafogo,0,0,América-RJ,False,False,third
-1975-11-23,Palmeiras,2,0,América-RJ,False,False,third
-1975-11-23,Fluminense,2,0,Botafogo,False,False,third
-1975-11-23,Cruzeiro,2,0,Corinthians,False,False,third
-1975-11-23,Nacional-AM,0,1,Guarani,False,False,third
-1975-11-26,Guarani,1,2,Fluminense,False,False,third
-1975-11-26,Cruzeiro,2,0,Botafogo,False,False,third
-1975-11-26,Nacional-AM,0,3,Palmeiras,False,False,third
-1975-11-27,América-RJ,2,1,Corinthians,False,False,third
-1975-11-29,Botafogo,2,1,Guarani,False,False,third
-1975-11-30,Corinthians,1,0,Palmeiras,False,False,third
-1975-11-30,Nacional-AM,0,3,Cruzeiro,False,False,third
-1975-11-30,América-RJ,1,0,Fluminense,False,False,third
-1975-12-03,Fluminense,4,2,Palmeiras,False,False,third
-1975-12-03,Corinthians,3,2,Guarani,False,False,third
-1975-12-04,Nacional-AM,0,2,Botafogo,False,False,third
-1975-12-04,Cruzeiro,1,1,América-RJ,False,False,third
-1975-11-12,Santa Cruz,1,0,Internacional,False,False,third
-1975-11-12,Grêmio,0,0,Náutico,False,False,third
-1975-11-13,Portuguesa-SP,0,2,Flamengo,False,False,third
-1975-11-13,Sport,1,1,São Paulo,False,False,third
-1975-11-15,Portuguesa-SP,3,1,Náutico,False,False,third
-1975-11-16,Flamengo,1,1,São Paulo,False,False,third
-1975-11-16,Santa Cruz,2,1,Grêmio,False,False,third
-1975-11-16,Internacional,3,1,Sport,False,False,third
-1975-11-19,Náutico,1,2,Sport,False,False,third
-1975-11-19,São Paulo,0,0,Internacional,False,False,third
-1975-11-19,Flamengo,1,0,Grêmio,False,False,third
-1975-11-20,Santa Cruz,1,1,Portuguesa-SP,False,False,third
-1975-11-22,Flamengo,3,0,Náutico,False,False,third
-1975-11-23,São Paulo,1,2,Portuguesa-SP,False,False,third
-1975-11-23,Internacional,1,0,Grêmio,False,False,third
-1975-11-23,Sport,1,3,Santa Cruz,False,False,third
-1975-11-26,São Paulo,1,0,Santa Cruz,False,False,third
-1975-11-26,Sport,0,1,Flamengo,False,False,third
-1975-11-26,Grêmio,1,1,Portuguesa-SP,False,False,third
-1975-11-27,Náutico,0,1,Internacional,False,False,third
-1975-11-29,São Paulo,1,2,Grêmio,False,False,third
-1975-11-29,Portuguesa-SP,1,1,Sport,False,False,third
-1975-11-30,Náutico,1,4,Santa Cruz,False,False,third
-1975-11-30,Internacional,1,1,Flamengo,False,False,third
-1975-12-03,Grêmio,1,1,Sport,False,False,third
-1975-12-04,Náutico,1,3,São Paulo,False,False,third
-1975-12-04,Internacional,3,0,Portuguesa-SP,False,False,third
-1975-12-04,Flamengo,1,3,Santa Cruz,False,False,third
-1975-12-07,Fluminense,0,2,Internacional,False,True,semi
-1975-12-07,Santa Cruz,2,3,Cruzeiro,False,True,semi
-1975-12-14,Internacional,1,0,Cruzeiro,False,True,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1975-08-20,Fluminense,0,1,Coritiba,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Atlético-PR,2,1,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Corinthians,1,0,América-RJ,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Moto Club,4,3,Paysandu,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Fortaleza,2,0,América-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Rio Negro,1,1,Tiradentes,False,False,first,Brasileirão Série A 2024,1975
+1975-08-21,Palmeiras,1,1,Guarani,False,False,first,Brasileirão Série A 2024,1975
+1975-08-23,Botafogo,2,1,Paysandu,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Palmeiras,3,1,Fluminense,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Fortaleza,2,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Rio Negro,0,0,Nacional-AM,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Moto Club,0,3,Ceará,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Atlético-MG,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Remo,1,0,Tiradentes,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Comercial-MT,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1975
+1975-08-26,Comercial-MT,2,1,Paysandu,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Ceará,0,2,América-RJ,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Cruzeiro,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Rio Negro,2,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1975
+1975-08-28,Atlético-MG,2,0,Guarani,False,False,first,Brasileirão Série A 2024,1975
+1975-08-30,Fluminense,5,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Corinthians,1,0,Fortaleza,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Coritiba,4,0,Ceará,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Botafogo,0,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,América-MG,0,0,Moto Club,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Tiradentes,2,1,América-RJ,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Comercial-MT,2,0,Nacional-AM,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Remo,2,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Guarani,0,0,Remo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Tiradentes,0,0,Fortaleza,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Comercial-MT,1,0,Ceará,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Atlético-PR,5,1,Moto Club,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Cruzeiro,4,0,Rio Negro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Paysandu,3,3,América-RJ,False,False,first,Brasileirão Série A 2024,1975
+1975-09-04,Atlético-MG,1,1,América-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-06,Palmeiras,2,0,Ceará,False,False,first,Brasileirão Série A 2024,1975
+1975-09-06,América-MG,2,0,Rio Negro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Coritiba,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Corinthians,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Tiradentes,4,1,Moto Club,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Atlético-MG,2,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Nacional-AM,1,1,América-RJ,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Comercial-MT,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Remo,2,0,Paysandu,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Guarani,2,0,Rio Negro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Coritiba,2,0,Tiradentes,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,América-RJ,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Nacional-AM,1,1,Fortaleza,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Ceará,2,0,Remo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Atlético-MG,0,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1975
+1975-09-13,América-MG,1,1,Remo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-13,América-RJ,5,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Cruzeiro,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Coritiba,0,2,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Guarani,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Moto Club,1,3,Fluminense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Nacional-AM,0,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Ceará,0,0,Rio Negro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Paysandu,3,1,Fortaleza,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Botafogo,4,0,Nacional-AM,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Cruzeiro,0,0,Remo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Paysandu,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Fortaleza,1,0,Fluminense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Atlético-PR,2,4,Palmeiras,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Comercial-MT,0,0,América-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-20,Guarani,2,0,Comercial-MT,False,False,first,Brasileirão Série A 2024,1975
+1975-09-20,Fortaleza,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Moto Club,1,1,Nacional-AM,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Rio Negro,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Ceará,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Palmeiras,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,América-RJ,3,0,América-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Tiradentes,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Remo,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Remo,2,2,Nacional-AM,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Rio Negro,1,2,Fluminense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Coritiba,1,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,América-MG,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Comercial-MT,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Ceará,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Moto Club,0,4,Cruzeiro,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Tiradentes,0,1,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-25,Fortaleza,1,1,Guarani,False,False,first,Brasileirão Série A 2024,1975
+1975-09-27,Rio Negro,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-09-27,Fluminense,2,0,América-RJ,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Atlético-PR,4,1,Comercial-MT,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,América-MG,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Moto Club,1,3,Guarani,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Ceará,0,0,Fortaleza,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Paysandu,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Nacional-AM,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,Paysandu,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,Nacional-AM,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,Tiradentes,2,0,Comercial-MT,False,False,first,Brasileirão Série A 2024,1975
+1975-10-02,Remo,1,0,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-10-04,América-RJ,2,0,Guarani,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Moto Club,0,3,Corinthians,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Fluminense,3,1,Botafogo,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,América-MG,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Tiradentes,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,CSA,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Internacional,3,1,Figueirense,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Sergipe,0,0,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Desportiva,0,0,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-08-20,Goiás,0,0,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-08-21,Flamengo,1,2,Sport,False,False,first,Brasileirão Série A 2024,1975
+1975-08-23,Vitória,0,5,Internacional,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Figueirense,0,0,Sport,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Sergipe,2,3,Náutico,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Vasco da Gama,2,1,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Bahia,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,América-RN,2,1,Desportiva,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Goiânia,2,1,CEUB,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Campinense,0,2,CSA,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Santa Cruz,1,2,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-24,Americano,2,1,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Sergipe,0,1,Sport,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Campinense,2,2,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Portuguesa-SP,2,1,Bahia,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Náutico,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Desportiva,1,2,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Americano,0,2,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,Goiânia,0,1,Internacional,False,False,first,Brasileirão Série A 2024,1975
+1975-08-27,CSA,2,1,América-RN,False,False,first,Brasileirão Série A 2024,1975
+1975-08-28,Santa Cruz,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1975
+1975-08-28,Figueirense,2,1,CEUB,False,False,first,Brasileirão Série A 2024,1975
+1975-08-30,Portuguesa-SP,0,2,Internacional,False,False,first,Brasileirão Série A 2024,1975
+1975-08-30,Santos,0,2,Bahia,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Desportiva,0,2,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,América-RN,3,4,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Vitória,2,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Campinense,1,1,Náutico,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Grêmio,0,0,CEUB,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Americano,2,1,Figueirense,False,False,first,Brasileirão Série A 2024,1975
+1975-08-31,Goiás,3,1,Goiânia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Sergipe,0,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,América-RN,2,1,Sport,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,CSA,1,1,Figueirense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Santa Cruz,2,2,Goiás,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Flamengo,1,0,Americano,False,False,first,Brasileirão Série A 2024,1975
+1975-09-03,Portuguesa-SP,1,1,CEUB,False,False,first,Brasileirão Série A 2024,1975
+1975-09-04,São Paulo,2,0,Goiânia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-06,Santos,2,0,CSA,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Desportiva,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,América-RN,3,3,Goiás,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Bahia,1,1,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Internacional,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Vasco da Gama,4,2,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Náutico,3,1,Goiânia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-07,Campinense,0,1,Americano,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,CEUB,2,1,Campinense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Americano,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,São Paulo,3,0,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Sport,1,1,Goiânia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Sergipe,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-10,Internacional,1,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1975
+1975-09-11,Flamengo,3,1,CSA,False,False,first,Brasileirão Série A 2024,1975
+1975-09-11,Náutico,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-09-13,CEUB,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,CSA,1,0,Goiânia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Figueirense,1,1,Náutico,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,São Paulo,2,0,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Desportiva,1,1,Sergipe,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,América-RN,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Sport,2,2,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Vasco da Gama,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Internacional,1,0,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Americano,1,4,Santa Cruz,False,False,first,Brasileirão Série A 2024,1975
+1975-09-14,Goiás,4,0,Campinense,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Campinense,1,1,Sport,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Desportiva,1,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Bahia,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Internacional,5,0,Sergipe,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Santos,0,3,Náutico,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,CEUB,0,1,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Figueirense,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Goiânia,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1975
+1975-09-17,Americano,1,3,América-RN,False,False,first,Brasileirão Série A 2024,1975
+1975-09-18,Goiás,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-09-20,Santos,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,CSA,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,América-RN,1,1,Internacional,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Sergipe,2,2,CEUB,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Figueirense,5,1,Desportiva,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Santa Cruz,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Grêmio,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Goiás,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,1975
+1975-09-21,Vitória,2,0,Náutico,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Vitória,2,1,CSA,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Santa Cruz,1,0,Náutico,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Figueirense,0,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Goiás,2,0,Sergipe,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Campinense,0,3,Internacional,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,Grêmio,3,1,Desportiva,False,False,first,Brasileirão Série A 2024,1975
+1975-09-24,CEUB,2,1,América-RN,False,False,first,Brasileirão Série A 2024,1975
+1975-09-25,Sport,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1975
+1975-09-25,Bahia,0,0,Goiânia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-27,Náutico,1,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1975
+1975-09-27,Vasco da Gama,0,1,América-RN,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Sergipe,1,0,Americano,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,São Paulo,1,0,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Campinense,2,5,Bahia,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Grêmio,0,0,Goiás,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Flamengo,2,1,Internacional,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Santa Cruz,3,3,Sport,False,False,first,Brasileirão Série A 2024,1975
+1975-09-28,Goiânia,4,2,Desportiva,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,CSA,1,0,Sergipe,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,Figueirense,1,1,Goiás,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,Sport,2,0,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,CEUB,0,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1975
+1975-10-01,Portuguesa-SP,0,1,São Paulo,False,False,first,Brasileirão Série A 2024,1975
+1975-10-02,Vasco da Gama,4,0,Campinense,False,False,first,Brasileirão Série A 2024,1975
+1975-10-02,Americano,0,1,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-10-04,Náutico,1,0,América-RN,False,False,first,Brasileirão Série A 2024,1975
+1975-10-04,CEUB,2,2,Santos,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Portuguesa-SP,0,0,Goiás,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,CSA,0,1,Santa Cruz,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Desportiva,2,1,Campinense,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Sport,2,0,Vitória,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Bahia,0,1,Figueirense,False,False,first,Brasileirão Série A 2024,1975
+1975-10-05,Goiânia,2,1,Americano,False,False,first,Brasileirão Série A 2024,1975
+1975-10-08,Guarani,1,1,América-RN,False,False,second,Brasileirão Série A 2024,1975
+1975-10-08,São Paulo,1,0,Fluminense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-08,Grêmio,4,0,Remo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-08,Atlético-MG,0,2,Internacional,False,False,second,Brasileirão Série A 2024,1975
+1975-10-08,Goiás,2,0,América-RJ,False,False,second,Brasileirão Série A 2024,1975
+1975-10-08,Coritiba,1,2,Figueirense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-09,Corinthians,0,0,Sport,False,False,second,Brasileirão Série A 2024,1975
+1975-10-09,Vasco da Gama,1,1,Tiradentes,False,False,second,Brasileirão Série A 2024,1975
+1975-10-09,Cruzeiro,1,1,Santa Cruz,False,False,second,Brasileirão Série A 2024,1975
+1975-10-12,Flamengo,3,0,Palmeiras,False,False,second,Brasileirão Série A 2024,1975
+1975-10-11,Fluminense,0,0,Grêmio,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,São Paulo,0,0,Palmeiras,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,Internacional,4,0,Remo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,América-RJ,0,0,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,Figueirense,2,0,Tiradentes,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,América-RN,3,0,Coritiba,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,Guarani,1,1,Sport,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,Cruzeiro,2,0,Goiás,False,False,second,Brasileirão Série A 2024,1975
+1975-10-21,Santa Cruz,1,0,Corinthians,False,False,second,Brasileirão Série A 2024,1975
+1975-11-04,Atlético-MG,1,1,Flamengo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-14,Fluminense,4,1,Goiás,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,Coritiba,0,1,Santa Cruz,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,América-RN,2,1,Remo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,América-RJ,0,0,São Paulo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,Sport,0,0,Palmeiras,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,Figueirense,0,0,Corinthians,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,Guarani,2,2,Grêmio,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,Vasco da Gama,1,1,Atlético-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-10-15,Internacional,2,0,Tiradentes,False,False,second,Brasileirão Série A 2024,1975
+1975-10-16,Flamengo,0,1,Cruzeiro,False,False,second,Brasileirão Série A 2024,1975
+1975-10-18,Fluminense,3,0,América-RN,False,False,second,Brasileirão Série A 2024,1975
+1975-10-18,Palmeiras,2,2,Figueirense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-18,Grêmio,3,0,Atlético-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,São Paulo,0,1,Corinthians,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Internacional,1,1,Cruzeiro,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Flamengo,2,0,América-RJ,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Coritiba,1,1,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Tiradentes,0,3,Sport,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Santa Cruz,0,0,Guarani,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Goiás,1,0,Remo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Figueirense,0,0,Guarani,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Internacional,3,1,Fluminense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Sport,1,1,América-RJ,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Cruzeiro,0,1,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Tiradentes,0,0,Goiás,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Remo,2,2,São Paulo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-23,Santa Cruz,2,0,Atlético-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-10-23,Grêmio,1,3,Coritiba,False,False,second,Brasileirão Série A 2024,1975
+1975-10-23,América-RN,0,2,Palmeiras,False,False,second,Brasileirão Série A 2024,1975
+1975-10-23,Corinthians,0,1,Flamengo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-25,Flamengo,1,2,Remo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-25,São Paulo,0,0,Guarani,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Palmeiras,2,3,Santa Cruz,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Sport,1,0,Coritiba,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,América-RN,1,4,América-RJ,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Tiradentes,1,2,Grêmio,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Vasco da Gama,1,4,Fluminense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Internacional,1,1,Corinthians,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Figueirense,0,1,Cruzeiro,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Goiás,1,5,Atlético-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Corinthians,4,1,América-RN,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Remo,2,0,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Atlético-MG,3,3,Figueirense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Coritiba,2,2,São Paulo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Grêmio,1,1,Palmeiras,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Tiradentes,3,2,Flamengo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Sport,0,1,Cruzeiro,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,América-RJ,1,0,Internacional,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Guarani,0,0,Goiás,False,False,second,Brasileirão Série A 2024,1975
+1975-10-30,Santa Cruz,0,1,Fluminense,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,Santa Cruz,1,1,Tiradentes,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,Vasco da Gama,1,2,Guarani,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,América-RJ,2,1,Figueirense,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,São Paulo,0,0,Cruzeiro,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Corinthians,3,2,Grêmio,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,América-RN,1,1,Atlético-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Fluminense,3,0,Flamengo,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Goiás,1,2,Palmeiras,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Sport,0,0,Remo,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Coritiba,0,0,Internacional,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Cruzeiro,2,1,América-RN,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Palmeiras,1,0,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Grêmio,0,1,América-RJ,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Figueirense,0,0,Fluminense,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Remo,0,0,Santa Cruz,False,False,second,Brasileirão Série A 2024,1975
+1975-11-06,Flamengo,2,0,Coritiba,False,False,second,Brasileirão Série A 2024,1975
+1975-11-06,Atlético-MG,1,0,Sport,False,False,second,Brasileirão Série A 2024,1975
+1975-11-06,Internacional,2,0,Guarani,False,False,second,Brasileirão Série A 2024,1975
+1975-11-06,São Paulo,2,0,Tiradentes,False,False,second,Brasileirão Série A 2024,1975
+1975-11-06,Corinthians,0,0,Goiás,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Cruzeiro,3,1,Grêmio,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,América-RJ,1,3,Santa Cruz,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Fluminense,3,0,Sport,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Palmeiras,0,0,Internacional,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Guarani,2,0,Flamengo,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Vasco da Gama,0,1,Corinthians,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Tiradentes,1,0,América-RN,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Atlético-MG,1,1,São Paulo,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Remo,4,1,Figueirense,False,False,second,Brasileirão Série A 2024,1975
+1975-11-09,Goiás,2,2,Coritiba,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Rio Negro,1,2,Comercial-MS,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Fortaleza,1,0,Moto Club,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Comercial-MS,2,3,Fortaleza,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Rio Negro,1,3,Botafogo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-25,Fortaleza,0,1,Rio Negro,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Moto Club,1,2,Botafogo,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Moto Club,1,1,Rio Negro,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Botafogo,0,0,Comercial-MS,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Botafogo,1,1,Fortaleza,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Comercial-MS,3,2,Moto Club,False,False,second,Brasileirão Série A 2024,1975
+1975-10-23,América-MG,3,2,Paysandu,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Atlético-PR,3,0,Ceará,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Nacional-AM,2,0,Atlético-PR,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Ceará,2,1,América-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-10-30,Ceará,0,0,Nacional-AM,False,False,second,Brasileirão Série A 2024,1975
+1975-10-30,Paysandu,0,1,Atlético-PR,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Paysandu,1,0,Ceará,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,América-MG,1,2,Nacional-AM,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Nacional-AM,2,2,Paysandu,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Atlético-PR,0,0,América-MG,False,False,second,Brasileirão Série A 2024,1975
+1975-10-18,Portuguesa-SP,3,0,Vitória,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Sergipe,0,2,Santos,False,False,second,Brasileirão Série A 2024,1975
+1975-10-19,Campinense,0,0,Goiânia,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Campinense,1,5,Portuguesa-SP,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Santos,2,1,Goiânia,False,False,second,Brasileirão Série A 2024,1975
+1975-10-22,Vitória,1,0,Sergipe,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Portuguesa-SP,2,1,Goiânia,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Vitória,1,3,Santos,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,Sergipe,4,2,Campinense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Goiânia,1,0,Sergipe,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Vitória,3,1,Campinense,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Santos,0,0,Portuguesa-SP,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,Portuguesa-SP,4,0,Sergipe,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,Santos,5,1,Campinense,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,Goiânia,1,0,Vitória,False,False,second,Brasileirão Série A 2024,1975
+1975-10-25,Bahia,1,0,Americano,False,False,second,Brasileirão Série A 2024,1975
+1975-10-25,CEUB,2,0,Desportiva,False,False,second,Brasileirão Série A 2024,1975
+1975-10-26,CSA,0,2,Náutico,False,False,second,Brasileirão Série A 2024,1975
+1975-10-28,Náutico,2,0,Americano,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,CSA,1,1,CEUB,False,False,second,Brasileirão Série A 2024,1975
+1975-10-29,Desportiva,0,0,Bahia,False,False,second,Brasileirão Série A 2024,1975
+1975-11-01,CEUB,0,2,Americano,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Desportiva,1,0,CSA,False,False,second,Brasileirão Série A 2024,1975
+1975-11-02,Bahia,1,1,Náutico,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,CEUB,1,2,Bahia,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Náutico,4,1,Desportiva,False,False,second,Brasileirão Série A 2024,1975
+1975-11-05,Americano,2,1,CSA,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Bahia,3,0,CSA,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Americano,0,3,Desportiva,False,False,second,Brasileirão Série A 2024,1975
+1975-11-08,Náutico,3,0,CEUB,False,False,second,Brasileirão Série A 2024,1975
+1975-11-12,Fluminense,4,0,Nacional-AM,False,False,third,Brasileirão Série A 2024,1975
+1975-11-12,Palmeiras,0,0,Cruzeiro,False,False,third,Brasileirão Série A 2024,1975
+1975-11-12,Guarani,1,1,América-RJ,False,False,third,Brasileirão Série A 2024,1975
+1975-11-13,Botafogo,2,3,Corinthians,False,False,third,Brasileirão Série A 2024,1975
+1975-11-15,América-RJ,3,1,Nacional-AM,False,False,third,Brasileirão Série A 2024,1975
+1975-11-15,Guarani,2,0,Cruzeiro,False,False,third,Brasileirão Série A 2024,1975
+1975-11-16,Palmeiras,2,0,Botafogo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-16,Corinthians,0,0,Fluminense,False,False,third,Brasileirão Série A 2024,1975
+1975-11-19,Cruzeiro,1,2,Fluminense,False,False,third,Brasileirão Série A 2024,1975
+1975-11-19,Guarani,3,1,Palmeiras,False,False,third,Brasileirão Série A 2024,1975
+1975-11-20,Corinthians,1,0,Nacional-AM,False,False,third,Brasileirão Série A 2024,1975
+1975-11-20,Botafogo,0,0,América-RJ,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,Palmeiras,2,0,América-RJ,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,Fluminense,2,0,Botafogo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,Cruzeiro,2,0,Corinthians,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,Nacional-AM,0,1,Guarani,False,False,third,Brasileirão Série A 2024,1975
+1975-11-26,Guarani,1,2,Fluminense,False,False,third,Brasileirão Série A 2024,1975
+1975-11-26,Cruzeiro,2,0,Botafogo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-26,Nacional-AM,0,3,Palmeiras,False,False,third,Brasileirão Série A 2024,1975
+1975-11-27,América-RJ,2,1,Corinthians,False,False,third,Brasileirão Série A 2024,1975
+1975-11-29,Botafogo,2,1,Guarani,False,False,third,Brasileirão Série A 2024,1975
+1975-11-30,Corinthians,1,0,Palmeiras,False,False,third,Brasileirão Série A 2024,1975
+1975-11-30,Nacional-AM,0,3,Cruzeiro,False,False,third,Brasileirão Série A 2024,1975
+1975-11-30,América-RJ,1,0,Fluminense,False,False,third,Brasileirão Série A 2024,1975
+1975-12-03,Fluminense,4,2,Palmeiras,False,False,third,Brasileirão Série A 2024,1975
+1975-12-03,Corinthians,3,2,Guarani,False,False,third,Brasileirão Série A 2024,1975
+1975-12-04,Nacional-AM,0,2,Botafogo,False,False,third,Brasileirão Série A 2024,1975
+1975-12-04,Cruzeiro,1,1,América-RJ,False,False,third,Brasileirão Série A 2024,1975
+1975-11-12,Santa Cruz,1,0,Internacional,False,False,third,Brasileirão Série A 2024,1975
+1975-11-12,Grêmio,0,0,Náutico,False,False,third,Brasileirão Série A 2024,1975
+1975-11-13,Portuguesa-SP,0,2,Flamengo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-13,Sport,1,1,São Paulo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-15,Portuguesa-SP,3,1,Náutico,False,False,third,Brasileirão Série A 2024,1975
+1975-11-16,Flamengo,1,1,São Paulo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-16,Santa Cruz,2,1,Grêmio,False,False,third,Brasileirão Série A 2024,1975
+1975-11-16,Internacional,3,1,Sport,False,False,third,Brasileirão Série A 2024,1975
+1975-11-19,Náutico,1,2,Sport,False,False,third,Brasileirão Série A 2024,1975
+1975-11-19,São Paulo,0,0,Internacional,False,False,third,Brasileirão Série A 2024,1975
+1975-11-19,Flamengo,1,0,Grêmio,False,False,third,Brasileirão Série A 2024,1975
+1975-11-20,Santa Cruz,1,1,Portuguesa-SP,False,False,third,Brasileirão Série A 2024,1975
+1975-11-22,Flamengo,3,0,Náutico,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,São Paulo,1,2,Portuguesa-SP,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,Internacional,1,0,Grêmio,False,False,third,Brasileirão Série A 2024,1975
+1975-11-23,Sport,1,3,Santa Cruz,False,False,third,Brasileirão Série A 2024,1975
+1975-11-26,São Paulo,1,0,Santa Cruz,False,False,third,Brasileirão Série A 2024,1975
+1975-11-26,Sport,0,1,Flamengo,False,False,third,Brasileirão Série A 2024,1975
+1975-11-26,Grêmio,1,1,Portuguesa-SP,False,False,third,Brasileirão Série A 2024,1975
+1975-11-27,Náutico,0,1,Internacional,False,False,third,Brasileirão Série A 2024,1975
+1975-11-29,São Paulo,1,2,Grêmio,False,False,third,Brasileirão Série A 2024,1975
+1975-11-29,Portuguesa-SP,1,1,Sport,False,False,third,Brasileirão Série A 2024,1975
+1975-11-30,Náutico,1,4,Santa Cruz,False,False,third,Brasileirão Série A 2024,1975
+1975-11-30,Internacional,1,1,Flamengo,False,False,third,Brasileirão Série A 2024,1975
+1975-12-03,Grêmio,1,1,Sport,False,False,third,Brasileirão Série A 2024,1975
+1975-12-04,Náutico,1,3,São Paulo,False,False,third,Brasileirão Série A 2024,1975
+1975-12-04,Internacional,3,0,Portuguesa-SP,False,False,third,Brasileirão Série A 2024,1975
+1975-12-04,Flamengo,1,3,Santa Cruz,False,False,third,Brasileirão Série A 2024,1975
+1975-12-07,Fluminense,0,2,Internacional,False,True,semi,Brasileirão Série A 2024,1975
+1975-12-07,Santa Cruz,2,3,Cruzeiro,False,True,semi,Brasileirão Série A 2024,1975
+1975-12-14,Internacional,1,0,Cruzeiro,False,True,final,Brasileirão Série A 2024,1975

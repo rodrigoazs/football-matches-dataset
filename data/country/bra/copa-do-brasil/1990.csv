@@ -1,63 +1,63 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-1990-06-19,Treze,0,1,Náutico-PE,False,False,first
-1990-06-21,Flamengo-RJ,5,1,Capelense,False,False,first
-1990-06-22,Juventus-AC,1,0,Rio Negro-AM,False,False,first
-1990-06-22,Cruzeiro,0,0,Goiás,False,False,first
-1990-06-22,Operário-MS,2,0,Mixto,False,False,first
-1990-06-22,São José-SP,1,2,Coritiba,False,False,first
-1990-06-22,Bahia,0,0,Sergipe-SE,False,False,first
-1990-06-22,Desportiva,1,1,Botafogo,False,False,first
-1990-06-22,Taguatinga-DF,1,0,Vitória,False,False,first
-1990-06-22,Moto Club,1,1,Remo,False,False,first
-1990-06-22,Santa Cruz-PE,3,1,América-RN,False,False,first
-1990-06-22,River,2,2,Ceará,False,False,first
-1990-06-23,Vila Nova-GO,0,0,Atlético-MG,False,False,first
-1990-06-23,União Bandeirante-PR,0,1,São Paulo,False,False,first
-1990-06-27,Internacional,1,0,Criciúma,False,False,first
-1990-06-27,Joinville,1,1,Grêmio,False,False,first
-1990-06-27,Rio Negro-AM,1,0,Juventus-AC,False,False,first
-1990-06-27,Atlético-MG,5,0,Vila Nova-GO,False,False,first
-1990-06-27,Goiás,4,0,Cruzeiro,False,False,first
-1990-06-27,Mixto,1,0,Operário-MS,False,False,first
-1990-06-27,Coritiba,0,0,São José-SP,False,False,first
-1990-06-27,São Paulo,2,0,União Bandeirante-PR,False,False,first
-1990-06-27,Sergipe-SE,1,1,Bahia,False,False,first
-1990-06-27,Botafogo,2,1,Desportiva,False,False,first
-1990-06-27,Vitória,0,1,Taguatinga-DF,False,False,first
-1990-06-27,Remo,1,1,Moto Club,False,False,first
-1990-06-27,América-RN,0,1,Santa Cruz-PE,False,False,first
-1990-06-27,Ceará,1,0,River,False,False,first
-1990-06-27,Náutico-PE,2,0,Treze,False,False,first
-1990-07-04,Criciúma,2,0,Internacional,False,False,first
-1990-07-05,Grêmio,3,1,Joinville,False,False,first
-1990-07-05,Capelense,0,4,Flamengo-RJ,False,False,first
-1990-07-10,Flamengo-RJ,2,0,Taguatinga-DF,False,False,round16
-1990-07-10,Ceará,0,0,Náutico-PE,False,False,round16
-1990-07-11,Rio Negro-AM,0,1,Atlético-MG,False,False,round16
-1990-07-11,Operário-MS,0,1,Goiás,False,False,round16
-1990-07-11,Santa Cruz-PE,0,0,Remo,False,False,round16
-1990-07-12,Bahia,1,0,Botafogo,False,False,round16
-1990-08-02,Grêmio,1,1,São Paulo,False,False,round16
-1990-08-08,Coritiba,0,1,Criciúma,False,False,round16
-1990-07-15,Atlético-MG,2,0,Rio Negro-AM,False,False,round16
-1990-07-15,Goiás,5,0,Operário-MS,False,False,round16
-1990-07-15,Botafogo,1,1,Bahia,False,False,round16
-1990-07-15,Taguatinga-DF,1,1,Flamengo-RJ,False,False,round16
-1990-07-15,Náutico-PE,3,0,Ceará,False,False,round16
-1990-08-05,São Paulo,0,0,Grêmio,False,False,round16
-1990-08-10,Remo,1,0,Santa Cruz-PE,False,False,round16
-1990-08-12,Criciúma,0,0,Coritiba,False,False,round16
-1990-07-22,Atlético-MG,0,0,Goiás,False,False,quarter
-1990-07-25,Bahia,1,1,Flamengo-RJ,False,False,quarter
-1990-08-22,Criciúma,2,0,São Paulo,False,False,quarter
-1990-08-29,Remo,3,1,Náutico-PE,False,False,quarter
-1990-07-28,Flamengo-RJ,1,0,Bahia,False,False,quarter
-1990-07-29,Goiás,4,3,Atlético-MG,False,False,quarter
-1990-09-05,São Paulo,1,0,Criciúma,False,False,quarter
-1990-09-05,Náutico-PE,4,0,Remo,False,False,quarter
-1990-09-12,Criciúma,1,0,Goiás,False,False,semi
-1990-09-13,Flamengo-RJ,3,0,Náutico-PE,False,False,semi
-1990-09-26,Goiás,1,0,Criciúma,False,False,semi
-1990-10-16,Náutico-PE,2,2,Flamengo-RJ,False,False,semi
-1990-11-01,Flamengo-RJ,1,0,Goiás,False,False,final
-1990-11-07,Goiás,0,0,Flamengo-RJ,False,False,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1990-06-19,Treze,0,1,Náutico-PE,False,False,first,Copa do Brasil,1990
+1990-06-21,Flamengo-RJ,5,1,Capelense,False,False,first,Copa do Brasil,1990
+1990-06-22,Juventus-AC,1,0,Rio Negro-AM,False,False,first,Copa do Brasil,1990
+1990-06-22,Cruzeiro,0,0,Goiás,False,False,first,Copa do Brasil,1990
+1990-06-22,Operário-MS,2,0,Mixto,False,False,first,Copa do Brasil,1990
+1990-06-22,São José-SP,1,2,Coritiba,False,False,first,Copa do Brasil,1990
+1990-06-22,Bahia,0,0,Sergipe-SE,False,False,first,Copa do Brasil,1990
+1990-06-22,Desportiva,1,1,Botafogo,False,False,first,Copa do Brasil,1990
+1990-06-22,Taguatinga-DF,1,0,Vitória,False,False,first,Copa do Brasil,1990
+1990-06-22,Moto Club,1,1,Remo,False,False,first,Copa do Brasil,1990
+1990-06-22,Santa Cruz-PE,3,1,América-RN,False,False,first,Copa do Brasil,1990
+1990-06-22,River,2,2,Ceará,False,False,first,Copa do Brasil,1990
+1990-06-23,Vila Nova-GO,0,0,Atlético-MG,False,False,first,Copa do Brasil,1990
+1990-06-23,União Bandeirante-PR,0,1,São Paulo,False,False,first,Copa do Brasil,1990
+1990-06-27,Internacional,1,0,Criciúma,False,False,first,Copa do Brasil,1990
+1990-06-27,Joinville,1,1,Grêmio,False,False,first,Copa do Brasil,1990
+1990-06-27,Rio Negro-AM,1,0,Juventus-AC,False,False,first,Copa do Brasil,1990
+1990-06-27,Atlético-MG,5,0,Vila Nova-GO,False,False,first,Copa do Brasil,1990
+1990-06-27,Goiás,4,0,Cruzeiro,False,False,first,Copa do Brasil,1990
+1990-06-27,Mixto,1,0,Operário-MS,False,False,first,Copa do Brasil,1990
+1990-06-27,Coritiba,0,0,São José-SP,False,False,first,Copa do Brasil,1990
+1990-06-27,São Paulo,2,0,União Bandeirante-PR,False,False,first,Copa do Brasil,1990
+1990-06-27,Sergipe-SE,1,1,Bahia,False,False,first,Copa do Brasil,1990
+1990-06-27,Botafogo,2,1,Desportiva,False,False,first,Copa do Brasil,1990
+1990-06-27,Vitória,0,1,Taguatinga-DF,False,False,first,Copa do Brasil,1990
+1990-06-27,Remo,1,1,Moto Club,False,False,first,Copa do Brasil,1990
+1990-06-27,América-RN,0,1,Santa Cruz-PE,False,False,first,Copa do Brasil,1990
+1990-06-27,Ceará,1,0,River,False,False,first,Copa do Brasil,1990
+1990-06-27,Náutico-PE,2,0,Treze,False,False,first,Copa do Brasil,1990
+1990-07-04,Criciúma,2,0,Internacional,False,False,first,Copa do Brasil,1990
+1990-07-05,Grêmio,3,1,Joinville,False,False,first,Copa do Brasil,1990
+1990-07-05,Capelense,0,4,Flamengo-RJ,False,False,first,Copa do Brasil,1990
+1990-07-10,Flamengo-RJ,2,0,Taguatinga-DF,False,False,round16,Copa do Brasil,1990
+1990-07-10,Ceará,0,0,Náutico-PE,False,False,round16,Copa do Brasil,1990
+1990-07-11,Rio Negro-AM,0,1,Atlético-MG,False,False,round16,Copa do Brasil,1990
+1990-07-11,Operário-MS,0,1,Goiás,False,False,round16,Copa do Brasil,1990
+1990-07-11,Santa Cruz-PE,0,0,Remo,False,False,round16,Copa do Brasil,1990
+1990-07-12,Bahia,1,0,Botafogo,False,False,round16,Copa do Brasil,1990
+1990-08-02,Grêmio,1,1,São Paulo,False,False,round16,Copa do Brasil,1990
+1990-08-08,Coritiba,0,1,Criciúma,False,False,round16,Copa do Brasil,1990
+1990-07-15,Atlético-MG,2,0,Rio Negro-AM,False,False,round16,Copa do Brasil,1990
+1990-07-15,Goiás,5,0,Operário-MS,False,False,round16,Copa do Brasil,1990
+1990-07-15,Botafogo,1,1,Bahia,False,False,round16,Copa do Brasil,1990
+1990-07-15,Taguatinga-DF,1,1,Flamengo-RJ,False,False,round16,Copa do Brasil,1990
+1990-07-15,Náutico-PE,3,0,Ceará,False,False,round16,Copa do Brasil,1990
+1990-08-05,São Paulo,0,0,Grêmio,False,False,round16,Copa do Brasil,1990
+1990-08-10,Remo,1,0,Santa Cruz-PE,False,False,round16,Copa do Brasil,1990
+1990-08-12,Criciúma,0,0,Coritiba,False,False,round16,Copa do Brasil,1990
+1990-07-22,Atlético-MG,0,0,Goiás,False,False,quarter,Copa do Brasil,1990
+1990-07-25,Bahia,1,1,Flamengo-RJ,False,False,quarter,Copa do Brasil,1990
+1990-08-22,Criciúma,2,0,São Paulo,False,False,quarter,Copa do Brasil,1990
+1990-08-29,Remo,3,1,Náutico-PE,False,False,quarter,Copa do Brasil,1990
+1990-07-28,Flamengo-RJ,1,0,Bahia,False,False,quarter,Copa do Brasil,1990
+1990-07-29,Goiás,4,3,Atlético-MG,False,False,quarter,Copa do Brasil,1990
+1990-09-05,São Paulo,1,0,Criciúma,False,False,quarter,Copa do Brasil,1990
+1990-09-05,Náutico-PE,4,0,Remo,False,False,quarter,Copa do Brasil,1990
+1990-09-12,Criciúma,1,0,Goiás,False,False,semi,Copa do Brasil,1990
+1990-09-13,Flamengo-RJ,3,0,Náutico-PE,False,False,semi,Copa do Brasil,1990
+1990-09-26,Goiás,1,0,Criciúma,False,False,semi,Copa do Brasil,1990
+1990-10-16,Náutico-PE,2,2,Flamengo-RJ,False,False,semi,Copa do Brasil,1990
+1990-11-01,Flamengo-RJ,1,0,Goiás,False,False,final,Copa do Brasil,1990
+1990-11-07,Goiás,0,0,Flamengo-RJ,False,False,final,Copa do Brasil,1990

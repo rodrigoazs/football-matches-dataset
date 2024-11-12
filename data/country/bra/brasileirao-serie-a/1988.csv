@@ -1,291 +1,291 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-1988-09-02,Bahia,1,1,Bangu,False,False,first
-1988-09-02,Vitória,0,0,América-RJ,False,False,first
-1988-09-04,Santa Cruz,0,1,Sport,False,False,first
-1988-09-04,Goiás,0,1,Guarani,False,False,first
-1988-09-04,Palmeiras,1,1,Santos,False,False,first
-1988-09-04,Cruzeiro,0,0,Atlético-MG,False,False,first
-1988-09-04,Botafogo,1,1,Fluminense,False,False,first
-1988-09-04,Vasco da Gama,1,0,Flamengo,False,False,first
-1988-09-04,Corinthians,0,1,São Paulo,False,False,first
-1988-09-04,Grêmio,1,0,Internacional,False,False,first
-1988-09-04,Coritiba,1,0,Atlético-PR,False,False,first
-1988-09-04,Criciúma,1,1,Portuguesa-SP,False,False,first
-1988-09-07,Goiás,0,2,Vasco da Gama,False,False,first
-1988-09-07,Sport,0,0,Cruzeiro,False,False,first
-1988-09-07,Grêmio,3,0,São Paulo,False,False,first
-1988-09-07,Corinthians,0,0,Fluminense,False,False,first
-1988-09-07,Portuguesa-SP,3,1,Coritiba,False,False,first
-1988-09-07,Palmeiras,2,1,Santa Cruz,False,False,first
-1988-09-07,América-RJ,1,2,Flamengo,False,False,first
-1988-09-07,Bahia,1,0,Vitória,False,False,first
-1988-09-07,Atlético-MG,1,0,Botafogo,False,False,first
-1988-09-07,Criciúma,1,3,Internacional,False,False,first
-1988-09-07,Atlético-PR,1,1,Santos,False,False,first
-1988-11-02,Bangu,0,1,Guarani,False,False,first
-1988-09-11,Flamengo,1,0,Corinthians,False,False,first
-1988-09-11,Guarani,1,0,Atlético-MG,False,False,first
-1988-09-11,Fluminense,3,0,Bahia,False,False,first
-1988-09-11,Internacional,0,0,Santos,False,False,first
-1988-09-11,Cruzeiro,0,0,Atlético-PR,False,False,first
-1988-09-11,Vitória,2,0,Santa Cruz,False,False,first
-1988-09-11,Vasco da Gama,4,2,Portuguesa-SP,False,False,first
-1988-09-11,Sport,0,0,Grêmio,False,False,first
-1988-09-11,São Paulo,1,0,Botafogo,False,False,first
-1988-09-11,Palmeiras,1,0,Criciúma,False,False,first
-1988-09-11,Bangu,2,0,América-RJ,False,False,first
-1988-09-11,Coritiba,0,0,Goiás,False,False,first
-1988-09-17,Corinthians,2,1,Vitória,False,False,first
-1988-09-17,Santos,2,0,Bangu,False,False,first
-1988-09-17,Fluminense,2,0,Criciúma,False,False,first
-1988-09-17,América-RJ,0,1,Portuguesa-SP,False,False,first
-1988-09-18,Bahia,1,0,Flamengo,False,False,first
-1988-09-18,Santa Cruz,3,0,Goiás,False,False,first
-1988-09-18,São Paulo,0,0,Coritiba,False,False,first
-1988-09-18,Atlético-PR,0,1,Vasco da Gama,False,False,first
-1988-09-18,Internacional,2,2,Cruzeiro,False,False,first
-1988-09-18,Botafogo,1,1,Palmeiras,False,False,first
-1988-09-18,Guarani,0,0,Sport,False,False,first
-1988-09-18,Atlético-MG,1,0,Grêmio,False,False,first
-1988-09-24,Botafogo,0,0,Internacional,False,False,first
-1988-09-24,São Paulo,1,0,América-RJ,False,False,first
-1988-09-25,Palmeiras,2,3,Vasco da Gama,False,False,first
-1988-09-25,Grêmio,1,2,Fluminense,False,False,first
-1988-09-25,Flamengo,2,2,Santa Cruz,False,False,first
-1988-09-25,Portuguesa-SP,1,0,Santos,False,False,first
-1988-09-25,Cruzeiro,1,0,Bangu,False,False,first
-1988-09-25,Criciúma,0,1,Atlético-PR,False,False,first
-1988-09-25,Goiás,2,2,Bahia,False,False,first
-1988-09-25,Sport,2,0,Corinthians,False,False,first
-1988-09-25,Vitória,1,1,Guarani,False,False,first
-1988-09-25,Coritiba,1,2,Atlético-MG,False,False,first
-1988-09-02,São Paulo,1,0,Santos,False,False,first
-1988-10-01,Guarani,3,1,Palmeiras,False,False,first
-1988-10-01,Fluminense,2,1,Santa Cruz,False,False,first
-1988-10-01,Portuguesa-SP,5,2,Cruzeiro,False,False,first
-1988-10-02,Flamengo,2,2,Botafogo,False,False,first
-1988-10-02,Atlético-MG,1,1,Bahia,False,False,first
-1988-10-02,Bangu,0,2,Grêmio,False,False,first
-1988-10-02,Internacional,2,1,Coritiba,False,False,first
-1988-10-02,Vitória,1,0,Vasco da Gama,False,False,first
-1988-10-02,Criciúma,1,1,Goiás,False,False,first
-1988-10-02,América-RJ,1,1,Sport,False,False,first
-1988-10-02,Atlético-PR,0,0,Corinthians,False,False,first
-1988-10-08,Fluminense,1,0,Cruzeiro,False,False,first
-1988-10-08,Santos,1,1,Vitória,False,False,first
-1988-10-08,América-RJ,0,0,Goiás,False,False,first
-1988-10-08,Atlético-PR,1,1,Guarani,False,False,first
-1988-10-09,Flamengo,0,0,Grêmio,False,False,first
-1988-10-09,Santa Cruz,1,0,São Paulo,False,False,first
-1988-10-09,Vasco da Gama,1,2,Internacional,False,False,first
-1988-10-09,Botafogo,0,1,Portuguesa-SP,False,False,first
-1988-10-09,Bangu,0,0,Coritiba,False,False,first
-1988-10-09,Atlético-MG,0,1,Criciúma,False,False,first
-1988-10-09,Bahia,1,1,Sport,False,False,first
-1988-10-09,Corinthians,0,2,Palmeiras,False,False,first
-1988-10-15,Goiás,2,1,Botafogo,False,False,first
-1988-10-15,Guarani,1,0,São Paulo,False,False,first
-1988-10-15,Grêmio,2,0,Palmeiras,False,False,first
-1988-10-16,Corinthians,0,1,Atlético-MG,False,False,first
-1988-10-16,Flamengo,1,0,Santos,False,False,first
-1988-10-16,Bahia,2,0,Atlético-PR,False,False,first
-1988-10-16,Coritiba,0,1,Fluminense,False,False,first
-1988-10-16,Cruzeiro,5,1,Vitória,False,False,first
-1988-10-16,Vasco da Gama,1,1,Bangu,False,False,first
-1988-10-16,Santa Cruz,1,0,Portuguesa-SP,False,False,first
-1988-10-16,Internacional,2,0,América-RJ,False,False,first
-1988-10-16,Sport,2,1,Criciúma,False,False,first
-1988-10-22,Sport,1,0,Botafogo,False,False,first
-1988-10-22,São Paulo,0,2,Bahia,False,False,first
-1988-10-23,Santos,0,1,Goiás,False,False,first
-1988-10-23,Palmeiras,2,0,Cruzeiro,False,False,first
-1988-10-23,Corinthians,1,1,Portuguesa-SP,False,False,first
-1988-10-23,Criciúma,0,0,Bangu,False,False,first
-1988-10-23,Guarani,1,5,Flamengo,False,False,first
-1988-10-23,Internacional,2,0,Santa Cruz,False,False,first
-1988-10-23,Fluminense,0,0,Vasco da Gama,False,False,first
-1988-10-23,Atlético-MG,2,1,América-RJ,False,False,first
-1988-10-23,Atlético-PR,1,2,Grêmio,False,False,first
-1988-10-23,Vitória,1,0,Coritiba,False,False,first
-1988-10-19,Santa Cruz,1,1,Atlético-PR,False,False,first
-1988-10-28,Flamengo,3,0,Criciúma,False,False,first
-1988-10-29,Atlético-MG,1,0,Santos,False,False,first
-1988-10-29,Botafogo,1,0,Bangu,False,False,first
-1988-10-30,Grêmio,1,0,Vitória,False,False,first
-1988-10-30,Portuguesa-SP,1,0,Guarani,False,False,first
-1988-10-30,Corinthians,2,2,Internacional,False,False,first
-1988-10-30,Vasco da Gama,1,1,São Paulo,False,False,first
-1988-10-30,Fluminense,2,0,América-RJ,False,False,first
-1988-10-30,Bahia,1,0,Palmeiras,False,False,first
-1988-10-30,Coritiba,1,0,Sport,False,False,first
-1988-10-30,Goiás,3,0,Cruzeiro,False,False,first
-1988-10-26,Bangu,2,0,Santa Cruz,False,False,first
-1988-11-05,Fluminense,0,0,Guarani,False,False,first
-1988-11-05,Vitória,1,2,Botafogo,False,False,first
-1988-11-06,São Paulo,1,0,Criciúma,False,False,first
-1988-11-06,Santos,3,0,Sport,False,False,first
-1988-11-06,Palmeiras,0,1,Coritiba,False,False,first
-1988-11-06,Portuguesa-SP,1,1,Grêmio,False,False,first
-1988-11-06,Vasco da Gama,2,0,Atlético-MG,False,False,first
-1988-11-06,Cruzeiro,0,0,Flamengo,False,False,first
-1988-11-06,Internacional,3,0,Bahia,False,False,first
-1988-11-06,Goiás,0,0,Corinthians,False,False,first
-1988-11-06,Atlético-PR,3,0,América-RJ,False,False,first
-1988-11-02,Criciúma,0,1,Vitória,False,False,first
-1988-11-09,Coritiba,2,2,Flamengo,False,False,first
-1988-11-09,Bangu,2,1,Corinthians,False,False,first
-1988-11-09,América-RJ,1,0,Palmeiras,False,False,first
-1988-11-09,Botafogo,0,2,Atlético-PR,False,False,first
-1988-11-09,Cruzeiro,0,1,São Paulo,False,False,first
-1988-11-09,Grêmio,2,0,Goiás,False,False,first
-1988-11-09,Santa Cruz,1,1,Atlético-MG,False,False,first
-1988-11-09,Sport,2,3,Vasco da Gama,False,False,first
-1988-11-09,Portuguesa-SP,0,0,Bahia,False,False,first
-1988-11-09,Santos,2,1,Fluminense,False,False,first
-1988-11-09,Guarani,0,0,Internacional,False,False,first
-1988-11-12,Fluminense,0,2,Atlético-PR,False,False,first
-1988-11-13,Palmeiras,1,1,São Paulo,False,False,first
-1988-11-13,Internacional,3,1,Flamengo,False,False,first
-1988-11-13,Goiás,6,1,Vitória,False,False,first
-1988-11-13,Sport,1,0,Bangu,False,False,first
-1988-11-13,Atlético-MG,0,3,Portuguesa-SP,False,False,first
-1988-11-17,Portuguesa-SP,1,0,Goiás,False,False,first
-1988-11-17,São Paulo,2,0,Internacional,False,False,first
-1988-11-17,Vitória,1,1,Atlético-MG,False,False,first
-1988-11-17,Bangu,0,0,Fluminense,False,False,first
-1988-11-17,Flamengo,1,1,Palmeiras,False,False,first
-1988-11-17,Atlético-PR,0,0,Sport,False,False,first
-1988-11-20,Vitória,2,2,São Paulo,False,False,first
-1988-11-20,Palmeiras,1,1,Atlético-PR,False,False,first
-1988-11-20,Internacional,2,1,Portuguesa-SP,False,False,first
-1988-11-20,Atlético-MG,2,2,Fluminense,False,False,first
-1988-11-20,Flamengo,2,1,Sport,False,False,first
-1988-11-20,Goiás,1,1,Bangu,False,False,first
-1988-11-23,Fluminense,3,0,Portuguesa-SP,False,False,first
-1988-11-23,Goiás,0,0,Internacional,False,False,first
-1988-11-24,Sport,1,0,Palmeiras,False,False,first
-1988-11-24,Atlético-MG,3,1,Bangu,False,False,first
-1988-11-24,Atlético-PR,1,0,Vitória,False,False,first
-1988-11-24,São Paulo,2,1,Flamengo,False,False,first
-1988-11-26,Goiás,2,0,Fluminense,False,False,first
-1988-11-27,Portuguesa-SP,1,0,Palmeiras,False,False,first
-1988-11-27,São Paulo,3,0,Sport,False,False,first
-1988-11-27,Flamengo,0,1,Vitória,False,False,first
-1988-11-27,Internacional,2,2,Atlético-MG,False,False,first
-1988-11-27,Bangu,2,1,Atlético-PR,False,False,first
-1988-11-30,Atlético-MG,0,0,Sport,False,False,first
-1988-11-30,Vitória,1,2,Internacional,False,False,first
-1988-11-30,Palmeiras,2,0,Goiás,False,False,first
-1988-11-30,Fluminense,0,1,Flamengo,False,False,first
-1988-12-01,Bangu,0,0,São Paulo,False,False,first
-1988-12-01,Atlético-PR,0,0,Portuguesa-SP,False,False,first
-1988-12-03,Vitória,1,0,Fluminense,False,False,first
-1988-12-03,Atlético-MG,1,0,Palmeiras,False,False,first
-1988-12-04,São Paulo,0,1,Portuguesa-SP,False,False,first
-1988-12-04,Sport,1,0,Goiás,False,False,first
-1988-12-04,Flamengo,2,1,Atlético-PR,False,False,first
-1988-12-04,Internacional,1,1,Bangu,False,False,first
-1988-12-07,Sport,2,1,Fluminense,False,False,first
-1988-12-08,Palmeiras,2,1,Internacional,False,False,first
-1988-12-08,Portuguesa-SP,0,2,Flamengo,False,False,first
-1988-12-08,Atlético-PR,1,1,São Paulo,False,False,first
-1988-12-08,Bangu,1,1,Vitória,False,False,first
-1988-12-08,Goiás,1,1,Atlético-MG,False,False,first
-1988-12-11,Portuguesa-SP,1,0,Sport,False,False,first
-1988-12-11,Palmeiras,1,0,Vitória,False,False,first
-1988-12-11,São Paulo,2,2,Atlético-MG,False,False,first
-1988-12-11,Atlético-PR,1,1,Goiás,False,False,first
-1988-12-11,Flamengo,2,0,Bangu,False,False,first
-1988-12-11,Fluminense,2,2,Internacional,False,False,first
-1988-12-12,Fluminense,1,0,São Paulo,False,False,first
-1988-12-15,Internacional,3,3,Sport,False,False,first
-1988-12-15,Goiás,0,0,Flamengo,False,False,first
-1988-12-15,Vitória,3,2,Portuguesa-SP,False,False,first
-1988-12-15,Bangu,1,1,Palmeiras,False,False,first
-1988-12-15,Atlético-MG,0,0,Atlético-PR,False,False,first
-1988-12-18,Atlético-PR,0,1,Internacional,False,False,first
-1988-12-18,Palmeiras,0,0,Fluminense,False,False,first
-1988-12-18,Portuguesa-SP,1,0,Bangu,False,False,first
-1988-12-18,Flamengo,2,0,Atlético-MG,False,False,first
-1988-12-18,Sport,1,0,Vitória,False,False,first
-1988-12-18,São Paulo,1,1,Goiás,False,False,first
-1988-11-12,Santos,0,0,Guarani,False,False,first
-1988-11-12,Santa Cruz,1,1,Vasco da Gama,False,False,first
-1988-11-13,Botafogo,0,2,Corinthians,False,False,first
-1988-11-13,América-RJ,1,1,Grêmio,False,False,first
-1988-11-13,Coritiba,0,0,Criciúma,False,False,first
-1988-11-13,Bahia,2,1,Cruzeiro,False,False,first
-1988-11-16,Corinthians,1,0,Coritiba,False,False,first
-1988-11-16,Botafogo,1,0,Santa Cruz,False,False,first
-1988-11-16,Criciúma,0,1,Santos,False,False,first
-1988-11-16,Vasco da Gama,0,0,Bahia,False,False,first
-1988-11-19,Cruzeiro,3,0,Grêmio,False,False,first
-1988-11-19,Guarani,2,0,América-RJ,False,False,first
-1988-11-19,Coritiba,3,0,Botafogo,False,False,first
-1988-11-19,Vasco da Gama,4,0,Santos,False,False,first
-1988-11-20,Guarani,0,0,Bahia,False,False,first
-1988-11-20,Santa Cruz,2,2,Criciúma,False,False,first
-1988-11-20,América-RJ,1,2,Cruzeiro,False,False,first
-1988-11-20,Grêmio,0,0,Corinthians,False,False,first
-1988-11-23,Grêmio,0,2,Vasco da Gama,False,False,first
-1988-11-23,Santos,2,0,América-RJ,False,False,first
-1988-11-23,Guarani,1,3,Coritiba,False,False,first
-1988-11-24,Bahia,0,1,Botafogo,False,False,first
-1988-11-24,Criciúma,0,0,Cruzeiro,False,False,first
-1988-11-24,Corinthians,2,0,Santa Cruz,False,False,first
-1988-11-26,Coritiba,2,0,Santos,False,False,first
-1988-11-27,Bahia,2,0,Corinthians,False,False,first
-1988-11-27,Santa Cruz,1,0,Guarani,False,False,first
-1988-11-27,Cruzeiro,0,0,Vasco da Gama,False,False,first
-1988-11-27,Botafogo,1,0,Grêmio,False,False,first
-1988-11-27,América-RJ,1,1,Criciúma,False,False,first
-1988-12-01,Criciúma,0,1,Bahia,False,False,first
-1988-12-01,Santa Cruz,0,0,Coritiba,False,False,first
-1988-12-01,Vasco da Gama,3,0,Botafogo,False,False,first
-1988-12-01,Santos,1,3,Cruzeiro,False,False,first
-1988-12-01,Corinthians,3,2,América-RJ,False,False,first
-1988-12-01,Grêmio,2,1,Guarani,False,False,first
-1988-12-04,Santos,2,1,Grêmio,False,False,first
-1988-12-04,Corinthians,0,0,Vasco da Gama,False,False,first
-1988-12-04,Guarani,4,1,Criciúma,False,False,first
-1988-12-04,Coritiba,2,0,Bahia,False,False,first
-1988-12-04,América-RJ,1,0,Santa Cruz,False,False,first
-1988-12-04,Botafogo,1,1,Cruzeiro,False,False,first
-1988-12-07,Corinthians,3,0,Criciúma,False,False,first
-1988-12-07,Grêmio,3,2,Santa Cruz,False,False,first
-1988-12-07,Bahia,5,1,Santos,False,False,first
-1988-12-07,Botafogo,0,0,América-RJ,False,False,first
-1988-12-08,Vasco da Gama,1,0,Coritiba,False,False,first
-1988-12-08,Cruzeiro,1,0,Guarani,False,False,first
-1988-12-10,Santa Cruz,0,0,Santos,False,False,first
-1988-12-10,Criciúma,0,2,Botafogo,False,False,first
-1988-12-11,Guarani,0,0,Vasco da Gama,False,False,first
-1988-12-11,Bahia,3,1,Grêmio,False,False,first
-1988-12-11,Cruzeiro,1,1,Corinthians,False,False,first
-1988-12-11,América-RJ,0,1,Coritiba,False,False,first
-1988-12-14,Corinthians,1,2,Santos,False,False,first
-1988-12-14,Botafogo,3,0,Guarani,False,False,first
-1988-12-15,América-RJ,0,1,Vasco da Gama,False,False,first
-1988-12-15,Criciúma,1,1,Grêmio,False,False,first
-1988-12-15,Coritiba,0,2,Cruzeiro,False,False,first
-1988-12-15,Santa Cruz,2,1,Bahia,False,False,first
-1988-12-18,Guarani,2,2,Corinthians,False,False,first
-1988-12-18,Santos,0,0,Botafogo,False,False,first
-1988-12-18,Cruzeiro,2,0,Santa Cruz,False,False,first
-1988-12-18,Grêmio,1,1,Coritiba,False,False,first
-1988-12-18,Vasco da Gama,3,2,Criciúma,False,False,first
-1988-12-18,Bahia,2,1,América-RJ,False,False,first
-1989-01-28,Grêmio,0,0,Flamengo,False,False,quarter
-1989-02-02,Flamengo,0,1,Grêmio,False,False,quarter
-1989-01-29,Sport,1,1,Bahia,False,False,quarter
-1989-02-01,Bahia,0,0,Sport,False,False,quarter
-1989-01-29,Fluminense,1,0,Vasco da Gama,False,False,quarter
-1989-02-01,Vasco da Gama,2,1,Fluminense,False,False,quarter
-1989-01-29,Cruzeiro,0,0,Internacional,False,False,quarter
-1989-02-01,Internacional,2,0,Cruzeiro,False,False,quarter
-1989-02-09,Grêmio,0,0,Internacional,False,False,semi
-1989-02-12,Internacional,2,1,Grêmio,False,False,semi
-1989-02-09,Fluminense,0,0,Bahia,False,False,semi
-1989-02-12,Bahia,2,1,Fluminense,False,False,semi
-1989-02-15,Bahia,2,1,Internacional,False,False,final
-1989-02-19,Internacional,0,0,Bahia,False,False,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1988-09-02,Bahia,1,1,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-09-02,Vitória,0,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Santa Cruz,0,1,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Goiás,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Palmeiras,1,1,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Cruzeiro,0,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Botafogo,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Vasco da Gama,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Corinthians,0,1,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Grêmio,1,0,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Coritiba,1,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-09-04,Criciúma,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Goiás,0,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Sport,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Grêmio,3,0,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Corinthians,0,0,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Portuguesa-SP,3,1,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Palmeiras,2,1,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,América-RJ,1,2,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Bahia,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Atlético-MG,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Criciúma,1,3,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-09-07,Atlético-PR,1,1,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-11-02,Bangu,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Flamengo,1,0,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Guarani,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Fluminense,3,0,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Internacional,0,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Cruzeiro,0,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Vitória,2,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Vasco da Gama,4,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Sport,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,São Paulo,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Palmeiras,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Bangu,2,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-09-11,Coritiba,0,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-09-17,Corinthians,2,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-09-17,Santos,2,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-09-17,Fluminense,2,0,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-09-17,América-RJ,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Bahia,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Santa Cruz,3,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,São Paulo,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Atlético-PR,0,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Internacional,2,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Botafogo,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Guarani,0,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-09-18,Atlético-MG,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-09-24,Botafogo,0,0,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-09-24,São Paulo,1,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Palmeiras,2,3,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Grêmio,1,2,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Flamengo,2,2,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Portuguesa-SP,1,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Cruzeiro,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Criciúma,0,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Goiás,2,2,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Sport,2,0,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Vitória,1,1,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-09-25,Coritiba,1,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-09-02,São Paulo,1,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-10-01,Guarani,3,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-10-01,Fluminense,2,1,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-10-01,Portuguesa-SP,5,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Flamengo,2,2,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Atlético-MG,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Bangu,0,2,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Internacional,2,1,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Vitória,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Criciúma,1,1,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,América-RJ,1,1,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-10-02,Atlético-PR,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-10-08,Fluminense,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-10-08,Santos,1,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-10-08,América-RJ,0,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-10-08,Atlético-PR,1,1,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Flamengo,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Santa Cruz,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Vasco da Gama,1,2,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Botafogo,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Bangu,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Atlético-MG,0,1,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Bahia,1,1,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-10-09,Corinthians,0,2,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-10-15,Goiás,2,1,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-15,Guarani,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-15,Grêmio,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Corinthians,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Flamengo,1,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Bahia,2,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Coritiba,0,1,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Cruzeiro,5,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Vasco da Gama,1,1,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Santa Cruz,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Internacional,2,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-10-16,Sport,2,1,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-10-22,Sport,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-22,São Paulo,0,2,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Santos,0,1,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Palmeiras,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Corinthians,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Criciúma,0,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Guarani,1,5,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Internacional,2,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Fluminense,0,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Atlético-MG,2,1,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Atlético-PR,1,2,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-10-23,Vitória,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-10-19,Santa Cruz,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-10-28,Flamengo,3,0,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-10-29,Atlético-MG,1,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-10-29,Botafogo,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Grêmio,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Portuguesa-SP,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Corinthians,2,2,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Vasco da Gama,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Fluminense,2,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Bahia,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Coritiba,1,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-10-30,Goiás,3,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-10-26,Bangu,2,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-11-05,Fluminense,0,0,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-11-05,Vitória,1,2,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,São Paulo,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Santos,3,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Palmeiras,0,1,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Portuguesa-SP,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Vasco da Gama,2,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Cruzeiro,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Internacional,3,0,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Goiás,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-11-06,Atlético-PR,3,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-11-02,Criciúma,0,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Coritiba,2,2,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Bangu,2,1,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,América-RJ,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Botafogo,0,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Cruzeiro,0,1,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Grêmio,2,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Santa Cruz,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Sport,2,3,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Portuguesa-SP,0,0,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Santos,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-11-09,Guarani,0,0,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-11-12,Fluminense,0,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Palmeiras,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Internacional,3,1,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Goiás,6,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Sport,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Atlético-MG,0,3,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-11-17,Portuguesa-SP,1,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-11-17,São Paulo,2,0,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-11-17,Vitória,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-11-17,Bangu,0,0,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-11-17,Flamengo,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-11-17,Atlético-PR,0,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Vitória,2,2,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Palmeiras,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Internacional,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Atlético-MG,2,2,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Flamengo,2,1,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Goiás,1,1,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-11-23,Fluminense,3,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-11-23,Goiás,0,0,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,Sport,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,Atlético-MG,3,1,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,Atlético-PR,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,São Paulo,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-26,Goiás,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Portuguesa-SP,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,São Paulo,3,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Flamengo,0,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Internacional,2,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Bangu,2,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-11-30,Atlético-MG,0,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-11-30,Vitória,1,2,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-11-30,Palmeiras,2,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-11-30,Fluminense,0,1,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Bangu,0,0,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Atlético-PR,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-12-03,Vitória,1,0,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-12-03,Atlético-MG,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,São Paulo,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Sport,1,0,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Flamengo,2,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Internacional,1,1,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-12-07,Sport,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Palmeiras,2,1,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Portuguesa-SP,0,2,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Atlético-PR,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Bangu,1,1,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Goiás,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Portuguesa-SP,1,0,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Palmeiras,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,São Paulo,2,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Atlético-PR,1,1,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Flamengo,2,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Fluminense,2,2,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-12-12,Fluminense,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Internacional,3,3,Sport,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Goiás,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Vitória,3,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Bangu,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Atlético-MG,0,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Atlético-PR,0,1,Internacional,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Palmeiras,0,0,Fluminense,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Portuguesa-SP,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Flamengo,2,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Sport,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,São Paulo,1,1,Goiás,False,False,first,Brasileirão Série A 2024,1988
+1988-11-12,Santos,0,0,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-11-12,Santa Cruz,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Botafogo,0,2,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,América-RJ,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Coritiba,0,0,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-11-13,Bahia,2,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-11-16,Corinthians,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-11-16,Botafogo,1,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-11-16,Criciúma,0,1,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-11-16,Vasco da Gama,0,0,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-11-19,Cruzeiro,3,0,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-11-19,Guarani,2,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-11-19,Coritiba,3,0,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-19,Vasco da Gama,4,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Guarani,0,0,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Santa Cruz,2,2,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,América-RJ,1,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-11-20,Grêmio,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-11-23,Grêmio,0,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-11-23,Santos,2,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-11-23,Guarani,1,3,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,Bahia,0,1,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,Criciúma,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-11-24,Corinthians,2,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-11-26,Coritiba,2,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Bahia,2,0,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Santa Cruz,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Cruzeiro,0,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,Botafogo,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-11-27,América-RJ,1,1,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Criciúma,0,1,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Santa Cruz,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Vasco da Gama,3,0,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Santos,1,3,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Corinthians,3,2,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-12-01,Grêmio,2,1,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Santos,2,1,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Corinthians,0,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Guarani,4,1,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Coritiba,2,0,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,América-RJ,1,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-12-04,Botafogo,1,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-12-07,Corinthians,3,0,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-12-07,Grêmio,3,2,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-12-07,Bahia,5,1,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-12-07,Botafogo,0,0,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Vasco da Gama,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-12-08,Cruzeiro,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-12-10,Santa Cruz,0,0,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-12-10,Criciúma,0,2,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Guarani,0,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Bahia,3,1,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,Cruzeiro,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-12-11,América-RJ,0,1,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-12-14,Corinthians,1,2,Santos,False,False,first,Brasileirão Série A 2024,1988
+1988-12-14,Botafogo,3,0,Guarani,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,América-RJ,0,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Criciúma,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Coritiba,0,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1988
+1988-12-15,Santa Cruz,2,1,Bahia,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Guarani,2,2,Corinthians,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Santos,0,0,Botafogo,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Cruzeiro,2,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Grêmio,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Vasco da Gama,3,2,Criciúma,False,False,first,Brasileirão Série A 2024,1988
+1988-12-18,Bahia,2,1,América-RJ,False,False,first,Brasileirão Série A 2024,1988
+1989-01-28,Grêmio,0,0,Flamengo,False,False,quarter,Brasileirão Série A 2024,1988
+1989-02-02,Flamengo,0,1,Grêmio,False,False,quarter,Brasileirão Série A 2024,1988
+1989-01-29,Sport,1,1,Bahia,False,False,quarter,Brasileirão Série A 2024,1988
+1989-02-01,Bahia,0,0,Sport,False,False,quarter,Brasileirão Série A 2024,1988
+1989-01-29,Fluminense,1,0,Vasco da Gama,False,False,quarter,Brasileirão Série A 2024,1988
+1989-02-01,Vasco da Gama,2,1,Fluminense,False,False,quarter,Brasileirão Série A 2024,1988
+1989-01-29,Cruzeiro,0,0,Internacional,False,False,quarter,Brasileirão Série A 2024,1988
+1989-02-01,Internacional,2,0,Cruzeiro,False,False,quarter,Brasileirão Série A 2024,1988
+1989-02-09,Grêmio,0,0,Internacional,False,False,semi,Brasileirão Série A 2024,1988
+1989-02-12,Internacional,2,1,Grêmio,False,False,semi,Brasileirão Série A 2024,1988
+1989-02-09,Fluminense,0,0,Bahia,False,False,semi,Brasileirão Série A 2024,1988
+1989-02-12,Bahia,2,1,Fluminense,False,False,semi,Brasileirão Série A 2024,1988
+1989-02-15,Bahia,2,1,Internacional,False,False,final,Brasileirão Série A 2024,1988
+1989-02-19,Internacional,0,0,Bahia,False,False,final,Brasileirão Série A 2024,1988

@@ -1,118 +1,118 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,stage
-1999-01-28,Santa Cruz-PE,1,0,Nautico-PE,False,False,first
-1999-02-18,CSA,0,4,São Paulo,False,False,first
-1999-02-24,Ypiranga-AP,3,0,Picos-PI,False,False,first
-1999-03-04,Picos-PI,0,1,Ypiranga-AP,False,False,first
-1999-03-03,Comercial-MS,0,1,Criciúma,False,False,first
-1999-03-10,Criciúma,3,1,Comercial-MS,False,False,first
-1999-02-03,Paysandu,2,3,Botafogo,False,False,first
-1999-02-18,Botafogo,2,2,Paysandu,False,False,first
-1999-03-04,Rio Branco-ES,1,1,Portuguesa-SP,False,False,first
-1999-03-11,Portuguesa-SP,4,0,Rio Branco-ES,False,False,first
-1999-02-20,Independência-AC,3,1,Roraima-RR,False,False,first
-1999-03-03,Roraima-RR,1,1,Independência-AC,False,False,first
-1999-03-03,Sampaio Corrêa-MA,1,3,Atlético-PR,False,False,first
-1999-03-04,Caxias,3,2,Cruzeiro,False,False,first
-1999-03-10,Cruzeiro,5,0,Caxias,False,False,first
-1999-02-24,Vila Nova-GO,2,1,Ceará,False,False,first
-1999-03-04,Ceará,0,0,Vila Nova-GO,False,False,first
-1999-03-03,ABC,1,2,Grêmio,False,False,first
-1999-03-11,Grêmio,3,3,ABC,False,False,first
-1999-02-18,Sergipe-SE,2,0,Ponte Preta-SP,False,False,first
-1999-02-24,Ponte Preta-SP,5,2,Sergipe-SE,False,False,first
-1999-02-28,Botafogo-PB,3,3,Flamengo-RJ,False,False,first
-1999-03-10,Flamengo-RJ,2,1,Botafogo-PB,False,False,first
-1999-02-10,São Raimundo-AM,1,2,Palmeiras,False,False,first
-1999-02-21,Palmeiras,3,1,São Raimundo-AM,False,False,first
-1999-02-24,Interporto,1,3,Gama,False,False,first
-1999-02-10,Flamengo-PI,0,1,Vitória,False,False,first
-1999-02-24,Vitória,5,2,Flamengo-PI,False,False,first
-1999-02-10,Porto-PE,0,1,América-MG,False,False,first
-1999-02-24,América-MG,2,0,Porto-PE,False,False,first
-1999-02-03,Ubiratan-MT,0,1,Corinthians,False,False,first
-1999-02-20,Corinthians,6,2,Ubiratan-MT,False,False,first
-1999-02-24,Treze,2,3,Santa Cruz-PE,False,False,first
-1999-03-10,Santa Cruz-PE,2,4,Treze,False,False,first
-1999-03-04,Guará,1,5,Juventude,False,False,first
-1999-03-03,Lagartense-SE,0,1,Fluminense,False,False,first
-1999-03-10,Fluminense,2,1,Lagartense-SE,False,False,first
-1999-03-03,Fortaleza,1,3,Coritiba,False,False,first
-1999-03-04,Figueirense-SC,1,2,Avaí,False,False,first
-1999-03-10,Avaí,0,0,Figueirense-SC,False,False,first
-1999-02-24,Botafogo-SP,1,0,Bahia,False,False,first
-1999-03-10,Bahia,5,0,Botafogo-SP,False,False,first
-1999-02-10,Linhares-ES,0,3,Atlético-MG,False,False,first
-1999-03-03,Remo,1,1,Guarani-SP,False,False,first
-1999-03-10,Guarani-SP,3,1,Remo,False,False,first
-1999-03-04,Nacional-AM,0,2,Sport,False,False,first
-1999-03-03,Camaçari,2,0,Paraná-PR,False,False,first
-1999-03-10,Paraná-PR,2,1,Camaçari,False,False,first
-1999-03-04,Villa Nova-MG,1,1,Internacional,False,False,first
-1999-03-10,Internacional,4,1,Villa Nova-MG,False,False,first
-1999-02-10,Sinop-MT,0,1,Santos,False,False,first
-1999-03-10,Santos,6,0,Sinop-MT,False,False,first
-1999-02-24,Moto Club,3,2,Goiás,False,False,first
-1999-03-03,Goiás,4,0,Moto Club,False,False,first
-1999-02-24,CRB,1,1,América-RN,False,False,first
-1999-03-03,América-RN,2,1,CRB,False,False,first
-1999-02-03,Ji-Paraná,2,4,Vasco da Gama,False,False,first
-1999-03-10,Ypiranga-AP,1,4,São Paulo,False,False,second
-1999-03-17,Criciúma,2,1,Botafogo,False,False,second
-1999-04-08,Botafogo,2,0,Criciúma,False,False,second
-1999-03-17,Independência-AC,1,3,Portuguesa-SP,False,False,second
-1999-03-24,Atlético-PR,0,0,Cruzeiro,False,False,second
-1999-03-31,Cruzeiro,3,3,Atlético-PR,False,False,second
-1999-03-24,Vila Nova-GO,2,1,Grêmio,False,False,second
-1999-03-31,Grêmio,4,2,Vila Nova-GO,False,False,second
-1999-03-17,Ponte Preta-SP,0,1,Flamengo-RJ,False,False,second
-1999-04-07,Flamengo-RJ,3,0,Ponte Preta-SP,False,False,second
-1999-03-19,Gama,0,1,Palmeiras,False,False,second
-1999-03-31,Palmeiras,5,0,Gama,False,False,second
-1999-03-10,América-MG,0,1,Vitória,False,False,second
-1999-03-25,Vitória,3,0,América-MG,False,False,second
-1999-03-19,Treze,2,2,Corinthians,False,False,second
-1999-04-01,Corinthians,2,2,Treze,False,False,second
-1999-03-17,Fluminense,3,1,Juventude,False,False,second
-1999-04-07,Juventude,6,0,Fluminense,False,False,second
-1999-03-24,Avaí,2,2,Coritiba,False,False,second
-1999-03-31,Coritiba,0,0,Avaí,False,False,second
-1999-03-24,Bahia,1,1,Atlético-MG,False,False,second
-1999-04-01,Atlético-MG,0,1,Bahia,False,False,second
-1999-03-18,Guarani-SP,0,0,Sport,False,False,second
-1999-03-31,Sport,1,1,Guarani-SP,False,False,second
-1999-03-31,Camaçari,0,0,Internacional,False,False,second
-1999-04-08,Internacional,1,0,Camaçari,False,False,second
-1999-03-17,Goiás,1,2,Santos,False,False,second
-1999-03-31,Santos,3,4,Goiás,False,False,second
-1999-03-10,América-RN,0,1,Vasco da Gama,False,False,second
-1999-03-17,Vasco da Gama,2,0,América-RN,False,False,second
-1999-04-14,São Paulo,1,1,Botafogo,False,False,round16
-1999-04-28,Botafogo,3,1,São Paulo,False,False,round16
-1999-04-08,Atlético-PR,5,2,Portuguesa-SP,False,False,round16
-1999-04-28,Portuguesa-SP,2,2,Atlético-PR,False,False,round16
-1999-04-21,Grêmio,1,2,Flamengo-RJ,False,False,round16
-1999-04-28,Flamengo-RJ,2,2,Grêmio,False,False,round16
-1999-04-09,Vitória,2,2,Palmeiras,False,False,round16
-1999-04-29,Palmeiras,3,2,Vitória,False,False,round16
-1999-04-27,Juventude,2,0,Corinthians,False,False,round16
-1999-04-30,Corinthians,0,1,Juventude,False,False,round16
-1999-04-14,Bahia,3,0,Coritiba,False,False,round16
-1999-04-21,Coritiba,1,1,Bahia,False,False,round16
-1999-04-14,Internacional,3,0,Guarani-SP,False,False,round16
-1999-04-28,Guarani-SP,1,1,Internacional,False,False,round16
-1999-04-08,Goiás,4,2,Vasco da Gama,False,False,round16
-1999-05-05,Vasco da Gama,2,1,Goiás,False,False,round16
-1999-05-05,Botafogo,2,1,Atlético-PR,False,False,quarter
-1999-05-12,Atlético-PR,2,1,Botafogo,False,False,quarter
-1999-05-14,Flamengo-RJ,2,1,Palmeiras,False,False,quarter
-1999-05-21,Palmeiras,4,2,Flamengo-RJ,False,False,quarter
-1999-05-12,Juventude,2,2,Bahia,False,False,quarter
-1999-05-19,Bahia,2,2,Juventude,False,False,quarter
-1999-05-12,Internacional,1,0,Goiás,False,False,quarter
-1999-05-19,Goiás,2,1,Internacional,False,False,quarter
-1999-05-28,Palmeiras,1,1,Botafogo,False,False,semi
-1999-06-11,Botafogo,1,1,Palmeiras,False,False,semi
-1999-05-26,Juventude,0,0,Internacional,False,False,semi
-1999-06-02,Internacional,0,4,Juventude,False,False,semi
-1999-06-20,Juventude,2,1,Botafogo,False,False,final
-1999-06-27,Botafogo,0,0,Juventude,False,False,final
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1999-01-28,Santa Cruz-PE,1,0,Nautico-PE,False,False,first,Copa do Brasil,1999
+1999-02-18,CSA,0,4,São Paulo,False,False,first,Copa do Brasil,1999
+1999-02-24,Ypiranga-AP,3,0,Picos-PI,False,False,first,Copa do Brasil,1999
+1999-03-04,Picos-PI,0,1,Ypiranga-AP,False,False,first,Copa do Brasil,1999
+1999-03-03,Comercial-MS,0,1,Criciúma,False,False,first,Copa do Brasil,1999
+1999-03-10,Criciúma,3,1,Comercial-MS,False,False,first,Copa do Brasil,1999
+1999-02-03,Paysandu,2,3,Botafogo,False,False,first,Copa do Brasil,1999
+1999-02-18,Botafogo,2,2,Paysandu,False,False,first,Copa do Brasil,1999
+1999-03-04,Rio Branco-ES,1,1,Portuguesa-SP,False,False,first,Copa do Brasil,1999
+1999-03-11,Portuguesa-SP,4,0,Rio Branco-ES,False,False,first,Copa do Brasil,1999
+1999-02-20,Independência-AC,3,1,Roraima-RR,False,False,first,Copa do Brasil,1999
+1999-03-03,Roraima-RR,1,1,Independência-AC,False,False,first,Copa do Brasil,1999
+1999-03-03,Sampaio Corrêa-MA,1,3,Atlético-PR,False,False,first,Copa do Brasil,1999
+1999-03-04,Caxias,3,2,Cruzeiro,False,False,first,Copa do Brasil,1999
+1999-03-10,Cruzeiro,5,0,Caxias,False,False,first,Copa do Brasil,1999
+1999-02-24,Vila Nova-GO,2,1,Ceará,False,False,first,Copa do Brasil,1999
+1999-03-04,Ceará,0,0,Vila Nova-GO,False,False,first,Copa do Brasil,1999
+1999-03-03,ABC,1,2,Grêmio,False,False,first,Copa do Brasil,1999
+1999-03-11,Grêmio,3,3,ABC,False,False,first,Copa do Brasil,1999
+1999-02-18,Sergipe-SE,2,0,Ponte Preta-SP,False,False,first,Copa do Brasil,1999
+1999-02-24,Ponte Preta-SP,5,2,Sergipe-SE,False,False,first,Copa do Brasil,1999
+1999-02-28,Botafogo-PB,3,3,Flamengo-RJ,False,False,first,Copa do Brasil,1999
+1999-03-10,Flamengo-RJ,2,1,Botafogo-PB,False,False,first,Copa do Brasil,1999
+1999-02-10,São Raimundo-AM,1,2,Palmeiras,False,False,first,Copa do Brasil,1999
+1999-02-21,Palmeiras,3,1,São Raimundo-AM,False,False,first,Copa do Brasil,1999
+1999-02-24,Interporto,1,3,Gama,False,False,first,Copa do Brasil,1999
+1999-02-10,Flamengo-PI,0,1,Vitória,False,False,first,Copa do Brasil,1999
+1999-02-24,Vitória,5,2,Flamengo-PI,False,False,first,Copa do Brasil,1999
+1999-02-10,Porto-PE,0,1,América-MG,False,False,first,Copa do Brasil,1999
+1999-02-24,América-MG,2,0,Porto-PE,False,False,first,Copa do Brasil,1999
+1999-02-03,Ubiratan-MT,0,1,Corinthians,False,False,first,Copa do Brasil,1999
+1999-02-20,Corinthians,6,2,Ubiratan-MT,False,False,first,Copa do Brasil,1999
+1999-02-24,Treze,2,3,Santa Cruz-PE,False,False,first,Copa do Brasil,1999
+1999-03-10,Santa Cruz-PE,2,4,Treze,False,False,first,Copa do Brasil,1999
+1999-03-04,Guará,1,5,Juventude,False,False,first,Copa do Brasil,1999
+1999-03-03,Lagartense-SE,0,1,Fluminense,False,False,first,Copa do Brasil,1999
+1999-03-10,Fluminense,2,1,Lagartense-SE,False,False,first,Copa do Brasil,1999
+1999-03-03,Fortaleza,1,3,Coritiba,False,False,first,Copa do Brasil,1999
+1999-03-04,Figueirense-SC,1,2,Avaí,False,False,first,Copa do Brasil,1999
+1999-03-10,Avaí,0,0,Figueirense-SC,False,False,first,Copa do Brasil,1999
+1999-02-24,Botafogo-SP,1,0,Bahia,False,False,first,Copa do Brasil,1999
+1999-03-10,Bahia,5,0,Botafogo-SP,False,False,first,Copa do Brasil,1999
+1999-02-10,Linhares-ES,0,3,Atlético-MG,False,False,first,Copa do Brasil,1999
+1999-03-03,Remo,1,1,Guarani-SP,False,False,first,Copa do Brasil,1999
+1999-03-10,Guarani-SP,3,1,Remo,False,False,first,Copa do Brasil,1999
+1999-03-04,Nacional-AM,0,2,Sport,False,False,first,Copa do Brasil,1999
+1999-03-03,Camaçari,2,0,Paraná-PR,False,False,first,Copa do Brasil,1999
+1999-03-10,Paraná-PR,2,1,Camaçari,False,False,first,Copa do Brasil,1999
+1999-03-04,Villa Nova-MG,1,1,Internacional,False,False,first,Copa do Brasil,1999
+1999-03-10,Internacional,4,1,Villa Nova-MG,False,False,first,Copa do Brasil,1999
+1999-02-10,Sinop-MT,0,1,Santos,False,False,first,Copa do Brasil,1999
+1999-03-10,Santos,6,0,Sinop-MT,False,False,first,Copa do Brasil,1999
+1999-02-24,Moto Club,3,2,Goiás,False,False,first,Copa do Brasil,1999
+1999-03-03,Goiás,4,0,Moto Club,False,False,first,Copa do Brasil,1999
+1999-02-24,CRB,1,1,América-RN,False,False,first,Copa do Brasil,1999
+1999-03-03,América-RN,2,1,CRB,False,False,first,Copa do Brasil,1999
+1999-02-03,Ji-Paraná,2,4,Vasco da Gama,False,False,first,Copa do Brasil,1999
+1999-03-10,Ypiranga-AP,1,4,São Paulo,False,False,second,Copa do Brasil,1999
+1999-03-17,Criciúma,2,1,Botafogo,False,False,second,Copa do Brasil,1999
+1999-04-08,Botafogo,2,0,Criciúma,False,False,second,Copa do Brasil,1999
+1999-03-17,Independência-AC,1,3,Portuguesa-SP,False,False,second,Copa do Brasil,1999
+1999-03-24,Atlético-PR,0,0,Cruzeiro,False,False,second,Copa do Brasil,1999
+1999-03-31,Cruzeiro,3,3,Atlético-PR,False,False,second,Copa do Brasil,1999
+1999-03-24,Vila Nova-GO,2,1,Grêmio,False,False,second,Copa do Brasil,1999
+1999-03-31,Grêmio,4,2,Vila Nova-GO,False,False,second,Copa do Brasil,1999
+1999-03-17,Ponte Preta-SP,0,1,Flamengo-RJ,False,False,second,Copa do Brasil,1999
+1999-04-07,Flamengo-RJ,3,0,Ponte Preta-SP,False,False,second,Copa do Brasil,1999
+1999-03-19,Gama,0,1,Palmeiras,False,False,second,Copa do Brasil,1999
+1999-03-31,Palmeiras,5,0,Gama,False,False,second,Copa do Brasil,1999
+1999-03-10,América-MG,0,1,Vitória,False,False,second,Copa do Brasil,1999
+1999-03-25,Vitória,3,0,América-MG,False,False,second,Copa do Brasil,1999
+1999-03-19,Treze,2,2,Corinthians,False,False,second,Copa do Brasil,1999
+1999-04-01,Corinthians,2,2,Treze,False,False,second,Copa do Brasil,1999
+1999-03-17,Fluminense,3,1,Juventude,False,False,second,Copa do Brasil,1999
+1999-04-07,Juventude,6,0,Fluminense,False,False,second,Copa do Brasil,1999
+1999-03-24,Avaí,2,2,Coritiba,False,False,second,Copa do Brasil,1999
+1999-03-31,Coritiba,0,0,Avaí,False,False,second,Copa do Brasil,1999
+1999-03-24,Bahia,1,1,Atlético-MG,False,False,second,Copa do Brasil,1999
+1999-04-01,Atlético-MG,0,1,Bahia,False,False,second,Copa do Brasil,1999
+1999-03-18,Guarani-SP,0,0,Sport,False,False,second,Copa do Brasil,1999
+1999-03-31,Sport,1,1,Guarani-SP,False,False,second,Copa do Brasil,1999
+1999-03-31,Camaçari,0,0,Internacional,False,False,second,Copa do Brasil,1999
+1999-04-08,Internacional,1,0,Camaçari,False,False,second,Copa do Brasil,1999
+1999-03-17,Goiás,1,2,Santos,False,False,second,Copa do Brasil,1999
+1999-03-31,Santos,3,4,Goiás,False,False,second,Copa do Brasil,1999
+1999-03-10,América-RN,0,1,Vasco da Gama,False,False,second,Copa do Brasil,1999
+1999-03-17,Vasco da Gama,2,0,América-RN,False,False,second,Copa do Brasil,1999
+1999-04-14,São Paulo,1,1,Botafogo,False,False,round16,Copa do Brasil,1999
+1999-04-28,Botafogo,3,1,São Paulo,False,False,round16,Copa do Brasil,1999
+1999-04-08,Atlético-PR,5,2,Portuguesa-SP,False,False,round16,Copa do Brasil,1999
+1999-04-28,Portuguesa-SP,2,2,Atlético-PR,False,False,round16,Copa do Brasil,1999
+1999-04-21,Grêmio,1,2,Flamengo-RJ,False,False,round16,Copa do Brasil,1999
+1999-04-28,Flamengo-RJ,2,2,Grêmio,False,False,round16,Copa do Brasil,1999
+1999-04-09,Vitória,2,2,Palmeiras,False,False,round16,Copa do Brasil,1999
+1999-04-29,Palmeiras,3,2,Vitória,False,False,round16,Copa do Brasil,1999
+1999-04-27,Juventude,2,0,Corinthians,False,False,round16,Copa do Brasil,1999
+1999-04-30,Corinthians,0,1,Juventude,False,False,round16,Copa do Brasil,1999
+1999-04-14,Bahia,3,0,Coritiba,False,False,round16,Copa do Brasil,1999
+1999-04-21,Coritiba,1,1,Bahia,False,False,round16,Copa do Brasil,1999
+1999-04-14,Internacional,3,0,Guarani-SP,False,False,round16,Copa do Brasil,1999
+1999-04-28,Guarani-SP,1,1,Internacional,False,False,round16,Copa do Brasil,1999
+1999-04-08,Goiás,4,2,Vasco da Gama,False,False,round16,Copa do Brasil,1999
+1999-05-05,Vasco da Gama,2,1,Goiás,False,False,round16,Copa do Brasil,1999
+1999-05-05,Botafogo,2,1,Atlético-PR,False,False,quarter,Copa do Brasil,1999
+1999-05-12,Atlético-PR,2,1,Botafogo,False,False,quarter,Copa do Brasil,1999
+1999-05-14,Flamengo-RJ,2,1,Palmeiras,False,False,quarter,Copa do Brasil,1999
+1999-05-21,Palmeiras,4,2,Flamengo-RJ,False,False,quarter,Copa do Brasil,1999
+1999-05-12,Juventude,2,2,Bahia,False,False,quarter,Copa do Brasil,1999
+1999-05-19,Bahia,2,2,Juventude,False,False,quarter,Copa do Brasil,1999
+1999-05-12,Internacional,1,0,Goiás,False,False,quarter,Copa do Brasil,1999
+1999-05-19,Goiás,2,1,Internacional,False,False,quarter,Copa do Brasil,1999
+1999-05-28,Palmeiras,1,1,Botafogo,False,False,semi,Copa do Brasil,1999
+1999-06-11,Botafogo,1,1,Palmeiras,False,False,semi,Copa do Brasil,1999
+1999-05-26,Juventude,0,0,Internacional,False,False,semi,Copa do Brasil,1999
+1999-06-02,Internacional,0,4,Juventude,False,False,semi,Copa do Brasil,1999
+1999-06-20,Juventude,2,1,Botafogo,False,False,final,Copa do Brasil,1999
+1999-06-27,Botafogo,0,0,Juventude,False,False,final,Copa do Brasil,1999
