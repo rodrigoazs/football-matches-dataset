@@ -1,2 +1,2 @@
 # football-matches-dataset
-Collecting football matches
+Collecting football matches results
