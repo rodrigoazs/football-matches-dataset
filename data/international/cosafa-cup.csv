@@ -1,0 +1,355 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1997-04-12,Malawi,2,2,Mozambique,False,False,,COSAFA Cup,1997
+1997-04-19,Zambia,4,0,Malawi,False,False,,COSAFA Cup,1997
+1997-05-31,Tanzania,0,0,Namibia,False,False,,COSAFA Cup,1997
+1997-06-15,Mozambique,3,0,Tanzania,False,False,,COSAFA Cup,1997
+1997-06-28,Namibia,4,1,Malawi,False,False,,COSAFA Cup,1997
+1997-07-05,Tanzania,2,2,Zambia,False,False,,COSAFA Cup,1997
+1997-07-20,Mozambique,1,1,Namibia,False,False,,COSAFA Cup,1997
+1997-08-02,Zambia,2,1,Mozambique,False,False,,COSAFA Cup,1997
+1997-08-09,Malawi,2,2,Tanzania,False,False,,COSAFA Cup,1997
+1997-08-31,Namibia,1,1,Zambia,False,False,,COSAFA Cup,1997
+1998-04-19,Zimbabwe,5,2,Namibia,False,False,,COSAFA Cup,1998
+1998-05-03,Angola,1,1,Zambia,False,False,,COSAFA Cup,1998
+1998-05-16,Zambia,1,0,Mozambique,False,False,,COSAFA Cup,1998
+1998-05-24,Mozambique,0,2,Zimbabwe,False,False,,COSAFA Cup,1998
+1998-05-30,Namibia,1,1,Angola,False,False,,COSAFA Cup,1998
+1998-07-19,Mozambique,1,1,Angola,False,False,,COSAFA Cup,1998
+1998-08-08,Zambia,1,1,Namibia,False,False,,COSAFA Cup,1998
+1998-08-30,Angola,2,1,Zimbabwe,False,False,,COSAFA Cup,1998
+1998-09-12,Namibia,2,1,Mozambique,False,False,,COSAFA Cup,1998
+1998-09-27,Zimbabwe,0,1,Zambia,False,False,,COSAFA Cup,1998
+1999-07-04,Lesotho,0,1,Angola,False,False,,COSAFA Cup,1999
+1999-07-18,Eswatini,1,1,Zimbabwe,False,False,,COSAFA Cup,1999
+1999-07-31,Namibia,1,1,South Africa,False,False,,COSAFA Cup,1999
+1999-08-07,Zambia,1,1,Mozambique,False,False,,COSAFA Cup,1999
+1999-08-14,Zambia,0,1,Angola,False,False,,COSAFA Cup,1999
+1999-08-28,Namibia,1,1,Eswatini,False,False,,COSAFA Cup,1999
+1999-09-26,Angola,1,0,Namibia,False,False,,COSAFA Cup,1999
+1999-10-02,Namibia,1,1,Angola,False,False,,COSAFA Cup,1999
+2000-03-05,Zimbabwe,2,1,Lesotho,False,False,,COSAFA Cup,2000
+2000-03-25,Zambia,3,0,Botswana,False,False,,COSAFA Cup,2000
+2000-04-15,Malawi,2,1,Mozambique,False,False,,COSAFA Cup,2000
+2000-04-29,South Africa,3,0,Mauritius,False,False,,COSAFA Cup,2000
+2000-05-14,Zimbabwe,3,2,Namibia,False,False,,COSAFA Cup,2000
+2000-05-20,Malawi,0,0,Angola,False,False,,COSAFA Cup,2000
+2000-06-11,Lesotho,0,0,Zambia,False,False,,COSAFA Cup,2000
+2000-06-18,South Africa,2,0,Eswatini,False,False,,COSAFA Cup,2000
+2000-07-23,Lesotho,2,1,Angola,False,False,,COSAFA Cup,2000
+2000-07-29,South Africa,0,1,Zimbabwe,False,False,,COSAFA Cup,2000
+2000-08-13,Lesotho,0,3,Zimbabwe,False,False,,COSAFA Cup,2000
+2000-08-27,Zimbabwe,3,0,Lesotho,False,False,,COSAFA Cup,2000
+2001-02-11,Eswatini,0,0,Zambia,False,False,,COSAFA Cup,2001
+2001-03-17,Botswana,0,1,Malawi,False,False,,COSAFA Cup,2001
+2001-04-08,Mauritius,1,0,Namibia,False,False,,COSAFA Cup,2001
+2001-04-29,Mozambique,0,3,South Africa,False,False,,COSAFA Cup,2001
+2001-06-10,Angola,1,0,Mauritius,False,False,,COSAFA Cup,2001
+2001-06-24,Lesotho,1,2,Zambia,False,False,,COSAFA Cup,2001
+2001-07-08,Zimbabwe,2,1,Eswatini,False,False,,COSAFA Cup,2001
+2001-07-21,Malawi,1,0,South Africa,False,False,,COSAFA Cup,2001
+2001-08-18,Zambia,1,1,Angola,False,False,,COSAFA Cup,2001
+2001-08-25,Malawi,0,2,Zimbabwe,False,False,,COSAFA Cup,2001
+2001-09-16,Angola,0,0,Zimbabwe,False,False,,COSAFA Cup,2001
+2001-09-30,Zimbabwe,0,1,Angola,False,False,,COSAFA Cup,2001
+2002-03-16,Mauritius,2,3,Madagascar,False,False,,COSAFA Cup,2002
+2002-03-30,Botswana,0,0,South Africa,False,False,,COSAFA Cup,2002
+2002-04-07,Lesotho,0,2,Mozambique,False,False,,COSAFA Cup,2002
+2002-04-21,Eswatini,2,1,Namibia,False,False,,COSAFA Cup,2002
+2002-05-05,Zimbabwe,0,2,Eswatini,False,False,,COSAFA Cup,2002
+2002-05-18,Malawi,2,1,Angola,False,False,,COSAFA Cup,2002
+2002-07-06,Zambia,3,0,Mozambique,False,False,,COSAFA Cup,2002
+2002-07-21,South Africa,0,0,Madagascar,False,False,,COSAFA Cup,2002
+2002-08-10,Malawi,1,0,Zambia,False,False,,COSAFA Cup,2002
+2002-08-24,South Africa,4,1,Eswatini,False,False,,COSAFA Cup,2002
+2002-09-21,Malawi,1,3,South Africa,False,False,,COSAFA Cup,2002
+2002-09-28,South Africa,1,0,Malawi,False,False,,COSAFA Cup,2002
+2003-02-22,Madagascar,2,1,Mauritius,False,False,,COSAFA Cup,2003
+2003-03-15,Namibia,0,1,Botswana,False,False,,COSAFA Cup,2003
+2003-03-22,Mozambique,0,0,Lesotho,False,False,,COSAFA Cup,2003
+2003-04-20,Zimbabwe,1,0,Angola,False,False,,COSAFA Cup,2003
+2003-05-24,Botswana,1,1,Malawi,False,False,,COSAFA Cup,2003
+2003-07-13,Eswatini,2,0,Madagascar,False,False,,COSAFA Cup,2003
+2003-07-19,South Africa,0,1,Zimbabwe,False,False,,COSAFA Cup,2003
+2003-07-27,Zambia,4,2,Mozambique,False,False,,COSAFA Cup,2003
+2003-08-16,Malawi,1,1,Zambia,False,False,,COSAFA Cup,2003
+2003-08-31,Zimbabwe,2,0,Eswatini,False,False,,COSAFA Cup,2003
+2003-09-27,Malawi,1,2,Zimbabwe,False,False,,COSAFA Cup,2003
+2003-10-05,Zimbabwe,2,0,Malawi,False,False,,COSAFA Cup,2003
+2004-01-10,Mauritius,2,0,South Africa,False,False,,COSAFA Cup,2004
+2004-02-28,Lesotho,0,0,Botswana,False,False,,COSAFA Cup,2004
+2004-04-18,Mozambique,2,0,Madagascar,False,False,,COSAFA Cup,2004
+2004-05-09,Angola,2,1,Namibia,False,False,,COSAFA Cup,2004
+2004-06-13,Mozambique,2,0,Malawi,False,False,,COSAFA Cup,2004
+2004-06-27,Eswatini,0,5,Zimbabwe,False,False,,COSAFA Cup,2004
+2004-07-18,Angola,1,1,Botswana,False,False,,COSAFA Cup,2004
+2004-07-31,Zambia,3,1,Mauritius,False,False,,COSAFA Cup,2004
+2004-09-19,Mozambique,0,1,Angola,False,False,,COSAFA Cup,2004
+2004-10-24,Zimbabwe,0,0,Zambia,False,False,,COSAFA Cup,2004
+2004-11-20,Zambia,0,0,Angola,False,False,,COSAFA Cup,2004
+2005-02-26,Mauritius,2,0,Madagascar,False,False,,COSAFA Cup,2005
+2005-02-26,Seychelles,0,3,South Africa,False,False,,COSAFA Cup,2005
+2005-02-27,Mauritius,0,1,South Africa,False,False,,COSAFA Cup,2005
+2005-04-16,Mozambique,0,3,Zimbabwe,False,False,,COSAFA Cup,2005
+2005-04-16,Namibia,1,1,Botswana,False,False,,COSAFA Cup,2005
+2005-04-17,Botswana,0,2,Zimbabwe,False,False,,COSAFA Cup,2005
+2005-06-11,Lesotho,1,2,Malawi,False,False,,COSAFA Cup,2005
+2005-06-11,Zambia,3,0,Eswatini,False,False,,COSAFA Cup,2005
+2005-06-12,Zambia,2,1,Malawi,False,False,,COSAFA Cup,2005
+2005-08-13,Angola,1,2,Zimbabwe,False,False,,COSAFA Cup,2005
+2005-08-13,South Africa,2,2,Zambia,False,False,,COSAFA Cup,2005
+2005-08-14,Zambia,0,1,Zimbabwe,False,False,,COSAFA Cup,2005
+2006-04-29,Angola,5,1,Mauritius,False,False,,COSAFA Cup,2006
+2006-04-29,Lesotho,0,0,Mozambique,False,False,,COSAFA Cup,2006
+2006-04-30,Lesotho,1,3,Angola,False,False,,COSAFA Cup,2006
+2006-04-30,Mauritius,0,0,Mozambique,False,False,,COSAFA Cup,2006
+2006-05-20,Botswana,2,0,Madagascar,False,False,,COSAFA Cup,2006
+2006-05-20,South Africa,1,0,Eswatini,False,False,,COSAFA Cup,2006
+2006-05-21,Botswana,0,0,South Africa,False,False,,COSAFA Cup,2006
+2006-05-21,Madagascar,0,2,Eswatini,False,False,,COSAFA Cup,2006
+2006-07-22,Malawi,1,3,Zambia,False,False,,COSAFA Cup,2006
+2006-07-22,Namibia,1,1,Seychelles,False,False,,COSAFA Cup,2006
+2006-07-23,Namibia,3,2,Malawi,False,False,,COSAFA Cup,2006
+2006-07-23,Seychelles,0,2,Zambia,False,False,,COSAFA Cup,2006
+2006-08-19,Zambia,1,0,Botswana,False,False,,COSAFA Cup,2006
+2006-09-17,Zimbabwe,1,2,Angola,False,False,,COSAFA Cup,2006
+2006-10-21,Zambia,2,0,Angola,False,False,,COSAFA Cup,2006
+2007-04-28,Madagascar,0,1,Zimbabwe,False,False,,COSAFA Cup,2007
+2007-04-28,Mozambique,2,0,Seychelles,False,False,,COSAFA Cup,2007
+2007-04-29,Madagascar,5,0,Seychelles,False,False,,COSAFA Cup,2007
+2007-04-29,Mozambique,0,0,Zimbabwe,False,False,,COSAFA Cup,2007
+2007-05-26,Malawi,0,0,South Africa,False,False,,COSAFA Cup,2007
+2007-05-26,Eswatini,0,0,Mauritius,False,False,,COSAFA Cup,2007
+2007-05-27,Mauritius,0,2,South Africa,False,False,,COSAFA Cup,2007
+2007-05-27,Eswatini,1,0,Malawi,False,False,,COSAFA Cup,2007
+2007-07-28,Angola,2,0,Lesotho,False,False,,COSAFA Cup,2007
+2007-07-28,Botswana,1,0,Namibia,False,False,,COSAFA Cup,2007
+2007-07-29,Botswana,0,0,Angola,False,False,,COSAFA Cup,2007
+2007-07-29,Lesotho,2,3,Namibia,False,False,,COSAFA Cup,2007
+2007-09-29,Mozambique,0,3,Zambia,False,False,,COSAFA Cup,2007
+2007-09-29,South Africa,1,0,Botswana,False,False,,COSAFA Cup,2007
+2007-10-24,South Africa,0,0,Zambia,False,False,,COSAFA Cup,2007
+2008-07-26,South Africa,1,0,Namibia,False,False,,COSAFA Cup,2008
+2008-07-27,Botswana,0,2,Mozambique,False,False,,COSAFA Cup,2008
+2008-07-27,Zambia,0,0,Zimbabwe,False,False,,COSAFA Cup,2008
+2008-07-30,Madagascar,1,2,Mozambique,False,False,,COSAFA Cup,2008
+2008-07-30,South Africa,1,0,Zambia,False,False,,COSAFA Cup,2008
+2008-08-03,Madagascar,0,2,Zambia,False,False,,COSAFA Cup,2008
+2008-08-03,South Africa,2,1,Mozambique,False,False,,COSAFA Cup,2008
+2009-10-17,Zimbabwe,3,0,Mauritius,False,False,,COSAFA Cup,2009
+2009-10-18,Comoros,0,0,Botswana,False,False,,COSAFA Cup,2009
+2009-10-18,Eswatini,2,1,Seychelles,False,False,,COSAFA Cup,2009
+2009-10-19,Zimbabwe,2,2,Lesotho,False,False,,COSAFA Cup,2009
+2009-10-20,Botswana,1,0,Eswatini,False,False,,COSAFA Cup,2009
+2009-10-20,Seychelles,1,2,Comoros,False,False,,COSAFA Cup,2009
+2009-10-21,Mauritius,0,1,Lesotho,False,False,,COSAFA Cup,2009
+2009-10-22,Seychelles,0,2,Botswana,False,False,,COSAFA Cup,2009
+2009-10-22,Eswatini,3,0,Comoros,False,False,,COSAFA Cup,2009
+2009-10-25,Malawi,0,1,Mozambique,False,False,,COSAFA Cup,2009
+2009-10-25,Namibia,0,1,Zambia,False,False,,COSAFA Cup,2009
+2009-10-26,Zimbabwe,1,0,Botswana,False,False,,COSAFA Cup,2009
+2009-10-26,South Africa,2,0,Angola,False,False,,COSAFA Cup,2009
+2009-10-28,Zimbabwe,1,1,South Africa,False,False,,COSAFA Cup,2009
+2009-10-29,Mozambique,0,2,Zambia,False,False,,COSAFA Cup,2009
+2009-10-31,South Africa,0,1,Mozambique,False,False,,COSAFA Cup,2009
+2009-11-01,Zimbabwe,3,1,Zambia,False,False,,COSAFA Cup,2009
+2013-07-06,Namibia,2,1,Mauritius,False,False,,COSAFA Cup,2013
+2013-07-07,Botswana,0,0,Eswatini,False,False,,COSAFA Cup,2013
+2013-07-08,Kenya,2,2,Lesotho,False,False,,COSAFA Cup,2013
+2013-07-08,Namibia,4,2,Seychelles,False,False,,COSAFA Cup,2013
+2013-07-09,Kenya,2,0,Eswatini,False,False,,COSAFA Cup,2013
+2013-07-09,Lesotho,3,3,Botswana,False,False,,COSAFA Cup,2013
+2013-07-10,Mauritius,4,0,Seychelles,False,False,,COSAFA Cup,2013
+2013-07-11,Kenya,1,2,Botswana,False,False,,COSAFA Cup,2013
+2013-07-11,Lesotho,2,0,Eswatini,False,False,,COSAFA Cup,2013
+2013-07-13,South Africa,2,1,Namibia,False,False,,COSAFA Cup,2013
+2013-07-13,Zimbabwe,1,1,Malawi,False,False,,COSAFA Cup,2013
+2013-07-14,Zambia,3,1,Mozambique,False,False,,COSAFA Cup,2013
+2013-07-14,Angola,1,1,Lesotho,False,False,,COSAFA Cup,2013
+2013-07-16,Namibia,0,1,Mozambique,False,False,,COSAFA Cup,2013
+2013-07-16,Malawi,2,3,Angola,False,False,,COSAFA Cup,2013
+2013-07-17,Zambia,0,0,South Africa,False,False,,COSAFA Cup,2013
+2013-07-17,Zimbabwe,2,1,Lesotho,False,False,,COSAFA Cup,2013
+2013-07-18,Angola,0,1,Mozambique,False,False,,COSAFA Cup,2013
+2013-07-20,Lesotho,1,2,South Africa,False,False,,COSAFA Cup,2013
+2013-07-20,Zambia,2,0,Zimbabwe,False,False,,COSAFA Cup,2013
+2015-05-17,Namibia,0,0,Seychelles,False,False,,COSAFA Cup,2015
+2015-05-17,Zimbabwe,2,0,Mauritius,False,False,,COSAFA Cup,2015
+2015-05-18,Lesotho,1,2,Madagascar,False,False,,COSAFA Cup,2015
+2015-05-18,Tanzania,0,1,Eswatini,False,False,,COSAFA Cup,2015
+2015-05-19,Namibia,2,0,Mauritius,False,False,,COSAFA Cup,2015
+2015-05-19,Seychelles,0,1,Zimbabwe,False,False,,COSAFA Cup,2015
+2015-05-20,Lesotho,0,2,Eswatini,False,False,,COSAFA Cup,2015
+2015-05-20,Madagascar,2,0,Tanzania,False,False,,COSAFA Cup,2015
+2015-05-21,Namibia,4,1,Zimbabwe,False,False,,COSAFA Cup,2015
+2015-05-21,Seychelles,0,1,Mauritius,False,False,,COSAFA Cup,2015
+2015-05-22,Lesotho,1,0,Tanzania,False,False,,COSAFA Cup,2015
+2015-05-22,Madagascar,1,1,Eswatini,False,False,,COSAFA Cup,2015
+2015-05-24,South Africa,0,0,Botswana,False,False,,COSAFA Cup,2015
+2015-05-24,Zambia,0,0,Namibia,False,False,,COSAFA Cup,2015
+2015-05-25,Ghana,1,2,Madagascar,False,False,,COSAFA Cup,2015
+2015-05-25,Mozambique,2,2,Malawi,False,False,,COSAFA Cup,2015
+2015-05-27,South Africa,0,0,Malawi,False,False,,COSAFA Cup,2015
+2015-05-27,Zambia,3,0,Ghana,False,False,,COSAFA Cup,2015
+2015-05-28,Botswana,1,2,Mozambique,False,False,,COSAFA Cup,2015
+2015-05-28,Namibia,3,2,Madagascar,False,False,,COSAFA Cup,2015
+2015-05-29,Zambia,0,1,Malawi,False,False,,COSAFA Cup,2015
+2015-05-30,Madagascar,2,1,Botswana,False,False,,COSAFA Cup,2015
+2015-05-30,Namibia,2,0,Mozambique,False,False,,COSAFA Cup,2015
+2016-06-11,Seychelles,0,1,Madagascar,False,False,,COSAFA Cup,2016
+2016-06-11,Zimbabwe,2,2,Eswatini,False,False,,COSAFA Cup,2016
+2016-06-12,Lesotho,3,0,Mauritius,False,False,,COSAFA Cup,2016
+2016-06-12,Malawi,3,0,Angola,False,False,,COSAFA Cup,2016
+2016-06-13,Madagascar,0,0,Zimbabwe,False,False,,COSAFA Cup,2016
+2016-06-13,Eswatini,4,0,Seychelles,False,False,,COSAFA Cup,2016
+2016-06-14,Angola,0,2,Lesotho,False,False,,COSAFA Cup,2016
+2016-06-14,Mauritius,0,1,Malawi,False,False,,COSAFA Cup,2016
+2016-06-15,Eswatini,1,0,Madagascar,False,False,,COSAFA Cup,2016
+2016-06-15,Zimbabwe,5,0,Seychelles,False,False,,COSAFA Cup,2016
+2016-06-16,Angola,0,2,Mauritius,False,False,,COSAFA Cup,2016
+2016-06-16,Malawi,0,1,Lesotho,False,False,,COSAFA Cup,2016
+2016-06-18,Namibia,1,1,Botswana,False,False,,COSAFA Cup,2016
+2016-06-18,South Africa,1,1,Lesotho,False,False,,COSAFA Cup,2016
+2016-06-19,DR Congo,1,0,Mozambique,False,False,,COSAFA Cup,2016
+2016-06-19,Zambia,0,0,Eswatini,False,False,,COSAFA Cup,2016
+2016-06-21,Lesotho,2,3,Zambia,False,False,,COSAFA Cup,2016
+2016-06-21,Namibia,3,0,Mozambique,False,False,,COSAFA Cup,2016
+2016-06-22,Botswana,0,0,DR Congo,False,False,,COSAFA Cup,2016
+2016-06-22,South Africa,5,1,Eswatini,False,False,,COSAFA Cup,2016
+2016-06-24,Namibia,1,0,Zambia,False,False,,COSAFA Cup,2016
+2016-06-25,South Africa,3,2,Botswana,False,False,,COSAFA Cup,2016
+2016-06-25,Eswatini,1,0,DR Congo,False,False,,COSAFA Cup,2016
+2017-06-25,Mauritius,0,1,Angola,False,False,,COSAFA Cup,2017
+2017-06-25,Tanzania,2,0,Malawi,False,False,,COSAFA Cup,2017
+2017-06-26,Madagascar,2,0,Seychelles,False,False,,COSAFA Cup,2017
+2017-06-26,Mozambique,0,4,Zimbabwe,False,False,,COSAFA Cup,2017
+2017-06-27,Angola,0,0,Tanzania,False,False,,COSAFA Cup,2017
+2017-06-27,Malawi,0,0,Mauritius,False,False,,COSAFA Cup,2017
+2017-06-28,Seychelles,1,2,Mozambique,False,False,,COSAFA Cup,2017
+2017-06-28,Zimbabwe,0,0,Madagascar,False,False,,COSAFA Cup,2017
+2017-06-29,Malawi,0,0,Angola,False,False,,COSAFA Cup,2017
+2017-06-29,Tanzania,1,1,Mauritius,False,False,,COSAFA Cup,2017
+2017-06-30,Mozambique,1,4,Madagascar,False,False,,COSAFA Cup,2017
+2017-06-30,Zimbabwe,6,0,Seychelles,False,False,,COSAFA Cup,2017
+2017-07-01,Botswana,1,2,Zambia,False,False,,COSAFA Cup,2017
+2017-07-01,Namibia,0,0,Lesotho,False,False,,COSAFA Cup,2017
+2017-07-02,South Africa,0,1,Tanzania,False,False,,COSAFA Cup,2017
+2017-07-02,Eswatini,1,2,Zimbabwe,False,False,,COSAFA Cup,2017
+2017-07-04,Namibia,1,0,Eswatini,False,False,,COSAFA Cup,2017
+2017-07-04,South Africa,2,0,Botswana,False,False,,COSAFA Cup,2017
+2017-07-05,Lesotho,3,4,Zimbabwe,False,False,,COSAFA Cup,2017
+2017-07-05,Zambia,4,2,Tanzania,False,False,,COSAFA Cup,2017
+2017-07-07,South Africa,1,0,Namibia,False,False,,COSAFA Cup,2017
+2017-07-07,Tanzania,0,0,Lesotho,False,False,,COSAFA Cup,2017
+2017-07-09,Zambia,1,3,Zimbabwe,False,False,,COSAFA Cup,2017
+2018-05-27,Madagascar,2,1,Mozambique,False,False,,COSAFA Cup,2018
+2018-05-27,Comoros,1,1,Seychelles,False,False,,COSAFA Cup,2018
+2018-05-28,Malawi,0,1,Mauritius,False,False,,COSAFA Cup,2018
+2018-05-28,Angola,1,2,Botswana,False,False,,COSAFA Cup,2018
+2018-05-29,Madagascar,1,1,Seychelles,False,False,,COSAFA Cup,2018
+2018-05-29,Comoros,0,3,Mozambique,False,False,,COSAFA Cup,2018
+2018-05-30,Malawi,1,1,Botswana,False,False,,COSAFA Cup,2018
+2018-05-30,Angola,1,0,Mauritius,False,False,,COSAFA Cup,2018
+2018-05-31,Mozambique,2,1,Seychelles,False,False,,COSAFA Cup,2018
+2018-05-31,Comoros,0,1,Madagascar,False,False,,COSAFA Cup,2018
+2018-06-01,Botswana,6,0,Mauritius,False,False,,COSAFA Cup,2018
+2018-06-01,Angola,0,0,Malawi,False,False,,COSAFA Cup,2018
+2018-06-02,Zambia,0,0,Namibia,False,False,,COSAFA Cup,2018
+2018-06-02,Lesotho,1,0,Eswatini,False,False,,COSAFA Cup,2018
+2018-06-03,South Africa,0,0,Madagascar,False,False,,COSAFA Cup,2018
+2018-06-03,Zimbabwe,1,1,Botswana,False,False,,COSAFA Cup,2018
+2018-06-05,South Africa,4,1,Namibia,False,False,,COSAFA Cup,2018
+2018-06-05,Eswatini,0,2,Botswana,False,False,,COSAFA Cup,2018
+2018-06-06,Zambia,1,0,Madagascar,False,False,,COSAFA Cup,2018
+2018-06-06,Lesotho,0,0,Zimbabwe,False,False,,COSAFA Cup,2018
+2018-06-08,South Africa,3,0,Botswana,False,False,,COSAFA Cup,2018
+2018-06-08,Madagascar,0,1,Lesotho,False,False,,COSAFA Cup,2018
+2018-06-09,Zambia,2,4,Zimbabwe,False,False,,COSAFA Cup,2018
+2019-05-25,Eswatini,2,2,Mauritius,False,False,,COSAFA Cup,2019
+2019-05-26,Mozambique,1,2,Namibia,False,False,,COSAFA Cup,2019
+2019-05-26,Malawi,3,0,Seychelles,False,False,,COSAFA Cup,2019
+2019-05-27,Eswatini,2,2,Comoros,False,False,,COSAFA Cup,2019
+2019-05-28,Seychelles,0,0,Mozambique,False,False,,COSAFA Cup,2019
+2019-05-28,Namibia,1,2,Malawi,False,False,,COSAFA Cup,2019
+2019-05-29,Comoros,2,1,Mauritius,False,False,,COSAFA Cup,2019
+2019-05-30,Mozambique,1,1,Malawi,False,False,,COSAFA Cup,2019
+2019-05-30,Namibia,3,0,Seychelles,False,False,,COSAFA Cup,2019
+2019-06-01,Lesotho,0,0,Uganda,False,False,,COSAFA Cup,2019
+2019-06-01,Zimbabwe,2,0,Comoros,False,False,,COSAFA Cup,2019
+2019-06-02,South Africa,2,2,Botswana,False,False,,COSAFA Cup,2019
+2019-06-02,Zambia,2,2,Malawi,False,False,,COSAFA Cup,2019
+2019-06-04,Comoros,1,2,Malawi,False,False,,COSAFA Cup,2019
+2019-06-04,South Africa,1,1,Uganda,False,False,,COSAFA Cup,2019
+2019-06-05,Lesotho,1,2,Botswana,False,False,,COSAFA Cup,2019
+2019-06-05,Zimbabwe,0,0,Zambia,False,False,,COSAFA Cup,2019
+2019-06-07,Lesotho,2,2,Zimbabwe,False,False,,COSAFA Cup,2019
+2019-06-07,South Africa,0,0,Malawi,False,False,,COSAFA Cup,2019
+2019-06-08,Botswana,0,1,Zambia,False,False,,COSAFA Cup,2019
+2021-07-06,Eswatini,3,1,Lesotho,False,False,,COSAFA Cup,2021
+2021-07-06,South Africa,1,0,Botswana,False,False,,COSAFA Cup,2021
+2021-07-07,Mozambique,0,0,Zimbabwe,False,False,,COSAFA Cup,2021
+2021-07-07,Senegal,1,2,Namibia,False,False,,COSAFA Cup,2021
+2021-07-08,Zambia,1,2,Lesotho,False,False,,COSAFA Cup,2021
+2021-07-08,South Africa,1,0,Eswatini,False,False,,COSAFA Cup,2021
+2021-07-09,Malawi,2,2,Zimbabwe,False,False,,COSAFA Cup,2021
+2021-07-09,Senegal,1,0,Mozambique,False,False,,COSAFA Cup,2021
+2021-07-10,Lesotho,0,4,Botswana,False,False,,COSAFA Cup,2021
+2021-07-10,Zambia,0,1,Eswatini,False,False,,COSAFA Cup,2021
+2021-07-11,Namibia,2,0,Zimbabwe,False,False,,COSAFA Cup,2021
+2021-07-11,Mozambique,2,0,Malawi,False,False,,COSAFA Cup,2021
+2021-07-13,Botswana,1,2,Zambia,False,False,,COSAFA Cup,2021
+2021-07-13,South Africa,4,0,Lesotho,False,False,,COSAFA Cup,2021
+2021-07-13,Senegal,2,1,Zimbabwe,False,False,,COSAFA Cup,2021
+2021-07-13,Malawi,1,1,Namibia,False,False,,COSAFA Cup,2021
+2021-07-14,South Africa,0,0,Zambia,False,False,,COSAFA Cup,2021
+2021-07-14,Eswatini,1,1,Botswana,False,False,,COSAFA Cup,2021
+2021-07-14,Mozambique,1,0,Namibia,False,False,,COSAFA Cup,2021
+2021-07-14,Senegal,2,1,Malawi,False,False,,COSAFA Cup,2021
+2021-07-16,Senegal,2,2,Eswatini,False,False,,COSAFA Cup,2021
+2021-07-16,South Africa,3,0,Mozambique,False,False,,COSAFA Cup,2021
+2021-07-18,Eswatini,1,1,Mozambique,False,False,,COSAFA Cup,2021
+2021-07-18,South Africa,0,0,Senegal,False,False,,COSAFA Cup,2021
+2022-07-05,Seychelles,0,1,Botswana,False,False,,COSAFA Cup,2022
+2022-07-05,Angola,3,1,Comoros,False,False,,COSAFA Cup,2022
+2022-07-06,Mauritius,0,3,Eswatini,False,False,,COSAFA Cup,2022
+2022-07-06,Lesotho,2,1,Malawi,False,False,,COSAFA Cup,2022
+2022-07-07,Comoros,0,1,Botswana,False,False,,COSAFA Cup,2022
+2022-07-07,Angola,3,0,Seychelles,False,False,,COSAFA Cup,2022
+2022-07-08,Malawi,1,1,Eswatini,False,False,,COSAFA Cup,2022
+2022-07-08,Lesotho,2,1,Mauritius,False,False,,COSAFA Cup,2022
+2022-07-10,Seychelles,1,2,Comoros,False,False,,COSAFA Cup,2022
+2022-07-10,Botswana,1,0,Angola,False,False,,COSAFA Cup,2022
+2022-07-10,Mauritius,0,2,Malawi,False,False,,COSAFA Cup,2022
+2022-07-10,Eswatini,2,0,Lesotho,False,False,,COSAFA Cup,2022
+2022-07-12,Madagascar,0,2,Namibia,False,False,,COSAFA Cup,2022
+2022-07-12,Zambia,1,1,Botswana,False,False,,COSAFA Cup,2022
+2022-07-13,South Africa,0,0,Mozambique,False,False,,COSAFA Cup,2022
+2022-07-13,Senegal,1,1,Eswatini,False,False,,COSAFA Cup,2022
+2022-07-15,South Africa,2,1,Madagascar,False,False,,COSAFA Cup,2022
+2022-07-15,Botswana,2,0,Eswatini,False,False,,COSAFA Cup,2022
+2022-07-15,Namibia,1,0,Mozambique,False,False,,COSAFA Cup,2022
+2022-07-15,Zambia,4,3,Senegal,False,False,,COSAFA Cup,2022
+2022-07-17,South Africa,2,1,Botswana,False,False,,COSAFA Cup,2022
+2022-07-17,Mozambique,1,1,Senegal,False,False,,COSAFA Cup,2022
+2022-07-17,Namibia,0,1,Zambia,False,False,,COSAFA Cup,2022
+2023-07-05,Eswatini,0,1,Botswana,False,False,,COSAFA Cup,2023
+2023-07-05,South Africa,1,1,Namibia,False,False,,COSAFA Cup,2023
+2023-07-06,Seychelles,0,3,Comoros,False,False,,COSAFA Cup,2023
+2023-07-06,Zambia,0,1,Malawi,False,False,,COSAFA Cup,2023
+2023-07-07,Mauritius,0,2,Lesotho,False,False,,COSAFA Cup,2023
+2023-07-07,Mozambique,1,1,Angola,False,False,,COSAFA Cup,2023
+2023-07-08,South Africa,2,1,Botswana,False,False,,COSAFA Cup,2023
+2023-07-08,Namibia,1,2,Eswatini,False,False,,COSAFA Cup,2023
+2023-07-09,Zambia,2,1,Comoros,False,False,,COSAFA Cup,2023
+2023-07-09,Malawi,2,0,Seychelles,False,False,,COSAFA Cup,2023
+2023-07-10,Angola,0,1,Mauritius,False,False,,COSAFA Cup,2023
+2023-07-10,Mozambique,0,1,Lesotho,False,False,,COSAFA Cup,2023
+2023-07-11,Namibia,0,0,Botswana,False,False,,COSAFA Cup,2023
+2023-07-11,South Africa,2,1,Eswatini,False,False,,COSAFA Cup,2023
+2023-07-11,Malawi,2,0,Comoros,False,False,,COSAFA Cup,2023
+2023-07-11,Seychelles,2,4,Zambia,False,False,,COSAFA Cup,2023
+2023-07-12,Angola,4,2,Lesotho,False,False,,COSAFA Cup,2023
+2023-07-12,Mauritius,0,1,Mozambique,False,False,,COSAFA Cup,2023
+2023-07-14,Malawi,1,1,Lesotho,False,False,,COSAFA Cup,2023
+2023-07-14,South Africa,1,2,Zambia,False,False,,COSAFA Cup,2023
+2023-07-16,South Africa,0,0,Malawi,False,False,,COSAFA Cup,2023
+2023-07-16,Lesotho,0,1,Zambia,False,False,,COSAFA Cup,2023

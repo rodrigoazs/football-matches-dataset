@@ -1,0 +1,5 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2010-05-19,Gabon,3,0,Togo,False,False,,Corsica Cup,2010
+2010-05-19,Corsica,2,0,Brittany,False,False,,Corsica Cup,2010
+2010-05-21,Brittany,2,1,Togo,False,False,,Corsica Cup,2010
+2010-05-21,Corsica,1,1,Gabon,False,False,,Corsica Cup,2010

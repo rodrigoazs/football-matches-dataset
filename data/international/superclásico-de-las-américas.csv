@@ -1,0 +1,9 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2011-09-14,Argentina,0,0,Brazil,False,False,,Superclásico de las Américas,2011
+2011-09-28,Brazil,2,0,Argentina,False,False,,Superclásico de las Américas,2011
+2012-09-19,Brazil,2,1,Argentina,False,False,,Superclásico de las Américas,2012
+2012-11-21,Argentina,2,1,Brazil,False,False,,Superclásico de las Américas,2012
+2014-10-11,Argentina,0,2,Brazil,False,False,,Superclásico de las Américas,2014
+2017-06-09,Argentina,1,0,Brazil,False,False,,Superclásico de las Américas,2017
+2018-10-16,Argentina,0,1,Brazil,False,False,,Superclásico de las Américas,2018
+2019-11-15,Brazil,0,1,Argentina,False,False,,Superclásico de las Américas,2019

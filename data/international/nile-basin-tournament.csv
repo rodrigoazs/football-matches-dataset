@@ -1,0 +1,15 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2011-01-05,Egypt,5,1,Tanzania,False,False,,Nile Basin Tournament,2011
+2011-01-05,Kenya,1,0,Sudan,False,False,,Nile Basin Tournament,2011
+2011-01-05,Uganda,3,1,Burundi,False,False,,Nile Basin Tournament,2011
+2011-01-08,DR Congo,1,0,Kenya,False,False,,Nile Basin Tournament,2011
+2011-01-08,Egypt,1,0,Uganda,False,False,,Nile Basin Tournament,2011
+2011-01-08,Tanzania,1,1,Burundi,False,False,,Nile Basin Tournament,2011
+2011-01-11,DR Congo,2,1,Sudan,False,False,,Nile Basin Tournament,2011
+2011-01-11,Egypt,3,0,Burundi,False,False,,Nile Basin Tournament,2011
+2011-01-11,Uganda,1,1,Tanzania,False,False,,Nile Basin Tournament,2011
+2011-01-14,DR Congo,0,1,Uganda,False,False,,Nile Basin Tournament,2011
+2011-01-14,Egypt,5,1,Kenya,False,False,,Nile Basin Tournament,2011
+2011-01-16,Tanzania,0,2,Sudan,False,False,,Nile Basin Tournament,2011
+2011-01-17,DR Congo,1,0,Kenya,False,False,,Nile Basin Tournament,2011
+2011-01-17,Egypt,3,1,Uganda,False,False,,Nile Basin Tournament,2011

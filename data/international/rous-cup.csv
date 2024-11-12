@@ -1,0 +1,12 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1985-05-25,Scotland,1,0,England,False,False,,Rous Cup,1985
+1986-04-23,England,2,1,Scotland,False,False,,Rous Cup,1986
+1987-05-19,England,1,1,Brazil,False,False,,Rous Cup,1987
+1987-05-23,Scotland,0,0,England,False,False,,Rous Cup,1987
+1987-05-26,Scotland,0,2,Brazil,False,False,,Rous Cup,1987
+1988-05-17,Scotland,0,0,Colombia,False,False,,Rous Cup,1988
+1988-05-21,England,1,0,Scotland,False,False,,Rous Cup,1988
+1988-05-24,England,1,1,Colombia,False,False,,Rous Cup,1988
+1989-05-23,England,0,0,Chile,False,False,,Rous Cup,1989
+1989-05-27,Scotland,0,2,England,False,False,,Rous Cup,1989
+1989-05-30,Scotland,2,0,Chile,False,False,,Rous Cup,1989

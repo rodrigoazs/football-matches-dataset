@@ -1,0 +1,389 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1960-07-06,Czechoslovakia,0,3,Russia,False,False,,UEFA Euro,1960
+1960-07-06,France,4,5,Yugoslavia,False,False,,UEFA Euro,1960
+1960-07-09,France,0,2,Czechoslovakia,False,False,,UEFA Euro,1960
+1960-07-10,Russia,2,1,Yugoslavia,False,False,,UEFA Euro,1960
+1964-06-17,Denmark,0,3,Russia,False,False,,UEFA Euro,1964
+1964-06-17,Spain,2,1,Hungary,False,False,,UEFA Euro,1964
+1964-06-20,Hungary,3,1,Denmark,False,False,,UEFA Euro,1964
+1964-06-21,Spain,2,1,Russia,False,False,,UEFA Euro,1964
+1968-06-05,England,0,1,Yugoslavia,False,False,,UEFA Euro,1968
+1968-06-05,Italy,0,0,Russia,False,False,,UEFA Euro,1968
+1968-06-08,England,2,0,Russia,False,False,,UEFA Euro,1968
+1968-06-08,Italy,1,1,Yugoslavia,False,False,,UEFA Euro,1968
+1968-06-10,Italy,2,0,Yugoslavia,False,False,,UEFA Euro,1968
+1972-06-14,Belgium,1,2,Germany,False,False,,UEFA Euro,1972
+1972-06-14,Hungary,0,1,Russia,False,False,,UEFA Euro,1972
+1972-06-17,Belgium,2,1,Hungary,False,False,,UEFA Euro,1972
+1972-06-18,Germany,3,0,Russia,False,False,,UEFA Euro,1972
+1976-06-16,Czechoslovakia,3,1,Netherlands,False,False,,UEFA Euro,1976
+1976-06-17,Yugoslavia,2,4,Germany,False,False,,UEFA Euro,1976
+1976-06-19,Yugoslavia,2,3,Netherlands,False,False,,UEFA Euro,1976
+1976-06-20,Czechoslovakia,2,2,Germany,False,False,,UEFA Euro,1976
+1980-06-11,Czechoslovakia,0,1,Germany,False,False,,UEFA Euro,1980
+1980-06-11,Netherlands,1,0,Greece,False,False,,UEFA Euro,1980
+1980-06-12,Belgium,1,1,England,False,False,,UEFA Euro,1980
+1980-06-12,Italy,0,0,Spain,False,False,,UEFA Euro,1980
+1980-06-14,Germany,3,2,Netherlands,False,False,,UEFA Euro,1980
+1980-06-14,Greece,1,3,Czechoslovakia,False,False,,UEFA Euro,1980
+1980-06-15,Belgium,2,1,Spain,False,False,,UEFA Euro,1980
+1980-06-15,Italy,1,0,England,False,False,,UEFA Euro,1980
+1980-06-17,Greece,0,0,Germany,False,False,,UEFA Euro,1980
+1980-06-17,Netherlands,1,1,Czechoslovakia,False,False,,UEFA Euro,1980
+1980-06-18,Italy,0,0,Belgium,False,False,,UEFA Euro,1980
+1980-06-18,Spain,1,2,England,False,False,,UEFA Euro,1980
+1980-06-21,Italy,1,1,Czechoslovakia,False,False,,UEFA Euro,1980
+1980-06-22,Belgium,1,2,Germany,False,False,,UEFA Euro,1980
+1984-06-12,France,1,0,Denmark,False,False,,UEFA Euro,1984
+1984-06-13,Belgium,2,0,Yugoslavia,False,False,,UEFA Euro,1984
+1984-06-14,Germany,0,0,Portugal,False,False,,UEFA Euro,1984
+1984-06-14,Romania,1,1,Spain,False,False,,UEFA Euro,1984
+1984-06-16,Denmark,5,0,Yugoslavia,False,False,,UEFA Euro,1984
+1984-06-16,France,5,0,Belgium,False,False,,UEFA Euro,1984
+1984-06-17,Germany,2,1,Romania,False,False,,UEFA Euro,1984
+1984-06-17,Portugal,1,1,Spain,False,False,,UEFA Euro,1984
+1984-06-19,Denmark,3,2,Belgium,False,False,,UEFA Euro,1984
+1984-06-19,France,3,2,Yugoslavia,False,False,,UEFA Euro,1984
+1984-06-20,Germany,0,1,Spain,False,False,,UEFA Euro,1984
+1984-06-20,Portugal,1,0,Romania,False,False,,UEFA Euro,1984
+1984-06-23,France,3,2,Portugal,False,False,,UEFA Euro,1984
+1984-06-24,Denmark,1,1,Spain,False,False,,UEFA Euro,1984
+1984-06-27,France,2,0,Spain,False,False,,UEFA Euro,1984
+1988-06-10,Germany,1,1,Italy,False,False,,UEFA Euro,1988
+1988-06-11,Denmark,2,3,Spain,False,False,,UEFA Euro,1988
+1988-06-12,England,0,1,Republic of Ireland,False,False,,UEFA Euro,1988
+1988-06-12,Netherlands,0,1,Russia,False,False,,UEFA Euro,1988
+1988-06-14,Germany,2,0,Denmark,False,False,,UEFA Euro,1988
+1988-06-14,Italy,1,0,Spain,False,False,,UEFA Euro,1988
+1988-06-15,England,1,3,Netherlands,False,False,,UEFA Euro,1988
+1988-06-15,Republic of Ireland,1,1,Russia,False,False,,UEFA Euro,1988
+1988-06-17,Germany,2,0,Spain,False,False,,UEFA Euro,1988
+1988-06-17,Italy,2,0,Denmark,False,False,,UEFA Euro,1988
+1988-06-18,England,1,3,Russia,False,False,,UEFA Euro,1988
+1988-06-18,Republic of Ireland,0,1,Netherlands,False,False,,UEFA Euro,1988
+1988-06-21,Germany,1,2,Netherlands,False,False,,UEFA Euro,1988
+1988-06-22,Russia,2,0,Italy,False,False,,UEFA Euro,1988
+1988-06-25,Russia,0,2,Netherlands,False,False,,UEFA Euro,1988
+1992-06-10,Sweden,1,1,France,False,False,,UEFA Euro,1992
+1992-06-11,Denmark,0,0,England,False,False,,UEFA Euro,1992
+1992-06-12,Netherlands,1,0,Scotland,False,False,,UEFA Euro,1992
+1992-06-12,Russia,1,1,Germany,False,False,,UEFA Euro,1992
+1992-06-14,France,0,0,England,False,False,,UEFA Euro,1992
+1992-06-14,Sweden,1,0,Denmark,False,False,,UEFA Euro,1992
+1992-06-15,Netherlands,0,0,Russia,False,False,,UEFA Euro,1992
+1992-06-15,Scotland,0,2,Germany,False,False,,UEFA Euro,1992
+1992-06-17,France,1,2,Denmark,False,False,,UEFA Euro,1992
+1992-06-17,Sweden,2,1,England,False,False,,UEFA Euro,1992
+1992-06-18,Netherlands,3,1,Germany,False,False,,UEFA Euro,1992
+1992-06-18,Scotland,3,0,Russia,False,False,,UEFA Euro,1992
+1992-06-21,Sweden,2,3,Germany,False,False,,UEFA Euro,1992
+1992-06-22,Netherlands,2,2,Denmark,False,False,,UEFA Euro,1992
+1992-06-26,Denmark,2,0,Germany,False,False,,UEFA Euro,1992
+1996-06-08,England,1,1,Switzerland,False,False,,UEFA Euro,1996
+1996-06-09,Denmark,1,1,Portugal,False,False,,UEFA Euro,1996
+1996-06-09,Germany,2,0,Czech Republic,False,False,,UEFA Euro,1996
+1996-06-09,Spain,1,1,Bulgaria,False,False,,UEFA Euro,1996
+1996-06-10,Netherlands,0,0,Scotland,False,False,,UEFA Euro,1996
+1996-06-10,Romania,0,1,France,False,False,,UEFA Euro,1996
+1996-06-11,Italy,2,1,Russia,False,False,,UEFA Euro,1996
+1996-06-11,Turkey,0,1,Croatia,False,False,,UEFA Euro,1996
+1996-06-13,Bulgaria,1,0,Romania,False,False,,UEFA Euro,1996
+1996-06-13,Switzerland,0,2,Netherlands,False,False,,UEFA Euro,1996
+1996-06-14,Czech Republic,2,1,Italy,False,False,,UEFA Euro,1996
+1996-06-14,Portugal,1,0,Turkey,False,False,,UEFA Euro,1996
+1996-06-15,England,2,0,Scotland,False,False,,UEFA Euro,1996
+1996-06-15,France,1,1,Spain,False,False,,UEFA Euro,1996
+1996-06-16,Croatia,3,0,Denmark,False,False,,UEFA Euro,1996
+1996-06-16,Russia,0,3,Germany,False,False,,UEFA Euro,1996
+1996-06-18,England,4,1,Netherlands,False,False,,UEFA Euro,1996
+1996-06-18,France,3,1,Bulgaria,False,False,,UEFA Euro,1996
+1996-06-18,Romania,1,2,Spain,False,False,,UEFA Euro,1996
+1996-06-18,Scotland,1,0,Switzerland,False,False,,UEFA Euro,1996
+1996-06-19,Croatia,0,3,Portugal,False,False,,UEFA Euro,1996
+1996-06-19,Italy,0,0,Germany,False,False,,UEFA Euro,1996
+1996-06-19,Russia,3,3,Czech Republic,False,False,,UEFA Euro,1996
+1996-06-19,Turkey,0,3,Denmark,False,False,,UEFA Euro,1996
+1996-06-22,England,0,0,Spain,False,False,,UEFA Euro,1996
+1996-06-22,France,0,0,Netherlands,False,False,,UEFA Euro,1996
+1996-06-23,Czech Republic,1,0,Portugal,False,False,,UEFA Euro,1996
+1996-06-23,Germany,2,1,Croatia,False,False,,UEFA Euro,1996
+1996-06-26,England,1,1,Germany,False,False,,UEFA Euro,1996
+1996-06-26,France,0,0,Czech Republic,False,False,,UEFA Euro,1996
+1996-06-30,Czech Republic,1,2,Germany,False,False,,UEFA Euro,1996
+2000-06-10,Belgium,2,1,Sweden,False,False,,UEFA Euro,2000
+2000-06-11,France,3,0,Denmark,False,False,,UEFA Euro,2000
+2000-06-11,Netherlands,1,0,Czech Republic,False,False,,UEFA Euro,2000
+2000-06-11,Turkey,1,2,Italy,False,False,,UEFA Euro,2000
+2000-06-12,Germany,1,1,Romania,False,False,,UEFA Euro,2000
+2000-06-12,Portugal,3,2,England,False,False,,UEFA Euro,2000
+2000-06-13,Serbia,3,3,Slovenia,False,False,,UEFA Euro,2000
+2000-06-13,Spain,0,1,Norway,False,False,,UEFA Euro,2000
+2000-06-14,Belgium,0,2,Italy,False,False,,UEFA Euro,2000
+2000-06-15,Sweden,0,0,Turkey,False,False,,UEFA Euro,2000
+2000-06-16,Czech Republic,1,2,France,False,False,,UEFA Euro,2000
+2000-06-16,Netherlands,3,0,Denmark,False,False,,UEFA Euro,2000
+2000-06-17,England,1,0,Germany,False,False,,UEFA Euro,2000
+2000-06-17,Romania,0,1,Portugal,False,False,,UEFA Euro,2000
+2000-06-18,Norway,0,1,Serbia,False,False,,UEFA Euro,2000
+2000-06-18,Slovenia,1,2,Spain,False,False,,UEFA Euro,2000
+2000-06-19,Belgium,0,2,Turkey,False,False,,UEFA Euro,2000
+2000-06-19,Italy,2,1,Sweden,False,False,,UEFA Euro,2000
+2000-06-20,England,2,3,Romania,False,False,,UEFA Euro,2000
+2000-06-20,Portugal,3,0,Germany,False,False,,UEFA Euro,2000
+2000-06-21,Denmark,0,2,Czech Republic,False,False,,UEFA Euro,2000
+2000-06-21,Netherlands,3,2,France,False,False,,UEFA Euro,2000
+2000-06-21,Serbia,3,4,Spain,False,False,,UEFA Euro,2000
+2000-06-21,Slovenia,0,0,Norway,False,False,,UEFA Euro,2000
+2000-06-24,Italy,2,0,Romania,False,False,,UEFA Euro,2000
+2000-06-24,Turkey,0,2,Portugal,False,False,,UEFA Euro,2000
+2000-06-25,Netherlands,6,1,Serbia,False,False,,UEFA Euro,2000
+2000-06-25,Spain,1,2,France,False,False,,UEFA Euro,2000
+2000-06-28,France,2,1,Portugal,False,False,,UEFA Euro,2000
+2000-06-29,Netherlands,0,0,Italy,False,False,,UEFA Euro,2000
+2000-07-02,France,2,1,Italy,False,False,,UEFA Euro,2000
+2004-06-12,Portugal,1,2,Greece,False,False,,UEFA Euro,2004
+2004-06-12,Spain,1,0,Russia,False,False,,UEFA Euro,2004
+2004-06-13,France,2,1,England,False,False,,UEFA Euro,2004
+2004-06-13,Switzerland,0,0,Croatia,False,False,,UEFA Euro,2004
+2004-06-14,Denmark,0,0,Italy,False,False,,UEFA Euro,2004
+2004-06-14,Sweden,5,0,Bulgaria,False,False,,UEFA Euro,2004
+2004-06-15,Czech Republic,2,1,Latvia,False,False,,UEFA Euro,2004
+2004-06-15,Germany,1,1,Netherlands,False,False,,UEFA Euro,2004
+2004-06-16,Greece,1,1,Spain,False,False,,UEFA Euro,2004
+2004-06-16,Portugal,2,0,Russia,False,False,,UEFA Euro,2004
+2004-06-17,Croatia,2,2,France,False,False,,UEFA Euro,2004
+2004-06-17,England,3,0,Switzerland,False,False,,UEFA Euro,2004
+2004-06-18,Bulgaria,0,2,Denmark,False,False,,UEFA Euro,2004
+2004-06-18,Italy,1,1,Sweden,False,False,,UEFA Euro,2004
+2004-06-19,Latvia,0,0,Germany,False,False,,UEFA Euro,2004
+2004-06-19,Netherlands,2,3,Czech Republic,False,False,,UEFA Euro,2004
+2004-06-20,Portugal,1,0,Spain,False,False,,UEFA Euro,2004
+2004-06-20,Russia,2,1,Greece,False,False,,UEFA Euro,2004
+2004-06-21,Croatia,2,4,England,False,False,,UEFA Euro,2004
+2004-06-21,Switzerland,1,3,France,False,False,,UEFA Euro,2004
+2004-06-22,Denmark,2,2,Sweden,False,False,,UEFA Euro,2004
+2004-06-22,Italy,2,1,Bulgaria,False,False,,UEFA Euro,2004
+2004-06-23,Germany,1,2,Czech Republic,False,False,,UEFA Euro,2004
+2004-06-23,Netherlands,3,0,Latvia,False,False,,UEFA Euro,2004
+2004-06-24,Portugal,2,2,England,False,False,,UEFA Euro,2004
+2004-06-25,France,0,1,Greece,False,False,,UEFA Euro,2004
+2004-06-26,Sweden,0,0,Netherlands,False,False,,UEFA Euro,2004
+2004-06-27,Czech Republic,3,0,Denmark,False,False,,UEFA Euro,2004
+2004-06-30,Portugal,2,1,Netherlands,False,False,,UEFA Euro,2004
+2004-07-01,Greece,1,0,Czech Republic,False,False,,UEFA Euro,2004
+2004-07-04,Portugal,0,1,Greece,False,False,,UEFA Euro,2004
+2008-06-07,Portugal,2,0,Turkey,False,False,,UEFA Euro,2008
+2008-06-07,Switzerland,0,1,Czech Republic,False,False,,UEFA Euro,2008
+2008-06-08,Austria,0,1,Croatia,False,False,,UEFA Euro,2008
+2008-06-08,Germany,2,0,Poland,False,False,,UEFA Euro,2008
+2008-06-09,Netherlands,3,0,Italy,False,False,,UEFA Euro,2008
+2008-06-09,Romania,0,0,France,False,False,,UEFA Euro,2008
+2008-06-10,Greece,0,2,Sweden,False,False,,UEFA Euro,2008
+2008-06-10,Spain,4,1,Russia,False,False,,UEFA Euro,2008
+2008-06-11,Czech Republic,1,3,Portugal,False,False,,UEFA Euro,2008
+2008-06-11,Switzerland,1,2,Turkey,False,False,,UEFA Euro,2008
+2008-06-12,Austria,1,1,Poland,False,False,,UEFA Euro,2008
+2008-06-12,Croatia,2,1,Germany,False,False,,UEFA Euro,2008
+2008-06-13,Italy,1,1,Romania,False,False,,UEFA Euro,2008
+2008-06-13,Netherlands,4,1,France,False,False,,UEFA Euro,2008
+2008-06-14,Greece,0,1,Russia,False,False,,UEFA Euro,2008
+2008-06-14,Sweden,1,2,Spain,False,False,,UEFA Euro,2008
+2008-06-15,Switzerland,2,0,Portugal,False,False,,UEFA Euro,2008
+2008-06-15,Turkey,3,2,Czech Republic,False,False,,UEFA Euro,2008
+2008-06-16,Austria,0,1,Germany,False,False,,UEFA Euro,2008
+2008-06-16,Poland,0,1,Croatia,False,False,,UEFA Euro,2008
+2008-06-17,France,0,2,Italy,False,False,,UEFA Euro,2008
+2008-06-17,Netherlands,2,0,Romania,False,False,,UEFA Euro,2008
+2008-06-18,Greece,1,2,Spain,False,False,,UEFA Euro,2008
+2008-06-18,Russia,2,0,Sweden,False,False,,UEFA Euro,2008
+2008-06-19,Portugal,2,3,Germany,False,False,,UEFA Euro,2008
+2008-06-20,Croatia,1,1,Turkey,False,False,,UEFA Euro,2008
+2008-06-21,Netherlands,1,3,Russia,False,False,,UEFA Euro,2008
+2008-06-22,Spain,0,0,Italy,False,False,,UEFA Euro,2008
+2008-06-25,Germany,3,2,Turkey,False,False,,UEFA Euro,2008
+2008-06-26,Russia,0,3,Spain,False,False,,UEFA Euro,2008
+2008-06-29,Germany,0,1,Spain,False,False,,UEFA Euro,2008
+2012-06-08,Poland,1,1,Greece,False,False,,UEFA Euro,2012
+2012-06-08,Russia,4,1,Czech Republic,False,False,,UEFA Euro,2012
+2012-06-09,Germany,1,0,Portugal,False,False,,UEFA Euro,2012
+2012-06-09,Netherlands,0,1,Denmark,False,False,,UEFA Euro,2012
+2012-06-10,Republic of Ireland,1,3,Croatia,False,False,,UEFA Euro,2012
+2012-06-10,Spain,1,1,Italy,False,False,,UEFA Euro,2012
+2012-06-11,France,1,1,England,False,False,,UEFA Euro,2012
+2012-06-11,Ukraine,2,1,Sweden,False,False,,UEFA Euro,2012
+2012-06-12,Greece,1,2,Czech Republic,False,False,,UEFA Euro,2012
+2012-06-12,Poland,1,1,Russia,False,False,,UEFA Euro,2012
+2012-06-13,Denmark,2,3,Portugal,False,False,,UEFA Euro,2012
+2012-06-13,Netherlands,1,2,Germany,False,False,,UEFA Euro,2012
+2012-06-14,Italy,1,1,Croatia,False,False,,UEFA Euro,2012
+2012-06-14,Spain,4,0,Republic of Ireland,False,False,,UEFA Euro,2012
+2012-06-15,Sweden,2,3,England,False,False,,UEFA Euro,2012
+2012-06-15,Ukraine,0,2,France,False,False,,UEFA Euro,2012
+2012-06-16,Greece,1,0,Russia,False,False,,UEFA Euro,2012
+2012-06-16,Poland,0,1,Czech Republic,False,False,,UEFA Euro,2012
+2012-06-17,Denmark,1,2,Germany,False,False,,UEFA Euro,2012
+2012-06-17,Portugal,2,1,Netherlands,False,False,,UEFA Euro,2012
+2012-06-18,Croatia,0,1,Spain,False,False,,UEFA Euro,2012
+2012-06-18,Italy,2,0,Republic of Ireland,False,False,,UEFA Euro,2012
+2012-06-19,Sweden,2,0,France,False,False,,UEFA Euro,2012
+2012-06-19,Ukraine,0,1,England,False,False,,UEFA Euro,2012
+2012-06-21,Czech Republic,0,1,Portugal,False,False,,UEFA Euro,2012
+2012-06-22,Germany,4,2,Greece,False,False,,UEFA Euro,2012
+2012-06-23,Spain,2,0,France,False,False,,UEFA Euro,2012
+2012-06-24,England,0,0,Italy,False,False,,UEFA Euro,2012
+2012-06-27,Portugal,0,0,Spain,False,False,,UEFA Euro,2012
+2012-06-28,Germany,1,2,Italy,False,False,,UEFA Euro,2012
+2012-07-01,Spain,4,0,Italy,False,False,,UEFA Euro,2012
+2016-06-10,France,2,1,Romania,False,False,,UEFA Euro,2016
+2016-06-11,Albania,0,1,Switzerland,False,False,,UEFA Euro,2016
+2016-06-11,England,1,1,Russia,False,False,,UEFA Euro,2016
+2016-06-11,Wales,2,1,Slovakia,False,False,,UEFA Euro,2016
+2016-06-12,Germany,2,0,Ukraine,False,False,,UEFA Euro,2016
+2016-06-12,Poland,1,0,Northern Ireland,False,False,,UEFA Euro,2016
+2016-06-12,Turkey,0,1,Croatia,False,False,,UEFA Euro,2016
+2016-06-13,Belgium,0,2,Italy,False,False,,UEFA Euro,2016
+2016-06-13,Republic of Ireland,1,1,Sweden,False,False,,UEFA Euro,2016
+2016-06-13,Spain,1,0,Czech Republic,False,False,,UEFA Euro,2016
+2016-06-14,Austria,0,2,Hungary,False,False,,UEFA Euro,2016
+2016-06-14,Portugal,1,1,Iceland,False,False,,UEFA Euro,2016
+2016-06-15,France,2,0,Albania,False,False,,UEFA Euro,2016
+2016-06-15,Romania,1,1,Switzerland,False,False,,UEFA Euro,2016
+2016-06-15,Russia,1,2,Slovakia,False,False,,UEFA Euro,2016
+2016-06-16,England,2,1,Wales,False,False,,UEFA Euro,2016
+2016-06-16,Germany,0,0,Poland,False,False,,UEFA Euro,2016
+2016-06-16,Ukraine,0,2,Northern Ireland,False,False,,UEFA Euro,2016
+2016-06-17,Czech Republic,2,2,Croatia,False,False,,UEFA Euro,2016
+2016-06-17,Italy,1,0,Sweden,False,False,,UEFA Euro,2016
+2016-06-17,Spain,3,0,Turkey,False,False,,UEFA Euro,2016
+2016-06-18,Belgium,3,0,Republic of Ireland,False,False,,UEFA Euro,2016
+2016-06-18,Iceland,1,1,Hungary,False,False,,UEFA Euro,2016
+2016-06-18,Portugal,0,0,Austria,False,False,,UEFA Euro,2016
+2016-06-19,France,0,0,Switzerland,False,False,,UEFA Euro,2016
+2016-06-19,Romania,0,1,Albania,False,False,,UEFA Euro,2016
+2016-06-20,Russia,0,3,Wales,False,False,,UEFA Euro,2016
+2016-06-20,Slovakia,0,0,England,False,False,,UEFA Euro,2016
+2016-06-21,Croatia,2,1,Spain,False,False,,UEFA Euro,2016
+2016-06-21,Czech Republic,0,2,Turkey,False,False,,UEFA Euro,2016
+2016-06-21,Northern Ireland,0,1,Germany,False,False,,UEFA Euro,2016
+2016-06-21,Ukraine,0,1,Poland,False,False,,UEFA Euro,2016
+2016-06-22,Hungary,3,3,Portugal,False,False,,UEFA Euro,2016
+2016-06-22,Iceland,2,1,Austria,False,False,,UEFA Euro,2016
+2016-06-22,Italy,0,1,Republic of Ireland,False,False,,UEFA Euro,2016
+2016-06-22,Sweden,0,1,Belgium,False,False,,UEFA Euro,2016
+2016-06-25,Croatia,0,1,Portugal,False,False,,UEFA Euro,2016
+2016-06-25,Switzerland,1,1,Poland,False,False,,UEFA Euro,2016
+2016-06-25,Wales,1,0,Northern Ireland,False,False,,UEFA Euro,2016
+2016-06-26,France,2,1,Republic of Ireland,False,False,,UEFA Euro,2016
+2016-06-26,Germany,3,0,Slovakia,False,False,,UEFA Euro,2016
+2016-06-26,Hungary,0,4,Belgium,False,False,,UEFA Euro,2016
+2016-06-27,England,1,2,Iceland,False,False,,UEFA Euro,2016
+2016-06-27,Italy,2,0,Spain,False,False,,UEFA Euro,2016
+2016-06-30,Poland,1,1,Portugal,False,False,,UEFA Euro,2016
+2016-07-01,Wales,3,1,Belgium,False,False,,UEFA Euro,2016
+2016-07-02,Germany,1,1,Italy,False,False,,UEFA Euro,2016
+2016-07-03,France,5,2,Iceland,False,False,,UEFA Euro,2016
+2016-07-06,Portugal,2,0,Wales,False,False,,UEFA Euro,2016
+2016-07-07,France,2,0,Germany,False,False,,UEFA Euro,2016
+2016-07-10,France,0,1,Portugal,False,False,,UEFA Euro,2016
+2021-06-11,Italy,3,0,Turkey,False,False,,UEFA Euro,2021
+2021-06-12,Wales,1,1,Switzerland,False,False,,UEFA Euro,2021
+2021-06-12,Denmark,0,1,Finland,False,False,,UEFA Euro,2021
+2021-06-12,Russia,0,3,Belgium,False,False,,UEFA Euro,2021
+2021-06-13,Austria,3,1,North Macedonia,False,False,,UEFA Euro,2021
+2021-06-13,Netherlands,3,2,Ukraine,False,False,,UEFA Euro,2021
+2021-06-13,England,1,0,Croatia,False,False,,UEFA Euro,2021
+2021-06-14,Scotland,0,2,Czech Republic,False,False,,UEFA Euro,2021
+2021-06-14,Poland,1,2,Slovakia,False,False,,UEFA Euro,2021
+2021-06-14,Spain,0,0,Sweden,False,False,,UEFA Euro,2021
+2021-06-15,Hungary,0,3,Portugal,False,False,,UEFA Euro,2021
+2021-06-15,Germany,0,1,France,False,False,,UEFA Euro,2021
+2021-06-16,Turkey,0,2,Wales,False,False,,UEFA Euro,2021
+2021-06-16,Italy,3,0,Switzerland,False,False,,UEFA Euro,2021
+2021-06-16,Russia,1,0,Finland,False,False,,UEFA Euro,2021
+2021-06-17,Denmark,1,2,Belgium,False,False,,UEFA Euro,2021
+2021-06-17,Ukraine,2,1,North Macedonia,False,False,,UEFA Euro,2021
+2021-06-17,Netherlands,2,0,Austria,False,False,,UEFA Euro,2021
+2021-06-18,Croatia,1,1,Czech Republic,False,False,,UEFA Euro,2021
+2021-06-18,England,0,0,Scotland,False,False,,UEFA Euro,2021
+2021-06-18,Sweden,1,0,Slovakia,False,False,,UEFA Euro,2021
+2021-06-19,Spain,1,1,Poland,False,False,,UEFA Euro,2021
+2021-06-19,Hungary,1,1,France,False,False,,UEFA Euro,2021
+2021-06-19,Germany,4,2,Portugal,False,False,,UEFA Euro,2021
+2021-06-20,Italy,1,0,Wales,False,False,,UEFA Euro,2021
+2021-06-20,Switzerland,3,1,Turkey,False,False,,UEFA Euro,2021
+2021-06-21,Denmark,4,1,Russia,False,False,,UEFA Euro,2021
+2021-06-21,Finland,0,2,Belgium,False,False,,UEFA Euro,2021
+2021-06-21,Netherlands,3,0,North Macedonia,False,False,,UEFA Euro,2021
+2021-06-21,Ukraine,0,1,Austria,False,False,,UEFA Euro,2021
+2021-06-22,Scotland,1,3,Croatia,False,False,,UEFA Euro,2021
+2021-06-22,England,1,0,Czech Republic,False,False,,UEFA Euro,2021
+2021-06-23,Spain,5,0,Slovakia,False,False,,UEFA Euro,2021
+2021-06-23,Sweden,3,2,Poland,False,False,,UEFA Euro,2021
+2021-06-23,Germany,2,2,Hungary,False,False,,UEFA Euro,2021
+2021-06-23,Portugal,2,2,France,False,False,,UEFA Euro,2021
+2021-06-26,Italy,2,1,Austria,False,False,,UEFA Euro,2021
+2021-06-26,Wales,0,4,Denmark,False,False,,UEFA Euro,2021
+2021-06-27,Netherlands,0,2,Czech Republic,False,False,,UEFA Euro,2021
+2021-06-27,Belgium,1,0,Portugal,False,False,,UEFA Euro,2021
+2021-06-28,Croatia,3,5,Spain,False,False,,UEFA Euro,2021
+2021-06-28,France,3,3,Switzerland,False,False,,UEFA Euro,2021
+2021-06-29,England,2,0,Germany,False,False,,UEFA Euro,2021
+2021-06-29,Sweden,1,2,Ukraine,False,False,,UEFA Euro,2021
+2021-07-02,Switzerland,1,1,Spain,False,False,,UEFA Euro,2021
+2021-07-02,Belgium,1,2,Italy,False,False,,UEFA Euro,2021
+2021-07-03,Czech Republic,1,2,Denmark,False,False,,UEFA Euro,2021
+2021-07-03,Ukraine,0,4,England,False,False,,UEFA Euro,2021
+2021-07-06,Italy,1,1,Spain,False,False,,UEFA Euro,2021
+2021-07-07,England,2,1,Denmark,False,False,,UEFA Euro,2021
+2021-07-11,England,1,1,Italy,False,False,,UEFA Euro,2021
+2024-06-14,Germany,5,1,Scotland,False,False,,UEFA Euro,2024
+2024-06-15,Hungary,1,3,Switzerland,False,False,,UEFA Euro,2024
+2024-06-15,Spain,3,0,Croatia,False,False,,UEFA Euro,2024
+2024-06-15,Italy,2,1,Albania,False,False,,UEFA Euro,2024
+2024-06-16,Slovenia,1,1,Denmark,False,False,,UEFA Euro,2024
+2024-06-16,Serbia,0,1,England,False,False,,UEFA Euro,2024
+2024-06-16,Poland,1,2,Netherlands,False,False,,UEFA Euro,2024
+2024-06-17,Austria,0,1,France,False,False,,UEFA Euro,2024
+2024-06-17,Romania,3,0,Ukraine,False,False,,UEFA Euro,2024
+2024-06-17,Belgium,0,1,Slovakia,False,False,,UEFA Euro,2024
+2024-06-18,Turkey,3,1,Georgia,False,False,,UEFA Euro,2024
+2024-06-18,Portugal,2,1,Czech Republic,False,False,,UEFA Euro,2024
+2024-06-19,Germany,2,0,Hungary,False,False,,UEFA Euro,2024
+2024-06-19,Scotland,1,1,Switzerland,False,False,,UEFA Euro,2024
+2024-06-19,Croatia,2,2,Albania,False,False,,UEFA Euro,2024
+2024-06-20,Spain,1,0,Italy,False,False,,UEFA Euro,2024
+2024-06-20,Slovenia,1,1,Serbia,False,False,,UEFA Euro,2024
+2024-06-20,Denmark,1,1,England,False,False,,UEFA Euro,2024
+2024-06-21,Poland,1,3,Austria,False,False,,UEFA Euro,2024
+2024-06-21,Netherlands,0,0,France,False,False,,UEFA Euro,2024
+2024-06-21,Slovakia,1,2,Ukraine,False,False,,UEFA Euro,2024
+2024-06-22,Belgium,2,0,Romania,False,False,,UEFA Euro,2024
+2024-06-22,Georgia,1,1,Czech Republic,False,False,,UEFA Euro,2024
+2024-06-22,Turkey,0,3,Portugal,False,False,,UEFA Euro,2024
+2024-06-23,Germany,1,1,Switzerland,False,False,,UEFA Euro,2024
+2024-06-23,Scotland,0,1,Hungary,False,False,,UEFA Euro,2024
+2024-06-24,Albania,0,1,Spain,False,False,,UEFA Euro,2024
+2024-06-24,Croatia,1,1,Italy,False,False,,UEFA Euro,2024
+2024-06-25,England,0,0,Slovenia,False,False,,UEFA Euro,2024
+2024-06-25,Denmark,0,0,Serbia,False,False,,UEFA Euro,2024
+2024-06-25,Netherlands,2,3,Austria,False,False,,UEFA Euro,2024
+2024-06-25,France,1,1,Poland,False,False,,UEFA Euro,2024
+2024-06-26,Slovakia,1,1,Romania,False,False,,UEFA Euro,2024
+2024-06-26,Ukraine,0,0,Belgium,False,False,,UEFA Euro,2024
+2024-06-26,Georgia,2,0,Portugal,False,False,,UEFA Euro,2024
+2024-06-26,Czech Republic,1,2,Turkey,False,False,,UEFA Euro,2024
+2024-06-29,Switzerland,2,0,Italy,False,False,,UEFA Euro,2024
+2024-06-29,Germany,2,0,Denmark,False,False,,UEFA Euro,2024
+2024-06-30,England,2,1,Slovakia,False,False,,UEFA Euro,2024
+2024-06-30,Spain,4,1,Georgia,False,False,,UEFA Euro,2024
+2024-07-01,France,1,0,Belgium,False,False,,UEFA Euro,2024
+2024-07-01,Portugal,0,0,Slovenia,False,False,,UEFA Euro,2024
+2024-07-02,Romania,0,3,Netherlands,False,False,,UEFA Euro,2024
+2024-07-02,Austria,1,2,Turkey,False,False,,UEFA Euro,2024
+2024-07-05,Germany,1,2,Spain,False,False,,UEFA Euro,2024
+2024-07-05,Portugal,0,0,France,False,False,,UEFA Euro,2024
+2024-07-06,England,1,1,Switzerland,False,False,,UEFA Euro,2024
+2024-07-06,Netherlands,2,1,Turkey,False,False,,UEFA Euro,2024
+2024-07-09,Spain,2,1,France,False,False,,UEFA Euro,2024
+2024-07-10,Netherlands,1,2,England,False,False,,UEFA Euro,2024
+2024-07-14,Spain,2,1,England,False,False,,UEFA Euro,2024

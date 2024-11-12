@@ -1,0 +1,5 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2010-10-12,Philippines,5,0,Macau,False,False,,Dragon Cup,2010
+2011-09-30,Hong Kong,3,3,Philippines,False,False,,Dragon Cup,2011
+2011-10-02,Hong Kong,5,1,Macau,False,False,,Dragon Cup,2011
+2011-10-04,Philippines,2,0,Macau,False,False,,Dragon Cup,2011

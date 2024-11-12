@@ -1,0 +1,8 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2023-03-22,India,1,0,Myanmar,False,False,,Tri Nation Tournament,2023
+2023-03-22,Nepal,2,0,Laos,False,False,,Tri Nation Tournament,2023
+2023-03-25,Bhutan,1,2,Laos,False,False,,Tri Nation Tournament,2023
+2023-03-25,Myanmar,1,1,Kyrgyzstan,False,False,,Tri Nation Tournament,2023
+2023-03-28,India,2,0,Kyrgyzstan,False,False,,Tri Nation Tournament,2023
+2023-03-28,Nepal,1,1,Bhutan,False,False,,Tri Nation Tournament,2023
+2023-03-31,Nepal,2,1,Laos,False,False,,Tri Nation Tournament,2023

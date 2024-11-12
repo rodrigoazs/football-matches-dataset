@@ -1,0 +1,30 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1990-07-27,China PR,2,0,North Korea,False,False,,Dynasty Cup,1990
+1990-07-27,Japan,0,2,South Korea,False,False,,Dynasty Cup,1990
+1990-07-29,China PR,1,0,Japan,False,False,,Dynasty Cup,1990
+1990-07-29,South Korea,1,0,North Korea,False,False,,Dynasty Cup,1990
+1990-07-31,China PR,0,1,South Korea,False,False,,Dynasty Cup,1990
+1990-07-31,Japan,0,1,North Korea,False,False,,Dynasty Cup,1990
+1990-08-03,China PR,1,1,South Korea,False,False,,Dynasty Cup,1990
+1992-08-22,China PR,2,2,North Korea,False,False,,Dynasty Cup,1992
+1992-08-22,Japan,0,0,South Korea,False,False,,Dynasty Cup,1992
+1992-08-24,China PR,0,2,Japan,False,False,,Dynasty Cup,1992
+1992-08-24,South Korea,1,1,North Korea,False,False,,Dynasty Cup,1992
+1992-08-26,China PR,0,2,South Korea,False,False,,Dynasty Cup,1992
+1992-08-26,Japan,4,1,North Korea,False,False,,Dynasty Cup,1992
+1992-08-29,China PR,0,0,North Korea,False,False,,Dynasty Cup,1992
+1992-08-29,Japan,2,2,South Korea,False,False,,Dynasty Cup,1992
+1995-02-19,China PR,0,0,South Korea,False,False,,Dynasty Cup,1995
+1995-02-19,Hong Kong,0,3,Japan,False,False,,Dynasty Cup,1995
+1995-02-21,Hong Kong,0,0,China PR,False,False,,Dynasty Cup,1995
+1995-02-21,Japan,1,1,South Korea,False,False,,Dynasty Cup,1995
+1995-02-23,China PR,1,2,Japan,False,False,,Dynasty Cup,1995
+1995-02-23,Hong Kong,2,3,South Korea,False,False,,Dynasty Cup,1995
+1995-02-26,Hong Kong,1,1,China PR,False,False,,Dynasty Cup,1995
+1995-02-26,Japan,2,2,South Korea,False,False,,Dynasty Cup,1995
+1998-03-01,China PR,1,0,Hong Kong,False,False,,Dynasty Cup,1998
+1998-03-01,Japan,2,1,South Korea,False,False,,Dynasty Cup,1998
+1998-03-04,China PR,1,2,South Korea,False,False,,Dynasty Cup,1998
+1998-03-04,Japan,5,1,Hong Kong,False,False,,Dynasty Cup,1998
+1998-03-07,Japan,0,2,China PR,False,False,,Dynasty Cup,1998
+1998-03-08,Hong Kong,0,1,South Korea,False,False,,Dynasty Cup,1998

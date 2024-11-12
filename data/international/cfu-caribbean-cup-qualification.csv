@@ -1,0 +1,607 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1978-06-25,Barbados,0,0,Curaçao,False,False,,CFU Caribbean Cup qualification,1978
+1978-07-02,Guadeloupe,1,0,Jamaica,False,False,,CFU Caribbean Cup qualification,1978
+1978-07-09,Guyana,0,2,Suriname,False,False,,CFU Caribbean Cup qualification,1978
+1978-07-29,Curaçao,1,0,Barbados,False,False,,CFU Caribbean Cup qualification,1978
+1978-07-30,Jamaica,1,2,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1978
+1978-07-30,Suriname,2,1,Guyana,False,False,,CFU Caribbean Cup qualification,1978
+1978-08-20,Puerto Rico,1,1,Haiti,False,False,,CFU Caribbean Cup qualification,1978
+1978-08-20,Trinidad and Tobago,2,4,French Guiana,False,False,,CFU Caribbean Cup qualification,1978
+1978-08-26,Haiti,1,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1978
+1978-09-02,French Guiana,1,4,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1978
+1978-09-16,Haiti,0,0,Martinique,False,False,,CFU Caribbean Cup qualification,1978
+1978-09-30,Curaçao,0,2,Suriname,False,False,,CFU Caribbean Cup qualification,1978
+1978-10-01,Martinique,0,0,Haiti,False,False,,CFU Caribbean Cup qualification,1978
+1978-10-13,Suriname,3,0,Curaçao,False,False,,CFU Caribbean Cup qualification,1978
+1979-05-05,Saint Vincent and the Grenadines,2,2,Martinique,False,False,,CFU Caribbean Cup qualification,1979
+1979-06-03,Jamaica,2,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1979
+1979-06-09,Martinique,0,1,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1979
+1979-06-17,Saint Kitts and Nevis,1,2,Jamaica,False,False,,CFU Caribbean Cup qualification,1979
+1979-07-22,Grenada,0,1,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1979
+1979-08-04,Trinidad and Tobago,2,1,Grenada,False,False,,CFU Caribbean Cup qualification,1979
+1979-09-29,Haiti,1,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1979
+1979-10-15,Antigua and Barbuda,1,2,Haiti,False,False,,CFU Caribbean Cup qualification,1979
+1979-10-22,Guadeloupe,1,3,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1979
+1979-10-22,Saint Vincent and the Grenadines,0,0,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1979
+1979-10-28,Haiti,3,0,Jamaica,False,False,,CFU Caribbean Cup qualification,1979
+1979-11-02,Jamaica,0,4,Haiti,False,False,,CFU Caribbean Cup qualification,1979
+1981-06-07,Suriname,3,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1981
+1981-06-21,French Guiana,3,1,Suriname,False,False,,CFU Caribbean Cup qualification,1981
+1981-06-21,Guadeloupe,5,0,Dominica,False,False,,CFU Caribbean Cup qualification,1981
+1981-07-05,Barbados,1,1,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1981
+1981-07-05,Dominica,2,3,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1981
+1981-07-05,Saint Vincent and the Grenadines,2,1,Martinique,False,False,,CFU Caribbean Cup qualification,1981
+1981-07-17,Trinidad and Tobago,1,1,Barbados,False,False,,CFU Caribbean Cup qualification,1981
+1981-07-19,Martinique,1,2,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1981
+1981-07-19,Suriname,1,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1981
+1981-08-02,Guadeloupe,3,0,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1981
+1981-08-02,Suriname,1,1,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1981
+1981-08-14,Trinidad and Tobago,3,2,Suriname,False,False,,CFU Caribbean Cup qualification,1981
+1981-08-16,Saint Vincent and the Grenadines,3,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1981
+1981-09-13,Saint Vincent and the Grenadines,2,1,Suriname,False,False,,CFU Caribbean Cup qualification,1981
+1981-09-27,Suriname,3,3,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1981
+1983-02-20,Guadeloupe,1,0,Dominica,False,False,,CFU Caribbean Cup qualification,1983
+1983-02-20,Saint Vincent and the Grenadines,1,3,Martinique,False,False,,CFU Caribbean Cup qualification,1983
+1983-03-05,Barbados,1,0,Suriname,False,False,,CFU Caribbean Cup qualification,1983
+1983-03-06,Dominica,1,2,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1983
+1983-03-08,Barbados,0,0,Suriname,False,False,,CFU Caribbean Cup qualification,1983
+1983-04-02,Guadeloupe,2,3,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1983
+1983-04-24,Barbados,1,1,Guyana,False,False,,CFU Caribbean Cup qualification,1983
+1983-05-08,Antigua and Barbuda,3,3,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1983
+1983-05-08,Guyana,2,0,Barbados,False,False,,CFU Caribbean Cup qualification,1983
+1983-05-25,Martinique,7,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1983
+1983-05-29,Guyana,0,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1983
+1983-06-05,Antigua and Barbuda,4,0,Guyana,False,False,,CFU Caribbean Cup qualification,1983
+1983-06-05,Saint Kitts and Nevis,0,5,Martinique,False,False,,CFU Caribbean Cup qualification,1983
+1985-02-24,Antigua and Barbuda,2,1,Dominica,False,False,,CFU Caribbean Cup qualification,1985
+1985-02-24,Saint Vincent and the Grenadines,1,1,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-03,Antigua and Barbuda,0,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-03,Dominica,2,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-03,Grenada,1,5,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-10,French Guiana,0,1,Guyana,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-17,French Guiana,0,1,Suriname,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-24,Guyana,0,1,Suriname,False,False,,CFU Caribbean Cup qualification,1985
+1985-03-24,Saint Vincent and the Grenadines,3,0,Grenada,False,False,,CFU Caribbean Cup qualification,1985
+1985-04-03,Guadeloupe,1,1,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1985
+1985-04-27,Suriname,0,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1985
+1985-05-05,Trinidad and Tobago,0,1,Suriname,False,False,,CFU Caribbean Cup qualification,1985
+1987-11-11,French Guiana,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,1987
+1987-11-29,Barbados,0,4,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1987
+1987-12-05,Suriname,1,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1987
+1987-12-06,Trinidad and Tobago,5,1,Barbados,False,False,,CFU Caribbean Cup qualification,1987
+1988-03-06,Dominica,0,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1988
+1988-03-11,Guadeloupe,0,2,Suriname,False,False,,CFU Caribbean Cup qualification,1988
+1988-03-20,Antigua and Barbuda,2,1,Dominica,False,False,,CFU Caribbean Cup qualification,1988
+1988-04-19,Guadeloupe,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,1988
+1989-04-23,Antigua and Barbuda,1,0,Jamaica,False,False,,CFU Caribbean Cup qualification,1989
+1989-04-23,Saint Kitts and Nevis,1,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1989
+1989-04-23,Saint Lucia,0,0,Dominica,False,False,,CFU Caribbean Cup qualification,1989
+1989-04-23,Trinidad and Tobago,11,0,Aruba,False,False,,CFU Caribbean Cup qualification,1989
+1989-04-26,Curaçao,3,1,Martinique,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-07,Grenada,2,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-07,Jamaica,1,3,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-07,Sint Maarten,1,2,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-10,French Guiana,1,3,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-13,Dominica,0,1,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-21,Aruba,0,0,Grenada,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-21,Guadeloupe,0,0,Dominica,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-21,Martinique,0,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-21,Saint Kitts and Nevis,0,2,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1989
+1989-05-21,Saint Vincent and the Grenadines,3,2,Curaçao,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-03,Curaçao,4,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-04,Dominica,0,0,Jamaica,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-06,Grenada,1,0,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-07,Martinique,10,0,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-08,French Guiana,4,0,Aruba,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-18,Aruba,1,4,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-18,Jamaica,1,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-18,Sint Maarten,1,2,Curaçao,False,False,,CFU Caribbean Cup qualification,1989
+1989-06-30,Grenada,0,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1989
+1990-03-24,Sint Maarten,1,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1990
+1990-03-24,Saint Martin,3,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-14,Bermuda,2,2,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-15,Barbados,1,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-17,Grenada,1,1,Curaçao,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-22,Martinique,4,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-22,Saint Vincent and the Grenadines,2,1,Dominica,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-29,Barbados,1,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-29,Jamaica,3,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1990
+1990-04-29,Suriname,5,0,Guyana,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-06,Saint Martin,2,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-13,Dominica,1,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-13,Saint Lucia,0,2,Bermuda,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-15,Grenada,3,1,Suriname,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-19,Saint Kitts and Nevis,2,0,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-20,Guyana,1,1,Curaçao,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-20,Jamaica,1,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-26,Bermuda,1,1,Barbados,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-27,Antigua and Barbuda,0,2,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-27,Curaçao,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-27,Guyana,0,0,Grenada,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-30,French Guiana,2,2,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-30,Guadeloupe,0,0,Jamaica,False,False,,CFU Caribbean Cup qualification,1990
+1990-05-30,Martinique,0,0,Dominica,False,False,,CFU Caribbean Cup qualification,1990
+1991-05-08,Aruba,0,1,Suriname,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-10,Cayman Islands,2,1,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-10,Guyana,4,1,Aruba,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-10,Puerto Rico,2,3,Haiti,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-10,Saint Lucia,3,0,Montserrat,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-12,Dominican Republic,1,1,Haiti,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-12,Guyana,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-12,Saint Kitts and Nevis,1,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-14,Anguilla,1,1,Montserrat,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-14,Puerto Rico,1,3,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-14,Saint Kitts and Nevis,0,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-15,Martinique,1,2,French Guiana,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-16,Saint Lucia,6,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-17,Guadeloupe,1,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1991
+1991-05-19,Martinique,3,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1991
+1992-03-04,Saint Vincent and the Grenadines,2,2,Curaçao,False,False,,CFU Caribbean Cup qualification,1992
+1992-03-05,Dominica,0,0,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1992
+1992-03-06,Barbados,1,0,Curaçao,False,False,,CFU Caribbean Cup qualification,1992
+1992-03-08,Grenada,0,1,Curaçao,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-01,Cayman Islands,0,7,Martinique,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-03,Sint Maarten,4,2,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-05,Sint Maarten,1,1,Martinique,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-15,Antigua and Barbuda,5,0,Montserrat,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-15,Saint Kitts and Nevis,4,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-17,Antigua and Barbuda,2,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1992
+1992-04-17,Saint Kitts and Nevis,10,0,Montserrat,False,False,,CFU Caribbean Cup qualification,1992
+1992-05-02,Anguilla,0,3,Cuba,False,False,,CFU Caribbean Cup qualification,1992
+1992-05-06,French Guiana,1,1,Guyana,False,False,,CFU Caribbean Cup qualification,1992
+1992-05-08,Aruba,0,2,French Guiana,False,False,,CFU Caribbean Cup qualification,1992
+1992-05-09,Cuba,5,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1992
+1992-05-09,Suriname,3,2,French Guiana,False,False,,CFU Caribbean Cup qualification,1992
+1993-03-03,Martinique,2,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-11,Guyana,3,2,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-11,Puerto Rico,1,0,Barbados,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-12,Cayman Islands,1,6,Barbados,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-12,Guyana,0,2,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-14,Guyana,0,3,Barbados,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-14,Puerto Rico,4,0,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1993
+1993-03-24,French Guiana,2,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-02,Saint Kitts and Nevis,5,1,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-04,Anguilla,0,4,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-04,Dominican Republic,3,1,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-05,Antigua and Barbuda,0,2,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-06,Anguilla,0,1,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-06,Saint Kitts and Nevis,2,2,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-14,Guadeloupe,1,4,Martinique,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-25,Grenada,1,1,Dominica,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-25,Saint Vincent and the Grenadines,0,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-27,Dominica,2,4,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-29,Dominica,0,2,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1993
+1993-04-29,Grenada,0,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1993
+1994-01-19,Suriname,1,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1994
+1994-01-21,Guyana,1,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1994
+1994-01-23,Barbados,0,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1994
+1994-01-23,Suriname,2,0,Guyana,False,False,,CFU Caribbean Cup qualification,1994
+1994-01-25,Grenada,1,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1994
+1994-01-27,Barbados,3,2,Grenada,False,False,,CFU Caribbean Cup qualification,1994
+1994-02-23,Dominica,3,2,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1994
+1994-02-23,Saint Kitts and Nevis,9,1,Montserrat,False,False,,CFU Caribbean Cup qualification,1994
+1994-02-25,Antigua and Barbuda,8,0,Montserrat,False,False,,CFU Caribbean Cup qualification,1994
+1994-02-25,Saint Kitts and Nevis,2,3,Dominica,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-02,Cayman Islands,5,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-02,Jamaica,3,2,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-04,Cayman Islands,5,0,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-04,Guadeloupe,9,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-04,Jamaica,12,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-06,Cayman Islands,3,2,Jamaica,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-06,Sint Maarten,3,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-06,Saint Vincent and the Grenadines,2,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1994
+1994-03-10,Dominican Republic,0,1,Haiti,False,False,,CFU Caribbean Cup qualification,1994
+1995-03-19,Sint Maarten,0,2,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1995
+1995-03-21,Grenada,2,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1995
+1995-03-26,Barbados,3,0,Guyana,False,False,,CFU Caribbean Cup qualification,1995
+1995-03-26,Montserrat,3,2,Anguilla,False,False,,CFU Caribbean Cup qualification,1995
+1995-03-26,Saint Kitts and Nevis,0,1,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1995
+1995-04-02,Anguilla,0,1,Montserrat,False,False,,CFU Caribbean Cup qualification,1995
+1995-04-02,Guyana,0,4,Barbados,False,False,,CFU Caribbean Cup qualification,1995
+1995-04-09,Saint Lucia,4,0,Grenada,False,False,,CFU Caribbean Cup qualification,1995
+1995-04-30,Barbados,1,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1995
+1995-04-30,Saint Kitts and Nevis,1,1,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-07,Aruba,3,4,Curaçao,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-07,Saint Lucia,2,1,Barbados,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-09,French Guiana,1,3,Martinique,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-09,Guadeloupe,1,2,Suriname,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-11,French Guiana,2,2,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-11,Martinique,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-13,French Guiana,4,0,Suriname,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-13,Guadeloupe,2,1,Martinique,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-14,Curaçao,3,2,Aruba,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-21,Antigua and Barbuda,2,2,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-23,Cuba,3,0,Curaçao,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-23,Dominican Republic,3,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-25,Curaçao,2,2,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-25,Dominican Republic,0,3,Cuba,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-27,Cuba,9,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1995
+1995-05-27,Dominican Republic,1,2,Curaçao,False,False,,CFU Caribbean Cup qualification,1995
+1996-03-17,Dominica,0,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1996
+1996-03-23,Curaçao,0,1,Grenada,False,False,,CFU Caribbean Cup qualification,1996
+1996-03-24,French Guiana,1,2,Suriname,False,False,,CFU Caribbean Cup qualification,1996
+1996-03-27,Saint Kitts and Nevis,8,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1996
+1996-03-29,Sint Maarten,4,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1996
+1996-03-31,Saint Kitts and Nevis,3,0,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-14,Suriname,1,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-21,Saint Lucia,1,1,Dominica,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-24,Jamaica,2,0,Barbados,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-24,Martinique,1,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-26,Cayman Islands,0,4,Cuba,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-26,Haiti,6,0,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-28,Barbados,2,0,Jamaica,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-28,Haiti,1,1,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-28,Saint Lucia,0,1,Martinique,False,False,,CFU Caribbean Cup qualification,1996
+1996-04-28,Suriname,2,1,Guyana,False,False,,CFU Caribbean Cup qualification,1996
+1996-05-05,Guyana,2,1,Suriname,False,False,,CFU Caribbean Cup qualification,1996
+1997-02-19,Guyana,2,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1997
+1997-02-21,Jamaica,1,0,Bermuda,False,False,,CFU Caribbean Cup qualification,1997
+1997-02-23,Guyana,2,2,French Guiana,False,False,,CFU Caribbean Cup qualification,1997
+1997-02-23,Jamaica,3,2,Bermuda,False,False,,CFU Caribbean Cup qualification,1997
+1997-03-05,Aruba,2,1,Curaçao,False,False,,CFU Caribbean Cup qualification,1997
+1997-03-12,Martinique,1,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1997
+1997-03-14,Saint Lucia,3,2,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-02,Barbados,1,1,Grenada,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-02,Dominica,6,1,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-02,Sint Maarten,3,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-04,British Virgin Islands,4,2,Anguilla,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-04,Dominica,1,0,Sint Maarten,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-04,Grenada,5,1,Guyana,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-06,Dominica,5,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-06,Guyana,0,2,Barbados,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-06,Sint Maarten,3,2,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1997
+1997-04-27,Dominica,1,2,Martinique,False,False,,CFU Caribbean Cup qualification,1997
+1997-05-04,Aruba,0,6,Jamaica,False,False,,CFU Caribbean Cup qualification,1997
+1997-05-04,Martinique,7,0,Dominica,False,False,,CFU Caribbean Cup qualification,1997
+1998-03-03,Aruba,1,0,French Guiana,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-03,Suriname,3,3,Curaçao,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-05,Aruba,0,1,Curaçao,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-05,Suriname,2,2,French Guiana,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-07,Aruba,3,3,Suriname,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-07,Curaçao,2,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-11,Haiti,4,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-13,Dominican Republic,3,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-15,Haiti,5,0,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-18,Saint Lucia,2,1,Barbados,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-20,Martinique,4,1,Barbados,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-20,Saint Lucia,3,2,Saint Vincent and the Grenadines,False,False,,CFU Caribbean Cup qualification,1998
+1998-03-22,Saint Lucia,1,2,Martinique,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-01,Dominica,1,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-01,Saint Kitts and Nevis,4,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-03,Guadeloupe,3,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-03,Saint Kitts and Nevis,1,2,Dominica,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-05,Dominica,4,1,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-05,Saint Kitts and Nevis,2,1,Guadeloupe,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-15,Grenada,14,1,Anguilla,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-19,Antigua and Barbuda,2,1,Grenada,False,False,,CFU Caribbean Cup qualification,1998
+1998-04-19,Guyana,14,0,Anguilla,False,False,,CFU Caribbean Cup qualification,1998
+1998-05-06,Cayman Islands,2,2,Cuba,False,False,,CFU Caribbean Cup qualification,1998
+1998-05-08,Cuba,2,1,Bermuda,False,False,,CFU Caribbean Cup qualification,1998
+1998-05-10,Cayman Islands,2,0,Bermuda,False,False,,CFU Caribbean Cup qualification,1998
+1999-02-03,Martinique,3,1,French Guiana,False,False,,CFU Caribbean Cup qualification,1999
+1999-02-05,British Virgin Islands,3,1,Montserrat,False,False,,CFU Caribbean Cup qualification,1999
+1999-02-07,British Virgin Islands,3,0,Montserrat,False,False,,CFU Caribbean Cup qualification,1999
+1999-02-24,Bahamas,3,0,Turks and Caicos Islands,False,False,,CFU Caribbean Cup qualification,1999
+1999-02-26,United States Virgin Islands,2,2,Turks and Caicos Islands,False,False,,CFU Caribbean Cup qualification,1999
+1999-02-28,Bahamas,0,0,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,1999
+1999-02-28,Guyana,2,2,Barbados,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-06,Barbados,2,0,Guyana,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-10,Barbados,2,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-10,Guadeloupe,1,0,Dominica,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-12,Barbados,3,1,Dominica,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-12,Guadeloupe,2,1,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-14,Antigua and Barbuda,1,1,Dominica,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-14,Guadeloupe,1,0,Barbados,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-17,British Virgin Islands,0,0,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-17,Haiti,2,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-19,British Virgin Islands,5,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-19,Haiti,4,0,Dominican Republic,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-21,Dominican Republic,2,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,1999
+1999-03-21,Haiti,6,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,1999
+1999-04-17,Saint Lucia,3,1,Martinique,False,False,,CFU Caribbean Cup qualification,1999
+1999-04-17,Saint Vincent and the Grenadines,3,4,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1999
+1999-04-18,Martinique,2,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,1999
+1999-04-18,Saint Vincent and the Grenadines,2,2,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1999
+1999-04-20,Saint Kitts and Nevis,4,3,Saint Lucia,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-04,Curaçao,1,3,Grenada,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-05,Bermuda,6,0,Bahamas,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-05,Cuba,4,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-06,Grenada,0,0,Suriname,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-07,Bermuda,4,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-07,Cuba,7,0,Bahamas,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-08,Curaçao,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-09,Bermuda,1,2,Cuba,False,False,,CFU Caribbean Cup qualification,1999
+1999-05-09,Cayman Islands,4,1,Bahamas,False,False,,CFU Caribbean Cup qualification,1999
+2001-02-03,Puerto Rico,1,2,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2001
+2001-02-06,Saint Martin,3,1,Montserrat,False,False,,CFU Caribbean Cup qualification,2001
+2001-02-08,Anguilla,4,1,Montserrat,False,False,,CFU Caribbean Cup qualification,2001
+2001-02-10,Saint Martin,3,1,Anguilla,False,False,,CFU Caribbean Cup qualification,2001
+2001-02-11,British Virgin Islands,0,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2001
+2001-03-01,Saint Kitts and Nevis,2,1,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2001
+2001-03-03,Antigua and Barbuda,2,3,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2001
+2001-03-04,Antigua and Barbuda,2,2,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-04,Barbados,2,1,Grenada,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-04,Cayman Islands,2,2,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-04,Cuba,3,1,Dominica,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-04,Guyana,2,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-04,Suriname,5,0,Aruba,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-06,Cuba,1,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-06,Grenada,4,2,Aruba,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-06,Guyana,2,0,Dominica,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-06,Martinique,6,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-06,Suriname,2,2,Barbados,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-08,Barbados,5,2,Aruba,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-08,Dominica,2,3,Saint Martin,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-08,Guyana,0,3,Cuba,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-08,Martinique,1,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-08,Suriname,3,1,Grenada,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-10,Guadeloupe,2,3,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-10,Haiti,12,1,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-12,Guadeloupe,11,0,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-12,Haiti,3,2,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-14,Haiti,2,0,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2001
+2001-04-14,Saint Lucia,14,1,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2001
+2004-10-31,Saint Kitts and Nevis,6,1,Montserrat,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-02,Montserrat,4,5,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-02,Saint Kitts and Nevis,1,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-04,Saint Kitts and Nevis,2,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-06,Antigua and Barbuda,1,2,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-10,Guadeloupe,0,1,French Guiana,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-10,Martinique,5,1,Dominica,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-12,Guadeloupe,7,0,Dominica,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-12,Martinique,0,0,French Guiana,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-14,Dominica,0,4,French Guiana,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-14,Martinique,0,0,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-24,Cayman Islands,1,2,Bermuda,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-24,Grenada,2,2,Suriname,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-24,Haiti,11,0,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-24,Jamaica,12,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-24,Trinidad and Tobago,5,0,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-26,British Virgin Islands,0,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-26,Jamaica,11,1,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-26,Puerto Rico,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-26,Saint Martin,0,2,Haiti,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-26,Trinidad and Tobago,2,0,Grenada,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-28,Bermuda,0,2,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-28,Grenada,5,2,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-28,Jamaica,3,1,Haiti,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-28,Trinidad and Tobago,1,0,Suriname,False,False,,CFU Caribbean Cup qualification,2004
+2004-11-28,United States Virgin Islands,0,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-12,British Virgin Islands,0,4,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-12,Cuba,2,0,Martinique,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-12,Haiti,1,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-12,Saint Lucia,1,1,Jamaica,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-15,Saint Kitts and Nevis,0,2,Haiti,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-19,Jamaica,2,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-19,Trinidad and Tobago,2,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2004
+2004-12-21,Martinique,0,2,Cuba,False,False,,CFU Caribbean Cup qualification,2004
+2005-01-08,Jamaica,5,0,French Guiana,False,False,,CFU Caribbean Cup qualification,2005
+2005-01-09,Haiti,0,1,Cuba,False,False,,CFU Caribbean Cup qualification,2005
+2005-01-15,French Guiana,0,0,Jamaica,False,False,,CFU Caribbean Cup qualification,2005
+2005-01-16,Cuba,1,1,Haiti,False,False,,CFU Caribbean Cup qualification,2005
+2006-09-02,Bahamas,3,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-02,Cuba,6,0,Turks and Caicos Islands,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-04,Cayman Islands,0,2,Turks and Caicos Islands,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-04,Cuba,6,0,Bahamas,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-06,Cuba,7,0,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-06,Curaçao,1,1,Grenada,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-06,Suriname,0,5,Guyana,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-06,Turks and Caicos Islands,2,3,Bahamas,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-08,Curaçao,0,5,Guyana,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-08,Suriname,1,0,Grenada,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-10,Curaçao,0,1,Suriname,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-10,Grenada,0,1,Guyana,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-20,Antigua and Barbuda,5,3,Anguilla,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-20,Barbados,1,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-20,Dominica,0,4,Martinique,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-20,Guadeloupe,1,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-22,Anguilla,1,6,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-22,Antigua and Barbuda,1,3,Barbados,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-22,Guadeloupe,1,0,Dominica,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-22,Martinique,1,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-24,Antigua and Barbuda,1,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-24,Barbados,7,1,Anguilla,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-24,Dominica,0,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-24,Guadeloupe,4,0,Martinique,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-27,Jamaica,4,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-27,United States Virgin Islands,0,6,Bermuda,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-29,Bermuda,3,1,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2006
+2006-09-29,Saint Lucia,1,7,Haiti,False,False,,CFU Caribbean Cup qualification,2006
+2006-10-01,Jamaica,2,0,Haiti,False,False,,CFU Caribbean Cup qualification,2006
+2006-10-01,Saint Vincent and the Grenadines,8,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2006
+2006-10-01,United States Virgin Islands,1,6,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-08,Haiti,1,2,Cuba,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-08,Martinique,1,0,Suriname,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-10,Cuba,3,1,Suriname,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-10,Martinique,1,0,Haiti,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-12,Haiti,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-12,Martinique,0,0,Cuba,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-19,Barbados,2,1,Bahamas,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-21,Bahamas,0,4,Bermuda,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-23,Barbados,1,1,Bermuda,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-24,Dominican Republic,0,3,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-24,Guyana,6,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-26,Dominican Republic,2,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-26,Guyana,3,2,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-28,Antigua and Barbuda,1,3,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2006
+2006-11-28,Guyana,4,0,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2006
+2007-01-07,Haiti,2,0,Bermuda,False,False,,CFU Caribbean Cup qualification,2007
+2007-01-09,Bermuda,0,3,Haiti,False,False,,CFU Caribbean Cup qualification,2007
+2008-07-27,Curaçao,0,0,Aruba,False,False,,CFU Caribbean Cup qualification,2008
+2008-07-29,Grenada,3,1,Aruba,False,False,,CFU Caribbean Cup qualification,2008
+2008-07-31,Curaçao,2,0,Grenada,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-08,Guyana,3,0,Dominica,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-09,Dominica,1,3,Suriname,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-10,Guyana,1,1,Suriname,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-27,Bermuda,0,4,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-27,Cayman Islands,3,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-30,Cayman Islands,1,1,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-30,Saint Martin,0,7,Bermuda,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-31,Antigua and Barbuda,3,2,Saint Martin,False,False,,CFU Caribbean Cup qualification,2008
+2008-08-31,Cayman Islands,0,0,Bermuda,False,False,,CFU Caribbean Cup qualification,2008
+2008-09-19,Martinique,3,1,Anguilla,False,False,,CFU Caribbean Cup qualification,2008
+2008-09-24,Saint Kitts and Nevis,4,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2008
+2008-09-26,British Virgin Islands,1,2,Barbados,False,False,,CFU Caribbean Cup qualification,2008
+2008-09-28,Saint Kitts and Nevis,1,3,Barbados,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-11,Guadeloupe,7,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-11,Martinique,2,2,Grenada,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-13,Cayman Islands,0,1,Martinique,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-13,Guadeloupe,2,1,Grenada,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-15,Grenada,4,2,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-15,Guadeloupe,3,1,Martinique,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-23,Barbados,3,2,Suriname,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-23,Cuba,7,1,Curaçao,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-25,Cuba,1,1,Barbados,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-25,Suriname,2,1,Curaçao,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-27,Cuba,6,0,Suriname,False,False,,CFU Caribbean Cup qualification,2008
+2008-10-27,Curaçao,1,2,Barbados,False,False,,CFU Caribbean Cup qualification,2008
+2008-11-05,Guyana,1,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2008
+2008-11-05,Trinidad and Tobago,3,2,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2008
+2008-11-07,Antigua and Barbuda,2,1,Guyana,False,False,,CFU Caribbean Cup qualification,2008
+2008-11-07,Trinidad and Tobago,3,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2008
+2008-11-09,Saint Kitts and Nevis,3,4,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2008
+2008-11-09,Trinidad and Tobago,1,1,Guyana,False,False,,CFU Caribbean Cup qualification,2008
+2010-10-01,Saint Martin,1,1,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-02,Puerto Rico,3,1,Anguilla,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-04,Cayman Islands,4,1,Anguilla,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-04,Puerto Rico,2,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-06,Anguilla,2,1,Saint Martin,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-06,Barbados,1,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-06,Puerto Rico,2,0,Cayman Islands,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-08,Montserrat,0,5,Barbados,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-08,Saint Vincent and the Grenadines,1,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-10,Saint Kitts and Nevis,4,0,Montserrat,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-13,Guyana,1,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-13,Suriname,2,1,Curaçao,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-14,Dominican Republic,17,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-15,British Virgin Islands,0,10,Dominica,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-15,Curaçao,2,3,Guyana,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-15,Suriname,2,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-17,Dominican Republic,0,1,Dominica,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-17,Saint Lucia,2,2,Curaçao,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-17,Suriname,0,2,Guyana,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-22,Grenada,3,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-22,Saint Kitts and Nevis,1,2,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-24,Grenada,2,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-24,Guadeloupe,3,2,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-26,Grenada,0,3,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2010
+2010-10-26,Puerto Rico,0,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-02,Haiti,0,0,Guyana,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-04,Trinidad and Tobago,2,1,Guyana,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-06,Trinidad and Tobago,4,0,Haiti,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-10,Antigua and Barbuda,2,1,Suriname,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-10,Cuba,4,2,Dominica,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-12,Antigua and Barbuda,0,0,Dominica,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-12,Suriname,3,3,Cuba,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-14,Antigua and Barbuda,0,0,Cuba,False,False,,CFU Caribbean Cup qualification,2010
+2010-11-14,Dominica,0,5,Suriname,False,False,,CFU Caribbean Cup qualification,2010
+2012-09-05,Martinique,16,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-05,Montserrat,1,7,Suriname,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-07,Bermuda,1,2,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-07,British Virgin Islands,0,4,Suriname,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-07,Haiti,7,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-07,Martinique,5,0,Montserrat,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-09,British Virgin Islands,0,7,Montserrat,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-09,Haiti,3,1,Bermuda,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-09,Martinique,2,2,Suriname,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-09,Puerto Rico,9,0,Saint Martin,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-11,Haiti,2,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-11,Saint Martin,0,8,Bermuda,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-23,Aruba,2,2,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-23,Barbados,1,0,Dominica,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-25,Barbados,0,1,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-25,Dominica,3,2,Aruba,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-27,Barbados,2,1,Aruba,False,False,,CFU Caribbean Cup qualification,2012
+2012-09-27,Dominican Republic,2,1,Dominica,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-10,French Guiana,1,4,Trinidad and Tobago,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-12,French Guiana,4,1,Anguilla,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-14,Saint Kitts and Nevis,0,3,French Guiana,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-14,Trinidad and Tobago,10,0,Anguilla,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-21,Saint Lucia,5,1,Curaçao,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-23,Curaçao,1,2,Guyana,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-23,Guadeloupe,0,2,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-23,Martinique,2,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-25,Dominican Republic,1,1,Martinique,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-25,Guadeloupe,4,1,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-25,Saint Vincent and the Grenadines,4,0,Curaçao,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-27,Guadeloupe,3,3,Martinique,False,False,,CFU Caribbean Cup qualification,2012
+2012-10-27,Puerto Rico,1,3,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2012
+2012-11-14,Cuba,5,0,Suriname,False,False,,CFU Caribbean Cup qualification,2012
+2012-11-14,Grenada,1,1,French Guiana,False,False,,CFU Caribbean Cup qualification,2012
+2012-11-14,Haiti,1,0,Guyana,False,False,,CFU Caribbean Cup qualification,2012
+2012-11-16,French Guiana,1,0,Haiti,False,False,,CFU Caribbean Cup qualification,2012
+2012-11-16,Trinidad and Tobago,3,0,Suriname,False,False,,CFU Caribbean Cup qualification,2012
+2012-11-18,Guyana,4,3,French Guiana,False,False,,CFU Caribbean Cup qualification,2012
+2014-05-30,Aruba,1,0,Turks and Caicos Islands,False,False,,CFU Caribbean Cup qualification,2014
+2014-05-30,French Guiana,6,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2014
+2014-05-30,Montserrat,1,0,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2014
+2014-06-01,Aruba,7,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2014
+2014-06-01,Turks and Caicos Islands,0,6,French Guiana,False,False,,CFU Caribbean Cup qualification,2014
+2014-06-01,United States Virgin Islands,1,2,Bonaire,False,False,,CFU Caribbean Cup qualification,2014
+2014-06-03,Aruba,0,2,French Guiana,False,False,,CFU Caribbean Cup qualification,2014
+2014-06-03,British Virgin Islands,0,2,Turks and Caicos Islands,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-03,Grenada,1,1,French Guiana,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-03,Guyana,0,0,Dominica,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-03,Puerto Rico,2,2,Curaçao,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-05,Curaçao,2,1,Grenada,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-05,Puerto Rico,1,2,French Guiana,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-05,Saint Kitts and Nevis,5,0,Dominica,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-05,Saint Lucia,2,0,Guyana,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-05,Saint Vincent and the Grenadines,4,0,Anguilla,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-05,Suriname,2,3,Bonaire,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-07,Bonaire,1,4,Barbados,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-07,Dominica,1,2,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-07,French Guiana,0,0,Curaçao,False,False,,CFU Caribbean Cup qualification,2014
+2014-09-07,Puerto Rico,2,2,Grenada,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-08,Antigua and Barbuda,2,1,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-08,Curaçao,1,1,Martinique,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-08,Haiti,2,2,French Guiana,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-08,Saint Kitts and Nevis,2,3,Barbados,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-08,Trinidad and Tobago,6,1,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-10,French Guiana,1,2,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-10,Saint Vincent and the Grenadines,1,0,Curaçao,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-10,Trinidad and Tobago,2,0,Saint Lucia,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-12,Barbados,0,2,French Guiana,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-12,Guadeloupe,0,1,Curaçao,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-12,Haiti,0,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-12,Saint Lucia,2,3,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2014
+2014-10-12,Trinidad and Tobago,1,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2014
+2016-03-22,Cuba,2,1,Bermuda,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-23,Antigua and Barbuda,2,1,Aruba,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-23,Barbados,1,0,Curaçao,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-23,Guadeloupe,0,0,Suriname,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-23,Martinique,3,0,British Virgin Islands,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-26,Anguilla,0,4,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-26,Aruba,0,2,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-26,Bermuda,2,1,French Guiana,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-26,British Virgin Islands,0,7,Dominica,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-26,Curaçao,2,1,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-26,Sint Maarten,1,2,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-29,Dominica,1,4,Martinique,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-29,Dominican Republic,2,0,Barbados,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-29,French Guiana,3,0,Cuba,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-29,Saint Kitts and Nevis,1,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-29,Suriname,3,2,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2016
+2016-03-29,United States Virgin Islands,1,2,Grenada,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-01,Curaçao,5,2,Guyana,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-01,Grenada,3,3,Puerto Rico,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-01,Martinique,2,0,Guadeloupe,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-01,Saint Kitts and Nevis,1,0,Suriname,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-04,Guadeloupe,2,1,Dominica,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-04,United States Virgin Islands,0,7,Guyana,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-07,Curaçao,7,0,United States Virgin Islands,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-07,Dominican Republic,2,1,French Guiana,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-07,Saint Vincent and the Grenadines,0,1,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2016
+2016-06-19,French Guiana,3,0,Bermuda,False,False,,CFU Caribbean Cup qualification,2016
+2016-10-05,Curaçao,3,0,Antigua and Barbuda,False,False,,CFU Caribbean Cup qualification,2016
+2016-10-05,Trinidad and Tobago,4,0,Dominican Republic,False,False,,CFU Caribbean Cup qualification,2016
+2016-10-08,Dominican Republic,1,2,Martinique,False,False,,CFU Caribbean Cup qualification,2016
+2016-10-08,French Guiana,1,0,Saint Kitts and Nevis,False,False,,CFU Caribbean Cup qualification,2016
+2016-10-08,Suriname,3,2,Guyana,False,False,,CFU Caribbean Cup qualification,2016
+2016-10-11,Puerto Rico,2,4,Curaçao,False,False,,CFU Caribbean Cup qualification,2016
+2016-11-09,Haiti,2,5,French Guiana,False,False,,CFU Caribbean Cup qualification,2016
+2016-11-13,Jamaica,1,0,Suriname,False,False,,CFU Caribbean Cup qualification,2016
+2016-11-13,Saint Kitts and Nevis,0,2,Haiti,False,False,,CFU Caribbean Cup qualification,2016
+2017-01-04,Trinidad and Tobago,1,2,Suriname,False,False,,CFU Caribbean Cup qualification,2017
+2017-01-06,Suriname,2,4,Haiti,False,False,,CFU Caribbean Cup qualification,2017
+2017-01-08,Trinidad and Tobago,3,4,Haiti,False,False,,CFU Caribbean Cup qualification,2017

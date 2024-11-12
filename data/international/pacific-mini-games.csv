@@ -1,0 +1,16 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2017-12-02,Fiji,8,0,Tuvalu,False,False,,Pacific Mini Games,2017
+2017-12-02,Tonga,0,8,Solomon Islands,False,False,,Pacific Mini Games,2017
+2017-12-02,Vanuatu,2,1,New Caledonia,False,False,,Pacific Mini Games,2017
+2017-12-05,Tuvalu,2,1,New Caledonia,False,False,,Pacific Mini Games,2017
+2017-12-06,Solomon Islands,0,0,Fiji,False,False,,Pacific Mini Games,2017
+2017-12-06,Vanuatu,5,0,Tonga,False,False,,Pacific Mini Games,2017
+2017-12-09,Tonga,2,4,New Caledonia,False,False,,Pacific Mini Games,2017
+2017-12-09,Solomon Islands,6,0,Tuvalu,False,False,,Pacific Mini Games,2017
+2017-12-09,Vanuatu,1,1,Fiji,False,False,,Pacific Mini Games,2017
+2017-12-12,Fiji,4,0,Tonga,False,False,,Pacific Mini Games,2017
+2017-12-12,New Caledonia,0,0,Solomon Islands,False,False,,Pacific Mini Games,2017
+2017-12-12,Vanuatu,10,0,Tuvalu,False,False,,Pacific Mini Games,2017
+2017-12-15,Tuvalu,4,3,Tonga,False,False,,Pacific Mini Games,2017
+2017-12-15,Fiji,4,1,New Caledonia,False,False,,Pacific Mini Games,2017
+2017-12-15,Vanuatu,3,2,Solomon Islands,False,False,,Pacific Mini Games,2017

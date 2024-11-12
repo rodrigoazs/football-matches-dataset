@@ -1,0 +1,50 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2015-06-17,Székely Land,2,3,County of Nice,False,False,,CONIFA European Football Cup,2015
+2015-06-17,Padania,3,2,Romani people,False,False,,CONIFA European Football Cup,2015
+2015-06-18,Székely Land,1,3,Felvidék,False,False,,CONIFA European Football Cup,2015
+2015-06-18,Romani people,1,3,Ellan Vannin,False,False,,CONIFA European Football Cup,2015
+2015-06-19,Felvidék,1,4,County of Nice,False,False,,CONIFA European Football Cup,2015
+2015-06-19,Padania,1,0,Ellan Vannin,False,False,,CONIFA European Football Cup,2015
+2015-06-19,Székely Land,2,4,Romani people,False,False,,CONIFA European Football Cup,2015
+2015-06-20,County of Nice,3,1,Ellan Vannin,False,False,,CONIFA European Football Cup,2015
+2015-06-20,Padania,5,0,Felvidék,False,False,,CONIFA European Football Cup,2015
+2015-06-21,Ellan Vannin,1,1,Felvidék,False,False,,CONIFA European Football Cup,2015
+2015-06-21,County of Nice,1,4,Padania,False,False,,CONIFA European Football Cup,2015
+2017-06-04,Northern Cyprus,1,0,Kárpátalja,False,False,,CONIFA European Football Cup,2017
+2017-06-05,Abkhazia,2,1,South Ossetia,False,False,,CONIFA European Football Cup,2017
+2017-06-05,Padania,1,0,Ellan Vannin,False,False,,CONIFA European Football Cup,2017
+2017-06-05,Felvidék,1,0,Székely Land,False,False,,CONIFA European Football Cup,2017
+2017-06-06,Northern Cyprus,8,0,South Ossetia,False,False,,CONIFA European Football Cup,2017
+2017-06-06,Kárpátalja,2,2,Abkhazia,False,False,,CONIFA European Football Cup,2017
+2017-06-06,Székely Land,1,1,Padania,False,False,,CONIFA European Football Cup,2017
+2017-06-06,Ellan Vannin,1,0,Felvidék,False,False,,CONIFA European Football Cup,2017
+2017-06-07,Northern Cyprus,0,0,Abkhazia,False,False,,CONIFA European Football Cup,2017
+2017-06-07,South Ossetia,1,4,Kárpátalja,False,False,,CONIFA European Football Cup,2017
+2017-06-07,Ellan Vannin,2,4,Székely Land,False,False,,CONIFA European Football Cup,2017
+2017-06-07,Padania,2,0,Felvidék,False,False,,CONIFA European Football Cup,2017
+2017-06-09,South Ossetia,0,2,Felvidék,False,False,,CONIFA European Football Cup,2017
+2017-06-09,Kárpátalja,3,3,Ellan Vannin,False,False,,CONIFA European Football Cup,2017
+2017-06-09,Northern Cyprus,2,1,Székely Land,False,False,,CONIFA European Football Cup,2017
+2017-06-09,Padania,0,0,Abkhazia,False,False,,CONIFA European Football Cup,2017
+2017-06-10,Székely Land,3,1,Abkhazia,False,False,,CONIFA European Football Cup,2017
+2017-06-10,Northern Cyprus,1,1,Padania,False,False,,CONIFA European Football Cup,2017
+2019-06-02,Abkhazia,3,1,Chameria,False,False,,CONIFA European Football Cup,2019
+2019-06-02,Artsakh,3,2,Sápmi,False,False,,CONIFA European Football Cup,2019
+2019-06-02,Padania,4,0,Székely Land,False,False,,CONIFA European Football Cup,2019
+2019-06-02,Western Armenia,1,2,South Ossetia,False,False,,CONIFA European Football Cup,2019
+2019-06-03,Artsakh,1,4,Chameria,False,False,,CONIFA European Football Cup,2019
+2019-06-03,Sápmi,0,1,Abkhazia,False,False,,CONIFA European Football Cup,2019
+2019-06-03,Székely Land,0,5,Western Armenia,False,False,,CONIFA European Football Cup,2019
+2019-06-03,South Ossetia,2,1,Padania,False,False,,CONIFA European Football Cup,2019
+2019-06-04,Artsakh,1,1,Abkhazia,False,False,,CONIFA European Football Cup,2019
+2019-06-04,Chameria,4,0,Sápmi,False,False,,CONIFA European Football Cup,2019
+2019-06-04,South Ossetia,2,2,Székely Land,False,False,,CONIFA European Football Cup,2019
+2019-06-04,Padania,1,1,Western Armenia,False,False,,CONIFA European Football Cup,2019
+2019-06-06,Abkhazia,1,1,Western Armenia,False,False,,CONIFA European Football Cup,2019
+2019-06-06,South Ossetia,0,0,Chameria,False,False,,CONIFA European Football Cup,2019
+2019-06-06,Padania,4,0,Sápmi,False,False,,CONIFA European Football Cup,2019
+2019-06-06,Artsakh,2,1,Székely Land,False,False,,CONIFA European Football Cup,2019
+2019-06-08,Abkhazia,0,0,Chameria,False,False,,CONIFA European Football Cup,2019
+2019-06-08,Sápmi,3,2,Székely Land,False,False,,CONIFA European Football Cup,2019
+2019-06-08,Artsakh,2,0,Padania,False,False,,CONIFA European Football Cup,2019
+2019-06-09,Western Armenia,0,1,South Ossetia,False,False,,CONIFA European Football Cup,2019

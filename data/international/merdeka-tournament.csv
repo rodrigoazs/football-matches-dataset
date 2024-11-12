@@ -1,0 +1,600 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1957-08-31,Indonesia,4,0,Thailand,False,False,,Merdeka Tournament,1957
+1957-08-31,Singapore,5,5,Vietnam Republic,False,False,,Merdeka Tournament,1957
+1957-09-01,Cambodia,0,3,Thailand,False,False,,Merdeka Tournament,1957
+1957-09-01,Malaysia,5,2,Myanmar,False,False,,Merdeka Tournament,1957
+1957-09-01,Singapore,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1957
+1957-09-03,Myanmar,2,0,Cambodia,False,False,,Merdeka Tournament,1957
+1957-09-03,Malaysia,1,4,Vietnam Republic,False,False,,Merdeka Tournament,1957
+1957-09-03,Singapore,6,0,Thailand,False,False,,Merdeka Tournament,1957
+1957-09-05,Myanmar,5,2,Thailand,False,False,,Merdeka Tournament,1957
+1957-09-05,Cambodia,1,1,Singapore,False,False,,Merdeka Tournament,1957
+1957-09-05,Indonesia,3,1,Vietnam Republic,False,False,,Merdeka Tournament,1957
+1957-09-07,Myanmar,2,3,Singapore,False,False,,Merdeka Tournament,1957
+1957-09-07,Malaysia,4,2,Indonesia,False,False,,Merdeka Tournament,1957
+1958-08-30,Singapore,4,4,Vietnam Republic,False,False,,Merdeka Tournament,1958
+1958-08-30,Malaysia,3,2,Indonesia,False,False,,Merdeka Tournament,1958
+1958-08-31,Indonesia,2,0,Singapore,False,False,,Merdeka Tournament,1958
+1958-09-02,Indonesia,4,1,Vietnam Republic,False,False,,Merdeka Tournament,1958
+1958-09-02,Malaysia,0,0,Singapore,False,False,,Merdeka Tournament,1958
+1958-09-04,Malaysia,2,0,Vietnam Republic,False,False,,Merdeka Tournament,1958
+1959-08-30,South Korea,2,3,Vietnam Republic,False,False,,Merdeka Tournament,1959
+1959-08-31,India,2,0,Singapore,False,False,,Merdeka Tournament,1959
+1959-09-02,South Korea,4,1,Singapore,False,False,,Merdeka Tournament,1959
+1959-09-02,Malaysia,4,3,Vietnam Republic,False,False,,Merdeka Tournament,1959
+1959-09-03,Japan,4,1,Singapore,False,False,,Merdeka Tournament,1959
+1959-09-04,Malaysia,1,1,India,False,False,,Merdeka Tournament,1959
+1959-09-05,Japan,0,0,South Korea,False,False,,Merdeka Tournament,1959
+1959-09-06,India,2,2,Vietnam Republic,False,False,,Merdeka Tournament,1959
+1959-09-06,Japan,1,3,South Korea,False,False,,Merdeka Tournament,1959
+1960-08-05,Malaysia,3,0,Japan,False,False,,Merdeka Tournament,1960
+1960-08-05,Pakistan,7,0,Thailand,False,False,,Merdeka Tournament,1960
+1960-08-06,South Korea,2,0,Indonesia,False,False,,Merdeka Tournament,1960
+1960-08-07,Malaysia,8,2,Thailand,False,False,,Merdeka Tournament,1960
+1960-08-07,Vietnam Republic,2,1,Singapore,False,False,,Merdeka Tournament,1960
+1960-08-08,Indonesia,8,3,Singapore,False,False,,Merdeka Tournament,1960
+1960-08-10,Vietnam Republic,0,0,South Korea,False,False,,Merdeka Tournament,1960
+1960-08-10,Pakistan,3,1,Japan,False,False,,Merdeka Tournament,1960
+1960-08-11,South Korea,3,3,Singapore,False,False,,Merdeka Tournament,1960
+1960-08-12,Japan,3,1,Thailand,False,False,,Merdeka Tournament,1960
+1960-08-12,Malaysia,1,0,Pakistan,False,False,,Merdeka Tournament,1960
+1960-08-13,Indonesia,5,3,Vietnam Republic,False,False,,Merdeka Tournament,1960
+1960-08-14,Indonesia,4,0,Pakistan,False,False,,Merdeka Tournament,1960
+1960-08-14,Malaysia,0,0,South Korea,False,False,,Merdeka Tournament,1960
+1961-08-02,Indonesia,1,0,Singapore,False,False,,Merdeka Tournament,1961
+1961-08-02,Malaysia,3,2,Japan,False,False,,Merdeka Tournament,1961
+1961-08-03,India,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1961
+1961-08-05,Malaysia,3,1,Vietnam Republic,False,False,,Merdeka Tournament,1961
+1961-08-06,Hong Kong,2,1,Thailand,False,False,,Merdeka Tournament,1961
+1961-08-06,India,1,3,Japan,False,False,,Merdeka Tournament,1961
+1961-08-09,Indonesia,2,1,Thailand,False,False,,Merdeka Tournament,1961
+1961-08-09,Malaysia,1,2,India,False,False,,Merdeka Tournament,1961
+1961-08-10,Japan,2,3,Vietnam Republic,False,False,,Merdeka Tournament,1961
+1961-08-12,Singapore,5,3,Thailand,False,False,,Merdeka Tournament,1961
+1961-08-13,Malaysia,1,2,Indonesia,False,False,,Merdeka Tournament,1961
+1961-08-13,Singapore,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1961
+1962-09-08,Malaysia,2,2,Japan,False,False,,Merdeka Tournament,1962
+1962-09-09,Myanmar,0,1,Pakistan,False,False,,Merdeka Tournament,1962
+1962-09-11,Indonesia,2,0,Singapore,False,False,,Merdeka Tournament,1962
+1962-09-12,Indonesia,9,0,Philippines,False,False,,Merdeka Tournament,1962
+1962-09-12,Japan,1,1,Pakistan,False,False,,Merdeka Tournament,1962
+1962-09-13,Malaysia,3,2,Myanmar,False,False,,Merdeka Tournament,1962
+1962-09-13,Philippines,0,5,Singapore,False,False,,Merdeka Tournament,1962
+1962-09-14,Indonesia,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1962
+1962-09-15,Myanmar,3,1,Japan,False,False,,Merdeka Tournament,1962
+1962-09-16,Malaysia,0,0,Pakistan,False,False,,Merdeka Tournament,1962
+1962-09-16,Philippines,0,6,Vietnam Republic,False,False,,Merdeka Tournament,1962
+1962-09-17,Singapore,2,2,Vietnam Republic,False,False,,Merdeka Tournament,1962
+1962-09-19,Indonesia,2,1,Pakistan,False,False,,Merdeka Tournament,1962
+1963-08-08,Malaysia,3,4,Japan,False,False,,Merdeka Tournament,1963
+1963-08-09,Taiwan,1,1,Vietnam Republic,False,False,,Merdeka Tournament,1963
+1963-08-10,Thailand,1,4,Japan,False,False,,Merdeka Tournament,1963
+1963-08-11,South Korea,5,1,Thailand,False,False,,Merdeka Tournament,1963
+1963-08-11,Malaysia,0,5,Vietnam Republic,False,False,,Merdeka Tournament,1963
+1963-08-12,Malaysia,2,3,Taiwan,False,False,,Merdeka Tournament,1963
+1963-08-12,Vietnam Republic,1,5,Japan,False,False,,Merdeka Tournament,1963
+1963-08-13,South Korea,1,1,Japan,False,False,,Merdeka Tournament,1963
+1963-08-14,South Korea,3,1,Vietnam Republic,False,False,,Merdeka Tournament,1963
+1963-08-14,Malaysia,2,2,Thailand,False,False,,Merdeka Tournament,1963
+1963-08-15,Taiwan,2,0,Japan,False,False,,Merdeka Tournament,1963
+1963-08-16,Taiwan,2,2,Thailand,False,False,,Merdeka Tournament,1963
+1963-08-16,Malaysia,3,0,South Korea,False,False,,Merdeka Tournament,1963
+1963-08-17,Thailand,2,3,Vietnam Republic,False,False,,Merdeka Tournament,1963
+1963-08-18,Taiwan,1,0,South Korea,False,False,,Merdeka Tournament,1963
+1964-08-22,Malaysia,3,0,Thailand,False,False,,Merdeka Tournament,1964
+1964-08-23,Cambodia,0,4,Taiwan,False,False,,Merdeka Tournament,1964
+1964-08-24,Malaysia,1,1,India,False,False,,Merdeka Tournament,1964
+1964-08-27,Cambodia,0,4,India,False,False,,Merdeka Tournament,1964
+1964-08-28,Taiwan,0,0,Vietnam Republic,False,False,,Merdeka Tournament,1964
+1964-08-28,Malaysia,0,3,Myanmar,False,False,,Merdeka Tournament,1964
+1964-08-29,India,2,1,Thailand,False,False,,Merdeka Tournament,1964
+1964-08-30,Myanmar,2,4,Taiwan,False,False,,Merdeka Tournament,1964
+1964-08-30,Malaysia,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1964
+1964-09-01,Cambodia,0,1,Thailand,False,False,,Merdeka Tournament,1964
+1964-09-02,Myanmar,1,0,Vietnam Republic,False,False,,Merdeka Tournament,1964
+1964-09-02,Malaysia,5,2,Taiwan,False,False,,Merdeka Tournament,1964
+1964-09-05,Malaysia,1,1,Thailand,False,False,,Merdeka Tournament,1964
+1964-09-06,Myanmar,1,0,India,False,False,,Merdeka Tournament,1964
+1965-08-14,South Korea,2,3,Thailand,False,False,,Merdeka Tournament,1965
+1965-08-14,Malaysia,2,2,Japan,False,False,,Merdeka Tournament,1965
+1965-08-15,Myanmar,4,2,Hong Kong,False,False,,Merdeka Tournament,1965
+1965-08-15,Vietnam Republic,5,2,Taiwan,False,False,,Merdeka Tournament,1965
+1965-08-15,India,1,1,Japan,False,False,,Merdeka Tournament,1965
+1965-08-17,Hong Kong,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1965
+1965-08-17,Malaysia,0,2,South Korea,False,False,,Merdeka Tournament,1965
+1965-08-18,Japan,0,4,Taiwan,False,False,,Merdeka Tournament,1965
+1965-08-19,Hong Kong,2,2,India,False,False,,Merdeka Tournament,1965
+1965-08-19,Malaysia,3,3,Vietnam Republic,False,False,,Merdeka Tournament,1965
+1965-08-20,Thailand,2,3,Taiwan,False,False,,Merdeka Tournament,1965
+1965-08-20,Japan,3,1,Myanmar,False,False,,Merdeka Tournament,1965
+1965-08-21,South Korea,0,0,Vietnam Republic,False,False,,Merdeka Tournament,1965
+1965-08-21,Malaysia,0,3,India,False,False,,Merdeka Tournament,1965
+1965-08-22,Myanmar,1,1,Thailand,False,False,,Merdeka Tournament,1965
+1965-08-23,India,0,1,South Korea,False,False,,Merdeka Tournament,1965
+1965-08-23,Malaysia,1,3,Hong Kong,False,False,,Merdeka Tournament,1965
+1965-08-24,Myanmar,3,1,Taiwan,False,False,,Merdeka Tournament,1965
+1965-08-24,Japan,0,0,Thailand,False,False,,Merdeka Tournament,1965
+1965-08-25,Hong Kong,0,1,South Korea,False,False,,Merdeka Tournament,1965
+1965-08-25,India,2,0,Vietnam Republic,False,False,,Merdeka Tournament,1965
+1965-08-27,Myanmar,1,1,India,False,False,,Merdeka Tournament,1965
+1965-08-27,Hong Kong,1,1,Thailand,False,False,,Merdeka Tournament,1965
+1965-08-28,Japan,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1965
+1965-08-28,South Korea,1,1,Taiwan,False,False,,Merdeka Tournament,1965
+1966-08-13,Myanmar,2,2,Singapore,False,False,,Merdeka Tournament,1966
+1966-08-13,Malaysia,5,2,Vietnam Republic,False,False,,Merdeka Tournament,1966
+1966-08-14,Hong Kong,0,2,India,False,False,,Merdeka Tournament,1966
+1966-08-14,South Korea,2,0,Japan,False,False,,Merdeka Tournament,1966
+1966-08-15,Taiwan,2,1,Thailand,False,False,,Merdeka Tournament,1966
+1966-08-17,Myanmar,3,0,Thailand,False,False,,Merdeka Tournament,1966
+1966-08-17,Taiwan,0,3,Vietnam Republic,False,False,,Merdeka Tournament,1966
+1966-08-17,India,3,0,Japan,False,False,,Merdeka Tournament,1966
+1966-08-19,Hong Kong,0,1,South Korea,False,False,,Merdeka Tournament,1966
+1966-08-19,Malaysia,0,0,Thailand,False,False,,Merdeka Tournament,1966
+1966-08-20,Singapore,4,1,Taiwan,False,False,,Merdeka Tournament,1966
+1966-08-20,Japan,5,2,Taiwan,False,False,,Merdeka Tournament,1966
+1966-08-20,Singapore,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1966
+1966-08-21,South Korea,2,1,Thailand,False,False,,Merdeka Tournament,1966
+1966-08-21,Hong Kong,0,2,Myanmar,False,False,,Merdeka Tournament,1966
+1966-08-22,India,0,1,Singapore,False,False,,Merdeka Tournament,1966
+1966-08-22,Japan,0,2,Vietnam Republic,False,False,,Merdeka Tournament,1966
+1966-08-23,Myanmar,2,0,South Korea,False,False,,Merdeka Tournament,1966
+1966-08-23,Hong Kong,2,2,Thailand,False,False,,Merdeka Tournament,1966
+1966-08-23,India,1,0,Taiwan,False,False,,Merdeka Tournament,1966
+1966-08-23,Malaysia,0,0,Myanmar,False,False,,Merdeka Tournament,1966
+1966-08-25,Malaysia,1,0,Hong Kong,False,False,,Merdeka Tournament,1966
+1966-08-25,Singapore,0,1,Japan,False,False,,Merdeka Tournament,1966
+1966-08-26,India,1,0,Vietnam Republic,False,False,,Merdeka Tournament,1966
+1966-08-27,Malaysia,1,2,South Korea,False,False,,Merdeka Tournament,1966
+1966-08-28,Myanmar,0,1,Vietnam Republic,False,False,,Merdeka Tournament,1966
+1966-08-28,India,1,0,South Korea,False,False,,Merdeka Tournament,1966
+1967-08-10,Hong Kong,1,0,Thailand,False,False,,Merdeka Tournament,1967
+1967-08-10,Malaysia,3,2,Western Australia,False,False,,Merdeka Tournament,1967
+1967-08-11,Indonesia,1,3,South Korea,False,False,,Merdeka Tournament,1967
+1967-08-11,Singapore,3,3,Taiwan,False,False,,Merdeka Tournament,1967
+1967-08-12,Hong Kong,0,5,Vietnam Republic,False,False,,Merdeka Tournament,1967
+1967-08-12,India,1,1,Thailand,False,False,,Merdeka Tournament,1967
+1967-08-13,Myanmar,0,1,South Korea,False,False,,Merdeka Tournament,1967
+1967-08-13,India,3,1,Western Australia,False,False,,Merdeka Tournament,1967
+1967-08-13,Indonesia,4,1,Singapore,False,False,,Merdeka Tournament,1967
+1967-08-13,Malaysia,3,0,Hong Kong,False,False,,Merdeka Tournament,1967
+1967-08-15,Myanmar,3,0,Singapore,False,False,,Merdeka Tournament,1967
+1967-08-15,Indonesia,2,1,Taiwan,False,False,,Merdeka Tournament,1967
+1967-08-15,Malaysia,1,1,Vietnam Republic,False,False,,Merdeka Tournament,1967
+1967-08-15,Thailand,1,3,Western Australia,False,False,,Merdeka Tournament,1967
+1967-08-16,Hong Kong,0,4,India,False,False,,Merdeka Tournament,1967
+1967-08-16,Vietnam Republic,3,0,Western Australia,False,False,,Merdeka Tournament,1967
+1967-08-18,Hong Kong,3,2,Western Australia,False,False,,Merdeka Tournament,1967
+1967-08-18,South Korea,2,1,Taiwan,False,False,,Merdeka Tournament,1967
+1967-08-19,Myanmar,5,0,Indonesia,False,False,,Merdeka Tournament,1967
+1967-08-19,Malaysia,0,0,India,False,False,,Merdeka Tournament,1967
+1967-08-19,Thailand,2,5,Vietnam Republic,False,False,,Merdeka Tournament,1967
+1967-08-20,Myanmar,1,2,Taiwan,False,False,,Merdeka Tournament,1967
+1967-08-20,Malaysia,1,0,Thailand,False,False,,Merdeka Tournament,1967
+1967-08-20,India,0,1,Vietnam Republic,False,False,,Merdeka Tournament,1967
+1967-08-20,South Korea,3,0,Singapore,False,False,,Merdeka Tournament,1967
+1967-08-22,Myanmar,3,0,Vietnam Republic,False,False,,Merdeka Tournament,1967
+1967-08-22,India,1,1,Taiwan,False,False,,Merdeka Tournament,1967
+1967-08-23,Hong Kong,2,1,Indonesia,False,False,,Merdeka Tournament,1967
+1967-08-23,Malaysia,1,3,South Korea,False,False,,Merdeka Tournament,1967
+1967-08-24,Singapore,3,5,Western Australia,False,False,,Merdeka Tournament,1967
+1967-08-25,Hong Kong,2,4,Taiwan,False,False,,Merdeka Tournament,1967
+1967-08-25,Malaysia,1,2,Vietnam Republic,False,False,,Merdeka Tournament,1967
+1967-08-26,Myanmar,0,0,South Korea,False,False,,Merdeka Tournament,1967
+1967-08-26,India,0,3,Indonesia,False,False,,Merdeka Tournament,1967
+1968-08-09,Malaysia,1,1,Hong Kong,False,False,,Merdeka Tournament,1968
+1968-08-10,Myanmar,3,0,Vietnam Republic,False,False,,Merdeka Tournament,1968
+1968-08-10,South Korea,0,3,Western Australia,False,False,,Merdeka Tournament,1968
+1968-08-11,Hong Kong,0,0,Thailand,False,False,,Merdeka Tournament,1968
+1968-08-11,Singapore,0,2,Taiwan,False,False,,Merdeka Tournament,1968
+1968-08-11,Malaysia,2,1,India,False,False,,Merdeka Tournament,1968
+1968-08-12,Myanmar,3,0,Hong Kong,False,False,,Merdeka Tournament,1968
+1968-08-12,India,3,2,Vietnam Republic,False,False,,Merdeka Tournament,1968
+1968-08-12,Indonesia,4,5,Western Australia,False,False,,Merdeka Tournament,1968
+1968-08-12,South Korea,3,2,Singapore,False,False,,Merdeka Tournament,1968
+1968-08-14,Myanmar,0,0,Thailand,False,False,,Merdeka Tournament,1968
+1968-08-14,South Korea,2,1,Taiwan,False,False,,Merdeka Tournament,1968
+1968-08-14,Malaysia,4,0,Vietnam Republic,False,False,,Merdeka Tournament,1968
+1968-08-15,Hong Kong,1,1,India,False,False,,Merdeka Tournament,1968
+1968-08-15,Western Australia,3,2,Taiwan,False,False,,Merdeka Tournament,1968
+1968-08-15,Indonesia,4,0,Singapore,False,False,,Merdeka Tournament,1968
+1968-08-15,Thailand,2,3,Vietnam Republic,False,False,,Merdeka Tournament,1968
+1968-08-17,Malaysia,4,1,Thailand,False,False,,Merdeka Tournament,1968
+1968-08-17,Myanmar,1,3,India,False,False,,Merdeka Tournament,1968
+1968-08-17,Indonesia,4,2,South Korea,False,False,,Merdeka Tournament,1968
+1968-08-18,Hong Kong,1,3,Vietnam Republic,False,False,,Merdeka Tournament,1968
+1968-08-18,Malaysia,1,1,Myanmar,False,False,,Merdeka Tournament,1968
+1968-08-18,Singapore,4,4,Western Australia,False,False,,Merdeka Tournament,1968
+1968-08-19,India,0,1,Thailand,False,False,,Merdeka Tournament,1968
+1968-08-19,Indonesia,10,1,Taiwan,False,False,,Merdeka Tournament,1968
+1968-08-21,Myanmar,2,1,Indonesia,False,False,,Merdeka Tournament,1968
+1968-08-21,South Korea,2,1,Thailand,False,False,,Merdeka Tournament,1968
+1968-08-22,Malaysia,4,3,Western Australia,False,False,,Merdeka Tournament,1968
+1968-08-24,India,0,1,South Korea,False,False,,Merdeka Tournament,1968
+1968-08-24,Indonesia,1,3,Western Australia,False,False,,Merdeka Tournament,1968
+1968-08-25,Malaysia,3,0,Myanmar,False,False,,Merdeka Tournament,1968
+1969-10-30,Malaysia,1,0,Thailand,False,False,,Merdeka Tournament,1969
+1969-10-31,Myanmar,3,1,Singapore,False,False,,Merdeka Tournament,1969
+1969-10-31,India,0,1,Western Australia,False,False,,Merdeka Tournament,1969
+1969-11-01,Indonesia,4,0,Thailand,False,False,,Merdeka Tournament,1969
+1969-11-01,Indonesia,3,0,South Korea,False,False,,Merdeka Tournament,1969
+1969-11-02,Myanmar,6,0,India,False,False,,Merdeka Tournament,1969
+1969-11-02,Singapore,4,2,Western Australia,False,False,,Merdeka Tournament,1969
+1969-11-03,Malaysia,4,1,South Korea,False,False,,Merdeka Tournament,1969
+1969-11-04,Myanmar,5,2,Western Australia,False,False,,Merdeka Tournament,1969
+1969-11-04,India,3,0,Singapore,False,False,,Merdeka Tournament,1969
+1969-11-05,South Korea,3,0,Thailand,False,False,,Merdeka Tournament,1969
+1969-11-06,South Korea,3,2,Western Australia,False,False,,Merdeka Tournament,1969
+1969-11-06,Indonesia,9,2,Singapore,False,False,,Merdeka Tournament,1969
+1969-11-07,India,0,1,Thailand,False,False,,Merdeka Tournament,1969
+1969-11-07,Malaysia,3,1,Myanmar,False,False,,Merdeka Tournament,1969
+1969-11-07,South Korea,2,1,Thailand,False,False,,Merdeka Tournament,1969
+1969-11-08,India,2,1,Western Australia,False,False,,Merdeka Tournament,1969
+1969-11-09,Myanmar,9,0,Singapore,False,False,,Merdeka Tournament,1969
+1969-11-09,Malaysia,2,3,Indonesia,False,False,,Merdeka Tournament,1969
+1970-07-30,India,0,1,Taiwan,False,False,,Merdeka Tournament,1970
+1970-07-30,Malaysia,0,0,Vietnam Republic,False,False,,Merdeka Tournament,1970
+1970-07-31,Hong Kong,2,1,Japan,False,False,,Merdeka Tournament,1970
+1970-07-31,South Korea,0,0,Thailand,False,False,,Merdeka Tournament,1970
+1970-08-01,Myanmar,1,0,Western Australia,False,False,,Merdeka Tournament,1970
+1970-08-01,Taiwan,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1970
+1970-08-01,Malaysia,1,3,India,False,False,,Merdeka Tournament,1970
+1970-08-01,Indonesia,3,1,Singapore,False,False,,Merdeka Tournament,1970
+1970-08-02,Hong Kong,2,0,Thailand,False,False,,Merdeka Tournament,1970
+1970-08-02,Japan,1,1,South Korea,False,False,,Merdeka Tournament,1970
+1970-08-03,Myanmar,2,0,India,False,False,,Merdeka Tournament,1970
+1970-08-03,Vietnam Republic,1,3,Western Australia,False,False,,Merdeka Tournament,1970
+1970-08-04,Malaysia,3,1,Taiwan,False,False,,Merdeka Tournament,1970
+1970-08-04,Hong Kong,1,3,Indonesia,False,False,,Merdeka Tournament,1970
+1970-08-04,Japan,0,0,Thailand,False,False,,Merdeka Tournament,1970
+1970-08-04,South Korea,4,0,Singapore,False,False,,Merdeka Tournament,1970
+1970-08-05,Myanmar,4,2,Vietnam Republic,False,False,,Merdeka Tournament,1970
+1970-08-05,India,2,0,Western Australia,False,False,,Merdeka Tournament,1970
+1970-08-06,Hong Kong,3,2,Singapore,False,False,,Merdeka Tournament,1970
+1970-08-06,Indonesia,1,2,South Korea,False,False,,Merdeka Tournament,1970
+1970-08-07,Myanmar,1,1,Taiwan,False,False,,Merdeka Tournament,1970
+1970-08-07,Malaysia,4,1,Western Australia,False,False,,Merdeka Tournament,1970
+1970-08-08,Indonesia,3,4,Japan,False,False,,Merdeka Tournament,1970
+1970-08-08,Singapore,4,5,Thailand,False,False,,Merdeka Tournament,1970
+1970-08-09,Hong Kong,0,0,South Korea,False,False,,Merdeka Tournament,1970
+1970-08-09,India,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1970
+1970-08-09,Taiwan,1,3,Western Australia,False,False,,Merdeka Tournament,1970
+1970-08-09,Malaysia,1,2,Myanmar,False,False,,Merdeka Tournament,1970
+1970-08-10,Indonesia,6,3,Thailand,False,False,,Merdeka Tournament,1970
+1970-08-10,Japan,4,0,Singapore,False,False,,Merdeka Tournament,1970
+1970-08-12,Myanmar,5,0,Hong Kong,False,False,,Merdeka Tournament,1970
+1970-08-12,Thailand,2,0,Western Australia,False,False,,Merdeka Tournament,1970
+1970-08-13,India,2,3,South Korea,False,False,,Merdeka Tournament,1970
+1970-08-13,Singapore,0,4,Vietnam Republic,False,False,,Merdeka Tournament,1970
+1970-08-15,Hong Kong,2,3,India,False,False,,Merdeka Tournament,1970
+1970-08-15,Malaysia,4,0,Indonesia,False,False,,Merdeka Tournament,1970
+1970-08-16,Myanmar,0,1,South Korea,False,False,,Merdeka Tournament,1970
+1970-08-16,Japan,3,2,Taiwan,False,False,,Merdeka Tournament,1970
+1971-08-04,Malaysia,2,0,Vietnam Republic,False,False,,Merdeka Tournament,1971
+1971-08-05,Hong Kong,1,2,Singapore,False,False,,Merdeka Tournament,1971
+1971-08-05,India,5,1,Philippines,False,False,,Merdeka Tournament,1971
+1971-08-07,Myanmar,0,1,Singapore,False,False,,Merdeka Tournament,1971
+1971-08-07,India,1,3,Indonesia,False,False,,Merdeka Tournament,1971
+1971-08-07,Malaysia,0,0,Taiwan,False,False,,Merdeka Tournament,1971
+1971-08-07,Malaysia,0,2,Thailand,False,False,,Merdeka Tournament,1971
+1971-08-09,Myanmar,2,2,Indonesia,False,False,,Merdeka Tournament,1971
+1971-08-09,Taiwan,4,0,Thailand,False,False,,Merdeka Tournament,1971
+1971-08-09,Hong Kong,2,1,Philippines,False,False,,Merdeka Tournament,1971
+1971-08-10,India,2,2,Singapore,False,False,,Merdeka Tournament,1971
+1971-08-10,Thailand,2,4,Vietnam Republic,False,False,,Merdeka Tournament,1971
+1971-08-11,Myanmar,4,0,Hong Kong,False,False,,Merdeka Tournament,1971
+1971-08-11,Indonesia,3,1,Philippines,False,False,,Merdeka Tournament,1971
+1971-08-12,Taiwan,3,2,Vietnam Republic,False,False,,Merdeka Tournament,1971
+1971-08-13,Myanmar,2,0,Philippines,False,False,,Merdeka Tournament,1971
+1971-08-13,Hong Kong,2,1,India,False,False,,Merdeka Tournament,1971
+1971-08-13,Indonesia,4,0,Singapore,False,False,,Merdeka Tournament,1971
+1971-08-15,Myanmar,9,1,India,False,False,,Merdeka Tournament,1971
+1971-08-15,Hong Kong,0,3,Indonesia,False,False,,Merdeka Tournament,1971
+1971-08-15,Philippines,4,4,Singapore,False,False,,Merdeka Tournament,1971
+1971-08-17,Philippines,3,1,Thailand,False,False,,Merdeka Tournament,1971
+1971-08-18,Indonesia,1,0,Taiwan,False,False,,Merdeka Tournament,1971
+1971-08-21,Myanmar,1,0,Indonesia,False,False,,Merdeka Tournament,1971
+1971-08-21,Hong Kong,1,3,Vietnam Republic,False,False,,Merdeka Tournament,1971
+1972-07-12,Malaysia,4,1,Sri Lanka,False,False,,Merdeka Tournament,1972
+1972-07-12,Japan,4,1,Cambodia,False,False,,Merdeka Tournament,1972
+1972-07-13,Indonesia,0,0,Singapore,False,False,,Merdeka Tournament,1972
+1972-07-14,Malaysia,1,0,Philippines,False,False,,Merdeka Tournament,1972
+1972-07-15,Hong Kong,0,0,South Korea,False,False,,Merdeka Tournament,1972
+1972-07-15,Singapore,0,2,Thailand,False,False,,Merdeka Tournament,1972
+1972-07-16,Cambodia,2,2,Philippines,False,False,,Merdeka Tournament,1972
+1972-07-16,Japan,5,0,Sri Lanka,False,False,,Merdeka Tournament,1972
+1972-07-17,Hong Kong,4,1,Singapore,False,False,,Merdeka Tournament,1972
+1972-07-17,South Korea,2,0,Thailand,False,False,,Merdeka Tournament,1972
+1972-07-18,Japan,5,1,Philippines,False,False,,Merdeka Tournament,1972
+1972-07-19,Indonesia,3,2,Thailand,False,False,,Merdeka Tournament,1972
+1972-07-19,Malaysia,6,1,Cambodia,False,False,,Merdeka Tournament,1972
+1972-07-19,South Korea,4,1,Singapore,False,False,,Merdeka Tournament,1972
+1972-07-20,Philippines,4,1,Sri Lanka,False,False,,Merdeka Tournament,1972
+1972-07-21,Hong Kong,1,0,Indonesia,False,False,,Merdeka Tournament,1972
+1972-07-22,Cambodia,6,1,Sri Lanka,False,False,,Merdeka Tournament,1972
+1972-07-22,Malaysia,3,1,Japan,False,False,,Merdeka Tournament,1972
+1972-07-23,Hong Kong,2,2,Thailand,False,False,,Merdeka Tournament,1972
+1972-07-23,Indonesia,0,2,South Korea,False,False,,Merdeka Tournament,1972
+1972-07-25,Singapore,6,1,Sri Lanka,False,False,,Merdeka Tournament,1972
+1972-07-26,Japan,0,3,South Korea,False,False,,Merdeka Tournament,1972
+1972-07-28,Cambodia,1,0,Hong Kong,False,False,,Merdeka Tournament,1972
+1972-07-29,Philippines,0,4,Thailand,False,False,,Merdeka Tournament,1972
+1972-07-29,Malaysia,1,2,South Korea,False,False,,Merdeka Tournament,1972
+1973-07-26,Cambodia,1,1,Singapore,False,False,,Merdeka Tournament,1973
+1973-07-26,Malaysia,0,0,Kuwait,False,False,,Merdeka Tournament,1973
+1973-07-27,Bangladesh,2,2,Thailand,False,False,,Merdeka Tournament,1973
+1973-07-27,India,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1973
+1973-07-28,Myanmar,0,0,South Korea,False,False,,Merdeka Tournament,1973
+1973-07-28,Kuwait,2,0,Singapore,False,False,,Merdeka Tournament,1973
+1973-07-29,Bangladesh,1,1,Vietnam Republic,False,False,,Merdeka Tournament,1973
+1973-07-29,India,2,0,Thailand,False,False,,Merdeka Tournament,1973
+1973-07-30,Malaysia,1,2,South Korea,False,False,,Merdeka Tournament,1973
+1973-07-30,Myanmar,1,0,Singapore,False,False,,Merdeka Tournament,1973
+1973-07-31,Bangladesh,1,2,Kuwait,False,False,,Merdeka Tournament,1973
+1973-08-01,South Korea,0,0,Thailand,False,False,,Merdeka Tournament,1973
+1973-08-02,Bangladesh,1,1,Singapore,False,False,,Merdeka Tournament,1973
+1973-08-02,Myanmar,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1973
+1973-08-03,Cambodia,0,1,South Korea,False,False,,Merdeka Tournament,1973
+1973-08-03,Malaysia,2,2,Thailand,False,False,,Merdeka Tournament,1973
+1973-08-03,Malaysia,1,0,Cambodia,False,False,,Merdeka Tournament,1973
+1973-08-03,Malaysia,4,0,India,False,False,,Merdeka Tournament,1973
+1973-08-05,India,3,0,Cambodia,False,False,,Merdeka Tournament,1973
+1973-08-05,Myanmar,2,0,Kuwait,False,False,,Merdeka Tournament,1973
+1973-08-05,India,0,0,South Korea,False,False,,Merdeka Tournament,1973
+1973-08-05,Singapore,0,1,Vietnam Republic,False,False,,Merdeka Tournament,1973
+1973-08-06,Cambodia,1,4,Thailand,False,False,,Merdeka Tournament,1973
+1973-08-08,Bangladesh,0,6,Myanmar,False,False,,Merdeka Tournament,1973
+1973-08-08,Kuwait,2,1,Vietnam Republic,False,False,,Merdeka Tournament,1973
+1973-08-09,India,1,1,Vietnam Republic,False,False,,Merdeka Tournament,1973
+1973-08-10,Cambodia,0,3,Singapore,False,False,,Merdeka Tournament,1973
+1973-08-10,Malaysia,2,1,Myanmar,False,False,,Merdeka Tournament,1973
+1973-08-11,South Korea,0,1,Kuwait,False,False,,Merdeka Tournament,1973
+1973-08-11,South Korea,1,2,Myanmar,False,False,,Merdeka Tournament,1973
+1973-08-12,Bangladesh,0,2,Thailand,False,False,,Merdeka Tournament,1973
+1973-08-12,Malaysia,3,1,Kuwait,False,False,,Merdeka Tournament,1973
+1974-07-24,Hong Kong,2,2,Indonesia,False,False,,Merdeka Tournament,1974
+1974-07-24,India,4,2,Thailand,False,False,,Merdeka Tournament,1974
+1974-07-25,Malaysia,4,1,India,False,False,,Merdeka Tournament,1974
+1974-07-26,Indonesia,1,2,Thailand,False,False,,Merdeka Tournament,1974
+1974-07-28,Indonesia,5,0,Singapore,False,False,,Merdeka Tournament,1974
+1974-07-29,Hong Kong,2,2,India,False,False,,Merdeka Tournament,1974
+1974-07-30,Singapore,1,1,Thailand,False,False,,Merdeka Tournament,1974
+1974-08-01,India,0,0,Indonesia,False,False,,Merdeka Tournament,1974
+1974-08-01,Malaysia,3,2,Thailand,False,False,,Merdeka Tournament,1974
+1974-08-04,Hong Kong,1,0,Thailand,False,False,,Merdeka Tournament,1974
+1975-07-27,Malaysia,1,0,Thailand,False,False,,Merdeka Tournament,1975
+1975-07-29,Bangladesh,0,4,Indonesia,False,False,,Merdeka Tournament,1975
+1975-07-29,Malaysia,1,3,South Korea,False,False,,Merdeka Tournament,1975
+1975-07-30,Myanmar,1,0,Thailand,False,False,,Merdeka Tournament,1975
+1975-07-30,Hong Kong,2,0,Japan,False,False,,Merdeka Tournament,1975
+1975-07-31,Malaysia,3,1,Hong Kong,False,False,,Merdeka Tournament,1975
+1975-08-01,Myanmar,2,0,Indonesia,False,False,,Merdeka Tournament,1975
+1975-08-01,Hong Kong,0,1,South Korea,False,False,,Merdeka Tournament,1975
+1975-08-02,Bangladesh,1,1,Thailand,False,False,,Merdeka Tournament,1975
+1975-08-02,Malaysia,2,0,Japan,False,False,,Merdeka Tournament,1975
+1975-08-03,Myanmar,2,3,South Korea,False,False,,Merdeka Tournament,1975
+1975-08-03,Hong Kong,2,3,Indonesia,False,False,,Merdeka Tournament,1975
+1975-08-04,Bangladesh,0,3,Japan,False,False,,Merdeka Tournament,1975
+1975-08-05,Malaysia,2,1,Indonesia,False,False,,Merdeka Tournament,1975
+1975-08-06,Myanmar,5,0,Hong Kong,False,False,,Merdeka Tournament,1975
+1975-08-07,Malaysia,3,0,Bangladesh,False,False,,Merdeka Tournament,1975
+1975-08-07,Indonesia,1,4,Japan,False,False,,Merdeka Tournament,1975
+1975-08-07,South Korea,6,0,Thailand,False,False,,Merdeka Tournament,1975
+1975-08-08,Bangladesh,1,7,Myanmar,False,False,,Merdeka Tournament,1975
+1975-08-09,Indonesia,2,1,Thailand,False,False,,Merdeka Tournament,1975
+1975-08-09,Japan,1,3,South Korea,False,False,,Merdeka Tournament,1975
+1975-08-10,Bangladesh,1,9,Hong Kong,False,False,,Merdeka Tournament,1975
+1975-08-10,Malaysia,2,1,Myanmar,False,False,,Merdeka Tournament,1975
+1975-08-11,Indonesia,1,5,South Korea,False,False,,Merdeka Tournament,1975
+1975-08-11,Japan,4,0,Thailand,False,False,,Merdeka Tournament,1975
+1975-08-14,Myanmar,0,2,Japan,False,False,,Merdeka Tournament,1975
+1975-08-15,Bangladesh,0,4,South Korea,False,False,,Merdeka Tournament,1975
+1975-08-15,Hong Kong,3,0,Thailand,False,False,,Merdeka Tournament,1975
+1975-08-17,Malaysia,0,1,South Korea,False,False,,Merdeka Tournament,1975
+1976-08-07,Malaysia,2,1,South Korea,False,False,,Merdeka Tournament,1976
+1976-08-08,Myanmar,5,1,Indonesia,False,False,,Merdeka Tournament,1976
+1976-08-08,India,1,5,Japan,False,False,,Merdeka Tournament,1976
+1976-08-09,Malaysia,0,0,Thailand,False,False,,Merdeka Tournament,1976
+1976-08-10,Malaysia,5,1,India,False,False,,Merdeka Tournament,1976
+1976-08-10,India,0,8,South Korea,False,False,,Merdeka Tournament,1976
+1976-08-10,Indonesia,0,6,Japan,False,False,,Merdeka Tournament,1976
+1976-08-11,Myanmar,1,0,Thailand,False,False,,Merdeka Tournament,1976
+1976-08-12,Indonesia,0,2,South Korea,False,False,,Merdeka Tournament,1976
+1976-08-13,Myanmar,2,2,Japan,False,False,,Merdeka Tournament,1976
+1976-08-14,Malaysia,7,1,Indonesia,False,False,,Merdeka Tournament,1976
+1976-08-14,India,2,6,Thailand,False,False,,Merdeka Tournament,1976
+1976-08-14,Indonesia,1,3,India,False,False,,Merdeka Tournament,1976
+1976-08-15,Myanmar,2,2,South Korea,False,False,,Merdeka Tournament,1976
+1976-08-16,Japan,2,2,Thailand,False,False,,Merdeka Tournament,1976
+1976-08-17,Malaysia,3,1,Myanmar,False,False,,Merdeka Tournament,1976
+1976-08-18,Indonesia,0,1,Thailand,False,False,,Merdeka Tournament,1976
+1976-08-18,Japan,0,0,South Korea,False,False,,Merdeka Tournament,1976
+1976-08-19,Myanmar,2,2,India,False,False,,Merdeka Tournament,1976
+1976-08-20,South Korea,2,1,Thailand,False,False,,Merdeka Tournament,1976
+1976-08-20,Malaysia,2,2,Japan,False,False,,Merdeka Tournament,1976
+1976-08-22,Malaysia,2,0,Japan,False,False,,Merdeka Tournament,1976
+1977-07-16,Malaysia,1,0,Myanmar,False,False,,Merdeka Tournament,1977
+1977-07-17,South Korea,4,0,Libya,False,False,,Merdeka Tournament,1977
+1977-07-18,Malaysia,3,0,Thailand,False,False,,Merdeka Tournament,1977
+1977-07-19,Iraq,0,0,Libya,False,False,,Merdeka Tournament,1977
+1977-07-20,South Korea,4,1,Thailand,False,False,,Merdeka Tournament,1977
+1977-07-21,Myanmar,0,3,Iraq,False,False,,Merdeka Tournament,1977
+1977-07-21,Malaysia,1,1,Libya,False,False,,Merdeka Tournament,1977
+1977-07-23,Libya,2,2,Thailand,False,False,,Merdeka Tournament,1977
+1977-07-23,Malaysia,0,0,Iraq,False,False,,Merdeka Tournament,1977
+1977-07-24,Myanmar,0,4,South Korea,False,False,,Merdeka Tournament,1977
+1977-07-25,Iraq,5,0,Thailand,False,False,,Merdeka Tournament,1977
+1977-07-26,Malaysia,1,1,South Korea,False,False,,Merdeka Tournament,1977
+1977-07-27,Myanmar,3,1,Libya,False,False,,Merdeka Tournament,1977
+1977-07-28,Iraq,1,1,South Korea,False,False,,Merdeka Tournament,1977
+1977-07-29,Myanmar,1,1,Thailand,False,False,,Merdeka Tournament,1977
+1977-07-31,Iraq,0,1,South Korea,False,False,,Merdeka Tournament,1977
+1978-07-12,Malaysia,1,3,South Korea,False,False,,Merdeka Tournament,1978
+1978-07-13,Indonesia,1,0,Syria,False,False,,Merdeka Tournament,1978
+1978-07-13,Iraq,0,0,Japan,False,False,,Merdeka Tournament,1978
+1978-07-14,Malaysia,6,0,Singapore,False,False,,Merdeka Tournament,1978
+1978-07-14,South Korea,3,0,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-15,Indonesia,2,1,Japan,False,False,,Merdeka Tournament,1978
+1978-07-15,Iraq,2,1,Syria,False,False,,Merdeka Tournament,1978
+1978-07-16,Malaysia,2,0,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-16,South Korea,2,0,Singapore,False,False,,Merdeka Tournament,1978
+1978-07-16,Malaysia,1,0,Indonesia,False,False,,Merdeka Tournament,1978
+1978-07-17,Indonesia,0,4,Iraq,False,False,,Merdeka Tournament,1978
+1978-07-17,Japan,3,2,Syria,False,False,,Merdeka Tournament,1978
+1978-07-18,Malaysia,1,2,Iraq,False,False,,Merdeka Tournament,1978
+1978-07-18,Singapore,1,2,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-19,Japan,0,4,South Korea,False,False,,Merdeka Tournament,1978
+1978-07-20,Iraq,3,0,Singapore,False,False,,Merdeka Tournament,1978
+1978-07-20,Syria,1,3,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-21,Malaysia,4,1,Japan,False,False,,Merdeka Tournament,1978
+1978-07-22,Indonesia,0,3,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-22,Iraq,0,2,South Korea,False,False,,Merdeka Tournament,1978
+1978-07-23,Japan,1,2,Singapore,False,False,,Merdeka Tournament,1978
+1978-07-23,Malaysia,5,2,Syria,False,False,,Merdeka Tournament,1978
+1978-07-24,Iraq,1,0,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-25,Indonesia,0,2,South Korea,False,False,,Merdeka Tournament,1978
+1978-07-25,Singapore,4,1,Syria,False,False,,Merdeka Tournament,1978
+1978-07-26,Japan,4,0,Thailand,False,False,,Merdeka Tournament,1978
+1978-07-27,Indonesia,0,0,Singapore,False,False,,Merdeka Tournament,1978
+1978-07-27,South Korea,2,0,Syria,False,False,,Merdeka Tournament,1978
+1978-07-29,Iraq,0,2,South Korea,False,False,,Merdeka Tournament,1978
+1979-06-29,Malaysia,1,1,Japan,False,False,,Merdeka Tournament,1979
+1979-06-29,Japan,2,0,Thailand,False,False,,Merdeka Tournament,1979
+1979-06-29,Malaysia,4,1,Myanmar,False,False,,Merdeka Tournament,1979
+1979-06-30,Indonesia,0,0,Singapore,False,False,,Merdeka Tournament,1979
+1979-07-01,Malaysia,4,2,Thailand,False,False,,Merdeka Tournament,1979
+1979-07-01,Myanmar,0,1,Japan,False,False,,Merdeka Tournament,1979
+1979-07-03,Myanmar,2,0,Thailand,False,False,,Merdeka Tournament,1979
+1979-07-04,Malaysia,1,1,Indonesia,False,False,,Merdeka Tournament,1979
+1979-07-05,Singapore,1,1,Thailand,False,False,,Merdeka Tournament,1979
+1979-07-08,Indonesia,2,1,Thailand,False,False,,Merdeka Tournament,1979
+1979-07-09,Malaysia,3,0,Singapore,False,False,,Merdeka Tournament,1979
+1979-07-11,Myanmar,4,1,Singapore,False,False,,Merdeka Tournament,1979
+1979-07-11,Indonesia,0,0,Japan,False,False,,Merdeka Tournament,1979
+1979-07-13,Myanmar,4,0,Indonesia,False,False,,Merdeka Tournament,1979
+1979-07-13,Japan,3,1,Singapore,False,False,,Merdeka Tournament,1979
+1980-10-15,South Korea,1,2,New Zealand,False,False,,Merdeka Tournament,1980
+1980-10-16,South Korea,1,0,Indonesia,False,False,,Merdeka Tournament,1980
+1980-10-17,Malaysia,3,2,Myanmar,False,False,,Merdeka Tournament,1980
+1980-10-17,Morocco,2,1,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-18,South Korea,3,0,Kuwait,False,False,,Merdeka Tournament,1980
+1980-10-19,Kuwait,1,5,New Zealand,False,False,,Merdeka Tournament,1980
+1980-10-20,Myanmar,2,2,Morocco,False,False,,Merdeka Tournament,1980
+1980-10-20,Malaysia,2,2,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-20,South Korea,1,1,Morocco,False,False,,Merdeka Tournament,1980
+1980-10-21,Indonesia,0,0,New Zealand,False,False,,Merdeka Tournament,1980
+1980-10-22,Myanmar,1,2,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-22,Malaysia,1,1,South Korea,False,False,,Merdeka Tournament,1980
+1980-10-22,Kuwait,3,1,Myanmar,False,False,,Merdeka Tournament,1980
+1980-10-23,South Korea,0,0,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-24,Myanmar,1,1,New Zealand,False,False,,Merdeka Tournament,1980
+1980-10-24,Kuwait,0,1,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-25,Kuwait,1,2,Indonesia,False,False,,Merdeka Tournament,1980
+1980-10-26,Indonesia,1,1,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-26,Morocco,3,0,New Zealand,False,False,,Merdeka Tournament,1980
+1980-10-27,Kuwait,0,3,Morocco,False,False,,Merdeka Tournament,1980
+1980-10-27,Malaysia,1,1,Indonesia,False,False,,Merdeka Tournament,1980
+1980-10-28,New Zealand,1,1,Thailand,False,False,,Merdeka Tournament,1980
+1980-10-29,Malaysia,2,1,Kuwait,False,False,,Merdeka Tournament,1980
+1980-10-29,Indonesia,0,2,Morocco,False,False,,Merdeka Tournament,1980
+1980-10-30,Malaysia,2,0,New Zealand,False,False,,Merdeka Tournament,1980
+1980-10-30,Myanmar,1,1,South Korea,False,False,,Merdeka Tournament,1980
+1980-10-31,Myanmar,1,0,Indonesia,False,False,,Merdeka Tournament,1980
+1980-11-02,Malaysia,1,2,Morocco,False,False,,Merdeka Tournament,1980
+1981-08-30,Malaysia,0,2,Japan,False,False,,Merdeka Tournament,1981
+1981-09-01,India,0,0,New Zealand,False,False,,Merdeka Tournament,1981
+1981-09-01,Singapore,1,3,Thailand,False,False,,Merdeka Tournament,1981
+1981-09-02,Indonesia,5,2,United Arab Emirates,False,False,,Merdeka Tournament,1981
+1981-09-03,India,2,3,Japan,False,False,,Merdeka Tournament,1981
+1981-09-04,South Korea,2,0,Singapore,False,False,,Merdeka Tournament,1981
+1981-09-04,Malaysia,0,1,New Zealand,False,False,,Merdeka Tournament,1981
+1981-09-05,India,2,0,United Arab Emirates,False,False,,Merdeka Tournament,1981
+1981-09-07,Indonesia,0,0,New Zealand,False,False,,Merdeka Tournament,1981
+1981-09-08,Japan,3,2,United Arab Emirates,False,False,,Merdeka Tournament,1981
+1981-09-09,Malaysia,2,0,Indonesia,False,False,,Merdeka Tournament,1981
+1981-09-10,Iraq,7,1,Thailand,False,False,,Merdeka Tournament,1981
+1981-09-10,New Zealand,0,1,United Arab Emirates,False,False,,Merdeka Tournament,1981
+1981-09-11,India,1,0,Indonesia,False,False,,Merdeka Tournament,1981
+1981-09-12,Japan,0,1,New Zealand,False,False,,Merdeka Tournament,1981
+1981-09-12,Malaysia,0,1,United Arab Emirates,False,False,,Merdeka Tournament,1981
+1981-09-13,Iraq,1,1,South Korea,False,False,,Merdeka Tournament,1981
+1981-09-14,Indonesia,0,2,Japan,False,False,,Merdeka Tournament,1981
+1981-09-15,Malaysia,2,2,India,False,False,,Merdeka Tournament,1981
+1981-09-16,Iraq,4,0,Singapore,False,False,,Merdeka Tournament,1981
+1981-09-16,South Korea,1,1,Thailand,False,False,,Merdeka Tournament,1981
+1981-09-18,Iraq,2,0,Japan,False,False,,Merdeka Tournament,1981
+1982-08-05,Malaysia,0,2,Indonesia,False,False,,Merdeka Tournament,1982
+1982-08-06,India,0,0,Thailand,False,False,,Merdeka Tournament,1982
+1982-08-06,South Korea,0,2,Senegal,False,False,,Merdeka Tournament,1982
+1982-08-07,Singapore,0,3,Ghana,False,False,,Merdeka Tournament,1982
+1982-08-07,Malaysia,1,0,United Arab Emirates,False,False,,Merdeka Tournament,1982
+1982-08-08,South Korea,4,0,Indonesia,False,False,,Merdeka Tournament,1982
+1982-08-09,Ghana,1,0,India,False,False,,Merdeka Tournament,1982
+1982-08-09,Senegal,3,1,United Arab Emirates,False,False,,Merdeka Tournament,1982
+1982-08-10,Malaysia,1,2,South Korea,False,False,,Merdeka Tournament,1982
+1982-08-11,Indonesia,2,2,Senegal,False,False,,Merdeka Tournament,1982
+1982-08-11,Thailand,1,4,Ghana,False,False,,Merdeka Tournament,1982
+1982-08-12,Singapore,3,0,India,False,False,,Merdeka Tournament,1982
+1982-08-12,South Korea,3,2,United Arab Emirates,False,False,,Merdeka Tournament,1982
+1982-08-13,Malaysia,1,0,Senegal,False,False,,Merdeka Tournament,1982
+1982-08-14,Singapore,2,0,Thailand,False,False,,Merdeka Tournament,1982
+1982-08-14,Indonesia,1,2,United Arab Emirates,False,False,,Merdeka Tournament,1982
+1982-08-20,Ghana,2,2,Senegal,False,False,,Merdeka Tournament,1982
+1983-09-19,Ghana,2,1,Thailand,False,False,,Merdeka Tournament,1983
+1983-09-19,Malaysia,7,0,Nepal,False,False,,Merdeka Tournament,1983
+1983-09-22,Bangladesh,1,0,Nepal,False,False,,Merdeka Tournament,1983
+1983-09-28,Malaysia,1,0,Bangladesh,False,False,,Merdeka Tournament,1983
+1984-08-25,Liberia,1,2,Papua New Guinea,False,False,,Merdeka Tournament,1984
+1984-08-26,Malaysia,2,2,Indonesia,False,False,,Merdeka Tournament,1984
+1984-08-29,Malaysia,3,1,Liberia,False,False,,Merdeka Tournament,1984
+1984-09-01,Indonesia,0,1,Papua New Guinea,False,False,,Merdeka Tournament,1984
+1984-09-04,Indonesia,1,2,Liberia,False,False,,Merdeka Tournament,1984
+1984-09-04,Malaysia,5,1,Papua New Guinea,False,False,,Merdeka Tournament,1984
+1986-07-24,Malaysia,3,0,India,False,False,,Merdeka Tournament,1986
+1986-07-25,Japan,2,1,Syria,False,False,,Merdeka Tournament,1986
+1986-07-26,Malaysia,2,0,Thailand,False,False,,Merdeka Tournament,1986
+1986-07-30,India,3,1,Thailand,False,False,,Merdeka Tournament,1986
+1986-08-01,Malaysia,2,1,Japan,False,False,,Merdeka Tournament,1986
+1987-12-17,Malaysia,0,1,South Korea,False,False,,Merdeka Tournament,1987
+1988-12-08,Malaysia,0,0,Indonesia,False,False,,Merdeka Tournament,1988
+1988-12-09,Oman,1,3,Singapore,False,False,,Merdeka Tournament,1988
+1988-12-10,Malaysia,0,0,Thailand,False,False,,Merdeka Tournament,1988
+1988-12-12,Indonesia,0,0,Thailand,False,False,,Merdeka Tournament,1988
+1991-02-06,Malaysia,1,2,Indonesia,False,False,,Merdeka Tournament,1991
+1993-02-05,Malaysia,2,1,Singapore,False,False,,Merdeka Tournament,1993
+1993-02-06,Ghana,2,0,Indonesia,False,False,,Merdeka Tournament,1993
+1993-02-07,Malaysia,1,1,Thailand,False,False,,Merdeka Tournament,1993
+1993-02-09,Singapore,1,1,Thailand,False,False,,Merdeka Tournament,1993
+1995-07-21,Malaysia,1,2,Iraq,False,False,,Merdeka Tournament,1995
+2000-08-13,Malaysia,0,0,New Zealand,False,False,,Merdeka Tournament,2000
+2000-08-15,Malaysia,2,0,Oman,False,False,,Merdeka Tournament,2000
+2000-08-17,New Zealand,1,0,Oman,False,False,,Merdeka Tournament,2000
+2000-08-19,Malaysia,0,2,New Zealand,False,False,,Merdeka Tournament,2000
+2001-06-21,Slovakia,0,1,Bosnia and Herzegovina,False,False,,Merdeka Tournament,2001
+2001-06-21,Malaysia,2,4,Bahrain,False,False,,Merdeka Tournament,2001
+2001-06-23,Malaysia,0,2,Slovakia,False,False,,Merdeka Tournament,2001
+2001-06-23,Bahrain,0,1,Bosnia and Herzegovina,False,False,,Merdeka Tournament,2001
+2001-06-25,Bahrain,2,0,Slovakia,False,False,,Merdeka Tournament,2001
+2001-06-25,Malaysia,2,2,Bosnia and Herzegovina,False,False,,Merdeka Tournament,2001
+2001-06-26,India,1,2,Uzbekistan,False,False,,Merdeka Tournament,2001
+2001-06-28,Bahrain,0,2,Uzbekistan,False,False,,Merdeka Tournament,2001
+2001-06-30,Bosnia and Herzegovina,1,2,Uzbekistan,False,False,,Merdeka Tournament,2001
+2006-08-23,Malaysia,1,1,Indonesia,False,False,,Merdeka Tournament,2006
+2006-08-25,Indonesia,0,0,Myanmar,False,False,,Merdeka Tournament,2006
+2006-08-27,Malaysia,1,2,Myanmar,False,False,,Merdeka Tournament,2006
+2006-08-29,Myanmar,2,1,Indonesia,False,False,,Merdeka Tournament,2006
+2007-08-20,Myanmar,1,0,Lesotho,False,False,,Merdeka Tournament,2007
+2007-08-21,Singapore,4,2,Zimbabwe,False,False,,Merdeka Tournament,2007
+2007-08-22,Lesotho,3,1,Laos,False,False,,Merdeka Tournament,2007
+2007-08-23,Singapore,4,2,Bangladesh,False,False,,Merdeka Tournament,2007
+2007-08-25,Zimbabwe,2,1,Bangladesh,False,False,,Merdeka Tournament,2007
+2007-08-25,Myanmar,1,0,Laos,False,False,,Merdeka Tournament,2007
+2007-08-27,Zimbabwe,1,3,Myanmar,False,False,,Merdeka Tournament,2007
+2008-10-15,Malaysia,4,0,Nepal,False,False,,Merdeka Tournament,2008
+2008-10-17,Nepal,2,2,Afghanistan,False,False,,Merdeka Tournament,2008
+2008-10-18,Bangladesh,0,1,Myanmar,False,False,,Merdeka Tournament,2008
+2008-10-20,Malaysia,6,0,Afghanistan,False,False,,Merdeka Tournament,2008
+2008-10-23,Malaysia,4,0,Myanmar,False,False,,Merdeka Tournament,2008
+2024-09-04,Lebanon,1,0,Tajikistan,False,False,,Merdeka Tournament,2024
+2024-09-04,Malaysia,2,1,Philippines,False,False,,Merdeka Tournament,2024
+2024-09-08,Tajikistan,0,0,Philippines,False,False,,Merdeka Tournament,2024
+2024-09-08,Malaysia,1,0,Lebanon,False,False,,Merdeka Tournament,2024

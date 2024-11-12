@@ -1,0 +1,25 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1987-12-11,Algeria,0,0,Tunisia,False,False,,Arab Cup qualification,1987
+1987-12-13,Mauritania,1,2,Tunisia,False,False,,Arab Cup qualification,1987
+1987-12-15,Algeria,3,0,Mauritania,False,False,,Arab Cup qualification,1987
+1998-07-20,Lebanon,3,1,Palestine,False,False,,Arab Cup qualification,1998
+1998-07-20,Syria,3,0,Jordan,False,False,,Arab Cup qualification,1998
+1998-07-23,Lebanon,0,2,Jordan,False,False,,Arab Cup qualification,1998
+1998-07-23,Palestine,1,2,Syria,False,False,,Arab Cup qualification,1998
+1998-07-26,Jordan,1,1,Palestine,False,False,,Arab Cup qualification,1998
+1998-07-26,Lebanon,0,1,Syria,False,False,,Arab Cup qualification,1998
+2006-12-14,Yemen,2,0,Comoros,False,False,,Arab Cup qualification,2006
+2006-12-17,Djibouti,2,4,Comoros,False,False,,Arab Cup qualification,2006
+2006-12-20,Yemen,4,1,Djibouti,False,False,,Arab Cup qualification,2006
+2006-12-21,Lebanon,0,0,Mauritania,False,False,,Arab Cup qualification,2006
+2006-12-21,Sudan,6,1,Somalia,False,False,,Arab Cup qualification,2006
+2006-12-24,Lebanon,4,0,Somalia,False,False,,Arab Cup qualification,2006
+2006-12-24,Sudan,2,0,Mauritania,False,False,,Arab Cup qualification,2006
+2006-12-27,Lebanon,0,0,Sudan,False,False,,Arab Cup qualification,2006
+2006-12-27,Somalia,2,8,Mauritania,False,False,,Arab Cup qualification,2006
+2021-06-19,Libya,0,1,Sudan,False,False,,Arab Cup qualification,2021
+2021-06-20,Oman,2,1,Somalia,False,False,,Arab Cup qualification,2021
+2021-06-22,Mauritania,2,0,Yemen,False,False,,Arab Cup qualification,2021
+2021-06-23,Lebanon,1,0,Djibouti,False,False,,Arab Cup qualification,2021
+2021-06-24,Palestine,5,1,Comoros,False,False,,Arab Cup qualification,2021
+2021-06-25,Bahrain,2,0,Kuwait,False,False,,Arab Cup qualification,2021

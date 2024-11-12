@@ -1,0 +1,380 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1989-07-06,Faroe Islands,6,0,Ynys Môn,False,False,,Island Games,1989
+1989-07-06,Greenland,4,1,Shetland,False,False,,Island Games,1989
+1989-07-08,Faroe Islands,4,0,Shetland,False,False,,Island Games,1989
+1989-07-08,Åland Islands,4,5,Ynys Môn,False,False,,Island Games,1989
+1989-07-09,Faroe Islands,3,0,Greenland,False,False,,Island Games,1989
+1989-07-09,Åland Islands,2,0,Shetland,False,False,,Island Games,1989
+1989-07-11,Åland Islands,3,0,Greenland,False,False,,Island Games,1989
+1989-07-11,Ynys Môn,3,0,Shetland,False,False,,Island Games,1989
+1989-07-12,Faroe Islands,7,1,Åland Islands,False,False,,Island Games,1989
+1989-07-12,Ynys Môn,1,0,Greenland,False,False,,Island Games,1989
+1991-06-24,Faroe Islands,3,0,Shetland,False,False,,Island Games,1991
+1991-06-24,Jersey,4,3,Greenland,False,False,,Island Games,1991
+1991-06-24,Ynys Môn,1,0,Guernsey,False,False,,Island Games,1991
+1991-06-24,Åland Islands,1,0,Isle of Wight,False,False,,Island Games,1991
+1991-06-25,Faroe Islands,3,2,Greenland,False,False,,Island Games,1991
+1991-06-25,Jersey,2,0,Shetland,False,False,,Island Games,1991
+1991-06-25,Åland Islands,2,0,Guernsey,False,False,,Island Games,1991
+1991-06-25,Ynys Môn,5,1,Isle of Wight,False,False,,Island Games,1991
+1991-06-26,Faroe Islands,5,3,Jersey,False,False,,Island Games,1991
+1991-06-26,Shetland,5,2,Greenland,False,False,,Island Games,1991
+1991-06-26,Åland Islands,0,1,Ynys Môn,False,False,,Island Games,1991
+1991-06-26,Isle of Wight,1,1,Guernsey,False,False,,Island Games,1991
+1991-06-28,Isle of Wight,3,1,Greenland,False,False,,Island Games,1991
+1991-06-28,Shetland,2,1,Guernsey,False,False,,Island Games,1991
+1991-06-28,Åland Islands,0,2,Jersey,False,False,,Island Games,1991
+1991-06-29,Faroe Islands,2,0,Ynys Môn,False,False,,Island Games,1991
+1993-07-04,Gibraltar,1,2,Jersey,False,False,,Island Games,1993
+1993-07-04,Ynys Môn,0,1,Greenland,False,False,,Island Games,1993
+1993-07-04,Isle of Wight,1,0,Isle of Man,False,False,,Island Games,1993
+1993-07-04,Åland Islands,3,1,Shetland,False,False,,Island Games,1993
+1993-07-05,Jersey,4,2,Greenland,False,False,,Island Games,1993
+1993-07-05,Ynys Môn,1,0,Gibraltar,False,False,,Island Games,1993
+1993-07-05,Isle of Man,2,0,Åland Islands,False,False,,Island Games,1993
+1993-07-05,Isle of Wight,2,0,Shetland,False,False,,Island Games,1993
+1993-07-06,Greenland,5,0,Gibraltar,False,False,,Island Games,1993
+1993-07-06,Jersey,2,2,Ynys Môn,False,False,,Island Games,1993
+1993-07-06,Shetland,1,5,Isle of Man,False,False,,Island Games,1993
+1993-07-06,Isle of Wight,0,2,Åland Islands,False,False,,Island Games,1993
+1993-07-08,Shetland,1,0,Gibraltar,False,False,,Island Games,1993
+1993-07-08,Isle of Wight,1,1,Ynys Môn,False,False,,Island Games,1993
+1993-07-09,Greenland,1,2,Åland Islands,False,False,,Island Games,1993
+1993-07-09,Jersey,5,1,Isle of Man,False,False,,Island Games,1993
+1995-07-16,Isle of Man,0,2,Ynys Môn,False,False,,Island Games,1995
+1995-07-16,Gibraltar,0,1,Greenland,False,False,,Island Games,1995
+1995-07-16,Jersey,2,0,Isle of Wight,False,False,,Island Games,1995
+1995-07-16,Åland Islands,2,2,Guernsey,False,False,,Island Games,1995
+1995-07-17,Gibraltar,2,1,Isle of Man,False,False,,Island Games,1995
+1995-07-17,Greenland,1,2,Ynys Môn,False,False,,Island Games,1995
+1995-07-17,Åland Islands,0,5,Isle of Wight,False,False,,Island Games,1995
+1995-07-17,Jersey,1,0,Guernsey,False,False,,Island Games,1995
+1995-07-18,Gibraltar,2,0,Ynys Môn,False,False,,Island Games,1995
+1995-07-18,Greenland,4,0,Isle of Man,False,False,,Island Games,1995
+1995-07-18,Jersey,3,1,Åland Islands,False,False,,Island Games,1995
+1995-07-18,Isle of Wight,1,1,Guernsey,False,False,,Island Games,1995
+1995-07-20,Greenland,1,2,Isle of Wight,False,False,,Island Games,1995
+1995-07-20,Gibraltar,1,0,Jersey,False,False,,Island Games,1995
+1995-07-21,Åland Islands,4,1,Isle of Man,False,False,,Island Games,1995
+1995-07-21,Guernsey,4,2,Ynys Môn,False,False,,Island Games,1995
+1995-07-21,Gibraltar,1,0,Jersey,False,False,,Island Games,1995
+1995-07-22,Gibraltar,0,1,Isle of Wight,False,False,,Island Games,1995
+1997-06-29,Jersey,4,1,Frøya,False,False,,Island Games,1997
+1997-06-29,Gibraltar,1,2,Guernsey,False,False,,Island Games,1997
+1997-06-29,Ynys Môn,8,0,Hitra,False,False,,Island Games,1997
+1997-06-29,Shetland,0,0,Isle of Wight,False,False,,Island Games,1997
+1997-06-30,Jersey,2,1,Greenland,False,False,,Island Games,1997
+1997-06-30,Frøya,1,2,Guernsey,False,False,,Island Games,1997
+1997-07-01,Ynys Môn,4,0,Shetland,False,False,,Island Games,1997
+1997-07-01,Hitra,0,4,Isle of Wight,False,False,,Island Games,1997
+1997-07-01,Guernsey,0,0,Greenland,False,False,,Island Games,1997
+1997-07-01,Frøya,0,4,Gibraltar,False,False,,Island Games,1997
+1997-07-02,Gibraltar,5,1,Greenland,False,False,,Island Games,1997
+1997-07-02,Jersey,4,0,Guernsey,False,False,,Island Games,1997
+1997-07-03,Frøya,2,1,Greenland,False,False,,Island Games,1997
+1997-07-03,Jersey,3,2,Gibraltar,False,False,,Island Games,1997
+1997-07-03,Ynys Môn,0,0,Isle of Wight,False,False,,Island Games,1997
+1997-07-03,Shetland,2,1,Hitra,False,False,,Island Games,1997
+1997-07-03,Frøya,4,1,Hitra,False,False,,Island Games,1997
+1997-07-03,Shetland,2,1,Gibraltar,False,False,,Island Games,1997
+1997-07-03,Isle of Wight,3,1,Guernsey,False,False,,Island Games,1997
+1997-07-04,Jersey,2,1,Ynys Môn,False,False,,Island Games,1997
+1999-06-27,Jersey,1,0,Åland Islands,False,False,,Island Games,1999
+1999-06-27,Gotland,12,1,Hitra,False,False,,Island Games,1999
+1999-06-27,Isle of Man,2,1,Shetland,False,False,,Island Games,1999
+1999-06-27,Isle of Wight,6,2,Frøya,False,False,,Island Games,1999
+1999-06-27,Greenland,4,1,Saare County,False,False,,Island Games,1999
+1999-06-27,Ynys Môn,1,1,Rhodes,False,False,,Island Games,1999
+1999-06-28,Åland Islands,2,1,Gibraltar,False,False,,Island Games,1999
+1999-06-28,Gotland,3,1,Shetland,False,False,,Island Games,1999
+1999-06-28,Hitra,0,13,Isle of Man,False,False,,Island Games,1999
+1999-06-28,Frøya,1,3,Greenland,False,False,,Island Games,1999
+1999-06-28,Saare County,1,6,Isle of Wight,False,False,,Island Games,1999
+1999-06-28,Rhodes,0,0,Guernsey,False,False,,Island Games,1999
+1999-06-29,Gibraltar,1,5,Jersey,False,False,,Island Games,1999
+1999-06-29,Gotland,4,4,Isle of Man,False,False,,Island Games,1999
+1999-06-29,Shetland,4,1,Hitra,False,False,,Island Games,1999
+1999-06-29,Isle of Wight,7,2,Greenland,False,False,,Island Games,1999
+1999-06-29,Saare County,1,4,Frøya,False,False,,Island Games,1999
+1999-06-29,Guernsey,1,1,Ynys Môn,False,False,,Island Games,1999
+1999-07-01,Hitra,2,1,Saare County,False,False,,Island Games,1999
+1999-07-01,Guernsey,4,2,Frøya,False,False,,Island Games,1999
+1999-07-01,Shetland,3,2,Gibraltar,False,False,,Island Games,1999
+1999-07-01,Greenland,0,2,Rhodes,False,False,,Island Games,1999
+1999-07-01,Gotland,1,4,Åland Islands,False,False,,Island Games,1999
+1999-07-01,Gotland,7,2,Greenland,False,False,,Island Games,1999
+1999-07-01,Isle of Wight,1,3,Ynys Môn,False,False,,Island Games,1999
+1999-07-01,Isle of Man,1,0,Jersey,False,False,,Island Games,1999
+1999-07-02,Gibraltar,5,1,Frøya,False,False,,Island Games,1999
+1999-07-02,Guernsey,6,5,Shetland,False,False,,Island Games,1999
+1999-07-02,Rhodes,3,2,Åland Islands,False,False,,Island Games,1999
+1999-07-02,Isle of Wight,2,0,Jersey,False,False,,Island Games,1999
+1999-07-02,Ynys Môn,1,0,Isle of Man,False,False,,Island Games,1999
+2001-07-08,Ynys Môn,4,1,Saare County,False,False,,Island Games,2001
+2001-07-08,Jersey,12,0,Orkney,False,False,,Island Games,2001
+2001-07-08,Isle of Wight,0,0,Greenland,False,False,,Island Games,2001
+2001-07-08,Isle of Man,9,0,Falkland Islands,False,False,,Island Games,2001
+2001-07-09,Saare County,2,3,Shetland,False,False,,Island Games,2001
+2001-07-09,Orkney,0,2,Gibraltar,False,False,,Island Games,2001
+2001-07-09,Greenland,0,2,Rhodes,False,False,,Island Games,2001
+2001-07-09,Guernsey,3,0,Falkland Islands,False,False,,Island Games,2001
+2001-07-10,Ynys Môn,1,1,Shetland,False,False,,Island Games,2001
+2001-07-10,Jersey,2,1,Gibraltar,False,False,,Island Games,2001
+2001-07-10,Rhodes,1,4,Isle of Wight,False,False,,Island Games,2001
+2001-07-10,Isle of Man,2,3,Guernsey,False,False,,Island Games,2001
+2001-07-12,Saare County,2,1,Orkney,False,False,,Island Games,2001
+2001-07-12,Greenland,4,0,Falkland Islands,False,False,,Island Games,2001
+2001-07-12,Isle of Man,1,3,Rhodes,False,False,,Island Games,2001
+2001-07-12,Gibraltar,2,0,Shetland,False,False,,Island Games,2001
+2001-07-12,Isle of Wight,2,3,Guernsey,False,False,,Island Games,2001
+2001-07-12,Ynys Môn,2,2,Jersey,False,False,,Island Games,2001
+2001-07-13,Orkney,1,4,Falkland Islands,False,False,,Island Games,2001
+2001-07-13,Greenland,2,0,Saare County,False,False,,Island Games,2001
+2001-07-13,Isle of Man,2,2,Shetland,False,False,,Island Games,2001
+2001-07-13,Gibraltar,2,0,Rhodes,False,False,,Island Games,2001
+2001-07-13,Isle of Wight,0,2,Jersey,False,False,,Island Games,2001
+2001-07-13,Guernsey,0,0,Ynys Môn,False,False,,Island Games,2001
+2003-06-29,Saare County,0,2,Ynys Môn,False,False,,Island Games,2003
+2003-06-29,Frøya,1,5,Jersey,False,False,,Island Games,2003
+2003-06-29,Shetland,0,0,Gotland,False,False,,Island Games,2003
+2003-06-29,Guernsey,7,1,Alderney,False,False,,Island Games,2003
+2003-06-29,Gibraltar,19,0,Sark,False,False,,Island Games,2003
+2003-06-29,Isle of Wight,1,2,Greenland,False,False,,Island Games,2003
+2003-06-30,Isle of Man,4,0,Saare County,False,False,,Island Games,2003
+2003-06-30,Gotland,2,2,Frøya,False,False,,Island Games,2003
+2003-06-30,Jersey,5,0,Shetland,False,False,,Island Games,2003
+2003-06-30,Guernsey,10,0,Orkney,False,False,,Island Games,2003
+2003-06-30,Sark,0,20,Isle of Wight,False,False,,Island Games,2003
+2003-06-30,Gibraltar,2,0,Greenland,False,False,,Island Games,2003
+2003-07-01,Ynys Môn,1,2,Isle of Man,False,False,,Island Games,2003
+2003-07-01,Shetland,3,1,Frøya,False,False,,Island Games,2003
+2003-07-01,Jersey,0,0,Gotland,False,False,,Island Games,2003
+2003-07-01,Orkney,3,1,Alderney,False,False,,Island Games,2003
+2003-07-01,Isle of Wight,2,1,Gibraltar,False,False,,Island Games,2003
+2003-07-01,Greenland,16,0,Sark,False,False,,Island Games,2003
+2003-07-03,Frøya,15,0,Sark,False,False,,Island Games,2003
+2003-07-03,Alderney,0,3,Greenland,False,False,,Island Games,2003
+2003-07-03,Gotland,3,0,Saare County,False,False,,Island Games,2003
+2003-07-03,Orkney,1,7,Gibraltar,False,False,,Island Games,2003
+2003-07-03,Isle of Man,2,1,Jersey,False,False,,Island Games,2003
+2003-07-03,Guernsey,3,1,Isle of Wight,False,False,,Island Games,2003
+2003-07-04,Saare County,0,1,Alderney,False,False,,Island Games,2003
+2003-07-04,Gotland,2,1,Greenland,False,False,,Island Games,2003
+2003-07-04,Orkney,0,6,Shetland,False,False,,Island Games,2003
+2003-07-04,Gibraltar,0,2,Ynys Môn,False,False,,Island Games,2003
+2003-07-04,Jersey,3,0,Isle of Wight,False,False,,Island Games,2003
+2003-07-04,Guernsey,3,1,Isle of Man,False,False,,Island Games,2003
+2005-07-10,Saare County,2,1,Åland Islands,False,False,,Island Games,2005
+2005-07-10,Shetland,4,0,Falkland Islands,False,False,,Island Games,2005
+2005-07-10,Guernsey,3,0,Orkney,False,False,,Island Games,2005
+2005-07-10,Greenland,0,0,Ynys Môn,False,False,,Island Games,2005
+2005-07-11,Shetland,3,1,Åland Islands,False,False,,Island Games,2005
+2005-07-11,Isle of Man,2,2,Saare County,False,False,,Island Games,2005
+2005-07-11,Orkney,1,2,Greenland,False,False,,Island Games,2005
+2005-07-11,Guernsey,2,1,Western Isles,False,False,,Island Games,2005
+2005-07-12,Saare County,1,2,Falkland Islands,False,False,,Island Games,2005
+2005-07-12,Åland Islands,0,1,Isle of Man,False,False,,Island Games,2005
+2005-07-12,Orkney,0,2,Ynys Môn,False,False,,Island Games,2005
+2005-07-12,Western Isles,4,4,Greenland,False,False,,Island Games,2005
+2005-07-13,Shetland,0,0,Saare County,False,False,,Island Games,2005
+2005-07-13,Falkland Islands,0,9,Isle of Man,False,False,,Island Games,2005
+2005-07-13,Ynys Môn,0,0,Western Isles,False,False,,Island Games,2005
+2005-07-13,Greenland,0,6,Guernsey,False,False,,Island Games,2005
+2005-07-14,Shetland,0,1,Isle of Man,False,False,,Island Games,2005
+2005-07-14,Åland Islands,2,1,Falkland Islands,False,False,,Island Games,2005
+2005-07-14,Guernsey,3,0,Ynys Môn,False,False,,Island Games,2005
+2005-07-14,Western Isles,5,4,Orkney,False,False,,Island Games,2005
+2005-07-15,Orkney,2,0,Falkland Islands,False,False,,Island Games,2005
+2005-07-15,Åland Islands,3,2,Greenland,False,False,,Island Games,2005
+2005-07-15,Ynys Môn,3,2,Saare County,False,False,,Island Games,2005
+2005-07-15,Western Isles,4,0,Isle of Man,False,False,,Island Games,2005
+2005-07-15,Shetland,2,0,Guernsey,False,False,,Island Games,2005
+2007-06-30,Menorca,0,1,Jersey,False,False,,Island Games,2007
+2007-06-30,Bermuda,1,2,Ynys Môn,False,False,,Island Games,2007
+2007-06-30,Rhodes,2,0,Saare County,False,False,,Island Games,2007
+2007-07-01,Jersey,1,1,Gibraltar,False,False,,Island Games,2007
+2007-07-01,Åland Islands,0,2,Bermuda,False,False,,Island Games,2007
+2007-07-01,Rhodes,3,1,Frøya,False,False,,Island Games,2007
+2007-07-01,Western Isles,2,1,Gotland,False,False,,Island Games,2007
+2007-07-02,Gibraltar,2,1,Menorca,False,False,,Island Games,2007
+2007-07-02,Ynys Môn,0,2,Åland Islands,False,False,,Island Games,2007
+2007-07-02,Saare County,2,3,Frøya,False,False,,Island Games,2007
+2007-07-02,Gotland,1,3,Western Isles,False,False,,Island Games,2007
+2007-07-04,Menorca,6,1,Ynys Môn,False,False,,Island Games,2007
+2007-07-04,Jersey,1,0,Åland Islands,False,False,,Island Games,2007
+2007-07-04,Frøya,0,3,Gotland,False,False,,Island Games,2007
+2007-07-04,Gibraltar,2,0,Bermuda,False,False,,Island Games,2007
+2007-07-04,Rhodes,1,0,Western Isles,False,False,,Island Games,2007
+2007-07-05,Menorca,4,1,Saare County,False,False,,Island Games,2007
+2007-07-05,Åland Islands,3,1,Frøya,False,False,,Island Games,2007
+2007-07-05,Jersey,1,0,Gotland,False,False,,Island Games,2007
+2007-07-05,Bermuda,0,1,Western Isles,False,False,,Island Games,2007
+2007-07-05,Rhodes,0,4,Gibraltar,False,False,,Island Games,2007
+2009-06-28,Åland Islands,4,2,Greenland,False,False,,Island Games,2009
+2009-06-28,Shetland,2,2,Menorca,False,False,,Island Games,2009
+2009-06-28,Gibraltar,0,0,Guernsey,False,False,,Island Games,2009
+2009-06-28,Ynys Môn,3,0,Frøya,False,False,,Island Games,2009
+2009-06-28,Rhodes,2,0,Isle of Wight,False,False,,Island Games,2009
+2009-06-28,Saare County,0,1,Jersey,False,False,,Island Games,2009
+2009-06-28,Western Isles,2,1,Gotland,False,False,,Island Games,2009
+2009-06-28,Falkland Islands,1,2,Isle of Man,False,False,,Island Games,2009
+2009-06-29,Menorca,6,0,Greenland,False,False,,Island Games,2009
+2009-06-29,Åland Islands,2,1,Shetland,False,False,,Island Games,2009
+2009-06-29,Ynys Môn,0,2,Guernsey,False,False,,Island Games,2009
+2009-06-29,Frøya,0,8,Gibraltar,False,False,,Island Games,2009
+2009-06-29,Jersey,1,0,Rhodes,False,False,,Island Games,2009
+2009-06-29,Isle of Wight,5,1,Saare County,False,False,,Island Games,2009
+2009-06-29,Isle of Man,5,0,Western Isles,False,False,,Island Games,2009
+2009-06-29,Gotland,2,0,Falkland Islands,False,False,,Island Games,2009
+2009-06-30,Greenland,3,1,Shetland,False,False,,Island Games,2009
+2009-06-30,Åland Islands,1,1,Menorca,False,False,,Island Games,2009
+2009-06-30,Gibraltar,1,3,Ynys Môn,False,False,,Island Games,2009
+2009-06-30,Guernsey,8,0,Frøya,False,False,,Island Games,2009
+2009-06-30,Rhodes,3,0,Saare County,False,False,,Island Games,2009
+2009-06-30,Jersey,4,1,Isle of Wight,False,False,,Island Games,2009
+2009-06-30,Western Isles,7,1,Falkland Islands,False,False,,Island Games,2009
+2009-06-30,Isle of Man,4,2,Gotland,False,False,,Island Games,2009
+2009-07-02,Falkland Islands,1,3,Frøya,False,False,,Island Games,2009
+2009-07-02,Shetland,3,2,Saare County,False,False,,Island Games,2009
+2009-07-02,Gotland,4,2,Greenland,False,False,,Island Games,2009
+2009-07-02,Åland Islands,2,1,Isle of Man,False,False,,Island Games,2009
+2009-07-02,Guernsey,0,2,Jersey,False,False,,Island Games,2009
+2009-07-03,Gibraltar,3,0,Isle of Wight,False,False,,Island Games,2009
+2009-07-03,Menorca,4,1,Western Isles,False,False,,Island Games,2009
+2009-07-03,Rhodes,4,0,Ynys Môn,False,False,,Island Games,2009
+2009-07-03,Isle of Man,0,5,Guernsey,False,False,,Island Games,2009
+2009-07-03,Åland Islands,1,2,Jersey,False,False,,Island Games,2009
+2011-06-26,Rhodes,2,1,Greenland,False,False,,Island Games,2011
+2011-06-26,Jersey,2,0,Menorca,False,False,,Island Games,2011
+2011-06-26,Alderney,1,6,Gibraltar,False,False,,Island Games,2011
+2011-06-26,Isle of Wight,4,0,Ynys Môn,False,False,,Island Games,2011
+2011-06-26,Gotland,2,4,Isle of Man,False,False,,Island Games,2011
+2011-06-26,Guernsey,5,0,Falkland Islands,False,False,,Island Games,2011
+2011-06-26,Åland Islands,3,3,Saare County,False,False,,Island Games,2011
+2011-06-27,Greenland,2,3,Menorca,False,False,,Island Games,2011
+2011-06-27,Jersey,2,0,Rhodes,False,False,,Island Games,2011
+2011-06-27,Isle of Wight,4,0,Alderney,False,False,,Island Games,2011
+2011-06-27,Gibraltar,6,3,Ynys Môn,False,False,,Island Games,2011
+2011-06-27,Isle of Man,6,0,Falkland Islands,False,False,,Island Games,2011
+2011-06-27,Gotland,2,5,Guernsey,False,False,,Island Games,2011
+2011-06-27,Western Isles,0,2,Åland Islands,False,False,,Island Games,2011
+2011-06-28,Greenland,1,2,Jersey,False,False,,Island Games,2011
+2011-06-28,Alderney,0,5,Ynys Môn,False,False,,Island Games,2011
+2011-06-28,Isle of Wight,3,2,Gibraltar,False,False,,Island Games,2011
+2011-06-28,Guernsey,2,1,Isle of Man,False,False,,Island Games,2011
+2011-06-28,Falkland Islands,1,6,Gotland,False,False,,Island Games,2011
+2011-06-28,Saare County,2,0,Western Isles,False,False,,Island Games,2011
+2011-06-30,Alderney,0,3,Falkland Islands,False,False,,Island Games,2011
+2011-06-30,Greenland,1,0,Western Isles,False,False,,Island Games,2011
+2011-06-30,Gotland,1,2,Ynys Môn,False,False,,Island Games,2011
+2011-06-30,Isle of Man,2,2,Menorca,False,False,,Island Games,2011
+2011-06-30,Saare County,0,4,Gibraltar,False,False,,Island Games,2011
+2011-06-30,Isle of Wight,1,0,Jersey,False,False,,Island Games,2011
+2011-06-30,Guernsey,3,2,Åland Islands,False,False,,Island Games,2011
+2011-07-01,Jersey,5,1,Åland Islands,False,False,,Island Games,2011
+2011-07-01,Isle of Wight,4,2,Guernsey,False,False,,Island Games,2011
+2013-07-14,Bermuda,3,0,Greenland,False,False,,Island Games,2013
+2013-07-14,Frøya,1,2,Falkland Islands,False,False,,Island Games,2013
+2013-07-15,Bermuda,8,0,Falkland Islands,False,False,,Island Games,2013
+2013-07-15,Greenland,12,0,Frøya,False,False,,Island Games,2013
+2013-07-17,Falkland Islands,0,9,Greenland,False,False,,Island Games,2013
+2013-07-17,Bermuda,8,0,Frøya,False,False,,Island Games,2013
+2013-07-18,Falkland Islands,6,0,Frøya,False,False,,Island Games,2013
+2013-07-18,Bermuda,1,0,Greenland,False,False,,Island Games,2013
+2015-06-28,Greenland,2,2,Menorca,False,False,,Island Games,2015
+2015-06-28,Saare County,1,2,Åland Islands,False,False,,Island Games,2015
+2015-06-28,Gibraltar,2,1,Gotland,False,False,,Island Games,2015
+2015-06-28,Ynys Môn,2,5,Guernsey,False,False,,Island Games,2015
+2015-06-28,Falkland Islands,2,1,Hitra,False,False,,Island Games,2015
+2015-06-28,Shetland,0,0,Isle of Wight,False,False,,Island Games,2015
+2015-06-28,Western Isles,0,9,Isle of Man,False,False,,Island Games,2015
+2015-06-28,Jersey,6,0,Alderney,False,False,,Island Games,2015
+2015-06-29,Isle of Man,7,0,Alderney,False,False,,Island Games,2015
+2015-06-29,Jersey,3,0,Western Isles,False,False,,Island Games,2015
+2015-06-29,Åland Islands,0,2,Greenland,False,False,,Island Games,2015
+2015-06-29,Menorca,3,0,Saare County,False,False,,Island Games,2015
+2015-06-29,Guernsey,3,0,Gotland,False,False,,Island Games,2015
+2015-06-29,Gibraltar,1,1,Ynys Môn,False,False,,Island Games,2015
+2015-06-29,Isle of Wight,3,0,Falkland Islands,False,False,,Island Games,2015
+2015-06-29,Hitra,1,4,Shetland,False,False,,Island Games,2015
+2015-06-30,Åland Islands,1,3,Menorca,False,False,,Island Games,2015
+2015-06-30,Greenland,2,1,Saare County,False,False,,Island Games,2015
+2015-06-30,Gotland,2,3,Ynys Môn,False,False,,Island Games,2015
+2015-06-30,Gibraltar,0,4,Guernsey,False,False,,Island Games,2015
+2015-06-30,Isle of Wight,3,1,Hitra,False,False,,Island Games,2015
+2015-06-30,Falkland Islands,0,5,Shetland,False,False,,Island Games,2015
+2015-06-30,Jersey,1,2,Isle of Man,False,False,,Island Games,2015
+2015-06-30,Alderney,2,3,Western Isles,False,False,,Island Games,2015
+2015-07-02,Hitra,5,1,Alderney,False,False,,Island Games,2015
+2015-07-02,Gotland,2,3,Saare County,False,False,,Island Games,2015
+2015-07-02,Falkland Islands,1,2,Western Isles,False,False,,Island Games,2015
+2015-07-02,Gibraltar,0,0,Åland Islands,False,False,,Island Games,2015
+2015-07-02,Jersey,1,0,Ynys Môn,False,False,,Island Games,2015
+2015-07-02,Isle of Wight,1,2,Greenland,False,False,,Island Games,2015
+2015-07-02,Menorca,1,2,Guernsey,False,False,,Island Games,2015
+2015-07-02,Shetland,1,3,Isle of Man,False,False,,Island Games,2015
+2015-07-03,Menorca,1,0,Shetland,False,False,,Island Games,2015
+2015-07-03,Guernsey,3,0,Isle of Man,False,False,,Island Games,2015
+2017-06-25,Menorca,1,0,Orkney,False,False,,Island Games,2017
+2017-06-25,Alderney,0,3,Jersey,False,False,,Island Games,2017
+2017-06-25,Gotland,7,1,Frøya,False,False,,Island Games,2017
+2017-06-25,Western Isles,0,3,Greenland,False,False,,Island Games,2017
+2017-06-25,Guernsey,1,1,Åland Islands,False,False,,Island Games,2017
+2017-06-25,Saare County,4,5,Shetland,False,False,,Island Games,2017
+2017-06-25,Isle of Man,5,0,Hitra,False,False,,Island Games,2017
+2017-06-25,Ynys Môn,3,0,Falkland Islands,False,False,,Island Games,2017
+2017-06-26,Jersey,3,3,Menorca,False,False,,Island Games,2017
+2017-06-26,Orkney,3,0,Alderney,False,False,,Island Games,2017
+2017-06-26,Gotland,8,0,Western Isles,False,False,,Island Games,2017
+2017-06-26,Frøya,2,2,Greenland,False,False,,Island Games,2017
+2017-06-26,Shetland,0,3,Guernsey,False,False,,Island Games,2017
+2017-06-26,Åland Islands,0,0,Saare County,False,False,,Island Games,2017
+2017-06-26,Falkland Islands,2,5,Isle of Man,False,False,,Island Games,2017
+2017-06-26,Hitra,1,5,Ynys Môn,False,False,,Island Games,2017
+2017-06-27,Menorca,6,0,Alderney,False,False,,Island Games,2017
+2017-06-27,Orkney,0,3,Jersey,False,False,,Island Games,2017
+2017-06-27,Gotland,0,1,Greenland,False,False,,Island Games,2017
+2017-06-27,Frøya,2,4,Western Isles,False,False,,Island Games,2017
+2017-06-27,Guernsey,1,1,Saare County,False,False,,Island Games,2017
+2017-06-27,Åland Islands,2,1,Shetland,False,False,,Island Games,2017
+2017-06-27,Isle of Man,4,0,Ynys Môn,False,False,,Island Games,2017
+2017-06-27,Hitra,2,1,Falkland Islands,False,False,,Island Games,2017
+2017-06-29,Falkland Islands,0,3,Alderney,False,False,,Island Games,2017
+2017-06-29,Saare County,4,2,Frøya,False,False,,Island Games,2017
+2017-06-29,Hitra,1,1,Western Isles,False,False,,Island Games,2017
+2017-06-29,Orkney,3,1,Shetland,False,False,,Island Games,2017
+2017-06-29,Ynys Môn,0,2,Åland Islands,False,False,,Island Games,2017
+2017-06-29,Gotland,2,3,Jersey,False,False,,Island Games,2017
+2017-06-29,Greenland,1,1,Menorca,False,False,,Island Games,2017
+2017-06-29,Guernsey,3,4,Isle of Man,False,False,,Island Games,2017
+2017-06-30,Menorca,0,1,Guernsey,False,False,,Island Games,2017
+2017-06-30,Greenland,0,6,Isle of Man,False,False,,Island Games,2017
+2023-07-09,Åland Islands,0,2,Isle of Wight,False,False,,Island Games,2023
+2023-07-09,Guernsey,1,0,Western Isles,False,False,,Island Games,2023
+2023-07-09,Isle of Man,3,0,Falkland Islands,False,False,,Island Games,2023
+2023-07-09,Ynys Môn,2,0,Shetland,False,False,,Island Games,2023
+2023-07-09,Orkney,2,2,Greenland,False,False,,Island Games,2023
+2023-07-09,Jersey,1,0,Gozo,False,False,,Island Games,2023
+2023-07-09,Menorca,5,0,Saint Helena,False,False,,Island Games,2023
+2023-07-10,Western Isles,0,1,Isle of Wight,False,False,,Island Games,2023
+2023-07-10,Guernsey,4,1,Åland Islands,False,False,,Island Games,2023
+2023-07-10,Falkland Islands,1,5,Ynys Môn,False,False,,Island Games,2023
+2023-07-10,Shetland,3,2,Isle of Man,False,False,,Island Games,2023
+2023-07-10,Greenland,2,0,Frøya,False,False,,Island Games,2023
+2023-07-10,Gozo,3,0,Saint Helena,False,False,,Island Games,2023
+2023-07-10,Jersey,4,0,Menorca,False,False,,Island Games,2023
+2023-07-11,Guernsey,1,2,Isle of Wight,False,False,,Island Games,2023
+2023-07-11,Åland Islands,0,2,Western Isles,False,False,,Island Games,2023
+2023-07-11,Falkland Islands,1,4,Shetland,False,False,,Island Games,2023
+2023-07-11,Isle of Man,1,2,Ynys Môn,False,False,,Island Games,2023
+2023-07-11,Frøya,2,3,Orkney,False,False,,Island Games,2023
+2023-07-11,Menorca,0,1,Gozo,False,False,,Island Games,2023
+2023-07-11,Saint Helena,0,5,Jersey,False,False,,Island Games,2023
+2023-07-13,Frøya,4,2,Saint Helena,False,False,,Island Games,2023
+2023-07-13,Åland Islands,1,1,Falkland Islands,False,False,,Island Games,2023
+2023-07-13,Western Isles,2,1,Menorca,False,False,,Island Games,2023
+2023-07-13,Orkney,0,1,Isle of Man,False,False,,Island Games,2023
+2023-07-13,Shetland,5,1,Greenland,False,False,,Island Games,2023
+2023-07-13,Guernsey,1,0,Gozo,False,False,,Island Games,2023
+2023-07-13,Isle of Wight,2,3,Jersey,False,False,,Island Games,2023
+2023-07-14,Ynys Môn,2,5,Jersey,False,False,,Island Games,2023

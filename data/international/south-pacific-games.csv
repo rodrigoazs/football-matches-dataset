@@ -1,0 +1,206 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1963-08-29,Fiji,3,1,Papua New Guinea,False,False,,South Pacific Games,1963
+1963-08-30,Solomon Islands,6,3,Vanuatu,False,False,,South Pacific Games,1963
+1963-09-01,Fiji,5,0,Solomon Islands,False,False,,South Pacific Games,1963
+1963-09-01,New Caledonia,2,1,Tahiti,False,False,,South Pacific Games,1963
+1963-09-06,Solomon Islands,0,18,Tahiti,False,False,,South Pacific Games,1963
+1963-09-06,Fiji,2,8,New Caledonia,False,False,,South Pacific Games,1963
+1966-12-09,Papua New Guinea,3,4,Tahiti,False,False,,South Pacific Games,1966
+1966-12-11,Tahiti,5,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1966
+1966-12-12,New Caledonia,5,0,Vanuatu,False,False,,South Pacific Games,1966
+1966-12-12,New Caledonia,8,0,Solomon Islands,False,False,,South Pacific Games,1966
+1966-12-13,Papua New Guinea,9,1,Wallis Islands and Futuna,False,False,,South Pacific Games,1966
+1966-12-13,Solomon Islands,4,4,Vanuatu,False,False,,South Pacific Games,1966
+1966-12-15,New Caledonia,4,0,Papua New Guinea,False,False,,South Pacific Games,1966
+1966-12-15,Tahiti,3,0,Vanuatu,False,False,,South Pacific Games,1966
+1966-12-17,New Caledonia,0,2,Tahiti,False,False,,South Pacific Games,1966
+1966-12-17,Papua New Guinea,2,5,Vanuatu,False,False,,South Pacific Games,1966
+1969-08-14,Fiji,5,1,Solomon Islands,False,False,,South Pacific Games,1969
+1969-08-14,Tahiti,3,3,Vanuatu,False,False,,South Pacific Games,1969
+1969-08-14,Papua New Guinea,1,4,New Caledonia,False,False,,South Pacific Games,1969
+1969-08-15,New Caledonia,1,1,Solomon Islands,False,False,,South Pacific Games,1969
+1969-08-15,Papua New Guinea,1,3,Tahiti,False,False,,South Pacific Games,1969
+1969-08-15,Fiji,5,2,Vanuatu,False,False,,South Pacific Games,1969
+1969-08-16,Fiji,0,2,Tahiti,False,False,,South Pacific Games,1969
+1969-08-16,Papua New Guinea,4,0,Solomon Islands,False,False,,South Pacific Games,1969
+1969-08-16,New Caledonia,2,0,Vanuatu,False,False,,South Pacific Games,1969
+1969-08-18,Fiji,0,11,New Caledonia,False,False,,South Pacific Games,1969
+1969-08-18,Solomon Islands,0,7,Tahiti,False,False,,South Pacific Games,1969
+1969-08-18,Papua New Guinea,2,1,Vanuatu,False,False,,South Pacific Games,1969
+1969-08-20,Vanuatu,7,2,Solomon Islands,False,False,,South Pacific Games,1969
+1969-08-20,Papua New Guinea,1,1,Fiji,False,False,,South Pacific Games,1969
+1969-08-22,New Caledonia,2,1,Tahiti,False,False,,South Pacific Games,1969
+1969-08-22,Papua New Guinea,2,1,Fiji,False,False,,South Pacific Games,1969
+1971-09-09,Fiji,1,5,New Caledonia,False,False,,South Pacific Games,1971
+1971-09-09,Tahiti,2,2,Papua New Guinea,False,False,,South Pacific Games,1971
+1971-09-11,Cook Islands,1,16,Papua New Guinea,False,False,,South Pacific Games,1971
+1971-09-11,Fiji,4,6,Vanuatu,False,False,,South Pacific Games,1971
+1971-09-13,New Caledonia,0,0,Vanuatu,False,False,,South Pacific Games,1971
+1971-09-13,Tahiti,30,0,Cook Islands,False,False,,South Pacific Games,1971
+1971-09-15,Cook Islands,1,15,Fiji,False,False,,South Pacific Games,1971
+1971-09-16,New Caledonia,4,0,Papua New Guinea,False,False,,South Pacific Games,1971
+1971-09-16,Tahiti,1,2,Vanuatu,False,False,,South Pacific Games,1971
+1971-09-18,Tahiti,8,1,Papua New Guinea,False,False,,South Pacific Games,1971
+1971-09-18,New Caledonia,7,1,Vanuatu,False,False,,South Pacific Games,1971
+1975-08-02,New Caledonia,3,0,Tahiti,False,False,,South Pacific Games,1975
+1975-08-02,Vanuatu,3,0,Papua New Guinea,False,False,,South Pacific Games,1975
+1975-08-02,Guam,1,5,Solomon Islands,False,False,,South Pacific Games,1975
+1975-08-04,New Caledonia,3,1,Vanuatu,False,False,,South Pacific Games,1975
+1975-08-04,Papua New Guinea,2,4,Tahiti,False,False,,South Pacific Games,1975
+1975-08-04,Guam,0,11,Fiji,False,False,,South Pacific Games,1975
+1975-08-05,New Caledonia,5,1,Papua New Guinea,False,False,,South Pacific Games,1975
+1975-08-05,Vanuatu,0,3,Tahiti,False,False,,South Pacific Games,1975
+1975-08-05,Fiji,1,1,Solomon Islands,False,False,,South Pacific Games,1975
+1975-08-07,Fiji,0,3,Tahiti,False,False,,South Pacific Games,1975
+1975-08-07,New Caledonia,4,0,Solomon Islands,False,False,,South Pacific Games,1975
+1975-08-08,Fiji,2,3,Solomon Islands,False,False,,South Pacific Games,1975
+1975-08-09,New Caledonia,1,2,Tahiti,False,False,,South Pacific Games,1975
+1979-08-29,Guam,0,4,Vanuatu,False,False,,South Pacific Games,1979
+1979-08-29,Solomon Islands,6,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1979
+1979-08-29,Tahiti,8,0,Tonga,False,False,,South Pacific Games,1979
+1979-08-29,Fiji,0,0,Papua New Guinea,False,False,,South Pacific Games,1979
+1979-08-30,Fiji,24,0,Kiribati,False,False,,South Pacific Games,1979
+1979-08-30,Guam,1,10,New Caledonia,False,False,,South Pacific Games,1979
+1979-08-30,Tahiti,18,0,Tuvalu,False,False,,South Pacific Games,1979
+1979-08-31,Kiribati,0,13,Papua New Guinea,False,False,,South Pacific Games,1979
+1979-08-31,Solomon Islands,12,0,Samoa,False,False,,South Pacific Games,1979
+1979-08-31,New Caledonia,3,0,Vanuatu,False,False,,South Pacific Games,1979
+1979-09-01,Tonga,3,5,Tuvalu,False,False,,South Pacific Games,1979
+1979-09-01,Wallis Islands and Futuna,3,1,Samoa,False,False,,South Pacific Games,1979
+1979-09-03,Fiji,5,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1979
+1979-09-03,New Caledonia,11,0,Tuvalu,False,False,,South Pacific Games,1979
+1979-09-03,Papua New Guinea,2,3,Solomon Islands,False,False,,South Pacific Games,1979
+1979-09-03,Tahiti,1,0,Vanuatu,False,False,,South Pacific Games,1979
+1979-09-04,New Caledonia,2,3,Tahiti,False,False,,South Pacific Games,1979
+1979-09-04,Fiji,2,0,Solomon Islands,False,False,,South Pacific Games,1979
+1979-09-05,Guam,4,2,Samoa,False,False,,South Pacific Games,1979
+1979-09-05,Kiribati,3,3,Tuvalu,False,False,,South Pacific Games,1979
+1979-09-05,Tonga,1,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1979
+1979-09-05,Vanuatu,2,0,Papua New Guinea,False,False,,South Pacific Games,1979
+1979-09-06,Guam,7,2,Tuvalu,False,False,,South Pacific Games,1979
+1979-09-06,Vanuatu,7,1,Tonga,False,False,,South Pacific Games,1979
+1979-09-07,New Caledonia,1,3,Solomon Islands,False,False,,South Pacific Games,1979
+1979-09-07,Fiji,0,3,Tahiti,False,False,,South Pacific Games,1979
+1983-08-20,Niue,0,14,Tahiti,False,False,,South Pacific Games,1983
+1983-08-20,Tonga,0,3,Wallis Islands and Futuna,False,False,,South Pacific Games,1983
+1983-08-20,Samoa,3,1,American Samoa,False,False,,South Pacific Games,1983
+1983-08-22,American Samoa,3,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1983
+1983-08-22,Niue,0,19,Papua New Guinea,False,False,,South Pacific Games,1983
+1983-08-22,Samoa,3,3,Tonga,False,False,,South Pacific Games,1983
+1983-08-22,Fiji,10,0,Solomon Islands,False,False,,South Pacific Games,1983
+1983-08-24,American Samoa,2,3,Tonga,False,False,,South Pacific Games,1983
+1983-08-24,Samoa,1,2,Wallis Islands and Futuna,False,False,,South Pacific Games,1983
+1983-08-24,Papua New Guinea,1,2,Tahiti,False,False,,South Pacific Games,1983
+1983-08-26,Fiji,6,0,Vanuatu,False,False,,South Pacific Games,1983
+1983-09-11,New Caledonia,6,2,Vanuatu,False,False,,South Pacific Games,1983
+1983-09-11,New Caledonia,1,0,Solomon Islands,False,False,,South Pacific Games,1983
+1983-09-13,Fiji,5,1,New Caledonia,False,False,,South Pacific Games,1983
+1983-09-14,Fiji,3,2,New Caledonia,False,False,,South Pacific Games,1983
+1983-09-14,Fiji,2,0,Papua New Guinea,False,False,,South Pacific Games,1983
+1983-09-14,New Caledonia,4,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1983
+1983-09-14,Papua New Guinea,1,6,Tahiti,False,False,,South Pacific Games,1983
+1983-09-14,Samoa,0,2,Tahiti,False,False,,South Pacific Games,1983
+1983-09-15,Fiji,0,1,Tahiti,False,False,,South Pacific Games,1983
+1983-09-15,New Caledonia,2,1,Papua New Guinea,False,False,,South Pacific Games,1983
+1987-12-09,New Caledonia,10,0,American Samoa,False,False,,South Pacific Games,1987
+1987-12-09,Papua New Guinea,0,0,Tahiti,False,False,,South Pacific Games,1987
+1987-12-09,Vanuatu,6,1,Wallis Islands and Futuna,False,False,,South Pacific Games,1987
+1987-12-10,American Samoa,0,7,Vanuatu,False,False,,South Pacific Games,1987
+1987-12-10,New Caledonia,2,0,Papua New Guinea,False,False,,South Pacific Games,1987
+1987-12-10,Tahiti,4,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1987
+1987-12-12,American Samoa,1,5,Wallis Islands and Futuna,False,False,,South Pacific Games,1987
+1987-12-12,New Caledonia,2,3,Tahiti,False,False,,South Pacific Games,1987
+1987-12-12,Papua New Guinea,1,1,Vanuatu,False,False,,South Pacific Games,1987
+1987-12-15,American Samoa,0,20,Papua New Guinea,False,False,,South Pacific Games,1987
+1987-12-15,New Caledonia,5,1,Wallis Islands and Futuna,False,False,,South Pacific Games,1987
+1987-12-15,Tahiti,2,1,Vanuatu,False,False,,South Pacific Games,1987
+1987-12-17,New Caledonia,6,0,Vanuatu,False,False,,South Pacific Games,1987
+1987-12-17,Papua New Guinea,2,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1987
+1987-12-19,New Caledonia,1,0,Tahiti,False,False,,South Pacific Games,1987
+1987-12-19,Papua New Guinea,3,1,Vanuatu,False,False,,South Pacific Games,1987
+1991-09-09,Guam,0,15,Tahiti,False,False,,South Pacific Games,1991
+1991-09-09,Papua New Guinea,0,0,Solomon Islands,False,False,,South Pacific Games,1991
+1991-09-10,Fiji,3,1,New Caledonia,False,False,,South Pacific Games,1991
+1991-09-10,Vanuatu,4,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1991
+1991-09-11,New Caledonia,2,2,Tahiti,False,False,,South Pacific Games,1991
+1991-09-11,Solomon Islands,5,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1991
+1991-09-12,Fiji,14,1,Guam,False,False,,South Pacific Games,1991
+1991-09-12,Papua New Guinea,0,1,Vanuatu,False,False,,South Pacific Games,1991
+1991-09-14,Fiji,3,0,Tahiti,False,False,,South Pacific Games,1991
+1991-09-14,Solomon Islands,3,0,Vanuatu,False,False,,South Pacific Games,1991
+1991-09-15,Guam,0,18,New Caledonia,False,False,,South Pacific Games,1991
+1991-09-15,Papua New Guinea,5,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1991
+1991-09-17,Fiji,3,1,Vanuatu,False,False,,South Pacific Games,1991
+1991-09-17,New Caledonia,1,4,Solomon Islands,False,False,,South Pacific Games,1991
+1991-09-17,Wallis Islands and Futuna,0,5,Tahiti,False,False,,South Pacific Games,1991
+1991-09-18,Wallis Islands and Futuna,5,0,Guam,False,False,,South Pacific Games,1991
+1991-09-20,Fiji,1,1,Solomon Islands,False,False,,South Pacific Games,1991
+1991-09-20,New Caledonia,3,1,Vanuatu,False,False,,South Pacific Games,1991
+1995-08-16,Cook Islands,0,9,New Caledonia,False,False,,South Pacific Games,1995
+1995-08-16,Fiji,2,2,Papua New Guinea,False,False,,South Pacific Games,1995
+1995-08-16,Guam,0,6,Vanuatu,False,False,,South Pacific Games,1995
+1995-08-16,Solomon Islands,12,1,Wallis Islands and Futuna,False,False,,South Pacific Games,1995
+1995-08-17,Tahiti,13,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1995
+1995-08-18,New Caledonia,0,1,Solomon Islands,False,False,,South Pacific Games,1995
+1995-08-19,Cook Islands,2,1,Wallis Islands and Futuna,False,False,,South Pacific Games,1995
+1995-08-19,Tahiti,4,2,Solomon Islands,False,False,,South Pacific Games,1995
+1995-08-20,Fiji,8,0,Guam,False,False,,South Pacific Games,1995
+1995-08-20,New Caledonia,10,0,Wallis Islands and Futuna,False,False,,South Pacific Games,1995
+1995-08-20,Papua New Guinea,0,3,Vanuatu,False,False,,South Pacific Games,1995
+1995-08-21,Cook Islands,0,16,Solomon Islands,False,False,,South Pacific Games,1995
+1995-08-21,Tahiti,2,0,New Caledonia,False,False,,South Pacific Games,1995
+1995-08-22,Fiji,3,1,Vanuatu,False,False,,South Pacific Games,1995
+1995-08-22,Guam,0,9,Papua New Guinea,False,False,,South Pacific Games,1995
+1995-08-22,Tahiti,11,0,Cook Islands,False,False,,South Pacific Games,1995
+1995-08-24,Fiji,3,3,Solomon Islands,False,False,,South Pacific Games,1995
+1995-08-24,Tahiti,3,0,Vanuatu,False,False,,South Pacific Games,1995
+1995-08-26,Fiji,3,0,Vanuatu,False,False,,South Pacific Games,1995
+1995-08-26,Tahiti,2,0,Solomon Islands,False,False,,South Pacific Games,1995
+2003-06-30,Fiji,0,0,Vanuatu,False,False,,South Pacific Games,2003
+2003-06-30,Papua New Guinea,0,2,New Caledonia,False,False,,South Pacific Games,2003
+2003-06-30,Tahiti,17,0,Micronesia,False,False,,South Pacific Games,2003
+2003-06-30,Tuvalu,3,2,Kiribati,False,False,,South Pacific Games,2003
+2003-07-01,Fiji,4,0,Tuvalu,False,False,,South Pacific Games,2003
+2003-07-01,Micronesia,0,18,New Caledonia,False,False,,South Pacific Games,2003
+2003-07-01,Papua New Guinea,2,2,Tonga,False,False,,South Pacific Games,2003
+2003-07-01,Solomon Islands,2,2,Vanuatu,False,False,,South Pacific Games,2003
+2003-07-03,Solomon Islands,7,0,Kiribati,False,False,,South Pacific Games,2003
+2003-07-03,Tahiti,3,0,Papua New Guinea,False,False,,South Pacific Games,2003
+2003-07-03,Tonga,0,4,New Caledonia,False,False,,South Pacific Games,2003
+2003-07-03,Tuvalu,0,1,Vanuatu,False,False,,South Pacific Games,2003
+2003-07-05,Fiji,12,0,Kiribati,False,False,,South Pacific Games,2003
+2003-07-05,Tahiti,0,4,New Caledonia,False,False,,South Pacific Games,2003
+2003-07-05,Tonga,7,0,Micronesia,False,False,,South Pacific Games,2003
+2003-07-05,Tuvalu,0,4,Solomon Islands,False,False,,South Pacific Games,2003
+2003-07-07,Fiji,2,1,Solomon Islands,False,False,,South Pacific Games,2003
+2003-07-07,Kiribati,0,18,Vanuatu,False,False,,South Pacific Games,2003
+2003-07-07,Papua New Guinea,10,0,Micronesia,False,False,,South Pacific Games,2003
+2003-07-07,Tahiti,4,0,Tonga,False,False,,South Pacific Games,2003
+2003-07-09,Fiji,2,1,Tahiti,False,False,,South Pacific Games,2003
+2003-07-09,New Caledonia,1,1,Vanuatu,False,False,,South Pacific Games,2003
+2003-07-11,Fiji,2,0,New Caledonia,False,False,,South Pacific Games,2003
+2003-07-11,Tahiti,0,1,Vanuatu,False,False,,South Pacific Games,2003
+2007-08-25,Fiji,16,0,Tuvalu,False,False,,South Pacific Games,2007
+2007-08-25,Samoa,0,4,Vanuatu,False,False,,South Pacific Games,2007
+2007-08-25,Solomon Islands,12,1,American Samoa,False,False,,South Pacific Games,2007
+2007-08-25,Tahiti,0,1,New Caledonia,False,False,,South Pacific Games,2007
+2007-08-27,Fiji,4,0,Cook Islands,False,False,,South Pacific Games,2007
+2007-08-27,Samoa,7,0,American Samoa,False,False,,South Pacific Games,2007
+2007-08-27,Solomon Islands,4,0,Tonga,False,False,,South Pacific Games,2007
+2007-08-27,Tuvalu,0,1,New Caledonia,False,False,,South Pacific Games,2007
+2007-08-29,American Samoa,0,15,Vanuatu,False,False,,South Pacific Games,2007
+2007-08-29,New Caledonia,3,0,Cook Islands,False,False,,South Pacific Games,2007
+2007-08-29,Samoa,2,1,Tonga,False,False,,South Pacific Games,2007
+2007-08-29,Tuvalu,1,1,Tahiti,False,False,,South Pacific Games,2007
+2007-09-01,Cook Islands,4,1,Tuvalu,False,False,,South Pacific Games,2007
+2007-09-01,Tahiti,0,4,Fiji,False,False,,South Pacific Games,2007
+2007-09-01,Tonga,4,0,American Samoa,False,False,,South Pacific Games,2007
+2007-09-01,Vanuatu,0,2,Solomon Islands,False,False,,South Pacific Games,2007
+2007-09-03,Cook Islands,0,1,Tahiti,False,False,,South Pacific Games,2007
+2007-09-03,New Caledonia,1,1,Fiji,False,False,,South Pacific Games,2007
+2007-09-03,Samoa,0,3,Solomon Islands,False,False,,South Pacific Games,2007
+2007-09-03,Tonga,1,4,Vanuatu,False,False,,South Pacific Games,2007
+2007-09-05,Fiji,3,0,Vanuatu,False,False,,South Pacific Games,2007
+2007-09-05,Solomon Islands,2,3,New Caledonia,False,False,,South Pacific Games,2007
+2007-09-07,New Caledonia,1,0,Fiji,False,False,,South Pacific Games,2007
+2007-09-07,Solomon Islands,0,2,Vanuatu,False,False,,South Pacific Games,2007

@@ -1,0 +1,5 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1994-02-18,Colombia,0,0,Sweden,False,False,,Joe Robbie Cup,1994
+1994-02-18,United States,1,1,Bolivia,False,False,,Joe Robbie Cup,1994
+1994-02-20,Bolivia,0,2,Colombia,False,False,,Joe Robbie Cup,1994
+1994-02-20,United States,1,3,Sweden,False,False,,Joe Robbie Cup,1994

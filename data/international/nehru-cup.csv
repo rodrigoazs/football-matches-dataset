@@ -1,0 +1,90 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1982-02-16,India,1,1,China PR,False,False,,Nehru Cup,1982
+1982-02-18,India,2,2,South Korea,False,False,,Nehru Cup,1982
+1982-02-20,South Korea,2,2,Uruguay,False,False,,Nehru Cup,1982
+1982-02-22,China PR,0,0,Uruguay,False,False,,Nehru Cup,1982
+1982-02-25,India,1,3,Uruguay,False,False,,Nehru Cup,1982
+1982-03-01,China PR,1,1,South Korea,False,False,,Nehru Cup,1982
+1982-03-04,China PR,0,2,Uruguay,False,False,,Nehru Cup,1982
+1984-01-11,India,1,2,Poland,False,False,,Nehru Cup,1984
+1984-01-14,India,0,1,Argentina,False,False,,Nehru Cup,1984
+1984-01-15,China PR,0,1,Poland,False,False,,Nehru Cup,1984
+1984-01-17,Argentina,1,1,Poland,False,False,,Nehru Cup,1984
+1984-01-20,Argentina,0,1,China PR,False,False,,Nehru Cup,1984
+1984-01-25,India,0,3,China PR,False,False,,Nehru Cup,1984
+1984-01-27,China PR,0,1,Poland,False,False,,Nehru Cup,1984
+1985-01-20,Iran,1,3,Yugoslavia,False,False,,Nehru Cup,1985
+1985-01-21,China PR,2,3,Russia,False,False,,Nehru Cup,1985
+1985-01-25,Russia,1,2,Yugoslavia,False,False,,Nehru Cup,1985
+1985-01-28,Iran,0,2,Russia,False,False,,Nehru Cup,1985
+1985-01-29,China PR,1,1,Yugoslavia,False,False,,Nehru Cup,1985
+1985-01-31,India,0,1,Morocco,False,False,,Nehru Cup,1985
+1985-02-02,Morocco,0,1,Russia,False,False,,Nehru Cup,1985
+1985-02-04,Yugoslavia,1,2,Russia,False,False,,Nehru Cup,1985
+1986-01-25,India,0,0,China PR,False,False,,Nehru Cup,1986
+1986-01-28,China PR,3,1,Peru,False,False,,Nehru Cup,1986
+1986-01-30,India,0,1,Peru,False,False,,Nehru Cup,1986
+1987-01-14,India,1,1,China PR,False,False,,Nehru Cup,1987
+1987-01-27,Nigeria,1,0,Syria,False,False,,Nehru Cup,1987
+1989-01-27,India,1,2,North Korea,False,False,,Nehru Cup,1989
+1991-01-11,Russia,4,0,Zambia,False,False,,Nehru Cup,1991
+1991-01-14,Hungary,1,1,Russia,False,False,,Nehru Cup,1991
+1991-01-17,India,1,2,Hungary,False,False,,Nehru Cup,1991
+1991-01-20,India,1,0,Zambia,False,False,,Nehru Cup,1991
+1991-01-23,Hungary,4,1,Zambia,False,False,,Nehru Cup,1991
+1991-01-24,India,1,3,Russia,False,False,,Nehru Cup,1991
+1993-01-19,North Korea,2,1,Bolivia,False,False,,Nehru Cup,1993
+1993-01-20,India,0,0,Finland,False,False,,Nehru Cup,1993
+1993-01-22,Cameroon,0,0,Finland,False,False,,Nehru Cup,1993
+1993-01-24,India,1,1,Cameroon,False,False,,Nehru Cup,1993
+1993-01-25,Bolivia,1,2,Russia,False,False,,Nehru Cup,1993
+1993-01-26,India,0,2,Finland,False,False,,Nehru Cup,1993
+1993-01-28,Cameroon,2,0,Finland,False,False,,Nehru Cup,1993
+1993-01-30,India,2,2,Cameroon,False,False,,Nehru Cup,1993
+1993-01-31,North Korea,3,2,Finland,False,False,,Nehru Cup,1993
+1995-03-08,Iraq,3,1,Uzbekistan,False,False,,Nehru Cup,1995
+1995-03-10,India,0,5,Thailand,False,False,,Nehru Cup,1995
+1995-03-12,India,1,1,Iraq,False,False,,Nehru Cup,1995
+1995-03-14,India,1,0,Uzbekistan,False,False,,Nehru Cup,1995
+1995-03-14,Iraq,3,1,Thailand,False,False,,Nehru Cup,1995
+1995-03-16,Thailand,0,1,Uzbekistan,False,False,,Nehru Cup,1995
+1997-03-30,China PR,0,2,Iraq,False,False,,Nehru Cup,1997
+1997-04-01,India,0,0,China PR,False,False,,Nehru Cup,1997
+1997-04-03,China PR,0,0,Ghana,False,False,,Nehru Cup,1997
+1997-04-06,India,0,1,Iraq,False,False,,Nehru Cup,1997
+1997-04-08,India,2,2,Ghana,False,False,,Nehru Cup,1997
+1997-04-10,India,1,1,Iraq,False,False,,Nehru Cup,1997
+1997-04-11,India,1,2,China PR,False,False,,Nehru Cup,1997
+2007-08-17,India,6,0,Cambodia,False,False,,Nehru Cup,2007
+2007-08-18,Bangladesh,0,2,Syria,False,False,,Nehru Cup,2007
+2007-08-19,Kyrgyzstan,4,3,Cambodia,False,False,,Nehru Cup,2007
+2007-08-20,India,1,0,Bangladesh,False,False,,Nehru Cup,2007
+2007-08-21,Syria,4,1,Kyrgyzstan,False,False,,Nehru Cup,2007
+2007-08-22,Bangladesh,1,1,Cambodia,False,False,,Nehru Cup,2007
+2007-08-23,India,2,3,Syria,False,False,,Nehru Cup,2007
+2007-08-24,Bangladesh,0,3,Kyrgyzstan,False,False,,Nehru Cup,2007
+2007-08-25,Cambodia,1,5,Syria,False,False,,Nehru Cup,2007
+2007-08-26,India,3,0,Kyrgyzstan,False,False,,Nehru Cup,2007
+2007-08-29,India,1,0,Syria,False,False,,Nehru Cup,2007
+2009-08-19,India,0,1,Lebanon,False,False,,Nehru Cup,2009
+2009-08-20,Syria,2,0,Kyrgyzstan,False,False,,Nehru Cup,2009
+2009-08-22,Sri Lanka,4,3,Lebanon,False,False,,Nehru Cup,2009
+2009-08-23,India,2,1,Kyrgyzstan,False,False,,Nehru Cup,2009
+2009-08-24,Syria,4,0,Sri Lanka,False,False,,Nehru Cup,2009
+2009-08-25,Kyrgyzstan,1,1,Lebanon,False,False,,Nehru Cup,2009
+2009-08-26,India,3,1,Sri Lanka,False,False,,Nehru Cup,2009
+2009-08-27,Syria,1,0,Lebanon,False,False,,Nehru Cup,2009
+2009-08-28,Sri Lanka,1,4,Kyrgyzstan,False,False,,Nehru Cup,2009
+2009-08-29,India,0,1,Syria,False,False,,Nehru Cup,2009
+2009-08-31,India,1,1,Syria,False,False,,Nehru Cup,2009
+2012-08-22,India,2,1,Syria,False,False,,Nehru Cup,2012
+2012-08-23,Maldives,2,1,Nepal,False,False,,Nehru Cup,2012
+2012-08-24,Syria,2,2,Cameroon,False,False,,Nehru Cup,2012
+2012-08-25,India,3,0,Maldives,False,False,,Nehru Cup,2012
+2012-08-26,Nepal,0,5,Cameroon,False,False,,Nehru Cup,2012
+2012-08-27,Maldives,2,1,Syria,False,False,,Nehru Cup,2012
+2012-08-28,India,0,0,Nepal,False,False,,Nehru Cup,2012
+2012-08-29,Cameroon,3,1,Maldives,False,False,,Nehru Cup,2012
+2012-08-30,Syria,2,0,Nepal,False,False,,Nehru Cup,2012
+2012-08-31,India,0,1,Cameroon,False,False,,Nehru Cup,2012
+2012-09-02,India,2,2,Cameroon,False,False,,Nehru Cup,2012

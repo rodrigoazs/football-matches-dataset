@@ -1,0 +1,163 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1995-03-25,Nepal,0,2,Bangladesh,False,False,,SAFF Cup,1995
+1995-03-25,Pakistan,1,0,Bangladesh,False,False,,SAFF Cup,1995
+1995-03-29,Nepal,2,0,Pakistan,False,False,,SAFF Cup,1995
+1995-03-29,Sri Lanka,2,2,India,False,False,,SAFF Cup,1995
+1995-03-31,India,0,0,Bangladesh,False,False,,SAFF Cup,1995
+1995-03-31,Sri Lanka,2,1,Nepal,False,False,,SAFF Cup,1995
+1995-04-02,Sri Lanka,1,0,India,False,False,,SAFF Cup,1995
+1997-09-04,Nepal,0,2,Pakistan,False,False,,SAFF Cup,1997
+1997-09-05,Maldives,1,1,Bangladesh,False,False,,SAFF Cup,1997
+1997-09-06,Sri Lanka,2,0,Pakistan,False,False,,SAFF Cup,1997
+1997-09-07,India,3,0,Bangladesh,False,False,,SAFF Cup,1997
+1997-09-08,Nepal,1,3,Sri Lanka,False,False,,SAFF Cup,1997
+1997-09-09,Maldives,2,2,India,False,False,,SAFF Cup,1997
+1997-09-10,Sri Lanka,1,2,Maldives,False,False,,SAFF Cup,1997
+1997-09-11,India,2,0,Pakistan,False,False,,SAFF Cup,1997
+1997-09-13,India,5,1,Maldives,False,False,,SAFF Cup,1997
+1997-09-13,Pakistan,1,0,Sri Lanka,False,False,,SAFF Cup,1997
+1999-04-22,India,0,0,Bangladesh,False,False,,SAFF Cup,1999
+1999-04-23,Sri Lanka,0,0,Maldives,False,False,,SAFF Cup,1999
+1999-04-24,Pakistan,0,4,Bangladesh,False,False,,SAFF Cup,1999
+1999-04-25,Sri Lanka,2,3,Nepal,False,False,,SAFF Cup,1999
+1999-04-26,India,2,0,Pakistan,False,False,,SAFF Cup,1999
+1999-04-27,Nepal,2,3,Maldives,False,False,,SAFF Cup,1999
+1999-04-29,Bangladesh,2,1,Nepal,False,False,,SAFF Cup,1999
+1999-04-29,India,2,1,Maldives,False,False,,SAFF Cup,1999
+1999-05-01,India,2,0,Bangladesh,False,False,,SAFF Cup,1999
+1999-05-01,Maldives,2,0,Nepal,False,False,,SAFF Cup,1999
+2003-01-10,India,0,1,Pakistan,False,False,,SAFF Cup,2003
+2003-01-10,Sri Lanka,1,0,Afghanistan,False,False,,SAFF Cup,2003
+2003-01-11,Bangladesh,1,0,Nepal,False,False,,SAFF Cup,2003
+2003-01-11,Maldives,6,0,Bhutan,False,False,,SAFF Cup,2003
+2003-01-12,Afghanistan,0,4,India,False,False,,SAFF Cup,2003
+2003-01-12,Pakistan,2,1,Sri Lanka,False,False,,SAFF Cup,2003
+2003-01-13,Bangladesh,1,0,Maldives,False,False,,SAFF Cup,2003
+2003-01-13,Nepal,2,0,Bhutan,False,False,,SAFF Cup,2003
+2003-01-14,Afghanistan,0,1,Pakistan,False,False,,SAFF Cup,2003
+2003-01-14,India,1,1,Sri Lanka,False,False,,SAFF Cup,2003
+2003-01-15,Bangladesh,3,0,Bhutan,False,False,,SAFF Cup,2003
+2003-01-15,Nepal,2,3,Maldives,False,False,,SAFF Cup,2003
+2003-01-18,Bangladesh,2,1,India,False,False,,SAFF Cup,2003
+2003-01-18,Pakistan,0,1,Maldives,False,False,,SAFF Cup,2003
+2003-01-20,Bangladesh,1,1,Maldives,False,False,,SAFF Cup,2003
+2003-01-20,Pakistan,1,2,India,False,False,,SAFF Cup,2003
+2005-12-07,Maldives,9,1,Afghanistan,False,False,,SAFF Cup,2005
+2005-12-07,Pakistan,1,0,Sri Lanka,False,False,,SAFF Cup,2005
+2005-12-08,Bangladesh,3,0,Bhutan,False,False,,SAFF Cup,2005
+2005-12-08,India,2,1,Nepal,False,False,,SAFF Cup,2005
+2005-12-09,Maldives,2,0,Sri Lanka,False,False,,SAFF Cup,2005
+2005-12-09,Pakistan,1,0,Afghanistan,False,False,,SAFF Cup,2005
+2005-12-10,Bangladesh,2,0,Nepal,False,False,,SAFF Cup,2005
+2005-12-10,India,3,0,Bhutan,False,False,,SAFF Cup,2005
+2005-12-11,Pakistan,0,0,Maldives,False,False,,SAFF Cup,2005
+2005-12-11,Sri Lanka,1,2,Afghanistan,False,False,,SAFF Cup,2005
+2005-12-12,Bangladesh,1,1,India,False,False,,SAFF Cup,2005
+2005-12-12,Nepal,3,1,Bhutan,False,False,,SAFF Cup,2005
+2005-12-14,Maldives,0,1,India,False,False,,SAFF Cup,2005
+2005-12-14,Pakistan,0,1,Bangladesh,False,False,,SAFF Cup,2005
+2005-12-17,Bangladesh,0,2,India,False,False,,SAFF Cup,2005
+2008-06-03,India,4,0,Nepal,False,False,,SAFF Cup,2008
+2008-06-03,Maldives,3,0,Pakistan,False,False,,SAFF Cup,2008
+2008-06-04,Bangladesh,1,1,Bhutan,False,False,,SAFF Cup,2008
+2008-06-04,Sri Lanka,2,2,Afghanistan,False,False,,SAFF Cup,2008
+2008-06-05,India,2,1,Pakistan,False,False,,SAFF Cup,2008
+2008-06-05,Maldives,4,1,Nepal,False,False,,SAFF Cup,2008
+2008-06-06,Bangladesh,2,2,Afghanistan,False,False,,SAFF Cup,2008
+2008-06-06,Sri Lanka,2,0,Bhutan,False,False,,SAFF Cup,2008
+2008-06-07,Maldives,0,1,India,False,False,,SAFF Cup,2008
+2008-06-07,Pakistan,1,4,Nepal,False,False,,SAFF Cup,2008
+2008-06-08,Afghanistan,1,3,Bhutan,False,False,,SAFF Cup,2008
+2008-06-08,Sri Lanka,1,0,Bangladesh,False,False,,SAFF Cup,2008
+2008-06-11,India,2,1,Bhutan,False,False,,SAFF Cup,2008
+2008-06-11,Sri Lanka,0,1,Maldives,False,False,,SAFF Cup,2008
+2008-06-14,India,0,1,Maldives,False,False,,SAFF Cup,2008
+2009-12-04,Bangladesh,4,1,Bhutan,False,False,,SAFF Cup,2009
+2009-12-04,Sri Lanka,1,0,Pakistan,False,False,,SAFF Cup,2009
+2009-12-05,Maldives,1,1,Nepal,False,False,,SAFF Cup,2009
+2009-12-06,Bangladesh,0,0,Pakistan,False,False,,SAFF Cup,2009
+2009-12-06,Sri Lanka,6,0,Bhutan,False,False,,SAFF Cup,2009
+2009-12-07,Maldives,3,1,Afghanistan,False,False,,SAFF Cup,2009
+2009-12-08,Bangladesh,2,1,Sri Lanka,False,False,,SAFF Cup,2009
+2009-12-08,Pakistan,7,0,Bhutan,False,False,,SAFF Cup,2009
+2009-12-09,Afghanistan,0,3,Nepal,False,False,,SAFF Cup,2009
+2009-12-11,Maldives,5,1,Sri Lanka,False,False,,SAFF Cup,2009
+2011-12-02,Bangladesh,0,0,Pakistan,False,False,,SAFF Cup,2011
+2011-12-02,Maldives,1,1,Nepal,False,False,,SAFF Cup,2011
+2011-12-03,India,1,1,Afghanistan,False,False,,SAFF Cup,2011
+2011-12-03,Sri Lanka,3,0,Bhutan,False,False,,SAFF Cup,2011
+2011-12-04,Bangladesh,0,1,Nepal,False,False,,SAFF Cup,2011
+2011-12-04,Maldives,0,0,Pakistan,False,False,,SAFF Cup,2011
+2011-12-05,India,5,0,Bhutan,False,False,,SAFF Cup,2011
+2011-12-05,Sri Lanka,1,3,Afghanistan,False,False,,SAFF Cup,2011
+2011-12-06,Maldives,3,1,Bangladesh,False,False,,SAFF Cup,2011
+2011-12-06,Pakistan,1,1,Nepal,False,False,,SAFF Cup,2011
+2011-12-07,Bhutan,1,8,Afghanistan,False,False,,SAFF Cup,2011
+2011-12-07,India,3,0,Sri Lanka,False,False,,SAFF Cup,2011
+2011-12-09,Afghanistan,1,0,Nepal,False,False,,SAFF Cup,2011
+2011-12-09,India,3,1,Maldives,False,False,,SAFF Cup,2011
+2011-12-11,India,4,0,Afghanistan,False,False,,SAFF Cup,2011
+2013-08-31,Nepal,2,0,Bangladesh,False,False,,SAFF Cup,2013
+2013-09-01,India,1,0,Pakistan,False,False,,SAFF Cup,2013
+2013-09-02,Afghanistan,3,0,Bhutan,False,False,,SAFF Cup,2013
+2013-09-02,Maldives,10,0,Sri Lanka,False,False,,SAFF Cup,2013
+2013-09-03,Bangladesh,1,1,India,False,False,,SAFF Cup,2013
+2013-09-03,Nepal,1,1,Pakistan,False,False,,SAFF Cup,2013
+2013-09-04,Bhutan,2,8,Maldives,False,False,,SAFF Cup,2013
+2013-09-04,Sri Lanka,1,3,Afghanistan,False,False,,SAFF Cup,2013
+2013-09-05,Bangladesh,1,2,Pakistan,False,False,,SAFF Cup,2013
+2013-09-05,Nepal,2,1,India,False,False,,SAFF Cup,2013
+2013-09-06,Afghanistan,0,0,Maldives,False,False,,SAFF Cup,2013
+2013-09-06,Sri Lanka,5,2,Bhutan,False,False,,SAFF Cup,2013
+2013-09-08,Nepal,0,1,Afghanistan,False,False,,SAFF Cup,2013
+2013-09-09,Maldives,0,1,India,False,False,,SAFF Cup,2013
+2015-12-23,Nepal,0,1,Sri Lanka,False,False,,SAFF Cup,2015
+2015-12-24,Afghanistan,4,0,Bangladesh,False,False,,SAFF Cup,2015
+2015-12-24,Maldives,3,1,Bhutan,False,False,,SAFF Cup,2015
+2015-12-25,India,2,0,Sri Lanka,False,False,,SAFF Cup,2015
+2015-12-26,Bangladesh,1,3,Maldives,False,False,,SAFF Cup,2015
+2015-12-26,Bhutan,0,3,Afghanistan,False,False,,SAFF Cup,2015
+2015-12-27,India,4,1,Nepal,False,False,,SAFF Cup,2015
+2015-12-28,Afghanistan,4,1,Maldives,False,False,,SAFF Cup,2015
+2015-12-28,Bhutan,0,3,Bangladesh,False,False,,SAFF Cup,2015
+2015-12-31,Afghanistan,5,0,Sri Lanka,False,False,,SAFF Cup,2015
+2015-12-31,India,3,2,Maldives,False,False,,SAFF Cup,2015
+2016-01-03,India,2,1,Afghanistan,False,False,,SAFF Cup,2016
+2018-09-04,Nepal,1,2,Pakistan,False,False,,SAFF Cup,2018
+2018-09-04,Bangladesh,2,0,Bhutan,False,False,,SAFF Cup,2018
+2018-09-05,India,2,0,Sri Lanka,False,False,,SAFF Cup,2018
+2018-09-06,Nepal,4,0,Bhutan,False,False,,SAFF Cup,2018
+2018-09-06,Bangladesh,1,0,Pakistan,False,False,,SAFF Cup,2018
+2018-09-07,Maldives,0,0,Sri Lanka,False,False,,SAFF Cup,2018
+2018-09-08,Pakistan,3,0,Bhutan,False,False,,SAFF Cup,2018
+2018-09-08,Bangladesh,0,2,Nepal,False,False,,SAFF Cup,2018
+2018-09-09,India,2,0,Maldives,False,False,,SAFF Cup,2018
+2018-09-12,India,3,1,Pakistan,False,False,,SAFF Cup,2018
+2018-09-12,Nepal,0,3,Maldives,False,False,,SAFF Cup,2018
+2018-09-15,Maldives,2,1,India,False,False,,SAFF Cup,2018
+2021-10-01,Sri Lanka,0,1,Bangladesh,False,False,,SAFF Cup,2021
+2021-10-01,Maldives,0,1,Nepal,False,False,,SAFF Cup,2021
+2021-10-04,Bangladesh,1,1,India,False,False,,SAFF Cup,2021
+2021-10-04,Sri Lanka,2,3,Nepal,False,False,,SAFF Cup,2021
+2021-10-07,India,0,0,Sri Lanka,False,False,,SAFF Cup,2021
+2021-10-07,Maldives,2,0,Bangladesh,False,False,,SAFF Cup,2021
+2021-10-10,Maldives,1,0,Sri Lanka,False,False,,SAFF Cup,2021
+2021-10-10,Nepal,0,1,India,False,False,,SAFF Cup,2021
+2021-10-13,Bangladesh,1,1,Nepal,False,False,,SAFF Cup,2021
+2021-10-13,Maldives,1,3,India,False,False,,SAFF Cup,2021
+2021-10-16,India,3,0,Nepal,False,False,,SAFF Cup,2021
+2023-06-21,Kuwait,3,1,Nepal,False,False,,SAFF Cup,2023
+2023-06-21,India,4,0,Pakistan,False,False,,SAFF Cup,2023
+2023-06-22,Lebanon,2,0,Bangladesh,False,False,,SAFF Cup,2023
+2023-06-22,Maldives,2,0,Bhutan,False,False,,SAFF Cup,2023
+2023-06-24,Pakistan,0,4,Kuwait,False,False,,SAFF Cup,2023
+2023-06-24,India,2,0,Nepal,False,False,,SAFF Cup,2023
+2023-06-25,Bangladesh,3,1,Maldives,False,False,,SAFF Cup,2023
+2023-06-25,Bhutan,1,4,Lebanon,False,False,,SAFF Cup,2023
+2023-06-27,Nepal,1,0,Pakistan,False,False,,SAFF Cup,2023
+2023-06-27,India,1,1,Kuwait,False,False,,SAFF Cup,2023
+2023-06-28,Lebanon,1,0,Maldives,False,False,,SAFF Cup,2023
+2023-06-28,Bhutan,1,3,Bangladesh,False,False,,SAFF Cup,2023
+2023-07-01,India,0,0,Lebanon,False,False,,SAFF Cup,2023
+2023-07-01,Kuwait,1,0,Bangladesh,False,False,,SAFF Cup,2023
+2023-07-04,India,1,1,Kuwait,False,False,,SAFF Cup,2023

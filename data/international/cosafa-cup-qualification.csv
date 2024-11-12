@@ -1,0 +1,28 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1997-03-01,Botswana,1,4,Malawi,False,False,,COSAFA Cup qualification,1997
+1997-03-02,Lesotho,0,2,Zambia,False,False,,COSAFA Cup qualification,1997
+1997-03-03,Eswatini,0,4,Mozambique,False,False,,COSAFA Cup qualification,1997
+1997-03-16,Namibia,2,1,Zimbabwe,False,False,,COSAFA Cup qualification,1997
+1998-01-10,Malawi,0,1,Zambia,False,False,,COSAFA Cup qualification,1998
+1998-01-18,Lesotho,0,2,Zimbabwe,False,False,,COSAFA Cup qualification,1998
+1998-01-24,Namibia,3,2,South Africa,False,False,,COSAFA Cup qualification,1998
+1998-01-25,Botswana,1,2,Mozambique,False,False,,COSAFA Cup qualification,1998
+1998-03-08,Eswatini,0,1,Angola,False,False,,COSAFA Cup qualification,1998
+1999-02-07,Lesotho,1,0,Namibia,False,False,,COSAFA Cup qualification,1999
+1999-02-20,Botswana,1,2,South Africa,False,False,,COSAFA Cup qualification,1999
+1999-04-24,Malawi,1,2,Angola,False,False,,COSAFA Cup qualification,1999
+1999-05-09,Eswatini,3,1,Mozambique,False,False,,COSAFA Cup qualification,1999
+1999-05-22,Malawi,1,1,Namibia,False,False,,COSAFA Cup qualification,1999
+1999-05-28,Botswana,0,2,Mozambique,False,False,,COSAFA Cup qualification,1999
+2008-07-19,Madagascar,1,1,Eswatini,False,False,,COSAFA Cup qualification,2008
+2008-07-19,Mauritius,0,7,Seychelles,False,False,,COSAFA Cup qualification,2008
+2008-07-20,Comoros,0,3,Namibia,False,False,,COSAFA Cup qualification,2008
+2008-07-20,Lesotho,0,1,Malawi,False,False,,COSAFA Cup qualification,2008
+2008-07-21,Madagascar,1,1,Seychelles,False,False,,COSAFA Cup qualification,2008
+2008-07-21,Mauritius,1,1,Eswatini,False,False,,COSAFA Cup qualification,2008
+2008-07-22,Comoros,0,1,Malawi,False,False,,COSAFA Cup qualification,2008
+2008-07-22,Lesotho,1,1,Namibia,False,False,,COSAFA Cup qualification,2008
+2008-07-23,Madagascar,2,1,Mauritius,False,False,,COSAFA Cup qualification,2008
+2008-07-23,Seychelles,0,1,Eswatini,False,False,,COSAFA Cup qualification,2008
+2008-07-24,Comoros,0,1,Lesotho,False,False,,COSAFA Cup qualification,2008
+2008-07-24,Malawi,0,1,Namibia,False,False,,COSAFA Cup qualification,2008

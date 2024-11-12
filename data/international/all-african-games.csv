@@ -1,0 +1,71 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1965-07-19,Congo,2,1,Uganda,False,False,,All-African Games,1965
+1965-07-19,Mali,1,2,Togo,False,False,,All-African Games,1965
+1965-07-19,Ivory Coast,1,0,Algeria,False,False,,All-African Games,1965
+1965-07-19,Madagascar,0,7,DR Congo,False,False,,All-African Games,1965
+1965-07-20,Congo,7,2,Togo,False,False,,All-African Games,1965
+1965-07-20,Mali,5,1,Uganda,False,False,,All-African Games,1965
+1965-07-20,Togo,1,1,Uganda,False,False,,All-African Games,1965
+1965-07-20,Ivory Coast,5,0,Madagascar,False,False,,All-African Games,1965
+1965-07-20,Algeria,4,1,DR Congo,False,False,,All-African Games,1965
+1965-07-21,Congo,1,2,Mali,False,False,,All-African Games,1965
+1965-07-21,Ivory Coast,1,1,DR Congo,False,False,,All-African Games,1965
+1965-07-21,Algeria,1,0,Madagascar,False,False,,All-African Games,1965
+1965-07-23,Mali,2,1,Algeria,False,False,,All-African Games,1965
+1965-07-23,Congo,1,0,Ivory Coast,False,False,,All-African Games,1965
+1965-07-25,Ivory Coast,2,0,Algeria,False,False,,All-African Games,1965
+1965-07-25,Congo,0,0,Mali,False,False,,All-African Games,1965
+1965-07-25,DR Congo,5,1,Togo,False,False,,All-African Games,1965
+1965-07-25,Uganda,5,0,Madagascar,False,False,,All-African Games,1965
+1965-07-26,Togo,1,0,Madagascar,False,False,,All-African Games,1965
+1965-07-26,DR Congo,6,2,Uganda,False,False,,All-African Games,1965
+1973-01-08,Nigeria,4,2,Ghana,False,False,,All-African Games,1973
+1973-01-08,Algeria,4,2,Tanzania,False,False,,All-African Games,1973
+1973-01-08,Congo,3,0,Burkina Faso,False,False,,All-African Games,1973
+1973-01-08,Guinea,4,1,Egypt,False,False,,All-African Games,1973
+1973-01-10,Nigeria,2,2,Algeria,False,False,,All-African Games,1973
+1973-01-10,Ghana,1,0,Tanzania,False,False,,All-African Games,1973
+1973-01-10,Egypt,3,1,Congo,False,False,,All-African Games,1973
+1973-01-10,Guinea,3,2,Burkina Faso,False,False,,All-African Games,1973
+1973-01-12,Nigeria,2,1,Tanzania,False,False,,All-African Games,1973
+1973-01-12,Ghana,2,0,Algeria,False,False,,All-African Games,1973
+1973-01-12,Guinea,5,1,Congo,False,False,,All-African Games,1973
+1973-01-12,Egypt,4,2,Burkina Faso,False,False,,All-African Games,1973
+1973-01-14,Nigeria,4,2,Egypt,False,False,,All-African Games,1973
+1973-01-14,Guinea,2,1,Ghana,False,False,,All-African Games,1973
+1973-01-16,Egypt,2,1,Ghana,False,False,,All-African Games,1973
+1973-01-16,Nigeria,2,0,Guinea,False,False,,All-African Games,1973
+1978-07-13,Algeria,1,1,Egypt,False,False,,All-African Games,1978
+1978-07-14,Libya,2,1,Malawi,False,False,,All-African Games,1978
+1978-07-14,Nigeria,3,1,Mali,False,False,,All-African Games,1978
+1978-07-14,Ghana,2,1,Cameroon,False,False,,All-African Games,1978
+1978-07-17,Nigeria,0,0,Cameroon,False,False,,All-African Games,1978
+1978-07-17,Ghana,1,1,Mali,False,False,,All-African Games,1978
+1978-07-18,Algeria,2,1,Libya,False,False,,All-African Games,1978
+1978-07-18,Egypt,4,1,Malawi,False,False,,All-African Games,1978
+1978-07-21,Nigeria,0,0,Ghana,False,False,,All-African Games,1978
+1978-07-21,Cameroon,1,1,Mali,False,False,,All-African Games,1978
+1978-07-22,Algeria,3,0,Malawi,False,False,,All-African Games,1978
+1978-07-22,Egypt,1,0,Libya,False,False,,All-African Games,1978
+1978-07-25,Algeria,2,0,Ghana,False,False,,All-African Games,1978
+1978-07-25,Nigeria,3,2,Malawi,False,False,,All-African Games,1978
+1978-07-28,Ghana,1,0,Malawi,False,False,,All-African Games,1978
+1978-07-28,Algeria,1,0,Nigeria,False,False,,All-African Games,1978
+1987-08-01,Kenya,1,0,Tunisia,False,False,,All-African Games,1987
+1987-08-01,Cameroon,3,0,Madagascar,False,False,,All-African Games,1987
+1987-08-02,Egypt,1,0,Senegal,False,False,,All-African Games,1987
+1987-08-02,Ivory Coast,1,0,Malawi,False,False,,All-African Games,1987
+1987-08-03,Kenya,3,3,Cameroon,False,False,,All-African Games,1987
+1987-08-03,Tunisia,0,3,Madagascar,False,False,,All-African Games,1987
+1987-08-04,Egypt,2,1,Ivory Coast,False,False,,All-African Games,1987
+1987-08-04,Malawi,2,0,Senegal,False,False,,All-African Games,1987
+1987-08-05,Kenya,2,1,Madagascar,False,False,,All-African Games,1987
+1987-08-05,Cameroon,3,1,Tunisia,False,False,,All-African Games,1987
+1987-08-06,Ivory Coast,1,0,Senegal,False,False,,All-African Games,1987
+1987-08-06,Malawi,2,1,Egypt,False,False,,All-African Games,1987
+1987-08-08,Senegal,1,0,Tunisia,False,False,,All-African Games,1987
+1987-08-08,Ivory Coast,1,1,Madagascar,False,False,,All-African Games,1987
+1987-08-09,Cameroon,1,1,Egypt,False,False,,All-African Games,1987
+1987-08-10,Kenya,1,1,Malawi,False,False,,All-African Games,1987
+1987-08-12,Cameroon,1,3,Malawi,False,False,,All-African Games,1987
+1987-08-12,Kenya,0,1,Egypt,False,False,,All-African Games,1987

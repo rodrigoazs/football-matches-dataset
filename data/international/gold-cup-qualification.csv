@@ -1,0 +1,75 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1997-10-04,Saint Kitts and Nevis,0,2,Cuba,False,False,,Gold Cup qualification,1997
+1999-10-06,Canada,0,0,Cuba,False,False,,Gold Cup qualification,1999
+1999-10-06,El Salvador,1,1,Haiti,False,False,,Gold Cup qualification,1999
+1999-10-08,Canada,2,1,El Salvador,False,False,,Gold Cup qualification,1999
+1999-10-08,Cuba,0,1,Haiti,False,False,,Gold Cup qualification,1999
+1999-10-10,Canada,2,1,Haiti,False,False,,Gold Cup qualification,1999
+1999-10-10,Cuba,3,1,El Salvador,False,False,,Gold Cup qualification,1999
+2001-07-29,Panama,0,0,Cuba,False,False,,Gold Cup qualification,2001
+2001-08-05,Cuba,1,0,Panama,False,False,,Gold Cup qualification,2001
+2002-07-06,Grenada,8,3,Saint Martin,False,False,,Gold Cup qualification,2002
+2002-07-07,Guadeloupe,4,0,Puerto Rico,False,False,,Gold Cup qualification,2002
+2002-07-14,British Virgin Islands,1,3,Saint Lucia,False,False,,Gold Cup qualification,2002
+2002-07-21,Puerto Rico,0,2,Guadeloupe,False,False,,Gold Cup qualification,2002
+2002-07-28,Aruba,0,2,Suriname,False,False,,Gold Cup qualification,2002
+2002-07-28,Guyana,2,1,Curaçao,False,False,,Gold Cup qualification,2002
+2002-07-28,Saint Lucia,8,1,British Virgin Islands,False,False,,Gold Cup qualification,2002
+2002-08-04,Saint Martin,1,7,Grenada,False,False,,Gold Cup qualification,2002
+2002-08-11,Curaçao,1,0,Guyana,False,False,,Gold Cup qualification,2002
+2002-08-11,Suriname,6,0,Aruba,False,False,,Gold Cup qualification,2002
+2002-08-16,Dominican Republic,6,1,United States Virgin Islands,False,False,,Gold Cup qualification,2002
+2002-08-18,Dominican Republic,5,1,United States Virgin Islands,False,False,,Gold Cup qualification,2002
+2002-11-09,Barbados,1,1,Jamaica,False,False,,Gold Cup qualification,2002
+2002-11-09,Grenada,4,5,Guadeloupe,False,False,,Gold Cup qualification,2002
+2002-11-11,Grenada,0,2,Barbados,False,False,,Gold Cup qualification,2002
+2002-11-11,Jamaica,2,0,Guadeloupe,False,False,,Gold Cup qualification,2002
+2002-11-13,Barbados,0,1,Guadeloupe,False,False,,Gold Cup qualification,2002
+2002-11-13,Grenada,1,4,Jamaica,False,False,,Gold Cup qualification,2002
+2002-11-13,Saint Kitts and Nevis,2,1,Saint Lucia,False,False,,Gold Cup qualification,2002
+2002-11-15,Trinidad and Tobago,2,0,Saint Kitts and Nevis,False,False,,Gold Cup qualification,2002
+2002-11-17,Trinidad and Tobago,0,1,Saint Lucia,False,False,,Gold Cup qualification,2002
+2002-11-18,Haiti,1,0,Antigua and Barbuda,False,False,,Gold Cup qualification,2002
+2002-11-20,Antigua and Barbuda,1,1,Curaçao,False,False,,Gold Cup qualification,2002
+2002-11-22,Haiti,3,0,Curaçao,False,False,,Gold Cup qualification,2002
+2002-11-27,Cayman Islands,0,5,Cuba,False,False,,Gold Cup qualification,2002
+2002-11-27,Martinique,4,0,Dominican Republic,False,False,,Gold Cup qualification,2002
+2002-11-29,Cayman Islands,1,0,Dominican Republic,False,False,,Gold Cup qualification,2002
+2002-11-29,Martinique,1,2,Cuba,False,False,,Gold Cup qualification,2002
+2002-12-01,Cayman Islands,0,3,Martinique,False,False,,Gold Cup qualification,2002
+2002-12-01,Dominican Republic,1,2,Cuba,False,False,,Gold Cup qualification,2002
+2003-03-26,Guadeloupe,2,3,Cuba,False,False,,Gold Cup qualification,2003
+2003-03-26,Haiti,2,1,Martinique,False,False,,Gold Cup qualification,2003
+2003-03-26,Jamaica,5,0,Saint Lucia,False,False,,Gold Cup qualification,2003
+2003-03-26,Trinidad and Tobago,2,0,Antigua and Barbuda,False,False,,Gold Cup qualification,2003
+2003-03-28,Cuba,2,0,Antigua and Barbuda,False,False,,Gold Cup qualification,2003
+2003-03-28,Jamaica,2,2,Martinique,False,False,,Gold Cup qualification,2003
+2003-03-28,Saint Lucia,2,1,Haiti,False,False,,Gold Cup qualification,2003
+2003-03-28,Trinidad and Tobago,1,0,Guadeloupe,False,False,,Gold Cup qualification,2003
+2003-03-30,Guadeloupe,2,0,Antigua and Barbuda,False,False,,Gold Cup qualification,2003
+2003-03-30,Jamaica,3,0,Haiti,False,False,,Gold Cup qualification,2003
+2003-03-30,Saint Lucia,4,5,Martinique,False,False,,Gold Cup qualification,2003
+2003-03-30,Trinidad and Tobago,1,3,Cuba,False,False,,Gold Cup qualification,2003
+2003-04-23,Martinique,3,2,Trinidad and Tobago,False,False,,Gold Cup qualification,2003
+2003-04-25,Trinidad and Tobago,0,2,Honduras,False,False,,Gold Cup qualification,2003
+2003-04-27,Martinique,2,4,Honduras,False,False,,Gold Cup qualification,2003
+2015-03-25,French Guiana,3,1,Honduras,False,False,,Gold Cup qualification,2015
+2015-03-29,Honduras,3,0,French Guiana,False,False,,Gold Cup qualification,2015
+2021-07-02,Haiti,6,1,Saint Vincent and the Grenadines,False,False,,Gold Cup qualification,2021
+2021-07-02,Trinidad and Tobago,6,1,Montserrat,False,False,,Gold Cup qualification,2021
+2021-07-02,Bermuda,8,1,Barbados,False,False,,Gold Cup qualification,2021
+2021-07-03,Guatemala,4,0,Guyana,False,False,,Gold Cup qualification,2021
+2021-07-03,Cuba,0,3,French Guiana,False,False,,Gold Cup qualification,2021
+2021-07-03,Guadeloupe,2,0,Bahamas,False,False,,Gold Cup qualification,2021
+2021-07-06,Haiti,4,1,Bermuda,False,False,,Gold Cup qualification,2021
+2021-07-06,Guatemala,1,1,Guadeloupe,False,False,,Gold Cup qualification,2021
+2021-07-06,Trinidad and Tobago,1,1,French Guiana,False,False,,Gold Cup qualification,2021
+2023-06-16,Antigua and Barbuda,0,5,Guadeloupe,False,False,,Gold Cup qualification,2023
+2023-06-16,Martinique,3,1,Saint Lucia,False,False,,Gold Cup qualification,2023
+2023-06-16,Curaçao,1,1,Saint Kitts and Nevis,False,False,,Gold Cup qualification,2023
+2023-06-17,Guyana,1,1,Grenada,False,False,,Gold Cup qualification,2023
+2023-06-17,Suriname,0,0,Puerto Rico,False,False,,Gold Cup qualification,2023
+2023-06-17,French Guiana,4,1,Sint Maarten,False,False,,Gold Cup qualification,2023
+2023-06-20,Guadeloupe,2,0,Guyana,False,False,,Gold Cup qualification,2023
+2023-06-20,Martinique,2,0,Puerto Rico,False,False,,Gold Cup qualification,2023
+2023-06-20,Saint Kitts and Nevis,1,1,French Guiana,False,False,,Gold Cup qualification,2023

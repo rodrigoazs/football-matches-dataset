@@ -1,0 +1,59 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1972-01-01,Algeria,2,0,Palestine,False,False,,Palestine Cup,1972
+1972-01-01,Iraq,0,0,Egypt,False,False,,Palestine Cup,1972
+1972-01-01,Kuwait,3,2,Libya,False,False,,Palestine Cup,1972
+1972-01-01,Syria,1,0,Yemen DPR,False,False,,Palestine Cup,1972
+1972-01-04,Algeria,3,0,Qatar,False,False,,Palestine Cup,1972
+1972-01-04,Palestine,1,3,Syria,False,False,,Palestine Cup,1972
+1972-01-05,Egypt,2,0,Kuwait,False,False,,Palestine Cup,1972
+1972-01-05,Iraq,3,0,Libya,False,False,,Palestine Cup,1972
+1972-01-06,Palestine,1,2,Yemen DPR,False,False,,Palestine Cup,1972
+1972-01-06,Syria,3,2,Qatar,False,False,,Palestine Cup,1972
+1972-01-07,Egypt,1,1,Libya,False,False,,Palestine Cup,1972
+1972-01-07,Iraq,3,1,Kuwait,False,False,,Palestine Cup,1972
+1972-01-08,Algeria,0,1,Syria,False,False,,Palestine Cup,1972
+1972-01-08,Qatar,1,2,Yemen DPR,False,False,,Palestine Cup,1972
+1972-01-10,Algeria,4,1,Yemen DPR,False,False,,Palestine Cup,1972
+1972-01-10,Palestine,7,2,Qatar,False,False,,Palestine Cup,1972
+1972-01-12,Iraq,3,1,Algeria,False,False,,Palestine Cup,1972
+1972-01-12,Egypt,4,2,Syria,False,False,,Palestine Cup,1972
+1972-01-13,Algeria,3,1,Syria,False,False,,Palestine Cup,1972
+1972-01-14,Iraq,1,3,Egypt,False,False,,Palestine Cup,1972
+1973-07-21,Syria,1,1,Palestine,False,False,,Palestine Cup,1973
+1973-08-11,Libya,2,2,United Arab Emirates,False,False,,Palestine Cup,1973
+1973-08-12,Egypt,6,1,Yemen DPR,False,False,,Palestine Cup,1973
+1973-08-13,Algeria,2,0,United Arab Emirates,False,False,,Palestine Cup,1973
+1973-08-13,Iraq,2,0,Yemen,False,False,,Palestine Cup,1973
+1973-08-13,Palestine,1,0,Yemen DPR,False,False,,Palestine Cup,1973
+1973-08-13,Syria,1,4,Tunisia,False,False,,Palestine Cup,1973
+1973-08-14,Libya,10,0,Yemen,False,False,,Palestine Cup,1973
+1973-08-15,Algeria,0,0,Iraq,False,False,,Palestine Cup,1973
+1973-08-15,Egypt,0,1,Tunisia,False,False,,Palestine Cup,1973
+1973-08-16,Yemen,1,1,United Arab Emirates,False,False,,Palestine Cup,1973
+1973-08-16,Syria,7,1,Yemen DPR,False,False,,Palestine Cup,1973
+1973-08-16,Egypt,2,0,Palestine,False,False,,Palestine Cup,1973
+1973-08-17,Algeria,15,1,Yemen,False,False,,Palestine Cup,1973
+1973-08-18,Libya,0,0,Iraq,False,False,,Palestine Cup,1973
+1973-08-19,Tunisia,2,0,Yemen DPR,False,False,,Palestine Cup,1973
+1973-08-20,Egypt,0,2,Syria,False,False,,Palestine Cup,1973
+1973-08-20,Iraq,3,1,United Arab Emirates,False,False,,Palestine Cup,1973
+1973-08-21,Libya,0,2,Algeria,False,False,,Palestine Cup,1973
+1973-08-21,Palestine,2,6,Tunisia,False,False,,Palestine Cup,1973
+1973-08-23,Algeria,0,0,Syria,False,False,,Palestine Cup,1973
+1973-08-23,Iraq,0,2,Tunisia,False,False,,Palestine Cup,1973
+1973-08-25,Algeria,0,0,Iraq,False,False,,Palestine Cup,1973
+1973-08-26,Syria,0,4,Tunisia,False,False,,Palestine Cup,1973
+1975-12-19,Egypt,5,0,Yemen DPR,False,False,,Palestine Cup,1975
+1975-12-19,Palestine,0,0,Sudan,False,False,,Palestine Cup,1975
+1975-12-19,Tunisia,3,0,United Arab Emirates,False,False,,Palestine Cup,1975
+1975-12-21,Iraq,5,0,United Arab Emirates,False,False,,Palestine Cup,1975
+1975-12-21,Libya,2,3,Syria,False,False,,Palestine Cup,1975
+1975-12-21,Palestine,0,1,Sudan,False,False,,Palestine Cup,1975
+1975-12-21,Saudi Arabia,0,1,Yemen DPR,False,False,,Palestine Cup,1975
+1975-12-23,Egypt,2,1,Saudi Arabia,False,False,,Palestine Cup,1975
+1975-12-23,Libya,1,0,Syria,False,False,,Palestine Cup,1975
+1975-12-23,Tunisia,1,1,Iraq,False,False,,Palestine Cup,1975
+1975-12-26,Egypt,3,1,Sudan,False,False,,Palestine Cup,1975
+1975-12-26,Iraq,4,0,Syria,False,False,,Palestine Cup,1975
+1975-12-28,Egypt,1,0,Iraq,False,False,,Palestine Cup,1975
+1975-12-28,Sudan,1,0,Syria,False,False,,Palestine Cup,1975

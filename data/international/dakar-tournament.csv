@@ -1,0 +1,5 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1991-01-21,Cameroon,0,0,Algeria,False,False,,Dakar Tournament,1991
+1991-01-21,Senegal,0,0,Ivory Coast,False,False,,Dakar Tournament,1991
+1991-01-22,Senegal,2,2,Algeria,False,False,,Dakar Tournament,1991
+1991-01-23,Ivory Coast,1,1,Cameroon,False,False,,Dakar Tournament,1991

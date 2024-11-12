@@ -1,0 +1,771 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1956-02-25,Philippines,0,2,South Korea,False,False,,AFC Asian Cup qualification,1956
+1956-03-17,Malaysia,9,2,Cambodia,False,False,,AFC Asian Cup qualification,1956
+1956-04-21,South Korea,3,0,Philippines,False,False,,AFC Asian Cup qualification,1956
+1956-04-24,Cambodia,3,2,Malaysia,False,False,,AFC Asian Cup qualification,1956
+1956-05-03,Vietnam Republic,4,0,Malaysia,False,False,,AFC Asian Cup qualification,1956
+1956-05-24,Malaysia,3,3,Vietnam Republic,False,False,,AFC Asian Cup qualification,1956
+1956-08-26,South Korea,2,0,Taiwan,False,False,,AFC Asian Cup qualification,1956
+1959-03-29,Philippines,0,7,Hong Kong,False,False,,AFC Asian Cup qualification,1959
+1959-03-31,Philippines,4,7,Taiwan,False,False,,AFC Asian Cup qualification,1959
+1959-05-09,Singapore,1,4,Vietnam Republic,False,False,,AFC Asian Cup qualification,1959
+1959-05-11,Singapore,2,5,Malaysia,False,False,,AFC Asian Cup qualification,1959
+1959-05-13,Malaysia,0,1,Vietnam Republic,False,False,,AFC Asian Cup qualification,1959
+1959-12-05,Iran,3,0,Israel,False,False,,AFC Asian Cup qualification,1959
+1959-12-06,India,1,0,Pakistan,False,False,,AFC Asian Cup qualification,1959
+1959-12-08,India,1,3,Israel,False,False,,AFC Asian Cup qualification,1959
+1959-12-10,Israel,2,0,Pakistan,False,False,,AFC Asian Cup qualification,1959
+1959-12-12,Israel,1,1,Iran,False,False,,AFC Asian Cup qualification,1959
+1959-12-17,Pakistan,2,2,Israel,False,False,,AFC Asian Cup qualification,1959
+1963-12-07,Hong Kong,3,3,Thailand,False,False,,AFC Asian Cup qualification,1963
+1963-12-07,Vietnam Republic,5,3,Malaysia,False,False,,AFC Asian Cup qualification,1963
+1963-12-11,Malaysia,3,1,Thailand,False,False,,AFC Asian Cup qualification,1963
+1963-12-11,Vietnam Republic,1,4,Hong Kong,False,False,,AFC Asian Cup qualification,1963
+1963-12-14,Hong Kong,4,3,Malaysia,False,False,,AFC Asian Cup qualification,1963
+1963-12-14,Vietnam Republic,3,0,Thailand,False,False,,AFC Asian Cup qualification,1963
+1967-03-22,Hong Kong,2,0,Vietnam Republic,False,False,,AFC Asian Cup qualification,1967
+1967-03-24,Thailand,0,1,Vietnam Republic,False,False,,AFC Asian Cup qualification,1967
+1967-03-29,Vietnam Republic,0,2,Malaysia,False,False,,AFC Asian Cup qualification,1967
+1967-04-02,Vietnam Republic,3,0,Singapore,False,False,,AFC Asian Cup qualification,1967
+1967-07-29,South Korea,1,1,Indonesia,False,False,,AFC Asian Cup qualification,1967
+1967-08-01,Japan,2,1,South Korea,False,False,,AFC Asian Cup qualification,1967
+1967-08-03,Japan,2,0,Philippines,False,False,,AFC Asian Cup qualification,1967
+1967-08-05,Japan,2,1,Indonesia,False,False,,AFC Asian Cup qualification,1967
+1967-08-05,South Korea,7,0,Philippines,False,False,,AFC Asian Cup qualification,1967
+1967-08-07,Indonesia,6,0,Philippines,False,False,,AFC Asian Cup qualification,1967
+1967-11-12,Myanmar,2,0,India,False,False,,AFC Asian Cup qualification,1967
+1967-11-15,India,1,1,Pakistan,False,False,,AFC Asian Cup qualification,1967
+1967-11-16,Myanmar,1,0,Cambodia,False,False,,AFC Asian Cup qualification,1967
+1967-11-19,Myanmar,2,0,Pakistan,False,False,,AFC Asian Cup qualification,1967
+1971-05-21,Thailand,1,1,Cambodia,False,False,,AFC Asian Cup qualification,1971
+1971-05-22,Indonesia,2,1,Hong Kong,False,False,,AFC Asian Cup qualification,1971
+1971-05-22,Malaysia,8,0,Brunei,False,False,,AFC Asian Cup qualification,1971
+1971-05-24,Cambodia,2,1,Hong Kong,False,False,,AFC Asian Cup qualification,1971
+1971-05-24,Thailand,10,0,Brunei,False,False,,AFC Asian Cup qualification,1971
+1971-05-26,Malaysia,2,1,Cambodia,False,False,,AFC Asian Cup qualification,1971
+1971-05-26,Thailand,0,1,Indonesia,False,False,,AFC Asian Cup qualification,1971
+1971-05-28,Indonesia,9,0,Brunei,False,False,,AFC Asian Cup qualification,1971
+1971-05-28,Malaysia,2,1,Hong Kong,False,False,,AFC Asian Cup qualification,1971
+1971-05-30,Cambodia,2,0,Indonesia,False,False,,AFC Asian Cup qualification,1971
+1971-05-30,Thailand,1,0,Malaysia,False,False,,AFC Asian Cup qualification,1971
+1971-06-01,Malaysia,3,0,Indonesia,False,False,,AFC Asian Cup qualification,1971
+1971-06-01,Thailand,4,2,Cambodia,False,False,,AFC Asian Cup qualification,1971
+1971-12-10,Kuwait,1,1,Iraq,False,False,,AFC Asian Cup qualification,1971
+1971-12-11,Bahrain,3,0,Lebanon,False,False,,AFC Asian Cup qualification,1971
+1971-12-11,Syria,0,0,Jordan,False,False,,AFC Asian Cup qualification,1971
+1971-12-13,Iraq,5,0,Sri Lanka,False,False,,AFC Asian Cup qualification,1971
+1971-12-13,Jordan,3,2,Bahrain,False,False,,AFC Asian Cup qualification,1971
+1971-12-14,Kuwait,1,0,Lebanon,False,False,,AFC Asian Cup qualification,1971
+1971-12-15,Iraq,1,0,Bahrain,False,False,,AFC Asian Cup qualification,1971
+1971-12-16,Jordan,2,1,Sri Lanka,False,False,,AFC Asian Cup qualification,1971
+1971-12-17,Kuwait,2,2,Syria,False,False,,AFC Asian Cup qualification,1971
+1971-12-18,Iraq,2,0,Jordan,False,False,,AFC Asian Cup qualification,1971
+1971-12-19,Lebanon,3,2,Syria,False,False,,AFC Asian Cup qualification,1971
+1971-12-20,Bahrain,3,0,Sri Lanka,False,False,,AFC Asian Cup qualification,1971
+1971-12-21,Kuwait,2,0,Jordan,False,False,,AFC Asian Cup qualification,1971
+1971-12-22,Iraq,4,1,Lebanon,False,False,,AFC Asian Cup qualification,1971
+1971-12-24,Kuwait,0,1,Iraq,False,False,,AFC Asian Cup qualification,1971
+1971-12-24,Lebanon,2,0,Jordan,False,False,,AFC Asian Cup qualification,1971
+1975-03-15,Thailand,3,1,Indonesia,False,False,,AFC Asian Cup qualification,1975
+1975-03-16,Malaysia,2,1,South Korea,False,False,,AFC Asian Cup qualification,1975
+1975-03-17,Indonesia,2,1,Vietnam Republic,False,False,,AFC Asian Cup qualification,1975
+1975-03-18,Thailand,0,1,Malaysia,False,False,,AFC Asian Cup qualification,1975
+1975-03-19,South Korea,1,0,Vietnam Republic,False,False,,AFC Asian Cup qualification,1975
+1975-03-20,Malaysia,0,0,Indonesia,False,False,,AFC Asian Cup qualification,1975
+1975-03-21,Thailand,4,0,Vietnam Republic,False,False,,AFC Asian Cup qualification,1975
+1975-03-22,South Korea,1,0,Indonesia,False,False,,AFC Asian Cup qualification,1975
+1975-03-23,Malaysia,3,0,Vietnam Republic,False,False,,AFC Asian Cup qualification,1975
+1975-03-24,Thailand,1,0,South Korea,False,False,,AFC Asian Cup qualification,1975
+1975-04-02,Iraq,1,0,Qatar,False,False,,AFC Asian Cup qualification,1975
+1975-04-02,Saudi Arabia,2,0,Afghanistan,False,False,,AFC Asian Cup qualification,1975
+1975-04-04,Iraq,4,0,Afghanistan,False,False,,AFC Asian Cup qualification,1975
+1975-04-04,Saudi Arabia,2,1,Qatar,False,False,,AFC Asian Cup qualification,1975
+1975-04-06,Iraq,1,1,Saudi Arabia,False,False,,AFC Asian Cup qualification,1975
+1975-04-06,Qatar,2,1,Afghanistan,False,False,,AFC Asian Cup qualification,1975
+1975-04-10,Iraq,3,0,Qatar,False,False,,AFC Asian Cup qualification,1975
+1975-04-10,Saudi Arabia,6,0,Afghanistan,False,False,,AFC Asian Cup qualification,1975
+1975-04-12,Iraq,2,1,Saudi Arabia,False,False,,AFC Asian Cup qualification,1975
+1975-04-12,Qatar,1,1,Afghanistan,False,False,,AFC Asian Cup qualification,1975
+1975-04-14,Iraq,3,1,Afghanistan,False,False,,AFC Asian Cup qualification,1975
+1975-04-14,Saudi Arabia,0,1,Qatar,False,False,,AFC Asian Cup qualification,1975
+1975-06-14,Hong Kong,0,0,Japan,False,False,,AFC Asian Cup qualification,1975
+1975-06-15,China PR,1,0,North Korea,False,False,,AFC Asian Cup qualification,1975
+1975-06-17,North Korea,1,0,Japan,False,False,,AFC Asian Cup qualification,1975
+1975-06-19,China PR,10,1,Brunei,False,False,,AFC Asian Cup qualification,1975
+1975-06-19,North Korea,1,0,Singapore,False,False,,AFC Asian Cup qualification,1975
+1975-06-21,Hong Kong,0,1,China PR,False,False,,AFC Asian Cup qualification,1975
+1975-06-23,China PR,2,1,Japan,False,False,,AFC Asian Cup qualification,1975
+1975-06-24,Hong Kong,3,3,North Korea,False,False,,AFC Asian Cup qualification,1975
+1975-06-26,North Korea,2,0,China PR,False,False,,AFC Asian Cup qualification,1975
+1978-12-25,South Korea,4,1,Macau,False,False,,AFC Asian Cup qualification,1978
+1978-12-25,Philippines,0,3,China PR,False,False,,AFC Asian Cup qualification,1978
+1978-12-27,China PR,2,1,Macau,False,False,,AFC Asian Cup qualification,1978
+1978-12-27,Philippines,0,5,South Korea,False,False,,AFC Asian Cup qualification,1978
+1978-12-29,South Korea,1,0,China PR,False,False,,AFC Asian Cup qualification,1978
+1979-03-05,Bangladesh,3,2,Afghanistan,False,False,,AFC Asian Cup qualification,1979
+1979-03-07,Bangladesh,1,3,Qatar,False,False,,AFC Asian Cup qualification,1979
+1979-05-02,North Korea,3,0,Hong Kong,False,False,,AFC Asian Cup qualification,1979
+1979-05-07,North Korea,3,1,Indonesia,False,False,,AFC Asian Cup qualification,1979
+1979-05-09,Malaysia,1,1,North Korea,False,False,,AFC Asian Cup qualification,1979
+1979-05-11,Malaysia,0,0,Hong Kong,False,False,,AFC Asian Cup qualification,1979
+1979-05-12,Thailand,0,1,North Korea,False,False,,AFC Asian Cup qualification,1979
+1979-05-14,North Korea,1,0,Malaysia,False,False,,AFC Asian Cup qualification,1979
+1984-08-06,Indonesia,2,1,Thailand,False,False,,AFC Asian Cup qualification,1984
+1984-08-07,Iran,5,0,Bangladesh,False,False,,AFC Asian Cup qualification,1984
+1984-08-07,Syria,2,0,Philippines,False,False,,AFC Asian Cup qualification,1984
+1984-08-09,Indonesia,2,1,Bangladesh,False,False,,AFC Asian Cup qualification,1984
+1984-08-09,Iran,3,1,Syria,False,False,,AFC Asian Cup qualification,1984
+1984-08-09,Thailand,3,0,Philippines,False,False,,AFC Asian Cup qualification,1984
+1984-08-11,Indonesia,1,0,Philippines,False,False,,AFC Asian Cup qualification,1984
+1984-08-11,Iran,5,0,Thailand,False,False,,AFC Asian Cup qualification,1984
+1984-08-11,Syria,2,1,Bangladesh,False,False,,AFC Asian Cup qualification,1984
+1984-08-13,Bangladesh,3,2,Philippines,False,False,,AFC Asian Cup qualification,1984
+1984-08-13,Indonesia,0,1,Iran,False,False,,AFC Asian Cup qualification,1984
+1984-08-13,Syria,2,3,Thailand,False,False,,AFC Asian Cup qualification,1984
+1984-08-15,Indonesia,1,2,Syria,False,False,,AFC Asian Cup qualification,1984
+1984-08-15,Iran,7,1,Philippines,False,False,,AFC Asian Cup qualification,1984
+1984-08-15,Thailand,2,1,Bangladesh,False,False,,AFC Asian Cup qualification,1984
+1984-09-10,Jordan,1,1,Hong Kong,False,False,,AFC Asian Cup qualification,1984
+1984-09-10,Qatar,8,0,Afghanistan,False,False,,AFC Asian Cup qualification,1984
+1984-09-12,China PR,6,0,Afghanistan,False,False,,AFC Asian Cup qualification,1984
+1984-09-12,Qatar,1,0,Hong Kong,False,False,,AFC Asian Cup qualification,1984
+1984-09-15,China PR,6,0,Jordan,False,False,,AFC Asian Cup qualification,1984
+1984-09-15,Hong Kong,0,0,Afghanistan,False,False,,AFC Asian Cup qualification,1984
+1984-09-17,China PR,2,0,Hong Kong,False,False,,AFC Asian Cup qualification,1984
+1984-09-17,Qatar,2,0,Jordan,False,False,,AFC Asian Cup qualification,1984
+1984-09-20,China PR,1,0,Qatar,False,False,,AFC Asian Cup qualification,1984
+1984-09-20,Jordan,6,1,Afghanistan,False,False,,AFC Asian Cup qualification,1984
+1984-10-10,South Korea,6,0,Yemen,False,False,,AFC Asian Cup qualification,1984
+1984-10-11,Malaysia,5,0,Pakistan,False,False,,AFC Asian Cup qualification,1984
+1984-10-12,India,4,0,Yemen,False,False,,AFC Asian Cup qualification,1984
+1984-10-13,South Korea,6,0,Pakistan,False,False,,AFC Asian Cup qualification,1984
+1984-10-14,India,2,1,Malaysia,False,False,,AFC Asian Cup qualification,1984
+1984-10-15,Pakistan,4,1,Yemen,False,False,,AFC Asian Cup qualification,1984
+1984-10-16,South Korea,0,0,Malaysia,False,False,,AFC Asian Cup qualification,1984
+1984-10-17,India,2,0,Pakistan,False,False,,AFC Asian Cup qualification,1984
+1984-10-18,Malaysia,4,1,Yemen,False,False,,AFC Asian Cup qualification,1984
+1984-10-19,India,0,1,South Korea,False,False,,AFC Asian Cup qualification,1984
+1984-10-19,Saudi Arabia,7,0,Nepal,False,False,,AFC Asian Cup qualification,1984
+1984-10-20,Oman,1,1,Sri Lanka,False,False,,AFC Asian Cup qualification,1984
+1984-10-22,Saudi Arabia,1,0,United Arab Emirates,False,False,,AFC Asian Cup qualification,1984
+1984-10-22,Sri Lanka,4,0,Nepal,False,False,,AFC Asian Cup qualification,1984
+1984-10-24,Saudi Arabia,5,0,Sri Lanka,False,False,,AFC Asian Cup qualification,1984
+1984-10-24,United Arab Emirates,8,0,Oman,False,False,,AFC Asian Cup qualification,1984
+1984-10-26,Saudi Arabia,6,0,Oman,False,False,,AFC Asian Cup qualification,1984
+1984-10-26,United Arab Emirates,11,0,Nepal,False,False,,AFC Asian Cup qualification,1984
+1984-10-28,Oman,8,0,Nepal,False,False,,AFC Asian Cup qualification,1984
+1984-10-28,United Arab Emirates,5,1,Sri Lanka,False,False,,AFC Asian Cup qualification,1984
+1988-02-04,United Arab Emirates,3,0,Thailand,False,False,,AFC Asian Cup qualification,1988
+1988-02-05,China PR,0,0,Yemen,False,False,,AFC Asian Cup qualification,1988
+1988-02-06,Bangladesh,0,0,India,False,False,,AFC Asian Cup qualification,1988
+1988-02-07,United Arab Emirates,2,1,Yemen,False,False,,AFC Asian Cup qualification,1988
+1988-02-08,China PR,4,0,Bangladesh,False,False,,AFC Asian Cup qualification,1988
+1988-02-09,Thailand,1,0,India,False,False,,AFC Asian Cup qualification,1988
+1988-02-10,United Arab Emirates,0,0,China PR,False,False,,AFC Asian Cup qualification,1988
+1988-02-11,Yemen,1,0,India,False,False,,AFC Asian Cup qualification,1988
+1988-02-12,Thailand,1,1,Bangladesh,False,False,,AFC Asian Cup qualification,1988
+1988-02-13,United Arab Emirates,3,0,India,False,False,,AFC Asian Cup qualification,1988
+1988-02-14,China PR,5,0,Thailand,False,False,,AFC Asian Cup qualification,1988
+1988-02-14,Yemen,0,0,Bangladesh,False,False,,AFC Asian Cup qualification,1988
+1988-02-16,China PR,1,1,India,False,False,,AFC Asian Cup qualification,1988
+1988-02-16,Yemen,3,3,Thailand,False,False,,AFC Asian Cup qualification,1988
+1988-02-17,United Arab Emirates,4,0,Bangladesh,False,False,,AFC Asian Cup qualification,1988
+1988-04-07,Malaysia,4,0,Pakistan,False,False,,AFC Asian Cup qualification,1988
+1988-04-08,Kuwait,1,0,Japan,False,False,,AFC Asian Cup qualification,1988
+1988-04-10,Jordan,1,0,Pakistan,False,False,,AFC Asian Cup qualification,1988
+1988-04-11,Malaysia,0,1,Japan,False,False,,AFC Asian Cup qualification,1988
+1988-04-12,Kuwait,0,0,Jordan,False,False,,AFC Asian Cup qualification,1988
+1988-04-14,Malaysia,0,0,Jordan,False,False,,AFC Asian Cup qualification,1988
+1988-04-15,Kuwait,3,0,Pakistan,False,False,,AFC Asian Cup qualification,1988
+1988-04-16,Japan,1,1,Jordan,False,False,,AFC Asian Cup qualification,1988
+1988-04-18,Japan,4,1,Pakistan,False,False,,AFC Asian Cup qualification,1988
+1988-04-18,Malaysia,0,5,Kuwait,False,False,,AFC Asian Cup qualification,1988
+1988-05-25,Nepal,0,0,Hong Kong,False,False,,AFC Asian Cup qualification,1988
+1988-05-26,Syria,2,1,North Korea,False,False,,AFC Asian Cup qualification,1988
+1988-05-27,Iran,2,0,Hong Kong,False,False,,AFC Asian Cup qualification,1988
+1988-05-28,Nepal,0,1,North Korea,False,False,,AFC Asian Cup qualification,1988
+1988-05-29,Syria,1,1,Iran,False,False,,AFC Asian Cup qualification,1988
+1988-05-31,North Korea,1,0,Hong Kong,False,False,,AFC Asian Cup qualification,1988
+1988-06-01,Nepal,0,3,Syria,False,False,,AFC Asian Cup qualification,1988
+1988-06-02,Iran,0,0,North Korea,False,False,,AFC Asian Cup qualification,1988
+1988-06-03,Syria,2,0,Hong Kong,False,False,,AFC Asian Cup qualification,1988
+1988-06-04,Nepal,0,3,Iran,False,False,,AFC Asian Cup qualification,1988
+1988-06-17,Bahrain,2,0,South Korea,False,False,,AFC Asian Cup qualification,1988
+1988-06-17,Indonesia,1,0,Yemen DPR,False,False,,AFC Asian Cup qualification,1988
+1988-06-19,Indonesia,0,0,Bahrain,False,False,,AFC Asian Cup qualification,1988
+1988-06-19,South Korea,1,1,Yemen DPR,False,False,,AFC Asian Cup qualification,1988
+1988-06-22,Bahrain,2,0,Yemen DPR,False,False,,AFC Asian Cup qualification,1988
+1988-06-22,Indonesia,0,4,South Korea,False,False,,AFC Asian Cup qualification,1988
+1992-04-19,Singapore,1,1,Malaysia,False,False,,AFC Asian Cup qualification,1992
+1992-04-20,China PR,2,0,Indonesia,False,False,,AFC Asian Cup qualification,1992
+1992-04-22,Singapore,1,2,Indonesia,False,False,,AFC Asian Cup qualification,1992
+1992-04-23,China PR,4,0,Malaysia,False,False,,AFC Asian Cup qualification,1992
+1992-04-24,Indonesia,1,1,Malaysia,False,False,,AFC Asian Cup qualification,1992
+1992-04-26,Singapore,0,1,China PR,False,False,,AFC Asian Cup qualification,1992
+1992-05-11,Iran,7,0,Pakistan,False,False,,AFC Asian Cup qualification,1992
+1992-05-15,India,0,3,Iran,False,False,,AFC Asian Cup qualification,1992
+1992-05-29,Qatar,4,2,Syria,False,False,,AFC Asian Cup qualification,1992
+1992-05-31,Qatar,4,0,Oman,False,False,,AFC Asian Cup qualification,1992
+1992-06-03,North Korea,6,0,Taiwan,False,False,,AFC Asian Cup qualification,1992
+1992-06-03,Macau,2,2,Hong Kong,False,False,,AFC Asian Cup qualification,1992
+1992-06-05,Hong Kong,0,0,Taiwan,False,False,,AFC Asian Cup qualification,1992
+1992-06-05,North Korea,2,0,Macau,False,False,,AFC Asian Cup qualification,1992
+1992-06-07,North Korea,0,0,Hong Kong,False,False,,AFC Asian Cup qualification,1992
+1992-06-07,Macau,2,0,Taiwan,False,False,,AFC Asian Cup qualification,1992
+1992-06-19,South Korea,6,0,Bangladesh,False,False,,AFC Asian Cup qualification,1992
+1992-06-21,Thailand,2,1,South Korea,False,False,,AFC Asian Cup qualification,1992
+1992-06-23,Thailand,1,0,Bangladesh,False,False,,AFC Asian Cup qualification,1992
+1996-01-24,Saudi Arabia,3,0,Kyrgyzstan,False,False,,AFC Asian Cup qualification,1996
+1996-01-26,Yemen,1,0,Kyrgyzstan,False,False,,AFC Asian Cup qualification,1996
+1996-01-28,Saudi Arabia,4,0,Yemen,False,False,,AFC Asian Cup qualification,1996
+1996-01-30,China PR,7,1,Macau,False,False,,AFC Asian Cup qualification,1996
+1996-01-30,Hong Kong,8,0,Philippines,False,False,,AFC Asian Cup qualification,1996
+1996-01-31,Saudi Arabia,2,0,Kyrgyzstan,False,False,,AFC Asian Cup qualification,1996
+1996-02-01,Hong Kong,4,1,Macau,False,False,,AFC Asian Cup qualification,1996
+1996-02-01,Philippines,0,7,China PR,False,False,,AFC Asian Cup qualification,1996
+1996-02-02,Kyrgyzstan,3,1,Yemen,False,False,,AFC Asian Cup qualification,1996
+1996-02-04,Hong Kong,0,2,China PR,False,False,,AFC Asian Cup qualification,1996
+1996-02-04,Macau,5,1,Philippines,False,False,,AFC Asian Cup qualification,1996
+1996-02-04,Saudi Arabia,1,0,Yemen,False,False,,AFC Asian Cup qualification,1996
+1996-03-02,Malaysia,1,1,Indonesia,False,False,,AFC Asian Cup qualification,1996
+1996-03-04,Indonesia,7,1,India,False,False,,AFC Asian Cup qualification,1996
+1996-03-06,Malaysia,5,2,India,False,False,,AFC Asian Cup qualification,1996
+1996-03-10,Turkmenistan,2,2,Kuwait,False,False,,AFC Asian Cup qualification,1996
+1996-03-22,Kuwait,2,0,Turkmenistan,False,False,,AFC Asian Cup qualification,1996
+1996-05-08,Tajikistan,4,0,Uzbekistan,False,False,,AFC Asian Cup qualification,1996
+1996-05-12,Lebanon,3,1,Turkmenistan,False,False,,AFC Asian Cup qualification,1996
+1996-05-26,Turkmenistan,0,1,Lebanon,False,False,,AFC Asian Cup qualification,1996
+1996-06-09,Lebanon,3,5,Kuwait,False,False,,AFC Asian Cup qualification,1996
+1996-06-10,Iran,8,0,Nepal,False,False,,AFC Asian Cup qualification,1996
+1996-06-10,Sri Lanka,0,3,Oman,False,False,,AFC Asian Cup qualification,1996
+1996-06-12,Iran,7,0,Sri Lanka,False,False,,AFC Asian Cup qualification,1996
+1996-06-12,Nepal,0,7,Oman,False,False,,AFC Asian Cup qualification,1996
+1996-06-14,Iran,2,0,Oman,False,False,,AFC Asian Cup qualification,1996
+1996-06-14,Kazakhstan,1,0,Qatar,False,False,,AFC Asian Cup qualification,1996
+1996-06-14,Sri Lanka,3,1,Nepal,False,False,,AFC Asian Cup qualification,1996
+1996-06-17,Oman,2,1,Nepal,False,False,,AFC Asian Cup qualification,1996
+1996-06-17,Sri Lanka,0,4,Iran,False,False,,AFC Asian Cup qualification,1996
+1996-06-19,Nepal,0,4,Iran,False,False,,AFC Asian Cup qualification,1996
+1996-06-19,Oman,10,0,Sri Lanka,False,False,,AFC Asian Cup qualification,1996
+1996-06-19,Uzbekistan,5,0,Tajikistan,False,False,,AFC Asian Cup qualification,1996
+1996-06-20,Kuwait,0,0,Lebanon,False,False,,AFC Asian Cup qualification,1996
+1996-06-21,Nepal,0,2,Sri Lanka,False,False,,AFC Asian Cup qualification,1996
+1996-06-21,Oman,1,2,Iran,False,False,,AFC Asian Cup qualification,1996
+1996-06-21,Syria,2,0,Kazakhstan,False,False,,AFC Asian Cup qualification,1996
+1996-06-27,Myanmar,0,4,Singapore,False,False,,AFC Asian Cup qualification,1996
+1996-06-27,Thailand,8,0,Maldives,False,False,,AFC Asian Cup qualification,1996
+1996-06-28,Qatar,1,0,Syria,False,False,,AFC Asian Cup qualification,1996
+1996-06-29,Maldives,0,2,Singapore,False,False,,AFC Asian Cup qualification,1996
+1996-06-29,Thailand,5,1,Myanmar,False,False,,AFC Asian Cup qualification,1996
+1996-07-01,Myanmar,3,1,Maldives,False,False,,AFC Asian Cup qualification,1996
+1996-07-01,Thailand,1,1,Singapore,False,False,,AFC Asian Cup qualification,1996
+1996-07-04,Maldives,0,8,Thailand,False,False,,AFC Asian Cup qualification,1996
+1996-07-04,Singapore,2,2,Myanmar,False,False,,AFC Asian Cup qualification,1996
+1996-07-05,Qatar,3,0,Kazakhstan,False,False,,AFC Asian Cup qualification,1996
+1996-07-07,Myanmar,1,7,Thailand,False,False,,AFC Asian Cup qualification,1996
+1996-07-07,Singapore,5,2,Maldives,False,False,,AFC Asian Cup qualification,1996
+1996-07-09,Myanmar,4,1,Maldives,False,False,,AFC Asian Cup qualification,1996
+1996-07-09,Singapore,2,2,Thailand,False,False,,AFC Asian Cup qualification,1996
+1996-07-12,Kazakhstan,0,1,Syria,False,False,,AFC Asian Cup qualification,1996
+1996-07-19,Syria,3,1,Qatar,False,False,,AFC Asian Cup qualification,1996
+1996-08-04,Vietnam,4,1,Taiwan,False,False,,AFC Asian Cup qualification,1996
+1996-08-05,South Korea,9,0,Guam,False,False,,AFC Asian Cup qualification,1996
+1996-08-07,Vietnam,9,0,Guam,False,False,,AFC Asian Cup qualification,1996
+1996-08-08,South Korea,4,0,Taiwan,False,False,,AFC Asian Cup qualification,1996
+1996-08-09,Jordan,4,0,Pakistan,False,False,,AFC Asian Cup qualification,1996
+1996-08-11,Iraq,3,0,Pakistan,False,False,,AFC Asian Cup qualification,1996
+1996-08-11,Vietnam,0,4,South Korea,False,False,,AFC Asian Cup qualification,1996
+1996-08-13,Jordan,0,1,Iraq,False,False,,AFC Asian Cup qualification,1996
+1999-08-03,Oman,3,0,Kyrgyzstan,False,False,,AFC Asian Cup qualification,1999
+1999-08-03,Tajikistan,1,2,Iraq,False,False,,AFC Asian Cup qualification,1999
+1999-08-05,Iraq,2,0,Oman,False,False,,AFC Asian Cup qualification,1999
+1999-08-05,Tajikistan,3,2,Kyrgyzstan,False,False,,AFC Asian Cup qualification,1999
+1999-08-07,Iraq,5,1,Kyrgyzstan,False,False,,AFC Asian Cup qualification,1999
+1999-08-07,Tajikistan,2,1,Oman,False,False,,AFC Asian Cup qualification,1999
+1999-10-18,Hong Kong,4,1,Cambodia,False,False,,AFC Asian Cup qualification,1999
+1999-10-24,Hong Kong,1,1,Indonesia,False,False,,AFC Asian Cup qualification,1999
+1999-10-30,Cambodia,1,5,Indonesia,False,False,,AFC Asian Cup qualification,1999
+1999-11-07,Cambodia,0,1,Hong Kong,False,False,,AFC Asian Cup qualification,1999
+1999-11-14,Indonesia,3,1,Hong Kong,False,False,,AFC Asian Cup qualification,1999
+1999-11-20,Indonesia,9,2,Cambodia,False,False,,AFC Asian Cup qualification,1999
+1999-11-21,Bangladesh,0,6,Uzbekistan,False,False,,AFC Asian Cup qualification,1999
+1999-11-21,United Arab Emirates,3,1,India,False,False,,AFC Asian Cup qualification,1999
+1999-11-23,Sri Lanka,0,6,Uzbekistan,False,False,,AFC Asian Cup qualification,1999
+1999-11-23,United Arab Emirates,3,0,Bangladesh,False,False,,AFC Asian Cup qualification,1999
+1999-11-25,India,2,3,Uzbekistan,False,False,,AFC Asian Cup qualification,1999
+1999-11-25,Sri Lanka,1,3,Bangladesh,False,False,,AFC Asian Cup qualification,1999
+1999-11-27,Sri Lanka,1,3,India,False,False,,AFC Asian Cup qualification,1999
+1999-11-27,United Arab Emirates,0,1,Uzbekistan,False,False,,AFC Asian Cup qualification,1999
+1999-11-29,India,2,2,Bangladesh,False,False,,AFC Asian Cup qualification,1999
+1999-11-29,United Arab Emirates,6,0,Sri Lanka,False,False,,AFC Asian Cup qualification,1999
+2000-01-23,China PR,8,0,Philippines,False,False,,AFC Asian Cup qualification,2000
+2000-01-23,Vietnam,11,0,Guam,False,False,,AFC Asian Cup qualification,2000
+2000-01-26,China PR,19,0,Guam,False,False,,AFC Asian Cup qualification,2000
+2000-01-26,Vietnam,3,0,Philippines,False,False,,AFC Asian Cup qualification,2000
+2000-01-29,Philippines,2,0,Guam,False,False,,AFC Asian Cup qualification,2000
+2000-01-29,Vietnam,0,2,China PR,False,False,,AFC Asian Cup qualification,2000
+2000-02-10,Kuwait,6,1,Turkmenistan,False,False,,AFC Asian Cup qualification,2000
+2000-02-10,Nepal,0,3,Yemen,False,False,,AFC Asian Cup qualification,2000
+2000-02-12,Nepal,3,0,Bhutan,False,False,,AFC Asian Cup qualification,2000
+2000-02-12,Yemen,0,1,Turkmenistan,False,False,,AFC Asian Cup qualification,2000
+2000-02-13,Macau,1,0,Brunei,False,False,,AFC Asian Cup qualification,2000
+2000-02-13,Singapore,0,3,Japan,False,False,,AFC Asian Cup qualification,2000
+2000-02-14,Kuwait,20,0,Bhutan,False,False,,AFC Asian Cup qualification,2000
+2000-02-14,Turkmenistan,5,0,Nepal,False,False,,AFC Asian Cup qualification,2000
+2000-02-16,Bhutan,0,8,Turkmenistan,False,False,,AFC Asian Cup qualification,2000
+2000-02-16,Japan,9,0,Brunei,False,False,,AFC Asian Cup qualification,2000
+2000-02-16,Kuwait,2,0,Yemen,False,False,,AFC Asian Cup qualification,2000
+2000-02-16,Macau,0,1,Singapore,False,False,,AFC Asian Cup qualification,2000
+2000-02-18,Kuwait,5,0,Nepal,False,False,,AFC Asian Cup qualification,2000
+2000-02-18,Yemen,11,2,Bhutan,False,False,,AFC Asian Cup qualification,2000
+2000-02-20,Macau,0,3,Japan,False,False,,AFC Asian Cup qualification,2000
+2000-02-20,Singapore,1,0,Brunei,False,False,,AFC Asian Cup qualification,2000
+2000-03-25,Malaysia,3,0,Taiwan,False,False,,AFC Asian Cup qualification,2000
+2000-03-25,Thailand,0,0,North Korea,False,False,,AFC Asian Cup qualification,2000
+2000-03-27,Malaysia,1,1,North Korea,False,False,,AFC Asian Cup qualification,2000
+2000-03-27,Thailand,2,0,Taiwan,False,False,,AFC Asian Cup qualification,2000
+2000-03-29,Malaysia,3,2,Thailand,False,False,,AFC Asian Cup qualification,2000
+2000-03-31,Jordan,0,1,Kazakhstan,False,False,,AFC Asian Cup qualification,2000
+2000-03-31,Maldives,0,8,Iran,False,False,,AFC Asian Cup qualification,2000
+2000-03-31,Qatar,1,0,Palestine,False,False,,AFC Asian Cup qualification,2000
+2000-03-31,Syria,1,0,Bahrain,False,False,,AFC Asian Cup qualification,2000
+2000-04-02,Bahrain,4,1,Maldives,False,False,,AFC Asian Cup qualification,2000
+2000-04-02,Palestine,2,0,Pakistan,False,False,,AFC Asian Cup qualification,2000
+2000-04-02,Qatar,3,1,Kazakhstan,False,False,,AFC Asian Cup qualification,2000
+2000-04-02,Syria,0,1,Iran,False,False,,AFC Asian Cup qualification,2000
+2000-04-04,Bahrain,1,0,Iran,False,False,,AFC Asian Cup qualification,2000
+2000-04-04,Malaysia,2,3,Taiwan,False,False,,AFC Asian Cup qualification,2000
+2000-04-04,Palestine,1,5,Jordan,False,False,,AFC Asian Cup qualification,2000
+2000-04-04,Qatar,5,0,Pakistan,False,False,,AFC Asian Cup qualification,2000
+2000-04-04,Syria,6,0,Maldives,False,False,,AFC Asian Cup qualification,2000
+2000-04-04,Thailand,5,3,North Korea,False,False,,AFC Asian Cup qualification,2000
+2000-04-05,Myanmar,2,0,Mongolia,False,False,,AFC Asian Cup qualification,2000
+2000-04-05,South Korea,9,0,Laos,False,False,,AFC Asian Cup qualification,2000
+2000-04-06,Kazakhstan,2,0,Palestine,False,False,,AFC Asian Cup qualification,2000
+2000-04-06,Malaysia,1,4,North Korea,False,False,,AFC Asian Cup qualification,2000
+2000-04-06,Pakistan,0,5,Jordan,False,False,,AFC Asian Cup qualification,2000
+2000-04-06,Thailand,1,0,Taiwan,False,False,,AFC Asian Cup qualification,2000
+2000-04-07,Myanmar,4,0,Laos,False,False,,AFC Asian Cup qualification,2000
+2000-04-07,South Korea,6,0,Mongolia,False,False,,AFC Asian Cup qualification,2000
+2000-04-08,Pakistan,0,4,Kazakhstan,False,False,,AFC Asian Cup qualification,2000
+2000-04-08,Qatar,2,2,Jordan,False,False,,AFC Asian Cup qualification,2000
+2000-04-08,Thailand,3,2,Malaysia,False,False,,AFC Asian Cup qualification,2000
+2000-04-09,Iran,3,0,Bahrain,False,False,,AFC Asian Cup qualification,2000
+2000-04-09,South Korea,4,0,Myanmar,False,False,,AFC Asian Cup qualification,2000
+2000-04-09,Laos,2,1,Mongolia,False,False,,AFC Asian Cup qualification,2000
+2000-04-09,Syria,2,1,Maldives,False,False,,AFC Asian Cup qualification,2000
+2000-04-11,Bahrain,1,0,Maldives,False,False,,AFC Asian Cup qualification,2000
+2000-04-11,Iran,1,1,Syria,False,False,,AFC Asian Cup qualification,2000
+2000-04-13,Bahrain,0,1,Syria,False,False,,AFC Asian Cup qualification,2000
+2000-04-13,Iran,3,0,Maldives,False,False,,AFC Asian Cup qualification,2000
+2003-03-16,Kyrgyzstan,1,2,Afghanistan,False,False,,AFC Asian Cup qualification,2003
+2003-03-18,Nepal,4,0,Afghanistan,False,False,,AFC Asian Cup qualification,2003
+2003-03-20,Nepal,0,2,Kyrgyzstan,False,False,,AFC Asian Cup qualification,2003
+2003-03-21,Macau,0,3,Pakistan,False,False,,AFC Asian Cup qualification,2003
+2003-03-21,Maldives,1,1,Brunei,False,False,,AFC Asian Cup qualification,2003
+2003-03-21,Sri Lanka,3,2,Timor-Leste,False,False,,AFC Asian Cup qualification,2003
+2003-03-23,Myanmar,5,0,Brunei,False,False,,AFC Asian Cup qualification,2003
+2003-03-23,Singapore,2,0,Macau,False,False,,AFC Asian Cup qualification,2003
+2003-03-24,North Korea,2,0,India,False,False,,AFC Asian Cup qualification,2003
+2003-03-25,Hong Kong,5,1,Laos,False,False,,AFC Asian Cup qualification,2003
+2003-03-25,Maldives,0,2,Myanmar,False,False,,AFC Asian Cup qualification,2003
+2003-03-25,Singapore,3,0,Pakistan,False,False,,AFC Asian Cup qualification,2003
+2003-03-25,Sri Lanka,2,1,Taiwan,False,False,,AFC Asian Cup qualification,2003
+2003-03-27,Laos,2,1,Bangladesh,False,False,,AFC Asian Cup qualification,2003
+2003-03-30,Hong Kong,2,2,Bangladesh,False,False,,AFC Asian Cup qualification,2003
+2003-03-30,India,1,1,North Korea,False,False,,AFC Asian Cup qualification,2003
+2003-04-23,Bhutan,6,0,Guam,False,False,,AFC Asian Cup qualification,2003
+2003-04-25,Guam,0,5,Mongolia,False,False,,AFC Asian Cup qualification,2003
+2003-04-27,Bhutan,0,0,Mongolia,False,False,,AFC Asian Cup qualification,2003
+2003-09-04,North Korea,0,1,Lebanon,False,False,,AFC Asian Cup qualification,2003
+2003-09-04,Singapore,1,3,Kuwait,False,False,,AFC Asian Cup qualification,2003
+2003-09-05,Iran,4,1,Jordan,False,False,,AFC Asian Cup qualification,2003
+2003-09-14,Kuwait,2,1,Qatar,False,False,,AFC Asian Cup qualification,2003
+2003-09-20,Qatar,2,2,Kuwait,False,False,,AFC Asian Cup qualification,2003
+2003-09-24,Qatar,1,1,Palestine,False,False,,AFC Asian Cup qualification,2003
+2003-09-25,South Korea,5,0,Vietnam,False,False,,AFC Asian Cup qualification,2003
+2003-09-25,Nepal,0,7,Oman,False,False,,AFC Asian Cup qualification,2003
+2003-09-26,Jordan,3,2,Iran,False,False,,AFC Asian Cup qualification,2003
+2003-09-27,South Korea,1,0,Oman,False,False,,AFC Asian Cup qualification,2003
+2003-09-27,Kuwait,4,0,Singapore,False,False,,AFC Asian Cup qualification,2003
+2003-09-27,Qatar,2,1,Palestine,False,False,,AFC Asian Cup qualification,2003
+2003-09-27,Vietnam,5,0,Nepal,False,False,,AFC Asian Cup qualification,2003
+2003-09-29,South Korea,16,0,Nepal,False,False,,AFC Asian Cup qualification,2003
+2003-09-29,Vietnam,0,6,Oman,False,False,,AFC Asian Cup qualification,2003
+2003-10-05,Kuwait,2,1,Palestine,False,False,,AFC Asian Cup qualification,2003
+2003-10-06,Indonesia,2,0,Bhutan,False,False,,AFC Asian Cup qualification,2003
+2003-10-06,Saudi Arabia,7,0,Yemen,False,False,,AFC Asian Cup qualification,2003
+2003-10-08,Iraq,5,1,Bahrain,False,False,,AFC Asian Cup qualification,2003
+2003-10-08,Kuwait,4,0,Palestine,False,False,,AFC Asian Cup qualification,2003
+2003-10-08,Malaysia,4,0,Myanmar,False,False,,AFC Asian Cup qualification,2003
+2003-10-08,Saudi Arabia,6,0,Bhutan,False,False,,AFC Asian Cup qualification,2003
+2003-10-08,Yemen,0,3,Indonesia,False,False,,AFC Asian Cup qualification,2003
+2003-10-10,Bhutan,0,8,Yemen,False,False,,AFC Asian Cup qualification,2003
+2003-10-10,Myanmar,1,3,Bahrain,False,False,,AFC Asian Cup qualification,2003
+2003-10-10,Malaysia,0,0,Iraq,False,False,,AFC Asian Cup qualification,2003
+2003-10-10,Saudi Arabia,5,0,Indonesia,False,False,,AFC Asian Cup qualification,2003
+2003-10-12,Iraq,3,0,Myanmar,False,False,,AFC Asian Cup qualification,2003
+2003-10-12,Malaysia,2,2,Bahrain,False,False,,AFC Asian Cup qualification,2003
+2003-10-13,Bhutan,0,2,Indonesia,False,False,,AFC Asian Cup qualification,2003
+2003-10-13,Saudi Arabia,3,1,Yemen,False,False,,AFC Asian Cup qualification,2003
+2003-10-15,Indonesia,2,2,Yemen,False,False,,AFC Asian Cup qualification,2003
+2003-10-15,Saudi Arabia,4,0,Bhutan,False,False,,AFC Asian Cup qualification,2003
+2003-10-15,Syria,5,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2003
+2003-10-17,Jordan,1,0,Lebanon,False,False,,AFC Asian Cup qualification,2003
+2003-10-17,Saudi Arabia,6,0,Indonesia,False,False,,AFC Asian Cup qualification,2003
+2003-10-17,Yemen,4,0,Bhutan,False,False,,AFC Asian Cup qualification,2003
+2003-10-18,Syria,8,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2003
+2003-10-19,Oman,6,0,Nepal,False,False,,AFC Asian Cup qualification,2003
+2003-10-19,Singapore,2,0,Palestine,False,False,,AFC Asian Cup qualification,2003
+2003-10-19,Turkmenistan,1,0,United Arab Emirates,False,False,,AFC Asian Cup qualification,2003
+2003-10-19,Vietnam,1,0,South Korea,False,False,,AFC Asian Cup qualification,2003
+2003-10-20,Bahrain,4,0,Myanmar,False,False,,AFC Asian Cup qualification,2003
+2003-10-20,Iraq,5,1,Malaysia,False,False,,AFC Asian Cup qualification,2003
+2003-10-21,Nepal,0,2,Vietnam,False,False,,AFC Asian Cup qualification,2003
+2003-10-21,Oman,3,1,South Korea,False,False,,AFC Asian Cup qualification,2003
+2003-10-22,Bahrain,3,1,Malaysia,False,False,,AFC Asian Cup qualification,2003
+2003-10-22,Myanmar,1,3,Iraq,False,False,,AFC Asian Cup qualification,2003
+2003-10-22,Singapore,0,0,Palestine,False,False,,AFC Asian Cup qualification,2003
+2003-10-24,Bahrain,1,0,Iraq,False,False,,AFC Asian Cup qualification,2003
+2003-10-24,Myanmar,2,1,Malaysia,False,False,,AFC Asian Cup qualification,2003
+2003-10-24,Nepal,0,7,South Korea,False,False,,AFC Asian Cup qualification,2003
+2003-10-24,Oman,2,0,Vietnam,False,False,,AFC Asian Cup qualification,2003
+2003-10-27,North Korea,1,3,Iran,False,False,,AFC Asian Cup qualification,2003
+2003-10-30,United Arab Emirates,1,1,Turkmenistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-03,Lebanon,1,1,North Korea,False,False,,AFC Asian Cup qualification,2003
+2003-11-06,Thailand,0,1,Tajikistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-06,Uzbekistan,4,1,Hong Kong,False,False,,AFC Asian Cup qualification,2003
+2003-11-07,Syria,1,3,United Arab Emirates,False,False,,AFC Asian Cup qualification,2003
+2003-11-08,Hong Kong,0,0,Tajikistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-08,Uzbekistan,3,0,Thailand,False,False,,AFC Asian Cup qualification,2003
+2003-11-09,Turkmenistan,1,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2003
+2003-11-10,Hong Kong,2,1,Thailand,False,False,,AFC Asian Cup qualification,2003
+2003-11-10,Uzbekistan,0,0,Tajikistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-12,Iran,3,0,North Korea,False,False,,AFC Asian Cup qualification,2003
+2003-11-12,Lebanon,0,2,Jordan,False,False,,AFC Asian Cup qualification,2003
+2003-11-12,Turkmenistan,3,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2003
+2003-11-14,United Arab Emirates,3,1,Syria,False,False,,AFC Asian Cup qualification,2003
+2003-11-17,Tajikistan,1,4,Uzbekistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-17,Thailand,4,0,Hong Kong,False,False,,AFC Asian Cup qualification,2003
+2003-11-18,Jordan,3,0,North Korea,False,False,,AFC Asian Cup qualification,2003
+2003-11-18,United Arab Emirates,3,1,Sri Lanka,False,False,,AFC Asian Cup qualification,2003
+2003-11-19,Hong Kong,0,1,Uzbekistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-19,Lebanon,0,3,Iran,False,False,,AFC Asian Cup qualification,2003
+2003-11-19,Qatar,2,0,Singapore,False,False,,AFC Asian Cup qualification,2003
+2003-11-19,Thailand,1,0,Tajikistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-21,Tajikistan,1,0,Hong Kong,False,False,,AFC Asian Cup qualification,2003
+2003-11-21,Thailand,4,1,Uzbekistan,False,False,,AFC Asian Cup qualification,2003
+2003-11-22,United Arab Emirates,3,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2003
+2003-11-28,Iran,1,0,Lebanon,False,False,,AFC Asian Cup qualification,2003
+2003-11-28,Syria,1,1,Turkmenistan,False,False,,AFC Asian Cup qualification,2003
+2005-12-22,Bangladesh,0,0,Pakistan,False,False,,AFC Asian Cup qualification,2005
+2005-12-26,Pakistan,0,1,Bangladesh,False,False,,AFC Asian Cup qualification,2005
+2006-02-22,Bahrain,1,3,Australia,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,China PR,2,0,Palestine,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Hong Kong,0,3,Qatar,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Iran,4,0,Taiwan,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Japan,6,0,India,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Jordan,3,0,Pakistan,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Lebanon,1,1,Kuwait,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Singapore,2,0,Iraq,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Syria,1,2,South Korea,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,United Arab Emirates,1,0,Oman,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Uzbekistan,5,0,Bangladesh,False,False,,AFC Asian Cup qualification,2006
+2006-02-22,Yemen,0,4,Saudi Arabia,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Bangladesh,0,1,Hong Kong,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,India,0,3,Yemen,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Iraq,2,1,China PR,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Kuwait,0,0,Bahrain,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Oman,3,0,Jordan,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Pakistan,1,4,United Arab Emirates,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Palestine,1,0,Singapore,False,False,,AFC Asian Cup qualification,2006
+2006-03-01,Qatar,2,1,Uzbekistan,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Australia,2,0,Kuwait,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Bangladesh,1,4,Qatar,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,China PR,1,0,Singapore,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,India,0,3,Saudi Arabia,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Iran,1,1,Syria,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Japan,2,0,Yemen,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Jordan,1,2,United Arab Emirates,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Pakistan,1,4,Oman,False,False,,AFC Asian Cup qualification,2006
+2006-08-16,Uzbekistan,2,2,Hong Kong,False,False,,AFC Asian Cup qualification,2006
+2006-08-17,Palestine,0,3,Iraq,False,False,,AFC Asian Cup qualification,2006
+2006-09-02,South Korea,1,1,Iran,False,False,,AFC Asian Cup qualification,2006
+2006-09-03,Saudi Arabia,1,0,Japan,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Hong Kong,0,0,Uzbekistan,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Iraq,2,2,Palestine,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,South Korea,8,0,Taiwan,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Kuwait,2,0,Australia,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Oman,5,0,Pakistan,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Qatar,3,0,Bangladesh,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Saudi Arabia,7,1,India,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Singapore,0,0,China PR,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,United Arab Emirates,0,0,Jordan,False,False,,AFC Asian Cup qualification,2006
+2006-09-06,Yemen,0,1,Japan,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Australia,2,0,Bahrain,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Bangladesh,0,4,Uzbekistan,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,India,0,3,Japan,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Iraq,4,2,Singapore,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,South Korea,1,1,Syria,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Oman,2,1,United Arab Emirates,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Pakistan,0,3,Jordan,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Palestine,0,2,China PR,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Qatar,2,0,Hong Kong,False,False,,AFC Asian Cup qualification,2006
+2006-10-11,Saudi Arabia,5,0,Yemen,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Bahrain,2,1,Kuwait,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,China PR,1,1,Iraq,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Hong Kong,2,0,Bangladesh,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Iran,2,0,South Korea,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Japan,3,1,Saudi Arabia,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Jordan,3,0,Oman,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Syria,3,0,Taiwan,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,United Arab Emirates,3,2,Pakistan,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Uzbekistan,2,0,Qatar,False,False,,AFC Asian Cup qualification,2006
+2006-11-15,Yemen,2,1,India,False,False,,AFC Asian Cup qualification,2006
+2008-04-09,Lebanon,4,0,Maldives,False,False,,AFC Asian Cup qualification,2008
+2008-04-23,Maldives,1,2,Lebanon,False,False,,AFC Asian Cup qualification,2008
+2009-01-14,Iran,6,0,Singapore,False,False,,AFC Asian Cup qualification,2009
+2009-01-14,Jordan,0,0,Thailand,False,False,,AFC Asian Cup qualification,2009
+2009-01-14,Syria,3,2,China PR,False,False,,AFC Asian Cup qualification,2009
+2009-01-14,Vietnam,3,1,Lebanon,False,False,,AFC Asian Cup qualification,2009
+2009-01-19,Oman,0,0,Indonesia,False,False,,AFC Asian Cup qualification,2009
+2009-01-20,Japan,2,1,Yemen,False,False,,AFC Asian Cup qualification,2009
+2009-01-21,China PR,6,1,Vietnam,False,False,,AFC Asian Cup qualification,2009
+2009-01-21,Hong Kong,1,3,Bahrain,False,False,,AFC Asian Cup qualification,2009
+2009-01-21,Malaysia,0,5,United Arab Emirates,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Bahrain,1,0,Japan,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Indonesia,0,0,Australia,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Kuwait,0,1,Oman,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Lebanon,0,2,Syria,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Singapore,2,1,Jordan,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Thailand,0,0,Iran,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,United Arab Emirates,0,1,Uzbekistan,False,False,,AFC Asian Cup qualification,2009
+2009-01-28,Yemen,1,0,Hong Kong,False,False,,AFC Asian Cup qualification,2009
+2009-03-05,Australia,0,1,Kuwait,False,False,,AFC Asian Cup qualification,2009
+2009-10-08,Japan,6,0,Hong Kong,False,False,,AFC Asian Cup qualification,2009
+2009-10-14,Australia,1,0,Oman,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Iran,1,0,Jordan,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Kuwait,2,1,Indonesia,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Lebanon,0,2,China PR,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Oman,1,2,Australia,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Singapore,1,3,Thailand,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Uzbekistan,3,1,Malaysia,False,False,,AFC Asian Cup qualification,2009
+2009-11-14,Vietnam,0,1,Syria,False,False,,AFC Asian Cup qualification,2009
+2009-11-18,Bahrain,4,0,Yemen,False,False,,AFC Asian Cup qualification,2009
+2009-11-18,Hong Kong,0,4,Japan,False,False,,AFC Asian Cup qualification,2009
+2009-11-18,Indonesia,1,1,Kuwait,False,False,,AFC Asian Cup qualification,2009
+2009-11-18,Malaysia,1,3,Uzbekistan,False,False,,AFC Asian Cup qualification,2009
+2009-11-18,Syria,0,0,Vietnam,False,False,,AFC Asian Cup qualification,2009
+2009-11-18,Thailand,0,1,Singapore,False,False,,AFC Asian Cup qualification,2009
+2009-11-22,China PR,1,0,Lebanon,False,False,,AFC Asian Cup qualification,2009
+2009-11-22,Jordan,1,0,Iran,False,False,,AFC Asian Cup qualification,2009
+2010-01-06,Bahrain,4,0,Hong Kong,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,China PR,0,0,Syria,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,Indonesia,1,2,Oman,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,Kuwait,2,2,Australia,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,Lebanon,1,1,Vietnam,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,Singapore,1,3,Iran,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,Thailand,0,0,Jordan,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,United Arab Emirates,1,0,Malaysia,False,False,,AFC Asian Cup qualification,2010
+2010-01-06,Yemen,2,3,Japan,False,False,,AFC Asian Cup qualification,2010
+2010-01-17,Vietnam,1,2,China PR,False,False,,AFC Asian Cup qualification,2010
+2010-01-20,Yemen,3,0,Bahrain,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Australia,1,0,Indonesia,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Hong Kong,0,0,Yemen,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Iran,1,0,Thailand,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Japan,2,0,Bahrain,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Jordan,2,1,Singapore,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Oman,0,0,Kuwait,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Syria,4,0,Lebanon,False,False,,AFC Asian Cup qualification,2010
+2010-03-03,Uzbekistan,0,1,United Arab Emirates,False,False,,AFC Asian Cup qualification,2010
+2013-02-06,Iran,5,0,Lebanon,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Iraq,1,0,Indonesia,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Jordan,4,0,Singapore,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Oman,1,0,Syria,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Qatar,2,0,Malaysia,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Saudi Arabia,2,1,China PR,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Thailand,1,3,Kuwait,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Uzbekistan,0,0,Hong Kong,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Vietnam,1,2,United Arab Emirates,False,False,,AFC Asian Cup qualification,2013
+2013-02-06,Yemen,0,2,Bahrain,False,False,,AFC Asian Cup qualification,2013
+2013-03-22,Bahrain,1,0,Qatar,False,False,,AFC Asian Cup qualification,2013
+2013-03-22,China PR,1,0,Iraq,False,False,,AFC Asian Cup qualification,2013
+2013-03-22,Hong Kong,1,0,Vietnam,False,False,,AFC Asian Cup qualification,2013
+2013-03-22,Lebanon,5,2,Thailand,False,False,,AFC Asian Cup qualification,2013
+2013-03-22,Malaysia,2,1,Yemen,False,False,,AFC Asian Cup qualification,2013
+2013-03-22,United Arab Emirates,2,1,Uzbekistan,False,False,,AFC Asian Cup qualification,2013
+2013-03-23,Indonesia,1,2,Saudi Arabia,False,False,,AFC Asian Cup qualification,2013
+2013-03-26,Kuwait,1,1,Iran,False,False,,AFC Asian Cup qualification,2013
+2013-08-14,Singapore,0,2,Oman,False,False,,AFC Asian Cup qualification,2013
+2013-08-15,Syria,1,1,Jordan,False,False,,AFC Asian Cup qualification,2013
+2013-10-13,Qatar,6,0,Yemen,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Hong Kong,0,4,United Arab Emirates,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Indonesia,1,1,China PR,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Iran,2,1,Thailand,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Iraq,0,2,Saudi Arabia,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Jordan,0,0,Oman,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Lebanon,1,1,Kuwait,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Malaysia,1,1,Bahrain,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Singapore,2,1,Syria,False,False,,AFC Asian Cup qualification,2013
+2013-10-15,Uzbekistan,3,1,Vietnam,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Bahrain,1,0,Malaysia,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,China PR,1,0,Indonesia,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Kuwait,0,0,Lebanon,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Saudi Arabia,2,1,Iraq,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Syria,4,0,Singapore,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Thailand,0,3,Iran,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,United Arab Emirates,4,0,Hong Kong,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Vietnam,0,3,Uzbekistan,False,False,,AFC Asian Cup qualification,2013
+2013-11-15,Yemen,1,4,Qatar,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Bahrain,2,0,Yemen,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,China PR,0,0,Saudi Arabia,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Hong Kong,0,2,Uzbekistan,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Indonesia,0,2,Iraq,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Kuwait,3,1,Thailand,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Lebanon,1,4,Iran,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Malaysia,0,1,Qatar,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,Syria,0,1,Oman,False,False,,AFC Asian Cup qualification,2013
+2013-11-19,United Arab Emirates,5,0,Vietnam,False,False,,AFC Asian Cup qualification,2013
+2014-01-31,Oman,0,0,Jordan,False,False,,AFC Asian Cup qualification,2014
+2014-02-04,Singapore,1,3,Jordan,False,False,,AFC Asian Cup qualification,2014
+2014-03-03,Iran,3,2,Kuwait,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Iraq,3,1,China PR,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Jordan,2,1,Syria,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Oman,3,1,Singapore,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Qatar,0,0,Bahrain,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Saudi Arabia,1,0,Indonesia,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Thailand,2,5,Lebanon,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Uzbekistan,1,1,United Arab Emirates,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Vietnam,3,1,Hong Kong,False,False,,AFC Asian Cup qualification,2014
+2014-03-05,Yemen,1,2,Malaysia,False,False,,AFC Asian Cup qualification,2014
+2016-06-02,Laos,0,1,India,False,False,,AFC Asian Cup qualification,2016
+2016-06-02,Malaysia,3,0,Timor-Leste,False,False,,AFC Asian Cup qualification,2016
+2016-06-02,Maldives,0,2,Yemen,False,False,,AFC Asian Cup qualification,2016
+2016-06-02,Tajikistan,5,0,Bangladesh,False,False,,AFC Asian Cup qualification,2016
+2016-06-06,Malaysia,3,0,Timor-Leste,False,False,,AFC Asian Cup qualification,2016
+2016-06-07,Bangladesh,0,1,Tajikistan,False,False,,AFC Asian Cup qualification,2016
+2016-06-07,Cambodia,2,0,Taiwan,False,False,,AFC Asian Cup qualification,2016
+2016-06-07,India,6,1,Laos,False,False,,AFC Asian Cup qualification,2016
+2016-06-07,Yemen,2,0,Maldives,False,False,,AFC Asian Cup qualification,2016
+2016-09-06,Bangladesh,0,0,Bhutan,False,False,,AFC Asian Cup qualification,2016
+2016-09-06,Maldives,4,0,Laos,False,False,,AFC Asian Cup qualification,2016
+2016-10-08,Taiwan,2,1,Timor-Leste,False,False,,AFC Asian Cup qualification,2016
+2016-10-10,Bhutan,3,1,Bangladesh,False,False,,AFC Asian Cup qualification,2016
+2016-10-11,Laos,1,1,Maldives,False,False,,AFC Asian Cup qualification,2016
+2017-03-28,Afghanistan,1,1,Vietnam,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Bahrain,0,0,Singapore,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Myanmar,0,1,India,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Jordan,7,0,Cambodia,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Kyrgyzstan,1,0,Macau,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Lebanon,2,0,Hong Kong,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Maldives,0,3,Palestine,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Oman,14,0,Bhutan,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Philippines,4,1,Nepal,False,False,,AFC Asian Cup qualification,2017
+2017-03-28,Yemen,2,1,Tajikistan,False,False,,AFC Asian Cup qualification,2017
+2017-06-10,Singapore,1,2,Taiwan,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Bhutan,0,2,Maldives,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Cambodia,1,0,Afghanistan,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Hong Kong,1,1,North Korea,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,India,1,0,Kyrgyzstan,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Macau,0,4,Myanmar,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Malaysia,1,2,Lebanon,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Nepal,0,0,Yemen,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Palestine,2,1,Oman,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Tajikistan,3,4,Philippines,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Turkmenistan,1,2,Bahrain,False,False,,AFC Asian Cup qualification,2017
+2017-06-13,Vietnam,0,0,Jordan,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Bahrain,5,0,Taiwan,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Bhutan,0,2,Palestine,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Cambodia,1,2,Vietnam,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Jordan,4,1,Afghanistan,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,North Korea,2,2,Lebanon,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Macau,0,2,India,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Malaysia,1,1,Hong Kong,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Nepal,1,2,Tajikistan,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Oman,5,0,Maldives,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Philippines,2,2,Yemen,False,False,,AFC Asian Cup qualification,2017
+2017-09-05,Singapore,1,1,Turkmenistan,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Afghanistan,3,3,Jordan,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Myanmar,2,2,Kyrgyzstan,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Hong Kong,2,0,Malaysia,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Lebanon,5,0,North Korea,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Maldives,1,3,Oman,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Palestine,10,0,Bhutan,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Taiwan,2,1,Bahrain,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Tajikistan,3,0,Nepal,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Turkmenistan,2,1,Singapore,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Vietnam,5,0,Cambodia,False,False,,AFC Asian Cup qualification,2017
+2017-10-10,Yemen,1,1,Philippines,False,False,,AFC Asian Cup qualification,2017
+2017-10-11,India,4,1,Macau,False,False,,AFC Asian Cup qualification,2017
+2017-11-10,North Korea,4,1,Malaysia,False,False,,AFC Asian Cup qualification,2017
+2017-11-13,Malaysia,1,4,North Korea,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Bhutan,2,4,Oman,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Cambodia,0,1,Jordan,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Hong Kong,0,1,Lebanon,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,India,2,2,Myanmar,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Macau,3,4,Kyrgyzstan,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Nepal,0,0,Philippines,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Palestine,8,1,Maldives,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Singapore,0,3,Bahrain,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Tajikistan,0,0,Yemen,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Turkmenistan,2,1,Taiwan,False,False,,AFC Asian Cup qualification,2017
+2017-11-14,Vietnam,0,0,Afghanistan,False,False,,AFC Asian Cup qualification,2017
+2018-03-22,Kyrgyzstan,5,1,Myanmar,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Afghanistan,2,1,Cambodia,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Bahrain,4,0,Turkmenistan,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Myanmar,1,0,Macau,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Jordan,1,1,Vietnam,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,North Korea,2,0,Hong Kong,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Kyrgyzstan,2,1,India,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Lebanon,2,1,Malaysia,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Maldives,7,0,Bhutan,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Oman,1,0,Palestine,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Philippines,2,1,Tajikistan,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Taiwan,1,0,Singapore,False,False,,AFC Asian Cup qualification,2018
+2018-03-27,Yemen,2,1,Nepal,False,False,,AFC Asian Cup qualification,2018
+2021-10-07,Indonesia,2,1,Taiwan,False,False,,AFC Asian Cup qualification,2021
+2021-10-09,Guam,0,1,Cambodia,False,False,,AFC Asian Cup qualification,2021
+2021-10-11,Taiwan,0,3,Indonesia,False,False,,AFC Asian Cup qualification,2021
+2021-10-12,Cambodia,2,1,Guam,False,False,,AFC Asian Cup qualification,2021
+2022-06-08,Kuwait,1,2,Indonesia,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Jordan,2,0,Nepal,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Philippines,0,0,Yemen,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Mongolia,0,1,Palestine,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Thailand,3,0,Maldives,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Uzbekistan,3,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Hong Kong,2,1,Afghanistan,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,India,2,0,Cambodia,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Bahrain,2,0,Bangladesh,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Malaysia,3,1,Turkmenistan,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Tajikistan,4,0,Myanmar,False,False,,AFC Asian Cup qualification,2022
+2022-06-08,Kyrgyzstan,2,1,Singapore,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Kuwait,4,1,Nepal,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Indonesia,0,1,Jordan,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Mongolia,0,1,Philippines,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Yemen,0,5,Palestine,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Sri Lanka,0,2,Thailand,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Uzbekistan,4,0,Maldives,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Cambodia,0,3,Hong Kong,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,India,2,1,Afghanistan,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Bangladesh,1,2,Turkmenistan,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Malaysia,1,2,Bahrain,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Singapore,0,1,Tajikistan,False,False,,AFC Asian Cup qualification,2022
+2022-06-11,Kyrgyzstan,2,0,Myanmar,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Kuwait,0,3,Jordan,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Indonesia,7,0,Nepal,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Palestine,4,0,Philippines,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Mongolia,2,0,Yemen,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Maldives,1,0,Sri Lanka,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Uzbekistan,2,0,Thailand,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Afghanistan,2,2,Cambodia,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,India,4,0,Hong Kong,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Bahrain,1,0,Turkmenistan,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Malaysia,4,1,Bangladesh,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Myanmar,2,6,Singapore,False,False,,AFC Asian Cup qualification,2022
+2022-06-14,Kyrgyzstan,0,0,Tajikistan,False,False,,AFC Asian Cup qualification,2022
+2024-09-05,Sri Lanka,0,0,Cambodia,False,False,,AFC Asian Cup qualification,2024
+2024-09-05,Timor-Leste,4,1,Mongolia,False,False,,AFC Asian Cup qualification,2024
+2024-09-06,Brunei,3,0,Macau,False,False,,AFC Asian Cup qualification,2024
+2024-09-10,Cambodia,2,2,Sri Lanka,False,False,,AFC Asian Cup qualification,2024
+2024-09-10,Macau,0,1,Brunei,False,False,,AFC Asian Cup qualification,2024
+2024-09-10,Mongolia,2,0,Timor-Leste,False,False,,AFC Asian Cup qualification,2024
