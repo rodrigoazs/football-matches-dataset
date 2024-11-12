@@ -1,14 +1,14 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1965-04-25,Paraguay,2,1,Uruguay,False,False,,Copa Artigas,1965
-1965-05-01,Uruguay,4,0,Paraguay,False,False,,Copa Artigas,1965
-1966-05-15,Paraguay,2,2,Uruguay,False,False,,Copa Artigas,1966
-1966-05-18,Uruguay,3,1,Paraguay,False,False,,Copa Artigas,1966
-1968-06-02,Paraguay,0,0,Uruguay,False,False,,Copa Artigas,1968
-1975-06-12,Paraguay,0,1,Uruguay,False,False,,Copa Artigas,1975
-1975-06-19,Uruguay,0,1,Paraguay,False,False,,Copa Artigas,1975
-1977-01-12,Paraguay,1,1,Uruguay,False,False,,Copa Artigas,1977
-1977-01-23,Uruguay,2,1,Paraguay,False,False,,Copa Artigas,1977
-1983-06-02,Paraguay,0,0,Uruguay,False,False,,Copa Artigas,1983
-1983-06-09,Uruguay,3,0,Paraguay,False,False,,Copa Artigas,1983
-1985-02-03,Uruguay,1,0,Paraguay,False,False,,Copa Artigas,1985
-1985-02-10,Paraguay,1,3,Uruguay,False,False,,Copa Artigas,1985
+1965-04-25,Paraguay,2,1,Uruguay,False,,,Copa Artigas,1965
+1965-05-01,Uruguay,4,0,Paraguay,False,,,Copa Artigas,1965
+1966-05-15,Paraguay,2,2,Uruguay,False,,,Copa Artigas,1966
+1966-05-18,Uruguay,3,1,Paraguay,False,,,Copa Artigas,1966
+1968-06-02,Paraguay,0,0,Uruguay,False,,,Copa Artigas,1968
+1975-06-12,Paraguay,0,1,Uruguay,False,,,Copa Artigas,1975
+1975-06-19,Uruguay,0,1,Paraguay,False,,,Copa Artigas,1975
+1977-01-12,Paraguay,1,1,Uruguay,False,,,Copa Artigas,1977
+1977-01-23,Uruguay,2,1,Paraguay,False,,,Copa Artigas,1977
+1983-06-02,Paraguay,0,0,Uruguay,False,,,Copa Artigas,1983
+1983-06-09,Uruguay,3,0,Paraguay,False,,,Copa Artigas,1983
+1985-02-03,Uruguay,1,0,Paraguay,False,,,Copa Artigas,1985
+1985-02-10,Paraguay,1,3,Uruguay,False,,,Copa Artigas,1985

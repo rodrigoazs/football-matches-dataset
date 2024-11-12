@@ -1,7 +1,7 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1976-02-25,Paraguay,2,3,Argentina,False,False,,Copa Félix Bogado,1976
-1976-04-28,Argentina,2,2,Paraguay,False,False,,Copa Félix Bogado,1976
-1977-08-24,Argentina,2,1,Paraguay,False,False,,Copa Félix Bogado,1977
-1977-08-31,Paraguay,2,0,Argentina,False,False,,Copa Félix Bogado,1977
-1983-07-14,Paraguay,1,0,Argentina,False,False,,Copa Félix Bogado,1983
-1983-07-21,Argentina,0,0,Paraguay,False,False,,Copa Félix Bogado,1983
+1976-02-25,Paraguay,2,3,Argentina,False,,,Copa Félix Bogado,1976
+1976-04-28,Argentina,2,2,Paraguay,False,,,Copa Félix Bogado,1976
+1977-08-24,Argentina,2,1,Paraguay,False,,,Copa Félix Bogado,1977
+1977-08-31,Paraguay,2,0,Argentina,False,,,Copa Félix Bogado,1977
+1983-07-14,Paraguay,1,0,Argentina,False,,,Copa Félix Bogado,1983
+1983-07-21,Argentina,0,0,Paraguay,False,,,Copa Félix Bogado,1983

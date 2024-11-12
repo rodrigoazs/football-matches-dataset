@@ -1,142 +1,142 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1973-02-17,New Caledonia,1,2,Tahiti,True,False,,Oceania Nations Cup,1973
-1973-02-17,New Zealand,5,1,Fiji,False,False,,Oceania Nations Cup,1973
-1973-02-18,New Caledonia,4,1,Vanuatu,True,False,,Oceania Nations Cup,1973
-1973-02-18,New Zealand,1,1,Tahiti,False,False,,Oceania Nations Cup,1973
-1973-02-20,Fiji,0,2,New Caledonia,True,False,,Oceania Nations Cup,1973
-1973-02-20,Vanuatu,0,1,Tahiti,True,False,,Oceania Nations Cup,1973
-1973-02-21,Fiji,1,2,Vanuatu,True,False,,Oceania Nations Cup,1973
-1973-02-21,New Zealand,2,1,New Caledonia,False,False,,Oceania Nations Cup,1973
-1973-02-23,Fiji,0,4,Tahiti,True,False,,Oceania Nations Cup,1973
-1973-02-23,New Zealand,3,1,Vanuatu,False,False,,Oceania Nations Cup,1973
-1973-02-24,New Caledonia,2,1,Vanuatu,True,False,,Oceania Nations Cup,1973
-1973-02-24,New Zealand,2,0,Tahiti,False,False,,Oceania Nations Cup,1973
-1980-02-24,New Caledonia,0,8,Australia,False,False,,Oceania Nations Cup,1980
-1980-02-24,Vanuatu,3,4,Papua New Guinea,True,False,,Oceania Nations Cup,1980
-1980-02-25,Fiji,3,1,Solomon Islands,True,False,,Oceania Nations Cup,1980
-1980-02-25,New Zealand,1,3,Tahiti,True,False,,Oceania Nations Cup,1980
-1980-02-26,Australia,11,2,Papua New Guinea,True,False,,Oceania Nations Cup,1980
-1980-02-26,New Caledonia,4,3,Vanuatu,False,False,,Oceania Nations Cup,1980
-1980-02-27,Fiji,4,0,New Zealand,True,False,,Oceania Nations Cup,1980
-1980-02-27,Solomon Islands,1,12,Tahiti,True,False,,Oceania Nations Cup,1980
-1980-02-28,Australia,1,0,Vanuatu,True,False,,Oceania Nations Cup,1980
-1980-02-28,New Caledonia,8,0,Papua New Guinea,False,False,,Oceania Nations Cup,1980
-1980-02-29,Fiji,3,6,Tahiti,True,False,,Oceania Nations Cup,1980
-1980-02-29,New Zealand,6,1,Solomon Islands,True,False,,Oceania Nations Cup,1980
-1980-03-01,Australia,4,2,Tahiti,True,False,,Oceania Nations Cup,1980
-1980-03-01,New Caledonia,2,1,Fiji,False,False,,Oceania Nations Cup,1980
-1995-11-10,New Zealand,0,0,Australia,False,False,,Oceania Nations Cup,1995
-1995-11-15,Australia,3,0,New Zealand,False,False,,Oceania Nations Cup,1995
-1995-11-17,Solomon Islands,0,1,Tahiti,False,False,,Oceania Nations Cup,1995
-1996-05-11,Tahiti,2,1,Solomon Islands,True,False,,Oceania Nations Cup,1996
-1996-10-27,Tahiti,0,6,Australia,True,False,,Oceania Nations Cup,1996
-1996-11-01,Australia,5,0,Tahiti,False,False,,Oceania Nations Cup,1996
-1998-09-25,Australia,3,1,Fiji,False,False,,Oceania Nations Cup,1998
-1998-09-25,New Zealand,1,0,Tahiti,True,False,,Oceania Nations Cup,1998
-1998-09-28,Australia,16,0,Cook Islands,False,False,,Oceania Nations Cup,1998
-1998-09-28,New Zealand,8,1,Vanuatu,True,False,,Oceania Nations Cup,1998
-1998-09-30,Fiji,3,0,Cook Islands,True,False,,Oceania Nations Cup,1998
-1998-09-30,Tahiti,5,1,Vanuatu,True,False,,Oceania Nations Cup,1998
-1998-10-02,Australia,4,1,Tahiti,False,False,,Oceania Nations Cup,1998
-1998-10-02,New Zealand,1,0,Fiji,True,False,,Oceania Nations Cup,1998
-1998-10-04,Australia,0,1,New Zealand,False,False,,Oceania Nations Cup,1998
-1998-10-04,Tahiti,2,4,Fiji,True,False,,Oceania Nations Cup,1998
-2000-06-19,Australia,17,0,Cook Islands,True,False,,Oceania Nations Cup,2000
-2000-06-19,Tahiti,0,2,New Zealand,False,False,,Oceania Nations Cup,2000
-2000-06-21,New Zealand,3,1,Vanuatu,True,False,,Oceania Nations Cup,2000
-2000-06-21,Solomon Islands,5,1,Cook Islands,True,False,,Oceania Nations Cup,2000
-2000-06-22,Tahiti,2,3,Vanuatu,True,False,,Oceania Nations Cup,2000
-2000-06-23,Solomon Islands,0,6,Australia,True,False,,Oceania Nations Cup,2000
-2000-06-25,Australia,1,0,Vanuatu,True,False,,Oceania Nations Cup,2000
-2000-06-25,New Zealand,2,0,Solomon Islands,True,False,,Oceania Nations Cup,2000
-2000-06-28,Australia,2,0,New Zealand,True,False,,Oceania Nations Cup,2000
-2000-06-28,Vanuatu,1,2,Solomon Islands,True,False,,Oceania Nations Cup,2000
-2002-07-05,New Zealand,4,0,Tahiti,False,False,,Oceania Nations Cup,2002
-2002-07-05,Papua New Guinea,0,0,Solomon Islands,True,False,,Oceania Nations Cup,2002
-2002-07-06,Australia,2,0,Vanuatu,True,False,,Oceania Nations Cup,2002
-2002-07-06,Fiji,2,1,New Caledonia,True,False,,Oceania Nations Cup,2002
-2002-07-07,New Zealand,9,1,Papua New Guinea,False,False,,Oceania Nations Cup,2002
-2002-07-07,Solomon Islands,2,3,Tahiti,True,False,,Oceania Nations Cup,2002
-2002-07-08,Australia,11,0,New Caledonia,True,False,,Oceania Nations Cup,2002
-2002-07-08,Fiji,0,1,Vanuatu,True,False,,Oceania Nations Cup,2002
-2002-07-09,New Zealand,6,1,Solomon Islands,False,False,,Oceania Nations Cup,2002
-2002-07-09,Papua New Guinea,1,3,Tahiti,True,False,,Oceania Nations Cup,2002
-2002-07-10,Australia,8,0,Fiji,True,False,,Oceania Nations Cup,2002
-2002-07-10,New Caledonia,0,1,Vanuatu,True,False,,Oceania Nations Cup,2002
-2002-07-12,Australia,2,1,Tahiti,True,False,,Oceania Nations Cup,2002
-2002-07-12,New Zealand,3,0,Vanuatu,False,False,,Oceania Nations Cup,2002
-2002-07-14,New Zealand,1,0,Australia,False,False,,Oceania Nations Cup,2002
-2002-07-14,Tahiti,1,0,Vanuatu,True,False,,Oceania Nations Cup,2002
-2004-05-29,Australia,1,0,New Zealand,False,False,,Oceania Nations Cup,2004
-2004-05-29,Tahiti,0,0,Fiji,True,False,,Oceania Nations Cup,2004
-2004-05-29,Vanuatu,0,1,Solomon Islands,True,False,,Oceania Nations Cup,2004
-2004-05-31,Australia,9,0,Tahiti,False,False,,Oceania Nations Cup,2004
-2004-05-31,Fiji,1,0,Vanuatu,True,False,,Oceania Nations Cup,2004
-2004-05-31,New Zealand,3,0,Solomon Islands,True,False,,Oceania Nations Cup,2004
-2004-06-02,Australia,6,1,Fiji,False,False,,Oceania Nations Cup,2004
-2004-06-02,New Zealand,2,4,Vanuatu,True,False,,Oceania Nations Cup,2004
-2004-06-02,Tahiti,0,4,Solomon Islands,True,False,,Oceania Nations Cup,2004
-2004-06-04,Australia,3,0,Vanuatu,False,False,,Oceania Nations Cup,2004
-2004-06-04,Fiji,1,2,Solomon Islands,True,False,,Oceania Nations Cup,2004
-2004-06-04,New Zealand,10,0,Tahiti,True,False,,Oceania Nations Cup,2004
-2004-06-06,Australia,2,2,Solomon Islands,False,False,,Oceania Nations Cup,2004
-2004-06-06,Fiji,0,2,New Zealand,True,False,,Oceania Nations Cup,2004
-2004-06-06,Tahiti,2,1,Vanuatu,True,False,,Oceania Nations Cup,2004
-2004-10-09,Solomon Islands,1,5,Australia,False,False,,Oceania Nations Cup,2004
-2004-10-12,Australia,6,0,Solomon Islands,False,False,,Oceania Nations Cup,2004
-2007-10-17,Fiji,0,2,New Zealand,False,False,,Oceania Nations Cup,2007
-2007-11-17,Fiji,3,3,New Caledonia,False,False,,Oceania Nations Cup,2007
-2007-11-17,Vanuatu,1,2,New Zealand,False,False,,Oceania Nations Cup,2007
-2007-11-21,New Caledonia,4,0,Fiji,False,False,,Oceania Nations Cup,2007
-2007-11-21,New Zealand,4,1,Vanuatu,False,False,,Oceania Nations Cup,2007
-2008-06-14,Vanuatu,1,1,New Caledonia,False,False,,Oceania Nations Cup,2008
-2008-06-21,New Caledonia,3,0,Vanuatu,False,False,,Oceania Nations Cup,2008
-2008-09-06,Fiji,2,0,Vanuatu,False,False,,Oceania Nations Cup,2008
-2008-09-06,New Caledonia,1,3,New Zealand,False,False,,Oceania Nations Cup,2008
-2008-09-10,New Zealand,3,0,New Caledonia,False,False,,Oceania Nations Cup,2008
-2008-09-10,Vanuatu,2,1,Fiji,False,False,,Oceania Nations Cup,2008
-2008-11-19,Fiji,2,0,New Zealand,False,False,,Oceania Nations Cup,2008
-2012-06-01,Samoa,1,10,Tahiti,True,False,,Oceania Nations Cup,2012
-2012-06-01,Vanuatu,2,5,New Caledonia,True,False,,Oceania Nations Cup,2012
-2012-06-02,Fiji,0,1,New Zealand,True,False,,Oceania Nations Cup,2012
-2012-06-02,Solomon Islands,1,0,Papua New Guinea,False,False,,Oceania Nations Cup,2012
-2012-06-03,Tahiti,4,3,New Caledonia,True,False,,Oceania Nations Cup,2012
-2012-06-03,Vanuatu,5,0,Samoa,True,False,,Oceania Nations Cup,2012
-2012-06-04,Papua New Guinea,1,2,New Zealand,True,False,,Oceania Nations Cup,2012
-2012-06-04,Solomon Islands,0,0,Fiji,False,False,,Oceania Nations Cup,2012
-2012-06-05,New Caledonia,9,0,Samoa,True,False,,Oceania Nations Cup,2012
-2012-06-05,Tahiti,4,1,Vanuatu,True,False,,Oceania Nations Cup,2012
-2012-06-06,Papua New Guinea,1,1,Fiji,True,False,,Oceania Nations Cup,2012
-2012-06-06,Solomon Islands,1,1,New Zealand,False,False,,Oceania Nations Cup,2012
-2012-06-08,New Zealand,0,2,New Caledonia,True,False,,Oceania Nations Cup,2012
-2012-06-08,Solomon Islands,0,1,Tahiti,False,False,,Oceania Nations Cup,2012
-2012-06-10,Solomon Islands,3,4,New Zealand,False,False,,Oceania Nations Cup,2012
-2012-06-10,Tahiti,1,0,New Caledonia,True,False,,Oceania Nations Cup,2012
-2016-05-28,New Zealand,3,1,Fiji,True,False,,Oceania Nations Cup,2016
-2016-05-28,Vanuatu,0,1,Solomon Islands,True,False,,Oceania Nations Cup,2016
-2016-05-29,Papua New Guinea,1,1,New Caledonia,False,False,,Oceania Nations Cup,2016
-2016-05-29,Tahiti,4,0,Samoa,True,False,,Oceania Nations Cup,2016
-2016-05-31,Solomon Islands,0,1,Fiji,True,False,,Oceania Nations Cup,2016
-2016-05-31,Vanuatu,0,5,New Zealand,True,False,,Oceania Nations Cup,2016
-2016-06-01,New Caledonia,7,0,Samoa,True,False,,Oceania Nations Cup,2016
-2016-06-01,Papua New Guinea,2,2,Tahiti,False,False,,Oceania Nations Cup,2016
-2016-06-04,Fiji,2,3,Vanuatu,True,False,,Oceania Nations Cup,2016
-2016-06-04,New Zealand,1,0,Solomon Islands,True,False,,Oceania Nations Cup,2016
-2016-06-05,Papua New Guinea,8,0,Samoa,False,False,,Oceania Nations Cup,2016
-2016-06-05,Tahiti,1,1,New Caledonia,True,False,,Oceania Nations Cup,2016
-2016-06-08,New Zealand,1,0,New Caledonia,True,False,,Oceania Nations Cup,2016
-2016-06-08,Papua New Guinea,2,1,Solomon Islands,False,False,,Oceania Nations Cup,2016
-2016-06-11,Papua New Guinea,0,0,New Zealand,False,False,,Oceania Nations Cup,2016
-2024-06-15,Vanuatu,1,0,Solomon Islands,False,False,,Oceania Nations Cup,2024
-2024-06-16,Tahiti,2,0,Samoa,True,False,,Oceania Nations Cup,2024
-2024-06-16,Fiji,5,1,Papua New Guinea,False,False,,Oceania Nations Cup,2024
-2024-06-18,New Zealand,3,0,Solomon Islands,True,False,,Oceania Nations Cup,2024
-2024-06-19,Papua New Guinea,1,1,Tahiti,True,False,,Oceania Nations Cup,2024
-2024-06-19,Fiji,9,1,Samoa,False,False,,Oceania Nations Cup,2024
-2024-06-21,Vanuatu,0,4,New Zealand,False,False,,Oceania Nations Cup,2024
-2024-06-22,Samoa,1,2,Papua New Guinea,True,False,,Oceania Nations Cup,2024
-2024-06-22,Fiji,1,0,Tahiti,False,False,,Oceania Nations Cup,2024
-2024-06-27,Vanuatu,2,1,Fiji,False,False,,Oceania Nations Cup,2024
-2024-06-27,New Zealand,5,0,Tahiti,True,False,,Oceania Nations Cup,2024
-2024-06-30,Tahiti,2,1,Fiji,True,False,,Oceania Nations Cup,2024
-2024-06-30,Vanuatu,0,3,New Zealand,False,False,,Oceania Nations Cup,2024
+1973-02-17,New Caledonia,1,2,Tahiti,True,,,Oceania Nations Cup,1973
+1973-02-17,New Zealand,5,1,Fiji,False,,,Oceania Nations Cup,1973
+1973-02-18,New Caledonia,4,1,Vanuatu,True,,,Oceania Nations Cup,1973
+1973-02-18,New Zealand,1,1,Tahiti,False,,,Oceania Nations Cup,1973
+1973-02-20,Fiji,0,2,New Caledonia,True,,,Oceania Nations Cup,1973
+1973-02-20,Vanuatu,0,1,Tahiti,True,,,Oceania Nations Cup,1973
+1973-02-21,Fiji,1,2,Vanuatu,True,,,Oceania Nations Cup,1973
+1973-02-21,New Zealand,2,1,New Caledonia,False,,,Oceania Nations Cup,1973
+1973-02-23,Fiji,0,4,Tahiti,True,,,Oceania Nations Cup,1973
+1973-02-23,New Zealand,3,1,Vanuatu,False,,,Oceania Nations Cup,1973
+1973-02-24,New Caledonia,2,1,Vanuatu,True,,,Oceania Nations Cup,1973
+1973-02-24,New Zealand,2,0,Tahiti,False,,,Oceania Nations Cup,1973
+1980-02-24,New Caledonia,0,8,Australia,False,,,Oceania Nations Cup,1980
+1980-02-24,Vanuatu,3,4,Papua New Guinea,True,,,Oceania Nations Cup,1980
+1980-02-25,Fiji,3,1,Solomon Islands,True,,,Oceania Nations Cup,1980
+1980-02-25,New Zealand,1,3,Tahiti,True,,,Oceania Nations Cup,1980
+1980-02-26,Australia,11,2,Papua New Guinea,True,,,Oceania Nations Cup,1980
+1980-02-26,New Caledonia,4,3,Vanuatu,False,,,Oceania Nations Cup,1980
+1980-02-27,Fiji,4,0,New Zealand,True,,,Oceania Nations Cup,1980
+1980-02-27,Solomon Islands,1,12,Tahiti,True,,,Oceania Nations Cup,1980
+1980-02-28,Australia,1,0,Vanuatu,True,,,Oceania Nations Cup,1980
+1980-02-28,New Caledonia,8,0,Papua New Guinea,False,,,Oceania Nations Cup,1980
+1980-02-29,Fiji,3,6,Tahiti,True,,,Oceania Nations Cup,1980
+1980-02-29,New Zealand,6,1,Solomon Islands,True,,,Oceania Nations Cup,1980
+1980-03-01,Australia,4,2,Tahiti,True,,,Oceania Nations Cup,1980
+1980-03-01,New Caledonia,2,1,Fiji,False,,,Oceania Nations Cup,1980
+1995-11-10,New Zealand,0,0,Australia,False,,,Oceania Nations Cup,1995
+1995-11-15,Australia,3,0,New Zealand,False,,,Oceania Nations Cup,1995
+1995-11-17,Solomon Islands,0,1,Tahiti,False,,,Oceania Nations Cup,1995
+1996-05-11,Tahiti,2,1,Solomon Islands,True,,,Oceania Nations Cup,1996
+1996-10-27,Tahiti,0,6,Australia,True,,,Oceania Nations Cup,1996
+1996-11-01,Australia,5,0,Tahiti,False,,,Oceania Nations Cup,1996
+1998-09-25,Australia,3,1,Fiji,False,,,Oceania Nations Cup,1998
+1998-09-25,New Zealand,1,0,Tahiti,True,,,Oceania Nations Cup,1998
+1998-09-28,Australia,16,0,Cook Islands,False,,,Oceania Nations Cup,1998
+1998-09-28,New Zealand,8,1,Vanuatu,True,,,Oceania Nations Cup,1998
+1998-09-30,Fiji,3,0,Cook Islands,True,,,Oceania Nations Cup,1998
+1998-09-30,Tahiti,5,1,Vanuatu,True,,,Oceania Nations Cup,1998
+1998-10-02,Australia,4,1,Tahiti,False,,,Oceania Nations Cup,1998
+1998-10-02,New Zealand,1,0,Fiji,True,,,Oceania Nations Cup,1998
+1998-10-04,Australia,0,1,New Zealand,False,,,Oceania Nations Cup,1998
+1998-10-04,Tahiti,2,4,Fiji,True,,,Oceania Nations Cup,1998
+2000-06-19,Australia,17,0,Cook Islands,True,,,Oceania Nations Cup,2000
+2000-06-19,Tahiti,0,2,New Zealand,False,,,Oceania Nations Cup,2000
+2000-06-21,New Zealand,3,1,Vanuatu,True,,,Oceania Nations Cup,2000
+2000-06-21,Solomon Islands,5,1,Cook Islands,True,,,Oceania Nations Cup,2000
+2000-06-22,Tahiti,2,3,Vanuatu,True,,,Oceania Nations Cup,2000
+2000-06-23,Solomon Islands,0,6,Australia,True,,,Oceania Nations Cup,2000
+2000-06-25,Australia,1,0,Vanuatu,True,,,Oceania Nations Cup,2000
+2000-06-25,New Zealand,2,0,Solomon Islands,True,,,Oceania Nations Cup,2000
+2000-06-28,Australia,2,0,New Zealand,True,,,Oceania Nations Cup,2000
+2000-06-28,Vanuatu,1,2,Solomon Islands,True,,,Oceania Nations Cup,2000
+2002-07-05,New Zealand,4,0,Tahiti,False,,,Oceania Nations Cup,2002
+2002-07-05,Papua New Guinea,0,0,Solomon Islands,True,,,Oceania Nations Cup,2002
+2002-07-06,Australia,2,0,Vanuatu,True,,,Oceania Nations Cup,2002
+2002-07-06,Fiji,2,1,New Caledonia,True,,,Oceania Nations Cup,2002
+2002-07-07,New Zealand,9,1,Papua New Guinea,False,,,Oceania Nations Cup,2002
+2002-07-07,Solomon Islands,2,3,Tahiti,True,,,Oceania Nations Cup,2002
+2002-07-08,Australia,11,0,New Caledonia,True,,,Oceania Nations Cup,2002
+2002-07-08,Fiji,0,1,Vanuatu,True,,,Oceania Nations Cup,2002
+2002-07-09,New Zealand,6,1,Solomon Islands,False,,,Oceania Nations Cup,2002
+2002-07-09,Papua New Guinea,1,3,Tahiti,True,,,Oceania Nations Cup,2002
+2002-07-10,Australia,8,0,Fiji,True,,,Oceania Nations Cup,2002
+2002-07-10,New Caledonia,0,1,Vanuatu,True,,,Oceania Nations Cup,2002
+2002-07-12,Australia,2,1,Tahiti,True,,,Oceania Nations Cup,2002
+2002-07-12,New Zealand,3,0,Vanuatu,False,,,Oceania Nations Cup,2002
+2002-07-14,New Zealand,1,0,Australia,False,,,Oceania Nations Cup,2002
+2002-07-14,Tahiti,1,0,Vanuatu,True,,,Oceania Nations Cup,2002
+2004-05-29,Australia,1,0,New Zealand,False,,,Oceania Nations Cup,2004
+2004-05-29,Tahiti,0,0,Fiji,True,,,Oceania Nations Cup,2004
+2004-05-29,Vanuatu,0,1,Solomon Islands,True,,,Oceania Nations Cup,2004
+2004-05-31,Australia,9,0,Tahiti,False,,,Oceania Nations Cup,2004
+2004-05-31,Fiji,1,0,Vanuatu,True,,,Oceania Nations Cup,2004
+2004-05-31,New Zealand,3,0,Solomon Islands,True,,,Oceania Nations Cup,2004
+2004-06-02,Australia,6,1,Fiji,False,,,Oceania Nations Cup,2004
+2004-06-02,New Zealand,2,4,Vanuatu,True,,,Oceania Nations Cup,2004
+2004-06-02,Tahiti,0,4,Solomon Islands,True,,,Oceania Nations Cup,2004
+2004-06-04,Australia,3,0,Vanuatu,False,,,Oceania Nations Cup,2004
+2004-06-04,Fiji,1,2,Solomon Islands,True,,,Oceania Nations Cup,2004
+2004-06-04,New Zealand,10,0,Tahiti,True,,,Oceania Nations Cup,2004
+2004-06-06,Australia,2,2,Solomon Islands,False,,,Oceania Nations Cup,2004
+2004-06-06,Fiji,0,2,New Zealand,True,,,Oceania Nations Cup,2004
+2004-06-06,Tahiti,2,1,Vanuatu,True,,,Oceania Nations Cup,2004
+2004-10-09,Solomon Islands,1,5,Australia,False,,,Oceania Nations Cup,2004
+2004-10-12,Australia,6,0,Solomon Islands,False,,,Oceania Nations Cup,2004
+2007-10-17,Fiji,0,2,New Zealand,False,,,Oceania Nations Cup,2007
+2007-11-17,Fiji,3,3,New Caledonia,False,,,Oceania Nations Cup,2007
+2007-11-17,Vanuatu,1,2,New Zealand,False,,,Oceania Nations Cup,2007
+2007-11-21,New Caledonia,4,0,Fiji,False,,,Oceania Nations Cup,2007
+2007-11-21,New Zealand,4,1,Vanuatu,False,,,Oceania Nations Cup,2007
+2008-06-14,Vanuatu,1,1,New Caledonia,False,,,Oceania Nations Cup,2008
+2008-06-21,New Caledonia,3,0,Vanuatu,False,,,Oceania Nations Cup,2008
+2008-09-06,Fiji,2,0,Vanuatu,False,,,Oceania Nations Cup,2008
+2008-09-06,New Caledonia,1,3,New Zealand,False,,,Oceania Nations Cup,2008
+2008-09-10,New Zealand,3,0,New Caledonia,False,,,Oceania Nations Cup,2008
+2008-09-10,Vanuatu,2,1,Fiji,False,,,Oceania Nations Cup,2008
+2008-11-19,Fiji,2,0,New Zealand,False,,,Oceania Nations Cup,2008
+2012-06-01,Samoa,1,10,Tahiti,True,,,Oceania Nations Cup,2012
+2012-06-01,Vanuatu,2,5,New Caledonia,True,,,Oceania Nations Cup,2012
+2012-06-02,Fiji,0,1,New Zealand,True,,,Oceania Nations Cup,2012
+2012-06-02,Solomon Islands,1,0,Papua New Guinea,False,,,Oceania Nations Cup,2012
+2012-06-03,Tahiti,4,3,New Caledonia,True,,,Oceania Nations Cup,2012
+2012-06-03,Vanuatu,5,0,Samoa,True,,,Oceania Nations Cup,2012
+2012-06-04,Papua New Guinea,1,2,New Zealand,True,,,Oceania Nations Cup,2012
+2012-06-04,Solomon Islands,0,0,Fiji,False,,,Oceania Nations Cup,2012
+2012-06-05,New Caledonia,9,0,Samoa,True,,,Oceania Nations Cup,2012
+2012-06-05,Tahiti,4,1,Vanuatu,True,,,Oceania Nations Cup,2012
+2012-06-06,Papua New Guinea,1,1,Fiji,True,,,Oceania Nations Cup,2012
+2012-06-06,Solomon Islands,1,1,New Zealand,False,,,Oceania Nations Cup,2012
+2012-06-08,New Zealand,0,2,New Caledonia,True,,,Oceania Nations Cup,2012
+2012-06-08,Solomon Islands,0,1,Tahiti,False,,,Oceania Nations Cup,2012
+2012-06-10,Solomon Islands,3,4,New Zealand,False,,,Oceania Nations Cup,2012
+2012-06-10,Tahiti,1,0,New Caledonia,True,,,Oceania Nations Cup,2012
+2016-05-28,New Zealand,3,1,Fiji,True,,,Oceania Nations Cup,2016
+2016-05-28,Vanuatu,0,1,Solomon Islands,True,,,Oceania Nations Cup,2016
+2016-05-29,Papua New Guinea,1,1,New Caledonia,False,,,Oceania Nations Cup,2016
+2016-05-29,Tahiti,4,0,Samoa,True,,,Oceania Nations Cup,2016
+2016-05-31,Solomon Islands,0,1,Fiji,True,,,Oceania Nations Cup,2016
+2016-05-31,Vanuatu,0,5,New Zealand,True,,,Oceania Nations Cup,2016
+2016-06-01,New Caledonia,7,0,Samoa,True,,,Oceania Nations Cup,2016
+2016-06-01,Papua New Guinea,2,2,Tahiti,False,,,Oceania Nations Cup,2016
+2016-06-04,Fiji,2,3,Vanuatu,True,,,Oceania Nations Cup,2016
+2016-06-04,New Zealand,1,0,Solomon Islands,True,,,Oceania Nations Cup,2016
+2016-06-05,Papua New Guinea,8,0,Samoa,False,,,Oceania Nations Cup,2016
+2016-06-05,Tahiti,1,1,New Caledonia,True,,,Oceania Nations Cup,2016
+2016-06-08,New Zealand,1,0,New Caledonia,True,,,Oceania Nations Cup,2016
+2016-06-08,Papua New Guinea,2,1,Solomon Islands,False,,,Oceania Nations Cup,2016
+2016-06-11,Papua New Guinea,0,0,New Zealand,False,,,Oceania Nations Cup,2016
+2024-06-15,Vanuatu,1,0,Solomon Islands,False,,,Oceania Nations Cup,2024
+2024-06-16,Tahiti,2,0,Samoa,True,,,Oceania Nations Cup,2024
+2024-06-16,Fiji,5,1,Papua New Guinea,False,,,Oceania Nations Cup,2024
+2024-06-18,New Zealand,3,0,Solomon Islands,True,,,Oceania Nations Cup,2024
+2024-06-19,Papua New Guinea,1,1,Tahiti,True,,,Oceania Nations Cup,2024
+2024-06-19,Fiji,9,1,Samoa,False,,,Oceania Nations Cup,2024
+2024-06-21,Vanuatu,0,4,New Zealand,False,,,Oceania Nations Cup,2024
+2024-06-22,Samoa,1,2,Papua New Guinea,True,,,Oceania Nations Cup,2024
+2024-06-22,Fiji,1,0,Tahiti,False,,,Oceania Nations Cup,2024
+2024-06-27,Vanuatu,2,1,Fiji,False,,,Oceania Nations Cup,2024
+2024-06-27,New Zealand,5,0,Tahiti,True,,,Oceania Nations Cup,2024
+2024-06-30,Tahiti,2,1,Fiji,True,,,Oceania Nations Cup,2024
+2024-06-30,Vanuatu,0,3,New Zealand,False,,,Oceania Nations Cup,2024

@@ -1,18 +1,18 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2018-06-01,India,5,0,Taiwan,False,False,,Intercontinental Cup,2018
-2018-06-02,Kenya,2,1,New Zealand,True,False,,Intercontinental Cup,2018
-2018-06-04,India,3,0,Kenya,False,False,,Intercontinental Cup,2018
-2018-06-05,Taiwan,0,1,New Zealand,True,False,,Intercontinental Cup,2018
-2018-06-07,India,1,2,New Zealand,False,False,,Intercontinental Cup,2018
-2018-06-08,Taiwan,0,4,Kenya,True,False,,Intercontinental Cup,2018
-2018-06-10,India,2,0,Kenya,False,False,,Intercontinental Cup,2018
-2019-07-07,India,2,4,Tajikistan,False,False,,Intercontinental Cup,2019
-2019-07-08,Syria,5,2,North Korea,True,False,,Intercontinental Cup,2019
-2019-07-10,Tajikistan,2,0,Syria,True,False,,Intercontinental Cup,2019
-2019-07-13,India,2,5,North Korea,False,False,,Intercontinental Cup,2019
-2019-07-15,North Korea,1,0,Tajikistan,True,False,,Intercontinental Cup,2019
-2019-07-16,India,1,1,Syria,False,False,,Intercontinental Cup,2019
-2019-07-19,Tajikistan,0,1,North Korea,True,False,,Intercontinental Cup,2019
-2024-09-03,India,0,0,Mauritius,False,False,,Intercontinental Cup,2024
-2024-09-06,Syria,2,0,Mauritius,True,False,,Intercontinental Cup,2024
-2024-09-09,India,0,3,Syria,False,False,,Intercontinental Cup,2024
+2018-06-01,India,5,0,Taiwan,False,,,Intercontinental Cup,2018
+2018-06-02,Kenya,2,1,New Zealand,True,,,Intercontinental Cup,2018
+2018-06-04,India,3,0,Kenya,False,,,Intercontinental Cup,2018
+2018-06-05,Taiwan,0,1,New Zealand,True,,,Intercontinental Cup,2018
+2018-06-07,India,1,2,New Zealand,False,,,Intercontinental Cup,2018
+2018-06-08,Taiwan,0,4,Kenya,True,,,Intercontinental Cup,2018
+2018-06-10,India,2,0,Kenya,False,,,Intercontinental Cup,2018
+2019-07-07,India,2,4,Tajikistan,False,,,Intercontinental Cup,2019
+2019-07-08,Syria,5,2,North Korea,True,,,Intercontinental Cup,2019
+2019-07-10,Tajikistan,2,0,Syria,True,,,Intercontinental Cup,2019
+2019-07-13,India,2,5,North Korea,False,,,Intercontinental Cup,2019
+2019-07-15,North Korea,1,0,Tajikistan,True,,,Intercontinental Cup,2019
+2019-07-16,India,1,1,Syria,False,,,Intercontinental Cup,2019
+2019-07-19,Tajikistan,0,1,North Korea,True,,,Intercontinental Cup,2019
+2024-09-03,India,0,0,Mauritius,False,,,Intercontinental Cup,2024
+2024-09-06,Syria,2,0,Mauritius,True,,,Intercontinental Cup,2024
+2024-09-09,India,0,3,Syria,False,,,Intercontinental Cup,2024

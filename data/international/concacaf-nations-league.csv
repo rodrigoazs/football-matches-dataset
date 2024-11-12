@@ -1,389 +1,389 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2019-09-05,Bermuda,1,4,Panama,False,False,,CONCACAF Nations League,2019
-2019-09-05,Grenada,2,1,Saint Kitts and Nevis,False,False,,CONCACAF Nations League,2019
-2019-09-05,French Guiana,3,0,Belize,False,False,,CONCACAF Nations League,2019
-2019-09-05,Dominica,1,2,Suriname,False,False,,CONCACAF Nations League,2019
-2019-09-05,United States Virgin Islands,0,2,Cayman Islands,False,False,,CONCACAF Nations League,2019
-2019-09-05,Barbados,4,0,Saint Martin,False,False,,CONCACAF Nations League,2019
-2019-09-05,Guatemala,10,0,Anguilla,False,False,,CONCACAF Nations League,2019
-2019-09-06,Martinique,1,1,Trinidad and Tobago,False,False,,CONCACAF Nations League,2019
-2019-09-06,Aruba,0,1,Guyana,True,False,,CONCACAF Nations League,2019
-2019-09-06,Jamaica,6,0,Antigua and Barbuda,False,False,,CONCACAF Nations League,2019
-2019-09-06,Nicaragua,1,1,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2019
-2019-09-06,Bonaire,4,2,British Virgin Islands,True,False,,CONCACAF Nations League,2019
-2019-09-07,Canada,6,0,Cuba,False,False,,CONCACAF Nations League,2019
-2019-09-07,Curaçao,1,0,Haiti,False,False,,CONCACAF Nations League,2019
-2019-09-07,Montserrat,2,1,Dominican Republic,False,False,,CONCACAF Nations League,2019
-2019-09-07,El Salvador,3,0,Saint Lucia,False,False,,CONCACAF Nations League,2019
-2019-09-07,Guadeloupe,5,1,Sint Maarten,False,False,,CONCACAF Nations League,2019
-2019-09-08,Panama,0,2,Bermuda,False,False,,CONCACAF Nations League,2019
-2019-09-08,Belize,1,2,Grenada,False,False,,CONCACAF Nations League,2019
-2019-09-08,Saint Kitts and Nevis,2,2,French Guiana,False,False,,CONCACAF Nations League,2019
-2019-09-08,Saint Vincent and the Grenadines,1,0,Dominica,False,False,,CONCACAF Nations League,2019
-2019-09-08,Suriname,6,0,Nicaragua,False,False,,CONCACAF Nations League,2019
-2019-09-08,Saint Martin,1,2,United States Virgin Islands,True,False,,CONCACAF Nations League,2019
-2019-09-08,Cayman Islands,3,2,Barbados,False,False,,CONCACAF Nations League,2019
-2019-09-09,Trinidad and Tobago,2,2,Martinique,False,False,,CONCACAF Nations League,2019
-2019-09-09,Antigua and Barbuda,2,1,Aruba,False,False,,CONCACAF Nations League,2019
-2019-09-09,Guyana,0,4,Jamaica,False,False,,CONCACAF Nations League,2019
-2019-09-09,Bahamas,2,1,Bonaire,False,False,,CONCACAF Nations League,2019
-2019-09-10,Cuba,0,1,Canada,True,False,,CONCACAF Nations League,2019
-2019-09-10,Haiti,1,1,Curaçao,False,False,,CONCACAF Nations League,2019
-2019-09-10,Montserrat,1,1,Saint Lucia,False,False,,CONCACAF Nations League,2019
-2019-09-10,Dominican Republic,1,0,El Salvador,False,False,,CONCACAF Nations League,2019
-2019-09-10,Puerto Rico,0,5,Guatemala,False,False,,CONCACAF Nations League,2019
-2019-09-10,Turks and Caicos Islands,0,3,Guadeloupe,False,False,,CONCACAF Nations League,2019
-2019-10-10,Trinidad and Tobago,0,2,Honduras,False,False,,CONCACAF Nations League,2019
-2019-10-10,Haiti,1,1,Costa Rica,False,False,,CONCACAF Nations League,2019
-2019-10-10,Belize,0,4,Saint Kitts and Nevis,False,False,,CONCACAF Nations League,2019
-2019-10-10,French Guiana,0,0,Grenada,False,False,,CONCACAF Nations League,2019
-2019-10-10,British Virgin Islands,0,4,Bahamas,True,False,,CONCACAF Nations League,2019
-2019-10-10,Sint Maarten,2,5,Turks and Caicos Islands,True,False,,CONCACAF Nations League,2019
-2019-10-11,United States,7,0,Cuba,False,False,,CONCACAF Nations League,2019
-2019-10-11,Bermuda,1,5,Mexico,False,False,,CONCACAF Nations League,2019
-2019-10-11,Antigua and Barbuda,2,1,Guyana,False,False,,CONCACAF Nations League,2019
-2019-10-11,Saint Vincent and the Grenadines,2,2,Suriname,False,False,,CONCACAF Nations League,2019
-2019-10-11,Nicaragua,3,1,Dominica,False,False,,CONCACAF Nations League,2019
-2019-10-12,Dominican Republic,3,0,Saint Lucia,False,False,,CONCACAF Nations League,2019
-2019-10-12,Montserrat,0,2,El Salvador,False,False,,CONCACAF Nations League,2019
-2019-10-12,Jamaica,2,0,Aruba,False,False,,CONCACAF Nations League,2019
-2019-10-12,Barbados,1,0,United States Virgin Islands,False,False,,CONCACAF Nations League,2019
-2019-10-12,Saint Martin,3,0,Cayman Islands,True,False,,CONCACAF Nations League,2019
-2019-10-12,Anguilla,0,5,Guatemala,False,False,,CONCACAF Nations League,2019
-2019-10-13,Honduras,1,0,Martinique,False,False,,CONCACAF Nations League,2019
-2019-10-13,Costa Rica,0,0,Curaçao,False,False,,CONCACAF Nations League,2019
-2019-10-13,Saint Kitts and Nevis,0,1,Belize,False,False,,CONCACAF Nations League,2019
-2019-10-13,Grenada,1,0,French Guiana,False,False,,CONCACAF Nations League,2019
-2019-10-13,British Virgin Islands,3,4,Bonaire,True,False,,CONCACAF Nations League,2019
-2019-10-14,Guyana,5,1,Antigua and Barbuda,False,False,,CONCACAF Nations League,2019
-2019-10-14,Dominica,0,4,Nicaragua,False,False,,CONCACAF Nations League,2019
-2019-10-14,Suriname,0,1,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2019
-2019-10-14,Sint Maarten,1,2,Guadeloupe,True,False,,CONCACAF Nations League,2019
-2019-10-15,Canada,2,0,United States,False,False,,CONCACAF Nations League,2019
-2019-10-15,Mexico,3,1,Panama,False,False,,CONCACAF Nations League,2019
-2019-10-15,Dominican Republic,0,0,Montserrat,False,False,,CONCACAF Nations League,2019
-2019-10-15,Saint Lucia,0,2,El Salvador,False,False,,CONCACAF Nations League,2019
-2019-10-15,Aruba,0,6,Jamaica,True,False,,CONCACAF Nations League,2019
-2019-10-15,Cayman Islands,1,0,Saint Martin,False,False,,CONCACAF Nations League,2019
-2019-10-15,United States Virgin Islands,0,4,Barbados,False,False,,CONCACAF Nations League,2019
-2019-10-15,Anguilla,2,3,Puerto Rico,False,False,,CONCACAF Nations League,2019
-2019-11-14,Martinique,1,1,Honduras,False,False,,CONCACAF Nations League,2019
-2019-11-14,Curaçao,1,2,Costa Rica,False,False,,CONCACAF Nations League,2019
-2019-11-14,Saint Kitts and Nevis,0,0,Grenada,False,False,,CONCACAF Nations League,2019
-2019-11-14,Belize,2,0,French Guiana,False,False,,CONCACAF Nations League,2019
-2019-11-14,Bahamas,3,0,British Virgin Islands,False,False,,CONCACAF Nations League,2019
-2019-11-14,Turks and Caicos Islands,3,2,Sint Maarten,False,False,,CONCACAF Nations League,2019
-2019-11-15,United States,4,1,Canada,False,False,,CONCACAF Nations League,2019
-2019-11-15,Panama,0,3,Mexico,False,False,,CONCACAF Nations League,2019
-2019-11-15,Antigua and Barbuda,0,2,Jamaica,False,False,,CONCACAF Nations League,2019
-2019-11-15,Guyana,4,2,Aruba,False,False,,CONCACAF Nations League,2019
-2019-11-15,Saint Vincent and the Grenadines,1,0,Nicaragua,False,False,,CONCACAF Nations League,2019
-2019-11-15,Suriname,4,0,Dominica,False,False,,CONCACAF Nations League,2019
-2019-11-16,Saint Lucia,1,0,Dominican Republic,False,False,,CONCACAF Nations League,2019
-2019-11-16,El Salvador,1,0,Montserrat,False,False,,CONCACAF Nations League,2019
-2019-11-16,Saint Martin,1,0,Barbados,True,False,,CONCACAF Nations League,2019
-2019-11-16,Cayman Islands,1,0,United States Virgin Islands,False,False,,CONCACAF Nations League,2019
-2019-11-16,Guatemala,5,0,Puerto Rico,False,False,,CONCACAF Nations League,2019
-2019-11-17,Honduras,4,0,Trinidad and Tobago,False,False,,CONCACAF Nations League,2019
-2019-11-17,Costa Rica,1,1,Haiti,False,False,,CONCACAF Nations League,2019
-2019-11-17,Grenada,3,2,Belize,False,False,,CONCACAF Nations League,2019
-2019-11-17,French Guiana,3,1,Saint Kitts and Nevis,False,False,,CONCACAF Nations League,2019
-2019-11-17,Bonaire,1,1,Bahamas,True,False,,CONCACAF Nations League,2019
-2019-11-17,Guadeloupe,10,0,Turks and Caicos Islands,False,False,,CONCACAF Nations League,2019
-2019-11-18,Jamaica,1,1,Guyana,False,False,,CONCACAF Nations League,2019
-2019-11-18,Aruba,2,3,Antigua and Barbuda,False,False,,CONCACAF Nations League,2019
-2019-11-18,Nicaragua,1,2,Suriname,False,False,,CONCACAF Nations League,2019
-2019-11-18,Dominica,1,0,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2019
-2019-11-19,Cuba,0,4,United States,True,False,,CONCACAF Nations League,2019
-2019-11-19,Mexico,2,1,Bermuda,False,False,,CONCACAF Nations League,2019
-2019-11-19,El Salvador,2,0,Dominican Republic,False,False,,CONCACAF Nations League,2019
-2019-11-19,Saint Lucia,0,1,Montserrat,False,False,,CONCACAF Nations League,2019
-2019-11-19,Barbados,3,0,Cayman Islands,False,False,,CONCACAF Nations League,2019
-2019-11-19,United States Virgin Islands,1,2,Saint Martin,False,False,,CONCACAF Nations League,2019
-2019-11-19,Puerto Rico,3,0,Anguilla,False,False,,CONCACAF Nations League,2019
-2021-06-03,Mexico,0,0,Costa Rica,True,False,,CONCACAF Nations League,2021
-2021-06-03,United States,1,0,Honduras,False,False,,CONCACAF Nations League,2021
-2021-06-06,Honduras,2,2,Costa Rica,True,False,,CONCACAF Nations League,2021
-2021-06-06,United States,3,2,Mexico,False,False,,CONCACAF Nations League,2021
-2022-06-02,Panama,2,0,Costa Rica,False,False,,CONCACAF Nations League,2022
-2022-06-02,Barbados,0,1,Antigua and Barbuda,True,False,,CONCACAF Nations League,2022
-2022-06-02,Guadeloupe,2,1,Cuba,False,False,,CONCACAF Nations League,2022
-2022-06-02,Belize,0,2,Dominican Republic,False,False,,CONCACAF Nations League,2022
-2022-06-02,French Guiana,2,0,Guatemala,False,False,,CONCACAF Nations League,2022
-2022-06-02,Anguilla,0,0,Dominica,False,False,,CONCACAF Nations League,2022
-2022-06-03,Curaçao,0,1,Honduras,False,False,,CONCACAF Nations League,2022
-2022-06-03,Bahamas,1,0,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2022
-2022-06-03,Nicaragua,2,1,Trinidad and Tobago,False,False,,CONCACAF Nations League,2022
-2022-06-03,Sint Maarten,1,1,United States Virgin Islands,True,False,,CONCACAF Nations League,2022
-2022-06-03,Turks and Caicos Islands,1,4,Bonaire,False,False,,CONCACAF Nations League,2022
-2022-06-03,Saint Martin,0,0,Aruba,True,False,,CONCACAF Nations League,2022
-2022-06-03,British Virgin Islands,1,1,Cayman Islands,False,False,,CONCACAF Nations League,2022
-2022-06-04,Suriname,1,1,Jamaica,False,False,,CONCACAF Nations League,2022
-2022-06-04,El Salvador,3,1,Grenada,False,False,,CONCACAF Nations League,2022
-2022-06-04,Bermuda,0,0,Haiti,False,False,,CONCACAF Nations League,2022
-2022-06-04,Montserrat,1,2,Guyana,True,False,,CONCACAF Nations League,2022
-2022-06-05,Costa Rica,2,0,Martinique,False,False,,CONCACAF Nations League,2022
-2022-06-05,Cuba,3,0,Barbados,False,False,,CONCACAF Nations League,2022
-2022-06-05,Antigua and Barbuda,1,0,Guadeloupe,True,False,,CONCACAF Nations League,2022
-2022-06-05,Guatemala,2,0,Belize,False,False,,CONCACAF Nations League,2022
-2022-06-05,Dominican Republic,2,3,French Guiana,False,False,,CONCACAF Nations League,2022
-2022-06-05,Dominica,1,1,Anguilla,True,False,,CONCACAF Nations League,2022
-2022-06-06,Honduras,1,2,Curaçao,False,False,,CONCACAF Nations League,2022
-2022-06-06,Saint Vincent and the Grenadines,2,2,Nicaragua,False,False,,CONCACAF Nations League,2022
-2022-06-06,Trinidad and Tobago,1,0,Bahamas,False,False,,CONCACAF Nations League,2022
-2022-06-06,Bonaire,2,2,Sint Maarten,True,False,,CONCACAF Nations League,2022
-2022-06-06,United States Virgin Islands,3,2,Turks and Caicos Islands,False,False,,CONCACAF Nations League,2022
-2022-06-06,Aruba,3,0,Saint Martin,True,False,,CONCACAF Nations League,2022
-2022-06-06,Cayman Islands,1,1,British Virgin Islands,False,False,,CONCACAF Nations League,2022
-2022-06-07,Jamaica,3,1,Suriname,False,False,,CONCACAF Nations League,2022
-2022-06-07,Grenada,2,2,El Salvador,False,False,,CONCACAF Nations League,2022
-2022-06-07,Guyana,2,1,Bermuda,False,False,,CONCACAF Nations League,2022
-2022-06-07,Haiti,3,2,Montserrat,True,False,,CONCACAF Nations League,2022
-2022-06-09,Panama,5,0,Martinique,False,False,,CONCACAF Nations League,2022
-2022-06-09,Canada,4,0,Curaçao,False,False,,CONCACAF Nations League,2022
-2022-06-09,Barbados,0,1,Guadeloupe,True,False,,CONCACAF Nations League,2022
-2022-06-09,Antigua and Barbuda,0,2,Cuba,True,False,,CONCACAF Nations League,2022
-2022-06-09,Belize,1,1,French Guiana,False,False,,CONCACAF Nations League,2022
-2022-06-09,Aruba,2,3,Saint Kitts and Nevis,True,False,,CONCACAF Nations League,2022
-2022-06-09,Dominica,0,1,Saint Lucia,False,False,,CONCACAF Nations League,2022
-2022-06-09,Cayman Islands,0,3,Puerto Rico,False,False,,CONCACAF Nations League,2022
-2022-06-10,United States,5,0,Grenada,False,False,,CONCACAF Nations League,2022
-2022-06-10,Saint Vincent and the Grenadines,0,2,Trinidad and Tobago,False,False,,CONCACAF Nations League,2022
-2022-06-10,Bahamas,0,2,Nicaragua,False,False,,CONCACAF Nations League,2022
-2022-06-10,Dominican Republic,1,1,Guatemala,False,False,,CONCACAF Nations League,2022
-2022-06-11,Mexico,3,0,Suriname,False,False,,CONCACAF Nations League,2022
-2022-06-11,Guyana,2,6,Haiti,False,False,,CONCACAF Nations League,2022
-2022-06-11,Montserrat,3,2,Bermuda,True,False,,CONCACAF Nations League,2022
-2022-06-11,United States Virgin Islands,0,2,Bonaire,False,False,,CONCACAF Nations League,2022
-2022-06-11,Sint Maarten,8,2,Turks and Caicos Islands,True,False,,CONCACAF Nations League,2022
-2022-06-12,Martinique,0,0,Panama,False,False,,CONCACAF Nations League,2022
-2022-06-12,Cuba,3,1,Antigua and Barbuda,False,False,,CONCACAF Nations League,2022
-2022-06-12,Guadeloupe,2,1,Barbados,False,False,,CONCACAF Nations League,2022
-2022-06-12,Saint Kitts and Nevis,1,1,Saint Martin,False,False,,CONCACAF Nations League,2022
-2022-06-12,Saint Lucia,2,0,Anguilla,False,False,,CONCACAF Nations League,2022
-2022-06-12,Puerto Rico,6,0,British Virgin Islands,False,False,,CONCACAF Nations League,2022
-2022-06-13,Honduras,2,1,Canada,False,False,,CONCACAF Nations League,2022
-2022-06-13,Nicaragua,4,0,Bahamas,False,False,,CONCACAF Nations League,2022
-2022-06-13,Trinidad and Tobago,4,1,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2022
-2022-06-13,Guatemala,2,0,Dominican Republic,False,False,,CONCACAF Nations League,2022
-2022-06-14,Jamaica,1,1,Mexico,False,False,,CONCACAF Nations League,2022
-2022-06-14,El Salvador,1,1,United States,False,False,,CONCACAF Nations League,2022
-2022-06-14,Haiti,6,0,Guyana,True,False,,CONCACAF Nations League,2022
-2022-06-14,French Guiana,1,0,Belize,False,False,,CONCACAF Nations League,2022
-2022-06-14,Bonaire,2,0,United States Virgin Islands,True,False,,CONCACAF Nations League,2022
-2022-06-14,Turks and Caicos Islands,2,0,Sint Maarten,False,False,,CONCACAF Nations League,2022
-2023-03-23,Suriname,0,2,Mexico,False,False,,CONCACAF Nations League,2023
-2023-03-23,Barbados,0,1,Cuba,False,False,,CONCACAF Nations League,2023
-2023-03-23,Guadeloupe,0,1,Antigua and Barbuda,False,False,,CONCACAF Nations League,2023
-2023-03-23,French Guiana,1,1,Dominican Republic,False,False,,CONCACAF Nations League,2023
-2023-03-23,Saint Martin,1,3,Saint Kitts and Nevis,True,False,,CONCACAF Nations League,2023
-2023-03-23,British Virgin Islands,1,3,Puerto Rico,False,False,,CONCACAF Nations League,2023
-2023-03-24,Grenada,1,7,United States,False,False,,CONCACAF Nations League,2023
-2023-03-24,Bahamas,0,3,Trinidad and Tobago,False,False,,CONCACAF Nations League,2023
-2023-03-24,Nicaragua,4,1,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2023
-2023-03-24,Belize,1,2,Guatemala,False,False,,CONCACAF Nations League,2023
-2023-03-24,Anguilla,1,2,Saint Lucia,False,False,,CONCACAF Nations League,2023
-2023-03-25,Martinique,1,2,Costa Rica,False,False,,CONCACAF Nations League,2023
-2023-03-25,Curaçao,0,2,Canada,False,False,,CONCACAF Nations League,2023
-2023-03-25,Bermuda,0,2,Guyana,False,False,,CONCACAF Nations League,2023
-2023-03-25,Montserrat,0,4,Haiti,False,False,,CONCACAF Nations League,2023
-2023-03-25,Sint Maarten,6,1,Bonaire,True,False,,CONCACAF Nations League,2023
-2023-03-25,Turks and Caicos Islands,1,0,United States Virgin Islands,False,False,,CONCACAF Nations League,2023
-2023-03-26,Mexico,2,2,Jamaica,False,False,,CONCACAF Nations League,2023
-2023-03-26,Antigua and Barbuda,1,2,Barbados,False,False,,CONCACAF Nations League,2023
-2023-03-26,Cuba,1,0,Guadeloupe,False,False,,CONCACAF Nations League,2023
-2023-03-26,Puerto Rico,5,1,Cayman Islands,False,False,,CONCACAF Nations League,2023
-2023-03-27,United States,1,0,El Salvador,False,False,,CONCACAF Nations League,2023
-2023-03-27,Saint Vincent and the Grenadines,1,1,Bahamas,False,False,,CONCACAF Nations League,2023
-2023-03-27,Trinidad and Tobago,1,1,Nicaragua,False,False,,CONCACAF Nations League,2023
-2023-03-27,Dominican Republic,2,0,Belize,False,False,,CONCACAF Nations League,2023
-2023-03-27,Guatemala,4,0,French Guiana,False,False,,CONCACAF Nations League,2023
-2023-03-27,Saint Kitts and Nevis,2,0,Aruba,False,False,,CONCACAF Nations League,2023
-2023-03-27,Saint Lucia,3,1,Dominica,False,False,,CONCACAF Nations League,2023
-2023-03-28,Costa Rica,0,1,Panama,False,False,,CONCACAF Nations League,2023
-2023-03-28,Canada,4,1,Honduras,False,False,,CONCACAF Nations League,2023
-2023-03-28,Haiti,3,1,Bermuda,True,False,,CONCACAF Nations League,2023
-2023-03-28,Guyana,0,0,Montserrat,True,False,,CONCACAF Nations League,2023
-2023-03-28,Bonaire,1,2,Turks and Caicos Islands,False,False,,CONCACAF Nations League,2023
-2023-03-28,United States Virgin Islands,1,2,Sint Maarten,False,False,,CONCACAF Nations League,2023
-2023-06-15,Panama,0,2,Canada,True,False,,CONCACAF Nations League,2023
-2023-06-15,United States,3,0,Mexico,False,False,,CONCACAF Nations League,2023
-2023-06-18,Panama,0,1,Mexico,True,False,,CONCACAF Nations League,2023
-2023-06-18,United States,2,0,Canada,False,False,,CONCACAF Nations League,2023
-2023-09-07,Trinidad and Tobago,1,0,Curaçao,False,False,,CONCACAF Nations League,2023
-2023-09-07,Panama,3,0,Martinique,False,False,,CONCACAF Nations League,2023
-2023-09-07,Guatemala,2,0,El Salvador,False,False,,CONCACAF Nations League,2023
-2023-09-07,Sint Maarten,1,5,Saint Lucia,True,False,,CONCACAF Nations League,2023
-2023-09-07,Saint Kitts and Nevis,1,2,Guadeloupe,False,False,,CONCACAF Nations League,2023
-2023-09-07,Anguilla,0,6,Saint Martin,False,False,,CONCACAF Nations League,2023
-2023-09-07,United States Virgin Islands,2,2,Cayman Islands,False,False,,CONCACAF Nations League,2023
-2023-09-08,Haiti,0,0,Cuba,True,False,,CONCACAF Nations League,2023
-2023-09-08,Grenada,1,1,Suriname,False,False,,CONCACAF Nations League,2023
-2023-09-08,Jamaica,1,0,Honduras,False,False,,CONCACAF Nations League,2023
-2023-09-08,Barbados,2,3,Montserrat,False,False,,CONCACAF Nations League,2023
-2023-09-08,Dominican Republic,0,2,Nicaragua,False,False,,CONCACAF Nations League,2023
-2023-09-08,Bermuda,0,0,French Guiana,False,False,,CONCACAF Nations League,2023
-2023-09-08,Belize,1,2,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2023
-2023-09-09,Antigua and Barbuda,1,5,Guyana,False,False,,CONCACAF Nations League,2023
-2023-09-09,Bahamas,1,6,Puerto Rico,False,False,,CONCACAF Nations League,2023
-2023-09-09,British Virgin Islands,3,1,Turks and Caicos Islands,False,False,,CONCACAF Nations League,2023
-2023-09-10,Guatemala,1,1,Panama,False,False,,CONCACAF Nations League,2023
-2023-09-10,El Salvador,2,3,Trinidad and Tobago,False,False,,CONCACAF Nations League,2023
-2023-09-10,Martinique,1,0,Curaçao,False,False,,CONCACAF Nations League,2023
-2023-09-10,Guadeloupe,4,0,Sint Maarten,False,False,,CONCACAF Nations League,2023
-2023-09-10,Saint Lucia,2,0,Saint Kitts and Nevis,False,False,,CONCACAF Nations League,2023
-2023-09-11,Dominican Republic,3,0,Montserrat,False,False,,CONCACAF Nations League,2023
-2023-09-11,Nicaragua,5,1,Barbados,False,False,,CONCACAF Nations League,2023
-2023-09-11,Saint Martin,2,1,Bonaire,True,False,,CONCACAF Nations League,2023
-2023-09-11,Cayman Islands,1,2,Aruba,False,False,,CONCACAF Nations League,2023
-2023-09-12,Cuba,1,0,Suriname,False,False,,CONCACAF Nations League,2023
-2023-09-12,Jamaica,2,2,Haiti,False,False,,CONCACAF Nations League,2023
-2023-09-12,Honduras,4,0,Grenada,False,False,,CONCACAF Nations League,2023
-2023-09-12,Saint Vincent and the Grenadines,4,3,Bermuda,False,False,,CONCACAF Nations League,2023
-2023-09-12,French Guiana,0,2,Belize,False,False,,CONCACAF Nations League,2023
-2023-09-12,Guyana,3,2,Bahamas,False,False,,CONCACAF Nations League,2023
-2023-09-12,Puerto Rico,5,0,Antigua and Barbuda,True,False,,CONCACAF Nations League,2023
-2023-09-12,Turks and Caicos Islands,0,3,Dominica,False,False,,CONCACAF Nations League,2023
-2023-10-12,Suriname,1,1,Haiti,False,False,,CONCACAF Nations League,2023
-2023-10-12,Grenada,1,4,Jamaica,False,False,,CONCACAF Nations League,2023
-2023-10-12,Cuba,0,0,Honduras,True,False,,CONCACAF Nations League,2023
-2023-10-12,Sint Maarten,2,3,Saint Kitts and Nevis,True,False,,CONCACAF Nations League,2023
-2023-10-12,Saint Lucia,2,1,Guadeloupe,False,False,,CONCACAF Nations League,2023
-2023-10-12,Bonaire,2,0,Anguilla,False,False,,CONCACAF Nations League,2023
-2023-10-12,Dominica,1,1,British Virgin Islands,True,False,,CONCACAF Nations League,2023
-2023-10-13,Curaçao,1,2,Panama,False,False,,CONCACAF Nations League,2023
-2023-10-13,Martinique,1,0,El Salvador,False,False,,CONCACAF Nations League,2023
-2023-10-13,Trinidad and Tobago,3,2,Guatemala,False,False,,CONCACAF Nations League,2023
-2023-10-13,Montserrat,0,3,Nicaragua,True,False,,CONCACAF Nations League,2023
-2023-10-13,Barbados,0,5,Dominican Republic,False,False,,CONCACAF Nations League,2023
-2023-10-13,Saint Vincent and the Grenadines,1,4,French Guiana,False,False,,CONCACAF Nations League,2023
-2023-10-13,Belize,0,1,Bermuda,False,False,,CONCACAF Nations League,2023
-2023-10-14,Puerto Rico,1,3,Guyana,False,False,,CONCACAF Nations League,2023
-2023-10-14,Bahamas,1,4,Antigua and Barbuda,False,False,,CONCACAF Nations League,2023
-2023-10-14,Aruba,3,1,United States Virgin Islands,False,False,,CONCACAF Nations League,2023
-2023-10-15,Honduras,4,0,Cuba,False,False,,CONCACAF Nations League,2023
-2023-10-15,Haiti,2,3,Jamaica,True,False,,CONCACAF Nations League,2023
-2023-10-15,Suriname,4,0,Grenada,False,False,,CONCACAF Nations League,2023
-2023-10-15,Guadeloupe,2,0,Saint Lucia,False,False,,CONCACAF Nations League,2023
-2023-10-15,Saint Kitts and Nevis,0,1,Sint Maarten,False,False,,CONCACAF Nations League,2023
-2023-10-16,Dominican Republic,5,2,Barbados,False,False,,CONCACAF Nations League,2023
-2023-10-16,Nicaragua,3,0,Montserrat,False,False,,CONCACAF Nations League,2023
-2023-10-16,French Guiana,3,2,Saint Vincent and the Grenadines,True,False,,CONCACAF Nations League,2023
-2023-10-16,Saint Martin,8,0,Anguilla,True,False,,CONCACAF Nations League,2023
-2023-10-16,Turks and Caicos Islands,2,2,British Virgin Islands,False,False,,CONCACAF Nations League,2023
-2023-10-17,El Salvador,0,0,Martinique,False,False,,CONCACAF Nations League,2023
-2023-10-17,Panama,3,0,Guatemala,False,False,,CONCACAF Nations League,2023
-2023-10-17,Curaçao,5,3,Trinidad and Tobago,False,False,,CONCACAF Nations League,2023
-2023-10-17,Bermuda,1,1,Belize,False,False,,CONCACAF Nations League,2023
-2023-10-17,Antigua and Barbuda,2,2,Bahamas,False,False,,CONCACAF Nations League,2023
-2023-10-17,Guyana,3,1,Puerto Rico,True,False,,CONCACAF Nations League,2023
-2023-10-17,Cayman Islands,2,1,United States Virgin Islands,False,False,,CONCACAF Nations League,2023
-2023-11-16,Sint Maarten,0,2,Guadeloupe,True,False,,CONCACAF Nations League,2023
-2023-11-16,Saint Kitts and Nevis,0,0,Saint Lucia,False,False,,CONCACAF Nations League,2023
-2023-11-16,United States Virgin Islands,1,4,Aruba,False,False,,CONCACAF Nations League,2023
-2023-11-16,British Virgin Islands,1,2,Dominica,False,False,,CONCACAF Nations League,2023
-2023-11-16,Costa Rica,0,3,Panama,False,False,,CONCACAF Nations League,2023
-2023-11-16,United States,3,0,Trinidad and Tobago,False,False,,CONCACAF Nations League,2023
-2023-11-17,Montserrat,2,1,Dominican Republic,False,False,,CONCACAF Nations League,2023
-2023-11-17,Barbados,0,4,Nicaragua,False,False,,CONCACAF Nations League,2023
-2023-11-17,Bermuda,3,1,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2023
-2023-11-17,Belize,1,0,French Guiana,False,False,,CONCACAF Nations League,2023
-2023-11-17,Honduras,2,0,Mexico,False,False,,CONCACAF Nations League,2023
-2023-11-18,Antigua and Barbuda,2,3,Puerto Rico,False,False,,CONCACAF Nations League,2023
-2023-11-18,Anguilla,0,3,Bonaire,False,False,,CONCACAF Nations League,2023
-2023-11-18,Jamaica,1,2,Canada,False,False,,CONCACAF Nations League,2023
-2023-11-19,Guadeloupe,5,0,Saint Kitts and Nevis,False,False,,CONCACAF Nations League,2023
-2023-11-19,Saint Lucia,1,2,Sint Maarten,False,False,,CONCACAF Nations League,2023
-2023-11-20,Montserrat,4,2,Barbados,False,False,,CONCACAF Nations League,2023
-2023-11-20,Aruba,5,1,Cayman Islands,False,False,,CONCACAF Nations League,2023
-2023-11-20,Dominica,2,0,Turks and Caicos Islands,True,False,,CONCACAF Nations League,2023
-2023-11-20,Panama,3,1,Costa Rica,False,False,,CONCACAF Nations League,2023
-2023-11-20,Trinidad and Tobago,2,1,United States,False,False,,CONCACAF Nations League,2023
-2023-11-21,Nicaragua,0,0,Dominican Republic,False,False,,CONCACAF Nations League,2023
-2023-11-21,French Guiana,3,0,Bermuda,True,False,,CONCACAF Nations League,2023
-2023-11-21,Saint Vincent and the Grenadines,3,0,Belize,False,False,,CONCACAF Nations League,2023
-2023-11-21,Guyana,6,0,Antigua and Barbuda,True,False,,CONCACAF Nations League,2023
-2023-11-21,Puerto Rico,6,1,Bahamas,False,False,,CONCACAF Nations League,2023
-2023-11-21,Bonaire,0,4,Saint Martin,False,False,,CONCACAF Nations League,2023
-2023-11-21,Canada,2,3,Jamaica,False,False,,CONCACAF Nations League,2023
-2023-11-21,Mexico,2,0,Honduras,False,False,,CONCACAF Nations League,2023
-2024-03-21,Panama,0,3,Mexico,True,False,,CONCACAF Nations League,2024
-2024-03-21,United States,3,1,Jamaica,False,False,,CONCACAF Nations League,2024
-2024-03-23,Canada,2,0,Trinidad and Tobago,True,False,,CONCACAF Nations League,2024
-2024-03-23,Costa Rica,3,1,Honduras,True,False,,CONCACAF Nations League,2024
-2024-03-24,Jamaica,1,0,Panama,True,False,,CONCACAF Nations League,2024
-2024-03-24,United States,2,0,Mexico,False,False,,CONCACAF Nations League,2024
-2024-09-04,United States Virgin Islands,3,3,Bahamas,False,False,,CONCACAF Nations League,2024
-2024-09-04,Turks and Caicos Islands,0,2,Anguilla,False,False,,CONCACAF Nations League,2024
-2024-09-04,Cayman Islands,1,0,British Virgin Islands,False,False,,CONCACAF Nations League,2024
-2024-09-05,Guyana,1,3,Suriname,False,False,,CONCACAF Nations League,2024
-2024-09-05,Costa Rica,3,0,Guadeloupe,False,False,,CONCACAF Nations League,2024
-2024-09-05,Guatemala,3,1,Martinique,False,False,,CONCACAF Nations League,2024
-2024-09-05,Montserrat,1,4,El Salvador,True,False,,CONCACAF Nations League,2024
-2024-09-05,Bonaire,1,1,Saint Vincent and the Grenadines,False,False,,CONCACAF Nations League,2024
-2024-09-06,French Guiana,0,1,Nicaragua,False,False,,CONCACAF Nations League,2024
-2024-09-06,Jamaica,0,0,Cuba,False,False,,CONCACAF Nations League,2024
-2024-09-06,Honduras,4,0,Trinidad and Tobago,False,False,,CONCACAF Nations League,2024
-2024-09-06,Saint Lucia,2,1,Curaçao,True,False,,CONCACAF Nations League,2024
-2024-09-06,Grenada,2,0,Saint Martin,False,False,,CONCACAF Nations League,2024
-2024-09-06,Sint Maarten,2,0,Aruba,True,False,,CONCACAF Nations League,2024
-2024-09-06,Puerto Rico,1,4,Haiti,False,False,,CONCACAF Nations League,2024
-2024-09-07,Bermuda,2,3,Dominican Republic,True,False,,CONCACAF Nations League,2024
-2024-09-07,Antigua and Barbuda,1,2,Dominica,False,False,,CONCACAF Nations League,2024
-2024-09-07,Bahamas,2,3,Barbados,True,False,,CONCACAF Nations League,2024
-2024-09-07,Turks and Caicos Islands,0,4,Belize,False,False,,CONCACAF Nations League,2024
-2024-09-07,Cayman Islands,1,4,Saint Kitts and Nevis,False,False,,CONCACAF Nations League,2024
-2024-09-08,Saint Vincent and the Grenadines,2,0,Montserrat,True,False,,CONCACAF Nations League,2024
-2024-09-08,Bonaire,1,2,El Salvador,False,False,,CONCACAF Nations League,2024
-2024-09-09,Guadeloupe,1,0,Suriname,False,False,,CONCACAF Nations League,2024
-2024-09-09,Martinique,2,2,Guyana,False,False,,CONCACAF Nations League,2024
-2024-09-09,Guatemala,0,0,Costa Rica,False,False,,CONCACAF Nations League,2024
-2024-09-09,Curaçao,4,0,Saint Martin,True,False,,CONCACAF Nations League,2024
-2024-09-09,Grenada,1,2,Saint Lucia,False,False,,CONCACAF Nations League,2024
-2024-09-09,Haiti,6,0,Sint Maarten,True,False,,CONCACAF Nations League,2024
-2024-09-09,Puerto Rico,1,0,Aruba,False,False,,CONCACAF Nations League,2024
-2024-09-10,Cuba,1,1,Nicaragua,False,False,,CONCACAF Nations League,2024
-2024-09-10,Trinidad and Tobago,0,0,French Guiana,False,False,,CONCACAF Nations League,2024
-2024-09-10,Honduras,1,2,Jamaica,False,False,,CONCACAF Nations League,2024
-2024-09-10,Dominican Republic,2,0,Dominica,True,False,,CONCACAF Nations League,2024
-2024-09-10,Antigua and Barbuda,0,1,Bermuda,False,False,,CONCACAF Nations League,2024
-2024-09-10,United States Virgin Islands,0,3,Barbados,False,False,,CONCACAF Nations League,2024
-2024-09-10,Belize,1,0,Anguilla,True,False,,CONCACAF Nations League,2024
-2024-09-10,Saint Kitts and Nevis,2,0,British Virgin Islands,True,False,,CONCACAF Nations League,2024
-2024-10-09,Barbados,5,0,United States Virgin Islands,False,False,,CONCACAF Nations League,2024
-2024-10-09,Belize,1,0,Anguilla,False,False,,CONCACAF Nations League,2024
-2024-10-09,Saint Kitts and Nevis,3,1,British Virgin Islands,False,False,,CONCACAF Nations League,2024
-2024-10-10,Cuba,2,2,Trinidad and Tobago,False,False,,CONCACAF Nations League,2024
-2024-10-10,French Guiana,2,3,Honduras,False,False,,CONCACAF Nations League,2024
-2024-10-10,Nicaragua,0,2,Jamaica,False,False,,CONCACAF Nations League,2024
-2024-10-10,Bonaire,0,1,Montserrat,True,False,,CONCACAF Nations League,2024
-2024-10-10,Saint Vincent and the Grenadines,2,3,El Salvador,False,False,,CONCACAF Nations League,2024
-2024-10-11,Guadeloupe,0,1,Martinique,False,False,,CONCACAF Nations League,2024
-2024-10-11,Suriname,1,1,Costa Rica,False,False,,CONCACAF Nations League,2024
-2024-10-11,Guyana,1,3,Guatemala,False,False,,CONCACAF Nations League,2024
-2024-10-11,Grenada,0,0,Curaçao,True,False,,CONCACAF Nations League,2024
-2024-10-11,Saint Lucia,2,1,Saint Martin,False,False,,CONCACAF Nations League,2024
-2024-10-11,Sint Maarten,3,2,Puerto Rico,True,False,,CONCACAF Nations League,2024
-2024-10-11,Aruba,1,3,Haiti,False,False,,CONCACAF Nations League,2024
-2024-10-12,Antigua and Barbuda,0,5,Dominican Republic,True,False,,CONCACAF Nations League,2024
-2024-10-12,Bermuda,6,1,Dominica,False,False,,CONCACAF Nations League,2024
-2024-10-12,Bahamas,3,1,United States Virgin Islands,True,False,,CONCACAF Nations League,2024
-2024-10-12,Turks and Caicos Islands,2,1,Anguilla,True,False,,CONCACAF Nations League,2024
-2024-10-12,Cayman Islands,1,0,British Virgin Islands,True,False,,CONCACAF Nations League,2024
-2024-10-13,Montserrat,0,1,Bonaire,True,False,,CONCACAF Nations League,2024
-2024-10-13,Saint Vincent and the Grenadines,2,1,El Salvador,False,False,,CONCACAF Nations League,2024
-2024-10-14,Nicaragua,3,2,French Guiana,False,False,,CONCACAF Nations League,2024
-2024-10-14,Jamaica,0,0,Honduras,False,False,,CONCACAF Nations League,2024
-2024-10-14,Trinidad and Tobago,3,1,Cuba,False,False,,CONCACAF Nations League,2024
-2024-10-14,Curaçao,1,0,Grenada,True,False,,CONCACAF Nations League,2024
-2024-10-14,Saint Lucia,0,4,Saint Martin,False,False,,CONCACAF Nations League,2024
-2024-10-14,Puerto Rico,2,1,Sint Maarten,True,False,,CONCACAF Nations League,2024
-2024-10-14,Aruba,3,5,Haiti,False,False,,CONCACAF Nations League,2024
-2024-10-15,Costa Rica,3,0,Guatemala,False,False,,CONCACAF Nations League,2024
-2024-10-15,Guadeloupe,0,0,Martinique,False,False,,CONCACAF Nations League,2024
-2024-10-15,Suriname,5,1,Guyana,False,False,,CONCACAF Nations League,2024
-2024-10-15,Dominican Republic,5,0,Antigua and Barbuda,True,False,,CONCACAF Nations League,2024
-2024-10-15,Bermuda,3,2,Dominica,False,False,,CONCACAF Nations League,2024
-2024-10-15,Barbados,6,2,Bahamas,False,False,,CONCACAF Nations League,2024
-2024-10-15,Belize,3,0,Turks and Caicos Islands,False,False,,CONCACAF Nations League,2024
-2024-10-15,Saint Kitts and Nevis,1,1,Cayman Islands,False,False,,CONCACAF Nations League,2024
+2019-09-05,Bermuda,1,4,Panama,False,,,CONCACAF Nations League,2019
+2019-09-05,Grenada,2,1,Saint Kitts and Nevis,False,,,CONCACAF Nations League,2019
+2019-09-05,French Guiana,3,0,Belize,False,,,CONCACAF Nations League,2019
+2019-09-05,Dominica,1,2,Suriname,False,,,CONCACAF Nations League,2019
+2019-09-05,United States Virgin Islands,0,2,Cayman Islands,False,,,CONCACAF Nations League,2019
+2019-09-05,Barbados,4,0,Saint Martin,False,,,CONCACAF Nations League,2019
+2019-09-05,Guatemala,10,0,Anguilla,False,,,CONCACAF Nations League,2019
+2019-09-06,Martinique,1,1,Trinidad and Tobago,False,,,CONCACAF Nations League,2019
+2019-09-06,Aruba,0,1,Guyana,True,,,CONCACAF Nations League,2019
+2019-09-06,Jamaica,6,0,Antigua and Barbuda,False,,,CONCACAF Nations League,2019
+2019-09-06,Nicaragua,1,1,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2019
+2019-09-06,Bonaire,4,2,British Virgin Islands,True,,,CONCACAF Nations League,2019
+2019-09-07,Canada,6,0,Cuba,False,,,CONCACAF Nations League,2019
+2019-09-07,Curaçao,1,0,Haiti,False,,,CONCACAF Nations League,2019
+2019-09-07,Montserrat,2,1,Dominican Republic,False,,,CONCACAF Nations League,2019
+2019-09-07,El Salvador,3,0,Saint Lucia,False,,,CONCACAF Nations League,2019
+2019-09-07,Guadeloupe,5,1,Sint Maarten,False,,,CONCACAF Nations League,2019
+2019-09-08,Panama,0,2,Bermuda,False,,,CONCACAF Nations League,2019
+2019-09-08,Belize,1,2,Grenada,False,,,CONCACAF Nations League,2019
+2019-09-08,Saint Kitts and Nevis,2,2,French Guiana,False,,,CONCACAF Nations League,2019
+2019-09-08,Saint Vincent and the Grenadines,1,0,Dominica,False,,,CONCACAF Nations League,2019
+2019-09-08,Suriname,6,0,Nicaragua,False,,,CONCACAF Nations League,2019
+2019-09-08,Saint Martin,1,2,United States Virgin Islands,True,,,CONCACAF Nations League,2019
+2019-09-08,Cayman Islands,3,2,Barbados,False,,,CONCACAF Nations League,2019
+2019-09-09,Trinidad and Tobago,2,2,Martinique,False,,,CONCACAF Nations League,2019
+2019-09-09,Antigua and Barbuda,2,1,Aruba,False,,,CONCACAF Nations League,2019
+2019-09-09,Guyana,0,4,Jamaica,False,,,CONCACAF Nations League,2019
+2019-09-09,Bahamas,2,1,Bonaire,False,,,CONCACAF Nations League,2019
+2019-09-10,Cuba,0,1,Canada,True,,,CONCACAF Nations League,2019
+2019-09-10,Haiti,1,1,Curaçao,False,,,CONCACAF Nations League,2019
+2019-09-10,Montserrat,1,1,Saint Lucia,False,,,CONCACAF Nations League,2019
+2019-09-10,Dominican Republic,1,0,El Salvador,False,,,CONCACAF Nations League,2019
+2019-09-10,Puerto Rico,0,5,Guatemala,False,,,CONCACAF Nations League,2019
+2019-09-10,Turks and Caicos Islands,0,3,Guadeloupe,False,,,CONCACAF Nations League,2019
+2019-10-10,Trinidad and Tobago,0,2,Honduras,False,,,CONCACAF Nations League,2019
+2019-10-10,Haiti,1,1,Costa Rica,False,,,CONCACAF Nations League,2019
+2019-10-10,Belize,0,4,Saint Kitts and Nevis,False,,,CONCACAF Nations League,2019
+2019-10-10,French Guiana,0,0,Grenada,False,,,CONCACAF Nations League,2019
+2019-10-10,British Virgin Islands,0,4,Bahamas,True,,,CONCACAF Nations League,2019
+2019-10-10,Sint Maarten,2,5,Turks and Caicos Islands,True,,,CONCACAF Nations League,2019
+2019-10-11,United States,7,0,Cuba,False,,,CONCACAF Nations League,2019
+2019-10-11,Bermuda,1,5,Mexico,False,,,CONCACAF Nations League,2019
+2019-10-11,Antigua and Barbuda,2,1,Guyana,False,,,CONCACAF Nations League,2019
+2019-10-11,Saint Vincent and the Grenadines,2,2,Suriname,False,,,CONCACAF Nations League,2019
+2019-10-11,Nicaragua,3,1,Dominica,False,,,CONCACAF Nations League,2019
+2019-10-12,Dominican Republic,3,0,Saint Lucia,False,,,CONCACAF Nations League,2019
+2019-10-12,Montserrat,0,2,El Salvador,False,,,CONCACAF Nations League,2019
+2019-10-12,Jamaica,2,0,Aruba,False,,,CONCACAF Nations League,2019
+2019-10-12,Barbados,1,0,United States Virgin Islands,False,,,CONCACAF Nations League,2019
+2019-10-12,Saint Martin,3,0,Cayman Islands,True,,,CONCACAF Nations League,2019
+2019-10-12,Anguilla,0,5,Guatemala,False,,,CONCACAF Nations League,2019
+2019-10-13,Honduras,1,0,Martinique,False,,,CONCACAF Nations League,2019
+2019-10-13,Costa Rica,0,0,Curaçao,False,,,CONCACAF Nations League,2019
+2019-10-13,Saint Kitts and Nevis,0,1,Belize,False,,,CONCACAF Nations League,2019
+2019-10-13,Grenada,1,0,French Guiana,False,,,CONCACAF Nations League,2019
+2019-10-13,British Virgin Islands,3,4,Bonaire,True,,,CONCACAF Nations League,2019
+2019-10-14,Guyana,5,1,Antigua and Barbuda,False,,,CONCACAF Nations League,2019
+2019-10-14,Dominica,0,4,Nicaragua,False,,,CONCACAF Nations League,2019
+2019-10-14,Suriname,0,1,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2019
+2019-10-14,Sint Maarten,1,2,Guadeloupe,True,,,CONCACAF Nations League,2019
+2019-10-15,Canada,2,0,United States,False,,,CONCACAF Nations League,2019
+2019-10-15,Mexico,3,1,Panama,False,,,CONCACAF Nations League,2019
+2019-10-15,Dominican Republic,0,0,Montserrat,False,,,CONCACAF Nations League,2019
+2019-10-15,Saint Lucia,0,2,El Salvador,False,,,CONCACAF Nations League,2019
+2019-10-15,Aruba,0,6,Jamaica,True,,,CONCACAF Nations League,2019
+2019-10-15,Cayman Islands,1,0,Saint Martin,False,,,CONCACAF Nations League,2019
+2019-10-15,United States Virgin Islands,0,4,Barbados,False,,,CONCACAF Nations League,2019
+2019-10-15,Anguilla,2,3,Puerto Rico,False,,,CONCACAF Nations League,2019
+2019-11-14,Martinique,1,1,Honduras,False,,,CONCACAF Nations League,2019
+2019-11-14,Curaçao,1,2,Costa Rica,False,,,CONCACAF Nations League,2019
+2019-11-14,Saint Kitts and Nevis,0,0,Grenada,False,,,CONCACAF Nations League,2019
+2019-11-14,Belize,2,0,French Guiana,False,,,CONCACAF Nations League,2019
+2019-11-14,Bahamas,3,0,British Virgin Islands,False,,,CONCACAF Nations League,2019
+2019-11-14,Turks and Caicos Islands,3,2,Sint Maarten,False,,,CONCACAF Nations League,2019
+2019-11-15,United States,4,1,Canada,False,,,CONCACAF Nations League,2019
+2019-11-15,Panama,0,3,Mexico,False,,,CONCACAF Nations League,2019
+2019-11-15,Antigua and Barbuda,0,2,Jamaica,False,,,CONCACAF Nations League,2019
+2019-11-15,Guyana,4,2,Aruba,False,,,CONCACAF Nations League,2019
+2019-11-15,Saint Vincent and the Grenadines,1,0,Nicaragua,False,,,CONCACAF Nations League,2019
+2019-11-15,Suriname,4,0,Dominica,False,,,CONCACAF Nations League,2019
+2019-11-16,Saint Lucia,1,0,Dominican Republic,False,,,CONCACAF Nations League,2019
+2019-11-16,El Salvador,1,0,Montserrat,False,,,CONCACAF Nations League,2019
+2019-11-16,Saint Martin,1,0,Barbados,True,,,CONCACAF Nations League,2019
+2019-11-16,Cayman Islands,1,0,United States Virgin Islands,False,,,CONCACAF Nations League,2019
+2019-11-16,Guatemala,5,0,Puerto Rico,False,,,CONCACAF Nations League,2019
+2019-11-17,Honduras,4,0,Trinidad and Tobago,False,,,CONCACAF Nations League,2019
+2019-11-17,Costa Rica,1,1,Haiti,False,,,CONCACAF Nations League,2019
+2019-11-17,Grenada,3,2,Belize,False,,,CONCACAF Nations League,2019
+2019-11-17,French Guiana,3,1,Saint Kitts and Nevis,False,,,CONCACAF Nations League,2019
+2019-11-17,Bonaire,1,1,Bahamas,True,,,CONCACAF Nations League,2019
+2019-11-17,Guadeloupe,10,0,Turks and Caicos Islands,False,,,CONCACAF Nations League,2019
+2019-11-18,Jamaica,1,1,Guyana,False,,,CONCACAF Nations League,2019
+2019-11-18,Aruba,2,3,Antigua and Barbuda,False,,,CONCACAF Nations League,2019
+2019-11-18,Nicaragua,1,2,Suriname,False,,,CONCACAF Nations League,2019
+2019-11-18,Dominica,1,0,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2019
+2019-11-19,Cuba,0,4,United States,True,,,CONCACAF Nations League,2019
+2019-11-19,Mexico,2,1,Bermuda,False,,,CONCACAF Nations League,2019
+2019-11-19,El Salvador,2,0,Dominican Republic,False,,,CONCACAF Nations League,2019
+2019-11-19,Saint Lucia,0,1,Montserrat,False,,,CONCACAF Nations League,2019
+2019-11-19,Barbados,3,0,Cayman Islands,False,,,CONCACAF Nations League,2019
+2019-11-19,United States Virgin Islands,1,2,Saint Martin,False,,,CONCACAF Nations League,2019
+2019-11-19,Puerto Rico,3,0,Anguilla,False,,,CONCACAF Nations League,2019
+2021-06-03,Mexico,0,0,Costa Rica,True,,,CONCACAF Nations League,2021
+2021-06-03,United States,1,0,Honduras,False,,,CONCACAF Nations League,2021
+2021-06-06,Honduras,2,2,Costa Rica,True,,,CONCACAF Nations League,2021
+2021-06-06,United States,3,2,Mexico,False,,,CONCACAF Nations League,2021
+2022-06-02,Panama,2,0,Costa Rica,False,,,CONCACAF Nations League,2022
+2022-06-02,Barbados,0,1,Antigua and Barbuda,True,,,CONCACAF Nations League,2022
+2022-06-02,Guadeloupe,2,1,Cuba,False,,,CONCACAF Nations League,2022
+2022-06-02,Belize,0,2,Dominican Republic,False,,,CONCACAF Nations League,2022
+2022-06-02,French Guiana,2,0,Guatemala,False,,,CONCACAF Nations League,2022
+2022-06-02,Anguilla,0,0,Dominica,False,,,CONCACAF Nations League,2022
+2022-06-03,Curaçao,0,1,Honduras,False,,,CONCACAF Nations League,2022
+2022-06-03,Bahamas,1,0,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2022
+2022-06-03,Nicaragua,2,1,Trinidad and Tobago,False,,,CONCACAF Nations League,2022
+2022-06-03,Sint Maarten,1,1,United States Virgin Islands,True,,,CONCACAF Nations League,2022
+2022-06-03,Turks and Caicos Islands,1,4,Bonaire,False,,,CONCACAF Nations League,2022
+2022-06-03,Saint Martin,0,0,Aruba,True,,,CONCACAF Nations League,2022
+2022-06-03,British Virgin Islands,1,1,Cayman Islands,False,,,CONCACAF Nations League,2022
+2022-06-04,Suriname,1,1,Jamaica,False,,,CONCACAF Nations League,2022
+2022-06-04,El Salvador,3,1,Grenada,False,,,CONCACAF Nations League,2022
+2022-06-04,Bermuda,0,0,Haiti,False,,,CONCACAF Nations League,2022
+2022-06-04,Montserrat,1,2,Guyana,True,,,CONCACAF Nations League,2022
+2022-06-05,Costa Rica,2,0,Martinique,False,,,CONCACAF Nations League,2022
+2022-06-05,Cuba,3,0,Barbados,False,,,CONCACAF Nations League,2022
+2022-06-05,Antigua and Barbuda,1,0,Guadeloupe,True,,,CONCACAF Nations League,2022
+2022-06-05,Guatemala,2,0,Belize,False,,,CONCACAF Nations League,2022
+2022-06-05,Dominican Republic,2,3,French Guiana,False,,,CONCACAF Nations League,2022
+2022-06-05,Dominica,1,1,Anguilla,True,,,CONCACAF Nations League,2022
+2022-06-06,Honduras,1,2,Curaçao,False,,,CONCACAF Nations League,2022
+2022-06-06,Saint Vincent and the Grenadines,2,2,Nicaragua,False,,,CONCACAF Nations League,2022
+2022-06-06,Trinidad and Tobago,1,0,Bahamas,False,,,CONCACAF Nations League,2022
+2022-06-06,Bonaire,2,2,Sint Maarten,True,,,CONCACAF Nations League,2022
+2022-06-06,United States Virgin Islands,3,2,Turks and Caicos Islands,False,,,CONCACAF Nations League,2022
+2022-06-06,Aruba,3,0,Saint Martin,True,,,CONCACAF Nations League,2022
+2022-06-06,Cayman Islands,1,1,British Virgin Islands,False,,,CONCACAF Nations League,2022
+2022-06-07,Jamaica,3,1,Suriname,False,,,CONCACAF Nations League,2022
+2022-06-07,Grenada,2,2,El Salvador,False,,,CONCACAF Nations League,2022
+2022-06-07,Guyana,2,1,Bermuda,False,,,CONCACAF Nations League,2022
+2022-06-07,Haiti,3,2,Montserrat,True,,,CONCACAF Nations League,2022
+2022-06-09,Panama,5,0,Martinique,False,,,CONCACAF Nations League,2022
+2022-06-09,Canada,4,0,Curaçao,False,,,CONCACAF Nations League,2022
+2022-06-09,Barbados,0,1,Guadeloupe,True,,,CONCACAF Nations League,2022
+2022-06-09,Antigua and Barbuda,0,2,Cuba,True,,,CONCACAF Nations League,2022
+2022-06-09,Belize,1,1,French Guiana,False,,,CONCACAF Nations League,2022
+2022-06-09,Aruba,2,3,Saint Kitts and Nevis,True,,,CONCACAF Nations League,2022
+2022-06-09,Dominica,0,1,Saint Lucia,False,,,CONCACAF Nations League,2022
+2022-06-09,Cayman Islands,0,3,Puerto Rico,False,,,CONCACAF Nations League,2022
+2022-06-10,United States,5,0,Grenada,False,,,CONCACAF Nations League,2022
+2022-06-10,Saint Vincent and the Grenadines,0,2,Trinidad and Tobago,False,,,CONCACAF Nations League,2022
+2022-06-10,Bahamas,0,2,Nicaragua,False,,,CONCACAF Nations League,2022
+2022-06-10,Dominican Republic,1,1,Guatemala,False,,,CONCACAF Nations League,2022
+2022-06-11,Mexico,3,0,Suriname,False,,,CONCACAF Nations League,2022
+2022-06-11,Guyana,2,6,Haiti,False,,,CONCACAF Nations League,2022
+2022-06-11,Montserrat,3,2,Bermuda,True,,,CONCACAF Nations League,2022
+2022-06-11,United States Virgin Islands,0,2,Bonaire,False,,,CONCACAF Nations League,2022
+2022-06-11,Sint Maarten,8,2,Turks and Caicos Islands,True,,,CONCACAF Nations League,2022
+2022-06-12,Martinique,0,0,Panama,False,,,CONCACAF Nations League,2022
+2022-06-12,Cuba,3,1,Antigua and Barbuda,False,,,CONCACAF Nations League,2022
+2022-06-12,Guadeloupe,2,1,Barbados,False,,,CONCACAF Nations League,2022
+2022-06-12,Saint Kitts and Nevis,1,1,Saint Martin,False,,,CONCACAF Nations League,2022
+2022-06-12,Saint Lucia,2,0,Anguilla,False,,,CONCACAF Nations League,2022
+2022-06-12,Puerto Rico,6,0,British Virgin Islands,False,,,CONCACAF Nations League,2022
+2022-06-13,Honduras,2,1,Canada,False,,,CONCACAF Nations League,2022
+2022-06-13,Nicaragua,4,0,Bahamas,False,,,CONCACAF Nations League,2022
+2022-06-13,Trinidad and Tobago,4,1,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2022
+2022-06-13,Guatemala,2,0,Dominican Republic,False,,,CONCACAF Nations League,2022
+2022-06-14,Jamaica,1,1,Mexico,False,,,CONCACAF Nations League,2022
+2022-06-14,El Salvador,1,1,United States,False,,,CONCACAF Nations League,2022
+2022-06-14,Haiti,6,0,Guyana,True,,,CONCACAF Nations League,2022
+2022-06-14,French Guiana,1,0,Belize,False,,,CONCACAF Nations League,2022
+2022-06-14,Bonaire,2,0,United States Virgin Islands,True,,,CONCACAF Nations League,2022
+2022-06-14,Turks and Caicos Islands,2,0,Sint Maarten,False,,,CONCACAF Nations League,2022
+2023-03-23,Suriname,0,2,Mexico,False,,,CONCACAF Nations League,2023
+2023-03-23,Barbados,0,1,Cuba,False,,,CONCACAF Nations League,2023
+2023-03-23,Guadeloupe,0,1,Antigua and Barbuda,False,,,CONCACAF Nations League,2023
+2023-03-23,French Guiana,1,1,Dominican Republic,False,,,CONCACAF Nations League,2023
+2023-03-23,Saint Martin,1,3,Saint Kitts and Nevis,True,,,CONCACAF Nations League,2023
+2023-03-23,British Virgin Islands,1,3,Puerto Rico,False,,,CONCACAF Nations League,2023
+2023-03-24,Grenada,1,7,United States,False,,,CONCACAF Nations League,2023
+2023-03-24,Bahamas,0,3,Trinidad and Tobago,False,,,CONCACAF Nations League,2023
+2023-03-24,Nicaragua,4,1,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2023
+2023-03-24,Belize,1,2,Guatemala,False,,,CONCACAF Nations League,2023
+2023-03-24,Anguilla,1,2,Saint Lucia,False,,,CONCACAF Nations League,2023
+2023-03-25,Martinique,1,2,Costa Rica,False,,,CONCACAF Nations League,2023
+2023-03-25,Curaçao,0,2,Canada,False,,,CONCACAF Nations League,2023
+2023-03-25,Bermuda,0,2,Guyana,False,,,CONCACAF Nations League,2023
+2023-03-25,Montserrat,0,4,Haiti,False,,,CONCACAF Nations League,2023
+2023-03-25,Sint Maarten,6,1,Bonaire,True,,,CONCACAF Nations League,2023
+2023-03-25,Turks and Caicos Islands,1,0,United States Virgin Islands,False,,,CONCACAF Nations League,2023
+2023-03-26,Mexico,2,2,Jamaica,False,,,CONCACAF Nations League,2023
+2023-03-26,Antigua and Barbuda,1,2,Barbados,False,,,CONCACAF Nations League,2023
+2023-03-26,Cuba,1,0,Guadeloupe,False,,,CONCACAF Nations League,2023
+2023-03-26,Puerto Rico,5,1,Cayman Islands,False,,,CONCACAF Nations League,2023
+2023-03-27,United States,1,0,El Salvador,False,,,CONCACAF Nations League,2023
+2023-03-27,Saint Vincent and the Grenadines,1,1,Bahamas,False,,,CONCACAF Nations League,2023
+2023-03-27,Trinidad and Tobago,1,1,Nicaragua,False,,,CONCACAF Nations League,2023
+2023-03-27,Dominican Republic,2,0,Belize,False,,,CONCACAF Nations League,2023
+2023-03-27,Guatemala,4,0,French Guiana,False,,,CONCACAF Nations League,2023
+2023-03-27,Saint Kitts and Nevis,2,0,Aruba,False,,,CONCACAF Nations League,2023
+2023-03-27,Saint Lucia,3,1,Dominica,False,,,CONCACAF Nations League,2023
+2023-03-28,Costa Rica,0,1,Panama,False,,,CONCACAF Nations League,2023
+2023-03-28,Canada,4,1,Honduras,False,,,CONCACAF Nations League,2023
+2023-03-28,Haiti,3,1,Bermuda,True,,,CONCACAF Nations League,2023
+2023-03-28,Guyana,0,0,Montserrat,True,,,CONCACAF Nations League,2023
+2023-03-28,Bonaire,1,2,Turks and Caicos Islands,False,,,CONCACAF Nations League,2023
+2023-03-28,United States Virgin Islands,1,2,Sint Maarten,False,,,CONCACAF Nations League,2023
+2023-06-15,Panama,0,2,Canada,True,,,CONCACAF Nations League,2023
+2023-06-15,United States,3,0,Mexico,False,,,CONCACAF Nations League,2023
+2023-06-18,Panama,0,1,Mexico,True,,,CONCACAF Nations League,2023
+2023-06-18,United States,2,0,Canada,False,,,CONCACAF Nations League,2023
+2023-09-07,Trinidad and Tobago,1,0,Curaçao,False,,,CONCACAF Nations League,2023
+2023-09-07,Panama,3,0,Martinique,False,,,CONCACAF Nations League,2023
+2023-09-07,Guatemala,2,0,El Salvador,False,,,CONCACAF Nations League,2023
+2023-09-07,Sint Maarten,1,5,Saint Lucia,True,,,CONCACAF Nations League,2023
+2023-09-07,Saint Kitts and Nevis,1,2,Guadeloupe,False,,,CONCACAF Nations League,2023
+2023-09-07,Anguilla,0,6,Saint Martin,False,,,CONCACAF Nations League,2023
+2023-09-07,United States Virgin Islands,2,2,Cayman Islands,False,,,CONCACAF Nations League,2023
+2023-09-08,Haiti,0,0,Cuba,True,,,CONCACAF Nations League,2023
+2023-09-08,Grenada,1,1,Suriname,False,,,CONCACAF Nations League,2023
+2023-09-08,Jamaica,1,0,Honduras,False,,,CONCACAF Nations League,2023
+2023-09-08,Barbados,2,3,Montserrat,False,,,CONCACAF Nations League,2023
+2023-09-08,Dominican Republic,0,2,Nicaragua,False,,,CONCACAF Nations League,2023
+2023-09-08,Bermuda,0,0,French Guiana,False,,,CONCACAF Nations League,2023
+2023-09-08,Belize,1,2,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2023
+2023-09-09,Antigua and Barbuda,1,5,Guyana,False,,,CONCACAF Nations League,2023
+2023-09-09,Bahamas,1,6,Puerto Rico,False,,,CONCACAF Nations League,2023
+2023-09-09,British Virgin Islands,3,1,Turks and Caicos Islands,False,,,CONCACAF Nations League,2023
+2023-09-10,Guatemala,1,1,Panama,False,,,CONCACAF Nations League,2023
+2023-09-10,El Salvador,2,3,Trinidad and Tobago,False,,,CONCACAF Nations League,2023
+2023-09-10,Martinique,1,0,Curaçao,False,,,CONCACAF Nations League,2023
+2023-09-10,Guadeloupe,4,0,Sint Maarten,False,,,CONCACAF Nations League,2023
+2023-09-10,Saint Lucia,2,0,Saint Kitts and Nevis,False,,,CONCACAF Nations League,2023
+2023-09-11,Dominican Republic,3,0,Montserrat,False,,,CONCACAF Nations League,2023
+2023-09-11,Nicaragua,5,1,Barbados,False,,,CONCACAF Nations League,2023
+2023-09-11,Saint Martin,2,1,Bonaire,True,,,CONCACAF Nations League,2023
+2023-09-11,Cayman Islands,1,2,Aruba,False,,,CONCACAF Nations League,2023
+2023-09-12,Cuba,1,0,Suriname,False,,,CONCACAF Nations League,2023
+2023-09-12,Jamaica,2,2,Haiti,False,,,CONCACAF Nations League,2023
+2023-09-12,Honduras,4,0,Grenada,False,,,CONCACAF Nations League,2023
+2023-09-12,Saint Vincent and the Grenadines,4,3,Bermuda,False,,,CONCACAF Nations League,2023
+2023-09-12,French Guiana,0,2,Belize,False,,,CONCACAF Nations League,2023
+2023-09-12,Guyana,3,2,Bahamas,False,,,CONCACAF Nations League,2023
+2023-09-12,Puerto Rico,5,0,Antigua and Barbuda,True,,,CONCACAF Nations League,2023
+2023-09-12,Turks and Caicos Islands,0,3,Dominica,False,,,CONCACAF Nations League,2023
+2023-10-12,Suriname,1,1,Haiti,False,,,CONCACAF Nations League,2023
+2023-10-12,Grenada,1,4,Jamaica,False,,,CONCACAF Nations League,2023
+2023-10-12,Cuba,0,0,Honduras,True,,,CONCACAF Nations League,2023
+2023-10-12,Sint Maarten,2,3,Saint Kitts and Nevis,True,,,CONCACAF Nations League,2023
+2023-10-12,Saint Lucia,2,1,Guadeloupe,False,,,CONCACAF Nations League,2023
+2023-10-12,Bonaire,2,0,Anguilla,False,,,CONCACAF Nations League,2023
+2023-10-12,Dominica,1,1,British Virgin Islands,True,,,CONCACAF Nations League,2023
+2023-10-13,Curaçao,1,2,Panama,False,,,CONCACAF Nations League,2023
+2023-10-13,Martinique,1,0,El Salvador,False,,,CONCACAF Nations League,2023
+2023-10-13,Trinidad and Tobago,3,2,Guatemala,False,,,CONCACAF Nations League,2023
+2023-10-13,Montserrat,0,3,Nicaragua,True,,,CONCACAF Nations League,2023
+2023-10-13,Barbados,0,5,Dominican Republic,False,,,CONCACAF Nations League,2023
+2023-10-13,Saint Vincent and the Grenadines,1,4,French Guiana,False,,,CONCACAF Nations League,2023
+2023-10-13,Belize,0,1,Bermuda,False,,,CONCACAF Nations League,2023
+2023-10-14,Puerto Rico,1,3,Guyana,False,,,CONCACAF Nations League,2023
+2023-10-14,Bahamas,1,4,Antigua and Barbuda,False,,,CONCACAF Nations League,2023
+2023-10-14,Aruba,3,1,United States Virgin Islands,False,,,CONCACAF Nations League,2023
+2023-10-15,Honduras,4,0,Cuba,False,,,CONCACAF Nations League,2023
+2023-10-15,Haiti,2,3,Jamaica,True,,,CONCACAF Nations League,2023
+2023-10-15,Suriname,4,0,Grenada,False,,,CONCACAF Nations League,2023
+2023-10-15,Guadeloupe,2,0,Saint Lucia,False,,,CONCACAF Nations League,2023
+2023-10-15,Saint Kitts and Nevis,0,1,Sint Maarten,False,,,CONCACAF Nations League,2023
+2023-10-16,Dominican Republic,5,2,Barbados,False,,,CONCACAF Nations League,2023
+2023-10-16,Nicaragua,3,0,Montserrat,False,,,CONCACAF Nations League,2023
+2023-10-16,French Guiana,3,2,Saint Vincent and the Grenadines,True,,,CONCACAF Nations League,2023
+2023-10-16,Saint Martin,8,0,Anguilla,True,,,CONCACAF Nations League,2023
+2023-10-16,Turks and Caicos Islands,2,2,British Virgin Islands,False,,,CONCACAF Nations League,2023
+2023-10-17,El Salvador,0,0,Martinique,False,,,CONCACAF Nations League,2023
+2023-10-17,Panama,3,0,Guatemala,False,,,CONCACAF Nations League,2023
+2023-10-17,Curaçao,5,3,Trinidad and Tobago,False,,,CONCACAF Nations League,2023
+2023-10-17,Bermuda,1,1,Belize,False,,,CONCACAF Nations League,2023
+2023-10-17,Antigua and Barbuda,2,2,Bahamas,False,,,CONCACAF Nations League,2023
+2023-10-17,Guyana,3,1,Puerto Rico,True,,,CONCACAF Nations League,2023
+2023-10-17,Cayman Islands,2,1,United States Virgin Islands,False,,,CONCACAF Nations League,2023
+2023-11-16,Sint Maarten,0,2,Guadeloupe,True,,,CONCACAF Nations League,2023
+2023-11-16,Saint Kitts and Nevis,0,0,Saint Lucia,False,,,CONCACAF Nations League,2023
+2023-11-16,United States Virgin Islands,1,4,Aruba,False,,,CONCACAF Nations League,2023
+2023-11-16,British Virgin Islands,1,2,Dominica,False,,,CONCACAF Nations League,2023
+2023-11-16,Costa Rica,0,3,Panama,False,,,CONCACAF Nations League,2023
+2023-11-16,United States,3,0,Trinidad and Tobago,False,,,CONCACAF Nations League,2023
+2023-11-17,Montserrat,2,1,Dominican Republic,False,,,CONCACAF Nations League,2023
+2023-11-17,Barbados,0,4,Nicaragua,False,,,CONCACAF Nations League,2023
+2023-11-17,Bermuda,3,1,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2023
+2023-11-17,Belize,1,0,French Guiana,False,,,CONCACAF Nations League,2023
+2023-11-17,Honduras,2,0,Mexico,False,,,CONCACAF Nations League,2023
+2023-11-18,Antigua and Barbuda,2,3,Puerto Rico,False,,,CONCACAF Nations League,2023
+2023-11-18,Anguilla,0,3,Bonaire,False,,,CONCACAF Nations League,2023
+2023-11-18,Jamaica,1,2,Canada,False,,,CONCACAF Nations League,2023
+2023-11-19,Guadeloupe,5,0,Saint Kitts and Nevis,False,,,CONCACAF Nations League,2023
+2023-11-19,Saint Lucia,1,2,Sint Maarten,False,,,CONCACAF Nations League,2023
+2023-11-20,Montserrat,4,2,Barbados,False,,,CONCACAF Nations League,2023
+2023-11-20,Aruba,5,1,Cayman Islands,False,,,CONCACAF Nations League,2023
+2023-11-20,Dominica,2,0,Turks and Caicos Islands,True,,,CONCACAF Nations League,2023
+2023-11-20,Panama,3,1,Costa Rica,False,,,CONCACAF Nations League,2023
+2023-11-20,Trinidad and Tobago,2,1,United States,False,,,CONCACAF Nations League,2023
+2023-11-21,Nicaragua,0,0,Dominican Republic,False,,,CONCACAF Nations League,2023
+2023-11-21,French Guiana,3,0,Bermuda,True,,,CONCACAF Nations League,2023
+2023-11-21,Saint Vincent and the Grenadines,3,0,Belize,False,,,CONCACAF Nations League,2023
+2023-11-21,Guyana,6,0,Antigua and Barbuda,True,,,CONCACAF Nations League,2023
+2023-11-21,Puerto Rico,6,1,Bahamas,False,,,CONCACAF Nations League,2023
+2023-11-21,Bonaire,0,4,Saint Martin,False,,,CONCACAF Nations League,2023
+2023-11-21,Canada,2,3,Jamaica,False,,,CONCACAF Nations League,2023
+2023-11-21,Mexico,2,0,Honduras,False,,,CONCACAF Nations League,2023
+2024-03-21,Panama,0,3,Mexico,True,,,CONCACAF Nations League,2024
+2024-03-21,United States,3,1,Jamaica,False,,,CONCACAF Nations League,2024
+2024-03-23,Canada,2,0,Trinidad and Tobago,True,,,CONCACAF Nations League,2024
+2024-03-23,Costa Rica,3,1,Honduras,True,,,CONCACAF Nations League,2024
+2024-03-24,Jamaica,1,0,Panama,True,,,CONCACAF Nations League,2024
+2024-03-24,United States,2,0,Mexico,False,,,CONCACAF Nations League,2024
+2024-09-04,United States Virgin Islands,3,3,Bahamas,False,,,CONCACAF Nations League,2024
+2024-09-04,Turks and Caicos Islands,0,2,Anguilla,False,,,CONCACAF Nations League,2024
+2024-09-04,Cayman Islands,1,0,British Virgin Islands,False,,,CONCACAF Nations League,2024
+2024-09-05,Guyana,1,3,Suriname,False,,,CONCACAF Nations League,2024
+2024-09-05,Costa Rica,3,0,Guadeloupe,False,,,CONCACAF Nations League,2024
+2024-09-05,Guatemala,3,1,Martinique,False,,,CONCACAF Nations League,2024
+2024-09-05,Montserrat,1,4,El Salvador,True,,,CONCACAF Nations League,2024
+2024-09-05,Bonaire,1,1,Saint Vincent and the Grenadines,False,,,CONCACAF Nations League,2024
+2024-09-06,French Guiana,0,1,Nicaragua,False,,,CONCACAF Nations League,2024
+2024-09-06,Jamaica,0,0,Cuba,False,,,CONCACAF Nations League,2024
+2024-09-06,Honduras,4,0,Trinidad and Tobago,False,,,CONCACAF Nations League,2024
+2024-09-06,Saint Lucia,2,1,Curaçao,True,,,CONCACAF Nations League,2024
+2024-09-06,Grenada,2,0,Saint Martin,False,,,CONCACAF Nations League,2024
+2024-09-06,Sint Maarten,2,0,Aruba,True,,,CONCACAF Nations League,2024
+2024-09-06,Puerto Rico,1,4,Haiti,False,,,CONCACAF Nations League,2024
+2024-09-07,Bermuda,2,3,Dominican Republic,True,,,CONCACAF Nations League,2024
+2024-09-07,Antigua and Barbuda,1,2,Dominica,False,,,CONCACAF Nations League,2024
+2024-09-07,Bahamas,2,3,Barbados,True,,,CONCACAF Nations League,2024
+2024-09-07,Turks and Caicos Islands,0,4,Belize,False,,,CONCACAF Nations League,2024
+2024-09-07,Cayman Islands,1,4,Saint Kitts and Nevis,False,,,CONCACAF Nations League,2024
+2024-09-08,Saint Vincent and the Grenadines,2,0,Montserrat,True,,,CONCACAF Nations League,2024
+2024-09-08,Bonaire,1,2,El Salvador,False,,,CONCACAF Nations League,2024
+2024-09-09,Guadeloupe,1,0,Suriname,False,,,CONCACAF Nations League,2024
+2024-09-09,Martinique,2,2,Guyana,False,,,CONCACAF Nations League,2024
+2024-09-09,Guatemala,0,0,Costa Rica,False,,,CONCACAF Nations League,2024
+2024-09-09,Curaçao,4,0,Saint Martin,True,,,CONCACAF Nations League,2024
+2024-09-09,Grenada,1,2,Saint Lucia,False,,,CONCACAF Nations League,2024
+2024-09-09,Haiti,6,0,Sint Maarten,True,,,CONCACAF Nations League,2024
+2024-09-09,Puerto Rico,1,0,Aruba,False,,,CONCACAF Nations League,2024
+2024-09-10,Cuba,1,1,Nicaragua,False,,,CONCACAF Nations League,2024
+2024-09-10,Trinidad and Tobago,0,0,French Guiana,False,,,CONCACAF Nations League,2024
+2024-09-10,Honduras,1,2,Jamaica,False,,,CONCACAF Nations League,2024
+2024-09-10,Dominican Republic,2,0,Dominica,True,,,CONCACAF Nations League,2024
+2024-09-10,Antigua and Barbuda,0,1,Bermuda,False,,,CONCACAF Nations League,2024
+2024-09-10,United States Virgin Islands,0,3,Barbados,False,,,CONCACAF Nations League,2024
+2024-09-10,Belize,1,0,Anguilla,True,,,CONCACAF Nations League,2024
+2024-09-10,Saint Kitts and Nevis,2,0,British Virgin Islands,True,,,CONCACAF Nations League,2024
+2024-10-09,Barbados,5,0,United States Virgin Islands,False,,,CONCACAF Nations League,2024
+2024-10-09,Belize,1,0,Anguilla,False,,,CONCACAF Nations League,2024
+2024-10-09,Saint Kitts and Nevis,3,1,British Virgin Islands,False,,,CONCACAF Nations League,2024
+2024-10-10,Cuba,2,2,Trinidad and Tobago,False,,,CONCACAF Nations League,2024
+2024-10-10,French Guiana,2,3,Honduras,False,,,CONCACAF Nations League,2024
+2024-10-10,Nicaragua,0,2,Jamaica,False,,,CONCACAF Nations League,2024
+2024-10-10,Bonaire,0,1,Montserrat,True,,,CONCACAF Nations League,2024
+2024-10-10,Saint Vincent and the Grenadines,2,3,El Salvador,False,,,CONCACAF Nations League,2024
+2024-10-11,Guadeloupe,0,1,Martinique,False,,,CONCACAF Nations League,2024
+2024-10-11,Suriname,1,1,Costa Rica,False,,,CONCACAF Nations League,2024
+2024-10-11,Guyana,1,3,Guatemala,False,,,CONCACAF Nations League,2024
+2024-10-11,Grenada,0,0,Curaçao,True,,,CONCACAF Nations League,2024
+2024-10-11,Saint Lucia,2,1,Saint Martin,False,,,CONCACAF Nations League,2024
+2024-10-11,Sint Maarten,3,2,Puerto Rico,True,,,CONCACAF Nations League,2024
+2024-10-11,Aruba,1,3,Haiti,False,,,CONCACAF Nations League,2024
+2024-10-12,Antigua and Barbuda,0,5,Dominican Republic,True,,,CONCACAF Nations League,2024
+2024-10-12,Bermuda,6,1,Dominica,False,,,CONCACAF Nations League,2024
+2024-10-12,Bahamas,3,1,United States Virgin Islands,True,,,CONCACAF Nations League,2024
+2024-10-12,Turks and Caicos Islands,2,1,Anguilla,True,,,CONCACAF Nations League,2024
+2024-10-12,Cayman Islands,1,0,British Virgin Islands,True,,,CONCACAF Nations League,2024
+2024-10-13,Montserrat,0,1,Bonaire,True,,,CONCACAF Nations League,2024
+2024-10-13,Saint Vincent and the Grenadines,2,1,El Salvador,False,,,CONCACAF Nations League,2024
+2024-10-14,Nicaragua,3,2,French Guiana,False,,,CONCACAF Nations League,2024
+2024-10-14,Jamaica,0,0,Honduras,False,,,CONCACAF Nations League,2024
+2024-10-14,Trinidad and Tobago,3,1,Cuba,False,,,CONCACAF Nations League,2024
+2024-10-14,Curaçao,1,0,Grenada,True,,,CONCACAF Nations League,2024
+2024-10-14,Saint Lucia,0,4,Saint Martin,False,,,CONCACAF Nations League,2024
+2024-10-14,Puerto Rico,2,1,Sint Maarten,True,,,CONCACAF Nations League,2024
+2024-10-14,Aruba,3,5,Haiti,False,,,CONCACAF Nations League,2024
+2024-10-15,Costa Rica,3,0,Guatemala,False,,,CONCACAF Nations League,2024
+2024-10-15,Guadeloupe,0,0,Martinique,False,,,CONCACAF Nations League,2024
+2024-10-15,Suriname,5,1,Guyana,False,,,CONCACAF Nations League,2024
+2024-10-15,Dominican Republic,5,0,Antigua and Barbuda,True,,,CONCACAF Nations League,2024
+2024-10-15,Bermuda,3,2,Dominica,False,,,CONCACAF Nations League,2024
+2024-10-15,Barbados,6,2,Bahamas,False,,,CONCACAF Nations League,2024
+2024-10-15,Belize,3,0,Turks and Caicos Islands,False,,,CONCACAF Nations League,2024
+2024-10-15,Saint Kitts and Nevis,1,1,Cayman Islands,False,,,CONCACAF Nations League,2024

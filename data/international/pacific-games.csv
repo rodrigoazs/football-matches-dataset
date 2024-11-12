@@ -1,76 +1,76 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2011-08-27,Fiji,3,0,Tahiti,True,False,,Pacific Games,2011
-2011-08-27,New Caledonia,5,0,Vanuatu,False,False,,Pacific Games,2011
-2011-08-27,Papua New Guinea,4,0,Cook Islands,True,False,,Pacific Games,2011
-2011-08-27,Solomon Islands,7,0,Guam,True,False,,Pacific Games,2011
-2011-08-27,Tuvalu,4,0,American Samoa,True,False,,Pacific Games,2011
-2011-08-30,American Samoa,0,4,Solomon Islands,True,False,,Pacific Games,2011
-2011-08-30,Fiji,9,0,Kiribati,True,False,,Pacific Games,2011
-2011-08-30,New Caledonia,9,0,Guam,False,False,,Pacific Games,2011
-2011-08-30,Tahiti,7,0,Cook Islands,True,False,,Pacific Games,2011
-2011-08-30,Vanuatu,5,1,Tuvalu,True,False,,Pacific Games,2011
-2011-09-01,American Samoa,0,2,Guam,True,False,,Pacific Games,2011
-2011-09-01,Cook Islands,3,0,Kiribati,True,False,,Pacific Games,2011
-2011-09-01,New Caledonia,8,0,Tuvalu,False,False,,Pacific Games,2011
-2011-09-01,Tahiti,1,1,Papua New Guinea,True,False,,Pacific Games,2011
-2011-09-01,Vanuatu,1,0,Solomon Islands,True,False,,Pacific Games,2011
-2011-09-03,Cook Islands,1,4,Fiji,True,False,,Pacific Games,2011
-2011-09-03,Guam,1,4,Vanuatu,True,False,,Pacific Games,2011
-2011-09-03,Kiribati,1,17,Papua New Guinea,True,False,,Pacific Games,2011
-2011-09-03,New Caledonia,8,0,American Samoa,False,False,,Pacific Games,2011
-2011-09-03,Solomon Islands,6,1,Tuvalu,True,False,,Pacific Games,2011
-2011-09-05,American Samoa,0,8,Vanuatu,True,False,,Pacific Games,2011
-2011-09-05,Guam,1,1,Tuvalu,True,False,,Pacific Games,2011
-2011-09-05,Kiribati,1,17,Tahiti,True,False,,Pacific Games,2011
-2011-09-05,New Caledonia,1,2,Solomon Islands,False,False,,Pacific Games,2011
-2011-09-05,Papua New Guinea,0,2,Fiji,True,False,,Pacific Games,2011
-2011-09-07,New Caledonia,3,1,Tahiti,False,False,,Pacific Games,2011
-2011-09-07,Solomon Islands,2,1,Fiji,True,False,,Pacific Games,2011
-2011-09-09,New Caledonia,2,0,Solomon Islands,False,False,,Pacific Games,2011
-2011-09-09,Tahiti,2,1,Fiji,True,False,,Pacific Games,2011
-2019-07-08,Samoa,0,6,Papua New Guinea,False,False,,Pacific Games,2019
-2019-07-08,American Samoa,0,5,New Caledonia,True,False,,Pacific Games,2019
-2019-07-08,Tuvalu,0,13,Solomon Islands,True,False,,Pacific Games,2019
-2019-07-08,Tahiti,1,2,Fiji,True,False,,Pacific Games,2019
-2019-07-10,Papua New Guinea,2,0,Vanuatu,True,False,,Pacific Games,2019
-2019-07-10,Tuvalu,0,7,Tahiti,True,False,,Pacific Games,2019
-2019-07-10,American Samoa,0,9,Fiji,True,False,,Pacific Games,2019
-2019-07-10,Solomon Islands,0,2,New Caledonia,True,False,,Pacific Games,2019
-2019-07-12,Samoa,2,0,Tonga,False,False,,Pacific Games,2019
-2019-07-12,American Samoa,1,1,Tuvalu,True,False,,Pacific Games,2019
-2019-07-12,Solomon Islands,0,3,Tahiti,True,False,,Pacific Games,2019
-2019-07-12,New Caledonia,1,0,Fiji,True,False,,Pacific Games,2019
-2019-07-15,Tonga,0,14,Vanuatu,True,False,,Pacific Games,2019
-2019-07-15,Fiji,10,1,Tuvalu,True,False,,Pacific Games,2019
-2019-07-15,Solomon Islands,13,0,American Samoa,True,False,,Pacific Games,2019
-2019-07-15,Tahiti,0,3,New Caledonia,True,False,,Pacific Games,2019
-2019-07-18,Papua New Guinea,8,0,Tonga,True,False,,Pacific Games,2019
-2019-07-18,Samoa,0,11,Vanuatu,False,False,,Pacific Games,2019
-2019-07-18,New Caledonia,11,0,Tuvalu,True,False,,Pacific Games,2019
-2019-07-18,Tahiti,8,1,American Samoa,True,False,,Pacific Games,2019
-2019-07-18,Fiji,4,4,Solomon Islands,True,False,,Pacific Games,2019
-2019-07-20,Papua New Guinea,1,1,Fiji,True,False,,Pacific Games,2019
-2023-11-17,Papua New Guinea,3,0,Tuvalu,True,False,,Pacific Games,2023
-2023-11-17,Solomon Islands,1,0,Samoa,False,False,,Pacific Games,2023
-2023-11-18,New Caledonia,7,0,Tonga,True,False,,Pacific Games,2023
-2023-11-18,Fiji,10,0,Northern Mariana Islands,True,False,,Pacific Games,2023
-2023-11-20,Tuvalu,0,6,Vanuatu,True,False,,Pacific Games,2023
-2023-11-20,Samoa,10,0,American Samoa,True,False,,Pacific Games,2023
-2023-11-21,Tonga,1,2,Cook Islands,True,False,,Pacific Games,2023
-2023-11-21,Fiji,0,0,Tahiti,True,False,,Pacific Games,2023
-2023-11-23,Vanuatu,1,1,Papua New Guinea,True,False,,Pacific Games,2023
-2023-11-23,Solomon Islands,11,0,American Samoa,False,False,,Pacific Games,2023
-2023-11-24,Cook Islands,0,8,New Caledonia,True,False,,Pacific Games,2023
-2023-11-24,Northern Mariana Islands,0,5,Tahiti,True,False,,Pacific Games,2023
-2023-11-27,Northern Mariana Islands,4,0,American Samoa,True,False,,Pacific Games,2023
-2023-11-27,Tonga,0,4,Tuvalu,True,False,,Pacific Games,2023
-2023-11-27,Tahiti,2,1,Samoa,True,False,,Pacific Games,2023
-2023-11-27,Cook Islands,0,3,Papua New Guinea,True,False,,Pacific Games,2023
-2023-11-28,New Caledonia,1,0,Vanuatu,True,False,,Pacific Games,2023
-2023-11-28,Solomon Islands,2,0,Fiji,False,False,,Pacific Games,2023
-2023-11-30,American Samoa,2,6,Tonga,True,False,,Pacific Games,2023
-2023-11-30,Northern Mariana Islands,1,4,Tuvalu,True,False,,Pacific Games,2023
-2023-11-30,Samoa,3,0,Cook Islands,True,False,,Pacific Games,2023
-2023-11-30,Tahiti,2,0,Papua New Guinea,True,False,,Pacific Games,2023
-2023-12-01,Vanuatu,2,4,Fiji,True,False,,Pacific Games,2023
-2023-12-02,Solomon Islands,2,2,New Caledonia,False,False,,Pacific Games,2023
+2011-08-27,Fiji,3,0,Tahiti,True,,,Pacific Games,2011
+2011-08-27,New Caledonia,5,0,Vanuatu,False,,,Pacific Games,2011
+2011-08-27,Papua New Guinea,4,0,Cook Islands,True,,,Pacific Games,2011
+2011-08-27,Solomon Islands,7,0,Guam,True,,,Pacific Games,2011
+2011-08-27,Tuvalu,4,0,American Samoa,True,,,Pacific Games,2011
+2011-08-30,American Samoa,0,4,Solomon Islands,True,,,Pacific Games,2011
+2011-08-30,Fiji,9,0,Kiribati,True,,,Pacific Games,2011
+2011-08-30,New Caledonia,9,0,Guam,False,,,Pacific Games,2011
+2011-08-30,Tahiti,7,0,Cook Islands,True,,,Pacific Games,2011
+2011-08-30,Vanuatu,5,1,Tuvalu,True,,,Pacific Games,2011
+2011-09-01,American Samoa,0,2,Guam,True,,,Pacific Games,2011
+2011-09-01,Cook Islands,3,0,Kiribati,True,,,Pacific Games,2011
+2011-09-01,New Caledonia,8,0,Tuvalu,False,,,Pacific Games,2011
+2011-09-01,Tahiti,1,1,Papua New Guinea,True,,,Pacific Games,2011
+2011-09-01,Vanuatu,1,0,Solomon Islands,True,,,Pacific Games,2011
+2011-09-03,Cook Islands,1,4,Fiji,True,,,Pacific Games,2011
+2011-09-03,Guam,1,4,Vanuatu,True,,,Pacific Games,2011
+2011-09-03,Kiribati,1,17,Papua New Guinea,True,,,Pacific Games,2011
+2011-09-03,New Caledonia,8,0,American Samoa,False,,,Pacific Games,2011
+2011-09-03,Solomon Islands,6,1,Tuvalu,True,,,Pacific Games,2011
+2011-09-05,American Samoa,0,8,Vanuatu,True,,,Pacific Games,2011
+2011-09-05,Guam,1,1,Tuvalu,True,,,Pacific Games,2011
+2011-09-05,Kiribati,1,17,Tahiti,True,,,Pacific Games,2011
+2011-09-05,New Caledonia,1,2,Solomon Islands,False,,,Pacific Games,2011
+2011-09-05,Papua New Guinea,0,2,Fiji,True,,,Pacific Games,2011
+2011-09-07,New Caledonia,3,1,Tahiti,False,,,Pacific Games,2011
+2011-09-07,Solomon Islands,2,1,Fiji,True,,,Pacific Games,2011
+2011-09-09,New Caledonia,2,0,Solomon Islands,False,,,Pacific Games,2011
+2011-09-09,Tahiti,2,1,Fiji,True,,,Pacific Games,2011
+2019-07-08,Samoa,0,6,Papua New Guinea,False,,,Pacific Games,2019
+2019-07-08,American Samoa,0,5,New Caledonia,True,,,Pacific Games,2019
+2019-07-08,Tuvalu,0,13,Solomon Islands,True,,,Pacific Games,2019
+2019-07-08,Tahiti,1,2,Fiji,True,,,Pacific Games,2019
+2019-07-10,Papua New Guinea,2,0,Vanuatu,True,,,Pacific Games,2019
+2019-07-10,Tuvalu,0,7,Tahiti,True,,,Pacific Games,2019
+2019-07-10,American Samoa,0,9,Fiji,True,,,Pacific Games,2019
+2019-07-10,Solomon Islands,0,2,New Caledonia,True,,,Pacific Games,2019
+2019-07-12,Samoa,2,0,Tonga,False,,,Pacific Games,2019
+2019-07-12,American Samoa,1,1,Tuvalu,True,,,Pacific Games,2019
+2019-07-12,Solomon Islands,0,3,Tahiti,True,,,Pacific Games,2019
+2019-07-12,New Caledonia,1,0,Fiji,True,,,Pacific Games,2019
+2019-07-15,Tonga,0,14,Vanuatu,True,,,Pacific Games,2019
+2019-07-15,Fiji,10,1,Tuvalu,True,,,Pacific Games,2019
+2019-07-15,Solomon Islands,13,0,American Samoa,True,,,Pacific Games,2019
+2019-07-15,Tahiti,0,3,New Caledonia,True,,,Pacific Games,2019
+2019-07-18,Papua New Guinea,8,0,Tonga,True,,,Pacific Games,2019
+2019-07-18,Samoa,0,11,Vanuatu,False,,,Pacific Games,2019
+2019-07-18,New Caledonia,11,0,Tuvalu,True,,,Pacific Games,2019
+2019-07-18,Tahiti,8,1,American Samoa,True,,,Pacific Games,2019
+2019-07-18,Fiji,4,4,Solomon Islands,True,,,Pacific Games,2019
+2019-07-20,Papua New Guinea,1,1,Fiji,True,,,Pacific Games,2019
+2023-11-17,Papua New Guinea,3,0,Tuvalu,True,,,Pacific Games,2023
+2023-11-17,Solomon Islands,1,0,Samoa,False,,,Pacific Games,2023
+2023-11-18,New Caledonia,7,0,Tonga,True,,,Pacific Games,2023
+2023-11-18,Fiji,10,0,Northern Mariana Islands,True,,,Pacific Games,2023
+2023-11-20,Tuvalu,0,6,Vanuatu,True,,,Pacific Games,2023
+2023-11-20,Samoa,10,0,American Samoa,True,,,Pacific Games,2023
+2023-11-21,Tonga,1,2,Cook Islands,True,,,Pacific Games,2023
+2023-11-21,Fiji,0,0,Tahiti,True,,,Pacific Games,2023
+2023-11-23,Vanuatu,1,1,Papua New Guinea,True,,,Pacific Games,2023
+2023-11-23,Solomon Islands,11,0,American Samoa,False,,,Pacific Games,2023
+2023-11-24,Cook Islands,0,8,New Caledonia,True,,,Pacific Games,2023
+2023-11-24,Northern Mariana Islands,0,5,Tahiti,True,,,Pacific Games,2023
+2023-11-27,Northern Mariana Islands,4,0,American Samoa,True,,,Pacific Games,2023
+2023-11-27,Tonga,0,4,Tuvalu,True,,,Pacific Games,2023
+2023-11-27,Tahiti,2,1,Samoa,True,,,Pacific Games,2023
+2023-11-27,Cook Islands,0,3,Papua New Guinea,True,,,Pacific Games,2023
+2023-11-28,New Caledonia,1,0,Vanuatu,True,,,Pacific Games,2023
+2023-11-28,Solomon Islands,2,0,Fiji,False,,,Pacific Games,2023
+2023-11-30,American Samoa,2,6,Tonga,True,,,Pacific Games,2023
+2023-11-30,Northern Mariana Islands,1,4,Tuvalu,True,,,Pacific Games,2023
+2023-11-30,Samoa,3,0,Cook Islands,True,,,Pacific Games,2023
+2023-11-30,Tahiti,2,0,Papua New Guinea,True,,,Pacific Games,2023
+2023-12-01,Vanuatu,2,4,Fiji,True,,,Pacific Games,2023
+2023-12-02,Solomon Islands,2,2,New Caledonia,False,,,Pacific Games,2023

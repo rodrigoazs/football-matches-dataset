@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2003-10-22,India,3,1,Rwanda,False,False,,Afro-Asian Games,2003
-2003-10-23,Burkina Faso,1,4,Zimbabwe,True,False,,Afro-Asian Games,2003
-2003-10-29,India,5,3,Zimbabwe,False,False,,Afro-Asian Games,2003
-2003-10-31,Rwanda,2,2,Zimbabwe,True,False,,Afro-Asian Games,2003
+2003-10-22,India,3,1,Rwanda,False,,,Afro-Asian Games,2003
+2003-10-23,Burkina Faso,1,4,Zimbabwe,True,,,Afro-Asian Games,2003
+2003-10-29,India,5,3,Zimbabwe,False,,,Afro-Asian Games,2003
+2003-10-31,Rwanda,2,2,Zimbabwe,True,,,Afro-Asian Games,2003

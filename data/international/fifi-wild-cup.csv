@@ -1,11 +1,11 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2006-05-29,Northern Cyprus,1,0,Greenland,True,False,,FIFI Wild Cup,2006
-2006-05-29,Republic of St. Pauli,1,1,Gibraltar,False,False,,FIFI Wild Cup,2006
-2006-05-30,Zanzibar,1,3,Northern Cyprus,True,False,,FIFI Wild Cup,2006
-2006-05-30,Republic of St. Pauli,7,0,Tibet,False,False,,FIFI Wild Cup,2006
-2006-05-31,Gibraltar,5,0,Tibet,True,False,,FIFI Wild Cup,2006
-2006-05-31,Greenland,2,4,Zanzibar,True,False,,FIFI Wild Cup,2006
-2006-06-01,Northern Cyprus,2,0,Gibraltar,True,False,,FIFI Wild Cup,2006
-2006-06-01,Republic of St. Pauli,1,2,Zanzibar,False,False,,FIFI Wild Cup,2006
-2006-06-03,Republic of St. Pauli,1,2,Gibraltar,False,False,,FIFI Wild Cup,2006
-2006-06-03,Northern Cyprus,0,0,Zanzibar,True,False,,FIFI Wild Cup,2006
+2006-05-29,Northern Cyprus,1,0,Greenland,True,,,FIFI Wild Cup,2006
+2006-05-29,Republic of St. Pauli,1,1,Gibraltar,False,,,FIFI Wild Cup,2006
+2006-05-30,Zanzibar,1,3,Northern Cyprus,True,,,FIFI Wild Cup,2006
+2006-05-30,Republic of St. Pauli,7,0,Tibet,False,,,FIFI Wild Cup,2006
+2006-05-31,Gibraltar,5,0,Tibet,True,,,FIFI Wild Cup,2006
+2006-05-31,Greenland,2,4,Zanzibar,True,,,FIFI Wild Cup,2006
+2006-06-01,Northern Cyprus,2,0,Gibraltar,True,,,FIFI Wild Cup,2006
+2006-06-01,Republic of St. Pauli,1,2,Zanzibar,False,,,FIFI Wild Cup,2006
+2006-06-03,Republic of St. Pauli,1,2,Gibraltar,False,,,FIFI Wild Cup,2006
+2006-06-03,Northern Cyprus,0,0,Zanzibar,True,,,FIFI Wild Cup,2006

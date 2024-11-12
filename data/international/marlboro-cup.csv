@@ -1,9 +1,9 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1988-08-05,El Salvador,1,2,Guatemala,True,False,,Marlboro Cup,1988
-1989-06-04,United States,3,0,Peru,False,False,,Marlboro Cup,1989
-1989-08-10,Mexico,4,2,South Korea,True,False,,Marlboro Cup,1989
-1989-08-13,United States,1,2,South Korea,False,False,,Marlboro Cup,1989
-1990-02-20,Colombia,0,0,Russia,True,False,,Marlboro Cup,1990
-1990-02-22,Costa Rica,1,2,Russia,True,False,,Marlboro Cup,1990
-1990-05-04,Colombia,2,1,Poland,True,False,,Marlboro Cup,1990
-1990-05-06,Costa Rica,0,2,Poland,True,False,,Marlboro Cup,1990
+1988-08-05,El Salvador,1,2,Guatemala,True,,,Marlboro Cup,1988
+1989-06-04,United States,3,0,Peru,False,,,Marlboro Cup,1989
+1989-08-10,Mexico,4,2,South Korea,True,,,Marlboro Cup,1989
+1989-08-13,United States,1,2,South Korea,False,,,Marlboro Cup,1989
+1990-02-20,Colombia,0,0,Russia,True,,,Marlboro Cup,1990
+1990-02-22,Costa Rica,1,2,Russia,True,,,Marlboro Cup,1990
+1990-05-04,Colombia,2,1,Poland,True,,,Marlboro Cup,1990
+1990-05-06,Costa Rica,0,2,Poland,True,,,Marlboro Cup,1990

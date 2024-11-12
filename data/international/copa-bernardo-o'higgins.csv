@@ -1,11 +1,11 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1955-09-18,Brazil,1,1,Chile,False,False,,Copa Bernardo O'Higgins,1955
-1955-09-20,Brazil,2,1,Chile,False,False,,Copa Bernardo O'Higgins,1955
-1957-09-15,Chile,1,0,Brazil,False,False,,Copa Bernardo O'Higgins,1957
-1957-09-18,Chile,1,1,Brazil,False,False,,Copa Bernardo O'Higgins,1957
-1959-09-17,Brazil,7,0,Chile,False,False,,Copa Bernardo O'Higgins,1959
-1959-09-20,Brazil,1,0,Chile,False,False,,Copa Bernardo O'Higgins,1959
-1961-05-07,Chile,1,2,Brazil,False,False,,Copa Bernardo O'Higgins,1961
-1961-05-11,Chile,0,1,Brazil,False,False,,Copa Bernardo O'Higgins,1961
-1966-04-17,Chile,0,1,Brazil,False,False,,Copa Bernardo O'Higgins,1966
-1966-04-20,Chile,2,1,Brazil,False,False,,Copa Bernardo O'Higgins,1966
+1955-09-18,Brazil,1,1,Chile,False,,,Copa Bernardo O'Higgins,1955
+1955-09-20,Brazil,2,1,Chile,False,,,Copa Bernardo O'Higgins,1955
+1957-09-15,Chile,1,0,Brazil,False,,,Copa Bernardo O'Higgins,1957
+1957-09-18,Chile,1,1,Brazil,False,,,Copa Bernardo O'Higgins,1957
+1959-09-17,Brazil,7,0,Chile,False,,,Copa Bernardo O'Higgins,1959
+1959-09-20,Brazil,1,0,Chile,False,,,Copa Bernardo O'Higgins,1959
+1961-05-07,Chile,1,2,Brazil,False,,,Copa Bernardo O'Higgins,1961
+1961-05-11,Chile,0,1,Brazil,False,,,Copa Bernardo O'Higgins,1961
+1966-04-17,Chile,0,1,Brazil,False,,,Copa Bernardo O'Higgins,1966
+1966-04-20,Chile,2,1,Brazil,False,,,Copa Bernardo O'Higgins,1966

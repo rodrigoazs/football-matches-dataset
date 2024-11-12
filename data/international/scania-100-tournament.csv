@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1991-06-12,Denmark,0,2,Italy,True,False,,Scania 100 Tournament,1991
-1991-06-13,Sweden,2,3,Russia,False,False,,Scania 100 Tournament,1991
-1991-06-15,Sweden,4,0,Denmark,False,False,,Scania 100 Tournament,1991
-1991-06-16,Italy,1,1,Russia,True,False,,Scania 100 Tournament,1991
+1991-06-12,Denmark,0,2,Italy,True,,,Scania 100 Tournament,1991
+1991-06-13,Sweden,2,3,Russia,False,,,Scania 100 Tournament,1991
+1991-06-15,Sweden,4,0,Denmark,False,,,Scania 100 Tournament,1991
+1991-06-16,Italy,1,1,Russia,True,,,Scania 100 Tournament,1991

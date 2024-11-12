@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2022-05-21,Yoruba Nation,1,1,Matabeleland,True,False,,CONIFA Africa Football Cup,2022
-2022-05-22,Biafra,0,1,Matabeleland,True,False,,CONIFA Africa Football Cup,2022
-2022-05-23,Yoruba Nation,0,1,Biafra,True,False,,CONIFA Africa Football Cup,2022
-2022-05-25,Biafra,1,0,Matabeleland,True,False,,CONIFA Africa Football Cup,2022
+2022-05-21,Yoruba Nation,1,1,Matabeleland,True,,,CONIFA Africa Football Cup,2022
+2022-05-22,Biafra,0,1,Matabeleland,True,,,CONIFA Africa Football Cup,2022
+2022-05-23,Yoruba Nation,0,1,Biafra,True,,,CONIFA Africa Football Cup,2022
+2022-05-25,Biafra,1,0,Matabeleland,True,,,CONIFA Africa Football Cup,2022

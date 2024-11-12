@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2022-03-25,Tajikistan,1,1,Uganda,True,False,,Navruz Cup,2022
-2022-03-25,Uzbekistan,3,1,Kyrgyzstan,False,False,,Navruz Cup,2022
-2022-03-29,Tajikistan,1,0,Kyrgyzstan,True,False,,Navruz Cup,2022
-2022-03-29,Uzbekistan,4,2,Uganda,False,False,,Navruz Cup,2022
+2022-03-25,Tajikistan,1,1,Uganda,True,,,Navruz Cup,2022
+2022-03-25,Uzbekistan,3,1,Kyrgyzstan,False,,,Navruz Cup,2022
+2022-03-29,Tajikistan,1,0,Kyrgyzstan,True,,,Navruz Cup,2022
+2022-03-29,Uzbekistan,4,2,Uganda,False,,,Navruz Cup,2022

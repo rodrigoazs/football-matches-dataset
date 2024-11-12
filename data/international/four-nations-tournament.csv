@@ -1,9 +1,9 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1988-03-31,Argentina,2,4,Russia,True,False,,Four Nations Tournament,1988
-1988-03-31,Germany,1,1,Sweden,False,False,,Four Nations Tournament,1988
-1988-04-02,Germany,1,0,Argentina,False,False,,Four Nations Tournament,1988
-1988-04-02,Sweden,2,0,Russia,True,False,,Four Nations Tournament,1988
-1993-02-20,Finland,0,0,Estonia,False,False,,Four Nations Tournament,1993
-1993-02-20,Latvia,1,2,Lithuania,True,False,,Four Nations Tournament,1993
-1993-02-21,Estonia,0,2,Latvia,True,False,,Four Nations Tournament,1993
-1993-02-21,Finland,3,0,Lithuania,False,False,,Four Nations Tournament,1993
+1988-03-31,Argentina,2,4,Russia,True,,,Four Nations Tournament,1988
+1988-03-31,Germany,1,1,Sweden,False,,,Four Nations Tournament,1988
+1988-04-02,Germany,1,0,Argentina,False,,,Four Nations Tournament,1988
+1988-04-02,Sweden,2,0,Russia,True,,,Four Nations Tournament,1988
+1993-02-20,Finland,0,0,Estonia,False,,,Four Nations Tournament,1993
+1993-02-20,Latvia,1,2,Lithuania,True,,,Four Nations Tournament,1993
+1993-02-21,Estonia,0,2,Latvia,True,,,Four Nations Tournament,1993
+1993-02-21,Finland,3,0,Lithuania,False,,,Four Nations Tournament,1993

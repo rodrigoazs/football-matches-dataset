@@ -1,20 +1,20 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2019-06-16,Jersey,5,0,Orkney,True,False,,Inter Games Football Tournament,2019
-2019-06-16,Ynys Môn,2,1,Western Isles,False,False,,Inter Games Football Tournament,2019
-2019-06-16,Alderney,2,4,Hitra,True,False,,Inter Games Football Tournament,2019
-2019-06-16,Saint Helena,1,6,Shetland,True,False,,Inter Games Football Tournament,2019
-2019-06-17,Ynys Môn,3,1,Orkney,False,False,,Inter Games Football Tournament,2019
-2019-06-17,Jersey,7,0,Western Isles,True,False,,Inter Games Football Tournament,2019
-2019-06-17,Isle of Man,7,1,Hitra,True,False,,Inter Games Football Tournament,2019
-2019-06-17,Guernsey,2,1,Shetland,True,False,,Inter Games Football Tournament,2019
-2019-06-18,Ynys Môn,1,0,Jersey,False,False,,Inter Games Football Tournament,2019
-2019-06-18,Western Isles,1,2,Orkney,True,False,,Inter Games Football Tournament,2019
-2019-06-18,Isle of Man,6,1,Alderney,True,False,,Inter Games Football Tournament,2019
-2019-06-18,Guernsey,9,0,Saint Helena,True,False,,Inter Games Football Tournament,2019
-2019-06-20,Western Isles,2,1,Saint Helena,True,False,,Inter Games Football Tournament,2019
-2019-06-20,Orkney,1,2,Alderney,True,False,,Inter Games Football Tournament,2019
-2019-06-20,Jersey,3,1,Hitra,True,False,,Inter Games Football Tournament,2019
-2019-06-20,Ynys Môn,2,1,Shetland,False,False,,Inter Games Football Tournament,2019
-2019-06-20,Isle of Man,2,3,Guernsey,True,False,,Inter Games Football Tournament,2019
-2019-06-21,Shetland,0,5,Isle of Man,True,False,,Inter Games Football Tournament,2019
-2019-06-21,Ynys Môn,2,1,Guernsey,False,False,,Inter Games Football Tournament,2019
+2019-06-16,Jersey,5,0,Orkney,True,,,Inter Games Football Tournament,2019
+2019-06-16,Ynys Môn,2,1,Western Isles,False,,,Inter Games Football Tournament,2019
+2019-06-16,Alderney,2,4,Hitra,True,,,Inter Games Football Tournament,2019
+2019-06-16,Saint Helena,1,6,Shetland,True,,,Inter Games Football Tournament,2019
+2019-06-17,Ynys Môn,3,1,Orkney,False,,,Inter Games Football Tournament,2019
+2019-06-17,Jersey,7,0,Western Isles,True,,,Inter Games Football Tournament,2019
+2019-06-17,Isle of Man,7,1,Hitra,True,,,Inter Games Football Tournament,2019
+2019-06-17,Guernsey,2,1,Shetland,True,,,Inter Games Football Tournament,2019
+2019-06-18,Ynys Môn,1,0,Jersey,False,,,Inter Games Football Tournament,2019
+2019-06-18,Western Isles,1,2,Orkney,True,,,Inter Games Football Tournament,2019
+2019-06-18,Isle of Man,6,1,Alderney,True,,,Inter Games Football Tournament,2019
+2019-06-18,Guernsey,9,0,Saint Helena,True,,,Inter Games Football Tournament,2019
+2019-06-20,Western Isles,2,1,Saint Helena,True,,,Inter Games Football Tournament,2019
+2019-06-20,Orkney,1,2,Alderney,True,,,Inter Games Football Tournament,2019
+2019-06-20,Jersey,3,1,Hitra,True,,,Inter Games Football Tournament,2019
+2019-06-20,Ynys Môn,2,1,Shetland,False,,,Inter Games Football Tournament,2019
+2019-06-20,Isle of Man,2,3,Guernsey,True,,,Inter Games Football Tournament,2019
+2019-06-21,Shetland,0,5,Isle of Man,True,,,Inter Games Football Tournament,2019
+2019-06-21,Ynys Môn,2,1,Guernsey,False,,,Inter Games Football Tournament,2019

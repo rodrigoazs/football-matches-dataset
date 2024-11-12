@@ -1,4 +1,4 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2016-08-01,Felvidék,1,1,Kárpátalja,True,False,,Hungary Heritage Cup,2016
-2016-08-01,Délvidék,3,1,Székely Land,True,False,,Hungary Heritage Cup,2016
-2016-08-03,Délvidék,1,2,Felvidék,True,False,,Hungary Heritage Cup,2016
+2016-08-01,Felvidék,1,1,Kárpátalja,True,,,Hungary Heritage Cup,2016
+2016-08-01,Délvidék,3,1,Székely Land,True,,,Hungary Heritage Cup,2016
+2016-08-03,Délvidék,1,2,Felvidék,True,,,Hungary Heritage Cup,2016

@@ -1,40 +1,40 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1981-07-07,Vanuatu,13,1,Western Samoa,True,False,,South Pacific Mini Games,1981
-1981-07-07,Solomon Islands,1,2,Fiji,False,False,,South Pacific Mini Games,1981
-1981-07-07,Tahiti,1,0,New Caledonia,True,False,,South Pacific Mini Games,1981
-1981-07-08,Papua New Guinea,3,2,Fiji,True,False,,South Pacific Mini Games,1981
-1981-07-08,Vanuatu,2,2,New Caledonia,True,False,,South Pacific Mini Games,1981
-1981-07-08,Tahiti,13,0,Western Samoa,True,False,,South Pacific Mini Games,1981
-1981-07-09,Solomon Islands,1,1,New Caledonia,False,False,,South Pacific Mini Games,1981
-1981-07-09,Papua New Guinea,4,1,Western Samoa,True,False,,South Pacific Mini Games,1981
-1981-07-09,Tahiti,1,1,Vanuatu,True,False,,South Pacific Mini Games,1981
-1981-07-10,Vanuatu,1,1,Fiji,True,False,,South Pacific Mini Games,1981
-1981-07-10,Solomon Islands,5,0,Western Samoa,False,False,,South Pacific Mini Games,1981
-1981-07-10,New Caledonia,5,1,Papua New Guinea,True,False,,South Pacific Mini Games,1981
-1981-07-11,Fiji,4,0,Western Samoa,True,False,,South Pacific Mini Games,1981
-1981-07-11,Tahiti,5,0,Papua New Guinea,True,False,,South Pacific Mini Games,1981
-1981-07-11,Solomon Islands,2,1,Vanuatu,False,False,,South Pacific Mini Games,1981
-1981-07-13,Vanuatu,2,3,Papua New Guinea,True,False,,South Pacific Mini Games,1981
-1981-07-13,New Caledonia,3,0,Fiji,True,False,,South Pacific Mini Games,1981
-1981-07-13,Solomon Islands,1,4,Tahiti,False,False,,South Pacific Mini Games,1981
-1981-07-14,New Caledonia,8,0,Western Samoa,True,False,,South Pacific Mini Games,1981
-1981-07-14,Tahiti,6,0,Fiji,True,False,,South Pacific Mini Games,1981
-1981-07-14,Solomon Islands,1,2,Papua New Guinea,False,False,,South Pacific Mini Games,1981
-1981-07-15,Papua New Guinea,1,0,Vanuatu,True,False,,South Pacific Mini Games,1981
-1981-07-15,Tahiti,1,0,New Caledonia,True,False,,South Pacific Mini Games,1981
-1993-12-07,Vanuatu,3,0,Tonga,False,False,,South Pacific Mini Games,1993
-1993-12-07,Tahiti,11,0,Guam,True,False,,South Pacific Mini Games,1993
-1993-12-07,Fiji,1,0,Solomon Islands,True,False,,South Pacific Mini Games,1993
-1993-12-08,New Caledonia,1,1,Papua New Guinea,True,False,,South Pacific Mini Games,1993
-1993-12-09,Tahiti,1,0,Fiji,True,False,,South Pacific Mini Games,1993
-1993-12-10,Tonga,0,5,Papua New Guinea,True,False,,South Pacific Mini Games,1993
-1993-12-10,Vanuatu,1,1,New Caledonia,False,False,,South Pacific Mini Games,1993
-1993-12-11,Solomon Islands,12,1,Guam,True,False,,South Pacific Mini Games,1993
-1993-12-13,New Caledonia,11,0,Tonga,True,False,,South Pacific Mini Games,1993
-1993-12-13,Vanuatu,1,0,Papua New Guinea,False,False,,South Pacific Mini Games,1993
-1993-12-13,Fiji,12,0,Guam,True,False,,South Pacific Mini Games,1993
-1993-12-13,Tahiti,3,0,Solomon Islands,True,False,,South Pacific Mini Games,1993
-1993-12-14,Tahiti,2,1,New Caledonia,True,False,,South Pacific Mini Games,1993
-1993-12-14,Vanuatu,0,2,Fiji,False,False,,South Pacific Mini Games,1993
-1993-12-16,Vanuatu,1,2,New Caledonia,False,False,,South Pacific Mini Games,1993
-1993-12-16,Tahiti,3,0,Fiji,True,False,,South Pacific Mini Games,1993
+1981-07-07,Vanuatu,13,1,Western Samoa,True,,,South Pacific Mini Games,1981
+1981-07-07,Solomon Islands,1,2,Fiji,False,,,South Pacific Mini Games,1981
+1981-07-07,Tahiti,1,0,New Caledonia,True,,,South Pacific Mini Games,1981
+1981-07-08,Papua New Guinea,3,2,Fiji,True,,,South Pacific Mini Games,1981
+1981-07-08,Vanuatu,2,2,New Caledonia,True,,,South Pacific Mini Games,1981
+1981-07-08,Tahiti,13,0,Western Samoa,True,,,South Pacific Mini Games,1981
+1981-07-09,Solomon Islands,1,1,New Caledonia,False,,,South Pacific Mini Games,1981
+1981-07-09,Papua New Guinea,4,1,Western Samoa,True,,,South Pacific Mini Games,1981
+1981-07-09,Tahiti,1,1,Vanuatu,True,,,South Pacific Mini Games,1981
+1981-07-10,Vanuatu,1,1,Fiji,True,,,South Pacific Mini Games,1981
+1981-07-10,Solomon Islands,5,0,Western Samoa,False,,,South Pacific Mini Games,1981
+1981-07-10,New Caledonia,5,1,Papua New Guinea,True,,,South Pacific Mini Games,1981
+1981-07-11,Fiji,4,0,Western Samoa,True,,,South Pacific Mini Games,1981
+1981-07-11,Tahiti,5,0,Papua New Guinea,True,,,South Pacific Mini Games,1981
+1981-07-11,Solomon Islands,2,1,Vanuatu,False,,,South Pacific Mini Games,1981
+1981-07-13,Vanuatu,2,3,Papua New Guinea,True,,,South Pacific Mini Games,1981
+1981-07-13,New Caledonia,3,0,Fiji,True,,,South Pacific Mini Games,1981
+1981-07-13,Solomon Islands,1,4,Tahiti,False,,,South Pacific Mini Games,1981
+1981-07-14,New Caledonia,8,0,Western Samoa,True,,,South Pacific Mini Games,1981
+1981-07-14,Tahiti,6,0,Fiji,True,,,South Pacific Mini Games,1981
+1981-07-14,Solomon Islands,1,2,Papua New Guinea,False,,,South Pacific Mini Games,1981
+1981-07-15,Papua New Guinea,1,0,Vanuatu,True,,,South Pacific Mini Games,1981
+1981-07-15,Tahiti,1,0,New Caledonia,True,,,South Pacific Mini Games,1981
+1993-12-07,Vanuatu,3,0,Tonga,False,,,South Pacific Mini Games,1993
+1993-12-07,Tahiti,11,0,Guam,True,,,South Pacific Mini Games,1993
+1993-12-07,Fiji,1,0,Solomon Islands,True,,,South Pacific Mini Games,1993
+1993-12-08,New Caledonia,1,1,Papua New Guinea,True,,,South Pacific Mini Games,1993
+1993-12-09,Tahiti,1,0,Fiji,True,,,South Pacific Mini Games,1993
+1993-12-10,Tonga,0,5,Papua New Guinea,True,,,South Pacific Mini Games,1993
+1993-12-10,Vanuatu,1,1,New Caledonia,False,,,South Pacific Mini Games,1993
+1993-12-11,Solomon Islands,12,1,Guam,True,,,South Pacific Mini Games,1993
+1993-12-13,New Caledonia,11,0,Tonga,True,,,South Pacific Mini Games,1993
+1993-12-13,Vanuatu,1,0,Papua New Guinea,False,,,South Pacific Mini Games,1993
+1993-12-13,Fiji,12,0,Guam,True,,,South Pacific Mini Games,1993
+1993-12-13,Tahiti,3,0,Solomon Islands,True,,,South Pacific Mini Games,1993
+1993-12-14,Tahiti,2,1,New Caledonia,True,,,South Pacific Mini Games,1993
+1993-12-14,Vanuatu,0,2,Fiji,False,,,South Pacific Mini Games,1993
+1993-12-16,Vanuatu,1,2,New Caledonia,False,,,South Pacific Mini Games,1993
+1993-12-16,Tahiti,3,0,Fiji,True,,,South Pacific Mini Games,1993

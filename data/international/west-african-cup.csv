@@ -1,55 +1,55 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1982-02-13,Benin,0,4,Ghana,False,False,,West African Cup,1982
-1982-02-13,Liberia,0,1,Togo,True,False,,West African Cup,1982
-1982-02-15,Benin,2,0,Niger,False,False,,West African Cup,1982
-1982-02-15,Ghana,5,5,Ivory Coast,True,False,,West African Cup,1982
-1982-02-15,Liberia,1,2,Burkina Faso,True,False,,West African Cup,1982
-1982-02-17,Benin,3,3,Ivory Coast,False,False,,West African Cup,1982
-1982-02-17,Ghana,2,2,Niger,True,False,,West African Cup,1982
-1982-02-17,Togo,2,1,Burkina Faso,True,False,,West African Cup,1982
-1982-02-19,Ghana,1,0,Burkina Faso,True,False,,West African Cup,1982
-1982-02-19,Ivory Coast,1,1,Niger,True,False,,West African Cup,1982
-1982-02-21,Ivory Coast,1,1,Togo,True,False,,West African Cup,1982
-1982-02-22,Ivory Coast,1,1,Burkina Faso,True,False,,West African Cup,1982
-1982-02-23,Ghana,2,1,Togo,True,False,,West African Cup,1982
-1983-09-25,Ivory Coast,0,0,Liberia,False,False,,West African Cup,1983
-1983-09-27,Ghana,1,1,Togo,True,False,,West African Cup,1983
-1983-09-28,Ghana,1,0,Liberia,True,False,,West African Cup,1983
-1983-09-28,Ivory Coast,3,0,Togo,False,False,,West African Cup,1983
-1983-09-30,Ivory Coast,0,2,Ghana,False,False,,West African Cup,1983
-1983-09-30,Liberia,0,4,Togo,True,False,,West African Cup,1983
-1983-10-02,Ghana,3,1,Togo,True,False,,West African Cup,1983
-1983-10-02,Ivory Coast,2,1,Liberia,False,False,,West African Cup,1983
-1984-11-17,Burkina Faso,1,1,Togo,False,False,,West African Cup,1984
-1984-11-18,Ghana,2,0,Ivory Coast,True,False,,West African Cup,1984
-1984-11-20,Burkina Faso,2,2,Ivory Coast,False,False,,West African Cup,1984
-1984-11-21,Ghana,2,2,Togo,True,False,,West African Cup,1984
-1984-11-22,Burkina Faso,2,1,Benin,False,False,,West African Cup,1984
-1984-11-23,Ivory Coast,1,1,Togo,True,False,,West African Cup,1984
-1984-11-24,Benin,1,2,Ivory Coast,True,False,,West African Cup,1984
-1984-11-24,Burkina Faso,1,1,Ghana,False,False,,West African Cup,1984
-1984-11-25,Benin,0,2,Togo,True,False,,West African Cup,1984
-1984-11-27,Benin,1,3,Ghana,True,False,,West African Cup,1984
-1984-11-28,Burkina Faso,0,2,Ivory Coast,False,False,,West African Cup,1984
-1984-11-28,Ghana,1,1,Togo,True,False,,West African Cup,1984
-1986-02-23,Liberia,0,1,Burkina Faso,True,False,,West African Cup,1986
-1986-02-24,Burkina Faso,0,1,Togo,True,False,,West African Cup,1986
-1986-02-24,Ghana,2,0,Niger,False,False,,West African Cup,1986
-1986-02-25,Ghana,2,2,Togo,False,False,,West African Cup,1986
-1986-02-25,Liberia,3,0,Niger,True,False,,West African Cup,1986
-1986-02-26,Burkina Faso,0,0,Niger,True,False,,West African Cup,1986
-1986-02-26,Ghana,3,0,Liberia,False,False,,West African Cup,1986
-1986-02-27,Ghana,2,0,Burkina Faso,False,False,,West African Cup,1986
-1986-02-27,Togo,1,0,Liberia,True,False,,West African Cup,1986
-1986-02-28,Niger,3,1,Togo,True,False,,West African Cup,1986
-1986-03-01,Ghana,2,0,Burkina Faso,False,False,,West African Cup,1986
-1986-03-01,Togo,3,1,Niger,True,False,,West African Cup,1986
-1986-03-02,Burkina Faso,1,2,Niger,True,False,,West African Cup,1986
-1986-03-02,Ghana,1,0,Togo,False,False,,West African Cup,1986
-1987-01-31,Ivory Coast,0,2,Ghana,True,False,,West African Cup,1987
-1987-02-01,Liberia,2,0,Burkina Faso,False,False,,West African Cup,1987
-1987-02-02,Niger,0,4,Ghana,True,False,,West African Cup,1987
-1987-02-03,Liberia,0,0,Benin,False,False,,West African Cup,1987
-1987-02-04,Niger,0,1,Ivory Coast,True,False,,West African Cup,1987
-1987-02-05,Burkina Faso,3,2,Benin,True,False,,West African Cup,1987
-1987-02-08,Liberia,1,2,Ghana,False,False,,West African Cup,1987
+1982-02-13,Benin,0,4,Ghana,False,,,West African Cup,1982
+1982-02-13,Liberia,0,1,Togo,True,,,West African Cup,1982
+1982-02-15,Benin,2,0,Niger,False,,,West African Cup,1982
+1982-02-15,Ghana,5,5,Ivory Coast,True,,,West African Cup,1982
+1982-02-15,Liberia,1,2,Burkina Faso,True,,,West African Cup,1982
+1982-02-17,Benin,3,3,Ivory Coast,False,,,West African Cup,1982
+1982-02-17,Ghana,2,2,Niger,True,,,West African Cup,1982
+1982-02-17,Togo,2,1,Burkina Faso,True,,,West African Cup,1982
+1982-02-19,Ghana,1,0,Burkina Faso,True,,,West African Cup,1982
+1982-02-19,Ivory Coast,1,1,Niger,True,,,West African Cup,1982
+1982-02-21,Ivory Coast,1,1,Togo,True,,,West African Cup,1982
+1982-02-22,Ivory Coast,1,1,Burkina Faso,True,,,West African Cup,1982
+1982-02-23,Ghana,2,1,Togo,True,,,West African Cup,1982
+1983-09-25,Ivory Coast,0,0,Liberia,False,,,West African Cup,1983
+1983-09-27,Ghana,1,1,Togo,True,,,West African Cup,1983
+1983-09-28,Ghana,1,0,Liberia,True,,,West African Cup,1983
+1983-09-28,Ivory Coast,3,0,Togo,False,,,West African Cup,1983
+1983-09-30,Ivory Coast,0,2,Ghana,False,,,West African Cup,1983
+1983-09-30,Liberia,0,4,Togo,True,,,West African Cup,1983
+1983-10-02,Ghana,3,1,Togo,True,,,West African Cup,1983
+1983-10-02,Ivory Coast,2,1,Liberia,False,,,West African Cup,1983
+1984-11-17,Burkina Faso,1,1,Togo,False,,,West African Cup,1984
+1984-11-18,Ghana,2,0,Ivory Coast,True,,,West African Cup,1984
+1984-11-20,Burkina Faso,2,2,Ivory Coast,False,,,West African Cup,1984
+1984-11-21,Ghana,2,2,Togo,True,,,West African Cup,1984
+1984-11-22,Burkina Faso,2,1,Benin,False,,,West African Cup,1984
+1984-11-23,Ivory Coast,1,1,Togo,True,,,West African Cup,1984
+1984-11-24,Benin,1,2,Ivory Coast,True,,,West African Cup,1984
+1984-11-24,Burkina Faso,1,1,Ghana,False,,,West African Cup,1984
+1984-11-25,Benin,0,2,Togo,True,,,West African Cup,1984
+1984-11-27,Benin,1,3,Ghana,True,,,West African Cup,1984
+1984-11-28,Burkina Faso,0,2,Ivory Coast,False,,,West African Cup,1984
+1984-11-28,Ghana,1,1,Togo,True,,,West African Cup,1984
+1986-02-23,Liberia,0,1,Burkina Faso,True,,,West African Cup,1986
+1986-02-24,Burkina Faso,0,1,Togo,True,,,West African Cup,1986
+1986-02-24,Ghana,2,0,Niger,False,,,West African Cup,1986
+1986-02-25,Ghana,2,2,Togo,False,,,West African Cup,1986
+1986-02-25,Liberia,3,0,Niger,True,,,West African Cup,1986
+1986-02-26,Burkina Faso,0,0,Niger,True,,,West African Cup,1986
+1986-02-26,Ghana,3,0,Liberia,False,,,West African Cup,1986
+1986-02-27,Ghana,2,0,Burkina Faso,False,,,West African Cup,1986
+1986-02-27,Togo,1,0,Liberia,True,,,West African Cup,1986
+1986-02-28,Niger,3,1,Togo,True,,,West African Cup,1986
+1986-03-01,Ghana,2,0,Burkina Faso,False,,,West African Cup,1986
+1986-03-01,Togo,3,1,Niger,True,,,West African Cup,1986
+1986-03-02,Burkina Faso,1,2,Niger,True,,,West African Cup,1986
+1986-03-02,Ghana,1,0,Togo,False,,,West African Cup,1986
+1987-01-31,Ivory Coast,0,2,Ghana,True,,,West African Cup,1987
+1987-02-01,Liberia,2,0,Burkina Faso,False,,,West African Cup,1987
+1987-02-02,Niger,0,4,Ghana,True,,,West African Cup,1987
+1987-02-03,Liberia,0,0,Benin,False,,,West African Cup,1987
+1987-02-04,Niger,0,1,Ivory Coast,True,,,West African Cup,1987
+1987-02-05,Burkina Faso,3,2,Benin,True,,,West African Cup,1987
+1987-02-08,Liberia,1,2,Ghana,False,,,West African Cup,1987

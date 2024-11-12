@@ -1,12 +1,12 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1956-06-24,Brazil,2,0,Uruguay,False,False,,Atlantic Cup,1956
-1956-07-01,Uruguay,1,2,Argentina,False,False,,Atlantic Cup,1956
-1956-07-08,Argentina,0,0,Brazil,False,False,,Atlantic Cup,1956
-1960-07-03,Paraguay,1,2,Brazil,False,False,,Atlantic Cup,1960
-1960-07-09,Argentina,1,0,Paraguay,False,False,,Atlantic Cup,1960
-1960-07-09,Uruguay,1,0,Brazil,False,False,,Atlantic Cup,1960
-1960-07-12,Brazil,5,1,Argentina,False,False,,Atlantic Cup,1960
-1960-07-13,Uruguay,2,1,Paraguay,False,False,,Atlantic Cup,1960
-1960-08-17,Argentina,4,0,Uruguay,False,False,,Atlantic Cup,1960
-1976-03-10,Uruguay,2,2,Paraguay,False,False,,Atlantic Cup,1976
-1976-05-19,Paraguay,1,0,Uruguay,False,False,,Atlantic Cup,1976
+1956-06-24,Brazil,2,0,Uruguay,False,,,Atlantic Cup,1956
+1956-07-01,Uruguay,1,2,Argentina,False,,,Atlantic Cup,1956
+1956-07-08,Argentina,0,0,Brazil,False,,,Atlantic Cup,1956
+1960-07-03,Paraguay,1,2,Brazil,False,,,Atlantic Cup,1960
+1960-07-09,Argentina,1,0,Paraguay,False,,,Atlantic Cup,1960
+1960-07-09,Uruguay,1,0,Brazil,False,,,Atlantic Cup,1960
+1960-07-12,Brazil,5,1,Argentina,False,,,Atlantic Cup,1960
+1960-07-13,Uruguay,2,1,Paraguay,False,,,Atlantic Cup,1960
+1960-08-17,Argentina,4,0,Uruguay,False,,,Atlantic Cup,1960
+1976-03-10,Uruguay,2,2,Paraguay,False,,,Atlantic Cup,1976
+1976-05-19,Paraguay,1,0,Uruguay,False,,,Atlantic Cup,1976

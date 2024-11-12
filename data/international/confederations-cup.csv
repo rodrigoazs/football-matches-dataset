@@ -1,141 +1,141 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1992-10-15,Saudi Arabia,3,0,United States,False,False,,Confederations Cup,1992
-1992-10-16,Argentina,4,0,Ivory Coast,True,False,,Confederations Cup,1992
-1992-10-19,United States,5,2,Ivory Coast,True,False,,Confederations Cup,1992
-1992-10-20,Saudi Arabia,1,3,Argentina,False,False,,Confederations Cup,1992
-1995-01-06,Japan,0,3,Nigeria,True,False,,Confederations Cup,1995
-1995-01-06,Saudi Arabia,0,2,Mexico,False,False,,Confederations Cup,1995
-1995-01-08,Japan,1,5,Argentina,True,False,,Confederations Cup,1995
-1995-01-08,Saudi Arabia,0,2,Denmark,False,False,,Confederations Cup,1995
-1995-01-10,Denmark,1,1,Mexico,True,False,,Confederations Cup,1995
-1995-01-10,Nigeria,0,0,Argentina,True,False,,Confederations Cup,1995
-1995-01-13,Denmark,2,0,Argentina,True,False,,Confederations Cup,1995
-1995-01-13,Mexico,1,1,Nigeria,True,False,,Confederations Cup,1995
-1997-12-12,Mexico,1,3,Australia,True,False,,Confederations Cup,1997
-1997-12-12,Saudi Arabia,0,3,Brazil,False,False,,Confederations Cup,1997
-1997-12-13,South Africa,2,2,Czech Republic,True,False,,Confederations Cup,1997
-1997-12-13,United Arab Emirates,0,2,Uruguay,True,False,,Confederations Cup,1997
-1997-12-14,Australia,0,0,Brazil,True,False,,Confederations Cup,1997
-1997-12-14,Saudi Arabia,0,5,Mexico,False,False,,Confederations Cup,1997
-1997-12-15,Czech Republic,1,2,Uruguay,True,False,,Confederations Cup,1997
-1997-12-15,United Arab Emirates,1,0,South Africa,True,False,,Confederations Cup,1997
-1997-12-16,Brazil,3,2,Mexico,True,False,,Confederations Cup,1997
-1997-12-16,Saudi Arabia,1,0,Australia,False,False,,Confederations Cup,1997
-1997-12-17,United Arab Emirates,1,6,Czech Republic,True,False,,Confederations Cup,1997
-1997-12-17,Uruguay,4,3,South Africa,True,False,,Confederations Cup,1997
-1997-12-19,Brazil,2,0,Czech Republic,True,False,,Confederations Cup,1997
-1997-12-19,Uruguay,0,1,Australia,True,False,,Confederations Cup,1997
-1997-12-21,Brazil,6,0,Australia,True,False,,Confederations Cup,1997
-1997-12-21,Czech Republic,1,0,Uruguay,True,False,,Confederations Cup,1997
-1999-07-24,Brazil,4,0,Germany,True,False,,Confederations Cup,1999
-1999-07-24,New Zealand,1,2,United States,True,False,,Confederations Cup,1999
-1999-07-25,Bolivia,2,2,Egypt,True,False,,Confederations Cup,1999
-1999-07-25,Mexico,5,1,Saudi Arabia,False,False,,Confederations Cup,1999
-1999-07-27,Mexico,2,2,Egypt,False,False,,Confederations Cup,1999
-1999-07-27,Saudi Arabia,0,0,Bolivia,True,False,,Confederations Cup,1999
-1999-07-28,Brazil,1,0,United States,True,False,,Confederations Cup,1999
-1999-07-28,Germany,2,0,New Zealand,True,False,,Confederations Cup,1999
-1999-07-29,Egypt,1,5,Saudi Arabia,True,False,,Confederations Cup,1999
-1999-07-29,Mexico,1,0,Bolivia,False,False,,Confederations Cup,1999
-1999-07-30,New Zealand,0,2,Brazil,True,False,,Confederations Cup,1999
-1999-07-30,United States,2,0,Germany,True,False,,Confederations Cup,1999
-1999-08-01,Brazil,8,2,Saudi Arabia,True,False,,Confederations Cup,1999
-1999-08-01,Mexico,1,0,United States,False,False,,Confederations Cup,1999
-1999-08-03,United States,2,0,Saudi Arabia,True,False,,Confederations Cup,1999
-1999-08-04,Mexico,4,3,Brazil,False,False,,Confederations Cup,1999
-2001-05-30,South Korea,0,5,France,False,False,,Confederations Cup,2001
-2001-05-30,Mexico,0,2,Australia,True,False,,Confederations Cup,2001
-2001-05-31,Brazil,2,0,Cameroon,True,False,,Confederations Cup,2001
-2001-05-31,Japan,3,0,Canada,False,False,,Confederations Cup,2001
-2001-06-01,Australia,1,0,France,True,False,,Confederations Cup,2001
-2001-06-01,South Korea,2,1,Mexico,False,False,,Confederations Cup,2001
-2001-06-02,Canada,0,0,Brazil,True,False,,Confederations Cup,2001
-2001-06-02,Japan,2,0,Cameroon,False,False,,Confederations Cup,2001
-2001-06-03,France,4,0,Mexico,True,False,,Confederations Cup,2001
-2001-06-03,South Korea,1,0,Australia,False,False,,Confederations Cup,2001
-2001-06-04,Cameroon,2,0,Canada,True,False,,Confederations Cup,2001
-2001-06-04,Japan,0,0,Brazil,False,False,,Confederations Cup,2001
-2001-06-07,France,2,1,Brazil,True,False,,Confederations Cup,2001
-2001-06-07,Japan,1,0,Australia,False,False,,Confederations Cup,2001
-2001-06-09,Australia,1,0,Brazil,True,False,,Confederations Cup,2001
-2001-06-10,Japan,0,1,France,False,False,,Confederations Cup,2001
-2003-06-18,France,1,0,Colombia,False,False,,Confederations Cup,2003
-2003-06-18,New Zealand,0,3,Japan,True,False,,Confederations Cup,2003
-2003-06-19,Brazil,0,1,Cameroon,True,False,,Confederations Cup,2003
-2003-06-19,Turkey,2,1,United States,True,False,,Confederations Cup,2003
-2003-06-20,Colombia,3,1,New Zealand,True,False,,Confederations Cup,2003
-2003-06-20,France,2,1,Japan,False,False,,Confederations Cup,2003
-2003-06-21,Brazil,1,0,United States,True,False,,Confederations Cup,2003
-2003-06-21,Cameroon,1,0,Turkey,True,False,,Confederations Cup,2003
-2003-06-22,France,5,0,New Zealand,False,False,,Confederations Cup,2003
-2003-06-22,Japan,0,1,Colombia,True,False,,Confederations Cup,2003
-2003-06-23,Brazil,2,2,Turkey,True,False,,Confederations Cup,2003
-2003-06-23,United States,0,0,Cameroon,True,False,,Confederations Cup,2003
-2003-06-26,Cameroon,1,0,Colombia,True,False,,Confederations Cup,2003
-2003-06-26,France,3,2,Turkey,False,False,,Confederations Cup,2003
-2003-06-28,Colombia,1,2,Turkey,True,False,,Confederations Cup,2003
-2003-06-29,France,1,0,Cameroon,False,False,,Confederations Cup,2003
-2005-06-15,Argentina,2,1,Tunisia,True,False,,Confederations Cup,2005
-2005-06-15,Germany,4,3,Australia,False,False,,Confederations Cup,2005
-2005-06-16,Brazil,3,0,Greece,True,False,,Confederations Cup,2005
-2005-06-16,Japan,1,2,Mexico,True,False,,Confederations Cup,2005
-2005-06-18,Australia,2,4,Argentina,True,False,,Confederations Cup,2005
-2005-06-18,Germany,3,0,Tunisia,False,False,,Confederations Cup,2005
-2005-06-19,Greece,0,1,Japan,True,False,,Confederations Cup,2005
-2005-06-19,Mexico,1,0,Brazil,True,False,,Confederations Cup,2005
-2005-06-21,Australia,0,2,Tunisia,True,False,,Confederations Cup,2005
-2005-06-21,Germany,2,2,Argentina,False,False,,Confederations Cup,2005
-2005-06-22,Greece,0,0,Mexico,True,False,,Confederations Cup,2005
-2005-06-22,Japan,2,2,Brazil,True,False,,Confederations Cup,2005
-2005-06-25,Germany,2,3,Brazil,False,False,,Confederations Cup,2005
-2005-06-26,Mexico,1,1,Argentina,True,False,,Confederations Cup,2005
-2005-06-29,Brazil,4,1,Argentina,True,False,,Confederations Cup,2005
-2005-06-29,Germany,4,3,Mexico,False,False,,Confederations Cup,2005
-2009-06-14,New Zealand,0,5,Spain,True,False,,Confederations Cup,2009
-2009-06-14,South Africa,0,0,Iraq,False,False,,Confederations Cup,2009
-2009-06-15,Brazil,4,3,Egypt,True,False,,Confederations Cup,2009
-2009-06-15,United States,1,3,Italy,True,False,,Confederations Cup,2009
-2009-06-17,South Africa,2,0,New Zealand,False,False,,Confederations Cup,2009
-2009-06-17,Spain,1,0,Iraq,True,False,,Confederations Cup,2009
-2009-06-18,Egypt,1,0,Italy,True,False,,Confederations Cup,2009
-2009-06-18,United States,0,3,Brazil,True,False,,Confederations Cup,2009
-2009-06-20,Iraq,0,0,New Zealand,True,False,,Confederations Cup,2009
-2009-06-20,South Africa,0,2,Spain,False,False,,Confederations Cup,2009
-2009-06-21,Egypt,0,3,United States,True,False,,Confederations Cup,2009
-2009-06-21,Italy,0,3,Brazil,True,False,,Confederations Cup,2009
-2009-06-24,Spain,0,2,United States,True,False,,Confederations Cup,2009
-2009-06-25,South Africa,0,1,Brazil,False,False,,Confederations Cup,2009
-2009-06-28,South Africa,2,3,Spain,False,False,,Confederations Cup,2009
-2009-06-28,United States,2,3,Brazil,True,False,,Confederations Cup,2009
-2013-06-15,Brazil,3,0,Japan,False,False,,Confederations Cup,2013
-2013-06-16,Mexico,1,2,Italy,True,False,,Confederations Cup,2013
-2013-06-16,Spain,2,1,Uruguay,True,False,,Confederations Cup,2013
-2013-06-17,Tahiti,1,6,Nigeria,True,False,,Confederations Cup,2013
-2013-06-19,Brazil,2,0,Mexico,False,False,,Confederations Cup,2013
-2013-06-19,Italy,4,3,Japan,True,False,,Confederations Cup,2013
-2013-06-20,Nigeria,1,2,Uruguay,True,False,,Confederations Cup,2013
-2013-06-20,Spain,10,0,Tahiti,True,False,,Confederations Cup,2013
-2013-06-22,Brazil,4,2,Italy,False,False,,Confederations Cup,2013
-2013-06-22,Japan,1,2,Mexico,True,False,,Confederations Cup,2013
-2013-06-23,Nigeria,0,3,Spain,True,False,,Confederations Cup,2013
-2013-06-23,Uruguay,8,0,Tahiti,True,False,,Confederations Cup,2013
-2013-06-26,Brazil,2,1,Uruguay,False,False,,Confederations Cup,2013
-2013-06-27,Spain,0,0,Italy,True,False,,Confederations Cup,2013
-2013-06-30,Brazil,3,0,Spain,False,False,,Confederations Cup,2013
-2013-06-30,Uruguay,2,2,Italy,True,False,,Confederations Cup,2013
-2017-06-17,Russia,2,0,New Zealand,False,False,,Confederations Cup,2017
-2017-06-18,Cameroon,0,2,Chile,True,False,,Confederations Cup,2017
-2017-06-18,Portugal,2,2,Mexico,True,False,,Confederations Cup,2017
-2017-06-19,Australia,2,3,Germany,True,False,,Confederations Cup,2017
-2017-06-21,Mexico,2,1,New Zealand,True,False,,Confederations Cup,2017
-2017-06-21,Russia,0,1,Portugal,False,False,,Confederations Cup,2017
-2017-06-22,Cameroon,1,1,Australia,True,False,,Confederations Cup,2017
-2017-06-22,Germany,1,1,Chile,True,False,,Confederations Cup,2017
-2017-06-24,New Zealand,0,4,Portugal,True,False,,Confederations Cup,2017
-2017-06-24,Russia,1,2,Mexico,False,False,,Confederations Cup,2017
-2017-06-25,Chile,1,1,Australia,True,False,,Confederations Cup,2017
-2017-06-25,Germany,3,1,Cameroon,True,False,,Confederations Cup,2017
-2017-06-28,Portugal,0,0,Chile,True,False,,Confederations Cup,2017
-2017-06-29,Germany,4,1,Mexico,True,False,,Confederations Cup,2017
-2017-07-02,Chile,0,1,Germany,True,False,,Confederations Cup,2017
-2017-07-02,Portugal,2,1,Mexico,True,False,,Confederations Cup,2017
+1992-10-15,Saudi Arabia,3,0,United States,False,,,Confederations Cup,1992
+1992-10-16,Argentina,4,0,Ivory Coast,True,,,Confederations Cup,1992
+1992-10-19,United States,5,2,Ivory Coast,True,,,Confederations Cup,1992
+1992-10-20,Saudi Arabia,1,3,Argentina,False,,,Confederations Cup,1992
+1995-01-06,Japan,0,3,Nigeria,True,,,Confederations Cup,1995
+1995-01-06,Saudi Arabia,0,2,Mexico,False,,,Confederations Cup,1995
+1995-01-08,Japan,1,5,Argentina,True,,,Confederations Cup,1995
+1995-01-08,Saudi Arabia,0,2,Denmark,False,,,Confederations Cup,1995
+1995-01-10,Denmark,1,1,Mexico,True,,,Confederations Cup,1995
+1995-01-10,Nigeria,0,0,Argentina,True,,,Confederations Cup,1995
+1995-01-13,Denmark,2,0,Argentina,True,,,Confederations Cup,1995
+1995-01-13,Mexico,1,1,Nigeria,True,,,Confederations Cup,1995
+1997-12-12,Mexico,1,3,Australia,True,,,Confederations Cup,1997
+1997-12-12,Saudi Arabia,0,3,Brazil,False,,,Confederations Cup,1997
+1997-12-13,South Africa,2,2,Czech Republic,True,,,Confederations Cup,1997
+1997-12-13,United Arab Emirates,0,2,Uruguay,True,,,Confederations Cup,1997
+1997-12-14,Australia,0,0,Brazil,True,,,Confederations Cup,1997
+1997-12-14,Saudi Arabia,0,5,Mexico,False,,,Confederations Cup,1997
+1997-12-15,Czech Republic,1,2,Uruguay,True,,,Confederations Cup,1997
+1997-12-15,United Arab Emirates,1,0,South Africa,True,,,Confederations Cup,1997
+1997-12-16,Brazil,3,2,Mexico,True,,,Confederations Cup,1997
+1997-12-16,Saudi Arabia,1,0,Australia,False,,,Confederations Cup,1997
+1997-12-17,United Arab Emirates,1,6,Czech Republic,True,,,Confederations Cup,1997
+1997-12-17,Uruguay,4,3,South Africa,True,,,Confederations Cup,1997
+1997-12-19,Brazil,2,0,Czech Republic,True,,,Confederations Cup,1997
+1997-12-19,Uruguay,0,1,Australia,True,,,Confederations Cup,1997
+1997-12-21,Brazil,6,0,Australia,True,,,Confederations Cup,1997
+1997-12-21,Czech Republic,1,0,Uruguay,True,,,Confederations Cup,1997
+1999-07-24,Brazil,4,0,Germany,True,,,Confederations Cup,1999
+1999-07-24,New Zealand,1,2,United States,True,,,Confederations Cup,1999
+1999-07-25,Bolivia,2,2,Egypt,True,,,Confederations Cup,1999
+1999-07-25,Mexico,5,1,Saudi Arabia,False,,,Confederations Cup,1999
+1999-07-27,Mexico,2,2,Egypt,False,,,Confederations Cup,1999
+1999-07-27,Saudi Arabia,0,0,Bolivia,True,,,Confederations Cup,1999
+1999-07-28,Brazil,1,0,United States,True,,,Confederations Cup,1999
+1999-07-28,Germany,2,0,New Zealand,True,,,Confederations Cup,1999
+1999-07-29,Egypt,1,5,Saudi Arabia,True,,,Confederations Cup,1999
+1999-07-29,Mexico,1,0,Bolivia,False,,,Confederations Cup,1999
+1999-07-30,New Zealand,0,2,Brazil,True,,,Confederations Cup,1999
+1999-07-30,United States,2,0,Germany,True,,,Confederations Cup,1999
+1999-08-01,Brazil,8,2,Saudi Arabia,True,,,Confederations Cup,1999
+1999-08-01,Mexico,1,0,United States,False,,,Confederations Cup,1999
+1999-08-03,United States,2,0,Saudi Arabia,True,,,Confederations Cup,1999
+1999-08-04,Mexico,4,3,Brazil,False,,,Confederations Cup,1999
+2001-05-30,South Korea,0,5,France,False,,,Confederations Cup,2001
+2001-05-30,Mexico,0,2,Australia,True,,,Confederations Cup,2001
+2001-05-31,Brazil,2,0,Cameroon,True,,,Confederations Cup,2001
+2001-05-31,Japan,3,0,Canada,False,,,Confederations Cup,2001
+2001-06-01,Australia,1,0,France,True,,,Confederations Cup,2001
+2001-06-01,South Korea,2,1,Mexico,False,,,Confederations Cup,2001
+2001-06-02,Canada,0,0,Brazil,True,,,Confederations Cup,2001
+2001-06-02,Japan,2,0,Cameroon,False,,,Confederations Cup,2001
+2001-06-03,France,4,0,Mexico,True,,,Confederations Cup,2001
+2001-06-03,South Korea,1,0,Australia,False,,,Confederations Cup,2001
+2001-06-04,Cameroon,2,0,Canada,True,,,Confederations Cup,2001
+2001-06-04,Japan,0,0,Brazil,False,,,Confederations Cup,2001
+2001-06-07,France,2,1,Brazil,True,,,Confederations Cup,2001
+2001-06-07,Japan,1,0,Australia,False,,,Confederations Cup,2001
+2001-06-09,Australia,1,0,Brazil,True,,,Confederations Cup,2001
+2001-06-10,Japan,0,1,France,False,,,Confederations Cup,2001
+2003-06-18,France,1,0,Colombia,False,,,Confederations Cup,2003
+2003-06-18,New Zealand,0,3,Japan,True,,,Confederations Cup,2003
+2003-06-19,Brazil,0,1,Cameroon,True,,,Confederations Cup,2003
+2003-06-19,Turkey,2,1,United States,True,,,Confederations Cup,2003
+2003-06-20,Colombia,3,1,New Zealand,True,,,Confederations Cup,2003
+2003-06-20,France,2,1,Japan,False,,,Confederations Cup,2003
+2003-06-21,Brazil,1,0,United States,True,,,Confederations Cup,2003
+2003-06-21,Cameroon,1,0,Turkey,True,,,Confederations Cup,2003
+2003-06-22,France,5,0,New Zealand,False,,,Confederations Cup,2003
+2003-06-22,Japan,0,1,Colombia,True,,,Confederations Cup,2003
+2003-06-23,Brazil,2,2,Turkey,True,,,Confederations Cup,2003
+2003-06-23,United States,0,0,Cameroon,True,,,Confederations Cup,2003
+2003-06-26,Cameroon,1,0,Colombia,True,,,Confederations Cup,2003
+2003-06-26,France,3,2,Turkey,False,,,Confederations Cup,2003
+2003-06-28,Colombia,1,2,Turkey,True,,,Confederations Cup,2003
+2003-06-29,France,1,0,Cameroon,False,,,Confederations Cup,2003
+2005-06-15,Argentina,2,1,Tunisia,True,,,Confederations Cup,2005
+2005-06-15,Germany,4,3,Australia,False,,,Confederations Cup,2005
+2005-06-16,Brazil,3,0,Greece,True,,,Confederations Cup,2005
+2005-06-16,Japan,1,2,Mexico,True,,,Confederations Cup,2005
+2005-06-18,Australia,2,4,Argentina,True,,,Confederations Cup,2005
+2005-06-18,Germany,3,0,Tunisia,False,,,Confederations Cup,2005
+2005-06-19,Greece,0,1,Japan,True,,,Confederations Cup,2005
+2005-06-19,Mexico,1,0,Brazil,True,,,Confederations Cup,2005
+2005-06-21,Australia,0,2,Tunisia,True,,,Confederations Cup,2005
+2005-06-21,Germany,2,2,Argentina,False,,,Confederations Cup,2005
+2005-06-22,Greece,0,0,Mexico,True,,,Confederations Cup,2005
+2005-06-22,Japan,2,2,Brazil,True,,,Confederations Cup,2005
+2005-06-25,Germany,2,3,Brazil,False,,,Confederations Cup,2005
+2005-06-26,Mexico,1,1,Argentina,True,,,Confederations Cup,2005
+2005-06-29,Brazil,4,1,Argentina,True,,,Confederations Cup,2005
+2005-06-29,Germany,4,3,Mexico,False,,,Confederations Cup,2005
+2009-06-14,New Zealand,0,5,Spain,True,,,Confederations Cup,2009
+2009-06-14,South Africa,0,0,Iraq,False,,,Confederations Cup,2009
+2009-06-15,Brazil,4,3,Egypt,True,,,Confederations Cup,2009
+2009-06-15,United States,1,3,Italy,True,,,Confederations Cup,2009
+2009-06-17,South Africa,2,0,New Zealand,False,,,Confederations Cup,2009
+2009-06-17,Spain,1,0,Iraq,True,,,Confederations Cup,2009
+2009-06-18,Egypt,1,0,Italy,True,,,Confederations Cup,2009
+2009-06-18,United States,0,3,Brazil,True,,,Confederations Cup,2009
+2009-06-20,Iraq,0,0,New Zealand,True,,,Confederations Cup,2009
+2009-06-20,South Africa,0,2,Spain,False,,,Confederations Cup,2009
+2009-06-21,Egypt,0,3,United States,True,,,Confederations Cup,2009
+2009-06-21,Italy,0,3,Brazil,True,,,Confederations Cup,2009
+2009-06-24,Spain,0,2,United States,True,,,Confederations Cup,2009
+2009-06-25,South Africa,0,1,Brazil,False,,,Confederations Cup,2009
+2009-06-28,South Africa,2,3,Spain,False,,,Confederations Cup,2009
+2009-06-28,United States,2,3,Brazil,True,,,Confederations Cup,2009
+2013-06-15,Brazil,3,0,Japan,False,,,Confederations Cup,2013
+2013-06-16,Mexico,1,2,Italy,True,,,Confederations Cup,2013
+2013-06-16,Spain,2,1,Uruguay,True,,,Confederations Cup,2013
+2013-06-17,Tahiti,1,6,Nigeria,True,,,Confederations Cup,2013
+2013-06-19,Brazil,2,0,Mexico,False,,,Confederations Cup,2013
+2013-06-19,Italy,4,3,Japan,True,,,Confederations Cup,2013
+2013-06-20,Nigeria,1,2,Uruguay,True,,,Confederations Cup,2013
+2013-06-20,Spain,10,0,Tahiti,True,,,Confederations Cup,2013
+2013-06-22,Brazil,4,2,Italy,False,,,Confederations Cup,2013
+2013-06-22,Japan,1,2,Mexico,True,,,Confederations Cup,2013
+2013-06-23,Nigeria,0,3,Spain,True,,,Confederations Cup,2013
+2013-06-23,Uruguay,8,0,Tahiti,True,,,Confederations Cup,2013
+2013-06-26,Brazil,2,1,Uruguay,False,,,Confederations Cup,2013
+2013-06-27,Spain,0,0,Italy,True,,,Confederations Cup,2013
+2013-06-30,Brazil,3,0,Spain,False,,,Confederations Cup,2013
+2013-06-30,Uruguay,2,2,Italy,True,,,Confederations Cup,2013
+2017-06-17,Russia,2,0,New Zealand,False,,,Confederations Cup,2017
+2017-06-18,Cameroon,0,2,Chile,True,,,Confederations Cup,2017
+2017-06-18,Portugal,2,2,Mexico,True,,,Confederations Cup,2017
+2017-06-19,Australia,2,3,Germany,True,,,Confederations Cup,2017
+2017-06-21,Mexico,2,1,New Zealand,True,,,Confederations Cup,2017
+2017-06-21,Russia,0,1,Portugal,False,,,Confederations Cup,2017
+2017-06-22,Cameroon,1,1,Australia,True,,,Confederations Cup,2017
+2017-06-22,Germany,1,1,Chile,True,,,Confederations Cup,2017
+2017-06-24,New Zealand,0,4,Portugal,True,,,Confederations Cup,2017
+2017-06-24,Russia,1,2,Mexico,False,,,Confederations Cup,2017
+2017-06-25,Chile,1,1,Australia,True,,,Confederations Cup,2017
+2017-06-25,Germany,3,1,Cameroon,True,,,Confederations Cup,2017
+2017-06-28,Portugal,0,0,Chile,True,,,Confederations Cup,2017
+2017-06-29,Germany,4,1,Mexico,True,,,Confederations Cup,2017
+2017-07-02,Chile,0,1,Germany,True,,,Confederations Cup,2017
+2017-07-02,Portugal,2,1,Mexico,True,,,Confederations Cup,2017

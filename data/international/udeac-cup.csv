@@ -1,71 +1,71 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1984-12-09,Congo,5,0,Equatorial Guinea,False,False,,UDEAC Cup,1984
-1984-12-10,Chad,0,2,Cameroon,True,False,,UDEAC Cup,1984
-1984-12-12,Chad,3,3,Gabon,True,False,,UDEAC Cup,1984
-1984-12-12,Congo,2,1,Central African Republic,False,False,,UDEAC Cup,1984
-1984-12-14,Cameroon,0,0,Gabon,True,False,,UDEAC Cup,1984
-1984-12-14,Central African Republic,1,1,Equatorial Guinea,True,False,,UDEAC Cup,1984
-1984-12-16,Chad,1,1,Equatorial Guinea,True,False,,UDEAC Cup,1984
-1984-12-17,Central African Republic,1,7,Cameroon,True,False,,UDEAC Cup,1984
-1984-12-17,Congo,3,0,Gabon,False,False,,UDEAC Cup,1984
-1984-12-19,Central African Republic,2,2,Gabon,True,False,,UDEAC Cup,1984
-1984-12-20,Congo,2,2,Cameroon,False,False,,UDEAC Cup,1984
-1985-12-07,Gabon,1,0,Congo,False,False,,UDEAC Cup,1985
-1985-12-08,Cameroon,2,0,Equatorial Guinea,True,False,,UDEAC Cup,1985
-1985-12-09,Central African Republic,1,4,Congo,True,False,,UDEAC Cup,1985
-1985-12-10,Chad,1,1,Equatorial Guinea,True,False,,UDEAC Cup,1985
-1985-12-11,Gabon,4,0,Central African Republic,False,False,,UDEAC Cup,1985
-1985-12-12,Chad,2,2,Cameroon,True,False,,UDEAC Cup,1985
-1985-12-14,Gabon,3,0,Chad,False,False,,UDEAC Cup,1985
-1985-12-15,Congo,1,0,Cameroon,True,False,,UDEAC Cup,1985
-1985-12-18,Chad,1,2,Cameroon,True,False,,UDEAC Cup,1985
-1985-12-19,Gabon,3,0,Congo,False,False,,UDEAC Cup,1985
-1986-12-09,Equatorial Guinea,0,2,Cameroon,False,False,,UDEAC Cup,1986
-1986-12-10,Congo,0,1,Gabon,True,False,,UDEAC Cup,1986
-1986-12-11,Chad,1,3,Cameroon,True,False,,UDEAC Cup,1986
-1986-12-12,Central African Republic,1,3,Congo,True,False,,UDEAC Cup,1986
-1986-12-13,Equatorial Guinea,0,1,Chad,False,False,,UDEAC Cup,1986
-1986-12-14,Central African Republic,0,1,Gabon,True,False,,UDEAC Cup,1986
-1986-12-16,Congo,0,1,Cameroon,True,False,,UDEAC Cup,1986
-1986-12-17,Chad,0,0,Gabon,True,False,,UDEAC Cup,1986
-1986-12-19,Chad,1,4,Cameroon,True,False,,UDEAC Cup,1986
-1987-12-07,Chad,2,1,Central African Republic,False,False,,UDEAC Cup,1987
-1987-12-08,Cameroon,1,0,Equatorial Guinea,True,False,,UDEAC Cup,1987
-1987-12-09,Central African Republic,1,1,Gabon,True,False,,UDEAC Cup,1987
-1987-12-10,Cameroon,0,0,Equatorial Guinea,True,False,,UDEAC Cup,1987
-1987-12-11,Chad,1,1,Gabon,False,False,,UDEAC Cup,1987
-1987-12-15,Chad,4,0,Equatorial Guinea,False,False,,UDEAC Cup,1987
-1987-12-16,Cameroon,1,0,Gabon,True,False,,UDEAC Cup,1987
-1987-12-18,Chad,0,1,Cameroon,False,False,,UDEAC Cup,1987
-1987-12-18,Equatorial Guinea,0,0,Gabon,True,False,,UDEAC Cup,1987
-1988-11-30,Cameroon,0,0,Gabon,False,False,,UDEAC Cup,1988
-1988-11-30,Congo,2,1,Chad,True,False,,UDEAC Cup,1988
-1988-12-02,Cameroon,2,1,Equatorial Guinea,False,False,,UDEAC Cup,1988
-1988-12-02,Central African Republic,2,1,Chad,True,False,,UDEAC Cup,1988
-1988-12-04,Central African Republic,0,1,Congo,True,False,,UDEAC Cup,1988
-1988-12-04,Equatorial Guinea,0,3,Gabon,True,False,,UDEAC Cup,1988
-1988-12-06,Cameroon,2,0,Congo,False,False,,UDEAC Cup,1988
-1988-12-06,Central African Republic,0,0,Gabon,True,False,,UDEAC Cup,1988
-1988-12-08,Cameroon,0,1,Gabon,False,False,,UDEAC Cup,1988
-1988-12-08,Central African Republic,0,3,Congo,True,False,,UDEAC Cup,1988
-1989-12-02,Central African Republic,1,1,Chad,False,False,,UDEAC Cup,1989
-1989-12-03,Congo,1,0,Gabon,True,False,,UDEAC Cup,1989
-1989-12-04,Central African Republic,1,2,Cameroon,False,False,,UDEAC Cup,1989
-1989-12-05,Congo,0,2,Gabon,True,False,,UDEAC Cup,1989
-1989-12-06,Chad,0,1,Cameroon,True,False,,UDEAC Cup,1989
-1989-12-08,Chad,2,1,Congo,True,False,,UDEAC Cup,1989
-1989-12-10,Central African Republic,2,0,Gabon,False,False,,UDEAC Cup,1989
-1989-12-11,Chad,0,0,Cameroon,True,False,,UDEAC Cup,1989
-1989-12-12,Chad,0,2,Gabon,True,False,,UDEAC Cup,1989
-1989-12-13,Central African Republic,1,2,Cameroon,False,False,,UDEAC Cup,1989
-1990-12-08,Congo,3,0,Chad,False,False,,UDEAC Cup,1990
-1990-12-09,Cameroon,2,1,Gabon,True,False,,UDEAC Cup,1990
-1990-12-11,Central African Republic,0,1,Gabon,True,False,,UDEAC Cup,1990
-1990-12-12,Chad,1,0,Equatorial Guinea,True,False,,UDEAC Cup,1990
-1990-12-13,Central African Republic,0,3,Cameroon,True,False,,UDEAC Cup,1990
-1990-12-13,Congo,6,0,Equatorial Guinea,False,False,,UDEAC Cup,1990
-1990-12-15,Chad,0,1,Cameroon,True,False,,UDEAC Cup,1990
-1990-12-15,Congo,1,0,Gabon,False,False,,UDEAC Cup,1990
-1990-12-17,Central African Republic,3,3,Equatorial Guinea,True,False,,UDEAC Cup,1990
-1990-12-17,Chad,2,1,Gabon,True,False,,UDEAC Cup,1990
-1990-12-18,Congo,2,1,Cameroon,False,False,,UDEAC Cup,1990
+1984-12-09,Congo,5,0,Equatorial Guinea,False,,,UDEAC Cup,1984
+1984-12-10,Chad,0,2,Cameroon,True,,,UDEAC Cup,1984
+1984-12-12,Chad,3,3,Gabon,True,,,UDEAC Cup,1984
+1984-12-12,Congo,2,1,Central African Republic,False,,,UDEAC Cup,1984
+1984-12-14,Cameroon,0,0,Gabon,True,,,UDEAC Cup,1984
+1984-12-14,Central African Republic,1,1,Equatorial Guinea,True,,,UDEAC Cup,1984
+1984-12-16,Chad,1,1,Equatorial Guinea,True,,,UDEAC Cup,1984
+1984-12-17,Central African Republic,1,7,Cameroon,True,,,UDEAC Cup,1984
+1984-12-17,Congo,3,0,Gabon,False,,,UDEAC Cup,1984
+1984-12-19,Central African Republic,2,2,Gabon,True,,,UDEAC Cup,1984
+1984-12-20,Congo,2,2,Cameroon,False,,,UDEAC Cup,1984
+1985-12-07,Gabon,1,0,Congo,False,,,UDEAC Cup,1985
+1985-12-08,Cameroon,2,0,Equatorial Guinea,True,,,UDEAC Cup,1985
+1985-12-09,Central African Republic,1,4,Congo,True,,,UDEAC Cup,1985
+1985-12-10,Chad,1,1,Equatorial Guinea,True,,,UDEAC Cup,1985
+1985-12-11,Gabon,4,0,Central African Republic,False,,,UDEAC Cup,1985
+1985-12-12,Chad,2,2,Cameroon,True,,,UDEAC Cup,1985
+1985-12-14,Gabon,3,0,Chad,False,,,UDEAC Cup,1985
+1985-12-15,Congo,1,0,Cameroon,True,,,UDEAC Cup,1985
+1985-12-18,Chad,1,2,Cameroon,True,,,UDEAC Cup,1985
+1985-12-19,Gabon,3,0,Congo,False,,,UDEAC Cup,1985
+1986-12-09,Equatorial Guinea,0,2,Cameroon,False,,,UDEAC Cup,1986
+1986-12-10,Congo,0,1,Gabon,True,,,UDEAC Cup,1986
+1986-12-11,Chad,1,3,Cameroon,True,,,UDEAC Cup,1986
+1986-12-12,Central African Republic,1,3,Congo,True,,,UDEAC Cup,1986
+1986-12-13,Equatorial Guinea,0,1,Chad,False,,,UDEAC Cup,1986
+1986-12-14,Central African Republic,0,1,Gabon,True,,,UDEAC Cup,1986
+1986-12-16,Congo,0,1,Cameroon,True,,,UDEAC Cup,1986
+1986-12-17,Chad,0,0,Gabon,True,,,UDEAC Cup,1986
+1986-12-19,Chad,1,4,Cameroon,True,,,UDEAC Cup,1986
+1987-12-07,Chad,2,1,Central African Republic,False,,,UDEAC Cup,1987
+1987-12-08,Cameroon,1,0,Equatorial Guinea,True,,,UDEAC Cup,1987
+1987-12-09,Central African Republic,1,1,Gabon,True,,,UDEAC Cup,1987
+1987-12-10,Cameroon,0,0,Equatorial Guinea,True,,,UDEAC Cup,1987
+1987-12-11,Chad,1,1,Gabon,False,,,UDEAC Cup,1987
+1987-12-15,Chad,4,0,Equatorial Guinea,False,,,UDEAC Cup,1987
+1987-12-16,Cameroon,1,0,Gabon,True,,,UDEAC Cup,1987
+1987-12-18,Chad,0,1,Cameroon,False,,,UDEAC Cup,1987
+1987-12-18,Equatorial Guinea,0,0,Gabon,True,,,UDEAC Cup,1987
+1988-11-30,Cameroon,0,0,Gabon,False,,,UDEAC Cup,1988
+1988-11-30,Congo,2,1,Chad,True,,,UDEAC Cup,1988
+1988-12-02,Cameroon,2,1,Equatorial Guinea,False,,,UDEAC Cup,1988
+1988-12-02,Central African Republic,2,1,Chad,True,,,UDEAC Cup,1988
+1988-12-04,Central African Republic,0,1,Congo,True,,,UDEAC Cup,1988
+1988-12-04,Equatorial Guinea,0,3,Gabon,True,,,UDEAC Cup,1988
+1988-12-06,Cameroon,2,0,Congo,False,,,UDEAC Cup,1988
+1988-12-06,Central African Republic,0,0,Gabon,True,,,UDEAC Cup,1988
+1988-12-08,Cameroon,0,1,Gabon,False,,,UDEAC Cup,1988
+1988-12-08,Central African Republic,0,3,Congo,True,,,UDEAC Cup,1988
+1989-12-02,Central African Republic,1,1,Chad,False,,,UDEAC Cup,1989
+1989-12-03,Congo,1,0,Gabon,True,,,UDEAC Cup,1989
+1989-12-04,Central African Republic,1,2,Cameroon,False,,,UDEAC Cup,1989
+1989-12-05,Congo,0,2,Gabon,True,,,UDEAC Cup,1989
+1989-12-06,Chad,0,1,Cameroon,True,,,UDEAC Cup,1989
+1989-12-08,Chad,2,1,Congo,True,,,UDEAC Cup,1989
+1989-12-10,Central African Republic,2,0,Gabon,False,,,UDEAC Cup,1989
+1989-12-11,Chad,0,0,Cameroon,True,,,UDEAC Cup,1989
+1989-12-12,Chad,0,2,Gabon,True,,,UDEAC Cup,1989
+1989-12-13,Central African Republic,1,2,Cameroon,False,,,UDEAC Cup,1989
+1990-12-08,Congo,3,0,Chad,False,,,UDEAC Cup,1990
+1990-12-09,Cameroon,2,1,Gabon,True,,,UDEAC Cup,1990
+1990-12-11,Central African Republic,0,1,Gabon,True,,,UDEAC Cup,1990
+1990-12-12,Chad,1,0,Equatorial Guinea,True,,,UDEAC Cup,1990
+1990-12-13,Central African Republic,0,3,Cameroon,True,,,UDEAC Cup,1990
+1990-12-13,Congo,6,0,Equatorial Guinea,False,,,UDEAC Cup,1990
+1990-12-15,Chad,0,1,Cameroon,True,,,UDEAC Cup,1990
+1990-12-15,Congo,1,0,Gabon,False,,,UDEAC Cup,1990
+1990-12-17,Central African Republic,3,3,Equatorial Guinea,True,,,UDEAC Cup,1990
+1990-12-17,Chad,2,1,Gabon,True,,,UDEAC Cup,1990
+1990-12-18,Congo,2,1,Cameroon,False,,,UDEAC Cup,1990

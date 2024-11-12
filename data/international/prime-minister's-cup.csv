@@ -1,23 +1,23 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2002-01-04,Bahrain,0,2,Finland,False,False,,Prime Minister's Cup,2002
-2002-01-05,Albania,0,0,North Macedonia,True,False,,Prime Minister's Cup,2002
-2002-01-07,Albania,1,1,Finland,True,False,,Prime Minister's Cup,2002
-2002-01-07,Bahrain,1,1,North Macedonia,False,False,,Prime Minister's Cup,2002
-2002-01-10,Bahrain,3,0,Albania,False,False,,Prime Minister's Cup,2002
-2002-01-10,Finland,3,0,North Macedonia,True,False,,Prime Minister's Cup,2002
-2002-12-07,Bahrain,0,3,Jordan,False,False,,Prime Minister's Cup,2002
-2002-12-07,China PR,3,1,Syria,True,False,,Prime Minister's Cup,2002
-2002-12-09,Bahrain,2,3,Syria,False,False,,Prime Minister's Cup,2002
-2002-12-09,China PR,0,0,Jordan,True,False,,Prime Minister's Cup,2002
-2002-12-12,Bahrain,2,2,China PR,False,False,,Prime Minister's Cup,2002
-2002-12-12,Jordan,3,0,Syria,True,False,,Prime Minister's Cup,2002
-2003-12-12,Bahrain,2,2,Iraq,False,False,,Prime Minister's Cup,2003
-2003-12-12,Kenya,0,1,Egypt,True,False,,Prime Minister's Cup,2003
-2003-12-15,Bahrain,0,1,Egypt,False,False,,Prime Minister's Cup,2003
-2003-12-15,Iraq,2,0,Kenya,True,False,,Prime Minister's Cup,2003
-2003-12-18,Bahrain,2,1,Kenya,False,False,,Prime Minister's Cup,2003
-2003-12-18,Egypt,2,0,Iraq,True,False,,Prime Minister's Cup,2003
-2004-12-01,Bahrain,1,2,Finland,False,False,,Prime Minister's Cup,2004
-2004-12-01,Latvia,2,3,Oman,True,False,,Prime Minister's Cup,2004
-2004-12-03,Bahrain,2,2,Latvia,False,False,,Prime Minister's Cup,2004
-2004-12-03,Finland,0,0,Oman,True,False,,Prime Minister's Cup,2004
+2002-01-04,Bahrain,0,2,Finland,False,,,Prime Minister's Cup,2002
+2002-01-05,Albania,0,0,North Macedonia,True,,,Prime Minister's Cup,2002
+2002-01-07,Albania,1,1,Finland,True,,,Prime Minister's Cup,2002
+2002-01-07,Bahrain,1,1,North Macedonia,False,,,Prime Minister's Cup,2002
+2002-01-10,Bahrain,3,0,Albania,False,,,Prime Minister's Cup,2002
+2002-01-10,Finland,3,0,North Macedonia,True,,,Prime Minister's Cup,2002
+2002-12-07,Bahrain,0,3,Jordan,False,,,Prime Minister's Cup,2002
+2002-12-07,China PR,3,1,Syria,True,,,Prime Minister's Cup,2002
+2002-12-09,Bahrain,2,3,Syria,False,,,Prime Minister's Cup,2002
+2002-12-09,China PR,0,0,Jordan,True,,,Prime Minister's Cup,2002
+2002-12-12,Bahrain,2,2,China PR,False,,,Prime Minister's Cup,2002
+2002-12-12,Jordan,3,0,Syria,True,,,Prime Minister's Cup,2002
+2003-12-12,Bahrain,2,2,Iraq,False,,,Prime Minister's Cup,2003
+2003-12-12,Kenya,0,1,Egypt,True,,,Prime Minister's Cup,2003
+2003-12-15,Bahrain,0,1,Egypt,False,,,Prime Minister's Cup,2003
+2003-12-15,Iraq,2,0,Kenya,True,,,Prime Minister's Cup,2003
+2003-12-18,Bahrain,2,1,Kenya,False,,,Prime Minister's Cup,2003
+2003-12-18,Egypt,2,0,Iraq,True,,,Prime Minister's Cup,2003
+2004-12-01,Bahrain,1,2,Finland,False,,,Prime Minister's Cup,2004
+2004-12-01,Latvia,2,3,Oman,True,,,Prime Minister's Cup,2004
+2004-12-03,Bahrain,2,2,Latvia,False,,,Prime Minister's Cup,2004
+2004-12-03,Finland,0,0,Oman,True,,,Prime Minister's Cup,2004

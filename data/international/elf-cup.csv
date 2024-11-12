@@ -1,17 +1,17 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2006-11-19,Găgăuzia,0,2,Greenland,True,False,,ELF Cup,2006
-2006-11-19,Kyrgyzstan,0,1,Zanzibar,True,False,,ELF Cup,2006
-2006-11-19,Tibet,0,3,Tajikistan,True,False,,ELF Cup,2006
-2006-11-19,Northern Cyprus,5,0,Crimea,False,False,,ELF Cup,2006
-2006-11-20,Găgăuzia,1,6,Kyrgyzstan,True,False,,ELF Cup,2006
-2006-11-20,Greenland,1,1,Zanzibar,True,False,,ELF Cup,2006
-2006-11-20,Tibet,0,1,Crimea,True,False,,ELF Cup,2006
-2006-11-20,Northern Cyprus,5,1,Tajikistan,False,False,,ELF Cup,2006
-2006-11-21,Greenland,0,1,Kyrgyzstan,True,False,,ELF Cup,2006
-2006-11-21,Găgăuzia,1,1,Zanzibar,True,False,,ELF Cup,2006
-2006-11-21,Tajikistan,1,2,Crimea,True,False,,ELF Cup,2006
-2006-11-21,Northern Cyprus,10,0,Tibet,False,False,,ELF Cup,2006
-2006-11-23,Kyrgyzstan,2,3,Crimea,True,False,,ELF Cup,2006
-2006-11-23,Northern Cyprus,5,0,Zanzibar,False,False,,ELF Cup,2006
-2006-11-25,Kyrgyzstan,2,2,Zanzibar,True,False,,ELF Cup,2006
-2006-11-25,Northern Cyprus,3,1,Crimea,False,False,,ELF Cup,2006
+2006-11-19,Găgăuzia,0,2,Greenland,True,,,ELF Cup,2006
+2006-11-19,Kyrgyzstan,0,1,Zanzibar,True,,,ELF Cup,2006
+2006-11-19,Tibet,0,3,Tajikistan,True,,,ELF Cup,2006
+2006-11-19,Northern Cyprus,5,0,Crimea,False,,,ELF Cup,2006
+2006-11-20,Găgăuzia,1,6,Kyrgyzstan,True,,,ELF Cup,2006
+2006-11-20,Greenland,1,1,Zanzibar,True,,,ELF Cup,2006
+2006-11-20,Tibet,0,1,Crimea,True,,,ELF Cup,2006
+2006-11-20,Northern Cyprus,5,1,Tajikistan,False,,,ELF Cup,2006
+2006-11-21,Greenland,0,1,Kyrgyzstan,True,,,ELF Cup,2006
+2006-11-21,Găgăuzia,1,1,Zanzibar,True,,,ELF Cup,2006
+2006-11-21,Tajikistan,1,2,Crimea,True,,,ELF Cup,2006
+2006-11-21,Northern Cyprus,10,0,Tibet,False,,,ELF Cup,2006
+2006-11-23,Kyrgyzstan,2,3,Crimea,True,,,ELF Cup,2006
+2006-11-23,Northern Cyprus,5,0,Zanzibar,False,,,ELF Cup,2006
+2006-11-25,Kyrgyzstan,2,2,Zanzibar,True,,,ELF Cup,2006
+2006-11-25,Northern Cyprus,3,1,Crimea,False,,,ELF Cup,2006

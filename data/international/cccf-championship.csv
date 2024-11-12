@@ -1,124 +1,124 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1941-05-08,Curaçao,3,3,Panama,True,False,,CCCF Championship,1941
-1941-05-10,Costa Rica,7,2,Nicaragua,False,False,,CCCF Championship,1941
-1941-05-11,Costa Rica,7,0,Panama,False,False,,CCCF Championship,1941
-1941-05-11,Curaçao,2,2,El Salvador,True,False,,CCCF Championship,1941
-1941-05-13,Costa Rica,6,2,Curaçao,False,False,,CCCF Championship,1941
-1941-05-13,El Salvador,8,0,Nicaragua,True,False,,CCCF Championship,1941
-1941-05-15,Curaçao,9,1,Nicaragua,True,False,,CCCF Championship,1941
-1941-05-15,El Salvador,4,3,Panama,True,False,,CCCF Championship,1941
-1941-05-18,Costa Rica,3,1,El Salvador,False,False,,CCCF Championship,1941
-1941-05-18,Nicaragua,2,5,Panama,True,False,,CCCF Championship,1941
-1943-12-05,Costa Rica,7,0,Nicaragua,True,False,,CCCF Championship,1943
-1943-12-05,El Salvador,2,2,Guatemala,False,False,,CCCF Championship,1943
-1943-12-07,Costa Rica,2,3,Guatemala,True,False,,CCCF Championship,1943
-1943-12-07,El Salvador,8,1,Nicaragua,False,False,,CCCF Championship,1943
-1943-12-09,El Salvador,4,2,Costa Rica,False,False,,CCCF Championship,1943
-1943-12-09,Guatemala,6,2,Nicaragua,True,False,,CCCF Championship,1943
-1943-12-12,El Salvador,2,1,Guatemala,False,False,,CCCF Championship,1943
-1943-12-12,Nicaragua,2,3,Costa Rica,True,False,,CCCF Championship,1943
-1943-12-16,El Salvador,10,1,Nicaragua,False,False,,CCCF Championship,1943
-1943-12-16,Guatemala,4,2,Costa Rica,True,False,,CCCF Championship,1943
-1943-12-19,El Salvador,2,4,Costa Rica,False,False,,CCCF Championship,1943
-1943-12-19,Nicaragua,1,5,Guatemala,True,False,,CCCF Championship,1943
-1946-02-23,El Salvador,1,3,Guatemala,True,False,,CCCF Championship,1946
-1946-02-23,Panama,1,0,Honduras,True,False,,CCCF Championship,1946
-1946-02-24,Costa Rica,7,1,Nicaragua,False,False,,CCCF Championship,1946
-1946-02-26,Costa Rica,7,0,Panama,False,False,,CCCF Championship,1946
-1946-02-28,El Salvador,7,2,Nicaragua,True,False,,CCCF Championship,1946
-1946-02-28,Honduras,5,3,Guatemala,True,False,,CCCF Championship,1946
-1946-03-07,Costa Rica,5,1,Honduras,False,False,,CCCF Championship,1946
-1946-03-07,El Salvador,4,1,Panama,True,False,,CCCF Championship,1946
-1946-03-07,Guatemala,7,0,Nicaragua,True,False,,CCCF Championship,1946
-1946-03-10,Costa Rica,1,4,Guatemala,False,False,,CCCF Championship,1946
-1946-03-10,El Salvador,3,1,Honduras,True,False,,CCCF Championship,1946
-1946-03-10,Panama,0,2,Nicaragua,True,False,,CCCF Championship,1946
-1946-03-13,Costa Rica,4,0,El Salvador,False,False,,CCCF Championship,1946
-1946-03-13,Honduras,10,0,Nicaragua,True,False,,CCCF Championship,1946
-1946-03-13,Panama,3,3,Guatemala,True,False,,CCCF Championship,1946
-1948-02-29,Costa Rica,3,1,El Salvador,True,False,,CCCF Championship,1948
-1948-03-02,Guatemala,3,0,El Salvador,False,False,,CCCF Championship,1948
-1948-03-04,Guatemala,1,1,Costa Rica,False,False,,CCCF Championship,1948
-1948-03-04,Panama,1,3,Curaçao,True,False,,CCCF Championship,1948
-1948-03-05,Guatemala,2,2,Curaçao,False,False,,CCCF Championship,1948
-1948-03-07,Costa Rica,2,1,Curaçao,True,False,,CCCF Championship,1948
-1948-03-07,El Salvador,1,2,Panama,True,False,,CCCF Championship,1948
-1948-03-09,El Salvador,1,0,Curaçao,True,False,,CCCF Championship,1948
-1948-03-09,Guatemala,4,3,Panama,False,False,,CCCF Championship,1948
-1948-03-11,Costa Rica,3,1,Panama,True,False,,CCCF Championship,1948
-1948-03-11,Curaçao,0,2,El Salvador,True,False,,CCCF Championship,1948
-1948-03-13,Guatemala,1,1,El Salvador,False,False,,CCCF Championship,1948
-1948-03-14,Curaçao,2,5,Panama,True,False,,CCCF Championship,1948
-1948-03-16,Guatemala,3,2,Costa Rica,False,False,,CCCF Championship,1948
-1948-03-16,Panama,2,0,El Salvador,True,False,,CCCF Championship,1948
-1948-03-18,El Salvador,0,6,Costa Rica,True,False,,CCCF Championship,1948
-1948-03-18,Guatemala,2,2,Curaçao,False,False,,CCCF Championship,1948
-1948-03-20,Curaçao,4,1,Costa Rica,True,False,,CCCF Championship,1948
-1948-03-21,Guatemala,4,5,Panama,False,False,,CCCF Championship,1948
-1951-02-25,Costa Rica,8,1,Nicaragua,True,False,,CCCF Championship,1951
-1951-02-27,Panama,2,0,Costa Rica,False,False,,CCCF Championship,1951
-1951-02-28,Panama,4,0,Nicaragua,False,False,,CCCF Championship,1951
-1951-03-02,Panama,1,1,Costa Rica,False,False,,CCCF Championship,1951
-1951-03-03,Nicaragua,1,4,Costa Rica,True,False,,CCCF Championship,1951
-1951-03-04,Panama,6,2,Nicaragua,False,False,,CCCF Championship,1951
-1953-03-08,Costa Rica,5,1,El Salvador,False,False,,CCCF Championship,1953
-1953-03-08,Honduras,2,1,Nicaragua,True,False,,CCCF Championship,1953
-1953-03-09,Guatemala,1,1,Curaçao,True,False,,CCCF Championship,1953
-1953-03-10,Costa Rica,3,0,Panama,False,False,,CCCF Championship,1953
-1953-03-10,El Salvador,4,1,Nicaragua,True,False,,CCCF Championship,1953
-1953-03-11,Curaçao,8,0,Nicaragua,True,False,,CCCF Championship,1953
-1953-03-11,Guatemala,1,0,Honduras,True,False,,CCCF Championship,1953
-1953-03-12,Panama,2,4,Curaçao,True,False,,CCCF Championship,1953
-1953-03-13,Costa Rica,4,1,Honduras,False,False,,CCCF Championship,1953
-1953-03-13,Guatemala,3,2,El Salvador,True,False,,CCCF Championship,1953
-1953-03-14,Panama,0,2,Nicaragua,True,False,,CCCF Championship,1953
-1953-03-15,Costa Rica,1,0,Curaçao,False,False,,CCCF Championship,1953
-1953-03-15,El Salvador,0,3,Honduras,True,False,,CCCF Championship,1953
-1953-03-17,Costa Rica,3,0,Nicaragua,False,False,,CCCF Championship,1953
-1953-03-17,Panama,2,2,Guatemala,True,False,,CCCF Championship,1953
-1953-03-19,Curaçao,3,4,Honduras,True,False,,CCCF Championship,1953
-1953-03-19,El Salvador,2,1,Panama,True,False,,CCCF Championship,1953
-1953-03-19,Guatemala,1,0,Nicaragua,True,False,,CCCF Championship,1953
-1953-03-21,Costa Rica,3,0,Guatemala,False,False,,CCCF Championship,1953
-1953-03-21,El Salvador,1,1,Curaçao,True,False,,CCCF Championship,1953
-1953-03-21,Honduras,3,1,Panama,True,False,,CCCF Championship,1953
-1955-08-14,Costa Rica,3,2,Aruba,True,False,,CCCF Championship,1955
-1955-08-14,Honduras,3,0,Cuba,False,False,,CCCF Championship,1955
-1955-08-15,Guatemala,2,3,El Salvador,True,False,,CCCF Championship,1955
-1955-08-16,Costa Rica,6,0,Cuba,True,False,,CCCF Championship,1955
-1955-08-16,Curaçao,2,1,Aruba,True,False,,CCCF Championship,1955
-1955-08-17,Honduras,3,1,El Salvador,False,False,,CCCF Championship,1955
-1955-08-18,Guatemala,4,1,Curaçao,True,False,,CCCF Championship,1955
-1955-08-19,Aruba,4,1,Cuba,True,False,,CCCF Championship,1955
-1955-08-19,Costa Rica,4,0,El Salvador,True,False,,CCCF Championship,1955
-1955-08-20,El Salvador,2,1,Cuba,True,False,,CCCF Championship,1955
-1955-08-20,Honduras,0,2,Curaçao,False,False,,CCCF Championship,1955
-1955-08-21,Guatemala,0,2,Costa Rica,True,False,,CCCF Championship,1955
-1955-08-22,Honduras,1,1,Aruba,False,False,,CCCF Championship,1955
-1955-08-24,Costa Rica,2,1,Curaçao,True,False,,CCCF Championship,1955
-1955-08-24,El Salvador,2,0,Aruba,True,False,,CCCF Championship,1955
-1955-08-26,Curaçao,3,0,El Salvador,True,False,,CCCF Championship,1955
-1955-08-28,Curaçao,2,0,Cuba,True,False,,CCCF Championship,1955
-1955-08-28,Honduras,1,2,Costa Rica,False,False,,CCCF Championship,1955
-1957-08-13,Curaçao,1,3,Haiti,False,False,,CCCF Championship,1957
-1957-08-14,Cuba,0,1,Panama,True,False,,CCCF Championship,1957
-1957-08-18,Curaçao,2,0,Cuba,False,False,,CCCF Championship,1957
-1957-08-21,Cuba,0,2,Honduras,True,False,,CCCF Championship,1957
-1957-08-21,Curaçao,3,0,Panama,False,False,,CCCF Championship,1957
-1957-08-23,Cuba,1,6,Haiti,True,False,,CCCF Championship,1957
-1957-08-25,Curaçao,1,1,Honduras,False,False,,CCCF Championship,1957
-1960-02-14,Costa Rica,1,1,Curaçao,True,False,,CCCF Championship,1960
-1960-02-19,Honduras,3,3,Curaçao,True,False,,CCCF Championship,1960
-1960-02-23,Cuba,3,4,Curaçao,False,False,,CCCF Championship,1960
-1960-02-27,Curaçao,1,0,Suriname,True,False,,CCCF Championship,1960
-1960-02-29,Costa Rica,4,0,Curaçao,True,False,,CCCF Championship,1960
-1961-03-05,Costa Rica,4,1,Cuba,False,False,,CCCF Championship,1961
-1961-03-06,Curaçao,0,0,El Salvador,True,False,,CCCF Championship,1961
-1961-03-07,Cuba,1,2,Haiti,True,False,,CCCF Championship,1961
-1961-03-09,Guatemala,1,3,Haiti,True,False,,CCCF Championship,1961
-1961-03-10,Cuba,0,1,Panama,True,False,,CCCF Championship,1961
-1961-03-10,Curaçao,2,4,Honduras,True,False,,CCCF Championship,1961
-1961-03-12,Cuba,0,2,Guatemala,True,False,,CCCF Championship,1961
-1961-03-13,Curaçao,2,1,Nicaragua,True,False,,CCCF Championship,1961
-1961-03-13,Haiti,3,1,Panama,True,False,,CCCF Championship,1961
-1961-03-17,Haiti,0,2,Honduras,True,False,,CCCF Championship,1961
+1941-05-08,Curaçao,3,3,Panama,True,,,CCCF Championship,1941
+1941-05-10,Costa Rica,7,2,Nicaragua,False,,,CCCF Championship,1941
+1941-05-11,Costa Rica,7,0,Panama,False,,,CCCF Championship,1941
+1941-05-11,Curaçao,2,2,El Salvador,True,,,CCCF Championship,1941
+1941-05-13,Costa Rica,6,2,Curaçao,False,,,CCCF Championship,1941
+1941-05-13,El Salvador,8,0,Nicaragua,True,,,CCCF Championship,1941
+1941-05-15,Curaçao,9,1,Nicaragua,True,,,CCCF Championship,1941
+1941-05-15,El Salvador,4,3,Panama,True,,,CCCF Championship,1941
+1941-05-18,Costa Rica,3,1,El Salvador,False,,,CCCF Championship,1941
+1941-05-18,Nicaragua,2,5,Panama,True,,,CCCF Championship,1941
+1943-12-05,Costa Rica,7,0,Nicaragua,True,,,CCCF Championship,1943
+1943-12-05,El Salvador,2,2,Guatemala,False,,,CCCF Championship,1943
+1943-12-07,Costa Rica,2,3,Guatemala,True,,,CCCF Championship,1943
+1943-12-07,El Salvador,8,1,Nicaragua,False,,,CCCF Championship,1943
+1943-12-09,El Salvador,4,2,Costa Rica,False,,,CCCF Championship,1943
+1943-12-09,Guatemala,6,2,Nicaragua,True,,,CCCF Championship,1943
+1943-12-12,El Salvador,2,1,Guatemala,False,,,CCCF Championship,1943
+1943-12-12,Nicaragua,2,3,Costa Rica,True,,,CCCF Championship,1943
+1943-12-16,El Salvador,10,1,Nicaragua,False,,,CCCF Championship,1943
+1943-12-16,Guatemala,4,2,Costa Rica,True,,,CCCF Championship,1943
+1943-12-19,El Salvador,2,4,Costa Rica,False,,,CCCF Championship,1943
+1943-12-19,Nicaragua,1,5,Guatemala,True,,,CCCF Championship,1943
+1946-02-23,El Salvador,1,3,Guatemala,True,,,CCCF Championship,1946
+1946-02-23,Panama,1,0,Honduras,True,,,CCCF Championship,1946
+1946-02-24,Costa Rica,7,1,Nicaragua,False,,,CCCF Championship,1946
+1946-02-26,Costa Rica,7,0,Panama,False,,,CCCF Championship,1946
+1946-02-28,El Salvador,7,2,Nicaragua,True,,,CCCF Championship,1946
+1946-02-28,Honduras,5,3,Guatemala,True,,,CCCF Championship,1946
+1946-03-07,Costa Rica,5,1,Honduras,False,,,CCCF Championship,1946
+1946-03-07,El Salvador,4,1,Panama,True,,,CCCF Championship,1946
+1946-03-07,Guatemala,7,0,Nicaragua,True,,,CCCF Championship,1946
+1946-03-10,Costa Rica,1,4,Guatemala,False,,,CCCF Championship,1946
+1946-03-10,El Salvador,3,1,Honduras,True,,,CCCF Championship,1946
+1946-03-10,Panama,0,2,Nicaragua,True,,,CCCF Championship,1946
+1946-03-13,Costa Rica,4,0,El Salvador,False,,,CCCF Championship,1946
+1946-03-13,Honduras,10,0,Nicaragua,True,,,CCCF Championship,1946
+1946-03-13,Panama,3,3,Guatemala,True,,,CCCF Championship,1946
+1948-02-29,Costa Rica,3,1,El Salvador,True,,,CCCF Championship,1948
+1948-03-02,Guatemala,3,0,El Salvador,False,,,CCCF Championship,1948
+1948-03-04,Guatemala,1,1,Costa Rica,False,,,CCCF Championship,1948
+1948-03-04,Panama,1,3,Curaçao,True,,,CCCF Championship,1948
+1948-03-05,Guatemala,2,2,Curaçao,False,,,CCCF Championship,1948
+1948-03-07,Costa Rica,2,1,Curaçao,True,,,CCCF Championship,1948
+1948-03-07,El Salvador,1,2,Panama,True,,,CCCF Championship,1948
+1948-03-09,El Salvador,1,0,Curaçao,True,,,CCCF Championship,1948
+1948-03-09,Guatemala,4,3,Panama,False,,,CCCF Championship,1948
+1948-03-11,Costa Rica,3,1,Panama,True,,,CCCF Championship,1948
+1948-03-11,Curaçao,0,2,El Salvador,True,,,CCCF Championship,1948
+1948-03-13,Guatemala,1,1,El Salvador,False,,,CCCF Championship,1948
+1948-03-14,Curaçao,2,5,Panama,True,,,CCCF Championship,1948
+1948-03-16,Guatemala,3,2,Costa Rica,False,,,CCCF Championship,1948
+1948-03-16,Panama,2,0,El Salvador,True,,,CCCF Championship,1948
+1948-03-18,El Salvador,0,6,Costa Rica,True,,,CCCF Championship,1948
+1948-03-18,Guatemala,2,2,Curaçao,False,,,CCCF Championship,1948
+1948-03-20,Curaçao,4,1,Costa Rica,True,,,CCCF Championship,1948
+1948-03-21,Guatemala,4,5,Panama,False,,,CCCF Championship,1948
+1951-02-25,Costa Rica,8,1,Nicaragua,True,,,CCCF Championship,1951
+1951-02-27,Panama,2,0,Costa Rica,False,,,CCCF Championship,1951
+1951-02-28,Panama,4,0,Nicaragua,False,,,CCCF Championship,1951
+1951-03-02,Panama,1,1,Costa Rica,False,,,CCCF Championship,1951
+1951-03-03,Nicaragua,1,4,Costa Rica,True,,,CCCF Championship,1951
+1951-03-04,Panama,6,2,Nicaragua,False,,,CCCF Championship,1951
+1953-03-08,Costa Rica,5,1,El Salvador,False,,,CCCF Championship,1953
+1953-03-08,Honduras,2,1,Nicaragua,True,,,CCCF Championship,1953
+1953-03-09,Guatemala,1,1,Curaçao,True,,,CCCF Championship,1953
+1953-03-10,Costa Rica,3,0,Panama,False,,,CCCF Championship,1953
+1953-03-10,El Salvador,4,1,Nicaragua,True,,,CCCF Championship,1953
+1953-03-11,Curaçao,8,0,Nicaragua,True,,,CCCF Championship,1953
+1953-03-11,Guatemala,1,0,Honduras,True,,,CCCF Championship,1953
+1953-03-12,Panama,2,4,Curaçao,True,,,CCCF Championship,1953
+1953-03-13,Costa Rica,4,1,Honduras,False,,,CCCF Championship,1953
+1953-03-13,Guatemala,3,2,El Salvador,True,,,CCCF Championship,1953
+1953-03-14,Panama,0,2,Nicaragua,True,,,CCCF Championship,1953
+1953-03-15,Costa Rica,1,0,Curaçao,False,,,CCCF Championship,1953
+1953-03-15,El Salvador,0,3,Honduras,True,,,CCCF Championship,1953
+1953-03-17,Costa Rica,3,0,Nicaragua,False,,,CCCF Championship,1953
+1953-03-17,Panama,2,2,Guatemala,True,,,CCCF Championship,1953
+1953-03-19,Curaçao,3,4,Honduras,True,,,CCCF Championship,1953
+1953-03-19,El Salvador,2,1,Panama,True,,,CCCF Championship,1953
+1953-03-19,Guatemala,1,0,Nicaragua,True,,,CCCF Championship,1953
+1953-03-21,Costa Rica,3,0,Guatemala,False,,,CCCF Championship,1953
+1953-03-21,El Salvador,1,1,Curaçao,True,,,CCCF Championship,1953
+1953-03-21,Honduras,3,1,Panama,True,,,CCCF Championship,1953
+1955-08-14,Costa Rica,3,2,Aruba,True,,,CCCF Championship,1955
+1955-08-14,Honduras,3,0,Cuba,False,,,CCCF Championship,1955
+1955-08-15,Guatemala,2,3,El Salvador,True,,,CCCF Championship,1955
+1955-08-16,Costa Rica,6,0,Cuba,True,,,CCCF Championship,1955
+1955-08-16,Curaçao,2,1,Aruba,True,,,CCCF Championship,1955
+1955-08-17,Honduras,3,1,El Salvador,False,,,CCCF Championship,1955
+1955-08-18,Guatemala,4,1,Curaçao,True,,,CCCF Championship,1955
+1955-08-19,Aruba,4,1,Cuba,True,,,CCCF Championship,1955
+1955-08-19,Costa Rica,4,0,El Salvador,True,,,CCCF Championship,1955
+1955-08-20,El Salvador,2,1,Cuba,True,,,CCCF Championship,1955
+1955-08-20,Honduras,0,2,Curaçao,False,,,CCCF Championship,1955
+1955-08-21,Guatemala,0,2,Costa Rica,True,,,CCCF Championship,1955
+1955-08-22,Honduras,1,1,Aruba,False,,,CCCF Championship,1955
+1955-08-24,Costa Rica,2,1,Curaçao,True,,,CCCF Championship,1955
+1955-08-24,El Salvador,2,0,Aruba,True,,,CCCF Championship,1955
+1955-08-26,Curaçao,3,0,El Salvador,True,,,CCCF Championship,1955
+1955-08-28,Curaçao,2,0,Cuba,True,,,CCCF Championship,1955
+1955-08-28,Honduras,1,2,Costa Rica,False,,,CCCF Championship,1955
+1957-08-13,Curaçao,1,3,Haiti,False,,,CCCF Championship,1957
+1957-08-14,Cuba,0,1,Panama,True,,,CCCF Championship,1957
+1957-08-18,Curaçao,2,0,Cuba,False,,,CCCF Championship,1957
+1957-08-21,Cuba,0,2,Honduras,True,,,CCCF Championship,1957
+1957-08-21,Curaçao,3,0,Panama,False,,,CCCF Championship,1957
+1957-08-23,Cuba,1,6,Haiti,True,,,CCCF Championship,1957
+1957-08-25,Curaçao,1,1,Honduras,False,,,CCCF Championship,1957
+1960-02-14,Costa Rica,1,1,Curaçao,True,,,CCCF Championship,1960
+1960-02-19,Honduras,3,3,Curaçao,True,,,CCCF Championship,1960
+1960-02-23,Cuba,3,4,Curaçao,False,,,CCCF Championship,1960
+1960-02-27,Curaçao,1,0,Suriname,True,,,CCCF Championship,1960
+1960-02-29,Costa Rica,4,0,Curaçao,True,,,CCCF Championship,1960
+1961-03-05,Costa Rica,4,1,Cuba,False,,,CCCF Championship,1961
+1961-03-06,Curaçao,0,0,El Salvador,True,,,CCCF Championship,1961
+1961-03-07,Cuba,1,2,Haiti,True,,,CCCF Championship,1961
+1961-03-09,Guatemala,1,3,Haiti,True,,,CCCF Championship,1961
+1961-03-10,Cuba,0,1,Panama,True,,,CCCF Championship,1961
+1961-03-10,Curaçao,2,4,Honduras,True,,,CCCF Championship,1961
+1961-03-12,Cuba,0,2,Guatemala,True,,,CCCF Championship,1961
+1961-03-13,Curaçao,2,1,Nicaragua,True,,,CCCF Championship,1961
+1961-03-13,Haiti,3,1,Panama,True,,,CCCF Championship,1961
+1961-03-17,Haiti,0,2,Honduras,True,,,CCCF Championship,1961

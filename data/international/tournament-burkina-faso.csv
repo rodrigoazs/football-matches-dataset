@@ -1,12 +1,12 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1988-07-24,Burkina Faso,1,0,Niger,False,False,,Tournament Burkina Faso,1988
-1988-07-25,Benin,1,1,Ghana,True,False,,Tournament Burkina Faso,1988
-1988-07-27,Burkina Faso,3,1,Ghana,False,False,,Tournament Burkina Faso,1988
-1988-07-27,Mali,1,0,Niger,True,False,,Tournament Burkina Faso,1988
-1988-07-29,Benin,0,1,Mali,True,False,,Tournament Burkina Faso,1988
-1988-07-29,Ghana,0,3,Niger,True,False,,Tournament Burkina Faso,1988
-1988-07-31,Burkina Faso,1,0,Benin,False,False,,Tournament Burkina Faso,1988
-1988-07-31,Ghana,1,0,Mali,True,False,,Tournament Burkina Faso,1988
-1988-08-02,Benin,0,5,Niger,True,False,,Tournament Burkina Faso,1988
-1988-08-02,Burkina Faso,2,1,Mali,False,False,,Tournament Burkina Faso,1988
-1988-08-04,Burkina Faso,1,0,Niger,False,False,,Tournament Burkina Faso,1988
+1988-07-24,Burkina Faso,1,0,Niger,False,,,Tournament Burkina Faso,1988
+1988-07-25,Benin,1,1,Ghana,True,,,Tournament Burkina Faso,1988
+1988-07-27,Burkina Faso,3,1,Ghana,False,,,Tournament Burkina Faso,1988
+1988-07-27,Mali,1,0,Niger,True,,,Tournament Burkina Faso,1988
+1988-07-29,Benin,0,1,Mali,True,,,Tournament Burkina Faso,1988
+1988-07-29,Ghana,0,3,Niger,True,,,Tournament Burkina Faso,1988
+1988-07-31,Burkina Faso,1,0,Benin,False,,,Tournament Burkina Faso,1988
+1988-07-31,Ghana,1,0,Mali,True,,,Tournament Burkina Faso,1988
+1988-08-02,Benin,0,5,Niger,True,,,Tournament Burkina Faso,1988
+1988-08-02,Burkina Faso,2,1,Mali,False,,,Tournament Burkina Faso,1988
+1988-08-04,Burkina Faso,1,0,Niger,False,,,Tournament Burkina Faso,1988

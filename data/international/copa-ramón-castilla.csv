@@ -1,7 +1,7 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1972-10-25,Peru,0,2,Argentina,False,False,,Copa Ramón Castilla,1972
-1973-07-27,Argentina,3,1,Peru,False,False,,Copa Ramón Castilla,1973
-1976-10-28,Peru,1,3,Argentina,False,False,,Copa Ramón Castilla,1976
-1976-11-10,Argentina,1,0,Peru,False,False,,Copa Ramón Castilla,1976
-1978-03-19,Argentina,2,1,Peru,False,False,,Copa Ramón Castilla,1978
-1978-03-23,Peru,1,3,Argentina,False,False,,Copa Ramón Castilla,1978
+1972-10-25,Peru,0,2,Argentina,False,,,Copa Ramón Castilla,1972
+1973-07-27,Argentina,3,1,Peru,False,,,Copa Ramón Castilla,1973
+1976-10-28,Peru,1,3,Argentina,False,,,Copa Ramón Castilla,1976
+1976-11-10,Argentina,1,0,Peru,False,,,Copa Ramón Castilla,1976
+1978-03-19,Argentina,2,1,Peru,False,,,Copa Ramón Castilla,1978
+1978-03-23,Peru,1,3,Argentina,False,,,Copa Ramón Castilla,1978

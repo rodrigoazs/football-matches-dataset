@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1990-05-13,Canada,2,1,Mexico,False,False,,NAFU Championship,1990
-1991-03-12,United States,2,2,Mexico,False,False,,NAFU Championship,1991
-1991-03-14,Canada,0,3,Mexico,True,False,,NAFU Championship,1991
-1991-03-16,United States,2,0,Canada,False,False,,NAFU Championship,1991
+1990-05-13,Canada,2,1,Mexico,False,,,NAFU Championship,1990
+1991-03-12,United States,2,2,Mexico,False,,,NAFU Championship,1991
+1991-03-14,Canada,0,3,Mexico,True,,,NAFU Championship,1991
+1991-03-16,United States,2,0,Canada,False,,,NAFU Championship,1991

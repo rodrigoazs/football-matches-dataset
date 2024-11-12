@@ -1,61 +1,61 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2012-01-15,São Tomé and Príncipe,1,0,Lesotho,False,False,,Africa Cup of Nations qualification,2012
-2012-01-22,Lesotho,0,0,São Tomé and Príncipe,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Ethiopia,0,0,Benin,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Rwanda,0,0,Nigeria,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Congo,3,1,Uganda,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Burundi,2,1,Zimbabwe,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Gambia,1,2,Algeria,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Kenya,2,1,Togo,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,São Tomé and Príncipe,2,1,Sierra Leone,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Guinea-Bissau,0,1,Cameroon,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Chad,3,2,Malawi,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Seychelles,0,4,DR Congo,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Tanzania,1,1,Mozambique,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Madagascar,0,4,Cape Verde,False,False,,Africa Cup of Nations qualification,2012
-2012-02-29,Liberia,1,0,Namibia,False,False,,Africa Cup of Nations qualification,2012
-2012-06-15,Algeria,4,1,Gambia,False,False,,Africa Cup of Nations qualification,2012
-2012-06-15,Egypt,2,3,Central African Republic,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Nigeria,2,0,Rwanda,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Uganda,4,0,Congo,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Sierra Leone,4,2,São Tomé and Príncipe,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Cameroon,1,0,Guinea-Bissau,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Malawi,2,0,Chad,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Cape Verde,3,1,Madagascar,False,False,,Africa Cup of Nations qualification,2012
-2012-06-16,Namibia,0,0,Liberia,False,False,,Africa Cup of Nations qualification,2012
-2012-06-17,Benin,1,1,Ethiopia,False,False,,Africa Cup of Nations qualification,2012
-2012-06-17,Zimbabwe,1,0,Burundi,False,False,,Africa Cup of Nations qualification,2012
-2012-06-17,Togo,1,0,Kenya,False,False,,Africa Cup of Nations qualification,2012
-2012-06-17,DR Congo,3,0,Seychelles,False,False,,Africa Cup of Nations qualification,2012
-2012-06-17,Mozambique,1,1,Tanzania,False,False,,Africa Cup of Nations qualification,2012
-2012-06-30,Central African Republic,1,1,Egypt,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Mali,3,0,Botswana,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Ghana,2,0,Malawi,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Liberia,2,2,Nigeria,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Zambia,1,0,Uganda,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Cape Verde,2,0,Cameroon,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Sierra Leone,2,2,Tunisia,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Sudan,5,3,Ethiopia,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Ivory Coast,4,2,Senegal,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Gabon,1,1,Togo,False,False,,Africa Cup of Nations qualification,2012
-2012-09-08,Central African Republic,1,0,Burkina Faso,False,False,,Africa Cup of Nations qualification,2012
-2012-09-09,Zimbabwe,3,1,Angola,False,False,,Africa Cup of Nations qualification,2012
-2012-09-09,Mozambique,2,0,Morocco,False,False,,Africa Cup of Nations qualification,2012
-2012-09-09,Guinea,1,0,Niger,False,False,,Africa Cup of Nations qualification,2012
-2012-09-09,Libya,0,1,Algeria,True,False,,Africa Cup of Nations qualification,2012
-2012-09-09,DR Congo,4,0,Equatorial Guinea,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Botswana,1,4,Mali,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Malawi,0,1,Ghana,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Nigeria,6,1,Liberia,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Uganda,1,0,Zambia,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Morocco,4,0,Mozambique,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Tunisia,0,0,Sierra Leone,False,False,,Africa Cup of Nations qualification,2012
-2012-10-13,Senegal,0,2,Ivory Coast,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Angola,2,0,Zimbabwe,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Cameroon,2,1,Cape Verde,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Niger,2,0,Guinea,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Ethiopia,2,0,Sudan,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Algeria,2,0,Libya,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Equatorial Guinea,2,1,DR Congo,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Togo,2,1,Gabon,False,False,,Africa Cup of Nations qualification,2012
-2012-10-14,Burkina Faso,3,1,Central African Republic,False,False,,Africa Cup of Nations qualification,2012
+2012-01-15,São Tomé and Príncipe,1,0,Lesotho,False,,,Africa Cup of Nations qualification,2012
+2012-01-22,Lesotho,0,0,São Tomé and Príncipe,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Ethiopia,0,0,Benin,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Rwanda,0,0,Nigeria,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Congo,3,1,Uganda,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Burundi,2,1,Zimbabwe,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Gambia,1,2,Algeria,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Kenya,2,1,Togo,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,São Tomé and Príncipe,2,1,Sierra Leone,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Guinea-Bissau,0,1,Cameroon,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Chad,3,2,Malawi,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Seychelles,0,4,DR Congo,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Tanzania,1,1,Mozambique,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Madagascar,0,4,Cape Verde,False,,,Africa Cup of Nations qualification,2012
+2012-02-29,Liberia,1,0,Namibia,False,,,Africa Cup of Nations qualification,2012
+2012-06-15,Algeria,4,1,Gambia,False,,,Africa Cup of Nations qualification,2012
+2012-06-15,Egypt,2,3,Central African Republic,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Nigeria,2,0,Rwanda,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Uganda,4,0,Congo,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Sierra Leone,4,2,São Tomé and Príncipe,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Cameroon,1,0,Guinea-Bissau,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Malawi,2,0,Chad,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Cape Verde,3,1,Madagascar,False,,,Africa Cup of Nations qualification,2012
+2012-06-16,Namibia,0,0,Liberia,False,,,Africa Cup of Nations qualification,2012
+2012-06-17,Benin,1,1,Ethiopia,False,,,Africa Cup of Nations qualification,2012
+2012-06-17,Zimbabwe,1,0,Burundi,False,,,Africa Cup of Nations qualification,2012
+2012-06-17,Togo,1,0,Kenya,False,,,Africa Cup of Nations qualification,2012
+2012-06-17,DR Congo,3,0,Seychelles,False,,,Africa Cup of Nations qualification,2012
+2012-06-17,Mozambique,1,1,Tanzania,False,,,Africa Cup of Nations qualification,2012
+2012-06-30,Central African Republic,1,1,Egypt,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Mali,3,0,Botswana,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Ghana,2,0,Malawi,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Liberia,2,2,Nigeria,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Zambia,1,0,Uganda,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Cape Verde,2,0,Cameroon,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Sierra Leone,2,2,Tunisia,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Sudan,5,3,Ethiopia,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Ivory Coast,4,2,Senegal,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Gabon,1,1,Togo,False,,,Africa Cup of Nations qualification,2012
+2012-09-08,Central African Republic,1,0,Burkina Faso,False,,,Africa Cup of Nations qualification,2012
+2012-09-09,Zimbabwe,3,1,Angola,False,,,Africa Cup of Nations qualification,2012
+2012-09-09,Mozambique,2,0,Morocco,False,,,Africa Cup of Nations qualification,2012
+2012-09-09,Guinea,1,0,Niger,False,,,Africa Cup of Nations qualification,2012
+2012-09-09,Libya,0,1,Algeria,True,,,Africa Cup of Nations qualification,2012
+2012-09-09,DR Congo,4,0,Equatorial Guinea,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Botswana,1,4,Mali,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Malawi,0,1,Ghana,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Nigeria,6,1,Liberia,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Uganda,1,0,Zambia,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Morocco,4,0,Mozambique,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Tunisia,0,0,Sierra Leone,False,,,Africa Cup of Nations qualification,2012
+2012-10-13,Senegal,0,2,Ivory Coast,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Angola,2,0,Zimbabwe,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Cameroon,2,1,Cape Verde,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Niger,2,0,Guinea,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Ethiopia,2,0,Sudan,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Algeria,2,0,Libya,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Equatorial Guinea,2,1,DR Congo,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Togo,2,1,Gabon,False,,,Africa Cup of Nations qualification,2012
+2012-10-14,Burkina Faso,3,1,Central African Republic,False,,,Africa Cup of Nations qualification,2012

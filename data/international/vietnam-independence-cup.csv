@@ -1,61 +1,61 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1961-10-21,Vietnam Republic,4,1,Indonesia,False,False,,Vietnam Independence Cup,1961
-1961-10-23,Indonesia,1,3,Malaysia,True,False,,Vietnam Independence Cup,1961
-1961-10-26,Vietnam Republic,1,0,Malaysia,False,False,,Vietnam Independence Cup,1961
-1962-10-25,Vietnam Republic,4,0,Indonesia,False,False,,Vietnam Independence Cup,1962
-1962-10-27,Malaysia,4,2,Thailand,True,False,,Vietnam Independence Cup,1962
-1962-10-28,Indonesia,2,1,Malaysia,True,False,,Vietnam Independence Cup,1962
-1962-10-28,Vietnam Republic,0,1,Thailand,False,False,,Vietnam Independence Cup,1962
-1962-10-30,Indonesia,7,0,Thailand,True,False,,Vietnam Independence Cup,1962
-1962-10-30,Vietnam Republic,2,0,Malaysia,False,False,,Vietnam Independence Cup,1962
-1962-10-31,Vietnam Republic,2,0,Indonesia,False,False,,Vietnam Independence Cup,1962
-1965-11-13,Vietnam Republic,4,0,Thailand,False,False,,Vietnam Independence Cup,1965
-1965-11-16,Vietnam Republic,2,2,Malaysia,False,False,,Vietnam Independence Cup,1965
-1966-11-01,Vietnam Republic,3,2,Malaysia,False,False,,Vietnam Independence Cup,1966
-1966-11-03,Malaysia,1,1,Thailand,True,False,,Vietnam Independence Cup,1966
-1966-11-05,Vietnam Republic,4,1,Thailand,False,False,,Vietnam Independence Cup,1966
-1967-11-04,Malaysia,3,2,Thailand,True,False,,Vietnam Independence Cup,1967
-1967-11-04,Vietnam Republic,2,0,Singapore,False,False,,Vietnam Independence Cup,1967
-1967-11-05,Australia,5,3,New Zealand,True,False,,Vietnam Independence Cup,1967
-1967-11-05,Hong Kong,0,1,South Korea,True,False,,Vietnam Independence Cup,1967
-1967-11-07,South Korea,3,1,Thailand,True,False,,Vietnam Independence Cup,1967
-1967-11-07,Vietnam Republic,0,1,Australia,False,False,,Vietnam Independence Cup,1967
-1967-11-08,Hong Kong,0,2,Malaysia,True,False,,Vietnam Independence Cup,1967
-1967-11-08,New Zealand,3,1,Singapore,True,False,,Vietnam Independence Cup,1967
-1967-11-10,Hong Kong,1,5,Thailand,True,False,,Vietnam Independence Cup,1967
-1967-11-10,Vietnam Republic,5,1,New Zealand,False,False,,Vietnam Independence Cup,1967
-1967-11-11,Australia,5,1,Singapore,True,False,,Vietnam Independence Cup,1967
-1967-11-11,South Korea,2,1,Malaysia,True,False,,Vietnam Independence Cup,1967
-1967-11-12,Australia,1,0,Malaysia,True,False,,Vietnam Independence Cup,1967
-1967-11-12,Vietnam Republic,0,3,South Korea,False,False,,Vietnam Independence Cup,1967
-1967-11-14,Australia,3,2,South Korea,True,False,,Vietnam Independence Cup,1967
-1967-11-14,Vietnam Republic,4,1,Malaysia,False,False,,Vietnam Independence Cup,1967
-1970-10-29,Indonesia,1,2,Thailand,True,False,,Vietnam Independence Cup,1970
-1970-10-29,Vietnam Republic,1,1,Malaysia,False,False,,Vietnam Independence Cup,1970
-1970-10-31,Malaysia,1,4,Thailand,True,False,,Vietnam Independence Cup,1970
-1970-10-31,Vietnam Republic,3,1,Indonesia,False,False,,Vietnam Independence Cup,1970
-1970-11-01,Indonesia,1,3,Malaysia,True,False,,Vietnam Independence Cup,1970
-1970-11-01,Vietnam Republic,1,0,Thailand,False,False,,Vietnam Independence Cup,1970
-1971-10-28,Singapore,0,1,Thailand,True,False,,Vietnam Independence Cup,1971
-1971-10-28,Vietnam Republic,0,1,Malaysia,False,False,,Vietnam Independence Cup,1971
-1971-10-30,Malaysia,1,1,Singapore,True,False,,Vietnam Independence Cup,1971
-1971-10-30,Vietnam Republic,3,0,Thailand,False,False,,Vietnam Independence Cup,1971
-1971-10-31,Singapore,3,1,Thailand,True,False,,Vietnam Independence Cup,1971
-1971-10-31,Vietnam Republic,1,1,Malaysia,False,False,,Vietnam Independence Cup,1971
-1972-10-28,Cambodia,0,1,Singapore,True,False,,Vietnam Independence Cup,1972
-1972-10-28,Vietnam Republic,0,0,Malaysia,False,False,,Vietnam Independence Cup,1972
-1972-10-29,Cambodia,1,0,Malaysia,True,False,,Vietnam Independence Cup,1972
-1972-10-29,Vietnam Republic,4,1,Singapore,False,False,,Vietnam Independence Cup,1972
-1972-11-01,Malaysia,1,3,Singapore,True,False,,Vietnam Independence Cup,1972
-1972-11-01,Vietnam Republic,1,2,Cambodia,False,False,,Vietnam Independence Cup,1972
-1973-11-01,Vietnam Republic,1,5,Malaysia,False,False,,Vietnam Independence Cup,1973
-1973-11-03,Malaysia,2,1,Singapore,True,False,,Vietnam Independence Cup,1973
-1973-11-04,Vietnam Republic,4,2,Singapore,False,False,,Vietnam Independence Cup,1973
-1974-11-01,Vietnam Republic,1,0,Laos,False,False,,Vietnam Independence Cup,1974
-1974-11-02,Laos,0,0,Malaysia,True,False,,Vietnam Independence Cup,1974
-1974-11-03,Cambodia,2,2,Thailand,True,False,,Vietnam Independence Cup,1974
-1974-11-03,Malaysia,0,0,Taiwan,True,False,,Vietnam Independence Cup,1974
-1974-11-05,Laos,1,2,Taiwan,True,False,,Vietnam Independence Cup,1974
-1974-11-05,Vietnam Republic,1,0,Malaysia,False,False,,Vietnam Independence Cup,1974
-1974-11-07,Vietnam Republic,1,1,Taiwan,False,False,,Vietnam Independence Cup,1974
-1974-11-09,Vietnam Republic,3,2,Thailand,False,False,,Vietnam Independence Cup,1974
+1961-10-21,Vietnam Republic,4,1,Indonesia,False,,,Vietnam Independence Cup,1961
+1961-10-23,Indonesia,1,3,Malaysia,True,,,Vietnam Independence Cup,1961
+1961-10-26,Vietnam Republic,1,0,Malaysia,False,,,Vietnam Independence Cup,1961
+1962-10-25,Vietnam Republic,4,0,Indonesia,False,,,Vietnam Independence Cup,1962
+1962-10-27,Malaysia,4,2,Thailand,True,,,Vietnam Independence Cup,1962
+1962-10-28,Indonesia,2,1,Malaysia,True,,,Vietnam Independence Cup,1962
+1962-10-28,Vietnam Republic,0,1,Thailand,False,,,Vietnam Independence Cup,1962
+1962-10-30,Indonesia,7,0,Thailand,True,,,Vietnam Independence Cup,1962
+1962-10-30,Vietnam Republic,2,0,Malaysia,False,,,Vietnam Independence Cup,1962
+1962-10-31,Vietnam Republic,2,0,Indonesia,False,,,Vietnam Independence Cup,1962
+1965-11-13,Vietnam Republic,4,0,Thailand,False,,,Vietnam Independence Cup,1965
+1965-11-16,Vietnam Republic,2,2,Malaysia,False,,,Vietnam Independence Cup,1965
+1966-11-01,Vietnam Republic,3,2,Malaysia,False,,,Vietnam Independence Cup,1966
+1966-11-03,Malaysia,1,1,Thailand,True,,,Vietnam Independence Cup,1966
+1966-11-05,Vietnam Republic,4,1,Thailand,False,,,Vietnam Independence Cup,1966
+1967-11-04,Malaysia,3,2,Thailand,True,,,Vietnam Independence Cup,1967
+1967-11-04,Vietnam Republic,2,0,Singapore,False,,,Vietnam Independence Cup,1967
+1967-11-05,Australia,5,3,New Zealand,True,,,Vietnam Independence Cup,1967
+1967-11-05,Hong Kong,0,1,South Korea,True,,,Vietnam Independence Cup,1967
+1967-11-07,South Korea,3,1,Thailand,True,,,Vietnam Independence Cup,1967
+1967-11-07,Vietnam Republic,0,1,Australia,False,,,Vietnam Independence Cup,1967
+1967-11-08,Hong Kong,0,2,Malaysia,True,,,Vietnam Independence Cup,1967
+1967-11-08,New Zealand,3,1,Singapore,True,,,Vietnam Independence Cup,1967
+1967-11-10,Hong Kong,1,5,Thailand,True,,,Vietnam Independence Cup,1967
+1967-11-10,Vietnam Republic,5,1,New Zealand,False,,,Vietnam Independence Cup,1967
+1967-11-11,Australia,5,1,Singapore,True,,,Vietnam Independence Cup,1967
+1967-11-11,South Korea,2,1,Malaysia,True,,,Vietnam Independence Cup,1967
+1967-11-12,Australia,1,0,Malaysia,True,,,Vietnam Independence Cup,1967
+1967-11-12,Vietnam Republic,0,3,South Korea,False,,,Vietnam Independence Cup,1967
+1967-11-14,Australia,3,2,South Korea,True,,,Vietnam Independence Cup,1967
+1967-11-14,Vietnam Republic,4,1,Malaysia,False,,,Vietnam Independence Cup,1967
+1970-10-29,Indonesia,1,2,Thailand,True,,,Vietnam Independence Cup,1970
+1970-10-29,Vietnam Republic,1,1,Malaysia,False,,,Vietnam Independence Cup,1970
+1970-10-31,Malaysia,1,4,Thailand,True,,,Vietnam Independence Cup,1970
+1970-10-31,Vietnam Republic,3,1,Indonesia,False,,,Vietnam Independence Cup,1970
+1970-11-01,Indonesia,1,3,Malaysia,True,,,Vietnam Independence Cup,1970
+1970-11-01,Vietnam Republic,1,0,Thailand,False,,,Vietnam Independence Cup,1970
+1971-10-28,Singapore,0,1,Thailand,True,,,Vietnam Independence Cup,1971
+1971-10-28,Vietnam Republic,0,1,Malaysia,False,,,Vietnam Independence Cup,1971
+1971-10-30,Malaysia,1,1,Singapore,True,,,Vietnam Independence Cup,1971
+1971-10-30,Vietnam Republic,3,0,Thailand,False,,,Vietnam Independence Cup,1971
+1971-10-31,Singapore,3,1,Thailand,True,,,Vietnam Independence Cup,1971
+1971-10-31,Vietnam Republic,1,1,Malaysia,False,,,Vietnam Independence Cup,1971
+1972-10-28,Cambodia,0,1,Singapore,True,,,Vietnam Independence Cup,1972
+1972-10-28,Vietnam Republic,0,0,Malaysia,False,,,Vietnam Independence Cup,1972
+1972-10-29,Cambodia,1,0,Malaysia,True,,,Vietnam Independence Cup,1972
+1972-10-29,Vietnam Republic,4,1,Singapore,False,,,Vietnam Independence Cup,1972
+1972-11-01,Malaysia,1,3,Singapore,True,,,Vietnam Independence Cup,1972
+1972-11-01,Vietnam Republic,1,2,Cambodia,False,,,Vietnam Independence Cup,1972
+1973-11-01,Vietnam Republic,1,5,Malaysia,False,,,Vietnam Independence Cup,1973
+1973-11-03,Malaysia,2,1,Singapore,True,,,Vietnam Independence Cup,1973
+1973-11-04,Vietnam Republic,4,2,Singapore,False,,,Vietnam Independence Cup,1973
+1974-11-01,Vietnam Republic,1,0,Laos,False,,,Vietnam Independence Cup,1974
+1974-11-02,Laos,0,0,Malaysia,True,,,Vietnam Independence Cup,1974
+1974-11-03,Cambodia,2,2,Thailand,True,,,Vietnam Independence Cup,1974
+1974-11-03,Malaysia,0,0,Taiwan,True,,,Vietnam Independence Cup,1974
+1974-11-05,Laos,1,2,Taiwan,True,,,Vietnam Independence Cup,1974
+1974-11-05,Vietnam Republic,1,0,Malaysia,False,,,Vietnam Independence Cup,1974
+1974-11-07,Vietnam Republic,1,1,Taiwan,False,,,Vietnam Independence Cup,1974
+1974-11-09,Vietnam Republic,3,2,Thailand,False,,,Vietnam Independence Cup,1974

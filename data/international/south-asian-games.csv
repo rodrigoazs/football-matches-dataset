@@ -1,69 +1,69 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1984-09-18,Nepal,4,0,Maldives,False,False,,South Asian Games,1984
-1984-09-18,Bangladesh,2,0,Bhutan,True,False,,South Asian Games,1984
-1984-09-19,Bangladesh,5,0,Maldives,True,False,,South Asian Games,1984
-1984-09-20,Nepal,5,0,Bhutan,False,False,,South Asian Games,1984
-1984-09-21,Maldives,1,0,Bhutan,True,False,,South Asian Games,1984
-1984-09-21,Nepal,0,5,Bangladesh,False,False,,South Asian Games,1984
-1984-09-23,Nepal,4,2,Bangladesh,False,False,,South Asian Games,1984
-1985-12-21,Bangladesh,2,1,Pakistan,False,False,,South Asian Games,1985
-1985-12-21,India,2,0,Nepal,True,False,,South Asian Games,1985
-1985-12-22,Pakistan,3,1,Maldives,True,False,,South Asian Games,1985
-1985-12-22,Nepal,1,0,Bhutan,True,False,,South Asian Games,1985
-1985-12-23,Bangladesh,8,0,Maldives,False,False,,South Asian Games,1985
-1985-12-23,India,3,0,Bhutan,True,False,,South Asian Games,1985
-1985-12-25,Pakistan,2,2,Nepal,True,False,,South Asian Games,1985
-1985-12-25,Bangladesh,1,1,India,False,False,,South Asian Games,1985
-1987-11-21,India,0,0,Pakistan,False,False,,South Asian Games,1987
-1987-11-21,Nepal,1,0,Bangladesh,True,False,,South Asian Games,1987
-1987-11-22,Pakistan,1,0,Maldives,True,False,,South Asian Games,1987
-1987-11-22,Bangladesh,3,0,Bhutan,True,False,,South Asian Games,1987
-1987-11-23,India,5,0,Maldives,False,False,,South Asian Games,1987
-1987-11-23,Nepal,6,2,Bhutan,True,False,,South Asian Games,1987
-1987-11-25,Pakistan,1,0,Bangladesh,True,False,,South Asian Games,1987
-1987-11-26,India,1,0,Nepal,False,False,,South Asian Games,1987
-1989-09-21,Bangladesh,3,0,Sri Lanka,True,False,,South Asian Games,1989
-1989-09-25,India,2,1,Sri Lanka,True,False,,South Asian Games,1989
-1989-10-20,Maldives,0,0,Nepal,True,False,,South Asian Games,1989
-1989-10-22,Pakistan,0,0,Nepal,False,False,,South Asian Games,1989
-1989-10-23,Bangladesh,1,1,India,True,False,,South Asian Games,1989
-1989-10-24,Pakistan,2,0,Maldives,False,False,,South Asian Games,1989
-1989-10-26,India,2,1,Nepal,True,False,,South Asian Games,1989
-1989-10-26,Pakistan,1,0,Bangladesh,False,False,,South Asian Games,1989
-1991-12-22,Pakistan,0,0,India,True,False,,South Asian Games,1991
-1991-12-22,Sri Lanka,2,2,Nepal,False,False,,South Asian Games,1991
-1991-12-24,Pakistan,1,0,Bangladesh,True,False,,South Asian Games,1991
-1991-12-24,Maldives,1,0,Nepal,True,False,,South Asian Games,1991
-1991-12-26,Bangladesh,2,1,India,True,False,,South Asian Games,1991
-1991-12-26,Sri Lanka,0,1,Maldives,False,False,,South Asian Games,1991
-1991-12-28,Bangladesh,2,0,Nepal,True,False,,South Asian Games,1991
-1991-12-29,Pakistan,2,0,Maldives,True,False,,South Asian Games,1991
-1993-12-20,Bangladesh,0,0,Maldives,False,False,,South Asian Games,1993
-1993-12-20,Sri Lanka,2,1,Pakistan,True,False,,South Asian Games,1993
-1993-12-22,Nepal,0,0,Maldives,True,False,,South Asian Games,1993
-1993-12-22,India,2,0,Sri Lanka,True,False,,South Asian Games,1993
-1993-12-24,Bangladesh,0,1,Nepal,False,False,,South Asian Games,1993
-1993-12-24,India,2,2,Pakistan,True,False,,South Asian Games,1993
-1993-12-26,Sri Lanka,3,1,Maldives,True,False,,South Asian Games,1993
-1993-12-26,Nepal,2,2,India,True,False,,South Asian Games,1993
-1995-12-19,Nepal,1,0,Maldives,True,False,,South Asian Games,1995
-1995-12-21,Maldives,0,0,Bangladesh,True,False,,South Asian Games,1995
-1995-12-23,India,1,0,Sri Lanka,False,False,,South Asian Games,1995
-1995-12-23,Bangladesh,2,1,Nepal,True,False,,South Asian Games,1995
-1995-12-25,Bangladesh,0,0,Sri Lanka,True,False,,South Asian Games,1995
-1995-12-25,India,3,0,Nepal,False,False,,South Asian Games,1995
-1995-12-27,Sri Lanka,0,0,Nepal,True,False,,South Asian Games,1995
-1995-12-27,India,1,0,Bangladesh,False,False,,South Asian Games,1995
-1999-09-24,Sri Lanka,0,4,Maldives,True,False,,South Asian Games,1999
-1999-09-26,India,5,2,Pakistan,True,False,,South Asian Games,1999
-1999-09-26,Nepal,7,0,Bhutan,False,False,,South Asian Games,1999
-1999-09-27,Bangladesh,1,2,Maldives,True,False,,South Asian Games,1999
-1999-09-28,India,3,0,Bhutan,True,False,,South Asian Games,1999
-1999-09-28,Nepal,3,1,Pakistan,False,False,,South Asian Games,1999
-1999-09-29,Bangladesh,1,0,Sri Lanka,True,False,,South Asian Games,1999
-1999-09-30,Nepal,0,4,India,False,False,,South Asian Games,1999
-1999-09-30,Pakistan,2,1,Bhutan,True,False,,South Asian Games,1999
-1999-10-02,Nepal,2,1,Maldives,False,False,,South Asian Games,1999
-1999-10-02,India,0,1,Bangladesh,True,False,,South Asian Games,1999
-1999-10-04,India,3,1,Maldives,True,False,,South Asian Games,1999
-1999-10-04,Nepal,0,1,Bangladesh,False,False,,South Asian Games,1999
+1984-09-18,Nepal,4,0,Maldives,False,,,South Asian Games,1984
+1984-09-18,Bangladesh,2,0,Bhutan,True,,,South Asian Games,1984
+1984-09-19,Bangladesh,5,0,Maldives,True,,,South Asian Games,1984
+1984-09-20,Nepal,5,0,Bhutan,False,,,South Asian Games,1984
+1984-09-21,Maldives,1,0,Bhutan,True,,,South Asian Games,1984
+1984-09-21,Nepal,0,5,Bangladesh,False,,,South Asian Games,1984
+1984-09-23,Nepal,4,2,Bangladesh,False,,,South Asian Games,1984
+1985-12-21,Bangladesh,2,1,Pakistan,False,,,South Asian Games,1985
+1985-12-21,India,2,0,Nepal,True,,,South Asian Games,1985
+1985-12-22,Pakistan,3,1,Maldives,True,,,South Asian Games,1985
+1985-12-22,Nepal,1,0,Bhutan,True,,,South Asian Games,1985
+1985-12-23,Bangladesh,8,0,Maldives,False,,,South Asian Games,1985
+1985-12-23,India,3,0,Bhutan,True,,,South Asian Games,1985
+1985-12-25,Pakistan,2,2,Nepal,True,,,South Asian Games,1985
+1985-12-25,Bangladesh,1,1,India,False,,,South Asian Games,1985
+1987-11-21,India,0,0,Pakistan,False,,,South Asian Games,1987
+1987-11-21,Nepal,1,0,Bangladesh,True,,,South Asian Games,1987
+1987-11-22,Pakistan,1,0,Maldives,True,,,South Asian Games,1987
+1987-11-22,Bangladesh,3,0,Bhutan,True,,,South Asian Games,1987
+1987-11-23,India,5,0,Maldives,False,,,South Asian Games,1987
+1987-11-23,Nepal,6,2,Bhutan,True,,,South Asian Games,1987
+1987-11-25,Pakistan,1,0,Bangladesh,True,,,South Asian Games,1987
+1987-11-26,India,1,0,Nepal,False,,,South Asian Games,1987
+1989-09-21,Bangladesh,3,0,Sri Lanka,True,,,South Asian Games,1989
+1989-09-25,India,2,1,Sri Lanka,True,,,South Asian Games,1989
+1989-10-20,Maldives,0,0,Nepal,True,,,South Asian Games,1989
+1989-10-22,Pakistan,0,0,Nepal,False,,,South Asian Games,1989
+1989-10-23,Bangladesh,1,1,India,True,,,South Asian Games,1989
+1989-10-24,Pakistan,2,0,Maldives,False,,,South Asian Games,1989
+1989-10-26,India,2,1,Nepal,True,,,South Asian Games,1989
+1989-10-26,Pakistan,1,0,Bangladesh,False,,,South Asian Games,1989
+1991-12-22,Pakistan,0,0,India,True,,,South Asian Games,1991
+1991-12-22,Sri Lanka,2,2,Nepal,False,,,South Asian Games,1991
+1991-12-24,Pakistan,1,0,Bangladesh,True,,,South Asian Games,1991
+1991-12-24,Maldives,1,0,Nepal,True,,,South Asian Games,1991
+1991-12-26,Bangladesh,2,1,India,True,,,South Asian Games,1991
+1991-12-26,Sri Lanka,0,1,Maldives,False,,,South Asian Games,1991
+1991-12-28,Bangladesh,2,0,Nepal,True,,,South Asian Games,1991
+1991-12-29,Pakistan,2,0,Maldives,True,,,South Asian Games,1991
+1993-12-20,Bangladesh,0,0,Maldives,False,,,South Asian Games,1993
+1993-12-20,Sri Lanka,2,1,Pakistan,True,,,South Asian Games,1993
+1993-12-22,Nepal,0,0,Maldives,True,,,South Asian Games,1993
+1993-12-22,India,2,0,Sri Lanka,True,,,South Asian Games,1993
+1993-12-24,Bangladesh,0,1,Nepal,False,,,South Asian Games,1993
+1993-12-24,India,2,2,Pakistan,True,,,South Asian Games,1993
+1993-12-26,Sri Lanka,3,1,Maldives,True,,,South Asian Games,1993
+1993-12-26,Nepal,2,2,India,True,,,South Asian Games,1993
+1995-12-19,Nepal,1,0,Maldives,True,,,South Asian Games,1995
+1995-12-21,Maldives,0,0,Bangladesh,True,,,South Asian Games,1995
+1995-12-23,India,1,0,Sri Lanka,False,,,South Asian Games,1995
+1995-12-23,Bangladesh,2,1,Nepal,True,,,South Asian Games,1995
+1995-12-25,Bangladesh,0,0,Sri Lanka,True,,,South Asian Games,1995
+1995-12-25,India,3,0,Nepal,False,,,South Asian Games,1995
+1995-12-27,Sri Lanka,0,0,Nepal,True,,,South Asian Games,1995
+1995-12-27,India,1,0,Bangladesh,False,,,South Asian Games,1995
+1999-09-24,Sri Lanka,0,4,Maldives,True,,,South Asian Games,1999
+1999-09-26,India,5,2,Pakistan,True,,,South Asian Games,1999
+1999-09-26,Nepal,7,0,Bhutan,False,,,South Asian Games,1999
+1999-09-27,Bangladesh,1,2,Maldives,True,,,South Asian Games,1999
+1999-09-28,India,3,0,Bhutan,True,,,South Asian Games,1999
+1999-09-28,Nepal,3,1,Pakistan,False,,,South Asian Games,1999
+1999-09-29,Bangladesh,1,0,Sri Lanka,True,,,South Asian Games,1999
+1999-09-30,Nepal,0,4,India,False,,,South Asian Games,1999
+1999-09-30,Pakistan,2,1,Bhutan,True,,,South Asian Games,1999
+1999-10-02,Nepal,2,1,Maldives,False,,,South Asian Games,1999
+1999-10-02,India,0,1,Bangladesh,True,,,South Asian Games,1999
+1999-10-04,India,3,1,Maldives,True,,,South Asian Games,1999
+1999-10-04,Nepal,0,1,Bangladesh,False,,,South Asian Games,1999

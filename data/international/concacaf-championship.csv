@@ -1,170 +1,170 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1963-03-23,Guatemala,2,2,Panama,True,False,,CONCACAF Championship,1963
-1963-03-23,El Salvador,6,1,Nicaragua,False,False,,CONCACAF Championship,1963
-1963-03-24,Costa Rica,6,0,Jamaica,True,False,,CONCACAF Championship,1963
-1963-03-24,Mexico,1,2,Curaçao,True,False,,CONCACAF Championship,1963
-1963-03-25,Honduras,1,0,Nicaragua,True,False,,CONCACAF Championship,1963
-1963-03-25,El Salvador,1,1,Panama,False,False,,CONCACAF Championship,1963
-1963-03-27,Guatemala,3,1,Nicaragua,True,False,,CONCACAF Championship,1963
-1963-03-27,El Salvador,2,2,Honduras,False,False,,CONCACAF Championship,1963
-1963-03-28,Costa Rica,1,0,Curaçao,True,False,,CONCACAF Championship,1963
-1963-03-28,Jamaica,0,8,Mexico,True,False,,CONCACAF Championship,1963
-1963-03-29,Guatemala,1,2,Honduras,True,False,,CONCACAF Championship,1963
-1963-03-29,Nicaragua,0,5,Panama,True,False,,CONCACAF Championship,1963
-1963-03-30,Costa Rica,0,0,Mexico,True,False,,CONCACAF Championship,1963
-1963-03-30,Jamaica,1,2,Curaçao,True,False,,CONCACAF Championship,1963
-1963-03-31,Panama,0,1,Honduras,True,False,,CONCACAF Championship,1963
-1963-03-31,El Salvador,1,1,Guatemala,False,False,,CONCACAF Championship,1963
-1963-04-03,Honduras,1,4,Curaçao,True,False,,CONCACAF Championship,1963
-1963-04-03,El Salvador,1,4,Costa Rica,False,False,,CONCACAF Championship,1963
-1963-04-05,Costa Rica,1,0,Curaçao,True,False,,CONCACAF Championship,1963
-1963-04-05,El Salvador,3,0,Honduras,False,False,,CONCACAF Championship,1963
-1963-04-07,El Salvador,3,2,Curaçao,False,False,,CONCACAF Championship,1963
-1963-04-07,Costa Rica,2,1,Honduras,True,False,,CONCACAF Championship,1963
-1965-03-28,Costa Rica,6,0,Curaçao,True,False,,CONCACAF Championship,1965
-1965-03-28,El Salvador,0,2,Mexico,True,False,,CONCACAF Championship,1965
-1965-03-28,Guatemala,3,0,Haiti,False,False,,CONCACAF Championship,1965
-1965-03-30,El Salvador,1,1,Curaçao,True,False,,CONCACAF Championship,1965
-1965-03-30,Costa Rica,3,1,Haiti,True,False,,CONCACAF Championship,1965
-1965-04-01,Mexico,5,0,Curaçao,True,False,,CONCACAF Championship,1965
-1965-04-01,Guatemala,0,0,Costa Rica,False,False,,CONCACAF Championship,1965
-1965-04-04,Guatemala,4,1,El Salvador,False,False,,CONCACAF Championship,1965
-1965-04-04,Haiti,0,3,Mexico,True,False,,CONCACAF Championship,1965
-1965-04-06,Costa Rica,1,1,Mexico,True,False,,CONCACAF Championship,1965
-1965-04-06,Guatemala,3,2,Curaçao,False,False,,CONCACAF Championship,1965
-1965-04-08,Costa Rica,1,2,El Salvador,True,False,,CONCACAF Championship,1965
-1965-04-08,Haiti,1,1,Curaçao,True,False,,CONCACAF Championship,1965
-1965-04-11,Guatemala,1,2,Mexico,False,False,,CONCACAF Championship,1965
-1965-04-11,El Salvador,3,1,Haiti,True,False,,CONCACAF Championship,1965
-1967-03-05,Honduras,1,0,Trinidad and Tobago,False,False,,CONCACAF Championship,1967
-1967-03-06,Haiti,1,2,Guatemala,True,False,,CONCACAF Championship,1967
-1967-03-06,Mexico,4,0,Nicaragua,True,False,,CONCACAF Championship,1967
-1967-03-08,Haiti,2,3,Trinidad and Tobago,True,False,,CONCACAF Championship,1967
-1967-03-08,Honduras,1,1,Nicaragua,False,False,,CONCACAF Championship,1967
-1967-03-10,Guatemala,1,0,Mexico,True,False,,CONCACAF Championship,1967
-1967-03-10,Haiti,2,1,Nicaragua,True,False,,CONCACAF Championship,1967
-1967-03-12,Honduras,0,0,Guatemala,False,False,,CONCACAF Championship,1967
-1967-03-12,Mexico,4,0,Trinidad and Tobago,True,False,,CONCACAF Championship,1967
-1967-03-14,Haiti,0,1,Mexico,True,False,,CONCACAF Championship,1967
-1967-03-14,Trinidad and Tobago,0,2,Guatemala,True,False,,CONCACAF Championship,1967
-1967-03-17,Nicaragua,1,3,Trinidad and Tobago,True,False,,CONCACAF Championship,1967
-1967-03-17,Honduras,2,0,Haiti,False,False,,CONCACAF Championship,1967
-1967-03-19,Honduras,0,1,Mexico,False,False,,CONCACAF Championship,1967
-1967-03-19,Guatemala,2,0,Nicaragua,True,False,,CONCACAF Championship,1967
-1969-11-23,Costa Rica,3,0,Jamaica,False,False,,CONCACAF Championship,1969
-1969-11-27,Costa Rica,2,1,Curaçao,False,False,,CONCACAF Championship,1969
-1969-11-27,Mexico,2,0,Jamaica,True,False,,CONCACAF Championship,1969
-1969-11-27,Guatemala,2,0,Trinidad and Tobago,True,False,,CONCACAF Championship,1969
-1969-11-29,Guatemala,6,1,Curaçao,True,False,,CONCACAF Championship,1969
-1969-11-30,Jamaica,2,3,Trinidad and Tobago,True,False,,CONCACAF Championship,1969
-1969-11-30,Costa Rica,2,0,Mexico,False,False,,CONCACAF Championship,1969
-1969-12-02,Curaçao,3,1,Trinidad and Tobago,True,False,,CONCACAF Championship,1969
-1969-12-02,Mexico,0,1,Guatemala,True,False,,CONCACAF Championship,1969
-1969-12-04,Costa Rica,5,0,Trinidad and Tobago,False,False,,CONCACAF Championship,1969
-1969-12-04,Jamaica,0,0,Guatemala,True,False,,CONCACAF Championship,1969
-1969-12-04,Mexico,2,2,Curaçao,True,False,,CONCACAF Championship,1969
-1969-12-06,Jamaica,1,2,Curaçao,True,False,,CONCACAF Championship,1969
-1969-12-07,Mexico,0,0,Trinidad and Tobago,True,False,,CONCACAF Championship,1969
-1969-12-07,Costa Rica,1,1,Guatemala,False,False,,CONCACAF Championship,1969
-1971-11-20,Cuba,0,3,Costa Rica,True,False,,CONCACAF Championship,1971
-1971-11-21,Haiti,0,0,Mexico,True,False,,CONCACAF Championship,1971
-1971-11-21,Trinidad and Tobago,1,1,Honduras,False,False,,CONCACAF Championship,1971
-1971-11-23,Cuba,3,1,Honduras,True,False,,CONCACAF Championship,1971
-1971-11-24,Costa Rica,0,0,Haiti,True,False,,CONCACAF Championship,1971
-1971-11-26,Trinidad and Tobago,0,2,Mexico,False,False,,CONCACAF Championship,1971
-1971-11-27,Costa Rica,2,1,Honduras,True,False,,CONCACAF Championship,1971
-1971-11-28,Cuba,0,1,Mexico,True,False,,CONCACAF Championship,1971
-1971-11-28,Trinidad and Tobago,1,6,Haiti,False,False,,CONCACAF Championship,1971
-1971-11-30,Trinidad and Tobago,2,2,Cuba,False,False,,CONCACAF Championship,1971
-1971-12-01,Haiti,3,1,Honduras,True,False,,CONCACAF Championship,1971
-1971-12-02,Costa Rica,0,1,Mexico,True,False,,CONCACAF Championship,1971
-1971-12-04,Cuba,0,0,Haiti,True,False,,CONCACAF Championship,1971
-1971-12-04,Honduras,1,2,Mexico,True,False,,CONCACAF Championship,1971
-1971-12-05,Trinidad and Tobago,3,1,Costa Rica,False,False,,CONCACAF Championship,1971
-1973-11-29,Honduras,2,1,Trinidad and Tobago,True,False,,CONCACAF Championship,1973
-1973-11-30,Guatemala,0,0,Mexico,True,False,,CONCACAF Championship,1973
-1973-12-01,Haiti,3,0,Curaçao,False,False,,CONCACAF Championship,1973
-1973-12-03,Honduras,1,1,Mexico,True,False,,CONCACAF Championship,1973
-1973-12-04,Haiti,2,1,Trinidad and Tobago,False,False,,CONCACAF Championship,1973
-1973-12-05,Guatemala,2,2,Curaçao,True,False,,CONCACAF Championship,1973
-1973-12-07,Haiti,1,0,Honduras,False,False,,CONCACAF Championship,1973
-1973-12-08,Mexico,8,0,Curaçao,True,False,,CONCACAF Championship,1973
-1973-12-10,Guatemala,0,1,Trinidad and Tobago,True,False,,CONCACAF Championship,1973
-1973-12-12,Honduras,2,2,Curaçao,True,False,,CONCACAF Championship,1973
-1973-12-13,Haiti,2,1,Guatemala,False,False,,CONCACAF Championship,1973
-1973-12-14,Mexico,0,4,Trinidad and Tobago,True,False,,CONCACAF Championship,1973
-1973-12-15,Guatemala,1,1,Honduras,True,False,,CONCACAF Championship,1973
-1973-12-17,Curaçao,0,4,Trinidad and Tobago,True,False,,CONCACAF Championship,1973
-1973-12-18,Haiti,0,1,Mexico,False,False,,CONCACAF Championship,1973
-1977-10-08,Canada,1,2,El Salvador,True,False,,CONCACAF Championship,1977
-1977-10-08,Guatemala,3,2,Suriname,True,False,,CONCACAF Championship,1977
-1977-10-09,Mexico,4,1,Haiti,False,False,,CONCACAF Championship,1977
-1977-10-12,Canada,2,1,Suriname,True,False,,CONCACAF Championship,1977
-1977-10-12,Guatemala,1,2,Haiti,True,False,,CONCACAF Championship,1977
-1977-10-12,Mexico,3,1,El Salvador,False,False,,CONCACAF Championship,1977
-1977-10-15,Mexico,8,1,Suriname,False,False,,CONCACAF Championship,1977
-1977-10-16,Canada,2,1,Guatemala,True,False,,CONCACAF Championship,1977
-1977-10-16,El Salvador,0,1,Haiti,True,False,,CONCACAF Championship,1977
-1977-10-19,Mexico,2,1,Guatemala,False,False,,CONCACAF Championship,1977
-1977-10-20,Canada,1,1,Haiti,True,False,,CONCACAF Championship,1977
-1977-10-20,El Salvador,3,2,Suriname,True,False,,CONCACAF Championship,1977
-1977-10-22,Mexico,3,1,Canada,False,False,,CONCACAF Championship,1977
-1977-10-23,El Salvador,2,2,Guatemala,True,False,,CONCACAF Championship,1977
-1977-10-23,Haiti,1,0,Suriname,True,False,,CONCACAF Championship,1977
-1981-11-01,Mexico,4,0,Cuba,True,False,,CONCACAF Championship,1981
-1981-11-02,Canada,1,0,El Salvador,True,False,,CONCACAF Championship,1981
-1981-11-03,Honduras,4,0,Haiti,False,False,,CONCACAF Championship,1981
-1981-11-06,Canada,1,1,Haiti,True,False,,CONCACAF Championship,1981
-1981-11-06,Mexico,0,1,El Salvador,True,False,,CONCACAF Championship,1981
-1981-11-08,Honduras,2,0,Cuba,False,False,,CONCACAF Championship,1981
-1981-11-11,Cuba,0,0,El Salvador,True,False,,CONCACAF Championship,1981
-1981-11-11,Haiti,1,1,Mexico,True,False,,CONCACAF Championship,1981
-1981-11-12,Honduras,2,1,Canada,False,False,,CONCACAF Championship,1981
-1981-11-15,Haiti,0,2,Cuba,True,False,,CONCACAF Championship,1981
-1981-11-15,Mexico,1,1,Canada,True,False,,CONCACAF Championship,1981
-1981-11-16,Honduras,0,0,El Salvador,False,False,,CONCACAF Championship,1981
-1981-11-19,El Salvador,1,0,Haiti,True,False,,CONCACAF Championship,1981
-1981-11-21,Cuba,2,2,Canada,True,False,,CONCACAF Championship,1981
-1981-11-22,Honduras,0,0,Mexico,False,False,,CONCACAF Championship,1981
-1985-02-24,El Salvador,3,0,Suriname,False,False,,CONCACAF Championship,1985
-1985-02-27,El Salvador,3,0,Suriname,False,False,,CONCACAF Championship,1985
-1985-03-03,Honduras,1,1,Suriname,False,False,,CONCACAF Championship,1985
-1985-03-06,Honduras,2,1,Suriname,False,False,,CONCACAF Championship,1985
-1985-03-10,El Salvador,1,2,Honduras,False,False,,CONCACAF Championship,1985
-1985-03-14,Honduras,0,0,El Salvador,False,False,,CONCACAF Championship,1985
-1985-04-13,Canada,2,0,Haiti,False,False,,CONCACAF Championship,1985
-1985-04-20,Canada,2,1,Guatemala,False,False,,CONCACAF Championship,1985
-1985-04-24,Costa Rica,3,0,Trinidad and Tobago,False,False,,CONCACAF Championship,1985
-1985-04-26,Haiti,0,1,Guatemala,False,False,,CONCACAF Championship,1985
-1985-04-28,Costa Rica,1,1,Trinidad and Tobago,False,False,,CONCACAF Championship,1985
-1985-05-05,Guatemala,1,1,Canada,False,False,,CONCACAF Championship,1985
-1985-05-08,Haiti,0,2,Canada,False,False,,CONCACAF Championship,1985
-1985-05-15,Guatemala,4,0,Haiti,False,False,,CONCACAF Championship,1985
-1985-05-15,United States,2,1,Trinidad and Tobago,False,False,,CONCACAF Championship,1985
-1985-05-19,United States,1,0,Trinidad and Tobago,False,False,,CONCACAF Championship,1985
-1985-05-26,Costa Rica,1,1,United States,False,False,,CONCACAF Championship,1985
-1985-05-31,United States,0,1,Costa Rica,False,False,,CONCACAF Championship,1985
-1985-08-11,Costa Rica,2,2,Honduras,False,False,,CONCACAF Championship,1985
-1985-08-17,Canada,1,1,Costa Rica,False,False,,CONCACAF Championship,1985
-1985-08-25,Honduras,0,1,Canada,False,False,,CONCACAF Championship,1985
-1985-09-01,Costa Rica,0,0,Canada,False,False,,CONCACAF Championship,1985
-1985-09-08,Honduras,3,1,Costa Rica,False,False,,CONCACAF Championship,1985
-1985-09-14,Canada,2,1,Honduras,False,False,,CONCACAF Championship,1985
-1989-03-19,Guatemala,1,0,Costa Rica,False,False,,CONCACAF Championship,1989
-1989-04-02,Costa Rica,2,1,Guatemala,False,False,,CONCACAF Championship,1989
-1989-04-16,Costa Rica,1,0,United States,False,False,,CONCACAF Championship,1989
-1989-04-30,United States,1,0,Costa Rica,False,False,,CONCACAF Championship,1989
-1989-05-13,United States,1,1,Trinidad and Tobago,False,False,,CONCACAF Championship,1989
-1989-05-28,Trinidad and Tobago,1,1,Costa Rica,False,False,,CONCACAF Championship,1989
-1989-06-11,Costa Rica,1,0,Trinidad and Tobago,False,False,,CONCACAF Championship,1989
-1989-06-17,United States,2,1,Guatemala,False,False,,CONCACAF Championship,1989
-1989-06-25,El Salvador,2,4,Costa Rica,False,False,,CONCACAF Championship,1989
-1989-07-16,Costa Rica,1,0,El Salvador,False,False,,CONCACAF Championship,1989
-1989-07-30,Trinidad and Tobago,2,0,El Salvador,False,False,,CONCACAF Championship,1989
-1989-08-13,El Salvador,0,0,Trinidad and Tobago,True,False,,CONCACAF Championship,1989
-1989-08-20,Guatemala,0,1,Trinidad and Tobago,False,False,,CONCACAF Championship,1989
-1989-09-03,Trinidad and Tobago,2,1,Guatemala,False,False,,CONCACAF Championship,1989
-1989-09-17,El Salvador,0,1,United States,True,False,,CONCACAF Championship,1989
-1989-10-08,Guatemala,0,0,United States,False,False,,CONCACAF Championship,1989
-1989-11-05,United States,0,0,El Salvador,False,False,,CONCACAF Championship,1989
-1989-11-19,Trinidad and Tobago,0,1,United States,False,False,,CONCACAF Championship,1989
+1963-03-23,Guatemala,2,2,Panama,True,,,CONCACAF Championship,1963
+1963-03-23,El Salvador,6,1,Nicaragua,False,,,CONCACAF Championship,1963
+1963-03-24,Costa Rica,6,0,Jamaica,True,,,CONCACAF Championship,1963
+1963-03-24,Mexico,1,2,Curaçao,True,,,CONCACAF Championship,1963
+1963-03-25,Honduras,1,0,Nicaragua,True,,,CONCACAF Championship,1963
+1963-03-25,El Salvador,1,1,Panama,False,,,CONCACAF Championship,1963
+1963-03-27,Guatemala,3,1,Nicaragua,True,,,CONCACAF Championship,1963
+1963-03-27,El Salvador,2,2,Honduras,False,,,CONCACAF Championship,1963
+1963-03-28,Costa Rica,1,0,Curaçao,True,,,CONCACAF Championship,1963
+1963-03-28,Jamaica,0,8,Mexico,True,,,CONCACAF Championship,1963
+1963-03-29,Guatemala,1,2,Honduras,True,,,CONCACAF Championship,1963
+1963-03-29,Nicaragua,0,5,Panama,True,,,CONCACAF Championship,1963
+1963-03-30,Costa Rica,0,0,Mexico,True,,,CONCACAF Championship,1963
+1963-03-30,Jamaica,1,2,Curaçao,True,,,CONCACAF Championship,1963
+1963-03-31,Panama,0,1,Honduras,True,,,CONCACAF Championship,1963
+1963-03-31,El Salvador,1,1,Guatemala,False,,,CONCACAF Championship,1963
+1963-04-03,Honduras,1,4,Curaçao,True,,,CONCACAF Championship,1963
+1963-04-03,El Salvador,1,4,Costa Rica,False,,,CONCACAF Championship,1963
+1963-04-05,Costa Rica,1,0,Curaçao,True,,,CONCACAF Championship,1963
+1963-04-05,El Salvador,3,0,Honduras,False,,,CONCACAF Championship,1963
+1963-04-07,El Salvador,3,2,Curaçao,False,,,CONCACAF Championship,1963
+1963-04-07,Costa Rica,2,1,Honduras,True,,,CONCACAF Championship,1963
+1965-03-28,Costa Rica,6,0,Curaçao,True,,,CONCACAF Championship,1965
+1965-03-28,El Salvador,0,2,Mexico,True,,,CONCACAF Championship,1965
+1965-03-28,Guatemala,3,0,Haiti,False,,,CONCACAF Championship,1965
+1965-03-30,El Salvador,1,1,Curaçao,True,,,CONCACAF Championship,1965
+1965-03-30,Costa Rica,3,1,Haiti,True,,,CONCACAF Championship,1965
+1965-04-01,Mexico,5,0,Curaçao,True,,,CONCACAF Championship,1965
+1965-04-01,Guatemala,0,0,Costa Rica,False,,,CONCACAF Championship,1965
+1965-04-04,Guatemala,4,1,El Salvador,False,,,CONCACAF Championship,1965
+1965-04-04,Haiti,0,3,Mexico,True,,,CONCACAF Championship,1965
+1965-04-06,Costa Rica,1,1,Mexico,True,,,CONCACAF Championship,1965
+1965-04-06,Guatemala,3,2,Curaçao,False,,,CONCACAF Championship,1965
+1965-04-08,Costa Rica,1,2,El Salvador,True,,,CONCACAF Championship,1965
+1965-04-08,Haiti,1,1,Curaçao,True,,,CONCACAF Championship,1965
+1965-04-11,Guatemala,1,2,Mexico,False,,,CONCACAF Championship,1965
+1965-04-11,El Salvador,3,1,Haiti,True,,,CONCACAF Championship,1965
+1967-03-05,Honduras,1,0,Trinidad and Tobago,False,,,CONCACAF Championship,1967
+1967-03-06,Haiti,1,2,Guatemala,True,,,CONCACAF Championship,1967
+1967-03-06,Mexico,4,0,Nicaragua,True,,,CONCACAF Championship,1967
+1967-03-08,Haiti,2,3,Trinidad and Tobago,True,,,CONCACAF Championship,1967
+1967-03-08,Honduras,1,1,Nicaragua,False,,,CONCACAF Championship,1967
+1967-03-10,Guatemala,1,0,Mexico,True,,,CONCACAF Championship,1967
+1967-03-10,Haiti,2,1,Nicaragua,True,,,CONCACAF Championship,1967
+1967-03-12,Honduras,0,0,Guatemala,False,,,CONCACAF Championship,1967
+1967-03-12,Mexico,4,0,Trinidad and Tobago,True,,,CONCACAF Championship,1967
+1967-03-14,Haiti,0,1,Mexico,True,,,CONCACAF Championship,1967
+1967-03-14,Trinidad and Tobago,0,2,Guatemala,True,,,CONCACAF Championship,1967
+1967-03-17,Nicaragua,1,3,Trinidad and Tobago,True,,,CONCACAF Championship,1967
+1967-03-17,Honduras,2,0,Haiti,False,,,CONCACAF Championship,1967
+1967-03-19,Honduras,0,1,Mexico,False,,,CONCACAF Championship,1967
+1967-03-19,Guatemala,2,0,Nicaragua,True,,,CONCACAF Championship,1967
+1969-11-23,Costa Rica,3,0,Jamaica,False,,,CONCACAF Championship,1969
+1969-11-27,Costa Rica,2,1,Curaçao,False,,,CONCACAF Championship,1969
+1969-11-27,Mexico,2,0,Jamaica,True,,,CONCACAF Championship,1969
+1969-11-27,Guatemala,2,0,Trinidad and Tobago,True,,,CONCACAF Championship,1969
+1969-11-29,Guatemala,6,1,Curaçao,True,,,CONCACAF Championship,1969
+1969-11-30,Jamaica,2,3,Trinidad and Tobago,True,,,CONCACAF Championship,1969
+1969-11-30,Costa Rica,2,0,Mexico,False,,,CONCACAF Championship,1969
+1969-12-02,Curaçao,3,1,Trinidad and Tobago,True,,,CONCACAF Championship,1969
+1969-12-02,Mexico,0,1,Guatemala,True,,,CONCACAF Championship,1969
+1969-12-04,Costa Rica,5,0,Trinidad and Tobago,False,,,CONCACAF Championship,1969
+1969-12-04,Jamaica,0,0,Guatemala,True,,,CONCACAF Championship,1969
+1969-12-04,Mexico,2,2,Curaçao,True,,,CONCACAF Championship,1969
+1969-12-06,Jamaica,1,2,Curaçao,True,,,CONCACAF Championship,1969
+1969-12-07,Mexico,0,0,Trinidad and Tobago,True,,,CONCACAF Championship,1969
+1969-12-07,Costa Rica,1,1,Guatemala,False,,,CONCACAF Championship,1969
+1971-11-20,Cuba,0,3,Costa Rica,True,,,CONCACAF Championship,1971
+1971-11-21,Haiti,0,0,Mexico,True,,,CONCACAF Championship,1971
+1971-11-21,Trinidad and Tobago,1,1,Honduras,False,,,CONCACAF Championship,1971
+1971-11-23,Cuba,3,1,Honduras,True,,,CONCACAF Championship,1971
+1971-11-24,Costa Rica,0,0,Haiti,True,,,CONCACAF Championship,1971
+1971-11-26,Trinidad and Tobago,0,2,Mexico,False,,,CONCACAF Championship,1971
+1971-11-27,Costa Rica,2,1,Honduras,True,,,CONCACAF Championship,1971
+1971-11-28,Cuba,0,1,Mexico,True,,,CONCACAF Championship,1971
+1971-11-28,Trinidad and Tobago,1,6,Haiti,False,,,CONCACAF Championship,1971
+1971-11-30,Trinidad and Tobago,2,2,Cuba,False,,,CONCACAF Championship,1971
+1971-12-01,Haiti,3,1,Honduras,True,,,CONCACAF Championship,1971
+1971-12-02,Costa Rica,0,1,Mexico,True,,,CONCACAF Championship,1971
+1971-12-04,Cuba,0,0,Haiti,True,,,CONCACAF Championship,1971
+1971-12-04,Honduras,1,2,Mexico,True,,,CONCACAF Championship,1971
+1971-12-05,Trinidad and Tobago,3,1,Costa Rica,False,,,CONCACAF Championship,1971
+1973-11-29,Honduras,2,1,Trinidad and Tobago,True,,,CONCACAF Championship,1973
+1973-11-30,Guatemala,0,0,Mexico,True,,,CONCACAF Championship,1973
+1973-12-01,Haiti,3,0,Curaçao,False,,,CONCACAF Championship,1973
+1973-12-03,Honduras,1,1,Mexico,True,,,CONCACAF Championship,1973
+1973-12-04,Haiti,2,1,Trinidad and Tobago,False,,,CONCACAF Championship,1973
+1973-12-05,Guatemala,2,2,Curaçao,True,,,CONCACAF Championship,1973
+1973-12-07,Haiti,1,0,Honduras,False,,,CONCACAF Championship,1973
+1973-12-08,Mexico,8,0,Curaçao,True,,,CONCACAF Championship,1973
+1973-12-10,Guatemala,0,1,Trinidad and Tobago,True,,,CONCACAF Championship,1973
+1973-12-12,Honduras,2,2,Curaçao,True,,,CONCACAF Championship,1973
+1973-12-13,Haiti,2,1,Guatemala,False,,,CONCACAF Championship,1973
+1973-12-14,Mexico,0,4,Trinidad and Tobago,True,,,CONCACAF Championship,1973
+1973-12-15,Guatemala,1,1,Honduras,True,,,CONCACAF Championship,1973
+1973-12-17,Curaçao,0,4,Trinidad and Tobago,True,,,CONCACAF Championship,1973
+1973-12-18,Haiti,0,1,Mexico,False,,,CONCACAF Championship,1973
+1977-10-08,Canada,1,2,El Salvador,True,,,CONCACAF Championship,1977
+1977-10-08,Guatemala,3,2,Suriname,True,,,CONCACAF Championship,1977
+1977-10-09,Mexico,4,1,Haiti,False,,,CONCACAF Championship,1977
+1977-10-12,Canada,2,1,Suriname,True,,,CONCACAF Championship,1977
+1977-10-12,Guatemala,1,2,Haiti,True,,,CONCACAF Championship,1977
+1977-10-12,Mexico,3,1,El Salvador,False,,,CONCACAF Championship,1977
+1977-10-15,Mexico,8,1,Suriname,False,,,CONCACAF Championship,1977
+1977-10-16,Canada,2,1,Guatemala,True,,,CONCACAF Championship,1977
+1977-10-16,El Salvador,0,1,Haiti,True,,,CONCACAF Championship,1977
+1977-10-19,Mexico,2,1,Guatemala,False,,,CONCACAF Championship,1977
+1977-10-20,Canada,1,1,Haiti,True,,,CONCACAF Championship,1977
+1977-10-20,El Salvador,3,2,Suriname,True,,,CONCACAF Championship,1977
+1977-10-22,Mexico,3,1,Canada,False,,,CONCACAF Championship,1977
+1977-10-23,El Salvador,2,2,Guatemala,True,,,CONCACAF Championship,1977
+1977-10-23,Haiti,1,0,Suriname,True,,,CONCACAF Championship,1977
+1981-11-01,Mexico,4,0,Cuba,True,,,CONCACAF Championship,1981
+1981-11-02,Canada,1,0,El Salvador,True,,,CONCACAF Championship,1981
+1981-11-03,Honduras,4,0,Haiti,False,,,CONCACAF Championship,1981
+1981-11-06,Canada,1,1,Haiti,True,,,CONCACAF Championship,1981
+1981-11-06,Mexico,0,1,El Salvador,True,,,CONCACAF Championship,1981
+1981-11-08,Honduras,2,0,Cuba,False,,,CONCACAF Championship,1981
+1981-11-11,Cuba,0,0,El Salvador,True,,,CONCACAF Championship,1981
+1981-11-11,Haiti,1,1,Mexico,True,,,CONCACAF Championship,1981
+1981-11-12,Honduras,2,1,Canada,False,,,CONCACAF Championship,1981
+1981-11-15,Haiti,0,2,Cuba,True,,,CONCACAF Championship,1981
+1981-11-15,Mexico,1,1,Canada,True,,,CONCACAF Championship,1981
+1981-11-16,Honduras,0,0,El Salvador,False,,,CONCACAF Championship,1981
+1981-11-19,El Salvador,1,0,Haiti,True,,,CONCACAF Championship,1981
+1981-11-21,Cuba,2,2,Canada,True,,,CONCACAF Championship,1981
+1981-11-22,Honduras,0,0,Mexico,False,,,CONCACAF Championship,1981
+1985-02-24,El Salvador,3,0,Suriname,False,,,CONCACAF Championship,1985
+1985-02-27,El Salvador,3,0,Suriname,False,,,CONCACAF Championship,1985
+1985-03-03,Honduras,1,1,Suriname,False,,,CONCACAF Championship,1985
+1985-03-06,Honduras,2,1,Suriname,False,,,CONCACAF Championship,1985
+1985-03-10,El Salvador,1,2,Honduras,False,,,CONCACAF Championship,1985
+1985-03-14,Honduras,0,0,El Salvador,False,,,CONCACAF Championship,1985
+1985-04-13,Canada,2,0,Haiti,False,,,CONCACAF Championship,1985
+1985-04-20,Canada,2,1,Guatemala,False,,,CONCACAF Championship,1985
+1985-04-24,Costa Rica,3,0,Trinidad and Tobago,False,,,CONCACAF Championship,1985
+1985-04-26,Haiti,0,1,Guatemala,False,,,CONCACAF Championship,1985
+1985-04-28,Costa Rica,1,1,Trinidad and Tobago,False,,,CONCACAF Championship,1985
+1985-05-05,Guatemala,1,1,Canada,False,,,CONCACAF Championship,1985
+1985-05-08,Haiti,0,2,Canada,False,,,CONCACAF Championship,1985
+1985-05-15,Guatemala,4,0,Haiti,False,,,CONCACAF Championship,1985
+1985-05-15,United States,2,1,Trinidad and Tobago,False,,,CONCACAF Championship,1985
+1985-05-19,United States,1,0,Trinidad and Tobago,False,,,CONCACAF Championship,1985
+1985-05-26,Costa Rica,1,1,United States,False,,,CONCACAF Championship,1985
+1985-05-31,United States,0,1,Costa Rica,False,,,CONCACAF Championship,1985
+1985-08-11,Costa Rica,2,2,Honduras,False,,,CONCACAF Championship,1985
+1985-08-17,Canada,1,1,Costa Rica,False,,,CONCACAF Championship,1985
+1985-08-25,Honduras,0,1,Canada,False,,,CONCACAF Championship,1985
+1985-09-01,Costa Rica,0,0,Canada,False,,,CONCACAF Championship,1985
+1985-09-08,Honduras,3,1,Costa Rica,False,,,CONCACAF Championship,1985
+1985-09-14,Canada,2,1,Honduras,False,,,CONCACAF Championship,1985
+1989-03-19,Guatemala,1,0,Costa Rica,False,,,CONCACAF Championship,1989
+1989-04-02,Costa Rica,2,1,Guatemala,False,,,CONCACAF Championship,1989
+1989-04-16,Costa Rica,1,0,United States,False,,,CONCACAF Championship,1989
+1989-04-30,United States,1,0,Costa Rica,False,,,CONCACAF Championship,1989
+1989-05-13,United States,1,1,Trinidad and Tobago,False,,,CONCACAF Championship,1989
+1989-05-28,Trinidad and Tobago,1,1,Costa Rica,False,,,CONCACAF Championship,1989
+1989-06-11,Costa Rica,1,0,Trinidad and Tobago,False,,,CONCACAF Championship,1989
+1989-06-17,United States,2,1,Guatemala,False,,,CONCACAF Championship,1989
+1989-06-25,El Salvador,2,4,Costa Rica,False,,,CONCACAF Championship,1989
+1989-07-16,Costa Rica,1,0,El Salvador,False,,,CONCACAF Championship,1989
+1989-07-30,Trinidad and Tobago,2,0,El Salvador,False,,,CONCACAF Championship,1989
+1989-08-13,El Salvador,0,0,Trinidad and Tobago,True,,,CONCACAF Championship,1989
+1989-08-20,Guatemala,0,1,Trinidad and Tobago,False,,,CONCACAF Championship,1989
+1989-09-03,Trinidad and Tobago,2,1,Guatemala,False,,,CONCACAF Championship,1989
+1989-09-17,El Salvador,0,1,United States,True,,,CONCACAF Championship,1989
+1989-10-08,Guatemala,0,0,United States,False,,,CONCACAF Championship,1989
+1989-11-05,United States,0,0,El Salvador,False,,,CONCACAF Championship,1989
+1989-11-19,Trinidad and Tobago,0,1,United States,False,,,CONCACAF Championship,1989

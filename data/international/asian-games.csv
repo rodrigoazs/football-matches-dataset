@@ -1,369 +1,369 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1951-03-05,Iran,2,0,Burma,True,False,,Asian Games,1951
-1951-03-05,India,3,0,Indonesia,False,False,,Asian Games,1951
-1951-03-07,Iran,0,0,Japan,True,False,,Asian Games,1951
-1951-03-07,India,3,0,Afghanistan,False,False,,Asian Games,1951
-1951-03-08,Iran,3,2,Japan,True,False,,Asian Games,1951
-1951-03-09,Japan,2,0,Afghanistan,True,False,,Asian Games,1951
-1951-03-10,India,1,0,Iran,False,False,,Asian Games,1951
-1954-05-01,Taiwan,3,2,Vietnam,True,False,,Asian Games,1954
-1954-05-01,Japan,3,5,Indonesia,True,False,,Asian Games,1954
-1954-05-02,Singapore,2,6,Pakistan,True,False,,Asian Games,1954
-1954-05-02,South Korea,3,3,Hong Kong,True,False,,Asian Games,1954
-1954-05-03,Philippines,2,3,Vietnam,False,False,,Asian Games,1954
-1954-05-03,India,3,2,Japan,True,False,,Asian Games,1954
-1954-05-04,Burma,1,1,Singapore,True,False,,Asian Games,1954
-1954-05-04,South Korea,8,2,Afghanistan,True,False,,Asian Games,1954
-1954-05-05,Burma,2,1,Pakistan,True,False,,Asian Games,1954
-1954-05-05,India,0,4,Indonesia,True,False,,Asian Games,1954
-1954-05-06,Philippines,0,4,Taiwan,False,False,,Asian Games,1954
-1954-05-06,Hong Kong,4,2,Afghanistan,True,False,,Asian Games,1954
-1954-05-07,Taiwan,4,2,Indonesia,True,False,,Asian Games,1954
-1954-05-07,Burma,2,2,South Korea,True,False,,Asian Games,1954
-1954-05-08,Indonesia,4,5,Burma,True,False,,Asian Games,1954
-1954-05-08,Taiwan,5,2,South Korea,True,False,,Asian Games,1954
-1958-05-25,Vietnam Republic,1,1,Pakistan,True,False,,Asian Games,1958
-1958-05-25,Taiwan,2,1,Malaya,True,False,,Asian Games,1958
-1958-05-25,Indonesia,4,2,Burma,True,False,,Asian Games,1958
-1958-05-25,Hong Kong,4,1,Philippines,True,False,,Asian Games,1958
-1958-05-26,Burma,2,3,India,True,False,,Asian Games,1958
-1958-05-26,Japan,0,1,Philippines,False,False,,Asian Games,1958
-1958-05-26,South Korea,2,1,Singapore,True,False,,Asian Games,1958
-1958-05-26,Israel,4,0,Iran,True,False,,Asian Games,1958
-1958-05-27,Malaya,1,6,Vietnam Republic,True,False,,Asian Games,1958
-1958-05-27,Pakistan,1,3,Taiwan,True,False,,Asian Games,1958
-1958-05-28,India,1,2,Indonesia,True,False,,Asian Games,1958
-1958-05-28,Japan,0,2,Hong Kong,False,False,,Asian Games,1958
-1958-05-28,Iran,0,5,South Korea,True,False,,Asian Games,1958
-1958-05-28,Singapore,1,2,Israel,True,False,,Asian Games,1958
-1958-05-30,Taiwan,2,0,Israel,True,False,,Asian Games,1958
-1958-05-30,Indonesia,5,2,Philippines,True,False,,Asian Games,1958
-1958-05-30,Hong Kong,2,5,India,True,False,,Asian Games,1958
-1958-05-30,South Korea,3,1,Vietnam Republic,True,False,,Asian Games,1958
-1958-05-31,Taiwan,1,0,Indonesia,True,False,,Asian Games,1958
-1958-05-31,India,1,3,South Korea,True,False,,Asian Games,1958
-1958-06-01,Indonesia,4,1,India,True,False,,Asian Games,1958
-1958-06-01,Taiwan,3,2,South Korea,True,False,,Asian Games,1958
-1962-08-25,Indonesia,1,0,Vietnam Republic,False,False,,Asian Games,1962
-1962-08-25,Japan,3,1,Thailand,True,False,,Asian Games,1962
-1962-08-26,Malaysia,15,1,Philippines,True,False,,Asian Games,1962
-1962-08-26,India,0,2,South Korea,True,False,,Asian Games,1962
-1962-08-27,Indonesia,6,0,Philippines,False,False,,Asian Games,1962
-1962-08-27,South Korea,3,2,Thailand,True,False,,Asian Games,1962
-1962-08-28,Indonesia,2,3,Malaysia,False,False,,Asian Games,1962
-1962-08-28,Thailand,1,4,India,True,False,,Asian Games,1962
-1962-08-29,Vietnam Republic,3,0,Malaysia,True,False,,Asian Games,1962
-1962-08-29,India,2,0,Japan,True,False,,Asian Games,1962
-1962-08-30,Vietnam Republic,6,0,Philippines,True,False,,Asian Games,1962
-1962-08-30,South Korea,1,0,Japan,True,False,,Asian Games,1962
-1962-09-01,Vietnam Republic,2,3,India,True,False,,Asian Games,1962
-1962-09-01,South Korea,2,1,Malaysia,True,False,,Asian Games,1962
-1962-09-03,Vietnam Republic,1,4,Malaysia,True,False,,Asian Games,1962
-1962-09-04,India,2,1,South Korea,True,False,,Asian Games,1962
-1966-12-10,Thailand,3,0,South Korea,False,False,,Asian Games,1966
-1966-12-10,Japan,2,1,India,True,False,,Asian Games,1966
-1966-12-10,Iran,2,0,Malaysia,True,False,,Asian Games,1966
-1966-12-10,Indonesia,3,0,Singapore,True,False,,Asian Games,1966
-1966-12-11,Iran,1,3,Japan,True,False,,Asian Games,1966
-1966-12-11,Indonesia,0,0,Vietnam Republic,True,False,,Asian Games,1966
-1966-12-12,South Korea,0,1,Myanmar,True,False,,Asian Games,1966
-1966-12-12,Malaysia,1,2,India,True,False,,Asian Games,1966
-1966-12-12,Vietnam Republic,2,1,Taiwan,True,False,,Asian Games,1966
-1966-12-13,India,1,4,Iran,True,False,,Asian Games,1966
-1966-12-13,Singapore,3,3,Taiwan,True,False,,Asian Games,1966
-1966-12-14,Thailand,1,1,Myanmar,False,False,,Asian Games,1966
-1966-12-14,Malaysia,0,1,Japan,True,False,,Asian Games,1966
-1966-12-14,Taiwan,1,3,Indonesia,True,False,,Asian Games,1966
-1966-12-14,Singapore,5,0,Vietnam Republic,True,False,,Asian Games,1966
-1966-12-15,Thailand,0,2,Singapore,False,False,,Asian Games,1966
-1966-12-15,Myanmar,2,2,Indonesia,True,False,,Asian Games,1966
-1966-12-16,Japan,5,1,Singapore,True,False,,Asian Games,1966
-1966-12-16,Iran,1,0,Indonesia,True,False,,Asian Games,1966
-1966-12-17,Thailand,1,5,Japan,False,False,,Asian Games,1966
-1966-12-17,Myanmar,1,0,Iran,True,False,,Asian Games,1966
-1966-12-18,Japan,0,1,Iran,True,False,,Asian Games,1966
-1966-12-18,Myanmar,2,0,Singapore,True,False,,Asian Games,1966
-1966-12-19,Japan,2,0,Singapore,True,False,,Asian Games,1966
-1966-12-20,Iran,0,1,Myanmar,True,False,,Asian Games,1966
-1970-12-10,Thailand,2,2,India,False,False,,Asian Games,1970
-1970-12-10,Japan,1,0,Malaysia,True,False,,Asian Games,1970
-1970-12-10,Myanmar,2,1,Cambodia,True,False,,Asian Games,1970
-1970-12-10,Indonesia,2,2,Iran,True,False,,Asian Games,1970
-1970-12-11,India,2,0,Vietnam Republic,True,False,,Asian Games,1970
-1970-12-11,Iran,0,1,South Korea,True,False,,Asian Games,1970
-1970-12-12,Japan,1,0,Cambodia,True,False,,Asian Games,1970
-1970-12-12,Myanmar,1,0,Malaysia,True,False,,Asian Games,1970
-1970-12-13,Thailand,1,0,Vietnam Republic,False,False,,Asian Games,1970
-1970-12-13,Indonesia,0,0,South Korea,True,False,,Asian Games,1970
-1970-12-14,Japan,2,1,Myanmar,True,False,,Asian Games,1970
-1970-12-14,Malaysia,0,2,Cambodia,True,False,,Asian Games,1970
-1970-12-15,India,3,0,Indonesia,True,False,,Asian Games,1970
-1970-12-15,Thailand,1,2,South Korea,False,False,,Asian Games,1970
-1970-12-16,Indonesia,1,2,Japan,True,False,,Asian Games,1970
-1970-12-16,Thailand,2,2,Myanmar,False,False,,Asian Games,1970
-1970-12-17,Japan,1,0,India,True,False,,Asian Games,1970
-1970-12-17,Myanmar,1,0,South Korea,True,False,,Asian Games,1970
-1970-12-18,Japan,1,2,South Korea,True,False,,Asian Games,1970
-1970-12-18,Myanmar,2,0,India,True,False,,Asian Games,1970
-1970-12-19,Thailand,0,1,Indonesia,False,False,,Asian Games,1970
-1970-12-19,Japan,0,1,India,True,False,,Asian Games,1970
-1970-12-20,South Korea,0,0,Myanmar,True,False,,Asian Games,1970
-1974-09-02,Kuwait,3,2,Thailand,True,False,,Asian Games,1974
-1974-09-02,India,0,3,Iraq,True,False,,Asian Games,1974
-1974-09-02,North Korea,2,0,China PR,True,False,,Asian Games,1974
-1974-09-03,Japan,4,0,Philippines,True,False,,Asian Games,1974
-1974-09-03,Israel,8,3,Malaysia,True,False,,Asian Games,1974
-1974-09-03,Iran,7,0,Pakistan,False,False,,Asian Games,1974
-1974-09-03,Myanmar,4,0,Bahrain,True,False,,Asian Games,1974
-1974-09-04,South Korea,1,0,Thailand,True,False,,Asian Games,1974
-1974-09-04,China PR,7,1,India,True,False,,Asian Games,1974
-1974-09-04,North Korea,0,1,Iraq,True,False,,Asian Games,1974
-1974-09-05,Israel,6,0,Philippines,True,False,,Asian Games,1974
-1974-09-05,Japan,1,1,Malaysia,True,False,,Asian Games,1974
-1974-09-05,Pakistan,5,1,Bahrain,True,False,,Asian Games,1974
-1974-09-05,Iran,2,1,Myanmar,False,False,,Asian Games,1974
-1974-09-06,South Korea,0,4,Kuwait,True,False,,Asian Games,1974
-1974-09-06,China PR,0,1,Iraq,True,False,,Asian Games,1974
-1974-09-06,India,1,4,North Korea,True,False,,Asian Games,1974
-1974-09-07,Malaysia,11,0,Philippines,True,False,,Asian Games,1974
-1974-09-07,Japan,0,3,Israel,True,False,,Asian Games,1974
-1974-09-07,Myanmar,5,1,Pakistan,True,False,,Asian Games,1974
-1974-09-07,Iran,6,0,Bahrain,False,False,,Asian Games,1974
-1974-09-09,Iran,1,0,Malaysia,False,False,,Asian Games,1974
-1974-09-09,Iraq,1,1,South Korea,True,False,,Asian Games,1974
-1974-09-10,Kuwait,0,2,North Korea,True,False,,Asian Games,1974
-1974-09-10,Israel,3,0,Myanmar,True,False,,Asian Games,1974
-1974-09-11,Iran,2,0,South Korea,False,False,,Asian Games,1974
-1974-09-11,Malaysia,0,0,Iraq,True,False,,Asian Games,1974
-1974-09-12,Kuwait,5,2,Myanmar,True,False,,Asian Games,1974
-1974-09-12,Israel,2,0,North Korea,True,False,,Asian Games,1974
-1974-09-13,Iran,1,0,Iraq,False,False,,Asian Games,1974
-1974-09-13,South Korea,2,3,Malaysia,True,False,,Asian Games,1974
-1974-09-14,North Korea,2,2,Myanmar,True,False,,Asian Games,1974
-1974-09-14,Israel,2,0,Kuwait,True,False,,Asian Games,1974
-1974-09-15,North Korea,1,2,Malaysia,True,False,,Asian Games,1974
-1974-09-15,Iran,1,0,Israel,False,False,,Asian Games,1974
-1978-12-10,India,0,1,Malaysia,True,False,,Asian Games,1978
-1978-12-10,Iraq,2,1,Qatar,True,False,,Asian Games,1978
-1978-12-10,China PR,1,0,Saudi Arabia,True,False,,Asian Games,1978
-1978-12-11,Bahrain,1,5,South Korea,True,False,,Asian Games,1978
-1978-12-11,Japan,0,2,Kuwait,True,False,,Asian Games,1978
-1978-12-11,Thailand,2,1,Myanmar,False,False,,Asian Games,1978
-1978-12-12,Bangladesh,0,1,Malaysia,True,False,,Asian Games,1978
-1978-12-12,Qatar,2,2,Saudi Arabia,True,False,,Asian Games,1978
-1978-12-12,China PR,0,2,Iraq,True,False,,Asian Games,1978
-1978-12-13,Bahrain,0,4,Japan,True,False,,Asian Games,1978
-1978-12-13,South Korea,2,0,Kuwait,True,False,,Asian Games,1978
-1978-12-13,Myanmar,0,3,North Korea,True,False,,Asian Games,1978
-1978-12-14,Bangladesh,0,3,India,True,False,,Asian Games,1978
-1978-12-14,China PR,3,0,Qatar,True,False,,Asian Games,1978
-1978-12-14,Iraq,1,1,Saudi Arabia,True,False,,Asian Games,1978
-1978-12-15,Japan,1,3,South Korea,True,False,,Asian Games,1978
-1978-12-15,Bahrain,0,3,Kuwait,True,False,,Asian Games,1978
-1978-12-15,Thailand,0,3,North Korea,False,False,,Asian Games,1978
-1978-12-17,India,1,6,Kuwait,True,False,,Asian Games,1978
-1978-12-17,Iraq,0,1,North Korea,True,False,,Asian Games,1978
-1978-12-17,China PR,0,1,South Korea,True,False,,Asian Games,1978
-1978-12-17,Thailand,2,1,Malaysia,False,False,,Asian Games,1978
-1978-12-18,Iraq,3,0,Kuwait,True,False,,Asian Games,1978
-1978-12-18,India,1,3,North Korea,True,False,,Asian Games,1978
-1978-12-18,Thailand,1,4,China PR,False,False,,Asian Games,1978
-1978-12-18,Malaysia,0,1,South Korea,True,False,,Asian Games,1978
-1978-12-19,India,0,3,Iraq,True,False,,Asian Games,1978
-1978-12-19,North Korea,2,2,Kuwait,True,False,,Asian Games,1978
-1978-12-19,China PR,7,1,Malaysia,True,False,,Asian Games,1978
-1978-12-19,Thailand,1,3,South Korea,False,False,,Asian Games,1978
-1978-12-20,Iraq,0,1,China PR,True,False,,Asian Games,1978
-1978-12-20,North Korea,0,0,South Korea,True,False,,Asian Games,1978
-1982-11-20,North Korea,1,1,Syria,True,False,,Asian Games,1982
-1982-11-20,Saudi Arabia,1,0,Thailand,True,False,,Asian Games,1982
-1982-11-20,China PR,1,0,Malaysia,True,False,,Asian Games,1982
-1982-11-20,India,2,0,Bangladesh,False,False,,Asian Games,1982
-1982-11-21,Kuwait,3,1,Nepal,True,False,,Asian Games,1982
-1982-11-21,Iraq,4,0,Myanmar,True,False,,Asian Games,1982
-1982-11-21,Japan,1,0,Iran,True,False,,Asian Games,1982
-1982-11-21,South Korea,3,0,South Yemen,True,False,,Asian Games,1982
-1982-11-22,North Korea,3,0,Thailand,True,False,,Asian Games,1982
-1982-11-22,Saudi Arabia,1,1,Syria,True,False,,Asian Games,1982
-1982-11-22,India,1,0,Malaysia,False,False,,Asian Games,1982
-1982-11-22,China PR,1,0,Bangladesh,True,False,,Asian Games,1982
-1982-11-23,Kuwait,4,0,Myanmar,True,False,,Asian Games,1982
-1982-11-23,Iraq,3,0,Nepal,True,False,,Asian Games,1982
-1982-11-23,South Korea,0,1,Iran,True,False,,Asian Games,1982
-1982-11-23,Japan,3,1,South Yemen,True,False,,Asian Games,1982
-1982-11-24,North Korea,2,2,Saudi Arabia,True,False,,Asian Games,1982
-1982-11-24,Thailand,3,1,Syria,True,False,,Asian Games,1982
-1982-11-24,India,2,2,China PR,False,False,,Asian Games,1982
-1982-11-24,Malaysia,1,2,Bangladesh,True,False,,Asian Games,1982
-1982-11-25,Iraq,1,2,Kuwait,True,False,,Asian Games,1982
-1982-11-25,Myanmar,3,0,Nepal,True,False,,Asian Games,1982
-1982-11-25,South Korea,1,2,Japan,True,False,,Asian Games,1982
-1982-11-25,Iran,2,0,South Yemen,True,False,,Asian Games,1982
-1982-11-27,North Korea,1,0,China PR,True,False,,Asian Games,1982
-1982-11-27,India,0,1,Saudi Arabia,False,False,,Asian Games,1982
-1982-11-28,Japan,0,1,Iraq,True,False,,Asian Games,1982
-1982-11-28,Kuwait,1,0,Iran,True,False,,Asian Games,1982
-1982-11-30,North Korea,2,3,Kuwait,True,False,,Asian Games,1982
-1982-12-01,Saudi Arabia,0,1,Iraq,True,False,,Asian Games,1982
-1982-12-02,North Korea,0,2,Saudi Arabia,True,False,,Asian Games,1982
-1982-12-03,Kuwait,0,1,Iraq,True,False,,Asian Games,1982
-1986-09-20,South Korea,3,0,India,False,False,,Asian Games,1986
-1986-09-20,China PR,5,1,Bahrain,True,False,,Asian Games,1986
-1986-09-20,Kuwait,4,0,Bangladesh,True,False,,Asian Games,1986
-1986-09-20,Japan,5,0,Nepal,True,False,,Asian Games,1986
-1986-09-21,Iraq,4,0,Oman,True,False,,Asian Games,1986
-1986-09-21,United Arab Emirates,1,0,Pakistan,True,False,,Asian Games,1986
-1986-09-21,Malaysia,1,3,Saudi Arabia,True,False,,Asian Games,1986
-1986-09-21,Qatar,1,1,Indonesia,True,False,,Asian Games,1986
-1986-09-22,China PR,2,1,India,True,False,,Asian Games,1986
-1986-09-22,Japan,0,2,Iran,True,False,,Asian Games,1986
-1986-09-22,Nepal,0,5,Kuwait,True,False,,Asian Games,1986
-1986-09-23,United Arab Emirates,2,1,Thailand,True,False,,Asian Games,1986
-1986-09-23,Pakistan,1,5,Iraq,True,False,,Asian Games,1986
-1986-09-23,Qatar,1,1,Malaysia,True,False,,Asian Games,1986
-1986-09-24,South Korea,0,0,Bahrain,False,False,,Asian Games,1986
-1986-09-24,Iran,4,0,Bangladesh,True,False,,Asian Games,1986
-1986-09-24,Japan,0,2,Kuwait,True,False,,Asian Games,1986
-1986-09-25,Thailand,0,0,Oman,True,False,,Asian Games,1986
-1986-09-25,United Arab Emirates,2,1,Iraq,True,False,,Asian Games,1986
-1986-09-25,Indonesia,0,2,Saudi Arabia,True,False,,Asian Games,1986
-1986-09-26,Bahrain,3,0,India,True,False,,Asian Games,1986
-1986-09-26,Nepal,0,1,Bangladesh,True,False,,Asian Games,1986
-1986-09-26,Iran,0,1,Kuwait,True,False,,Asian Games,1986
-1986-09-27,Oman,3,1,Pakistan,True,False,,Asian Games,1986
-1986-09-27,Thailand,1,2,Iraq,True,False,,Asian Games,1986
-1986-09-27,Indonesia,1,0,Malaysia,True,False,,Asian Games,1986
-1986-09-28,South Korea,4,2,China PR,False,False,,Asian Games,1986
-1986-09-28,Japan,4,0,Bangladesh,True,False,,Asian Games,1986
-1986-09-28,Iran,6,0,Nepal,True,False,,Asian Games,1986
-1986-09-29,United Arab Emirates,0,0,Oman,True,False,,Asian Games,1986
-1986-09-29,Thailand,6,0,Pakistan,True,False,,Asian Games,1986
-1986-09-29,Qatar,0,1,Saudi Arabia,True,False,,Asian Games,1986
-1986-10-01,Saudi Arabia,1,1,Iraq,True,False,,Asian Games,1986
-1986-10-01,South Korea,1,1,Iran,False,False,,Asian Games,1986
-1986-10-01,United Arab Emirates,2,2,Indonesia,True,False,,Asian Games,1986
-1986-10-01,Kuwait,1,1,China PR,True,False,,Asian Games,1986
-1986-10-03,South Korea,4,0,Indonesia,False,False,,Asian Games,1986
-1986-10-03,Saudi Arabia,2,2,Kuwait,True,False,,Asian Games,1986
-1986-10-04,Indonesia,0,5,Kuwait,True,False,,Asian Games,1986
-1986-10-05,South Korea,2,0,Saudi Arabia,False,False,,Asian Games,1986
-1990-09-23,South Korea,7,0,Singapore,True,False,,Asian Games,1990
-1990-09-23,China PR,3,0,Pakistan,False,False,,Asian Games,1990
-1990-09-23,Kuwait,2,1,Hong Kong,True,False,,Asian Games,1990
-1990-09-23,Yemen,0,0,Thailand,True,False,,Asian Games,1990
-1990-09-24,Iran,3,0,Malaysia,True,False,,Asian Games,1990
-1990-09-24,Saudi Arabia,4,0,Bangladesh,True,False,,Asian Games,1990
-1990-09-25,China PR,5,1,Singapore,False,False,,Asian Games,1990
-1990-09-25,Pakistan,0,7,South Korea,True,False,,Asian Games,1990
-1990-09-25,Hong Kong,0,2,Thailand,True,False,,Asian Games,1990
-1990-09-25,Yemen,0,0,Kuwait,True,False,,Asian Games,1990
-1990-09-26,Malaysia,0,0,North Korea,True,False,,Asian Games,1990
-1990-09-26,Bangladesh,0,3,Japan,True,False,,Asian Games,1990
-1990-09-27,China PR,0,2,South Korea,False,False,,Asian Games,1990
-1990-09-27,Singapore,6,1,Pakistan,True,False,,Asian Games,1990
-1990-09-27,Hong Kong,2,0,Yemen,True,False,,Asian Games,1990
-1990-09-27,Thailand,2,1,Kuwait,True,False,,Asian Games,1990
-1990-09-28,North Korea,1,2,Iran,True,False,,Asian Games,1990
-1990-09-28,Japan,0,2,Saudi Arabia,True,False,,Asian Games,1990
-1990-10-01,South Korea,1,0,Kuwait,True,False,,Asian Games,1990
-1990-10-01,Iran,1,0,Japan,True,False,,Asian Games,1990
-1990-10-01,China PR,0,1,Thailand,False,False,,Asian Games,1990
-1990-10-01,Saudi Arabia,0,0,North Korea,True,False,,Asian Games,1990
-1990-10-03,South Korea,0,1,Iran,True,False,,Asian Games,1990
-1990-10-03,Thailand,0,1,North Korea,True,False,,Asian Games,1990
-1990-10-05,South Korea,1,0,Thailand,True,False,,Asian Games,1990
-1990-10-06,Iran,0,0,North Korea,True,False,,Asian Games,1990
-1994-10-01,Turkmenistan,2,2,China PR,True,False,,Asian Games,1994
-1994-10-01,Yemen,0,2,Bahrain,True,False,,Asian Games,1994
-1994-10-01,Saudi Arabia,1,4,Uzbekistan,True,False,,Asian Games,1994
-1994-10-01,Malaysia,4,3,Hong Kong,True,False,,Asian Games,1994
-1994-10-01,South Korea,11,0,Nepal,True,False,,Asian Games,1994
-1994-10-01,Kuwait,2,2,Oman,True,False,,Asian Games,1994
-1994-10-03,China PR,4,0,Yemen,True,False,,Asian Games,1994
-1994-10-03,Iran,0,0,Bahrain,True,False,,Asian Games,1994
-1994-10-03,Uzbekistan,5,0,Malaysia,True,False,,Asian Games,1994
-1994-10-03,Thailand,1,2,Hong Kong,True,False,,Asian Games,1994
-1994-10-03,Kuwait,8,0,Nepal,True,False,,Asian Games,1994
-1994-10-03,Qatar,2,2,Myanmar,True,False,,Asian Games,1994
-1994-10-03,Japan,1,1,United Arab Emirates,False,False,,Asian Games,1994
-1994-10-05,Bahrain,2,3,China PR,True,False,,Asian Games,1994
-1994-10-05,Iran,1,1,Turkmenistan,True,False,,Asian Games,1994
-1994-10-05,Hong Kong,0,1,Uzbekistan,True,False,,Asian Games,1994
-1994-10-05,Thailand,2,4,Saudi Arabia,True,False,,Asian Games,1994
-1994-10-05,South Korea,2,1,Oman,True,False,,Asian Games,1994
-1994-10-05,Myanmar,0,2,United Arab Emirates,True,False,,Asian Games,1994
-1994-10-05,Japan,1,1,Qatar,False,False,,Asian Games,1994
-1994-10-07,Iran,0,1,China PR,True,False,,Asian Games,1994
-1994-10-07,Yemen,0,4,Turkmenistan,True,False,,Asian Games,1994
-1994-10-07,Thailand,4,5,Uzbekistan,True,False,,Asian Games,1994
-1994-10-07,Malaysia,1,2,Saudi Arabia,True,False,,Asian Games,1994
-1994-10-07,South Korea,0,1,Kuwait,True,False,,Asian Games,1994
-1994-10-09,Bahrain,2,2,Turkmenistan,True,False,,Asian Games,1994
-1994-10-09,Iran,4,0,Yemen,True,False,,Asian Games,1994
-1994-10-09,Hong Kong,1,2,Saudi Arabia,True,False,,Asian Games,1994
-1994-10-09,Thailand,1,1,Malaysia,True,False,,Asian Games,1994
-1994-10-09,Oman,1,0,Nepal,True,False,,Asian Games,1994
-1994-10-09,United Arab Emirates,2,2,Qatar,True,False,,Asian Games,1994
-1994-10-09,Japan,5,0,Myanmar,False,False,,Asian Games,1994
-1994-10-11,China PR,2,0,Saudi Arabia,True,False,,Asian Games,1994
-1994-10-11,Kuwait,2,1,United Arab Emirates,True,False,,Asian Games,1994
-1994-10-11,Uzbekistan,3,0,Turkmenistan,True,False,,Asian Games,1994
-1994-10-11,Japan,2,3,South Korea,False,False,,Asian Games,1994
-1994-10-13,China PR,2,0,Kuwait,True,False,,Asian Games,1994
-1994-10-13,Uzbekistan,1,0,South Korea,True,False,,Asian Games,1994
-1994-10-15,Kuwait,2,1,South Korea,True,False,,Asian Games,1994
-1994-10-16,China PR,2,4,Uzbekistan,True,False,,Asian Games,1994
-1998-11-30,Turkmenistan,2,0,Vietnam,True,False,,Asian Games,1998
-1998-11-30,China PR,4,1,Lebanon,True,False,,Asian Games,1998
-1998-11-30,Hong Kong,0,6,Oman,True,False,,Asian Games,1998
-1998-12-01,Nepal,0,5,Japan,True,False,,Asian Games,1998
-1998-12-01,Tajikistan,3,0,Maldives,True,False,,Asian Games,1998
-1998-12-01,Mongolia,0,11,Kuwait,True,False,,Asian Games,1998
-1998-12-01,Kazakhstan,0,2,Iran,True,False,,Asian Games,1998
-1998-12-02,South Korea,2,3,Turkmenistan,True,False,,Asian Games,1998
-1998-12-02,Cambodia,1,4,China PR,True,False,,Asian Games,1998
-1998-12-02,United Arab Emirates,3,3,North Korea,True,False,,Asian Games,1998
-1998-12-02,Thailand,5,0,Hong Kong,False,False,,Asian Games,1998
-1998-12-03,Japan,1,0,India,True,False,,Asian Games,1998
-1998-12-03,Qatar,2,1,Tajikistan,True,False,,Asian Games,1998
-1998-12-03,Uzbekistan,3,3,Kuwait,True,False,,Asian Games,1998
-1998-12-03,Laos,0,5,Kazakhstan,True,False,,Asian Games,1998
-1998-12-04,Vietnam,0,4,South Korea,True,False,,Asian Games,1998
-1998-12-04,Lebanon,5,1,Cambodia,True,False,,Asian Games,1998
-1998-12-04,Thailand,2,0,Oman,False,False,,Asian Games,1998
-1998-12-05,India,1,0,Nepal,True,False,,Asian Games,1998
-1998-12-05,Maldives,0,4,Qatar,True,False,,Asian Games,1998
-1998-12-05,Mongolia,0,15,Uzbekistan,True,False,,Asian Games,1998
-1998-12-05,Iran,6,1,Laos,True,False,,Asian Games,1998
-1998-12-07,Turkmenistan,3,2,India,True,False,,Asian Games,1998
-1998-12-07,North Korea,0,4,Uzbekistan,True,False,,Asian Games,1998
-1998-12-07,Japan,0,2,South Korea,True,False,,Asian Games,1998
-1998-12-07,United Arab Emirates,0,5,Kuwait,True,False,,Asian Games,1998
-1998-12-08,China PR,3,1,Tajikistan,True,False,,Asian Games,1998
-1998-12-08,Iran,2,4,Oman,True,False,,Asian Games,1998
-1998-12-08,Qatar,1,0,Lebanon,True,False,,Asian Games,1998
-1998-12-08,Thailand,1,1,Kazakhstan,False,False,,Asian Games,1998
-1998-12-09,North Korea,1,1,Turkmenistan,True,False,,Asian Games,1998
-1998-12-09,India,0,2,Uzbekistan,True,False,,Asian Games,1998
-1998-12-09,United Arab Emirates,1,2,South Korea,True,False,,Asian Games,1998
-1998-12-09,Japan,2,1,Kuwait,True,False,,Asian Games,1998
-1998-12-10,Tajikistan,0,5,Iran,True,False,,Asian Games,1998
-1998-12-10,Oman,1,6,China PR,True,False,,Asian Games,1998
-1998-12-10,Qatar,0,2,Kazakhstan,True,False,,Asian Games,1998
-1998-12-10,Thailand,1,0,Lebanon,False,False,,Asian Games,1998
-1998-12-11,India,0,2,North Korea,True,False,,Asian Games,1998
-1998-12-11,Uzbekistan,1,1,Turkmenistan,True,False,,Asian Games,1998
-1998-12-11,Japan,0,1,United Arab Emirates,True,False,,Asian Games,1998
-1998-12-11,South Korea,1,0,Kuwait,True,False,,Asian Games,1998
-1998-12-12,Iran,2,1,China PR,True,False,,Asian Games,1998
-1998-12-12,Tajikistan,3,3,Oman,True,False,,Asian Games,1998
-1998-12-12,Kazakhstan,0,3,Lebanon,True,False,,Asian Games,1998
-1998-12-12,Thailand,1,2,Qatar,False,False,,Asian Games,1998
-1998-12-14,Uzbekistan,0,4,Iran,True,False,,Asian Games,1998
-1998-12-14,Thailand,2,1,South Korea,False,False,,Asian Games,1998
-1998-12-14,Turkmenistan,0,3,China PR,True,False,,Asian Games,1998
-1998-12-14,Qatar,0,0,Kuwait,True,False,,Asian Games,1998
-1998-12-16,Iran,1,0,China PR,True,False,,Asian Games,1998
-1998-12-16,Thailand,0,3,Kuwait,False,False,,Asian Games,1998
-1998-12-19,Thailand,0,3,China PR,False,False,,Asian Games,1998
-1998-12-19,Iran,2,0,Kuwait,True,False,,Asian Games,1998
+1951-03-05,Iran,2,0,Burma,True,,,Asian Games,1951
+1951-03-05,India,3,0,Indonesia,False,,,Asian Games,1951
+1951-03-07,Iran,0,0,Japan,True,,,Asian Games,1951
+1951-03-07,India,3,0,Afghanistan,False,,,Asian Games,1951
+1951-03-08,Iran,3,2,Japan,True,,,Asian Games,1951
+1951-03-09,Japan,2,0,Afghanistan,True,,,Asian Games,1951
+1951-03-10,India,1,0,Iran,False,,,Asian Games,1951
+1954-05-01,Taiwan,3,2,Vietnam,True,,,Asian Games,1954
+1954-05-01,Japan,3,5,Indonesia,True,,,Asian Games,1954
+1954-05-02,Singapore,2,6,Pakistan,True,,,Asian Games,1954
+1954-05-02,South Korea,3,3,Hong Kong,True,,,Asian Games,1954
+1954-05-03,Philippines,2,3,Vietnam,False,,,Asian Games,1954
+1954-05-03,India,3,2,Japan,True,,,Asian Games,1954
+1954-05-04,Burma,1,1,Singapore,True,,,Asian Games,1954
+1954-05-04,South Korea,8,2,Afghanistan,True,,,Asian Games,1954
+1954-05-05,Burma,2,1,Pakistan,True,,,Asian Games,1954
+1954-05-05,India,0,4,Indonesia,True,,,Asian Games,1954
+1954-05-06,Philippines,0,4,Taiwan,False,,,Asian Games,1954
+1954-05-06,Hong Kong,4,2,Afghanistan,True,,,Asian Games,1954
+1954-05-07,Taiwan,4,2,Indonesia,True,,,Asian Games,1954
+1954-05-07,Burma,2,2,South Korea,True,,,Asian Games,1954
+1954-05-08,Indonesia,4,5,Burma,True,,,Asian Games,1954
+1954-05-08,Taiwan,5,2,South Korea,True,,,Asian Games,1954
+1958-05-25,Vietnam Republic,1,1,Pakistan,True,,,Asian Games,1958
+1958-05-25,Taiwan,2,1,Malaya,True,,,Asian Games,1958
+1958-05-25,Indonesia,4,2,Burma,True,,,Asian Games,1958
+1958-05-25,Hong Kong,4,1,Philippines,True,,,Asian Games,1958
+1958-05-26,Burma,2,3,India,True,,,Asian Games,1958
+1958-05-26,Japan,0,1,Philippines,False,,,Asian Games,1958
+1958-05-26,South Korea,2,1,Singapore,True,,,Asian Games,1958
+1958-05-26,Israel,4,0,Iran,True,,,Asian Games,1958
+1958-05-27,Malaya,1,6,Vietnam Republic,True,,,Asian Games,1958
+1958-05-27,Pakistan,1,3,Taiwan,True,,,Asian Games,1958
+1958-05-28,India,1,2,Indonesia,True,,,Asian Games,1958
+1958-05-28,Japan,0,2,Hong Kong,False,,,Asian Games,1958
+1958-05-28,Iran,0,5,South Korea,True,,,Asian Games,1958
+1958-05-28,Singapore,1,2,Israel,True,,,Asian Games,1958
+1958-05-30,Taiwan,2,0,Israel,True,,,Asian Games,1958
+1958-05-30,Indonesia,5,2,Philippines,True,,,Asian Games,1958
+1958-05-30,Hong Kong,2,5,India,True,,,Asian Games,1958
+1958-05-30,South Korea,3,1,Vietnam Republic,True,,,Asian Games,1958
+1958-05-31,Taiwan,1,0,Indonesia,True,,,Asian Games,1958
+1958-05-31,India,1,3,South Korea,True,,,Asian Games,1958
+1958-06-01,Indonesia,4,1,India,True,,,Asian Games,1958
+1958-06-01,Taiwan,3,2,South Korea,True,,,Asian Games,1958
+1962-08-25,Indonesia,1,0,Vietnam Republic,False,,,Asian Games,1962
+1962-08-25,Japan,3,1,Thailand,True,,,Asian Games,1962
+1962-08-26,Malaysia,15,1,Philippines,True,,,Asian Games,1962
+1962-08-26,India,0,2,South Korea,True,,,Asian Games,1962
+1962-08-27,Indonesia,6,0,Philippines,False,,,Asian Games,1962
+1962-08-27,South Korea,3,2,Thailand,True,,,Asian Games,1962
+1962-08-28,Indonesia,2,3,Malaysia,False,,,Asian Games,1962
+1962-08-28,Thailand,1,4,India,True,,,Asian Games,1962
+1962-08-29,Vietnam Republic,3,0,Malaysia,True,,,Asian Games,1962
+1962-08-29,India,2,0,Japan,True,,,Asian Games,1962
+1962-08-30,Vietnam Republic,6,0,Philippines,True,,,Asian Games,1962
+1962-08-30,South Korea,1,0,Japan,True,,,Asian Games,1962
+1962-09-01,Vietnam Republic,2,3,India,True,,,Asian Games,1962
+1962-09-01,South Korea,2,1,Malaysia,True,,,Asian Games,1962
+1962-09-03,Vietnam Republic,1,4,Malaysia,True,,,Asian Games,1962
+1962-09-04,India,2,1,South Korea,True,,,Asian Games,1962
+1966-12-10,Thailand,3,0,South Korea,False,,,Asian Games,1966
+1966-12-10,Japan,2,1,India,True,,,Asian Games,1966
+1966-12-10,Iran,2,0,Malaysia,True,,,Asian Games,1966
+1966-12-10,Indonesia,3,0,Singapore,True,,,Asian Games,1966
+1966-12-11,Iran,1,3,Japan,True,,,Asian Games,1966
+1966-12-11,Indonesia,0,0,Vietnam Republic,True,,,Asian Games,1966
+1966-12-12,South Korea,0,1,Myanmar,True,,,Asian Games,1966
+1966-12-12,Malaysia,1,2,India,True,,,Asian Games,1966
+1966-12-12,Vietnam Republic,2,1,Taiwan,True,,,Asian Games,1966
+1966-12-13,India,1,4,Iran,True,,,Asian Games,1966
+1966-12-13,Singapore,3,3,Taiwan,True,,,Asian Games,1966
+1966-12-14,Thailand,1,1,Myanmar,False,,,Asian Games,1966
+1966-12-14,Malaysia,0,1,Japan,True,,,Asian Games,1966
+1966-12-14,Taiwan,1,3,Indonesia,True,,,Asian Games,1966
+1966-12-14,Singapore,5,0,Vietnam Republic,True,,,Asian Games,1966
+1966-12-15,Thailand,0,2,Singapore,False,,,Asian Games,1966
+1966-12-15,Myanmar,2,2,Indonesia,True,,,Asian Games,1966
+1966-12-16,Japan,5,1,Singapore,True,,,Asian Games,1966
+1966-12-16,Iran,1,0,Indonesia,True,,,Asian Games,1966
+1966-12-17,Thailand,1,5,Japan,False,,,Asian Games,1966
+1966-12-17,Myanmar,1,0,Iran,True,,,Asian Games,1966
+1966-12-18,Japan,0,1,Iran,True,,,Asian Games,1966
+1966-12-18,Myanmar,2,0,Singapore,True,,,Asian Games,1966
+1966-12-19,Japan,2,0,Singapore,True,,,Asian Games,1966
+1966-12-20,Iran,0,1,Myanmar,True,,,Asian Games,1966
+1970-12-10,Thailand,2,2,India,False,,,Asian Games,1970
+1970-12-10,Japan,1,0,Malaysia,True,,,Asian Games,1970
+1970-12-10,Myanmar,2,1,Cambodia,True,,,Asian Games,1970
+1970-12-10,Indonesia,2,2,Iran,True,,,Asian Games,1970
+1970-12-11,India,2,0,Vietnam Republic,True,,,Asian Games,1970
+1970-12-11,Iran,0,1,South Korea,True,,,Asian Games,1970
+1970-12-12,Japan,1,0,Cambodia,True,,,Asian Games,1970
+1970-12-12,Myanmar,1,0,Malaysia,True,,,Asian Games,1970
+1970-12-13,Thailand,1,0,Vietnam Republic,False,,,Asian Games,1970
+1970-12-13,Indonesia,0,0,South Korea,True,,,Asian Games,1970
+1970-12-14,Japan,2,1,Myanmar,True,,,Asian Games,1970
+1970-12-14,Malaysia,0,2,Cambodia,True,,,Asian Games,1970
+1970-12-15,India,3,0,Indonesia,True,,,Asian Games,1970
+1970-12-15,Thailand,1,2,South Korea,False,,,Asian Games,1970
+1970-12-16,Indonesia,1,2,Japan,True,,,Asian Games,1970
+1970-12-16,Thailand,2,2,Myanmar,False,,,Asian Games,1970
+1970-12-17,Japan,1,0,India,True,,,Asian Games,1970
+1970-12-17,Myanmar,1,0,South Korea,True,,,Asian Games,1970
+1970-12-18,Japan,1,2,South Korea,True,,,Asian Games,1970
+1970-12-18,Myanmar,2,0,India,True,,,Asian Games,1970
+1970-12-19,Thailand,0,1,Indonesia,False,,,Asian Games,1970
+1970-12-19,Japan,0,1,India,True,,,Asian Games,1970
+1970-12-20,South Korea,0,0,Myanmar,True,,,Asian Games,1970
+1974-09-02,Kuwait,3,2,Thailand,True,,,Asian Games,1974
+1974-09-02,India,0,3,Iraq,True,,,Asian Games,1974
+1974-09-02,North Korea,2,0,China PR,True,,,Asian Games,1974
+1974-09-03,Japan,4,0,Philippines,True,,,Asian Games,1974
+1974-09-03,Israel,8,3,Malaysia,True,,,Asian Games,1974
+1974-09-03,Iran,7,0,Pakistan,False,,,Asian Games,1974
+1974-09-03,Myanmar,4,0,Bahrain,True,,,Asian Games,1974
+1974-09-04,South Korea,1,0,Thailand,True,,,Asian Games,1974
+1974-09-04,China PR,7,1,India,True,,,Asian Games,1974
+1974-09-04,North Korea,0,1,Iraq,True,,,Asian Games,1974
+1974-09-05,Israel,6,0,Philippines,True,,,Asian Games,1974
+1974-09-05,Japan,1,1,Malaysia,True,,,Asian Games,1974
+1974-09-05,Pakistan,5,1,Bahrain,True,,,Asian Games,1974
+1974-09-05,Iran,2,1,Myanmar,False,,,Asian Games,1974
+1974-09-06,South Korea,0,4,Kuwait,True,,,Asian Games,1974
+1974-09-06,China PR,0,1,Iraq,True,,,Asian Games,1974
+1974-09-06,India,1,4,North Korea,True,,,Asian Games,1974
+1974-09-07,Malaysia,11,0,Philippines,True,,,Asian Games,1974
+1974-09-07,Japan,0,3,Israel,True,,,Asian Games,1974
+1974-09-07,Myanmar,5,1,Pakistan,True,,,Asian Games,1974
+1974-09-07,Iran,6,0,Bahrain,False,,,Asian Games,1974
+1974-09-09,Iran,1,0,Malaysia,False,,,Asian Games,1974
+1974-09-09,Iraq,1,1,South Korea,True,,,Asian Games,1974
+1974-09-10,Kuwait,0,2,North Korea,True,,,Asian Games,1974
+1974-09-10,Israel,3,0,Myanmar,True,,,Asian Games,1974
+1974-09-11,Iran,2,0,South Korea,False,,,Asian Games,1974
+1974-09-11,Malaysia,0,0,Iraq,True,,,Asian Games,1974
+1974-09-12,Kuwait,5,2,Myanmar,True,,,Asian Games,1974
+1974-09-12,Israel,2,0,North Korea,True,,,Asian Games,1974
+1974-09-13,Iran,1,0,Iraq,False,,,Asian Games,1974
+1974-09-13,South Korea,2,3,Malaysia,True,,,Asian Games,1974
+1974-09-14,North Korea,2,2,Myanmar,True,,,Asian Games,1974
+1974-09-14,Israel,2,0,Kuwait,True,,,Asian Games,1974
+1974-09-15,North Korea,1,2,Malaysia,True,,,Asian Games,1974
+1974-09-15,Iran,1,0,Israel,False,,,Asian Games,1974
+1978-12-10,India,0,1,Malaysia,True,,,Asian Games,1978
+1978-12-10,Iraq,2,1,Qatar,True,,,Asian Games,1978
+1978-12-10,China PR,1,0,Saudi Arabia,True,,,Asian Games,1978
+1978-12-11,Bahrain,1,5,South Korea,True,,,Asian Games,1978
+1978-12-11,Japan,0,2,Kuwait,True,,,Asian Games,1978
+1978-12-11,Thailand,2,1,Myanmar,False,,,Asian Games,1978
+1978-12-12,Bangladesh,0,1,Malaysia,True,,,Asian Games,1978
+1978-12-12,Qatar,2,2,Saudi Arabia,True,,,Asian Games,1978
+1978-12-12,China PR,0,2,Iraq,True,,,Asian Games,1978
+1978-12-13,Bahrain,0,4,Japan,True,,,Asian Games,1978
+1978-12-13,South Korea,2,0,Kuwait,True,,,Asian Games,1978
+1978-12-13,Myanmar,0,3,North Korea,True,,,Asian Games,1978
+1978-12-14,Bangladesh,0,3,India,True,,,Asian Games,1978
+1978-12-14,China PR,3,0,Qatar,True,,,Asian Games,1978
+1978-12-14,Iraq,1,1,Saudi Arabia,True,,,Asian Games,1978
+1978-12-15,Japan,1,3,South Korea,True,,,Asian Games,1978
+1978-12-15,Bahrain,0,3,Kuwait,True,,,Asian Games,1978
+1978-12-15,Thailand,0,3,North Korea,False,,,Asian Games,1978
+1978-12-17,India,1,6,Kuwait,True,,,Asian Games,1978
+1978-12-17,Iraq,0,1,North Korea,True,,,Asian Games,1978
+1978-12-17,China PR,0,1,South Korea,True,,,Asian Games,1978
+1978-12-17,Thailand,2,1,Malaysia,False,,,Asian Games,1978
+1978-12-18,Iraq,3,0,Kuwait,True,,,Asian Games,1978
+1978-12-18,India,1,3,North Korea,True,,,Asian Games,1978
+1978-12-18,Thailand,1,4,China PR,False,,,Asian Games,1978
+1978-12-18,Malaysia,0,1,South Korea,True,,,Asian Games,1978
+1978-12-19,India,0,3,Iraq,True,,,Asian Games,1978
+1978-12-19,North Korea,2,2,Kuwait,True,,,Asian Games,1978
+1978-12-19,China PR,7,1,Malaysia,True,,,Asian Games,1978
+1978-12-19,Thailand,1,3,South Korea,False,,,Asian Games,1978
+1978-12-20,Iraq,0,1,China PR,True,,,Asian Games,1978
+1978-12-20,North Korea,0,0,South Korea,True,,,Asian Games,1978
+1982-11-20,North Korea,1,1,Syria,True,,,Asian Games,1982
+1982-11-20,Saudi Arabia,1,0,Thailand,True,,,Asian Games,1982
+1982-11-20,China PR,1,0,Malaysia,True,,,Asian Games,1982
+1982-11-20,India,2,0,Bangladesh,False,,,Asian Games,1982
+1982-11-21,Kuwait,3,1,Nepal,True,,,Asian Games,1982
+1982-11-21,Iraq,4,0,Myanmar,True,,,Asian Games,1982
+1982-11-21,Japan,1,0,Iran,True,,,Asian Games,1982
+1982-11-21,South Korea,3,0,South Yemen,True,,,Asian Games,1982
+1982-11-22,North Korea,3,0,Thailand,True,,,Asian Games,1982
+1982-11-22,Saudi Arabia,1,1,Syria,True,,,Asian Games,1982
+1982-11-22,India,1,0,Malaysia,False,,,Asian Games,1982
+1982-11-22,China PR,1,0,Bangladesh,True,,,Asian Games,1982
+1982-11-23,Kuwait,4,0,Myanmar,True,,,Asian Games,1982
+1982-11-23,Iraq,3,0,Nepal,True,,,Asian Games,1982
+1982-11-23,South Korea,0,1,Iran,True,,,Asian Games,1982
+1982-11-23,Japan,3,1,South Yemen,True,,,Asian Games,1982
+1982-11-24,North Korea,2,2,Saudi Arabia,True,,,Asian Games,1982
+1982-11-24,Thailand,3,1,Syria,True,,,Asian Games,1982
+1982-11-24,India,2,2,China PR,False,,,Asian Games,1982
+1982-11-24,Malaysia,1,2,Bangladesh,True,,,Asian Games,1982
+1982-11-25,Iraq,1,2,Kuwait,True,,,Asian Games,1982
+1982-11-25,Myanmar,3,0,Nepal,True,,,Asian Games,1982
+1982-11-25,South Korea,1,2,Japan,True,,,Asian Games,1982
+1982-11-25,Iran,2,0,South Yemen,True,,,Asian Games,1982
+1982-11-27,North Korea,1,0,China PR,True,,,Asian Games,1982
+1982-11-27,India,0,1,Saudi Arabia,False,,,Asian Games,1982
+1982-11-28,Japan,0,1,Iraq,True,,,Asian Games,1982
+1982-11-28,Kuwait,1,0,Iran,True,,,Asian Games,1982
+1982-11-30,North Korea,2,3,Kuwait,True,,,Asian Games,1982
+1982-12-01,Saudi Arabia,0,1,Iraq,True,,,Asian Games,1982
+1982-12-02,North Korea,0,2,Saudi Arabia,True,,,Asian Games,1982
+1982-12-03,Kuwait,0,1,Iraq,True,,,Asian Games,1982
+1986-09-20,South Korea,3,0,India,False,,,Asian Games,1986
+1986-09-20,China PR,5,1,Bahrain,True,,,Asian Games,1986
+1986-09-20,Kuwait,4,0,Bangladesh,True,,,Asian Games,1986
+1986-09-20,Japan,5,0,Nepal,True,,,Asian Games,1986
+1986-09-21,Iraq,4,0,Oman,True,,,Asian Games,1986
+1986-09-21,United Arab Emirates,1,0,Pakistan,True,,,Asian Games,1986
+1986-09-21,Malaysia,1,3,Saudi Arabia,True,,,Asian Games,1986
+1986-09-21,Qatar,1,1,Indonesia,True,,,Asian Games,1986
+1986-09-22,China PR,2,1,India,True,,,Asian Games,1986
+1986-09-22,Japan,0,2,Iran,True,,,Asian Games,1986
+1986-09-22,Nepal,0,5,Kuwait,True,,,Asian Games,1986
+1986-09-23,United Arab Emirates,2,1,Thailand,True,,,Asian Games,1986
+1986-09-23,Pakistan,1,5,Iraq,True,,,Asian Games,1986
+1986-09-23,Qatar,1,1,Malaysia,True,,,Asian Games,1986
+1986-09-24,South Korea,0,0,Bahrain,False,,,Asian Games,1986
+1986-09-24,Iran,4,0,Bangladesh,True,,,Asian Games,1986
+1986-09-24,Japan,0,2,Kuwait,True,,,Asian Games,1986
+1986-09-25,Thailand,0,0,Oman,True,,,Asian Games,1986
+1986-09-25,United Arab Emirates,2,1,Iraq,True,,,Asian Games,1986
+1986-09-25,Indonesia,0,2,Saudi Arabia,True,,,Asian Games,1986
+1986-09-26,Bahrain,3,0,India,True,,,Asian Games,1986
+1986-09-26,Nepal,0,1,Bangladesh,True,,,Asian Games,1986
+1986-09-26,Iran,0,1,Kuwait,True,,,Asian Games,1986
+1986-09-27,Oman,3,1,Pakistan,True,,,Asian Games,1986
+1986-09-27,Thailand,1,2,Iraq,True,,,Asian Games,1986
+1986-09-27,Indonesia,1,0,Malaysia,True,,,Asian Games,1986
+1986-09-28,South Korea,4,2,China PR,False,,,Asian Games,1986
+1986-09-28,Japan,4,0,Bangladesh,True,,,Asian Games,1986
+1986-09-28,Iran,6,0,Nepal,True,,,Asian Games,1986
+1986-09-29,United Arab Emirates,0,0,Oman,True,,,Asian Games,1986
+1986-09-29,Thailand,6,0,Pakistan,True,,,Asian Games,1986
+1986-09-29,Qatar,0,1,Saudi Arabia,True,,,Asian Games,1986
+1986-10-01,Saudi Arabia,1,1,Iraq,True,,,Asian Games,1986
+1986-10-01,South Korea,1,1,Iran,False,,,Asian Games,1986
+1986-10-01,United Arab Emirates,2,2,Indonesia,True,,,Asian Games,1986
+1986-10-01,Kuwait,1,1,China PR,True,,,Asian Games,1986
+1986-10-03,South Korea,4,0,Indonesia,False,,,Asian Games,1986
+1986-10-03,Saudi Arabia,2,2,Kuwait,True,,,Asian Games,1986
+1986-10-04,Indonesia,0,5,Kuwait,True,,,Asian Games,1986
+1986-10-05,South Korea,2,0,Saudi Arabia,False,,,Asian Games,1986
+1990-09-23,South Korea,7,0,Singapore,True,,,Asian Games,1990
+1990-09-23,China PR,3,0,Pakistan,False,,,Asian Games,1990
+1990-09-23,Kuwait,2,1,Hong Kong,True,,,Asian Games,1990
+1990-09-23,Yemen,0,0,Thailand,True,,,Asian Games,1990
+1990-09-24,Iran,3,0,Malaysia,True,,,Asian Games,1990
+1990-09-24,Saudi Arabia,4,0,Bangladesh,True,,,Asian Games,1990
+1990-09-25,China PR,5,1,Singapore,False,,,Asian Games,1990
+1990-09-25,Pakistan,0,7,South Korea,True,,,Asian Games,1990
+1990-09-25,Hong Kong,0,2,Thailand,True,,,Asian Games,1990
+1990-09-25,Yemen,0,0,Kuwait,True,,,Asian Games,1990
+1990-09-26,Malaysia,0,0,North Korea,True,,,Asian Games,1990
+1990-09-26,Bangladesh,0,3,Japan,True,,,Asian Games,1990
+1990-09-27,China PR,0,2,South Korea,False,,,Asian Games,1990
+1990-09-27,Singapore,6,1,Pakistan,True,,,Asian Games,1990
+1990-09-27,Hong Kong,2,0,Yemen,True,,,Asian Games,1990
+1990-09-27,Thailand,2,1,Kuwait,True,,,Asian Games,1990
+1990-09-28,North Korea,1,2,Iran,True,,,Asian Games,1990
+1990-09-28,Japan,0,2,Saudi Arabia,True,,,Asian Games,1990
+1990-10-01,South Korea,1,0,Kuwait,True,,,Asian Games,1990
+1990-10-01,Iran,1,0,Japan,True,,,Asian Games,1990
+1990-10-01,China PR,0,1,Thailand,False,,,Asian Games,1990
+1990-10-01,Saudi Arabia,0,0,North Korea,True,,,Asian Games,1990
+1990-10-03,South Korea,0,1,Iran,True,,,Asian Games,1990
+1990-10-03,Thailand,0,1,North Korea,True,,,Asian Games,1990
+1990-10-05,South Korea,1,0,Thailand,True,,,Asian Games,1990
+1990-10-06,Iran,0,0,North Korea,True,,,Asian Games,1990
+1994-10-01,Turkmenistan,2,2,China PR,True,,,Asian Games,1994
+1994-10-01,Yemen,0,2,Bahrain,True,,,Asian Games,1994
+1994-10-01,Saudi Arabia,1,4,Uzbekistan,True,,,Asian Games,1994
+1994-10-01,Malaysia,4,3,Hong Kong,True,,,Asian Games,1994
+1994-10-01,South Korea,11,0,Nepal,True,,,Asian Games,1994
+1994-10-01,Kuwait,2,2,Oman,True,,,Asian Games,1994
+1994-10-03,China PR,4,0,Yemen,True,,,Asian Games,1994
+1994-10-03,Iran,0,0,Bahrain,True,,,Asian Games,1994
+1994-10-03,Uzbekistan,5,0,Malaysia,True,,,Asian Games,1994
+1994-10-03,Thailand,1,2,Hong Kong,True,,,Asian Games,1994
+1994-10-03,Kuwait,8,0,Nepal,True,,,Asian Games,1994
+1994-10-03,Qatar,2,2,Myanmar,True,,,Asian Games,1994
+1994-10-03,Japan,1,1,United Arab Emirates,False,,,Asian Games,1994
+1994-10-05,Bahrain,2,3,China PR,True,,,Asian Games,1994
+1994-10-05,Iran,1,1,Turkmenistan,True,,,Asian Games,1994
+1994-10-05,Hong Kong,0,1,Uzbekistan,True,,,Asian Games,1994
+1994-10-05,Thailand,2,4,Saudi Arabia,True,,,Asian Games,1994
+1994-10-05,South Korea,2,1,Oman,True,,,Asian Games,1994
+1994-10-05,Myanmar,0,2,United Arab Emirates,True,,,Asian Games,1994
+1994-10-05,Japan,1,1,Qatar,False,,,Asian Games,1994
+1994-10-07,Iran,0,1,China PR,True,,,Asian Games,1994
+1994-10-07,Yemen,0,4,Turkmenistan,True,,,Asian Games,1994
+1994-10-07,Thailand,4,5,Uzbekistan,True,,,Asian Games,1994
+1994-10-07,Malaysia,1,2,Saudi Arabia,True,,,Asian Games,1994
+1994-10-07,South Korea,0,1,Kuwait,True,,,Asian Games,1994
+1994-10-09,Bahrain,2,2,Turkmenistan,True,,,Asian Games,1994
+1994-10-09,Iran,4,0,Yemen,True,,,Asian Games,1994
+1994-10-09,Hong Kong,1,2,Saudi Arabia,True,,,Asian Games,1994
+1994-10-09,Thailand,1,1,Malaysia,True,,,Asian Games,1994
+1994-10-09,Oman,1,0,Nepal,True,,,Asian Games,1994
+1994-10-09,United Arab Emirates,2,2,Qatar,True,,,Asian Games,1994
+1994-10-09,Japan,5,0,Myanmar,False,,,Asian Games,1994
+1994-10-11,China PR,2,0,Saudi Arabia,True,,,Asian Games,1994
+1994-10-11,Kuwait,2,1,United Arab Emirates,True,,,Asian Games,1994
+1994-10-11,Uzbekistan,3,0,Turkmenistan,True,,,Asian Games,1994
+1994-10-11,Japan,2,3,South Korea,False,,,Asian Games,1994
+1994-10-13,China PR,2,0,Kuwait,True,,,Asian Games,1994
+1994-10-13,Uzbekistan,1,0,South Korea,True,,,Asian Games,1994
+1994-10-15,Kuwait,2,1,South Korea,True,,,Asian Games,1994
+1994-10-16,China PR,2,4,Uzbekistan,True,,,Asian Games,1994
+1998-11-30,Turkmenistan,2,0,Vietnam,True,,,Asian Games,1998
+1998-11-30,China PR,4,1,Lebanon,True,,,Asian Games,1998
+1998-11-30,Hong Kong,0,6,Oman,True,,,Asian Games,1998
+1998-12-01,Nepal,0,5,Japan,True,,,Asian Games,1998
+1998-12-01,Tajikistan,3,0,Maldives,True,,,Asian Games,1998
+1998-12-01,Mongolia,0,11,Kuwait,True,,,Asian Games,1998
+1998-12-01,Kazakhstan,0,2,Iran,True,,,Asian Games,1998
+1998-12-02,South Korea,2,3,Turkmenistan,True,,,Asian Games,1998
+1998-12-02,Cambodia,1,4,China PR,True,,,Asian Games,1998
+1998-12-02,United Arab Emirates,3,3,North Korea,True,,,Asian Games,1998
+1998-12-02,Thailand,5,0,Hong Kong,False,,,Asian Games,1998
+1998-12-03,Japan,1,0,India,True,,,Asian Games,1998
+1998-12-03,Qatar,2,1,Tajikistan,True,,,Asian Games,1998
+1998-12-03,Uzbekistan,3,3,Kuwait,True,,,Asian Games,1998
+1998-12-03,Laos,0,5,Kazakhstan,True,,,Asian Games,1998
+1998-12-04,Vietnam,0,4,South Korea,True,,,Asian Games,1998
+1998-12-04,Lebanon,5,1,Cambodia,True,,,Asian Games,1998
+1998-12-04,Thailand,2,0,Oman,False,,,Asian Games,1998
+1998-12-05,India,1,0,Nepal,True,,,Asian Games,1998
+1998-12-05,Maldives,0,4,Qatar,True,,,Asian Games,1998
+1998-12-05,Mongolia,0,15,Uzbekistan,True,,,Asian Games,1998
+1998-12-05,Iran,6,1,Laos,True,,,Asian Games,1998
+1998-12-07,Turkmenistan,3,2,India,True,,,Asian Games,1998
+1998-12-07,North Korea,0,4,Uzbekistan,True,,,Asian Games,1998
+1998-12-07,Japan,0,2,South Korea,True,,,Asian Games,1998
+1998-12-07,United Arab Emirates,0,5,Kuwait,True,,,Asian Games,1998
+1998-12-08,China PR,3,1,Tajikistan,True,,,Asian Games,1998
+1998-12-08,Iran,2,4,Oman,True,,,Asian Games,1998
+1998-12-08,Qatar,1,0,Lebanon,True,,,Asian Games,1998
+1998-12-08,Thailand,1,1,Kazakhstan,False,,,Asian Games,1998
+1998-12-09,North Korea,1,1,Turkmenistan,True,,,Asian Games,1998
+1998-12-09,India,0,2,Uzbekistan,True,,,Asian Games,1998
+1998-12-09,United Arab Emirates,1,2,South Korea,True,,,Asian Games,1998
+1998-12-09,Japan,2,1,Kuwait,True,,,Asian Games,1998
+1998-12-10,Tajikistan,0,5,Iran,True,,,Asian Games,1998
+1998-12-10,Oman,1,6,China PR,True,,,Asian Games,1998
+1998-12-10,Qatar,0,2,Kazakhstan,True,,,Asian Games,1998
+1998-12-10,Thailand,1,0,Lebanon,False,,,Asian Games,1998
+1998-12-11,India,0,2,North Korea,True,,,Asian Games,1998
+1998-12-11,Uzbekistan,1,1,Turkmenistan,True,,,Asian Games,1998
+1998-12-11,Japan,0,1,United Arab Emirates,True,,,Asian Games,1998
+1998-12-11,South Korea,1,0,Kuwait,True,,,Asian Games,1998
+1998-12-12,Iran,2,1,China PR,True,,,Asian Games,1998
+1998-12-12,Tajikistan,3,3,Oman,True,,,Asian Games,1998
+1998-12-12,Kazakhstan,0,3,Lebanon,True,,,Asian Games,1998
+1998-12-12,Thailand,1,2,Qatar,False,,,Asian Games,1998
+1998-12-14,Uzbekistan,0,4,Iran,True,,,Asian Games,1998
+1998-12-14,Thailand,2,1,South Korea,False,,,Asian Games,1998
+1998-12-14,Turkmenistan,0,3,China PR,True,,,Asian Games,1998
+1998-12-14,Qatar,0,0,Kuwait,True,,,Asian Games,1998
+1998-12-16,Iran,1,0,China PR,True,,,Asian Games,1998
+1998-12-16,Thailand,0,3,Kuwait,False,,,Asian Games,1998
+1998-12-19,Thailand,0,3,China PR,False,,,Asian Games,1998
+1998-12-19,Iran,2,0,Kuwait,True,,,Asian Games,1998

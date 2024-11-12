@@ -1,579 +1,579 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2018-09-06,Germany,0,0,France,False,False,,UEFA Nations League,2018
-2018-09-06,Czech Republic,1,2,Ukraine,False,False,,UEFA Nations League,2018
-2018-09-06,Wales,4,1,Republic of Ireland,False,False,,UEFA Nations League,2018
-2018-09-06,Norway,2,0,Cyprus,False,False,,UEFA Nations League,2018
-2018-09-06,Slovenia,1,2,Bulgaria,False,False,,UEFA Nations League,2018
-2018-09-06,Kazakhstan,0,2,Georgia,False,False,,UEFA Nations League,2018
-2018-09-06,Latvia,0,0,Andorra,False,False,,UEFA Nations League,2018
-2018-09-06,Armenia,2,1,Liechtenstein,False,False,,UEFA Nations League,2018
-2018-09-06,Gibraltar,0,2,North Macedonia,False,False,,UEFA Nations League,2018
-2018-09-07,Italy,1,1,Poland,False,False,,UEFA Nations League,2018
-2018-09-07,Turkey,1,2,Russia,False,False,,UEFA Nations League,2018
-2018-09-07,Albania,1,0,Israel,False,False,,UEFA Nations League,2018
-2018-09-07,Lithuania,0,1,Serbia,False,False,,UEFA Nations League,2018
-2018-09-07,Romania,0,0,Montenegro,False,False,,UEFA Nations League,2018
-2018-09-07,Faroe Islands,3,1,Malta,False,False,,UEFA Nations League,2018
-2018-09-07,Azerbaijan,0,0,Kosovo,False,False,,UEFA Nations League,2018
-2018-09-08,Switzerland,6,0,Iceland,False,False,,UEFA Nations League,2018
-2018-09-08,England,1,2,Spain,False,False,,UEFA Nations League,2018
-2018-09-08,Northern Ireland,1,2,Bosnia and Herzegovina,False,False,,UEFA Nations League,2018
-2018-09-08,Finland,1,0,Hungary,False,False,,UEFA Nations League,2018
-2018-09-08,Estonia,0,1,Greece,False,False,,UEFA Nations League,2018
-2018-09-08,Belarus,5,0,San Marino,False,False,,UEFA Nations League,2018
-2018-09-08,Luxembourg,4,0,Moldova,False,False,,UEFA Nations League,2018
-2018-09-09,France,2,1,Netherlands,False,False,,UEFA Nations League,2018
-2018-09-09,Ukraine,1,0,Slovakia,False,False,,UEFA Nations League,2018
-2018-09-09,Denmark,2,0,Wales,False,False,,UEFA Nations League,2018
-2018-09-09,Bulgaria,1,0,Norway,False,False,,UEFA Nations League,2018
-2018-09-09,Cyprus,2,1,Slovenia,False,False,,UEFA Nations League,2018
-2018-09-09,Georgia,1,0,Latvia,False,False,,UEFA Nations League,2018
-2018-09-09,North Macedonia,2,0,Armenia,False,False,,UEFA Nations League,2018
-2018-09-09,Liechtenstein,2,0,Gibraltar,False,False,,UEFA Nations League,2018
-2018-09-10,Portugal,1,0,Italy,False,False,,UEFA Nations League,2018
-2018-09-10,Sweden,2,3,Turkey,False,False,,UEFA Nations League,2018
-2018-09-10,Scotland,2,0,Albania,False,False,,UEFA Nations League,2018
-2018-09-10,Montenegro,2,0,Lithuania,False,False,,UEFA Nations League,2018
-2018-09-10,Serbia,2,2,Romania,False,False,,UEFA Nations League,2018
-2018-09-10,Andorra,1,1,Kazakhstan,False,False,,UEFA Nations League,2018
-2018-09-10,Kosovo,2,0,Faroe Islands,False,False,,UEFA Nations League,2018
-2018-09-10,Malta,1,1,Azerbaijan,False,False,,UEFA Nations League,2018
-2018-09-11,Iceland,0,3,Belgium,False,False,,UEFA Nations League,2018
-2018-09-11,Spain,6,0,Croatia,False,False,,UEFA Nations League,2018
-2018-09-11,Bosnia and Herzegovina,1,0,Austria,False,False,,UEFA Nations League,2018
-2018-09-11,Hungary,2,1,Greece,False,False,,UEFA Nations League,2018
-2018-09-11,Finland,1,0,Estonia,False,False,,UEFA Nations League,2018
-2018-09-11,San Marino,0,3,Luxembourg,False,False,,UEFA Nations League,2018
-2018-09-11,Moldova,0,0,Belarus,False,False,,UEFA Nations League,2018
-2018-10-11,Poland,2,3,Portugal,False,False,,UEFA Nations League,2018
-2018-10-11,Russia,0,0,Sweden,False,False,,UEFA Nations League,2018
-2018-10-11,Israel,2,1,Scotland,False,False,,UEFA Nations League,2018
-2018-10-11,Montenegro,0,2,Serbia,False,False,,UEFA Nations League,2018
-2018-10-11,Lithuania,1,2,Romania,False,False,,UEFA Nations League,2018
-2018-10-11,Faroe Islands,0,3,Azerbaijan,False,False,,UEFA Nations League,2018
-2018-10-11,Kosovo,3,1,Malta,False,False,,UEFA Nations League,2018
-2018-10-12,Belgium,2,1,Switzerland,False,False,,UEFA Nations League,2018
-2018-10-12,Croatia,0,0,England,False,False,,UEFA Nations League,2018
-2018-10-12,Austria,1,0,Northern Ireland,False,False,,UEFA Nations League,2018
-2018-10-12,Estonia,0,1,Finland,False,False,,UEFA Nations League,2018
-2018-10-12,Greece,1,0,Hungary,False,False,,UEFA Nations League,2018
-2018-10-12,Belarus,1,0,Luxembourg,False,False,,UEFA Nations League,2018
-2018-10-12,Moldova,2,0,San Marino,False,False,,UEFA Nations League,2018
-2018-10-13,Netherlands,3,0,Germany,False,False,,UEFA Nations League,2018
-2018-10-13,Slovakia,1,2,Czech Republic,False,False,,UEFA Nations League,2018
-2018-10-13,Republic of Ireland,0,0,Denmark,False,False,,UEFA Nations League,2018
-2018-10-13,Norway,1,0,Slovenia,False,False,,UEFA Nations League,2018
-2018-10-13,Bulgaria,2,1,Cyprus,False,False,,UEFA Nations League,2018
-2018-10-13,Latvia,1,1,Kazakhstan,False,False,,UEFA Nations League,2018
-2018-10-13,Georgia,3,0,Andorra,False,False,,UEFA Nations League,2018
-2018-10-13,Armenia,0,1,Gibraltar,False,False,,UEFA Nations League,2018
-2018-10-13,North Macedonia,4,1,Liechtenstein,False,False,,UEFA Nations League,2018
-2018-10-14,Poland,0,1,Italy,False,False,,UEFA Nations League,2018
-2018-10-14,Russia,2,0,Turkey,False,False,,UEFA Nations League,2018
-2018-10-14,Israel,2,0,Albania,False,False,,UEFA Nations League,2018
-2018-10-14,Romania,0,0,Serbia,False,False,,UEFA Nations League,2018
-2018-10-14,Lithuania,1,4,Montenegro,False,False,,UEFA Nations League,2018
-2018-10-14,Faroe Islands,1,1,Kosovo,False,False,,UEFA Nations League,2018
-2018-10-14,Azerbaijan,1,1,Malta,False,False,,UEFA Nations League,2018
-2018-10-15,Iceland,1,2,Switzerland,False,False,,UEFA Nations League,2018
-2018-10-15,Spain,2,3,England,False,False,,UEFA Nations League,2018
-2018-10-15,Bosnia and Herzegovina,2,0,Northern Ireland,False,False,,UEFA Nations League,2018
-2018-10-15,Estonia,3,3,Hungary,False,False,,UEFA Nations League,2018
-2018-10-15,Finland,2,0,Greece,False,False,,UEFA Nations League,2018
-2018-10-15,Luxembourg,3,0,San Marino,False,False,,UEFA Nations League,2018
-2018-10-15,Belarus,0,0,Moldova,False,False,,UEFA Nations League,2018
-2018-10-16,France,2,1,Germany,False,False,,UEFA Nations League,2018
-2018-10-16,Ukraine,1,0,Czech Republic,False,False,,UEFA Nations League,2018
-2018-10-16,Republic of Ireland,0,1,Wales,False,False,,UEFA Nations League,2018
-2018-10-16,Norway,1,0,Bulgaria,False,False,,UEFA Nations League,2018
-2018-10-16,Slovenia,1,1,Cyprus,False,False,,UEFA Nations League,2018
-2018-10-16,Kazakhstan,4,0,Andorra,False,False,,UEFA Nations League,2018
-2018-10-16,Latvia,0,3,Georgia,False,False,,UEFA Nations League,2018
-2018-10-16,Armenia,4,0,North Macedonia,False,False,,UEFA Nations League,2018
-2018-10-16,Gibraltar,2,1,Liechtenstein,False,False,,UEFA Nations League,2018
-2018-11-15,Belgium,2,0,Iceland,False,False,,UEFA Nations League,2018
-2018-11-15,Croatia,3,2,Spain,False,False,,UEFA Nations League,2018
-2018-11-15,Austria,0,0,Bosnia and Herzegovina,False,False,,UEFA Nations League,2018
-2018-11-15,Hungary,2,0,Estonia,False,False,,UEFA Nations League,2018
-2018-11-15,Greece,1,0,Finland,False,False,,UEFA Nations League,2018
-2018-11-15,Andorra,1,1,Georgia,False,False,,UEFA Nations League,2018
-2018-11-15,Kazakhstan,1,1,Latvia,False,False,,UEFA Nations League,2018
-2018-11-15,Luxembourg,0,2,Belarus,False,False,,UEFA Nations League,2018
-2018-11-15,San Marino,0,1,Moldova,False,False,,UEFA Nations League,2018
-2018-11-16,Netherlands,2,0,France,False,False,,UEFA Nations League,2018
-2018-11-16,Slovakia,4,1,Ukraine,False,False,,UEFA Nations League,2018
-2018-11-16,Wales,1,2,Denmark,False,False,,UEFA Nations League,2018
-2018-11-16,Slovenia,1,1,Norway,False,False,,UEFA Nations League,2018
-2018-11-16,Cyprus,1,1,Bulgaria,False,False,,UEFA Nations League,2018
-2018-11-16,Gibraltar,2,6,Armenia,False,False,,UEFA Nations League,2018
-2018-11-16,Liechtenstein,0,2,North Macedonia,False,False,,UEFA Nations League,2018
-2018-11-17,Italy,0,0,Portugal,False,False,,UEFA Nations League,2018
-2018-11-17,Turkey,0,1,Sweden,False,False,,UEFA Nations League,2018
-2018-11-17,Albania,0,4,Scotland,False,False,,UEFA Nations League,2018
-2018-11-17,Serbia,2,1,Montenegro,False,False,,UEFA Nations League,2018
-2018-11-17,Romania,3,0,Lithuania,False,False,,UEFA Nations League,2018
-2018-11-17,Malta,0,5,Kosovo,False,False,,UEFA Nations League,2018
-2018-11-17,Azerbaijan,2,0,Faroe Islands,False,False,,UEFA Nations League,2018
-2018-11-18,Switzerland,5,2,Belgium,False,False,,UEFA Nations League,2018
-2018-11-18,England,2,1,Croatia,False,False,,UEFA Nations League,2018
-2018-11-18,Northern Ireland,1,2,Austria,False,False,,UEFA Nations League,2018
-2018-11-18,Greece,0,1,Estonia,False,False,,UEFA Nations League,2018
-2018-11-18,Hungary,2,0,Finland,False,False,,UEFA Nations League,2018
-2018-11-18,San Marino,0,2,Belarus,False,False,,UEFA Nations League,2018
-2018-11-18,Moldova,1,1,Luxembourg,False,False,,UEFA Nations League,2018
-2018-11-19,Germany,2,2,Netherlands,False,False,,UEFA Nations League,2018
-2018-11-19,Czech Republic,1,0,Slovakia,False,False,,UEFA Nations League,2018
-2018-11-19,Denmark,0,0,Republic of Ireland,False,False,,UEFA Nations League,2018
-2018-11-19,Bulgaria,1,1,Slovenia,False,False,,UEFA Nations League,2018
-2018-11-19,Cyprus,0,2,Norway,False,False,,UEFA Nations League,2018
-2018-11-19,Andorra,0,0,Latvia,False,False,,UEFA Nations League,2018
-2018-11-19,Georgia,2,1,Kazakhstan,False,False,,UEFA Nations League,2018
-2018-11-19,North Macedonia,4,0,Gibraltar,False,False,,UEFA Nations League,2018
-2018-11-19,Liechtenstein,2,2,Armenia,False,False,,UEFA Nations League,2018
-2018-11-20,Portugal,1,1,Poland,False,False,,UEFA Nations League,2018
-2018-11-20,Sweden,2,0,Russia,False,False,,UEFA Nations League,2018
-2018-11-20,Scotland,3,2,Israel,False,False,,UEFA Nations League,2018
-2018-11-20,Montenegro,0,1,Romania,False,False,,UEFA Nations League,2018
-2018-11-20,Serbia,4,1,Lithuania,False,False,,UEFA Nations League,2018
-2018-11-20,Kosovo,4,0,Azerbaijan,False,False,,UEFA Nations League,2018
-2018-11-20,Malta,1,1,Faroe Islands,False,False,,UEFA Nations League,2018
-2019-06-05,Portugal,3,1,Switzerland,False,False,,UEFA Nations League,2019
-2019-06-06,England,1,3,Netherlands,True,False,,UEFA Nations League,2019
-2019-06-09,Switzerland,0,0,England,True,False,,UEFA Nations League,2019
-2019-06-09,Portugal,1,0,Netherlands,False,False,,UEFA Nations League,2019
-2020-09-03,Germany,1,1,Spain,False,False,,UEFA Nations League,2020
-2020-09-03,Ukraine,2,1,Switzerland,False,False,,UEFA Nations League,2020
-2020-09-03,Russia,3,1,Serbia,False,False,,UEFA Nations League,2020
-2020-09-03,Turkey,0,1,Hungary,False,False,,UEFA Nations League,2020
-2020-09-03,Bulgaria,1,1,Republic of Ireland,False,False,,UEFA Nations League,2020
-2020-09-03,Finland,0,1,Wales,False,False,,UEFA Nations League,2020
-2020-09-03,Moldova,1,1,Kosovo,True,False,,UEFA Nations League,2020
-2020-09-03,Slovenia,0,0,Greece,False,False,,UEFA Nations League,2020
-2020-09-03,Latvia,0,0,Andorra,False,False,,UEFA Nations League,2020
-2020-09-03,Faroe Islands,3,2,Malta,False,False,,UEFA Nations League,2020
-2020-09-04,Italy,1,1,Bosnia and Herzegovina,False,False,,UEFA Nations League,2020
-2020-09-04,Netherlands,1,0,Poland,False,False,,UEFA Nations League,2020
-2020-09-04,Norway,1,2,Austria,False,False,,UEFA Nations League,2020
-2020-09-04,Romania,1,1,Northern Ireland,False,False,,UEFA Nations League,2020
-2020-09-04,Scotland,1,1,Israel,False,False,,UEFA Nations League,2020
-2020-09-04,Slovakia,1,3,Czech Republic,False,False,,UEFA Nations League,2020
-2020-09-04,Lithuania,0,2,Kazakhstan,False,False,,UEFA Nations League,2020
-2020-09-04,Belarus,0,2,Albania,False,False,,UEFA Nations League,2020
-2020-09-05,Iceland,0,1,England,False,False,,UEFA Nations League,2020
-2020-09-05,Denmark,0,2,Belgium,False,False,,UEFA Nations League,2020
-2020-09-05,Portugal,4,1,Croatia,False,False,,UEFA Nations League,2020
-2020-09-05,Sweden,0,1,France,False,False,,UEFA Nations League,2020
-2020-09-05,Cyprus,0,2,Montenegro,False,False,,UEFA Nations League,2020
-2020-09-05,Azerbaijan,1,2,Luxembourg,False,False,,UEFA Nations League,2020
-2020-09-05,North Macedonia,2,1,Armenia,False,False,,UEFA Nations League,2020
-2020-09-05,Estonia,0,1,Georgia,False,False,,UEFA Nations League,2020
-2020-09-05,Gibraltar,1,0,San Marino,False,False,,UEFA Nations League,2020
-2020-09-06,Spain,4,0,Ukraine,False,False,,UEFA Nations League,2020
-2020-09-06,Switzerland,1,1,Germany,False,False,,UEFA Nations League,2020
-2020-09-06,Hungary,2,3,Russia,False,False,,UEFA Nations League,2020
-2020-09-06,Serbia,0,0,Turkey,False,False,,UEFA Nations League,2020
-2020-09-06,Wales,1,0,Bulgaria,False,False,,UEFA Nations League,2020
-2020-09-06,Republic of Ireland,0,1,Finland,False,False,,UEFA Nations League,2020
-2020-09-06,Slovenia,1,0,Moldova,False,False,,UEFA Nations League,2020
-2020-09-06,Kosovo,1,2,Greece,False,False,,UEFA Nations League,2020
-2020-09-06,Andorra,0,1,Faroe Islands,False,False,,UEFA Nations League,2020
-2020-09-06,Malta,1,1,Latvia,False,False,,UEFA Nations League,2020
-2020-09-07,Bosnia and Herzegovina,1,2,Poland,False,False,,UEFA Nations League,2020
-2020-09-07,Netherlands,0,1,Italy,False,False,,UEFA Nations League,2020
-2020-09-07,Northern Ireland,1,5,Norway,False,False,,UEFA Nations League,2020
-2020-09-07,Austria,2,3,Romania,False,False,,UEFA Nations League,2020
-2020-09-07,Czech Republic,1,2,Scotland,False,False,,UEFA Nations League,2020
-2020-09-07,Israel,1,1,Slovakia,False,False,,UEFA Nations League,2020
-2020-09-07,Kazakhstan,1,2,Belarus,False,False,,UEFA Nations League,2020
-2020-09-07,Albania,0,1,Lithuania,False,False,,UEFA Nations League,2020
-2020-09-08,Belgium,5,1,Iceland,False,False,,UEFA Nations League,2020
-2020-09-08,Denmark,0,0,England,False,False,,UEFA Nations League,2020
-2020-09-08,France,4,2,Croatia,False,False,,UEFA Nations League,2020
-2020-09-08,Sweden,0,2,Portugal,False,False,,UEFA Nations League,2020
-2020-09-08,Luxembourg,0,1,Montenegro,False,False,,UEFA Nations League,2020
-2020-09-08,Cyprus,0,1,Azerbaijan,False,False,,UEFA Nations League,2020
-2020-09-08,Armenia,2,0,Estonia,False,False,,UEFA Nations League,2020
-2020-09-08,Georgia,1,1,North Macedonia,False,False,,UEFA Nations League,2020
-2020-09-08,San Marino,0,2,Liechtenstein,True,False,,UEFA Nations League,2020
-2020-10-10,Spain,1,0,Switzerland,False,False,,UEFA Nations League,2020
-2020-10-10,Ukraine,1,2,Germany,False,False,,UEFA Nations League,2020
-2020-10-10,Luxembourg,2,0,Cyprus,False,False,,UEFA Nations League,2020
-2020-10-10,Montenegro,2,0,Azerbaijan,False,False,,UEFA Nations League,2020
-2020-10-10,Faroe Islands,1,1,Latvia,False,False,,UEFA Nations League,2020
-2020-10-10,Andorra,0,0,Malta,False,False,,UEFA Nations League,2020
-2020-10-10,Liechtenstein,0,1,Gibraltar,False,False,,UEFA Nations League,2020
-2020-10-11,Bosnia and Herzegovina,0,0,Netherlands,False,False,,UEFA Nations League,2020
-2020-10-11,Poland,0,0,Italy,False,False,,UEFA Nations League,2020
-2020-10-11,England,2,1,Belgium,False,False,,UEFA Nations League,2020
-2020-10-11,Iceland,0,3,Denmark,False,False,,UEFA Nations League,2020
-2020-10-11,Croatia,2,1,Sweden,False,False,,UEFA Nations League,2020
-2020-10-11,France,0,0,Portugal,False,False,,UEFA Nations League,2020
-2020-10-11,Norway,4,0,Romania,False,False,,UEFA Nations League,2020
-2020-10-11,Northern Ireland,0,1,Austria,False,False,,UEFA Nations League,2020
-2020-10-11,Scotland,1,0,Slovakia,False,False,,UEFA Nations League,2020
-2020-10-11,Israel,1,2,Czech Republic,False,False,,UEFA Nations League,2020
-2020-10-11,Serbia,0,1,Hungary,False,False,,UEFA Nations League,2020
-2020-10-11,Russia,1,1,Turkey,False,False,,UEFA Nations League,2020
-2020-10-11,Republic of Ireland,0,0,Wales,False,False,,UEFA Nations League,2020
-2020-10-11,Finland,2,0,Bulgaria,False,False,,UEFA Nations League,2020
-2020-10-11,Armenia,2,2,Georgia,True,False,,UEFA Nations League,2020
-2020-10-11,Estonia,3,3,North Macedonia,False,False,,UEFA Nations League,2020
-2020-10-11,Kosovo,0,1,Slovenia,False,False,,UEFA Nations League,2020
-2020-10-11,Greece,2,0,Moldova,False,False,,UEFA Nations League,2020
-2020-10-11,Kazakhstan,0,0,Albania,False,False,,UEFA Nations League,2020
-2020-10-11,Lithuania,2,2,Belarus,False,False,,UEFA Nations League,2020
-2020-10-13,Germany,3,3,Switzerland,False,False,,UEFA Nations League,2020
-2020-10-13,Ukraine,1,0,Spain,False,False,,UEFA Nations League,2020
-2020-10-13,Azerbaijan,0,0,Cyprus,True,False,,UEFA Nations League,2020
-2020-10-13,Montenegro,1,2,Luxembourg,False,False,,UEFA Nations League,2020
-2020-10-13,Latvia,0,1,Malta,False,False,,UEFA Nations League,2020
-2020-10-13,Faroe Islands,2,0,Andorra,False,False,,UEFA Nations League,2020
-2020-10-13,Liechtenstein,0,0,San Marino,False,False,,UEFA Nations League,2020
-2020-10-14,Italy,1,1,Netherlands,False,False,,UEFA Nations League,2020
-2020-10-14,Poland,3,0,Bosnia and Herzegovina,False,False,,UEFA Nations League,2020
-2020-10-14,Iceland,1,2,Belgium,False,False,,UEFA Nations League,2020
-2020-10-14,England,0,1,Denmark,False,False,,UEFA Nations League,2020
-2020-10-14,Portugal,3,0,Sweden,False,False,,UEFA Nations League,2020
-2020-10-14,Croatia,1,2,France,False,False,,UEFA Nations League,2020
-2020-10-14,Norway,1,0,Northern Ireland,False,False,,UEFA Nations League,2020
-2020-10-14,Romania,0,1,Austria,False,False,,UEFA Nations League,2020
-2020-10-14,Scotland,1,0,Czech Republic,False,False,,UEFA Nations League,2020
-2020-10-14,Slovakia,2,3,Israel,False,False,,UEFA Nations League,2020
-2020-10-14,Russia,0,0,Hungary,False,False,,UEFA Nations League,2020
-2020-10-14,Turkey,2,2,Serbia,False,False,,UEFA Nations League,2020
-2020-10-14,Finland,1,0,Republic of Ireland,False,False,,UEFA Nations League,2020
-2020-10-14,Bulgaria,0,1,Wales,False,False,,UEFA Nations League,2020
-2020-10-14,North Macedonia,1,1,Georgia,False,False,,UEFA Nations League,2020
-2020-10-14,Estonia,1,1,Armenia,False,False,,UEFA Nations League,2020
-2020-10-14,Greece,0,0,Kosovo,False,False,,UEFA Nations League,2020
-2020-10-14,Moldova,0,4,Slovenia,False,False,,UEFA Nations League,2020
-2020-10-14,Lithuania,0,0,Albania,False,False,,UEFA Nations League,2020
-2020-10-14,Belarus,2,0,Kazakhstan,False,False,,UEFA Nations League,2020
-2020-11-14,Portugal,0,1,France,False,False,,UEFA Nations League,2020
-2020-11-14,Sweden,2,1,Croatia,False,False,,UEFA Nations League,2020
-2020-11-14,Germany,3,1,Ukraine,False,False,,UEFA Nations League,2020
-2020-11-14,Switzerland,1,1,Spain,False,False,,UEFA Nations League,2020
-2020-11-14,Azerbaijan,0,0,Montenegro,True,False,,UEFA Nations League,2020
-2020-11-14,Cyprus,2,1,Luxembourg,False,False,,UEFA Nations League,2020
-2020-11-14,Malta,3,1,Andorra,False,False,,UEFA Nations League,2020
-2020-11-14,Latvia,1,1,Faroe Islands,False,False,,UEFA Nations League,2020
-2020-11-14,San Marino,0,0,Gibraltar,False,False,,UEFA Nations League,2020
-2020-11-15,Netherlands,3,1,Bosnia and Herzegovina,False,False,,UEFA Nations League,2020
-2020-11-15,Italy,2,0,Poland,False,False,,UEFA Nations League,2020
-2020-11-15,Belgium,2,0,England,False,False,,UEFA Nations League,2020
-2020-11-15,Denmark,2,1,Iceland,False,False,,UEFA Nations League,2020
-2020-11-15,Austria,2,1,Northern Ireland,False,False,,UEFA Nations League,2020
-2020-11-15,Romania,3,0,Norway,False,False,,UEFA Nations League,2020
-2020-11-15,Slovakia,1,0,Scotland,False,False,,UEFA Nations League,2020
-2020-11-15,Czech Republic,1,0,Israel,False,False,,UEFA Nations League,2020
-2020-11-15,Turkey,3,2,Russia,False,False,,UEFA Nations League,2020
-2020-11-15,Hungary,1,1,Serbia,False,False,,UEFA Nations League,2020
-2020-11-15,Wales,1,0,Republic of Ireland,False,False,,UEFA Nations League,2020
-2020-11-15,Bulgaria,1,2,Finland,False,False,,UEFA Nations League,2020
-2020-11-15,North Macedonia,2,1,Estonia,False,False,,UEFA Nations League,2020
-2020-11-15,Georgia,1,2,Armenia,False,False,,UEFA Nations League,2020
-2020-11-15,Slovenia,2,1,Kosovo,False,False,,UEFA Nations League,2020
-2020-11-15,Moldova,0,2,Greece,False,False,,UEFA Nations League,2020
-2020-11-15,Albania,3,1,Kazakhstan,False,False,,UEFA Nations League,2020
-2020-11-15,Belarus,2,0,Lithuania,False,False,,UEFA Nations League,2020
-2020-11-17,Croatia,2,3,Portugal,False,False,,UEFA Nations League,2020
-2020-11-17,France,4,2,Sweden,False,False,,UEFA Nations League,2020
-2020-11-17,Spain,6,0,Germany,False,False,,UEFA Nations League,2020
-2020-11-17,Switzerland,3,0,Ukraine,False,False,,UEFA Nations League,2020
-2020-11-17,Luxembourg,0,0,Azerbaijan,False,False,,UEFA Nations League,2020
-2020-11-17,Montenegro,4,0,Cyprus,False,False,,UEFA Nations League,2020
-2020-11-17,Andorra,0,5,Latvia,False,False,,UEFA Nations League,2020
-2020-11-17,Malta,1,1,Faroe Islands,False,False,,UEFA Nations League,2020
-2020-11-17,Gibraltar,1,1,Liechtenstein,False,False,,UEFA Nations League,2020
-2020-11-18,Bosnia and Herzegovina,0,2,Italy,False,False,,UEFA Nations League,2020
-2020-11-18,Poland,1,2,Netherlands,False,False,,UEFA Nations League,2020
-2020-11-18,England,4,0,Iceland,False,False,,UEFA Nations League,2020
-2020-11-18,Belgium,4,2,Denmark,False,False,,UEFA Nations League,2020
-2020-11-18,Northern Ireland,1,1,Romania,False,False,,UEFA Nations League,2020
-2020-11-18,Austria,1,1,Norway,False,False,,UEFA Nations League,2020
-2020-11-18,Czech Republic,2,0,Slovakia,False,False,,UEFA Nations League,2020
-2020-11-18,Israel,1,0,Scotland,False,False,,UEFA Nations League,2020
-2020-11-18,Hungary,2,0,Turkey,False,False,,UEFA Nations League,2020
-2020-11-18,Serbia,5,0,Russia,False,False,,UEFA Nations League,2020
-2020-11-18,Republic of Ireland,0,0,Bulgaria,False,False,,UEFA Nations League,2020
-2020-11-18,Wales,3,1,Finland,False,False,,UEFA Nations League,2020
-2020-11-18,Armenia,1,0,North Macedonia,True,False,,UEFA Nations League,2020
-2020-11-18,Georgia,0,0,Estonia,False,False,,UEFA Nations League,2020
-2020-11-18,Kosovo,1,0,Moldova,False,False,,UEFA Nations League,2020
-2020-11-18,Greece,0,0,Slovenia,False,False,,UEFA Nations League,2020
-2020-11-18,Albania,3,2,Belarus,False,False,,UEFA Nations League,2020
-2020-11-18,Kazakhstan,1,2,Lithuania,False,False,,UEFA Nations League,2020
-2021-10-06,Italy,1,2,Spain,False,False,,UEFA Nations League,2021
-2021-10-07,Belgium,2,3,France,True,False,,UEFA Nations League,2021
-2021-10-10,Italy,2,1,Belgium,False,False,,UEFA Nations League,2021
-2021-10-10,Spain,1,2,France,True,False,,UEFA Nations League,2021
-2022-03-24,Estonia,0,0,Cyprus,False,False,,UEFA Nations League,2022
-2022-03-24,Moldova,1,2,Kazakhstan,False,False,,UEFA Nations League,2022
-2022-03-29,Cyprus,2,0,Estonia,False,False,,UEFA Nations League,2022
-2022-03-29,Kazakhstan,0,1,Moldova,False,False,,UEFA Nations League,2022
-2022-06-01,Poland,2,1,Wales,False,False,,UEFA Nations League,2022
-2022-06-02,Czech Republic,2,1,Switzerland,False,False,,UEFA Nations League,2022
-2022-06-02,Spain,1,1,Portugal,False,False,,UEFA Nations League,2022
-2022-06-02,Israel,2,2,Iceland,False,False,,UEFA Nations League,2022
-2022-06-02,Serbia,0,1,Norway,False,False,,UEFA Nations League,2022
-2022-06-02,Slovenia,0,2,Sweden,False,False,,UEFA Nations League,2022
-2022-06-02,Northern Ireland,0,1,Greece,False,False,,UEFA Nations League,2022
-2022-06-02,Cyprus,0,2,Kosovo,False,False,,UEFA Nations League,2022
-2022-06-02,Georgia,4,0,Gibraltar,False,False,,UEFA Nations League,2022
-2022-06-02,Bulgaria,1,1,North Macedonia,False,False,,UEFA Nations League,2022
-2022-06-02,Estonia,2,0,San Marino,False,False,,UEFA Nations League,2022
-2022-06-03,Croatia,0,3,Austria,False,False,,UEFA Nations League,2022
-2022-06-03,France,1,2,Denmark,False,False,,UEFA Nations League,2022
-2022-06-03,Belgium,1,4,Netherlands,False,False,,UEFA Nations League,2022
-2022-06-03,Kazakhstan,2,0,Azerbaijan,False,False,,UEFA Nations League,2022
-2022-06-03,Belarus,0,1,Slovakia,True,False,,UEFA Nations League,2022
-2022-06-03,Liechtenstein,0,2,Moldova,False,False,,UEFA Nations League,2022
-2022-06-03,Latvia,3,0,Andorra,False,False,,UEFA Nations League,2022
-2022-06-04,Hungary,1,0,England,False,False,,UEFA Nations League,2022
-2022-06-04,Italy,1,1,Germany,False,False,,UEFA Nations League,2022
-2022-06-04,Armenia,1,0,Republic of Ireland,False,False,,UEFA Nations League,2022
-2022-06-04,Finland,1,1,Bosnia and Herzegovina,False,False,,UEFA Nations League,2022
-2022-06-04,Montenegro,2,0,Romania,False,False,,UEFA Nations League,2022
-2022-06-04,Lithuania,0,2,Luxembourg,False,False,,UEFA Nations League,2022
-2022-06-04,Turkey,4,0,Faroe Islands,False,False,,UEFA Nations League,2022
-2022-06-05,Portugal,4,0,Switzerland,False,False,,UEFA Nations League,2022
-2022-06-05,Czech Republic,2,2,Spain,False,False,,UEFA Nations League,2022
-2022-06-05,Serbia,4,1,Slovenia,False,False,,UEFA Nations League,2022
-2022-06-05,Sweden,1,2,Norway,False,False,,UEFA Nations League,2022
-2022-06-05,Cyprus,0,0,Northern Ireland,False,False,,UEFA Nations League,2022
-2022-06-05,Kosovo,0,1,Greece,False,False,,UEFA Nations League,2022
-2022-06-05,Gibraltar,0,2,North Macedonia,False,False,,UEFA Nations League,2022
-2022-06-05,Bulgaria,2,5,Georgia,False,False,,UEFA Nations League,2022
-2022-06-05,San Marino,0,2,Malta,False,False,,UEFA Nations League,2022
-2022-06-06,Austria,1,2,Denmark,False,False,,UEFA Nations League,2022
-2022-06-06,Croatia,1,1,France,False,False,,UEFA Nations League,2022
-2022-06-06,Iceland,1,1,Albania,False,False,,UEFA Nations League,2022
-2022-06-06,Belarus,0,0,Azerbaijan,True,False,,UEFA Nations League,2022
-2022-06-06,Slovakia,0,1,Kazakhstan,False,False,,UEFA Nations League,2022
-2022-06-06,Latvia,1,0,Liechtenstein,False,False,,UEFA Nations League,2022
-2022-06-06,Andorra,0,0,Moldova,False,False,,UEFA Nations League,2022
-2022-06-07,Germany,1,1,England,False,False,,UEFA Nations League,2022
-2022-06-07,Italy,2,1,Hungary,False,False,,UEFA Nations League,2022
-2022-06-07,Finland,2,0,Montenegro,False,False,,UEFA Nations League,2022
-2022-06-07,Bosnia and Herzegovina,1,0,Romania,False,False,,UEFA Nations League,2022
-2022-06-07,Faroe Islands,0,1,Luxembourg,False,False,,UEFA Nations League,2022
-2022-06-07,Lithuania,0,6,Turkey,False,False,,UEFA Nations League,2022
-2022-06-08,Wales,1,2,Netherlands,False,False,,UEFA Nations League,2022
-2022-06-08,Belgium,6,1,Poland,False,False,,UEFA Nations League,2022
-2022-06-08,Republic of Ireland,0,1,Ukraine,False,False,,UEFA Nations League,2022
-2022-06-08,Scotland,2,0,Armenia,False,False,,UEFA Nations League,2022
-2022-06-09,Portugal,2,0,Czech Republic,False,False,,UEFA Nations League,2022
-2022-06-09,Switzerland,0,1,Spain,False,False,,UEFA Nations League,2022
-2022-06-09,Norway,0,0,Slovenia,False,False,,UEFA Nations League,2022
-2022-06-09,Sweden,0,1,Serbia,False,False,,UEFA Nations League,2022
-2022-06-09,Kosovo,3,2,Northern Ireland,False,False,,UEFA Nations League,2022
-2022-06-09,Greece,3,0,Cyprus,False,False,,UEFA Nations League,2022
-2022-06-09,Gibraltar,1,1,Bulgaria,False,False,,UEFA Nations League,2022
-2022-06-09,North Macedonia,0,3,Georgia,False,False,,UEFA Nations League,2022
-2022-06-09,Malta,1,2,Estonia,False,False,,UEFA Nations League,2022
-2022-06-10,Austria,1,1,France,False,False,,UEFA Nations League,2022
-2022-06-10,Denmark,0,1,Croatia,False,False,,UEFA Nations League,2022
-2022-06-10,Albania,1,2,Israel,False,False,,UEFA Nations League,2022
-2022-06-10,Azerbaijan,0,1,Slovakia,False,False,,UEFA Nations League,2022
-2022-06-10,Belarus,1,1,Kazakhstan,True,False,,UEFA Nations League,2022
-2022-06-10,Moldova,2,4,Latvia,False,False,,UEFA Nations League,2022
-2022-06-10,Andorra,2,1,Liechtenstein,False,False,,UEFA Nations League,2022
-2022-06-11,England,0,0,Italy,False,False,,UEFA Nations League,2022
-2022-06-11,Hungary,1,1,Germany,False,False,,UEFA Nations League,2022
-2022-06-11,Wales,1,1,Belgium,False,False,,UEFA Nations League,2022
-2022-06-11,Netherlands,2,2,Poland,False,False,,UEFA Nations League,2022
-2022-06-11,Ukraine,3,0,Armenia,True,False,,UEFA Nations League,2022
-2022-06-11,Republic of Ireland,3,0,Scotland,False,False,,UEFA Nations League,2022
-2022-06-11,Montenegro,1,1,Bosnia and Herzegovina,False,False,,UEFA Nations League,2022
-2022-06-11,Romania,1,0,Finland,False,False,,UEFA Nations League,2022
-2022-06-11,Faroe Islands,2,1,Lithuania,False,False,,UEFA Nations League,2022
-2022-06-11,Luxembourg,0,2,Turkey,False,False,,UEFA Nations League,2022
-2022-06-12,Spain,2,0,Czech Republic,False,False,,UEFA Nations League,2022
-2022-06-12,Switzerland,1,0,Portugal,False,False,,UEFA Nations League,2022
-2022-06-12,Norway,3,2,Sweden,False,False,,UEFA Nations League,2022
-2022-06-12,Slovenia,2,2,Serbia,False,False,,UEFA Nations League,2022
-2022-06-12,Northern Ireland,2,2,Cyprus,False,False,,UEFA Nations League,2022
-2022-06-12,Greece,2,0,Kosovo,False,False,,UEFA Nations League,2022
-2022-06-12,North Macedonia,4,0,Gibraltar,False,False,,UEFA Nations League,2022
-2022-06-12,Georgia,0,0,Bulgaria,False,False,,UEFA Nations League,2022
-2022-06-12,Malta,1,0,San Marino,False,False,,UEFA Nations League,2022
-2022-06-13,Denmark,2,0,Austria,False,False,,UEFA Nations League,2022
-2022-06-13,France,0,1,Croatia,False,False,,UEFA Nations League,2022
-2022-06-13,Iceland,2,2,Israel,False,False,,UEFA Nations League,2022
-2022-06-13,Azerbaijan,2,0,Belarus,False,False,,UEFA Nations League,2022
-2022-06-13,Kazakhstan,2,1,Slovakia,False,False,,UEFA Nations League,2022
-2022-06-14,England,0,4,Hungary,False,False,,UEFA Nations League,2022
-2022-06-14,Germany,5,2,Italy,False,False,,UEFA Nations League,2022
-2022-06-14,Netherlands,3,2,Wales,False,False,,UEFA Nations League,2022
-2022-06-14,Poland,0,1,Belgium,False,False,,UEFA Nations League,2022
-2022-06-14,Armenia,1,4,Scotland,False,False,,UEFA Nations League,2022
-2022-06-14,Ukraine,1,1,Republic of Ireland,True,False,,UEFA Nations League,2022
-2022-06-14,Bosnia and Herzegovina,3,2,Finland,False,False,,UEFA Nations League,2022
-2022-06-14,Romania,0,3,Montenegro,False,False,,UEFA Nations League,2022
-2022-06-14,Luxembourg,2,2,Faroe Islands,False,False,,UEFA Nations League,2022
-2022-06-14,Turkey,2,0,Lithuania,False,False,,UEFA Nations League,2022
-2022-06-14,Moldova,2,1,Andorra,False,False,,UEFA Nations League,2022
-2022-06-14,Liechtenstein,0,2,Latvia,False,False,,UEFA Nations League,2022
-2022-09-21,Scotland,3,0,Ukraine,False,False,,UEFA Nations League,2022
-2022-09-22,Croatia,2,1,Denmark,False,False,,UEFA Nations League,2022
-2022-09-22,France,2,0,Austria,False,False,,UEFA Nations League,2022
-2022-09-22,Belgium,2,1,Wales,False,False,,UEFA Nations League,2022
-2022-09-22,Poland,0,2,Netherlands,False,False,,UEFA Nations League,2022
-2022-09-22,Lithuania,1,1,Faroe Islands,False,False,,UEFA Nations League,2022
-2022-09-22,Turkey,3,3,Luxembourg,False,False,,UEFA Nations League,2022
-2022-09-22,Kazakhstan,2,1,Belarus,False,False,,UEFA Nations League,2022
-2022-09-22,Slovakia,1,2,Azerbaijan,False,False,,UEFA Nations League,2022
-2022-09-22,Latvia,1,2,Moldova,False,False,,UEFA Nations League,2022
-2022-09-22,Liechtenstein,0,2,Andorra,False,False,,UEFA Nations League,2022
-2022-09-23,Germany,0,1,Hungary,False,False,,UEFA Nations League,2022
-2022-09-23,Italy,1,0,England,False,False,,UEFA Nations League,2022
-2022-09-23,Bosnia and Herzegovina,1,0,Montenegro,False,False,,UEFA Nations League,2022
-2022-09-23,Finland,1,1,Romania,False,False,,UEFA Nations League,2022
-2022-09-23,Georgia,2,0,North Macedonia,False,False,,UEFA Nations League,2022
-2022-09-23,Bulgaria,5,1,Gibraltar,False,False,,UEFA Nations League,2022
-2022-09-23,Estonia,2,1,Malta,False,False,,UEFA Nations League,2022
-2022-09-24,Czech Republic,0,4,Portugal,False,False,,UEFA Nations League,2022
-2022-09-24,Spain,1,2,Switzerland,False,False,,UEFA Nations League,2022
-2022-09-24,Armenia,0,5,Ukraine,False,False,,UEFA Nations League,2022
-2022-09-24,Scotland,2,1,Republic of Ireland,False,False,,UEFA Nations League,2022
-2022-09-24,Israel,2,1,Albania,False,False,,UEFA Nations League,2022
-2022-09-24,Slovenia,2,1,Norway,False,False,,UEFA Nations League,2022
-2022-09-24,Serbia,4,1,Sweden,False,False,,UEFA Nations League,2022
-2022-09-24,Northern Ireland,2,1,Kosovo,False,False,,UEFA Nations League,2022
-2022-09-24,Cyprus,1,0,Greece,False,False,,UEFA Nations League,2022
-2022-09-25,Austria,1,3,Croatia,False,False,,UEFA Nations League,2022
-2022-09-25,Denmark,2,0,France,False,False,,UEFA Nations League,2022
-2022-09-25,Wales,0,1,Poland,False,False,,UEFA Nations League,2022
-2022-09-25,Netherlands,1,0,Belgium,False,False,,UEFA Nations League,2022
-2022-09-25,Faroe Islands,2,1,Turkey,False,False,,UEFA Nations League,2022
-2022-09-25,Luxembourg,1,0,Lithuania,False,False,,UEFA Nations League,2022
-2022-09-25,Slovakia,1,1,Belarus,True,False,,UEFA Nations League,2022
-2022-09-25,Azerbaijan,3,0,Kazakhstan,False,False,,UEFA Nations League,2022
-2022-09-25,Andorra,1,1,Latvia,False,False,,UEFA Nations League,2022
-2022-09-25,Moldova,2,0,Liechtenstein,False,False,,UEFA Nations League,2022
-2022-09-26,England,3,3,Germany,False,False,,UEFA Nations League,2022
-2022-09-26,Hungary,0,2,Italy,False,False,,UEFA Nations League,2022
-2022-09-26,Montenegro,0,2,Finland,False,False,,UEFA Nations League,2022
-2022-09-26,Romania,4,1,Bosnia and Herzegovina,False,False,,UEFA Nations League,2022
-2022-09-26,Gibraltar,1,2,Georgia,False,False,,UEFA Nations League,2022
-2022-09-26,North Macedonia,0,1,Bulgaria,False,False,,UEFA Nations League,2022
-2022-09-26,San Marino,0,4,Estonia,False,False,,UEFA Nations League,2022
-2022-09-27,Portugal,0,1,Spain,False,False,,UEFA Nations League,2022
-2022-09-27,Switzerland,2,1,Czech Republic,False,False,,UEFA Nations League,2022
-2022-09-27,Republic of Ireland,3,2,Armenia,False,False,,UEFA Nations League,2022
-2022-09-27,Ukraine,0,0,Scotland,True,False,,UEFA Nations League,2022
-2022-09-27,Albania,1,1,Iceland,False,False,,UEFA Nations League,2022
-2022-09-27,Norway,0,2,Serbia,False,False,,UEFA Nations League,2022
-2022-09-27,Sweden,1,1,Slovenia,False,False,,UEFA Nations League,2022
-2022-09-27,Kosovo,5,1,Cyprus,False,False,,UEFA Nations League,2022
-2022-09-27,Greece,3,1,Northern Ireland,False,False,,UEFA Nations League,2022
-2023-06-14,Netherlands,2,4,Croatia,False,False,,UEFA Nations League,2023
-2023-06-15,Spain,2,1,Italy,True,False,,UEFA Nations League,2023
-2023-06-18,Netherlands,2,3,Italy,False,False,,UEFA Nations League,2023
-2023-06-18,Croatia,0,0,Spain,True,False,,UEFA Nations League,2023
-2024-03-21,Gibraltar,0,1,Lithuania,True,False,,UEFA Nations League,2024
-2024-03-26,Lithuania,1,0,Gibraltar,False,False,,UEFA Nations League,2024
-2024-09-05,Portugal,2,1,Croatia,False,False,,UEFA Nations League,2024
-2024-09-05,Scotland,2,3,Poland,False,False,,UEFA Nations League,2024
-2024-09-05,Denmark,2,0,Switzerland,False,False,,UEFA Nations League,2024
-2024-09-05,Serbia,0,0,Spain,False,False,,UEFA Nations League,2024
-2024-09-05,Azerbaijan,1,3,Sweden,False,False,,UEFA Nations League,2024
-2024-09-05,Estonia,0,1,Slovakia,False,False,,UEFA Nations League,2024
-2024-09-05,Northern Ireland,2,0,Luxembourg,False,False,,UEFA Nations League,2024
-2024-09-05,Belarus,0,0,Bulgaria,True,False,,UEFA Nations League,2024
-2024-09-05,San Marino,1,0,Liechtenstein,False,False,,UEFA Nations League,2024
-2024-09-06,Belgium,3,1,Israel,True,False,,UEFA Nations League,2024
-2024-09-06,France,1,3,Italy,False,False,,UEFA Nations League,2024
-2024-09-06,Kazakhstan,0,0,Norway,False,False,,UEFA Nations League,2024
-2024-09-06,Slovenia,1,1,Austria,False,False,,UEFA Nations League,2024
-2024-09-06,Iceland,2,0,Montenegro,False,False,,UEFA Nations League,2024
-2024-09-06,Wales,0,0,Turkey,False,False,,UEFA Nations League,2024
-2024-09-06,Kosovo,0,3,Romania,False,False,,UEFA Nations League,2024
-2024-09-06,Lithuania,0,1,Cyprus,False,False,,UEFA Nations League,2024
-2024-09-07,Germany,5,0,Hungary,False,False,,UEFA Nations League,2024
-2024-09-07,Netherlands,5,2,Bosnia and Herzegovina,False,False,,UEFA Nations League,2024
-2024-09-07,Georgia,4,1,Czech Republic,False,False,,UEFA Nations League,2024
-2024-09-07,Ukraine,1,2,Albania,True,False,,UEFA Nations League,2024
-2024-09-07,Republic of Ireland,0,2,England,False,False,,UEFA Nations League,2024
-2024-09-07,Greece,3,0,Finland,False,False,,UEFA Nations League,2024
-2024-09-07,Faroe Islands,1,1,North Macedonia,False,False,,UEFA Nations League,2024
-2024-09-07,Armenia,4,1,Latvia,False,False,,UEFA Nations League,2024
-2024-09-07,Moldova,2,0,Malta,False,False,,UEFA Nations League,2024
-2024-09-08,Portugal,2,1,Scotland,False,False,,UEFA Nations League,2024
-2024-09-08,Croatia,1,0,Poland,False,False,,UEFA Nations League,2024
-2024-09-08,Denmark,2,0,Serbia,False,False,,UEFA Nations League,2024
-2024-09-08,Switzerland,1,4,Spain,False,False,,UEFA Nations League,2024
-2024-09-08,Slovakia,2,0,Azerbaijan,False,False,,UEFA Nations League,2024
-2024-09-08,Sweden,3,0,Estonia,False,False,,UEFA Nations League,2024
-2024-09-08,Luxembourg,0,1,Belarus,False,False,,UEFA Nations League,2024
-2024-09-08,Bulgaria,1,0,Northern Ireland,False,False,,UEFA Nations League,2024
-2024-09-08,Gibraltar,2,2,Liechtenstein,False,False,,UEFA Nations League,2024
-2024-09-09,France,2,0,Belgium,False,False,,UEFA Nations League,2024
-2024-09-09,Israel,1,2,Italy,True,False,,UEFA Nations League,2024
-2024-09-09,Norway,2,1,Austria,False,False,,UEFA Nations League,2024
-2024-09-09,Slovenia,3,0,Kazakhstan,False,False,,UEFA Nations League,2024
-2024-09-09,Montenegro,1,2,Wales,False,False,,UEFA Nations League,2024
-2024-09-09,Turkey,3,1,Iceland,False,False,,UEFA Nations League,2024
-2024-09-09,Cyprus,0,4,Kosovo,False,False,,UEFA Nations League,2024
-2024-09-09,Romania,3,1,Lithuania,False,False,,UEFA Nations League,2024
-2024-09-10,Hungary,0,0,Bosnia and Herzegovina,False,False,,UEFA Nations League,2024
-2024-09-10,Netherlands,2,2,Germany,False,False,,UEFA Nations League,2024
-2024-09-10,Albania,0,1,Georgia,False,False,,UEFA Nations League,2024
-2024-09-10,Czech Republic,3,2,Ukraine,False,False,,UEFA Nations League,2024
-2024-09-10,England,2,0,Finland,False,False,,UEFA Nations League,2024
-2024-09-10,Republic of Ireland,0,2,Greece,False,False,,UEFA Nations League,2024
-2024-09-10,Latvia,1,0,Faroe Islands,False,False,,UEFA Nations League,2024
-2024-09-10,North Macedonia,2,0,Armenia,False,False,,UEFA Nations League,2024
-2024-09-10,Andorra,0,1,Malta,False,False,,UEFA Nations League,2024
-2024-10-10,Israel,1,4,France,True,False,,UEFA Nations League,2024
-2024-10-10,Italy,2,2,Belgium,False,False,,UEFA Nations League,2024
-2024-10-10,England,1,2,Greece,False,False,,UEFA Nations League,2024
-2024-10-10,Finland,1,2,Republic of Ireland,False,False,,UEFA Nations League,2024
-2024-10-10,Austria,4,0,Kazakhstan,False,False,,UEFA Nations League,2024
-2024-10-10,Norway,3,0,Slovenia,False,False,,UEFA Nations League,2024
-2024-10-10,Latvia,0,3,North Macedonia,False,False,,UEFA Nations League,2024
-2024-10-10,Faroe Islands,2,2,Armenia,False,False,,UEFA Nations League,2024
-2024-10-10,Gibraltar,1,0,San Marino,False,False,,UEFA Nations League,2024
-2024-10-10,Moldova,2,0,Andorra,False,False,,UEFA Nations League,2024
-2024-10-11,Bosnia and Herzegovina,1,2,Germany,False,False,,UEFA Nations League,2024
-2024-10-11,Hungary,1,1,Netherlands,False,False,,UEFA Nations League,2024
-2024-10-11,Czech Republic,2,0,Albania,False,False,,UEFA Nations League,2024
-2024-10-11,Ukraine,1,0,Georgia,True,False,,UEFA Nations League,2024
-2024-10-11,Iceland,2,2,Wales,False,False,,UEFA Nations League,2024
-2024-10-11,Turkey,1,0,Montenegro,False,False,,UEFA Nations League,2024
-2024-10-11,Estonia,3,1,Azerbaijan,False,False,,UEFA Nations League,2024
-2024-10-11,Slovakia,2,2,Sweden,False,False,,UEFA Nations League,2024
-2024-10-12,Croatia,2,1,Scotland,False,False,,UEFA Nations League,2024
-2024-10-12,Poland,1,3,Portugal,False,False,,UEFA Nations League,2024
-2024-10-12,Serbia,2,0,Switzerland,False,False,,UEFA Nations League,2024
-2024-10-12,Spain,1,0,Denmark,False,False,,UEFA Nations League,2024
-2024-10-12,Lithuania,1,2,Kosovo,False,False,,UEFA Nations League,2024
-2024-10-12,Cyprus,0,3,Romania,False,False,,UEFA Nations League,2024
-2024-10-12,Bulgaria,0,0,Luxembourg,False,False,,UEFA Nations League,2024
-2024-10-12,Belarus,0,0,Northern Ireland,True,False,,UEFA Nations League,2024
-2024-10-13,Finland,1,3,England,False,False,,UEFA Nations League,2024
-2024-10-13,Greece,2,0,Republic of Ireland,False,False,,UEFA Nations League,2024
-2024-10-13,Kazakhstan,0,1,Slovenia,False,False,,UEFA Nations League,2024
-2024-10-13,Austria,5,1,Norway,False,False,,UEFA Nations League,2024
-2024-10-13,Faroe Islands,1,1,Latvia,False,False,,UEFA Nations League,2024
-2024-10-13,Armenia,0,2,North Macedonia,False,False,,UEFA Nations League,2024
-2024-10-13,Liechtenstein,0,0,Gibraltar,False,False,,UEFA Nations League,2024
-2024-10-13,Malta,1,0,Moldova,False,False,,UEFA Nations League,2024
-2024-10-14,Belgium,1,2,France,False,False,,UEFA Nations League,2024
-2024-10-14,Italy,4,1,Israel,False,False,,UEFA Nations League,2024
-2024-10-14,Bosnia and Herzegovina,0,2,Hungary,False,False,,UEFA Nations League,2024
-2024-10-14,Germany,1,0,Netherlands,False,False,,UEFA Nations League,2024
-2024-10-14,Georgia,0,1,Albania,False,False,,UEFA Nations League,2024
-2024-10-14,Ukraine,1,1,Czech Republic,True,False,,UEFA Nations League,2024
-2024-10-14,Iceland,2,4,Turkey,False,False,,UEFA Nations League,2024
-2024-10-14,Wales,1,0,Montenegro,False,False,,UEFA Nations League,2024
-2024-10-14,Azerbaijan,1,3,Slovakia,False,False,,UEFA Nations League,2024
-2024-10-14,Estonia,0,3,Sweden,False,False,,UEFA Nations League,2024
-2024-10-15,Scotland,0,0,Portugal,False,False,,UEFA Nations League,2024
-2024-10-15,Poland,3,3,Croatia,False,False,,UEFA Nations League,2024
-2024-10-15,Spain,3,0,Serbia,False,False,,UEFA Nations League,2024
-2024-10-15,Switzerland,2,2,Denmark,False,False,,UEFA Nations League,2024
-2024-10-15,Kosovo,3,0,Cyprus,False,False,,UEFA Nations League,2024
-2024-10-15,Lithuania,1,2,Romania,False,False,,UEFA Nations League,2024
-2024-10-15,Northern Ireland,5,0,Bulgaria,False,False,,UEFA Nations League,2024
-2024-10-15,Belarus,1,1,Luxembourg,True,False,,UEFA Nations League,2024
+2018-09-06,Germany,0,0,France,False,,,UEFA Nations League,2018
+2018-09-06,Czech Republic,1,2,Ukraine,False,,,UEFA Nations League,2018
+2018-09-06,Wales,4,1,Republic of Ireland,False,,,UEFA Nations League,2018
+2018-09-06,Norway,2,0,Cyprus,False,,,UEFA Nations League,2018
+2018-09-06,Slovenia,1,2,Bulgaria,False,,,UEFA Nations League,2018
+2018-09-06,Kazakhstan,0,2,Georgia,False,,,UEFA Nations League,2018
+2018-09-06,Latvia,0,0,Andorra,False,,,UEFA Nations League,2018
+2018-09-06,Armenia,2,1,Liechtenstein,False,,,UEFA Nations League,2018
+2018-09-06,Gibraltar,0,2,North Macedonia,False,,,UEFA Nations League,2018
+2018-09-07,Italy,1,1,Poland,False,,,UEFA Nations League,2018
+2018-09-07,Turkey,1,2,Russia,False,,,UEFA Nations League,2018
+2018-09-07,Albania,1,0,Israel,False,,,UEFA Nations League,2018
+2018-09-07,Lithuania,0,1,Serbia,False,,,UEFA Nations League,2018
+2018-09-07,Romania,0,0,Montenegro,False,,,UEFA Nations League,2018
+2018-09-07,Faroe Islands,3,1,Malta,False,,,UEFA Nations League,2018
+2018-09-07,Azerbaijan,0,0,Kosovo,False,,,UEFA Nations League,2018
+2018-09-08,Switzerland,6,0,Iceland,False,,,UEFA Nations League,2018
+2018-09-08,England,1,2,Spain,False,,,UEFA Nations League,2018
+2018-09-08,Northern Ireland,1,2,Bosnia and Herzegovina,False,,,UEFA Nations League,2018
+2018-09-08,Finland,1,0,Hungary,False,,,UEFA Nations League,2018
+2018-09-08,Estonia,0,1,Greece,False,,,UEFA Nations League,2018
+2018-09-08,Belarus,5,0,San Marino,False,,,UEFA Nations League,2018
+2018-09-08,Luxembourg,4,0,Moldova,False,,,UEFA Nations League,2018
+2018-09-09,France,2,1,Netherlands,False,,,UEFA Nations League,2018
+2018-09-09,Ukraine,1,0,Slovakia,False,,,UEFA Nations League,2018
+2018-09-09,Denmark,2,0,Wales,False,,,UEFA Nations League,2018
+2018-09-09,Bulgaria,1,0,Norway,False,,,UEFA Nations League,2018
+2018-09-09,Cyprus,2,1,Slovenia,False,,,UEFA Nations League,2018
+2018-09-09,Georgia,1,0,Latvia,False,,,UEFA Nations League,2018
+2018-09-09,North Macedonia,2,0,Armenia,False,,,UEFA Nations League,2018
+2018-09-09,Liechtenstein,2,0,Gibraltar,False,,,UEFA Nations League,2018
+2018-09-10,Portugal,1,0,Italy,False,,,UEFA Nations League,2018
+2018-09-10,Sweden,2,3,Turkey,False,,,UEFA Nations League,2018
+2018-09-10,Scotland,2,0,Albania,False,,,UEFA Nations League,2018
+2018-09-10,Montenegro,2,0,Lithuania,False,,,UEFA Nations League,2018
+2018-09-10,Serbia,2,2,Romania,False,,,UEFA Nations League,2018
+2018-09-10,Andorra,1,1,Kazakhstan,False,,,UEFA Nations League,2018
+2018-09-10,Kosovo,2,0,Faroe Islands,False,,,UEFA Nations League,2018
+2018-09-10,Malta,1,1,Azerbaijan,False,,,UEFA Nations League,2018
+2018-09-11,Iceland,0,3,Belgium,False,,,UEFA Nations League,2018
+2018-09-11,Spain,6,0,Croatia,False,,,UEFA Nations League,2018
+2018-09-11,Bosnia and Herzegovina,1,0,Austria,False,,,UEFA Nations League,2018
+2018-09-11,Hungary,2,1,Greece,False,,,UEFA Nations League,2018
+2018-09-11,Finland,1,0,Estonia,False,,,UEFA Nations League,2018
+2018-09-11,San Marino,0,3,Luxembourg,False,,,UEFA Nations League,2018
+2018-09-11,Moldova,0,0,Belarus,False,,,UEFA Nations League,2018
+2018-10-11,Poland,2,3,Portugal,False,,,UEFA Nations League,2018
+2018-10-11,Russia,0,0,Sweden,False,,,UEFA Nations League,2018
+2018-10-11,Israel,2,1,Scotland,False,,,UEFA Nations League,2018
+2018-10-11,Montenegro,0,2,Serbia,False,,,UEFA Nations League,2018
+2018-10-11,Lithuania,1,2,Romania,False,,,UEFA Nations League,2018
+2018-10-11,Faroe Islands,0,3,Azerbaijan,False,,,UEFA Nations League,2018
+2018-10-11,Kosovo,3,1,Malta,False,,,UEFA Nations League,2018
+2018-10-12,Belgium,2,1,Switzerland,False,,,UEFA Nations League,2018
+2018-10-12,Croatia,0,0,England,False,,,UEFA Nations League,2018
+2018-10-12,Austria,1,0,Northern Ireland,False,,,UEFA Nations League,2018
+2018-10-12,Estonia,0,1,Finland,False,,,UEFA Nations League,2018
+2018-10-12,Greece,1,0,Hungary,False,,,UEFA Nations League,2018
+2018-10-12,Belarus,1,0,Luxembourg,False,,,UEFA Nations League,2018
+2018-10-12,Moldova,2,0,San Marino,False,,,UEFA Nations League,2018
+2018-10-13,Netherlands,3,0,Germany,False,,,UEFA Nations League,2018
+2018-10-13,Slovakia,1,2,Czech Republic,False,,,UEFA Nations League,2018
+2018-10-13,Republic of Ireland,0,0,Denmark,False,,,UEFA Nations League,2018
+2018-10-13,Norway,1,0,Slovenia,False,,,UEFA Nations League,2018
+2018-10-13,Bulgaria,2,1,Cyprus,False,,,UEFA Nations League,2018
+2018-10-13,Latvia,1,1,Kazakhstan,False,,,UEFA Nations League,2018
+2018-10-13,Georgia,3,0,Andorra,False,,,UEFA Nations League,2018
+2018-10-13,Armenia,0,1,Gibraltar,False,,,UEFA Nations League,2018
+2018-10-13,North Macedonia,4,1,Liechtenstein,False,,,UEFA Nations League,2018
+2018-10-14,Poland,0,1,Italy,False,,,UEFA Nations League,2018
+2018-10-14,Russia,2,0,Turkey,False,,,UEFA Nations League,2018
+2018-10-14,Israel,2,0,Albania,False,,,UEFA Nations League,2018
+2018-10-14,Romania,0,0,Serbia,False,,,UEFA Nations League,2018
+2018-10-14,Lithuania,1,4,Montenegro,False,,,UEFA Nations League,2018
+2018-10-14,Faroe Islands,1,1,Kosovo,False,,,UEFA Nations League,2018
+2018-10-14,Azerbaijan,1,1,Malta,False,,,UEFA Nations League,2018
+2018-10-15,Iceland,1,2,Switzerland,False,,,UEFA Nations League,2018
+2018-10-15,Spain,2,3,England,False,,,UEFA Nations League,2018
+2018-10-15,Bosnia and Herzegovina,2,0,Northern Ireland,False,,,UEFA Nations League,2018
+2018-10-15,Estonia,3,3,Hungary,False,,,UEFA Nations League,2018
+2018-10-15,Finland,2,0,Greece,False,,,UEFA Nations League,2018
+2018-10-15,Luxembourg,3,0,San Marino,False,,,UEFA Nations League,2018
+2018-10-15,Belarus,0,0,Moldova,False,,,UEFA Nations League,2018
+2018-10-16,France,2,1,Germany,False,,,UEFA Nations League,2018
+2018-10-16,Ukraine,1,0,Czech Republic,False,,,UEFA Nations League,2018
+2018-10-16,Republic of Ireland,0,1,Wales,False,,,UEFA Nations League,2018
+2018-10-16,Norway,1,0,Bulgaria,False,,,UEFA Nations League,2018
+2018-10-16,Slovenia,1,1,Cyprus,False,,,UEFA Nations League,2018
+2018-10-16,Kazakhstan,4,0,Andorra,False,,,UEFA Nations League,2018
+2018-10-16,Latvia,0,3,Georgia,False,,,UEFA Nations League,2018
+2018-10-16,Armenia,4,0,North Macedonia,False,,,UEFA Nations League,2018
+2018-10-16,Gibraltar,2,1,Liechtenstein,False,,,UEFA Nations League,2018
+2018-11-15,Belgium,2,0,Iceland,False,,,UEFA Nations League,2018
+2018-11-15,Croatia,3,2,Spain,False,,,UEFA Nations League,2018
+2018-11-15,Austria,0,0,Bosnia and Herzegovina,False,,,UEFA Nations League,2018
+2018-11-15,Hungary,2,0,Estonia,False,,,UEFA Nations League,2018
+2018-11-15,Greece,1,0,Finland,False,,,UEFA Nations League,2018
+2018-11-15,Andorra,1,1,Georgia,False,,,UEFA Nations League,2018
+2018-11-15,Kazakhstan,1,1,Latvia,False,,,UEFA Nations League,2018
+2018-11-15,Luxembourg,0,2,Belarus,False,,,UEFA Nations League,2018
+2018-11-15,San Marino,0,1,Moldova,False,,,UEFA Nations League,2018
+2018-11-16,Netherlands,2,0,France,False,,,UEFA Nations League,2018
+2018-11-16,Slovakia,4,1,Ukraine,False,,,UEFA Nations League,2018
+2018-11-16,Wales,1,2,Denmark,False,,,UEFA Nations League,2018
+2018-11-16,Slovenia,1,1,Norway,False,,,UEFA Nations League,2018
+2018-11-16,Cyprus,1,1,Bulgaria,False,,,UEFA Nations League,2018
+2018-11-16,Gibraltar,2,6,Armenia,False,,,UEFA Nations League,2018
+2018-11-16,Liechtenstein,0,2,North Macedonia,False,,,UEFA Nations League,2018
+2018-11-17,Italy,0,0,Portugal,False,,,UEFA Nations League,2018
+2018-11-17,Turkey,0,1,Sweden,False,,,UEFA Nations League,2018
+2018-11-17,Albania,0,4,Scotland,False,,,UEFA Nations League,2018
+2018-11-17,Serbia,2,1,Montenegro,False,,,UEFA Nations League,2018
+2018-11-17,Romania,3,0,Lithuania,False,,,UEFA Nations League,2018
+2018-11-17,Malta,0,5,Kosovo,False,,,UEFA Nations League,2018
+2018-11-17,Azerbaijan,2,0,Faroe Islands,False,,,UEFA Nations League,2018
+2018-11-18,Switzerland,5,2,Belgium,False,,,UEFA Nations League,2018
+2018-11-18,England,2,1,Croatia,False,,,UEFA Nations League,2018
+2018-11-18,Northern Ireland,1,2,Austria,False,,,UEFA Nations League,2018
+2018-11-18,Greece,0,1,Estonia,False,,,UEFA Nations League,2018
+2018-11-18,Hungary,2,0,Finland,False,,,UEFA Nations League,2018
+2018-11-18,San Marino,0,2,Belarus,False,,,UEFA Nations League,2018
+2018-11-18,Moldova,1,1,Luxembourg,False,,,UEFA Nations League,2018
+2018-11-19,Germany,2,2,Netherlands,False,,,UEFA Nations League,2018
+2018-11-19,Czech Republic,1,0,Slovakia,False,,,UEFA Nations League,2018
+2018-11-19,Denmark,0,0,Republic of Ireland,False,,,UEFA Nations League,2018
+2018-11-19,Bulgaria,1,1,Slovenia,False,,,UEFA Nations League,2018
+2018-11-19,Cyprus,0,2,Norway,False,,,UEFA Nations League,2018
+2018-11-19,Andorra,0,0,Latvia,False,,,UEFA Nations League,2018
+2018-11-19,Georgia,2,1,Kazakhstan,False,,,UEFA Nations League,2018
+2018-11-19,North Macedonia,4,0,Gibraltar,False,,,UEFA Nations League,2018
+2018-11-19,Liechtenstein,2,2,Armenia,False,,,UEFA Nations League,2018
+2018-11-20,Portugal,1,1,Poland,False,,,UEFA Nations League,2018
+2018-11-20,Sweden,2,0,Russia,False,,,UEFA Nations League,2018
+2018-11-20,Scotland,3,2,Israel,False,,,UEFA Nations League,2018
+2018-11-20,Montenegro,0,1,Romania,False,,,UEFA Nations League,2018
+2018-11-20,Serbia,4,1,Lithuania,False,,,UEFA Nations League,2018
+2018-11-20,Kosovo,4,0,Azerbaijan,False,,,UEFA Nations League,2018
+2018-11-20,Malta,1,1,Faroe Islands,False,,,UEFA Nations League,2018
+2019-06-05,Portugal,3,1,Switzerland,False,,,UEFA Nations League,2019
+2019-06-06,England,1,3,Netherlands,True,,,UEFA Nations League,2019
+2019-06-09,Switzerland,0,0,England,True,,,UEFA Nations League,2019
+2019-06-09,Portugal,1,0,Netherlands,False,,,UEFA Nations League,2019
+2020-09-03,Germany,1,1,Spain,False,,,UEFA Nations League,2020
+2020-09-03,Ukraine,2,1,Switzerland,False,,,UEFA Nations League,2020
+2020-09-03,Russia,3,1,Serbia,False,,,UEFA Nations League,2020
+2020-09-03,Turkey,0,1,Hungary,False,,,UEFA Nations League,2020
+2020-09-03,Bulgaria,1,1,Republic of Ireland,False,,,UEFA Nations League,2020
+2020-09-03,Finland,0,1,Wales,False,,,UEFA Nations League,2020
+2020-09-03,Moldova,1,1,Kosovo,True,,,UEFA Nations League,2020
+2020-09-03,Slovenia,0,0,Greece,False,,,UEFA Nations League,2020
+2020-09-03,Latvia,0,0,Andorra,False,,,UEFA Nations League,2020
+2020-09-03,Faroe Islands,3,2,Malta,False,,,UEFA Nations League,2020
+2020-09-04,Italy,1,1,Bosnia and Herzegovina,False,,,UEFA Nations League,2020
+2020-09-04,Netherlands,1,0,Poland,False,,,UEFA Nations League,2020
+2020-09-04,Norway,1,2,Austria,False,,,UEFA Nations League,2020
+2020-09-04,Romania,1,1,Northern Ireland,False,,,UEFA Nations League,2020
+2020-09-04,Scotland,1,1,Israel,False,,,UEFA Nations League,2020
+2020-09-04,Slovakia,1,3,Czech Republic,False,,,UEFA Nations League,2020
+2020-09-04,Lithuania,0,2,Kazakhstan,False,,,UEFA Nations League,2020
+2020-09-04,Belarus,0,2,Albania,False,,,UEFA Nations League,2020
+2020-09-05,Iceland,0,1,England,False,,,UEFA Nations League,2020
+2020-09-05,Denmark,0,2,Belgium,False,,,UEFA Nations League,2020
+2020-09-05,Portugal,4,1,Croatia,False,,,UEFA Nations League,2020
+2020-09-05,Sweden,0,1,France,False,,,UEFA Nations League,2020
+2020-09-05,Cyprus,0,2,Montenegro,False,,,UEFA Nations League,2020
+2020-09-05,Azerbaijan,1,2,Luxembourg,False,,,UEFA Nations League,2020
+2020-09-05,North Macedonia,2,1,Armenia,False,,,UEFA Nations League,2020
+2020-09-05,Estonia,0,1,Georgia,False,,,UEFA Nations League,2020
+2020-09-05,Gibraltar,1,0,San Marino,False,,,UEFA Nations League,2020
+2020-09-06,Spain,4,0,Ukraine,False,,,UEFA Nations League,2020
+2020-09-06,Switzerland,1,1,Germany,False,,,UEFA Nations League,2020
+2020-09-06,Hungary,2,3,Russia,False,,,UEFA Nations League,2020
+2020-09-06,Serbia,0,0,Turkey,False,,,UEFA Nations League,2020
+2020-09-06,Wales,1,0,Bulgaria,False,,,UEFA Nations League,2020
+2020-09-06,Republic of Ireland,0,1,Finland,False,,,UEFA Nations League,2020
+2020-09-06,Slovenia,1,0,Moldova,False,,,UEFA Nations League,2020
+2020-09-06,Kosovo,1,2,Greece,False,,,UEFA Nations League,2020
+2020-09-06,Andorra,0,1,Faroe Islands,False,,,UEFA Nations League,2020
+2020-09-06,Malta,1,1,Latvia,False,,,UEFA Nations League,2020
+2020-09-07,Bosnia and Herzegovina,1,2,Poland,False,,,UEFA Nations League,2020
+2020-09-07,Netherlands,0,1,Italy,False,,,UEFA Nations League,2020
+2020-09-07,Northern Ireland,1,5,Norway,False,,,UEFA Nations League,2020
+2020-09-07,Austria,2,3,Romania,False,,,UEFA Nations League,2020
+2020-09-07,Czech Republic,1,2,Scotland,False,,,UEFA Nations League,2020
+2020-09-07,Israel,1,1,Slovakia,False,,,UEFA Nations League,2020
+2020-09-07,Kazakhstan,1,2,Belarus,False,,,UEFA Nations League,2020
+2020-09-07,Albania,0,1,Lithuania,False,,,UEFA Nations League,2020
+2020-09-08,Belgium,5,1,Iceland,False,,,UEFA Nations League,2020
+2020-09-08,Denmark,0,0,England,False,,,UEFA Nations League,2020
+2020-09-08,France,4,2,Croatia,False,,,UEFA Nations League,2020
+2020-09-08,Sweden,0,2,Portugal,False,,,UEFA Nations League,2020
+2020-09-08,Luxembourg,0,1,Montenegro,False,,,UEFA Nations League,2020
+2020-09-08,Cyprus,0,1,Azerbaijan,False,,,UEFA Nations League,2020
+2020-09-08,Armenia,2,0,Estonia,False,,,UEFA Nations League,2020
+2020-09-08,Georgia,1,1,North Macedonia,False,,,UEFA Nations League,2020
+2020-09-08,San Marino,0,2,Liechtenstein,True,,,UEFA Nations League,2020
+2020-10-10,Spain,1,0,Switzerland,False,,,UEFA Nations League,2020
+2020-10-10,Ukraine,1,2,Germany,False,,,UEFA Nations League,2020
+2020-10-10,Luxembourg,2,0,Cyprus,False,,,UEFA Nations League,2020
+2020-10-10,Montenegro,2,0,Azerbaijan,False,,,UEFA Nations League,2020
+2020-10-10,Faroe Islands,1,1,Latvia,False,,,UEFA Nations League,2020
+2020-10-10,Andorra,0,0,Malta,False,,,UEFA Nations League,2020
+2020-10-10,Liechtenstein,0,1,Gibraltar,False,,,UEFA Nations League,2020
+2020-10-11,Bosnia and Herzegovina,0,0,Netherlands,False,,,UEFA Nations League,2020
+2020-10-11,Poland,0,0,Italy,False,,,UEFA Nations League,2020
+2020-10-11,England,2,1,Belgium,False,,,UEFA Nations League,2020
+2020-10-11,Iceland,0,3,Denmark,False,,,UEFA Nations League,2020
+2020-10-11,Croatia,2,1,Sweden,False,,,UEFA Nations League,2020
+2020-10-11,France,0,0,Portugal,False,,,UEFA Nations League,2020
+2020-10-11,Norway,4,0,Romania,False,,,UEFA Nations League,2020
+2020-10-11,Northern Ireland,0,1,Austria,False,,,UEFA Nations League,2020
+2020-10-11,Scotland,1,0,Slovakia,False,,,UEFA Nations League,2020
+2020-10-11,Israel,1,2,Czech Republic,False,,,UEFA Nations League,2020
+2020-10-11,Serbia,0,1,Hungary,False,,,UEFA Nations League,2020
+2020-10-11,Russia,1,1,Turkey,False,,,UEFA Nations League,2020
+2020-10-11,Republic of Ireland,0,0,Wales,False,,,UEFA Nations League,2020
+2020-10-11,Finland,2,0,Bulgaria,False,,,UEFA Nations League,2020
+2020-10-11,Armenia,2,2,Georgia,True,,,UEFA Nations League,2020
+2020-10-11,Estonia,3,3,North Macedonia,False,,,UEFA Nations League,2020
+2020-10-11,Kosovo,0,1,Slovenia,False,,,UEFA Nations League,2020
+2020-10-11,Greece,2,0,Moldova,False,,,UEFA Nations League,2020
+2020-10-11,Kazakhstan,0,0,Albania,False,,,UEFA Nations League,2020
+2020-10-11,Lithuania,2,2,Belarus,False,,,UEFA Nations League,2020
+2020-10-13,Germany,3,3,Switzerland,False,,,UEFA Nations League,2020
+2020-10-13,Ukraine,1,0,Spain,False,,,UEFA Nations League,2020
+2020-10-13,Azerbaijan,0,0,Cyprus,True,,,UEFA Nations League,2020
+2020-10-13,Montenegro,1,2,Luxembourg,False,,,UEFA Nations League,2020
+2020-10-13,Latvia,0,1,Malta,False,,,UEFA Nations League,2020
+2020-10-13,Faroe Islands,2,0,Andorra,False,,,UEFA Nations League,2020
+2020-10-13,Liechtenstein,0,0,San Marino,False,,,UEFA Nations League,2020
+2020-10-14,Italy,1,1,Netherlands,False,,,UEFA Nations League,2020
+2020-10-14,Poland,3,0,Bosnia and Herzegovina,False,,,UEFA Nations League,2020
+2020-10-14,Iceland,1,2,Belgium,False,,,UEFA Nations League,2020
+2020-10-14,England,0,1,Denmark,False,,,UEFA Nations League,2020
+2020-10-14,Portugal,3,0,Sweden,False,,,UEFA Nations League,2020
+2020-10-14,Croatia,1,2,France,False,,,UEFA Nations League,2020
+2020-10-14,Norway,1,0,Northern Ireland,False,,,UEFA Nations League,2020
+2020-10-14,Romania,0,1,Austria,False,,,UEFA Nations League,2020
+2020-10-14,Scotland,1,0,Czech Republic,False,,,UEFA Nations League,2020
+2020-10-14,Slovakia,2,3,Israel,False,,,UEFA Nations League,2020
+2020-10-14,Russia,0,0,Hungary,False,,,UEFA Nations League,2020
+2020-10-14,Turkey,2,2,Serbia,False,,,UEFA Nations League,2020
+2020-10-14,Finland,1,0,Republic of Ireland,False,,,UEFA Nations League,2020
+2020-10-14,Bulgaria,0,1,Wales,False,,,UEFA Nations League,2020
+2020-10-14,North Macedonia,1,1,Georgia,False,,,UEFA Nations League,2020
+2020-10-14,Estonia,1,1,Armenia,False,,,UEFA Nations League,2020
+2020-10-14,Greece,0,0,Kosovo,False,,,UEFA Nations League,2020
+2020-10-14,Moldova,0,4,Slovenia,False,,,UEFA Nations League,2020
+2020-10-14,Lithuania,0,0,Albania,False,,,UEFA Nations League,2020
+2020-10-14,Belarus,2,0,Kazakhstan,False,,,UEFA Nations League,2020
+2020-11-14,Portugal,0,1,France,False,,,UEFA Nations League,2020
+2020-11-14,Sweden,2,1,Croatia,False,,,UEFA Nations League,2020
+2020-11-14,Germany,3,1,Ukraine,False,,,UEFA Nations League,2020
+2020-11-14,Switzerland,1,1,Spain,False,,,UEFA Nations League,2020
+2020-11-14,Azerbaijan,0,0,Montenegro,True,,,UEFA Nations League,2020
+2020-11-14,Cyprus,2,1,Luxembourg,False,,,UEFA Nations League,2020
+2020-11-14,Malta,3,1,Andorra,False,,,UEFA Nations League,2020
+2020-11-14,Latvia,1,1,Faroe Islands,False,,,UEFA Nations League,2020
+2020-11-14,San Marino,0,0,Gibraltar,False,,,UEFA Nations League,2020
+2020-11-15,Netherlands,3,1,Bosnia and Herzegovina,False,,,UEFA Nations League,2020
+2020-11-15,Italy,2,0,Poland,False,,,UEFA Nations League,2020
+2020-11-15,Belgium,2,0,England,False,,,UEFA Nations League,2020
+2020-11-15,Denmark,2,1,Iceland,False,,,UEFA Nations League,2020
+2020-11-15,Austria,2,1,Northern Ireland,False,,,UEFA Nations League,2020
+2020-11-15,Romania,3,0,Norway,False,,,UEFA Nations League,2020
+2020-11-15,Slovakia,1,0,Scotland,False,,,UEFA Nations League,2020
+2020-11-15,Czech Republic,1,0,Israel,False,,,UEFA Nations League,2020
+2020-11-15,Turkey,3,2,Russia,False,,,UEFA Nations League,2020
+2020-11-15,Hungary,1,1,Serbia,False,,,UEFA Nations League,2020
+2020-11-15,Wales,1,0,Republic of Ireland,False,,,UEFA Nations League,2020
+2020-11-15,Bulgaria,1,2,Finland,False,,,UEFA Nations League,2020
+2020-11-15,North Macedonia,2,1,Estonia,False,,,UEFA Nations League,2020
+2020-11-15,Georgia,1,2,Armenia,False,,,UEFA Nations League,2020
+2020-11-15,Slovenia,2,1,Kosovo,False,,,UEFA Nations League,2020
+2020-11-15,Moldova,0,2,Greece,False,,,UEFA Nations League,2020
+2020-11-15,Albania,3,1,Kazakhstan,False,,,UEFA Nations League,2020
+2020-11-15,Belarus,2,0,Lithuania,False,,,UEFA Nations League,2020
+2020-11-17,Croatia,2,3,Portugal,False,,,UEFA Nations League,2020
+2020-11-17,France,4,2,Sweden,False,,,UEFA Nations League,2020
+2020-11-17,Spain,6,0,Germany,False,,,UEFA Nations League,2020
+2020-11-17,Switzerland,3,0,Ukraine,False,,,UEFA Nations League,2020
+2020-11-17,Luxembourg,0,0,Azerbaijan,False,,,UEFA Nations League,2020
+2020-11-17,Montenegro,4,0,Cyprus,False,,,UEFA Nations League,2020
+2020-11-17,Andorra,0,5,Latvia,False,,,UEFA Nations League,2020
+2020-11-17,Malta,1,1,Faroe Islands,False,,,UEFA Nations League,2020
+2020-11-17,Gibraltar,1,1,Liechtenstein,False,,,UEFA Nations League,2020
+2020-11-18,Bosnia and Herzegovina,0,2,Italy,False,,,UEFA Nations League,2020
+2020-11-18,Poland,1,2,Netherlands,False,,,UEFA Nations League,2020
+2020-11-18,England,4,0,Iceland,False,,,UEFA Nations League,2020
+2020-11-18,Belgium,4,2,Denmark,False,,,UEFA Nations League,2020
+2020-11-18,Northern Ireland,1,1,Romania,False,,,UEFA Nations League,2020
+2020-11-18,Austria,1,1,Norway,False,,,UEFA Nations League,2020
+2020-11-18,Czech Republic,2,0,Slovakia,False,,,UEFA Nations League,2020
+2020-11-18,Israel,1,0,Scotland,False,,,UEFA Nations League,2020
+2020-11-18,Hungary,2,0,Turkey,False,,,UEFA Nations League,2020
+2020-11-18,Serbia,5,0,Russia,False,,,UEFA Nations League,2020
+2020-11-18,Republic of Ireland,0,0,Bulgaria,False,,,UEFA Nations League,2020
+2020-11-18,Wales,3,1,Finland,False,,,UEFA Nations League,2020
+2020-11-18,Armenia,1,0,North Macedonia,True,,,UEFA Nations League,2020
+2020-11-18,Georgia,0,0,Estonia,False,,,UEFA Nations League,2020
+2020-11-18,Kosovo,1,0,Moldova,False,,,UEFA Nations League,2020
+2020-11-18,Greece,0,0,Slovenia,False,,,UEFA Nations League,2020
+2020-11-18,Albania,3,2,Belarus,False,,,UEFA Nations League,2020
+2020-11-18,Kazakhstan,1,2,Lithuania,False,,,UEFA Nations League,2020
+2021-10-06,Italy,1,2,Spain,False,,,UEFA Nations League,2021
+2021-10-07,Belgium,2,3,France,True,,,UEFA Nations League,2021
+2021-10-10,Italy,2,1,Belgium,False,,,UEFA Nations League,2021
+2021-10-10,Spain,1,2,France,True,,,UEFA Nations League,2021
+2022-03-24,Estonia,0,0,Cyprus,False,,,UEFA Nations League,2022
+2022-03-24,Moldova,1,2,Kazakhstan,False,,,UEFA Nations League,2022
+2022-03-29,Cyprus,2,0,Estonia,False,,,UEFA Nations League,2022
+2022-03-29,Kazakhstan,0,1,Moldova,False,,,UEFA Nations League,2022
+2022-06-01,Poland,2,1,Wales,False,,,UEFA Nations League,2022
+2022-06-02,Czech Republic,2,1,Switzerland,False,,,UEFA Nations League,2022
+2022-06-02,Spain,1,1,Portugal,False,,,UEFA Nations League,2022
+2022-06-02,Israel,2,2,Iceland,False,,,UEFA Nations League,2022
+2022-06-02,Serbia,0,1,Norway,False,,,UEFA Nations League,2022
+2022-06-02,Slovenia,0,2,Sweden,False,,,UEFA Nations League,2022
+2022-06-02,Northern Ireland,0,1,Greece,False,,,UEFA Nations League,2022
+2022-06-02,Cyprus,0,2,Kosovo,False,,,UEFA Nations League,2022
+2022-06-02,Georgia,4,0,Gibraltar,False,,,UEFA Nations League,2022
+2022-06-02,Bulgaria,1,1,North Macedonia,False,,,UEFA Nations League,2022
+2022-06-02,Estonia,2,0,San Marino,False,,,UEFA Nations League,2022
+2022-06-03,Croatia,0,3,Austria,False,,,UEFA Nations League,2022
+2022-06-03,France,1,2,Denmark,False,,,UEFA Nations League,2022
+2022-06-03,Belgium,1,4,Netherlands,False,,,UEFA Nations League,2022
+2022-06-03,Kazakhstan,2,0,Azerbaijan,False,,,UEFA Nations League,2022
+2022-06-03,Belarus,0,1,Slovakia,True,,,UEFA Nations League,2022
+2022-06-03,Liechtenstein,0,2,Moldova,False,,,UEFA Nations League,2022
+2022-06-03,Latvia,3,0,Andorra,False,,,UEFA Nations League,2022
+2022-06-04,Hungary,1,0,England,False,,,UEFA Nations League,2022
+2022-06-04,Italy,1,1,Germany,False,,,UEFA Nations League,2022
+2022-06-04,Armenia,1,0,Republic of Ireland,False,,,UEFA Nations League,2022
+2022-06-04,Finland,1,1,Bosnia and Herzegovina,False,,,UEFA Nations League,2022
+2022-06-04,Montenegro,2,0,Romania,False,,,UEFA Nations League,2022
+2022-06-04,Lithuania,0,2,Luxembourg,False,,,UEFA Nations League,2022
+2022-06-04,Turkey,4,0,Faroe Islands,False,,,UEFA Nations League,2022
+2022-06-05,Portugal,4,0,Switzerland,False,,,UEFA Nations League,2022
+2022-06-05,Czech Republic,2,2,Spain,False,,,UEFA Nations League,2022
+2022-06-05,Serbia,4,1,Slovenia,False,,,UEFA Nations League,2022
+2022-06-05,Sweden,1,2,Norway,False,,,UEFA Nations League,2022
+2022-06-05,Cyprus,0,0,Northern Ireland,False,,,UEFA Nations League,2022
+2022-06-05,Kosovo,0,1,Greece,False,,,UEFA Nations League,2022
+2022-06-05,Gibraltar,0,2,North Macedonia,False,,,UEFA Nations League,2022
+2022-06-05,Bulgaria,2,5,Georgia,False,,,UEFA Nations League,2022
+2022-06-05,San Marino,0,2,Malta,False,,,UEFA Nations League,2022
+2022-06-06,Austria,1,2,Denmark,False,,,UEFA Nations League,2022
+2022-06-06,Croatia,1,1,France,False,,,UEFA Nations League,2022
+2022-06-06,Iceland,1,1,Albania,False,,,UEFA Nations League,2022
+2022-06-06,Belarus,0,0,Azerbaijan,True,,,UEFA Nations League,2022
+2022-06-06,Slovakia,0,1,Kazakhstan,False,,,UEFA Nations League,2022
+2022-06-06,Latvia,1,0,Liechtenstein,False,,,UEFA Nations League,2022
+2022-06-06,Andorra,0,0,Moldova,False,,,UEFA Nations League,2022
+2022-06-07,Germany,1,1,England,False,,,UEFA Nations League,2022
+2022-06-07,Italy,2,1,Hungary,False,,,UEFA Nations League,2022
+2022-06-07,Finland,2,0,Montenegro,False,,,UEFA Nations League,2022
+2022-06-07,Bosnia and Herzegovina,1,0,Romania,False,,,UEFA Nations League,2022
+2022-06-07,Faroe Islands,0,1,Luxembourg,False,,,UEFA Nations League,2022
+2022-06-07,Lithuania,0,6,Turkey,False,,,UEFA Nations League,2022
+2022-06-08,Wales,1,2,Netherlands,False,,,UEFA Nations League,2022
+2022-06-08,Belgium,6,1,Poland,False,,,UEFA Nations League,2022
+2022-06-08,Republic of Ireland,0,1,Ukraine,False,,,UEFA Nations League,2022
+2022-06-08,Scotland,2,0,Armenia,False,,,UEFA Nations League,2022
+2022-06-09,Portugal,2,0,Czech Republic,False,,,UEFA Nations League,2022
+2022-06-09,Switzerland,0,1,Spain,False,,,UEFA Nations League,2022
+2022-06-09,Norway,0,0,Slovenia,False,,,UEFA Nations League,2022
+2022-06-09,Sweden,0,1,Serbia,False,,,UEFA Nations League,2022
+2022-06-09,Kosovo,3,2,Northern Ireland,False,,,UEFA Nations League,2022
+2022-06-09,Greece,3,0,Cyprus,False,,,UEFA Nations League,2022
+2022-06-09,Gibraltar,1,1,Bulgaria,False,,,UEFA Nations League,2022
+2022-06-09,North Macedonia,0,3,Georgia,False,,,UEFA Nations League,2022
+2022-06-09,Malta,1,2,Estonia,False,,,UEFA Nations League,2022
+2022-06-10,Austria,1,1,France,False,,,UEFA Nations League,2022
+2022-06-10,Denmark,0,1,Croatia,False,,,UEFA Nations League,2022
+2022-06-10,Albania,1,2,Israel,False,,,UEFA Nations League,2022
+2022-06-10,Azerbaijan,0,1,Slovakia,False,,,UEFA Nations League,2022
+2022-06-10,Belarus,1,1,Kazakhstan,True,,,UEFA Nations League,2022
+2022-06-10,Moldova,2,4,Latvia,False,,,UEFA Nations League,2022
+2022-06-10,Andorra,2,1,Liechtenstein,False,,,UEFA Nations League,2022
+2022-06-11,England,0,0,Italy,False,,,UEFA Nations League,2022
+2022-06-11,Hungary,1,1,Germany,False,,,UEFA Nations League,2022
+2022-06-11,Wales,1,1,Belgium,False,,,UEFA Nations League,2022
+2022-06-11,Netherlands,2,2,Poland,False,,,UEFA Nations League,2022
+2022-06-11,Ukraine,3,0,Armenia,True,,,UEFA Nations League,2022
+2022-06-11,Republic of Ireland,3,0,Scotland,False,,,UEFA Nations League,2022
+2022-06-11,Montenegro,1,1,Bosnia and Herzegovina,False,,,UEFA Nations League,2022
+2022-06-11,Romania,1,0,Finland,False,,,UEFA Nations League,2022
+2022-06-11,Faroe Islands,2,1,Lithuania,False,,,UEFA Nations League,2022
+2022-06-11,Luxembourg,0,2,Turkey,False,,,UEFA Nations League,2022
+2022-06-12,Spain,2,0,Czech Republic,False,,,UEFA Nations League,2022
+2022-06-12,Switzerland,1,0,Portugal,False,,,UEFA Nations League,2022
+2022-06-12,Norway,3,2,Sweden,False,,,UEFA Nations League,2022
+2022-06-12,Slovenia,2,2,Serbia,False,,,UEFA Nations League,2022
+2022-06-12,Northern Ireland,2,2,Cyprus,False,,,UEFA Nations League,2022
+2022-06-12,Greece,2,0,Kosovo,False,,,UEFA Nations League,2022
+2022-06-12,North Macedonia,4,0,Gibraltar,False,,,UEFA Nations League,2022
+2022-06-12,Georgia,0,0,Bulgaria,False,,,UEFA Nations League,2022
+2022-06-12,Malta,1,0,San Marino,False,,,UEFA Nations League,2022
+2022-06-13,Denmark,2,0,Austria,False,,,UEFA Nations League,2022
+2022-06-13,France,0,1,Croatia,False,,,UEFA Nations League,2022
+2022-06-13,Iceland,2,2,Israel,False,,,UEFA Nations League,2022
+2022-06-13,Azerbaijan,2,0,Belarus,False,,,UEFA Nations League,2022
+2022-06-13,Kazakhstan,2,1,Slovakia,False,,,UEFA Nations League,2022
+2022-06-14,England,0,4,Hungary,False,,,UEFA Nations League,2022
+2022-06-14,Germany,5,2,Italy,False,,,UEFA Nations League,2022
+2022-06-14,Netherlands,3,2,Wales,False,,,UEFA Nations League,2022
+2022-06-14,Poland,0,1,Belgium,False,,,UEFA Nations League,2022
+2022-06-14,Armenia,1,4,Scotland,False,,,UEFA Nations League,2022
+2022-06-14,Ukraine,1,1,Republic of Ireland,True,,,UEFA Nations League,2022
+2022-06-14,Bosnia and Herzegovina,3,2,Finland,False,,,UEFA Nations League,2022
+2022-06-14,Romania,0,3,Montenegro,False,,,UEFA Nations League,2022
+2022-06-14,Luxembourg,2,2,Faroe Islands,False,,,UEFA Nations League,2022
+2022-06-14,Turkey,2,0,Lithuania,False,,,UEFA Nations League,2022
+2022-06-14,Moldova,2,1,Andorra,False,,,UEFA Nations League,2022
+2022-06-14,Liechtenstein,0,2,Latvia,False,,,UEFA Nations League,2022
+2022-09-21,Scotland,3,0,Ukraine,False,,,UEFA Nations League,2022
+2022-09-22,Croatia,2,1,Denmark,False,,,UEFA Nations League,2022
+2022-09-22,France,2,0,Austria,False,,,UEFA Nations League,2022
+2022-09-22,Belgium,2,1,Wales,False,,,UEFA Nations League,2022
+2022-09-22,Poland,0,2,Netherlands,False,,,UEFA Nations League,2022
+2022-09-22,Lithuania,1,1,Faroe Islands,False,,,UEFA Nations League,2022
+2022-09-22,Turkey,3,3,Luxembourg,False,,,UEFA Nations League,2022
+2022-09-22,Kazakhstan,2,1,Belarus,False,,,UEFA Nations League,2022
+2022-09-22,Slovakia,1,2,Azerbaijan,False,,,UEFA Nations League,2022
+2022-09-22,Latvia,1,2,Moldova,False,,,UEFA Nations League,2022
+2022-09-22,Liechtenstein,0,2,Andorra,False,,,UEFA Nations League,2022
+2022-09-23,Germany,0,1,Hungary,False,,,UEFA Nations League,2022
+2022-09-23,Italy,1,0,England,False,,,UEFA Nations League,2022
+2022-09-23,Bosnia and Herzegovina,1,0,Montenegro,False,,,UEFA Nations League,2022
+2022-09-23,Finland,1,1,Romania,False,,,UEFA Nations League,2022
+2022-09-23,Georgia,2,0,North Macedonia,False,,,UEFA Nations League,2022
+2022-09-23,Bulgaria,5,1,Gibraltar,False,,,UEFA Nations League,2022
+2022-09-23,Estonia,2,1,Malta,False,,,UEFA Nations League,2022
+2022-09-24,Czech Republic,0,4,Portugal,False,,,UEFA Nations League,2022
+2022-09-24,Spain,1,2,Switzerland,False,,,UEFA Nations League,2022
+2022-09-24,Armenia,0,5,Ukraine,False,,,UEFA Nations League,2022
+2022-09-24,Scotland,2,1,Republic of Ireland,False,,,UEFA Nations League,2022
+2022-09-24,Israel,2,1,Albania,False,,,UEFA Nations League,2022
+2022-09-24,Slovenia,2,1,Norway,False,,,UEFA Nations League,2022
+2022-09-24,Serbia,4,1,Sweden,False,,,UEFA Nations League,2022
+2022-09-24,Northern Ireland,2,1,Kosovo,False,,,UEFA Nations League,2022
+2022-09-24,Cyprus,1,0,Greece,False,,,UEFA Nations League,2022
+2022-09-25,Austria,1,3,Croatia,False,,,UEFA Nations League,2022
+2022-09-25,Denmark,2,0,France,False,,,UEFA Nations League,2022
+2022-09-25,Wales,0,1,Poland,False,,,UEFA Nations League,2022
+2022-09-25,Netherlands,1,0,Belgium,False,,,UEFA Nations League,2022
+2022-09-25,Faroe Islands,2,1,Turkey,False,,,UEFA Nations League,2022
+2022-09-25,Luxembourg,1,0,Lithuania,False,,,UEFA Nations League,2022
+2022-09-25,Slovakia,1,1,Belarus,True,,,UEFA Nations League,2022
+2022-09-25,Azerbaijan,3,0,Kazakhstan,False,,,UEFA Nations League,2022
+2022-09-25,Andorra,1,1,Latvia,False,,,UEFA Nations League,2022
+2022-09-25,Moldova,2,0,Liechtenstein,False,,,UEFA Nations League,2022
+2022-09-26,England,3,3,Germany,False,,,UEFA Nations League,2022
+2022-09-26,Hungary,0,2,Italy,False,,,UEFA Nations League,2022
+2022-09-26,Montenegro,0,2,Finland,False,,,UEFA Nations League,2022
+2022-09-26,Romania,4,1,Bosnia and Herzegovina,False,,,UEFA Nations League,2022
+2022-09-26,Gibraltar,1,2,Georgia,False,,,UEFA Nations League,2022
+2022-09-26,North Macedonia,0,1,Bulgaria,False,,,UEFA Nations League,2022
+2022-09-26,San Marino,0,4,Estonia,False,,,UEFA Nations League,2022
+2022-09-27,Portugal,0,1,Spain,False,,,UEFA Nations League,2022
+2022-09-27,Switzerland,2,1,Czech Republic,False,,,UEFA Nations League,2022
+2022-09-27,Republic of Ireland,3,2,Armenia,False,,,UEFA Nations League,2022
+2022-09-27,Ukraine,0,0,Scotland,True,,,UEFA Nations League,2022
+2022-09-27,Albania,1,1,Iceland,False,,,UEFA Nations League,2022
+2022-09-27,Norway,0,2,Serbia,False,,,UEFA Nations League,2022
+2022-09-27,Sweden,1,1,Slovenia,False,,,UEFA Nations League,2022
+2022-09-27,Kosovo,5,1,Cyprus,False,,,UEFA Nations League,2022
+2022-09-27,Greece,3,1,Northern Ireland,False,,,UEFA Nations League,2022
+2023-06-14,Netherlands,2,4,Croatia,False,,,UEFA Nations League,2023
+2023-06-15,Spain,2,1,Italy,True,,,UEFA Nations League,2023
+2023-06-18,Netherlands,2,3,Italy,False,,,UEFA Nations League,2023
+2023-06-18,Croatia,0,0,Spain,True,,,UEFA Nations League,2023
+2024-03-21,Gibraltar,0,1,Lithuania,True,,,UEFA Nations League,2024
+2024-03-26,Lithuania,1,0,Gibraltar,False,,,UEFA Nations League,2024
+2024-09-05,Portugal,2,1,Croatia,False,,,UEFA Nations League,2024
+2024-09-05,Scotland,2,3,Poland,False,,,UEFA Nations League,2024
+2024-09-05,Denmark,2,0,Switzerland,False,,,UEFA Nations League,2024
+2024-09-05,Serbia,0,0,Spain,False,,,UEFA Nations League,2024
+2024-09-05,Azerbaijan,1,3,Sweden,False,,,UEFA Nations League,2024
+2024-09-05,Estonia,0,1,Slovakia,False,,,UEFA Nations League,2024
+2024-09-05,Northern Ireland,2,0,Luxembourg,False,,,UEFA Nations League,2024
+2024-09-05,Belarus,0,0,Bulgaria,True,,,UEFA Nations League,2024
+2024-09-05,San Marino,1,0,Liechtenstein,False,,,UEFA Nations League,2024
+2024-09-06,Belgium,3,1,Israel,True,,,UEFA Nations League,2024
+2024-09-06,France,1,3,Italy,False,,,UEFA Nations League,2024
+2024-09-06,Kazakhstan,0,0,Norway,False,,,UEFA Nations League,2024
+2024-09-06,Slovenia,1,1,Austria,False,,,UEFA Nations League,2024
+2024-09-06,Iceland,2,0,Montenegro,False,,,UEFA Nations League,2024
+2024-09-06,Wales,0,0,Turkey,False,,,UEFA Nations League,2024
+2024-09-06,Kosovo,0,3,Romania,False,,,UEFA Nations League,2024
+2024-09-06,Lithuania,0,1,Cyprus,False,,,UEFA Nations League,2024
+2024-09-07,Germany,5,0,Hungary,False,,,UEFA Nations League,2024
+2024-09-07,Netherlands,5,2,Bosnia and Herzegovina,False,,,UEFA Nations League,2024
+2024-09-07,Georgia,4,1,Czech Republic,False,,,UEFA Nations League,2024
+2024-09-07,Ukraine,1,2,Albania,True,,,UEFA Nations League,2024
+2024-09-07,Republic of Ireland,0,2,England,False,,,UEFA Nations League,2024
+2024-09-07,Greece,3,0,Finland,False,,,UEFA Nations League,2024
+2024-09-07,Faroe Islands,1,1,North Macedonia,False,,,UEFA Nations League,2024
+2024-09-07,Armenia,4,1,Latvia,False,,,UEFA Nations League,2024
+2024-09-07,Moldova,2,0,Malta,False,,,UEFA Nations League,2024
+2024-09-08,Portugal,2,1,Scotland,False,,,UEFA Nations League,2024
+2024-09-08,Croatia,1,0,Poland,False,,,UEFA Nations League,2024
+2024-09-08,Denmark,2,0,Serbia,False,,,UEFA Nations League,2024
+2024-09-08,Switzerland,1,4,Spain,False,,,UEFA Nations League,2024
+2024-09-08,Slovakia,2,0,Azerbaijan,False,,,UEFA Nations League,2024
+2024-09-08,Sweden,3,0,Estonia,False,,,UEFA Nations League,2024
+2024-09-08,Luxembourg,0,1,Belarus,False,,,UEFA Nations League,2024
+2024-09-08,Bulgaria,1,0,Northern Ireland,False,,,UEFA Nations League,2024
+2024-09-08,Gibraltar,2,2,Liechtenstein,False,,,UEFA Nations League,2024
+2024-09-09,France,2,0,Belgium,False,,,UEFA Nations League,2024
+2024-09-09,Israel,1,2,Italy,True,,,UEFA Nations League,2024
+2024-09-09,Norway,2,1,Austria,False,,,UEFA Nations League,2024
+2024-09-09,Slovenia,3,0,Kazakhstan,False,,,UEFA Nations League,2024
+2024-09-09,Montenegro,1,2,Wales,False,,,UEFA Nations League,2024
+2024-09-09,Turkey,3,1,Iceland,False,,,UEFA Nations League,2024
+2024-09-09,Cyprus,0,4,Kosovo,False,,,UEFA Nations League,2024
+2024-09-09,Romania,3,1,Lithuania,False,,,UEFA Nations League,2024
+2024-09-10,Hungary,0,0,Bosnia and Herzegovina,False,,,UEFA Nations League,2024
+2024-09-10,Netherlands,2,2,Germany,False,,,UEFA Nations League,2024
+2024-09-10,Albania,0,1,Georgia,False,,,UEFA Nations League,2024
+2024-09-10,Czech Republic,3,2,Ukraine,False,,,UEFA Nations League,2024
+2024-09-10,England,2,0,Finland,False,,,UEFA Nations League,2024
+2024-09-10,Republic of Ireland,0,2,Greece,False,,,UEFA Nations League,2024
+2024-09-10,Latvia,1,0,Faroe Islands,False,,,UEFA Nations League,2024
+2024-09-10,North Macedonia,2,0,Armenia,False,,,UEFA Nations League,2024
+2024-09-10,Andorra,0,1,Malta,False,,,UEFA Nations League,2024
+2024-10-10,Israel,1,4,France,True,,,UEFA Nations League,2024
+2024-10-10,Italy,2,2,Belgium,False,,,UEFA Nations League,2024
+2024-10-10,England,1,2,Greece,False,,,UEFA Nations League,2024
+2024-10-10,Finland,1,2,Republic of Ireland,False,,,UEFA Nations League,2024
+2024-10-10,Austria,4,0,Kazakhstan,False,,,UEFA Nations League,2024
+2024-10-10,Norway,3,0,Slovenia,False,,,UEFA Nations League,2024
+2024-10-10,Latvia,0,3,North Macedonia,False,,,UEFA Nations League,2024
+2024-10-10,Faroe Islands,2,2,Armenia,False,,,UEFA Nations League,2024
+2024-10-10,Gibraltar,1,0,San Marino,False,,,UEFA Nations League,2024
+2024-10-10,Moldova,2,0,Andorra,False,,,UEFA Nations League,2024
+2024-10-11,Bosnia and Herzegovina,1,2,Germany,False,,,UEFA Nations League,2024
+2024-10-11,Hungary,1,1,Netherlands,False,,,UEFA Nations League,2024
+2024-10-11,Czech Republic,2,0,Albania,False,,,UEFA Nations League,2024
+2024-10-11,Ukraine,1,0,Georgia,True,,,UEFA Nations League,2024
+2024-10-11,Iceland,2,2,Wales,False,,,UEFA Nations League,2024
+2024-10-11,Turkey,1,0,Montenegro,False,,,UEFA Nations League,2024
+2024-10-11,Estonia,3,1,Azerbaijan,False,,,UEFA Nations League,2024
+2024-10-11,Slovakia,2,2,Sweden,False,,,UEFA Nations League,2024
+2024-10-12,Croatia,2,1,Scotland,False,,,UEFA Nations League,2024
+2024-10-12,Poland,1,3,Portugal,False,,,UEFA Nations League,2024
+2024-10-12,Serbia,2,0,Switzerland,False,,,UEFA Nations League,2024
+2024-10-12,Spain,1,0,Denmark,False,,,UEFA Nations League,2024
+2024-10-12,Lithuania,1,2,Kosovo,False,,,UEFA Nations League,2024
+2024-10-12,Cyprus,0,3,Romania,False,,,UEFA Nations League,2024
+2024-10-12,Bulgaria,0,0,Luxembourg,False,,,UEFA Nations League,2024
+2024-10-12,Belarus,0,0,Northern Ireland,True,,,UEFA Nations League,2024
+2024-10-13,Finland,1,3,England,False,,,UEFA Nations League,2024
+2024-10-13,Greece,2,0,Republic of Ireland,False,,,UEFA Nations League,2024
+2024-10-13,Kazakhstan,0,1,Slovenia,False,,,UEFA Nations League,2024
+2024-10-13,Austria,5,1,Norway,False,,,UEFA Nations League,2024
+2024-10-13,Faroe Islands,1,1,Latvia,False,,,UEFA Nations League,2024
+2024-10-13,Armenia,0,2,North Macedonia,False,,,UEFA Nations League,2024
+2024-10-13,Liechtenstein,0,0,Gibraltar,False,,,UEFA Nations League,2024
+2024-10-13,Malta,1,0,Moldova,False,,,UEFA Nations League,2024
+2024-10-14,Belgium,1,2,France,False,,,UEFA Nations League,2024
+2024-10-14,Italy,4,1,Israel,False,,,UEFA Nations League,2024
+2024-10-14,Bosnia and Herzegovina,0,2,Hungary,False,,,UEFA Nations League,2024
+2024-10-14,Germany,1,0,Netherlands,False,,,UEFA Nations League,2024
+2024-10-14,Georgia,0,1,Albania,False,,,UEFA Nations League,2024
+2024-10-14,Ukraine,1,1,Czech Republic,True,,,UEFA Nations League,2024
+2024-10-14,Iceland,2,4,Turkey,False,,,UEFA Nations League,2024
+2024-10-14,Wales,1,0,Montenegro,False,,,UEFA Nations League,2024
+2024-10-14,Azerbaijan,1,3,Slovakia,False,,,UEFA Nations League,2024
+2024-10-14,Estonia,0,3,Sweden,False,,,UEFA Nations League,2024
+2024-10-15,Scotland,0,0,Portugal,False,,,UEFA Nations League,2024
+2024-10-15,Poland,3,3,Croatia,False,,,UEFA Nations League,2024
+2024-10-15,Spain,3,0,Serbia,False,,,UEFA Nations League,2024
+2024-10-15,Switzerland,2,2,Denmark,False,,,UEFA Nations League,2024
+2024-10-15,Kosovo,3,0,Cyprus,False,,,UEFA Nations League,2024
+2024-10-15,Lithuania,1,2,Romania,False,,,UEFA Nations League,2024
+2024-10-15,Northern Ireland,5,0,Bulgaria,False,,,UEFA Nations League,2024
+2024-10-15,Belarus,1,1,Luxembourg,True,,,UEFA Nations League,2024

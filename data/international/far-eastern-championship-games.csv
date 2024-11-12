@@ -1,31 +1,31 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1913-02-04,Philippines,2,1,China PR,False,False,,Far Eastern Championship Games,1913
-1915-05-18,China PR,0,0,Philippines,False,False,,Far Eastern Championship Games,1915
-1915-05-19,China PR,1,0,Philippines,False,False,,Far Eastern Championship Games,1915
-1917-05-09,Japan,0,5,China PR,False,False,,Far Eastern Championship Games,1917
-1917-05-10,Japan,2,15,Philippines,False,False,,Far Eastern Championship Games,1917
-1917-05-11,China PR,3,0,Philippines,True,False,,Far Eastern Championship Games,1917
-1919-05-12,China PR,2,0,Philippines,False,False,,Far Eastern Championship Games,1919
-1919-05-13,China PR,1,2,Philippines,False,False,,Far Eastern Championship Games,1919
-1919-05-15,China PR,2,1,Philippines,False,False,,Far Eastern Championship Games,1919
-1921-05-30,Philippines,3,1,Japan,True,False,,Far Eastern Championship Games,1921
-1921-05-31,China PR,1,0,Philippines,False,False,,Far Eastern Championship Games,1921
-1921-06-01,China PR,4,0,Japan,False,False,,Far Eastern Championship Games,1921
-1923-05-22,China PR,3,0,Philippines,True,False,,Far Eastern Championship Games,1923
-1923-05-23,Japan,1,2,Philippines,False,False,,Far Eastern Championship Games,1923
-1923-05-24,Japan,1,5,China PR,False,False,,Far Eastern Championship Games,1923
-1925-05-18,Philippines,4,0,Japan,False,False,,Far Eastern Championship Games,1925
-1925-05-20,Japan,0,2,China PR,True,False,,Far Eastern Championship Games,1925
-1925-05-22,Philippines,1,5,China PR,False,False,,Far Eastern Championship Games,1925
-1927-08-27,China PR,5,1,Japan,False,False,,Far Eastern Championship Games,1927
-1927-08-29,Japan,2,1,Philippines,True,False,,Far Eastern Championship Games,1927
-1927-08-31,China PR,3,1,Philippines,False,False,,Far Eastern Championship Games,1927
-1930-05-25,Japan,7,2,Philippines,False,False,,Far Eastern Championship Games,1930
-1930-05-27,China PR,5,0,Philippines,True,False,,Far Eastern Championship Games,1930
-1930-05-30,Japan,3,3,China PR,False,False,,Far Eastern Championship Games,1930
-1934-05-12,Philippines,0,2,China PR,False,False,,Far Eastern Championship Games,1934
-1934-05-13,Japan,1,7,Indonesia,True,False,,Far Eastern Championship Games,1934
-1934-05-14,China PR,2,0,Indonesia,True,False,,Far Eastern Championship Games,1934
-1934-05-15,Philippines,3,4,Japan,False,False,,Far Eastern Championship Games,1934
-1934-05-19,Philippines,3,2,Indonesia,False,False,,Far Eastern Championship Games,1934
-1934-05-20,China PR,4,3,Japan,True,False,,Far Eastern Championship Games,1934
+1913-02-04,Philippines,2,1,China PR,False,,,Far Eastern Championship Games,1913
+1915-05-18,China PR,0,0,Philippines,False,,,Far Eastern Championship Games,1915
+1915-05-19,China PR,1,0,Philippines,False,,,Far Eastern Championship Games,1915
+1917-05-09,Japan,0,5,China PR,False,,,Far Eastern Championship Games,1917
+1917-05-10,Japan,2,15,Philippines,False,,,Far Eastern Championship Games,1917
+1917-05-11,China PR,3,0,Philippines,True,,,Far Eastern Championship Games,1917
+1919-05-12,China PR,2,0,Philippines,False,,,Far Eastern Championship Games,1919
+1919-05-13,China PR,1,2,Philippines,False,,,Far Eastern Championship Games,1919
+1919-05-15,China PR,2,1,Philippines,False,,,Far Eastern Championship Games,1919
+1921-05-30,Philippines,3,1,Japan,True,,,Far Eastern Championship Games,1921
+1921-05-31,China PR,1,0,Philippines,False,,,Far Eastern Championship Games,1921
+1921-06-01,China PR,4,0,Japan,False,,,Far Eastern Championship Games,1921
+1923-05-22,China PR,3,0,Philippines,True,,,Far Eastern Championship Games,1923
+1923-05-23,Japan,1,2,Philippines,False,,,Far Eastern Championship Games,1923
+1923-05-24,Japan,1,5,China PR,False,,,Far Eastern Championship Games,1923
+1925-05-18,Philippines,4,0,Japan,False,,,Far Eastern Championship Games,1925
+1925-05-20,Japan,0,2,China PR,True,,,Far Eastern Championship Games,1925
+1925-05-22,Philippines,1,5,China PR,False,,,Far Eastern Championship Games,1925
+1927-08-27,China PR,5,1,Japan,False,,,Far Eastern Championship Games,1927
+1927-08-29,Japan,2,1,Philippines,True,,,Far Eastern Championship Games,1927
+1927-08-31,China PR,3,1,Philippines,False,,,Far Eastern Championship Games,1927
+1930-05-25,Japan,7,2,Philippines,False,,,Far Eastern Championship Games,1930
+1930-05-27,China PR,5,0,Philippines,True,,,Far Eastern Championship Games,1930
+1930-05-30,Japan,3,3,China PR,False,,,Far Eastern Championship Games,1930
+1934-05-12,Philippines,0,2,China PR,False,,,Far Eastern Championship Games,1934
+1934-05-13,Japan,1,7,Indonesia,True,,,Far Eastern Championship Games,1934
+1934-05-14,China PR,2,0,Indonesia,True,,,Far Eastern Championship Games,1934
+1934-05-15,Philippines,3,4,Japan,False,,,Far Eastern Championship Games,1934
+1934-05-19,Philippines,3,2,Indonesia,False,,,Far Eastern Championship Games,1934
+1934-05-20,China PR,4,3,Japan,True,,,Far Eastern Championship Games,1934

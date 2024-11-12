@@ -1,4 +1,4 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2016-08-25,Barawa,0,5,Tamil Eelam,False,False,,World Unity Cup,2016
-2016-08-26,Barawa,2,3,Chagos Islands,False,False,,World Unity Cup,2016
-2016-08-28,Chagos Islands,1,5,Tamil Eelam,True,False,,World Unity Cup,2016
+2016-08-25,Barawa,0,5,Tamil Eelam,False,,,World Unity Cup,2016
+2016-08-26,Barawa,2,3,Chagos Islands,False,,,World Unity Cup,2016
+2016-08-28,Chagos Islands,1,5,Tamil Eelam,True,,,World Unity Cup,2016

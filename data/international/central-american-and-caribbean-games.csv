@@ -1,64 +1,64 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1930-03-16,Cuba,3,1,Jamaica,False,False,,Central American and Caribbean Games,1930
-1930-03-17,Costa Rica,8,1,Guatemala,True,False,,Central American and Caribbean Games,1930
-1930-03-18,Honduras,5,4,Jamaica,True,False,,Central American and Caribbean Games,1930
-1930-03-19,El Salvador,8,2,Guatemala,True,False,,Central American and Caribbean Games,1930
-1930-03-20,Cuba,7,0,Honduras,False,False,,Central American and Caribbean Games,1930
-1930-03-22,Costa Rica,9,2,El Salvador,True,False,,Central American and Caribbean Games,1930
-1930-03-23,Cuba,5,0,Honduras,False,False,,Central American and Caribbean Games,1930
-1930-03-26,Costa Rica,5,0,El Salvador,True,False,,Central American and Caribbean Games,1930
-1930-03-29,El Salvador,1,4,Honduras,True,False,,Central American and Caribbean Games,1930
-1930-03-30,Cuba,2,1,Costa Rica,False,False,,Central American and Caribbean Games,1930
-1930-04-01,Cuba,5,2,El Salvador,False,False,,Central American and Caribbean Games,1930
-1930-04-04,Costa Rica,8,0,Honduras,True,False,,Central American and Caribbean Games,1930
-1935-03-24,El Salvador,4,1,Cuba,False,False,,Central American and Caribbean Games,1935
-1935-03-25,Costa Rica,4,3,Guatemala,True,False,,Central American and Caribbean Games,1935
-1935-03-25,Cuba,3,0,Honduras,True,False,,Central American and Caribbean Games,1935
-1935-03-27,El Salvador,1,8,Mexico,False,False,,Central American and Caribbean Games,1935
-1935-03-27,Cuba,2,1,Guatemala,True,False,,Central American and Caribbean Games,1935
-1935-03-28,El Salvador,3,4,Honduras,False,False,,Central American and Caribbean Games,1935
-1935-03-28,Mexico,5,1,Guatemala,True,False,,Central American and Caribbean Games,1935
-1935-03-30,Mexico,6,1,Cuba,True,False,,Central American and Caribbean Games,1935
-1935-03-30,El Salvador,1,6,Costa Rica,False,False,,Central American and Caribbean Games,1935
-1935-03-31,Honduras,0,0,Guatemala,True,False,,Central American and Caribbean Games,1935
-1935-03-31,Costa Rica,2,1,Cuba,True,False,,Central American and Caribbean Games,1935
-1935-04-01,Mexico,8,2,Honduras,True,False,,Central American and Caribbean Games,1935
-1935-04-02,Mexico,2,0,Costa Rica,True,False,,Central American and Caribbean Games,1935
-1935-04-03,Costa Rica,6,0,Honduras,True,False,,Central American and Caribbean Games,1935
-1935-04-03,El Salvador,6,1,Guatemala,False,False,,Central American and Caribbean Games,1935
-1938-02-10,Mexico,3,1,Colombia,True,False,,Central American and Caribbean Games,1938
-1938-02-12,Costa Rica,7,0,El Salvador,True,False,,Central American and Caribbean Games,1938
-1938-02-12,Panama,2,1,Venezuela,False,False,,Central American and Caribbean Games,1938
-1938-02-14,Panama,2,4,Colombia,False,False,,Central American and Caribbean Games,1938
-1938-02-14,Mexico,1,0,Venezuela,True,False,,Central American and Caribbean Games,1938
-1938-02-16,Panama,0,11,Costa Rica,False,False,,Central American and Caribbean Games,1938
-1938-02-16,El Salvador,3,2,Venezuela,True,False,,Central American and Caribbean Games,1938
-1938-02-18,Colombia,1,2,Costa Rica,True,False,,Central American and Caribbean Games,1938
-1938-02-18,Mexico,6,0,El Salvador,True,False,,Central American and Caribbean Games,1938
-1938-02-20,Panama,2,2,Mexico,False,False,,Central American and Caribbean Games,1938
-1938-02-20,Venezuela,0,3,Costa Rica,True,False,,Central American and Caribbean Games,1938
-1938-02-21,Colombia,3,2,El Salvador,True,False,,Central American and Caribbean Games,1938
-1938-02-22,Mexico,2,1,Costa Rica,True,False,,Central American and Caribbean Games,1938
-1938-02-23,Venezuela,2,1,Colombia,True,False,,Central American and Caribbean Games,1938
-1938-02-23,Panama,1,2,El Salvador,False,False,,Central American and Caribbean Games,1938
-1946-12-09,Colombia,4,2,Curaçao,False,False,,Central American and Caribbean Games,1946
-1946-12-09,Panama,4,2,Guatemala,True,False,,Central American and Caribbean Games,1946
-1946-12-10,Costa Rica,12,0,Puerto Rico,True,False,,Central American and Caribbean Games,1946
-1946-12-12,Colombia,2,0,Venezuela,False,False,,Central American and Caribbean Games,1946
-1946-12-12,Curaçao,2,2,Guatemala,True,False,,Central American and Caribbean Games,1946
-1946-12-13,Panama,12,1,Puerto Rico,True,False,,Central American and Caribbean Games,1946
-1946-12-14,Costa Rica,4,2,Venezuela,True,False,,Central American and Caribbean Games,1946
-1946-12-15,Colombia,4,2,Guatemala,False,False,,Central American and Caribbean Games,1946
-1946-12-15,Curaçao,14,0,Puerto Rico,True,False,,Central American and Caribbean Games,1946
-1946-12-16,Colombia,4,1,Puerto Rico,False,False,,Central American and Caribbean Games,1946
-1946-12-16,Costa Rica,6,0,Guatemala,True,False,,Central American and Caribbean Games,1946
-1946-12-16,Panama,2,1,Venezuela,True,False,,Central American and Caribbean Games,1946
-1946-12-17,Panama,2,2,Curaçao,True,False,,Central American and Caribbean Games,1946
-1946-12-18,Venezuela,3,2,Guatemala,True,False,,Central American and Caribbean Games,1946
-1946-12-18,Colombia,4,1,Costa Rica,False,False,,Central American and Caribbean Games,1946
-1946-12-19,Curaçao,1,0,Venezuela,True,False,,Central American and Caribbean Games,1946
-1946-12-19,Guatemala,4,1,Puerto Rico,True,False,,Central American and Caribbean Games,1946
-1946-12-20,Colombia,2,1,Panama,False,False,,Central American and Caribbean Games,1946
-1946-12-20,Curaçao,4,2,Costa Rica,True,False,,Central American and Caribbean Games,1946
-1946-12-20,Venezuela,6,0,Puerto Rico,True,False,,Central American and Caribbean Games,1946
-1946-12-21,Panama,2,0,Costa Rica,True,False,,Central American and Caribbean Games,1946
+1930-03-16,Cuba,3,1,Jamaica,False,,,Central American and Caribbean Games,1930
+1930-03-17,Costa Rica,8,1,Guatemala,True,,,Central American and Caribbean Games,1930
+1930-03-18,Honduras,5,4,Jamaica,True,,,Central American and Caribbean Games,1930
+1930-03-19,El Salvador,8,2,Guatemala,True,,,Central American and Caribbean Games,1930
+1930-03-20,Cuba,7,0,Honduras,False,,,Central American and Caribbean Games,1930
+1930-03-22,Costa Rica,9,2,El Salvador,True,,,Central American and Caribbean Games,1930
+1930-03-23,Cuba,5,0,Honduras,False,,,Central American and Caribbean Games,1930
+1930-03-26,Costa Rica,5,0,El Salvador,True,,,Central American and Caribbean Games,1930
+1930-03-29,El Salvador,1,4,Honduras,True,,,Central American and Caribbean Games,1930
+1930-03-30,Cuba,2,1,Costa Rica,False,,,Central American and Caribbean Games,1930
+1930-04-01,Cuba,5,2,El Salvador,False,,,Central American and Caribbean Games,1930
+1930-04-04,Costa Rica,8,0,Honduras,True,,,Central American and Caribbean Games,1930
+1935-03-24,El Salvador,4,1,Cuba,False,,,Central American and Caribbean Games,1935
+1935-03-25,Costa Rica,4,3,Guatemala,True,,,Central American and Caribbean Games,1935
+1935-03-25,Cuba,3,0,Honduras,True,,,Central American and Caribbean Games,1935
+1935-03-27,El Salvador,1,8,Mexico,False,,,Central American and Caribbean Games,1935
+1935-03-27,Cuba,2,1,Guatemala,True,,,Central American and Caribbean Games,1935
+1935-03-28,El Salvador,3,4,Honduras,False,,,Central American and Caribbean Games,1935
+1935-03-28,Mexico,5,1,Guatemala,True,,,Central American and Caribbean Games,1935
+1935-03-30,Mexico,6,1,Cuba,True,,,Central American and Caribbean Games,1935
+1935-03-30,El Salvador,1,6,Costa Rica,False,,,Central American and Caribbean Games,1935
+1935-03-31,Honduras,0,0,Guatemala,True,,,Central American and Caribbean Games,1935
+1935-03-31,Costa Rica,2,1,Cuba,True,,,Central American and Caribbean Games,1935
+1935-04-01,Mexico,8,2,Honduras,True,,,Central American and Caribbean Games,1935
+1935-04-02,Mexico,2,0,Costa Rica,True,,,Central American and Caribbean Games,1935
+1935-04-03,Costa Rica,6,0,Honduras,True,,,Central American and Caribbean Games,1935
+1935-04-03,El Salvador,6,1,Guatemala,False,,,Central American and Caribbean Games,1935
+1938-02-10,Mexico,3,1,Colombia,True,,,Central American and Caribbean Games,1938
+1938-02-12,Costa Rica,7,0,El Salvador,True,,,Central American and Caribbean Games,1938
+1938-02-12,Panama,2,1,Venezuela,False,,,Central American and Caribbean Games,1938
+1938-02-14,Panama,2,4,Colombia,False,,,Central American and Caribbean Games,1938
+1938-02-14,Mexico,1,0,Venezuela,True,,,Central American and Caribbean Games,1938
+1938-02-16,Panama,0,11,Costa Rica,False,,,Central American and Caribbean Games,1938
+1938-02-16,El Salvador,3,2,Venezuela,True,,,Central American and Caribbean Games,1938
+1938-02-18,Colombia,1,2,Costa Rica,True,,,Central American and Caribbean Games,1938
+1938-02-18,Mexico,6,0,El Salvador,True,,,Central American and Caribbean Games,1938
+1938-02-20,Panama,2,2,Mexico,False,,,Central American and Caribbean Games,1938
+1938-02-20,Venezuela,0,3,Costa Rica,True,,,Central American and Caribbean Games,1938
+1938-02-21,Colombia,3,2,El Salvador,True,,,Central American and Caribbean Games,1938
+1938-02-22,Mexico,2,1,Costa Rica,True,,,Central American and Caribbean Games,1938
+1938-02-23,Venezuela,2,1,Colombia,True,,,Central American and Caribbean Games,1938
+1938-02-23,Panama,1,2,El Salvador,False,,,Central American and Caribbean Games,1938
+1946-12-09,Colombia,4,2,Curaçao,False,,,Central American and Caribbean Games,1946
+1946-12-09,Panama,4,2,Guatemala,True,,,Central American and Caribbean Games,1946
+1946-12-10,Costa Rica,12,0,Puerto Rico,True,,,Central American and Caribbean Games,1946
+1946-12-12,Colombia,2,0,Venezuela,False,,,Central American and Caribbean Games,1946
+1946-12-12,Curaçao,2,2,Guatemala,True,,,Central American and Caribbean Games,1946
+1946-12-13,Panama,12,1,Puerto Rico,True,,,Central American and Caribbean Games,1946
+1946-12-14,Costa Rica,4,2,Venezuela,True,,,Central American and Caribbean Games,1946
+1946-12-15,Colombia,4,2,Guatemala,False,,,Central American and Caribbean Games,1946
+1946-12-15,Curaçao,14,0,Puerto Rico,True,,,Central American and Caribbean Games,1946
+1946-12-16,Colombia,4,1,Puerto Rico,False,,,Central American and Caribbean Games,1946
+1946-12-16,Costa Rica,6,0,Guatemala,True,,,Central American and Caribbean Games,1946
+1946-12-16,Panama,2,1,Venezuela,True,,,Central American and Caribbean Games,1946
+1946-12-17,Panama,2,2,Curaçao,True,,,Central American and Caribbean Games,1946
+1946-12-18,Venezuela,3,2,Guatemala,True,,,Central American and Caribbean Games,1946
+1946-12-18,Colombia,4,1,Costa Rica,False,,,Central American and Caribbean Games,1946
+1946-12-19,Curaçao,1,0,Venezuela,True,,,Central American and Caribbean Games,1946
+1946-12-19,Guatemala,4,1,Puerto Rico,True,,,Central American and Caribbean Games,1946
+1946-12-20,Colombia,2,1,Panama,False,,,Central American and Caribbean Games,1946
+1946-12-20,Curaçao,4,2,Costa Rica,True,,,Central American and Caribbean Games,1946
+1946-12-20,Venezuela,6,0,Puerto Rico,True,,,Central American and Caribbean Games,1946
+1946-12-21,Panama,2,0,Costa Rica,True,,,Central American and Caribbean Games,1946
