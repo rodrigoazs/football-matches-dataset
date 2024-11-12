@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1999-07-24,Palmeiras,3,1,Juventude,False,False,first
 1999-07-25,Botafogo-SP,4,2,Portuguesa-SP,False,False,first
 1999-07-25,Paraná,0,2,Santos,False,False,first

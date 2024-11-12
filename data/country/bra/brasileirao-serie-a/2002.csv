@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2002-08-10,Vasco da Gama,2,0,Figueirense,False,False,first
 2002-08-10,São Paulo,4,2,Paysandu,False,False,first
 2002-08-10,Paraná,2,1,São Caetano,False,False,first

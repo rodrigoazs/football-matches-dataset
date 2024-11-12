@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1995-08-19,Vitória,2,2,Botafogo,False,False,first
 1995-08-19,Palmeiras,3,0,Guarani,False,False,first
 1995-08-20,Cruzeiro,0,0,Juventude,False,False,first

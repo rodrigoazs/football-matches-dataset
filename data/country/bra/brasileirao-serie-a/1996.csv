@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-08-08,Bahia,0,0,Palmeiras,False,False,first
 1996-08-08,Fluminense,1,0,RB Bragantino,False,False,first
 1996-08-08,Atlético-MG,1,0,Corinthians,False,False,first

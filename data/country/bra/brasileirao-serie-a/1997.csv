@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1997-07-05,Grêmio,0,0,São Paulo,False,False,first
 1997-07-05,Palmeiras,4,1,Fluminense,False,False,first
 1997-07-06,Paraná,2,1,Sport,False,False,first

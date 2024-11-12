@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2001-08-01,Guarani,1,3,Palmeiras,False,False,first
 2001-08-01,Botafogo,1,1,América-MG,False,False,first
 2001-08-01,Portuguesa-SP,0,1,Goiás,False,False,first

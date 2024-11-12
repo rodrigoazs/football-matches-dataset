@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1998-07-25,Vasco da Gama,0,1,Corinthians,False,False,first
 1998-07-26,Internacional,1,0,Grêmio,False,False,first
 1998-07-26,Portuguesa-SP,2,1,América-MG,False,False,first

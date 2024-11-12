@@ -1,4 +1,4 @@
-date,home_team,home_score,away_score,away_team,neutral,knockout,category
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1994-08-13,Criciúma,1,1,Corinthians,False,False,first
 1994-08-13,Sport,1,1,Flamengo,False,False,first
 1994-08-14,RB Bragantino,0,0,Grêmio,False,False,first
