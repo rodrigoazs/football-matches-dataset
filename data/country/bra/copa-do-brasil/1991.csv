@@ -1,63 +1,63 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1991-02-09,Rio Negro-AM,1,1,Vasco da Gama,False,False,first,Copa do Brasil,1991
-1991-02-14,ABC,1,1,Cruzeiro,False,False,first,Copa do Brasil,1991
-1991-02-20,CSA,1,0,Coritiba,False,False,first,Copa do Brasil,1991
-1991-02-20,Caiçara,0,1,Atlético-MG,False,False,first,Copa do Brasil,1991
-1991-02-20,Rio Branco-AC,1,1,Remo,False,False,first,Copa do Brasil,1991
-1991-02-21,Sampaio Corrêa-MA,1,2,Botafogo,False,False,first,Copa do Brasil,1991
-1991-02-21,Colatina,2,3,Santa Cruz-PE,False,False,first,Copa do Brasil,1991
-1991-02-21,Paysandu,1,0,Ceará,False,False,first,Copa do Brasil,1991
-1991-02-21,Auto Esporte-PB,0,1,Grêmio,False,False,first,Copa do Brasil,1991
-1991-02-21,Goiânia,1,1,Fluminense-BA,False,False,firstf,Copa do Brasil,1991
-1991-02-21,Ubiratan-MS,1,1,Criciúma,False,False,first,Copa do Brasil,1991
-1991-02-21,Caxias,2,1,XV de Piracicaba,False,False,first,Copa do Brasil,1991
-1991-02-21,União-MT,0,1,Goiás,False,False,first,Copa do Brasil,1991
-1991-02-21,Atlético-PR,1,1,Vitória,False,False,first,Copa do Brasil,1991
-1991-02-21,Gama,0,1,Sport,False,False,first,Copa do Brasil,1991
-1991-02-27,Confiança,0,0,Corinthians,False,False,first,Copa do Brasil,1991
-1991-02-21,Cruzeiro,4,0,ABC,False,False,first,Copa do Brasil,1991
-1991-02-21,Vasco da Gama,5,0,Rio Negro-AM,False,False,first,Copa do Brasil,1991
-1991-02-27,Coritiba,1,1,CSA,False,False,first,Copa do Brasil,1991
-1991-02-27,Goiás,3,0,União-MT,False,False,first,Copa do Brasil,1991
-1991-02-28,Botafogo,3,1,Sampaio Corrêa-MA,False,False,first,Copa do Brasil,1991
-1991-02-28,Santa Cruz-PE,1,0,Colatina,False,False,first,Copa do Brasil,1991
-1991-02-28,Ceará,0,0,Paysandu,False,False,first,Copa do Brasil,1991
-1991-02-28,Grêmio,2,0,Auto Esporte-PB,False,False,first,Copa do Brasil,1991
-1991-02-28,Fluminense-BA,1,0,Goiânia,False,False,first,Copa do Brasil,1991
-1991-02-28,Atlético-MG,11,0,Caiçara,False,False,first,Copa do Brasil,1991
-1991-02-28,Criciúma,4,1,Ubiratan-MS,False,False,first,Copa do Brasil,1991
-1991-02-28,XV de Piracicaba,1,1,Caxias,False,False,first,Copa do Brasil,1991
-1991-02-28,Vitória,2,1,Atlético-PR,False,False,first,Copa do Brasil,1991
-1991-02-28,Sport,3,0,Gama,False,False,first,Copa do Brasil,1991
-1991-02-28,Remo,4,0,Rio Branco-AC,False,False,first,Copa do Brasil,1991
-1991-03-04,Corinthians,1,0,Confiança,False,False,first,Copa do Brasil,1991
-1991-03-10,Criciúma,1,0,Atlético-MG,False,False,round16,Copa do Brasil,1991
-1991-03-10,Caxias,1,1,Goiás,False,False,round16,Copa do Brasil,1991
-1991-03-13,Coritiba,3,0,Paysandu,False,False,round16,Copa do Brasil,1991
-1991-03-13,Fluminense-BA,0,1,Grêmio,False,False,round16,Copa do Brasil,1991
-1991-03-13,Vitória,2,1,Sport,False,False,round16,Copa do Brasil,1991
-1991-03-14,Santa Cruz-PE,0,1,Botafogo,False,False,round16,Copa do Brasil,1991
-1991-03-14,Remo,0,0,Vasco da Gama,False,False,round16,Copa do Brasil,1991
-1991-03-22,Corinthians,3,1,Cruzeiro,False,False,round16,Copa do Brasil,1991
-1991-03-17,Botafogo,3,0,Santa Cruz-PE,False,False,round16,Copa do Brasil,1991
-1991-03-20,Atlético-MG,0,1,Criciúma,False,False,round16,Copa do Brasil,1991
-1991-03-21,Paysandu,0,0,Coritiba,False,False,round16,Copa do Brasil,1991
-1991-03-21,Goiás,2,0,Caxias,False,False,round16,Copa do Brasil,1991
-1991-03-21,Vasco da Gama,1,1,Remo,False,False,round16,Copa do Brasil,1991
-1991-03-21,Sport,0,0,Vitória,False,False,round16,Copa do Brasil,1991
-1991-03-27,Grêmio,2,0,Fluminense-BA,False,False,round16,Copa do Brasil,1991
-1991-04-11,Cruzeiro,0,1,Corinthians,False,False,round16,Copa do Brasil,1991
-1991-04-18,Coritiba,3,0,Botafogo,False,False,quarter,Copa do Brasil,1991
-1991-04-18,Goiás,0,0,Criciúma,False,False,quarter,Copa do Brasil,1991
-1991-04-18,Remo,2,0,Vitória,False,False,quarter,Copa do Brasil,1991
-1991-05-08,Corinthians,1,1,Grêmio,False,False,quarter,Copa do Brasil,1991
-1991-04-25,Botafogo,1,1,Coritiba,False,False,quarter,Copa do Brasil,1991
-1991-04-25,Criciúma,3,0,Goiás,False,False,quarter,Copa do Brasil,1991
-1991-04-25,Vitória,2,2,Remo,False,False,quarter,Copa do Brasil,1991
-1991-05-15,Grêmio,2,1,Corinthians,False,False,quarter,Copa do Brasil,1991
-1991-05-12,Remo,0,1,Criciúma,False,False,semi,Copa do Brasil,1991
-1991-05-22,Coritiba,1,1,Grêmio,False,False,semi,Copa do Brasil,1991
-1991-05-19,Criciúma,2,0,Remo,False,False,semi,Copa do Brasil,1991
-1991-05-25,Grêmio,1,0,Coritiba,False,False,semi,Copa do Brasil,1991
-1991-05-30,Grêmio,1,1,Criciúma,False,False,final,Copa do Brasil,1991
-1991-06-02,Criciúma,0,0,Grêmio,False,False,final,Copa do Brasil,1991
+1991-02-09,Rio Negro-AM,1,1,Vasco da Gama,False,False,first,brasileirao-serie-a,1991
+1991-02-14,ABC,1,1,Cruzeiro,False,False,first,brasileirao-serie-a,1991
+1991-02-20,CSA,1,0,Coritiba,False,False,first,brasileirao-serie-a,1991
+1991-02-20,Caiçara,0,1,Atlético-MG,False,False,first,brasileirao-serie-a,1991
+1991-02-20,Rio Branco-AC,1,1,Remo,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Sampaio Corrêa-MA,1,2,Botafogo,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Colatina,2,3,Santa Cruz-PE,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Paysandu,1,0,Ceará,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Auto Esporte-PB,0,1,Grêmio,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Goiânia,1,1,Fluminense-BA,False,False,firstf,brasileirao-serie-a,1991
+1991-02-21,Ubiratan-MS,1,1,Criciúma,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Caxias,2,1,XV de Piracicaba,False,False,first,brasileirao-serie-a,1991
+1991-02-21,União-MT,0,1,Goiás,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Atlético-PR,1,1,Vitória,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Gama,0,1,Sport,False,False,first,brasileirao-serie-a,1991
+1991-02-27,Confiança,0,0,Corinthians,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Cruzeiro,4,0,ABC,False,False,first,brasileirao-serie-a,1991
+1991-02-21,Vasco da Gama,5,0,Rio Negro-AM,False,False,first,brasileirao-serie-a,1991
+1991-02-27,Coritiba,1,1,CSA,False,False,first,brasileirao-serie-a,1991
+1991-02-27,Goiás,3,0,União-MT,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Botafogo,3,1,Sampaio Corrêa-MA,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Santa Cruz-PE,1,0,Colatina,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Ceará,0,0,Paysandu,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Grêmio,2,0,Auto Esporte-PB,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Fluminense-BA,1,0,Goiânia,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Atlético-MG,11,0,Caiçara,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Criciúma,4,1,Ubiratan-MS,False,False,first,brasileirao-serie-a,1991
+1991-02-28,XV de Piracicaba,1,1,Caxias,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Vitória,2,1,Atlético-PR,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Sport,3,0,Gama,False,False,first,brasileirao-serie-a,1991
+1991-02-28,Remo,4,0,Rio Branco-AC,False,False,first,brasileirao-serie-a,1991
+1991-03-04,Corinthians,1,0,Confiança,False,False,first,brasileirao-serie-a,1991
+1991-03-10,Criciúma,1,0,Atlético-MG,False,False,round16,brasileirao-serie-a,1991
+1991-03-10,Caxias,1,1,Goiás,False,False,round16,brasileirao-serie-a,1991
+1991-03-13,Coritiba,3,0,Paysandu,False,False,round16,brasileirao-serie-a,1991
+1991-03-13,Fluminense-BA,0,1,Grêmio,False,False,round16,brasileirao-serie-a,1991
+1991-03-13,Vitória,2,1,Sport,False,False,round16,brasileirao-serie-a,1991
+1991-03-14,Santa Cruz-PE,0,1,Botafogo,False,False,round16,brasileirao-serie-a,1991
+1991-03-14,Remo,0,0,Vasco da Gama,False,False,round16,brasileirao-serie-a,1991
+1991-03-22,Corinthians,3,1,Cruzeiro,False,False,round16,brasileirao-serie-a,1991
+1991-03-17,Botafogo,3,0,Santa Cruz-PE,False,False,round16,brasileirao-serie-a,1991
+1991-03-20,Atlético-MG,0,1,Criciúma,False,False,round16,brasileirao-serie-a,1991
+1991-03-21,Paysandu,0,0,Coritiba,False,False,round16,brasileirao-serie-a,1991
+1991-03-21,Goiás,2,0,Caxias,False,False,round16,brasileirao-serie-a,1991
+1991-03-21,Vasco da Gama,1,1,Remo,False,False,round16,brasileirao-serie-a,1991
+1991-03-21,Sport,0,0,Vitória,False,False,round16,brasileirao-serie-a,1991
+1991-03-27,Grêmio,2,0,Fluminense-BA,False,False,round16,brasileirao-serie-a,1991
+1991-04-11,Cruzeiro,0,1,Corinthians,False,False,round16,brasileirao-serie-a,1991
+1991-04-18,Coritiba,3,0,Botafogo,False,False,quarter,brasileirao-serie-a,1991
+1991-04-18,Goiás,0,0,Criciúma,False,False,quarter,brasileirao-serie-a,1991
+1991-04-18,Remo,2,0,Vitória,False,False,quarter,brasileirao-serie-a,1991
+1991-05-08,Corinthians,1,1,Grêmio,False,False,quarter,brasileirao-serie-a,1991
+1991-04-25,Botafogo,1,1,Coritiba,False,False,quarter,brasileirao-serie-a,1991
+1991-04-25,Criciúma,3,0,Goiás,False,False,quarter,brasileirao-serie-a,1991
+1991-04-25,Vitória,2,2,Remo,False,False,quarter,brasileirao-serie-a,1991
+1991-05-15,Grêmio,2,1,Corinthians,False,False,quarter,brasileirao-serie-a,1991
+1991-05-12,Remo,0,1,Criciúma,False,False,semi,brasileirao-serie-a,1991
+1991-05-22,Coritiba,1,1,Grêmio,False,False,semi,brasileirao-serie-a,1991
+1991-05-19,Criciúma,2,0,Remo,False,False,semi,brasileirao-serie-a,1991
+1991-05-25,Grêmio,1,0,Coritiba,False,False,semi,brasileirao-serie-a,1991
+1991-05-30,Grêmio,1,1,Criciúma,False,False,final,brasileirao-serie-a,1991
+1991-06-02,Criciúma,0,0,Grêmio,False,False,final,brasileirao-serie-a,1991

@@ -1,121 +1,121 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2018-01-30,Caxias,0,0,Atlético-PR,False,True,first,Copa do Brasil,2018
-2018-01-31,Tubarão,2,0,América-RN,False,True,first,Copa do Brasil,2018
-2018-02-07,Brusque,0,1,Ceará,False,True,first,Copa do Brasil,2018
-2018-01-31,Real Ariquemes,0,1,Londrina,False,True,first,Copa do Brasil,2018
-2018-01-31,Boavista,1,1,Internacional,False,True,first,Copa do Brasil,2018
-2018-02-07,Atlético Itapemirim,0,2,Remo,False,True,first,Copa do Brasil,2018
-2018-02-07,São Caetano-SP,1,1,Criciúma,False,True,first,Copa do Brasil,2018
-2018-02-07,Cianorte,2,0,ABC,False,True,first,Copa do Brasil,2018
-2018-01-31,Caldense,0,1,Fluminense,False,True,first,Copa do Brasil,2018
-2018-01-31,Novoperário-MS,2,3,Salgueiro-PE,False,True,first,Copa do Brasil,2018
-2018-02-07,Ceilândia,2,3,Avaí,False,True,first,Copa do Brasil,2018
-2018-01-31,Interporto,0,0,Juventude,False,True,first,Copa do Brasil,2018
-2018-02-07,Parnahyba-PI,1,1,Coritiba,False,True,first,Copa do Brasil,2018
-2018-01-31,Uberlândia-MG,2,0,Ituano,False,True,first,Copa do Brasil,2018
-2018-02-07,Sinop-MT,0,1,Goiás,False,True,first,Copa do Brasil,2018
-2018-01-30,Vitória da Conquista-BA,0,0,Boa Esporte,False,True,first,Copa do Brasil,2018
-2018-02-06,Nacional-AM,0,0,Ponte Preta-SP,False,True,first,Copa do Brasil,2018
-2018-02-06,Internacional-SP,1,0,Rio Branco-AC,False,True,first,Copa do Brasil,2018
-2018-02-01,URT-MG,1,1,Paraná-PR,False,True,first,Copa do Brasil,2018
-2018-01-31,Independente-PA,0,1,Sampaio Corrêa-MA,False,True,first,Copa do Brasil,2018
-2018-01-31,Madureira,0,1,São Paulo,False,True,first,Copa do Brasil,2018
-2018-02-07,Manaus,2,2,CSA,False,True,first,Copa do Brasil,2018
-2018-01-01,Novo Hamburgo-RS,2,1,Paysandu,False,True,first,Copa do Brasil,2018
-2018-02-07,União-MT,1,3,CRB,False,True,first,Copa do Brasil,2018
-2018-02-07,Globo,0,2,Vitória,False,True,first,Copa do Brasil,2018
-2018-02-07,Corumbaense,1,0,ASA,False,True,first,Copa do Brasil,2018
-2018-02-07,Altos,2,1,Atlético-GO,False,True,first,Copa do Brasil,2018
-2018-01-31,Nova Iguaçu-RJ,1,1,RB Bragantino,False,True,first,Copa do Brasil,2018
-2018-02-07,Atlético Acreano,1,1,Atlético-MG,False,True,first,Copa do Brasil,2018
-2018-01-31,Floresta-CE,0,2,Botafogo-PB,False,True,first,Copa do Brasil,2018
-2018-01-31,Treze,0,2,Figueirense-SC,False,True,first,Copa do Brasil,2018
-2018-02-06,Brasiliense,1,1,Oeste-SP,False,True,first,Copa do Brasil,2018
-2018-02-07,Santos-AP,1,2,Sport,False,True,first,Copa do Brasil,2018
-2018-02-07,Ferroviário-CE,2,1,Confiança,False,True,first,Copa do Brasil,2018
-2018-01-31,Itabaiana,0,1,Joinville,False,True,first,Copa do Brasil,2018
-2018-02-07,São Raimundo-RR,0,1,Vila Nova-GO,False,True,first,Copa do Brasil,2018
-2018-02-06,Aparecidense,2,1,Botafogo,False,True,first,Copa do Brasil,2018
-2018-01-31,Aimoré,1,2,Cuiabá,False,True,first,Copa do Brasil,2018
-2018-01-31,Fluminense-BA,2,0,Santa Cruz-PE,False,True,first,Copa do Brasil,2018
-2018-01-31,Cordino,1,1,Náutico-PE,False,True,first,Copa do Brasil,2018
-2018-02-21,Atlético-PR,5,4,Tubarão,False,True,second,Copa do Brasil,2018
-2018-02-21,Londrina,1,2,Ceará,False,True,second,Copa do Brasil,2018
-2018-02-21,Remo,1,2,Internacional,False,True,second,Copa do Brasil,2018
-2018-02-21,Criciúma,1,1,Cianorte,False,True,second,Copa do Brasil,2018
-2018-02-15,Fluminense,5,0,Salgueiro,False,True,second,Copa do Brasil,2018
-2018-02-22,Juventude,0,2,Avaí,False,True,second,Copa do Brasil,2018
-2018-02-22,Uberlândia-MG,0,2,Coritiba,False,True,second,Copa do Brasil,2018
-2018-02-21,Goiás,0,0,Boa Esporte,False,True,second,Copa do Brasil,2018
-2018-02-21,Ponte Preta,1,0,Internacional-SP,False,True,second,Copa do Brasil,2018
-2018-02-22,Sampaio Corrêa-MA,1,0,Paraná,False,True,second,Copa do Brasil,2018
-2018-02-15,CSA,0,2,São Paulo,False,True,second,Copa do Brasil,2018
-2018-02-15,Novo Hamburgo,1,1,CRB,False,True,second,Copa do Brasil,2018
-2018-02-15,Vitória,3,0,Corumbaense,False,True,second,Copa do Brasil,2018
-2018-02-21,RB Bragantino,1,0,Altos,False,True,second,Copa do Brasil,2018
-2018-02-21,Botafogo-PB,0,4,Atlético-MG,False,True,second,Copa do Brasil,2018
-2018-02-21,Figueirense,2,1,Oeste,False,True,second,Copa do Brasil,2018
-2018-02-15,Sport,3,3,Ferroviário-CE,False,True,second,Copa do Brasil,2018
-2018-02-22,Vila Nova-GO,2,2,Joinville,False,True,second,Copa do Brasil,2018
-2018-02-21,Cuiabá,3,1,Aparecidense,False,True,second,Copa do Brasil,2018
-2018-02-14,Fluminense-BA,0,1,Náutico,False,True,second,Copa do Brasil,2018
-2018-02-28,Atlético-PR,0,0,Ceará,False,False,third,Copa do Brasil,2018
-2018-03-15,Ceará,1,1,Atlético-PR,False,False,third,Copa do Brasil,2018
-2018-03-01,Internacional,2,0,Cianorte,False,False,third,Copa do Brasil,2018
-2018-03-14,Cianorte,0,2,Internacional,False,False,third,Copa do Brasil,2018
-2018-03-01,Fluminense,1,2,Avaí,False,False,third,Copa do Brasil,2018
-2018-03-15,Avaí,1,0,Fluminense,False,False,third,Copa do Brasil,2018
-2018-02-28,Goiás,1,0,Coritiba,False,False,third,Copa do Brasil,2018
-2018-03-14,Coritiba,1,1,Goiás,False,False,third,Copa do Brasil,2018
-2018-02-28,Ponte Preta,0,0,Sampaio Corrêa-MA,False,False,third,Copa do Brasil,2018
-2018-03-15,Sampaio Corrêa-MA,0,0,Ponte Preta,False,False,third,Copa do Brasil,2018
-2018-02-28,São Paulo,2,0,CRB,False,False,third,Copa do Brasil,2018
-2018-03-14,CRB,0,3,São Paulo,False,False,third,Copa do Brasil,2018
-2018-02-28,RB Bragantino,1,0,Vitória,False,False,third,Copa do Brasil,2018
-2018-03-15,Vitória,3,0,RB Bragantino,False,False,third,Copa do Brasil,2018
-2018-02-28,Figueirense,0,1,Atlético-MG,False,False,third,Copa do Brasil,2018
-2018-03-14,Atlético-MG,1,2,Figueirense,False,False,third,Copa do Brasil,2018
-2018-02-28,Ferroviário,1,1,Vila Nova-GO,False,False,third,Copa do Brasil,2018
-2018-03-15,Vila Nova-GO,0,1,Ferroviário,False,False,third,Copa do Brasil,2018
-2018-02-28,Náutico,2,1,Cuiabá,False,False,third,Copa do Brasil,2018
-2018-03-14,Cuiabá,0,1,Náutico,False,False,third,Copa do Brasil,2018
-2018-04-11,Ponte Preta,3,0,Náutico,False,False,fourth,Copa do Brasil,2018
-2018-04-18,Náutico,1,0,Ponte Preta,False,False,fourth,Copa do Brasil,2018
-2018-04-04,Atlético-PR,2,1,São Paulo,False,False,fourth,Copa do Brasil,2018
-2018-04-19,São Paulo,2,2,Atlético-PR,False,False,fourth,Copa do Brasil,2018
-2018-04-11,Avaí,2,2,Goiás,False,False,fourth,Copa do Brasil,2018
-2018-04-18,Goiás,2,0,Avaí,False,False,fourth,Copa do Brasil,2018
-2018-04-11,Internacional,2,1,Vitória,False,False,fourth,Copa do Brasil,2018
-2018-04-19,Vitória,1,0,Internacional,False,False,fourth,Copa do Brasil,2018
-2018-04-04,Atlético-MG,4,0,Ferroviário,False,False,fourth,Copa do Brasil,2018
-2018-04-18,Ferroviário,2,2,Atlético-MG,False,False,fourth,Copa do Brasil,2018
-2018-05-02,Atlético-MG,0,0,Chapecoense,False,False,round16,Copa do Brasil,2018
-2018-05-16,Chapecoense,0,0,Atlético-MG,False,False,round16,Copa do Brasil,2018
-2018-05-16,Atlético-PR,1,2,Cruzeiro,False,False,round16,Copa do Brasil,2018
-2018-07-16,Cruzeiro,1,1,Atlético-PR,False,False,round16,Copa do Brasil,2018
-2018-05-09,Bahia,3,0,Vasco da Gama,False,False,round16,Copa do Brasil,2018
-2018-07-16,Vasco da Gama,2,0,Bahia,False,False,round16,Copa do Brasil,2018
-2018-04-25,Goiás,0,2,Grêmio,False,False,round16,Copa do Brasil,2018
-2018-05-02,Grêmio,3,1,Goiás,False,False,round16,Copa do Brasil,2018
-2018-04-25,Vitória,0,0,Corinthians,False,False,round16,Copa do Brasil,2018
-2018-05-10,Corinthians,3,1,Vitória,False,False,round16,Copa do Brasil,2018
-2018-05-09,América-MG,1,2,Palmeiras,False,False,round16,Copa do Brasil,2018
-2018-05-23,Palmeiras,-,-,América-MG,False,False,round16,Copa do Brasil,2018
-2018-05-02,Ponte Preta,0,1,Flamengo,False,False,round16,Copa do Brasil,2018
-2018-05-10,Flamengo,0,0,Ponte Preta,False,False,round16,Copa do Brasil,2018
-2018-05-10,Santos,5,1,Luverdense,False,False,round16,Copa do Brasil,2018
-2018-05-17,Luverdense,2,1,Santos,False,False,round16,Copa do Brasil,2018
-2018-08-01,Santos,0,1,Cruzeiro,False,False,quarter,Copa do Brasil,2018
-2018-08-15,Cruzeiro,1,2,Santos,False,False,quarter,Copa do Brasil,2018
-2018-08-01,Corinthians,1,0,Chapecoense,False,False,quarter,Copa do Brasil,2018
-2018-08-15,Chapecoense,0,1,Corinthians,False,False,quarter,Copa do Brasil,2018
-2018-08-01,Grêmio,1,1,Flamengo,False,False,quarter,Copa do Brasil,2018
-2018-08-15,Flamengo,1,0,Grêmio,False,False,quarter,Copa do Brasil,2018
-2018-08-02,Bahia,0,0,Palmeiras,False,False,quarter,Copa do Brasil,2018
-2018-08-16,Palmeiras,1,0,Bahia,False,False,quarter,Copa do Brasil,2018
-2018-09-12,Flamengo,0,0,Corinthians,False,False,semi,Copa do Brasil,2018
-2018-09-26,Corinthians,2,1,Flamengo,False,False,semi,Copa do Brasil,2018
-2018-09-12,Palmeiras,0,1,Cruzeiro,False,False,semi,Copa do Brasil,2018
-2018-09-26,Cruzeiro,1,1,Palmeiras,False,False,semi,Copa do Brasil,2018
-2018-10-10,Cruzeiro,1,0,Corinthians,False,False,final,Copa do Brasil,2018
-2018-10-17,Corinthians,1,2,Cruzeiro,False,False,final,Copa do Brasil,2018
+2018-01-30,Caxias,0,0,Atlético-PR,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Tubarão,2,0,América-RN,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Brusque,0,1,Ceará,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Real Ariquemes,0,1,Londrina,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Boavista,1,1,Internacional,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Atlético Itapemirim,0,2,Remo,False,True,first,brasileirao-serie-a,2018
+2018-02-07,São Caetano-SP,1,1,Criciúma,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Cianorte,2,0,ABC,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Caldense,0,1,Fluminense,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Novoperário-MS,2,3,Salgueiro-PE,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Ceilândia,2,3,Avaí,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Interporto,0,0,Juventude,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Parnahyba-PI,1,1,Coritiba,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Uberlândia-MG,2,0,Ituano,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Sinop-MT,0,1,Goiás,False,True,first,brasileirao-serie-a,2018
+2018-01-30,Vitória da Conquista-BA,0,0,Boa Esporte,False,True,first,brasileirao-serie-a,2018
+2018-02-06,Nacional-AM,0,0,Ponte Preta-SP,False,True,first,brasileirao-serie-a,2018
+2018-02-06,Internacional-SP,1,0,Rio Branco-AC,False,True,first,brasileirao-serie-a,2018
+2018-02-01,URT-MG,1,1,Paraná-PR,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Independente-PA,0,1,Sampaio Corrêa-MA,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Madureira,0,1,São Paulo,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Manaus,2,2,CSA,False,True,first,brasileirao-serie-a,2018
+2018-01-01,Novo Hamburgo-RS,2,1,Paysandu,False,True,first,brasileirao-serie-a,2018
+2018-02-07,União-MT,1,3,CRB,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Globo,0,2,Vitória,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Corumbaense,1,0,ASA,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Altos,2,1,Atlético-GO,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Nova Iguaçu-RJ,1,1,RB Bragantino,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Atlético Acreano,1,1,Atlético-MG,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Floresta-CE,0,2,Botafogo-PB,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Treze,0,2,Figueirense-SC,False,True,first,brasileirao-serie-a,2018
+2018-02-06,Brasiliense,1,1,Oeste-SP,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Santos-AP,1,2,Sport,False,True,first,brasileirao-serie-a,2018
+2018-02-07,Ferroviário-CE,2,1,Confiança,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Itabaiana,0,1,Joinville,False,True,first,brasileirao-serie-a,2018
+2018-02-07,São Raimundo-RR,0,1,Vila Nova-GO,False,True,first,brasileirao-serie-a,2018
+2018-02-06,Aparecidense,2,1,Botafogo,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Aimoré,1,2,Cuiabá,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Fluminense-BA,2,0,Santa Cruz-PE,False,True,first,brasileirao-serie-a,2018
+2018-01-31,Cordino,1,1,Náutico-PE,False,True,first,brasileirao-serie-a,2018
+2018-02-21,Atlético-PR,5,4,Tubarão,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Londrina,1,2,Ceará,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Remo,1,2,Internacional,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Criciúma,1,1,Cianorte,False,True,second,brasileirao-serie-a,2018
+2018-02-15,Fluminense,5,0,Salgueiro,False,True,second,brasileirao-serie-a,2018
+2018-02-22,Juventude,0,2,Avaí,False,True,second,brasileirao-serie-a,2018
+2018-02-22,Uberlândia-MG,0,2,Coritiba,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Goiás,0,0,Boa Esporte,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Ponte Preta,1,0,Internacional-SP,False,True,second,brasileirao-serie-a,2018
+2018-02-22,Sampaio Corrêa-MA,1,0,Paraná,False,True,second,brasileirao-serie-a,2018
+2018-02-15,CSA,0,2,São Paulo,False,True,second,brasileirao-serie-a,2018
+2018-02-15,Novo Hamburgo,1,1,CRB,False,True,second,brasileirao-serie-a,2018
+2018-02-15,Vitória,3,0,Corumbaense,False,True,second,brasileirao-serie-a,2018
+2018-02-21,RB Bragantino,1,0,Altos,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Botafogo-PB,0,4,Atlético-MG,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Figueirense,2,1,Oeste,False,True,second,brasileirao-serie-a,2018
+2018-02-15,Sport,3,3,Ferroviário-CE,False,True,second,brasileirao-serie-a,2018
+2018-02-22,Vila Nova-GO,2,2,Joinville,False,True,second,brasileirao-serie-a,2018
+2018-02-21,Cuiabá,3,1,Aparecidense,False,True,second,brasileirao-serie-a,2018
+2018-02-14,Fluminense-BA,0,1,Náutico,False,True,second,brasileirao-serie-a,2018
+2018-02-28,Atlético-PR,0,0,Ceará,False,False,third,brasileirao-serie-a,2018
+2018-03-15,Ceará,1,1,Atlético-PR,False,False,third,brasileirao-serie-a,2018
+2018-03-01,Internacional,2,0,Cianorte,False,False,third,brasileirao-serie-a,2018
+2018-03-14,Cianorte,0,2,Internacional,False,False,third,brasileirao-serie-a,2018
+2018-03-01,Fluminense,1,2,Avaí,False,False,third,brasileirao-serie-a,2018
+2018-03-15,Avaí,1,0,Fluminense,False,False,third,brasileirao-serie-a,2018
+2018-02-28,Goiás,1,0,Coritiba,False,False,third,brasileirao-serie-a,2018
+2018-03-14,Coritiba,1,1,Goiás,False,False,third,brasileirao-serie-a,2018
+2018-02-28,Ponte Preta,0,0,Sampaio Corrêa-MA,False,False,third,brasileirao-serie-a,2018
+2018-03-15,Sampaio Corrêa-MA,0,0,Ponte Preta,False,False,third,brasileirao-serie-a,2018
+2018-02-28,São Paulo,2,0,CRB,False,False,third,brasileirao-serie-a,2018
+2018-03-14,CRB,0,3,São Paulo,False,False,third,brasileirao-serie-a,2018
+2018-02-28,RB Bragantino,1,0,Vitória,False,False,third,brasileirao-serie-a,2018
+2018-03-15,Vitória,3,0,RB Bragantino,False,False,third,brasileirao-serie-a,2018
+2018-02-28,Figueirense,0,1,Atlético-MG,False,False,third,brasileirao-serie-a,2018
+2018-03-14,Atlético-MG,1,2,Figueirense,False,False,third,brasileirao-serie-a,2018
+2018-02-28,Ferroviário,1,1,Vila Nova-GO,False,False,third,brasileirao-serie-a,2018
+2018-03-15,Vila Nova-GO,0,1,Ferroviário,False,False,third,brasileirao-serie-a,2018
+2018-02-28,Náutico,2,1,Cuiabá,False,False,third,brasileirao-serie-a,2018
+2018-03-14,Cuiabá,0,1,Náutico,False,False,third,brasileirao-serie-a,2018
+2018-04-11,Ponte Preta,3,0,Náutico,False,False,fourth,brasileirao-serie-a,2018
+2018-04-18,Náutico,1,0,Ponte Preta,False,False,fourth,brasileirao-serie-a,2018
+2018-04-04,Atlético-PR,2,1,São Paulo,False,False,fourth,brasileirao-serie-a,2018
+2018-04-19,São Paulo,2,2,Atlético-PR,False,False,fourth,brasileirao-serie-a,2018
+2018-04-11,Avaí,2,2,Goiás,False,False,fourth,brasileirao-serie-a,2018
+2018-04-18,Goiás,2,0,Avaí,False,False,fourth,brasileirao-serie-a,2018
+2018-04-11,Internacional,2,1,Vitória,False,False,fourth,brasileirao-serie-a,2018
+2018-04-19,Vitória,1,0,Internacional,False,False,fourth,brasileirao-serie-a,2018
+2018-04-04,Atlético-MG,4,0,Ferroviário,False,False,fourth,brasileirao-serie-a,2018
+2018-04-18,Ferroviário,2,2,Atlético-MG,False,False,fourth,brasileirao-serie-a,2018
+2018-05-02,Atlético-MG,0,0,Chapecoense,False,False,round16,brasileirao-serie-a,2018
+2018-05-16,Chapecoense,0,0,Atlético-MG,False,False,round16,brasileirao-serie-a,2018
+2018-05-16,Atlético-PR,1,2,Cruzeiro,False,False,round16,brasileirao-serie-a,2018
+2018-07-16,Cruzeiro,1,1,Atlético-PR,False,False,round16,brasileirao-serie-a,2018
+2018-05-09,Bahia,3,0,Vasco da Gama,False,False,round16,brasileirao-serie-a,2018
+2018-07-16,Vasco da Gama,2,0,Bahia,False,False,round16,brasileirao-serie-a,2018
+2018-04-25,Goiás,0,2,Grêmio,False,False,round16,brasileirao-serie-a,2018
+2018-05-02,Grêmio,3,1,Goiás,False,False,round16,brasileirao-serie-a,2018
+2018-04-25,Vitória,0,0,Corinthians,False,False,round16,brasileirao-serie-a,2018
+2018-05-10,Corinthians,3,1,Vitória,False,False,round16,brasileirao-serie-a,2018
+2018-05-09,América-MG,1,2,Palmeiras,False,False,round16,brasileirao-serie-a,2018
+2018-05-23,Palmeiras,-,-,América-MG,False,False,round16,brasileirao-serie-a,2018
+2018-05-02,Ponte Preta,0,1,Flamengo,False,False,round16,brasileirao-serie-a,2018
+2018-05-10,Flamengo,0,0,Ponte Preta,False,False,round16,brasileirao-serie-a,2018
+2018-05-10,Santos,5,1,Luverdense,False,False,round16,brasileirao-serie-a,2018
+2018-05-17,Luverdense,2,1,Santos,False,False,round16,brasileirao-serie-a,2018
+2018-08-01,Santos,0,1,Cruzeiro,False,False,quarter,brasileirao-serie-a,2018
+2018-08-15,Cruzeiro,1,2,Santos,False,False,quarter,brasileirao-serie-a,2018
+2018-08-01,Corinthians,1,0,Chapecoense,False,False,quarter,brasileirao-serie-a,2018
+2018-08-15,Chapecoense,0,1,Corinthians,False,False,quarter,brasileirao-serie-a,2018
+2018-08-01,Grêmio,1,1,Flamengo,False,False,quarter,brasileirao-serie-a,2018
+2018-08-15,Flamengo,1,0,Grêmio,False,False,quarter,brasileirao-serie-a,2018
+2018-08-02,Bahia,0,0,Palmeiras,False,False,quarter,brasileirao-serie-a,2018
+2018-08-16,Palmeiras,1,0,Bahia,False,False,quarter,brasileirao-serie-a,2018
+2018-09-12,Flamengo,0,0,Corinthians,False,False,semi,brasileirao-serie-a,2018
+2018-09-26,Corinthians,2,1,Flamengo,False,False,semi,brasileirao-serie-a,2018
+2018-09-12,Palmeiras,0,1,Cruzeiro,False,False,semi,brasileirao-serie-a,2018
+2018-09-26,Cruzeiro,1,1,Palmeiras,False,False,semi,brasileirao-serie-a,2018
+2018-10-10,Cruzeiro,1,0,Corinthians,False,False,final,brasileirao-serie-a,2018
+2018-10-17,Corinthians,1,2,Cruzeiro,False,False,final,brasileirao-serie-a,2018
