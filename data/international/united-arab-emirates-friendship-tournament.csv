@@ -1,32 +1,32 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1994-02-02,Egypt,1,1,Morocco,False,False,,United Arab Emirates Friendship Tournament,1994
+1994-02-02,Egypt,1,1,Morocco,True,False,,United Arab Emirates Friendship Tournament,1994
 1994-02-02,United Arab Emirates,0,1,Slovakia,False,False,,United Arab Emirates Friendship Tournament,1994
-1994-02-04,Egypt,1,0,Slovakia,False,False,,United Arab Emirates Friendship Tournament,1994
+1994-02-04,Egypt,1,0,Slovakia,True,False,,United Arab Emirates Friendship Tournament,1994
 1994-02-04,United Arab Emirates,1,1,Morocco,False,False,,United Arab Emirates Friendship Tournament,1994
-1994-02-06,Morocco,2,1,Slovakia,False,False,,United Arab Emirates Friendship Tournament,1994
+1994-02-06,Morocco,2,1,Slovakia,True,False,,United Arab Emirates Friendship Tournament,1994
 1994-02-06,United Arab Emirates,0,1,Egypt,False,False,,United Arab Emirates Friendship Tournament,1994
 1996-03-19,United Arab Emirates,3,2,South Korea,False,False,,United Arab Emirates Friendship Tournament,1996
-1996-03-20,Egypt,0,2,Morocco,False,False,,United Arab Emirates Friendship Tournament,1996
+1996-03-20,Egypt,0,2,Morocco,True,False,,United Arab Emirates Friendship Tournament,1996
 1996-03-22,United Arab Emirates,0,0,Egypt,False,False,,United Arab Emirates Friendship Tournament,1996
-1996-03-23,South Korea,2,2,Morocco,False,False,,United Arab Emirates Friendship Tournament,1996
-1996-03-25,Egypt,1,1,South Korea,False,False,,United Arab Emirates Friendship Tournament,1996
+1996-03-23,South Korea,2,2,Morocco,True,False,,United Arab Emirates Friendship Tournament,1996
+1996-03-25,Egypt,1,1,South Korea,True,False,,United Arab Emirates Friendship Tournament,1996
 1996-03-26,United Arab Emirates,1,0,Morocco,False,False,,United Arab Emirates Friendship Tournament,1996
-1998-10-17,Lebanon,3,3,Syria,False,False,,United Arab Emirates Friendship Tournament,1998
+1998-10-17,Lebanon,3,3,Syria,True,False,,United Arab Emirates Friendship Tournament,1998
 1998-10-17,United Arab Emirates,2,1,Sudan,False,False,,United Arab Emirates Friendship Tournament,1998
-1998-10-19,Lebanon,1,1,Sudan,False,False,,United Arab Emirates Friendship Tournament,1998
+1998-10-19,Lebanon,1,1,Sudan,True,False,,United Arab Emirates Friendship Tournament,1998
 1998-10-19,United Arab Emirates,1,0,Syria,False,False,,United Arab Emirates Friendship Tournament,1998
-1998-10-21,Sudan,2,3,Syria,False,False,,United Arab Emirates Friendship Tournament,1998
+1998-10-21,Sudan,2,3,Syria,True,False,,United Arab Emirates Friendship Tournament,1998
 1998-10-21,United Arab Emirates,1,0,Lebanon,False,False,,United Arab Emirates Friendship Tournament,1998
-1999-10-30,Iraq,1,1,Estonia,False,False,,United Arab Emirates Friendship Tournament,1999
+1999-10-30,Iraq,1,1,Estonia,True,False,,United Arab Emirates Friendship Tournament,1999
 1999-10-30,United Arab Emirates,3,1,Turkmenistan,False,False,,United Arab Emirates Friendship Tournament,1999
-1999-11-01,Iraq,3,0,Turkmenistan,False,False,,United Arab Emirates Friendship Tournament,1999
+1999-11-01,Iraq,3,0,Turkmenistan,True,False,,United Arab Emirates Friendship Tournament,1999
 1999-11-01,United Arab Emirates,2,2,Estonia,False,False,,United Arab Emirates Friendship Tournament,1999
-1999-11-03,Turkmenistan,1,1,Estonia,False,False,,United Arab Emirates Friendship Tournament,1999
+1999-11-03,Turkmenistan,1,1,Estonia,True,False,,United Arab Emirates Friendship Tournament,1999
 1999-11-03,United Arab Emirates,2,2,Iraq,False,False,,United Arab Emirates Friendship Tournament,1999
-2000-10-04,Australia,1,0,Kuwait,False,False,,United Arab Emirates Friendship Tournament,2000
+2000-10-04,Australia,1,0,Kuwait,True,False,,United Arab Emirates Friendship Tournament,2000
 2000-10-04,United Arab Emirates,1,1,South Korea,False,False,,United Arab Emirates Friendship Tournament,2000
-2000-10-07,Australia,2,4,South Korea,False,False,,United Arab Emirates Friendship Tournament,2000
+2000-10-07,Australia,2,4,South Korea,True,False,,United Arab Emirates Friendship Tournament,2000
 2000-10-07,United Arab Emirates,1,0,Kuwait,False,False,,United Arab Emirates Friendship Tournament,2000
-2001-02-08,Morocco,1,1,South Korea,False,False,,United Arab Emirates Friendship Tournament,2001
+2001-02-08,Morocco,1,1,South Korea,True,False,,United Arab Emirates Friendship Tournament,2001
 2001-02-11,United Arab Emirates,1,4,South Korea,False,False,,United Arab Emirates Friendship Tournament,2001
 2001-02-14,United Arab Emirates,1,1,Morocco,False,False,,United Arab Emirates Friendship Tournament,2001

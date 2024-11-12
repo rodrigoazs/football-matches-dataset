@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1983-07-18,Hong Kong,1,1,Thailand,False,False,,Great Wall Cup,1983
+1983-07-18,Hong Kong,1,1,Thailand,True,False,,Great Wall Cup,1983
 1983-07-20,China PR,2,1,Thailand,False,False,,Great Wall Cup,1983
 1984-06-21,China PR,2,0,India,False,False,,Great Wall Cup,1984
 1986-07-31,China PR,1,1,Congo,False,False,,Great Wall Cup,1986

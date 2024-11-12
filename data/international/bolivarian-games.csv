@@ -1,13 +1,13 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1938-08-08,Bolivia,1,1,Ecuador,False,False,,Bolivarian Games,1938
+1938-08-08,Bolivia,1,1,Ecuador,True,False,,Bolivarian Games,1938
 1938-08-08,Colombia,2,4,Peru,False,False,,Bolivarian Games,1938
 1938-08-10,Colombia,1,2,Ecuador,False,False,,Bolivarian Games,1938
-1938-08-11,Bolivia,3,1,Venezuela,False,False,,Bolivarian Games,1938
-1938-08-11,Ecuador,1,9,Peru,False,False,,Bolivarian Games,1938
+1938-08-11,Bolivia,3,1,Venezuela,True,False,,Bolivarian Games,1938
+1938-08-11,Ecuador,1,9,Peru,True,False,,Bolivarian Games,1938
 1938-08-13,Colombia,2,0,Venezuela,False,False,,Bolivarian Games,1938
-1938-08-14,Bolivia,0,3,Peru,False,False,,Bolivarian Games,1938
+1938-08-14,Bolivia,0,3,Peru,True,False,,Bolivarian Games,1938
 1938-08-16,Colombia,1,2,Bolivia,False,False,,Bolivarian Games,1938
-1938-08-17,Peru,2,1,Venezuela,False,False,,Bolivarian Games,1938
-1938-08-19,Ecuador,5,2,Venezuela,False,False,,Bolivarian Games,1938
-1938-08-22,Bolivia,2,1,Ecuador,False,False,,Bolivarian Games,1938
-1947-01-05,Venezuela,2,2,Bolivia,False,False,,Bolivarian Games,1947
+1938-08-17,Peru,2,1,Venezuela,True,False,,Bolivarian Games,1938
+1938-08-19,Ecuador,5,2,Venezuela,True,False,,Bolivarian Games,1938
+1938-08-22,Bolivia,2,1,Ecuador,True,False,,Bolivarian Games,1938
+1947-01-05,Venezuela,2,2,Bolivia,True,False,,Bolivarian Games,1947

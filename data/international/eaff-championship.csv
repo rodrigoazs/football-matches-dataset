@@ -1,129 +1,129 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2003-02-22,Hong Kong,2,0,Taiwan,False,False,,EAFF Championship,2003
-2003-02-22,Macau,2,0,Mongolia,False,False,,EAFF Championship,2003
+2003-02-22,Macau,2,0,Mongolia,True,False,,EAFF Championship,2003
 2003-02-24,Hong Kong,3,0,Macau,False,False,,EAFF Championship,2003
-2003-02-24,Mongolia,2,0,Guam,False,False,,EAFF Championship,2003
-2003-02-26,Guam,0,2,Macau,False,False,,EAFF Championship,2003
-2003-02-28,Guam,0,7,Taiwan,False,False,,EAFF Championship,2003
+2003-02-24,Mongolia,2,0,Guam,True,False,,EAFF Championship,2003
+2003-02-26,Guam,0,2,Macau,True,False,,EAFF Championship,2003
+2003-02-28,Guam,0,7,Taiwan,True,False,,EAFF Championship,2003
 2003-02-28,Hong Kong,10,0,Mongolia,False,False,,EAFF Championship,2003
 2003-03-02,Hong Kong,11,0,Guam,False,False,,EAFF Championship,2003
-2003-03-02,Macau,1,2,Taiwan,False,False,,EAFF Championship,2003
-2003-12-04,Hong Kong,1,3,South Korea,False,False,,EAFF Championship,2003
+2003-03-02,Macau,1,2,Taiwan,True,False,,EAFF Championship,2003
+2003-12-04,Hong Kong,1,3,South Korea,True,False,,EAFF Championship,2003
 2003-12-04,Japan,2,0,China PR,False,False,,EAFF Championship,2003
-2003-12-07,South Korea,1,0,China PR,False,False,,EAFF Championship,2003
-2003-12-10,China PR,3,1,Hong Kong,False,False,,EAFF Championship,2003
+2003-12-07,South Korea,1,0,China PR,True,False,,EAFF Championship,2003
+2003-12-10,China PR,3,1,Hong Kong,True,False,,EAFF Championship,2003
 2003-12-10,Japan,0,0,South Korea,False,False,,EAFF Championship,2003
-2005-03-05,Hong Kong,6,0,Mongolia,False,False,,EAFF Championship,2005
-2005-03-07,Guam,0,15,Hong Kong,False,False,,EAFF Championship,2005
-2005-03-07,North Korea,6,0,Mongolia,False,False,,EAFF Championship,2005
-2005-03-09,Mongolia,4,1,Guam,False,False,,EAFF Championship,2005
-2005-03-11,Guam,0,21,North Korea,False,False,,EAFF Championship,2005
-2005-03-13,Hong Kong,0,2,North Korea,False,False,,EAFF Championship,2005
-2005-07-31,North Korea,1,0,Japan,False,False,,EAFF Championship,2005
+2005-03-05,Hong Kong,6,0,Mongolia,True,False,,EAFF Championship,2005
+2005-03-07,Guam,0,15,Hong Kong,True,False,,EAFF Championship,2005
+2005-03-07,North Korea,6,0,Mongolia,True,False,,EAFF Championship,2005
+2005-03-09,Mongolia,4,1,Guam,True,False,,EAFF Championship,2005
+2005-03-11,Guam,0,21,North Korea,True,False,,EAFF Championship,2005
+2005-03-13,Hong Kong,0,2,North Korea,True,False,,EAFF Championship,2005
+2005-07-31,North Korea,1,0,Japan,True,False,,EAFF Championship,2005
 2005-07-31,South Korea,1,1,China PR,False,False,,EAFF Championship,2005
-2005-08-03,Japan,2,2,China PR,False,False,,EAFF Championship,2005
+2005-08-03,Japan,2,2,China PR,True,False,,EAFF Championship,2005
 2005-08-04,South Korea,0,0,North Korea,False,False,,EAFF Championship,2005
-2005-08-07,China PR,2,0,North Korea,False,False,,EAFF Championship,2005
+2005-08-07,China PR,2,0,North Korea,True,False,,EAFF Championship,2005
 2005-08-07,South Korea,0,1,Japan,False,False,,EAFF Championship,2005
 2007-03-25,Northern Mariana Islands,2,3,Guam,False,False,,EAFF Championship,2007
 2007-04-01,Guam,9,0,Northern Mariana Islands,False,False,,EAFF Championship,2007
-2007-06-17,Guam,0,10,Taiwan,False,False,,EAFF Championship,2007
+2007-06-17,Guam,0,10,Taiwan,True,False,,EAFF Championship,2007
 2007-06-17,Macau,0,0,Mongolia,False,False,,EAFF Championship,2007
-2007-06-19,Hong Kong,1,1,Taiwan,False,False,,EAFF Championship,2007
-2007-06-19,North Korea,7,0,Mongolia,False,False,,EAFF Championship,2007
-2007-06-21,Hong Kong,15,1,Guam,False,False,,EAFF Championship,2007
+2007-06-19,Hong Kong,1,1,Taiwan,True,False,,EAFF Championship,2007
+2007-06-19,North Korea,7,0,Mongolia,True,False,,EAFF Championship,2007
+2007-06-21,Hong Kong,15,1,Guam,True,False,,EAFF Championship,2007
 2007-06-21,Macau,1,7,North Korea,False,False,,EAFF Championship,2007
-2007-06-23,Mongolia,5,2,Guam,False,False,,EAFF Championship,2007
-2007-06-24,North Korea,1,0,Hong Kong,False,False,,EAFF Championship,2007
+2007-06-23,Mongolia,5,2,Guam,True,False,,EAFF Championship,2007
+2007-06-24,North Korea,1,0,Hong Kong,True,False,,EAFF Championship,2007
 2008-02-17,China PR,2,3,South Korea,False,False,,EAFF Championship,2008
-2008-02-17,Japan,1,1,North Korea,False,False,,EAFF Championship,2008
+2008-02-17,Japan,1,1,North Korea,True,False,,EAFF Championship,2008
 2008-02-20,China PR,0,1,Japan,False,False,,EAFF Championship,2008
-2008-02-20,South Korea,1,1,North Korea,False,False,,EAFF Championship,2008
+2008-02-20,South Korea,1,1,North Korea,True,False,,EAFF Championship,2008
 2008-02-23,China PR,3,1,North Korea,False,False,,EAFF Championship,2008
-2008-02-23,Japan,1,1,South Korea,False,False,,EAFF Championship,2008
+2008-02-23,Japan,1,1,South Korea,True,False,,EAFF Championship,2008
 2009-03-11,Guam,1,0,Mongolia,False,False,,EAFF Championship,2009
-2009-03-11,Macau,6,1,Northern Mariana Islands,False,False,,EAFF Championship,2009
+2009-03-11,Macau,6,1,Northern Mariana Islands,True,False,,EAFF Championship,2009
 2009-03-13,Guam,2,1,Northern Mariana Islands,False,False,,EAFF Championship,2009
-2009-03-13,Macau,1,2,Mongolia,False,False,,EAFF Championship,2009
+2009-03-13,Macau,1,2,Mongolia,True,False,,EAFF Championship,2009
 2009-03-15,Guam,2,2,Macau,False,False,,EAFF Championship,2009
-2009-03-15,Northern Mariana Islands,1,4,Mongolia,False,False,,EAFF Championship,2009
-2009-08-23,North Korea,9,2,Guam,False,False,,EAFF Championship,2009
-2009-08-25,Hong Kong,0,0,North Korea,False,False,,EAFF Championship,2009
-2009-08-27,Hong Kong,12,0,Guam,False,False,,EAFF Championship,2009
+2009-03-15,Northern Mariana Islands,1,4,Mongolia,True,False,,EAFF Championship,2009
+2009-08-23,North Korea,9,2,Guam,True,False,,EAFF Championship,2009
+2009-08-25,Hong Kong,0,0,North Korea,True,False,,EAFF Championship,2009
+2009-08-27,Hong Kong,12,0,Guam,True,False,,EAFF Championship,2009
 2010-02-06,Japan,0,0,China PR,False,False,,EAFF Championship,2010
-2010-02-07,South Korea,5,0,Hong Kong,False,False,,EAFF Championship,2010
-2010-02-10,China PR,3,0,South Korea,False,False,,EAFF Championship,2010
+2010-02-07,South Korea,5,0,Hong Kong,True,False,,EAFF Championship,2010
+2010-02-10,China PR,3,0,South Korea,True,False,,EAFF Championship,2010
 2010-02-11,Japan,3,0,Hong Kong,False,False,,EAFF Championship,2010
-2010-02-14,Hong Kong,0,2,China PR,False,False,,EAFF Championship,2010
+2010-02-14,Hong Kong,0,2,China PR,True,False,,EAFF Championship,2010
 2010-02-14,Japan,1,3,South Korea,False,False,,EAFF Championship,2010
 2012-07-18,Guam,3,1,Northern Mariana Islands,False,False,,EAFF Championship,2012
-2012-07-20,Northern Mariana Islands,1,5,Macau,False,False,,EAFF Championship,2012
+2012-07-20,Northern Mariana Islands,1,5,Macau,True,False,,EAFF Championship,2012
 2012-07-22,Guam,3,0,Macau,False,False,,EAFF Championship,2012
 2012-12-01,Hong Kong,2,1,Guam,False,False,,EAFF Championship,2012
 2012-12-03,Hong Kong,0,1,Australia,False,False,,EAFF Championship,2012
-2012-12-03,North Korea,5,0,Guam,False,False,,EAFF Championship,2012
-2012-12-05,North Korea,1,1,Australia,False,False,,EAFF Championship,2012
-2012-12-07,Guam,0,9,Australia,False,False,,EAFF Championship,2012
+2012-12-03,North Korea,5,0,Guam,True,False,,EAFF Championship,2012
+2012-12-05,North Korea,1,1,Australia,True,False,,EAFF Championship,2012
+2012-12-07,Guam,0,9,Australia,True,False,,EAFF Championship,2012
 2012-12-07,Hong Kong,2,0,Taiwan,False,False,,EAFF Championship,2012
-2012-12-09,Australia,8,0,Taiwan,False,False,,EAFF Championship,2012
+2012-12-09,Australia,8,0,Taiwan,True,False,,EAFF Championship,2012
 2012-12-09,Hong Kong,0,4,North Korea,False,False,,EAFF Championship,2012
 2013-07-20,South Korea,0,0,Australia,False,False,,EAFF Championship,2013
-2013-07-21,Japan,3,3,China PR,False,False,,EAFF Championship,2013
+2013-07-21,Japan,3,3,China PR,True,False,,EAFF Championship,2013
 2013-07-24,South Korea,0,0,China PR,False,False,,EAFF Championship,2013
-2013-07-25,Japan,3,2,Australia,False,False,,EAFF Championship,2013
-2013-07-28,Australia,3,4,China PR,False,False,,EAFF Championship,2013
+2013-07-25,Japan,3,2,Australia,True,False,,EAFF Championship,2013
+2013-07-28,Australia,3,4,China PR,True,False,,EAFF Championship,2013
 2013-07-28,South Korea,1,2,Japan,False,False,,EAFF Championship,2013
 2014-07-21,Guam,0,0,Macau,False,False,,EAFF Championship,2014
-2014-07-21,Mongolia,4,0,Northern Mariana Islands,False,False,,EAFF Championship,2014
+2014-07-21,Mongolia,4,0,Northern Mariana Islands,True,False,,EAFF Championship,2014
 2014-07-23,Guam,2,0,Mongolia,False,False,,EAFF Championship,2014
-2014-07-23,Northern Mariana Islands,2,1,Macau,False,False,,EAFF Championship,2014
+2014-07-23,Northern Mariana Islands,2,1,Macau,True,False,,EAFF Championship,2014
 2014-07-25,Guam,5,0,Northern Mariana Islands,False,False,,EAFF Championship,2014
-2014-07-25,Macau,3,2,Mongolia,False,False,,EAFF Championship,2014
-2014-11-13,North Korea,2,1,Hong Kong,False,False,,EAFF Championship,2014
-2014-11-16,Guam,1,5,North Korea,False,False,,EAFF Championship,2014
-2014-11-19,Guam,0,0,Hong Kong,False,False,,EAFF Championship,2014
+2014-07-25,Macau,3,2,Mongolia,True,False,,EAFF Championship,2014
+2014-11-13,North Korea,2,1,Hong Kong,True,False,,EAFF Championship,2014
+2014-11-16,Guam,1,5,North Korea,True,False,,EAFF Championship,2014
+2014-11-19,Guam,0,0,Hong Kong,True,False,,EAFF Championship,2014
 2015-08-02,China PR,0,2,South Korea,False,False,,EAFF Championship,2015
-2015-08-02,North Korea,2,1,Japan,False,False,,EAFF Championship,2015
+2015-08-02,North Korea,2,1,Japan,True,False,,EAFF Championship,2015
 2015-08-05,China PR,2,0,North Korea,False,False,,EAFF Championship,2015
-2015-08-05,Japan,1,1,South Korea,False,False,,EAFF Championship,2015
+2015-08-05,Japan,1,1,South Korea,True,False,,EAFF Championship,2015
 2015-08-09,China PR,1,1,Japan,False,False,,EAFF Championship,2015
-2015-08-09,South Korea,0,0,North Korea,False,False,,EAFF Championship,2015
-2016-06-30,Macau,2,2,Mongolia,False,False,,EAFF Championship,2016
-2016-07-02,Mongolia,0,2,Taiwan,False,False,,EAFF Championship,2016
-2016-07-02,Northern Mariana Islands,1,3,Macau,False,False,,EAFF Championship,2016
-2016-07-04,Northern Mariana Islands,0,8,Mongolia,False,False,,EAFF Championship,2016
+2015-08-09,South Korea,0,0,North Korea,True,False,,EAFF Championship,2015
+2016-06-30,Macau,2,2,Mongolia,True,False,,EAFF Championship,2016
+2016-07-02,Mongolia,0,2,Taiwan,True,False,,EAFF Championship,2016
+2016-07-02,Northern Mariana Islands,1,3,Macau,True,False,,EAFF Championship,2016
+2016-07-04,Northern Mariana Islands,0,8,Mongolia,True,False,,EAFF Championship,2016
 2016-11-06,Hong Kong,3,2,Guam,False,False,,EAFF Championship,2016
-2016-11-06,North Korea,2,0,Taiwan,False,False,,EAFF Championship,2016
-2016-11-09,Guam,0,2,North Korea,False,False,,EAFF Championship,2016
+2016-11-06,North Korea,2,0,Taiwan,True,False,,EAFF Championship,2016
+2016-11-09,Guam,0,2,North Korea,True,False,,EAFF Championship,2016
 2016-11-09,Hong Kong,4,2,Taiwan,False,False,,EAFF Championship,2016
 2016-11-12,Hong Kong,0,1,North Korea,False,False,,EAFF Championship,2016
 2017-12-09,Japan,1,0,North Korea,False,False,,EAFF Championship,2017
-2017-12-09,South Korea,2,2,China PR,False,False,,EAFF Championship,2017
+2017-12-09,South Korea,2,2,China PR,True,False,,EAFF Championship,2017
 2017-12-12,Japan,2,1,China PR,False,False,,EAFF Championship,2017
-2017-12-12,North Korea,0,1,South Korea,False,False,,EAFF Championship,2017
-2017-12-16,China PR,1,1,North Korea,False,False,,EAFF Championship,2017
+2017-12-12,North Korea,0,1,South Korea,True,False,,EAFF Championship,2017
+2017-12-16,China PR,1,1,North Korea,True,False,,EAFF Championship,2017
 2017-12-16,Japan,1,4,South Korea,False,False,,EAFF Championship,2017
-2018-09-02,Guam,4,0,Northern Mariana Islands,False,False,,EAFF Championship,2018
+2018-09-02,Guam,4,0,Northern Mariana Islands,True,False,,EAFF Championship,2018
 2018-09-02,Mongolia,4,1,Macau,False,False,,EAFF Championship,2018
-2018-09-04,Macau,2,0,Guam,False,False,,EAFF Championship,2018
+2018-09-04,Macau,2,0,Guam,True,False,,EAFF Championship,2018
 2018-09-04,Mongolia,9,0,Northern Mariana Islands,False,False,,EAFF Championship,2018
-2018-09-06,Northern Mariana Islands,1,1,Macau,False,False,,EAFF Championship,2018
+2018-09-06,Northern Mariana Islands,1,1,Macau,True,False,,EAFF Championship,2018
 2018-09-06,Mongolia,1,1,Guam,False,False,,EAFF Championship,2018
-2018-11-11,North Korea,4,1,Mongolia,False,False,,EAFF Championship,2018
+2018-11-11,North Korea,4,1,Mongolia,True,False,,EAFF Championship,2018
 2018-11-11,Taiwan,1,2,Hong Kong,False,False,,EAFF Championship,2018
 2018-11-13,Taiwan,2,1,Mongolia,False,False,,EAFF Championship,2018
-2018-11-13,Hong Kong,0,0,North Korea,False,False,,EAFF Championship,2018
+2018-11-13,Hong Kong,0,0,North Korea,True,False,,EAFF Championship,2018
 2018-11-16,Taiwan,0,2,North Korea,False,False,,EAFF Championship,2018
-2018-11-16,Mongolia,1,5,Hong Kong,False,False,,EAFF Championship,2018
-2019-12-10,China PR,1,2,Japan,False,False,,EAFF Championship,2019
+2018-11-16,Mongolia,1,5,Hong Kong,True,False,,EAFF Championship,2018
+2019-12-10,China PR,1,2,Japan,True,False,,EAFF Championship,2019
 2019-12-11,South Korea,2,0,Hong Kong,False,False,,EAFF Championship,2019
-2019-12-14,Japan,5,0,Hong Kong,False,False,,EAFF Championship,2019
+2019-12-14,Japan,5,0,Hong Kong,True,False,,EAFF Championship,2019
 2019-12-15,South Korea,1,0,China PR,False,False,,EAFF Championship,2019
-2019-12-18,Hong Kong,0,2,China PR,False,False,,EAFF Championship,2019
+2019-12-18,Hong Kong,0,2,China PR,True,False,,EAFF Championship,2019
 2019-12-18,South Korea,1,0,Japan,False,False,,EAFF Championship,2019
 2022-07-19,Japan,6,0,Hong Kong,False,False,,EAFF Championship,2022
-2022-07-20,China PR,0,3,South Korea,False,False,,EAFF Championship,2022
-2022-07-24,South Korea,3,0,Hong Kong,False,False,,EAFF Championship,2022
+2022-07-20,China PR,0,3,South Korea,True,False,,EAFF Championship,2022
+2022-07-24,South Korea,3,0,Hong Kong,True,False,,EAFF Championship,2022
 2022-07-24,Japan,0,0,China PR,False,False,,EAFF Championship,2022
-2022-07-27,China PR,1,0,Hong Kong,False,False,,EAFF Championship,2022
+2022-07-27,China PR,1,0,Hong Kong,True,False,,EAFF Championship,2022
 2022-07-27,Japan,3,0,South Korea,False,False,,EAFF Championship,2022

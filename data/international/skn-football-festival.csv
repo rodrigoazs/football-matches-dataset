@@ -1,12 +1,12 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1998-05-28,Saint Kitts and Nevis,4,1,Trinidad and Tobago,False,False,,SKN Football Festival,1998
-2001-07-27,Jamaica,0,0,Martinique,False,False,,SKN Football Festival,2001
+2001-07-27,Jamaica,0,0,Martinique,True,False,,SKN Football Festival,2001
 2001-07-28,Saint Kitts and Nevis,4,2,Martinique,False,False,,SKN Football Festival,2001
 2001-07-30,Saint Kitts and Nevis,0,0,Jamaica,False,False,,SKN Football Festival,2001
-2002-07-25,Barbados,0,0,Trinidad and Tobago,False,False,,SKN Football Festival,2002
+2002-07-25,Barbados,0,0,Trinidad and Tobago,True,False,,SKN Football Festival,2002
 2002-07-25,Saint Kitts and Nevis,3,0,Taiwan,False,False,,SKN Football Festival,2002
 2002-07-27,Saint Kitts and Nevis,3,0,Barbados,False,False,,SKN Football Festival,2002
 2002-07-28,Saint Kitts and Nevis,2,1,Trinidad and Tobago,False,False,,SKN Football Festival,2002
 2003-07-29,Saint Kitts and Nevis,1,0,Haiti,False,False,,SKN Football Festival,2003
-2003-07-31,Haiti,2,0,Trinidad and Tobago,False,False,,SKN Football Festival,2003
+2003-07-31,Haiti,2,0,Trinidad and Tobago,True,False,,SKN Football Festival,2003
 2003-08-02,Saint Kitts and Nevis,1,2,Trinidad and Tobago,False,False,,SKN Football Festival,2003

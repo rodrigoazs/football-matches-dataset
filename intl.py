@@ -7,7 +7,6 @@ directory = "data"
 
 def main():
     df = pd.read_csv("results-int.csv")
-    df["neutral"] = df["neutral"].apply(lambda x: True if x == "TRUE" else False)
     df["tournament_year"] = df["date"].apply(lambda x: x[:4])
     df["tournament_name"] = df["tournament"]
     df["stage"] = None

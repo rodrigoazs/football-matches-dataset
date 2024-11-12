@@ -25,8 +25,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1965-06-06,Guinea,2,1,Mali,False,False,,African Cup of Nations qualification,1965
 1965-08-14,Liberia,2,1,DR Congo,False,False,,African Cup of Nations qualification,1965
 1965-08-22,Sudan,4,1,Uganda,False,False,,African Cup of Nations qualification,1965
-1965-09-05,DR Congo,4,2,Ivory Coast,False,False,,African Cup of Nations qualification,1965
-1965-09-21,DR Congo,3,2,Liberia,False,False,,African Cup of Nations qualification,1965
+1965-09-05,DR Congo,4,2,Ivory Coast,True,False,,African Cup of Nations qualification,1965
+1965-09-21,DR Congo,3,2,Liberia,True,False,,African Cup of Nations qualification,1965
 1965-09-21,Ivory Coast,4,0,Liberia,False,False,,African Cup of Nations qualification,1965
 1966-12-09,Libya,2,2,Egypt,False,False,,African Cup of Nations qualification,1966
 1967-01-26,Liberia,2,2,Guinea,False,False,,African Cup of Nations qualification,1967
@@ -55,7 +55,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1967-06-04,Uganda,0,1,Egypt,False,False,,African Cup of Nations qualification,1967
 1967-07-02,Senegal,4,1,Liberia,False,False,,African Cup of Nations qualification,1967
 1967-08-02,Tanzania,1,0,Mauritius,False,False,,African Cup of Nations qualification,1967
-1967-08-13,DR Congo,2,1,Sudan,False,False,,African Cup of Nations qualification,1967
+1967-08-13,DR Congo,2,1,Sudan,True,False,,African Cup of Nations qualification,1967
 1967-08-16,Mauritius,1,1,Tanzania,False,False,,African Cup of Nations qualification,1967
 1967-08-16,Togo,0,2,Ivory Coast,False,False,,African Cup of Nations qualification,1967
 1967-09-17,DR Congo,1,0,Tanzania,False,False,,African Cup of Nations qualification,1967
@@ -147,7 +147,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-07-15,Ghana,0,3,Ivory Coast,False,False,,African Cup of Nations qualification,1973
 1973-07-15,Zambia,5,1,Nigeria,False,False,,African Cup of Nations qualification,1973
 1973-07-15,Nigeria,3,2,Zambia,False,False,,African Cup of Nations qualification,1973
-1973-07-29,Ivory Coast,5,1,Central African Republic,False,False,,African Cup of Nations qualification,1973
+1973-07-29,Ivory Coast,5,1,Central African Republic,True,False,,African Cup of Nations qualification,1973
 1973-07-29,Ivory Coast,1,0,Ghana,False,False,,African Cup of Nations qualification,1973
 1974-08-10,Somalia,0,2,Burundi,False,False,,African Cup of Nations qualification,1974
 1974-08-24,Burundi,0,1,Somalia,False,False,,African Cup of Nations qualification,1974
@@ -634,7 +634,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-07-25,Mauritius,1,3,South Africa,False,False,,African Cup of Nations qualification,1993
 1993-07-25,Zimbabwe,1,1,Zambia,False,False,,African Cup of Nations qualification,1993
 1993-08-15,Congo,0,0,Guinea,False,False,,African Cup of Nations qualification,1993
-1993-10-24,Burundi,0,0,Guinea,False,False,,African Cup of Nations qualification,1993
+1993-10-24,Burundi,0,0,Guinea,True,False,,African Cup of Nations qualification,1993
 1994-09-03,Senegal,0,0,Mauritania,False,False,,African Cup of Nations qualification,1994
 1994-09-03,Tanzania,4,0,Uganda,False,False,,African Cup of Nations qualification,1994
 1994-09-04,Angola,2,0,Namibia,False,False,,African Cup of Nations qualification,1994
@@ -769,7 +769,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-01-26,Cameroon,4,0,Namibia,False,False,,African Cup of Nations qualification,1997
 1997-01-26,Guinea,1,0,Tunisia,False,False,,African Cup of Nations qualification,1997
 1997-01-26,Ivory Coast,1,0,Benin,False,False,,African Cup of Nations qualification,1997
-1997-01-26,Liberia,1,2,Togo,False,False,,African Cup of Nations qualification,1997
+1997-01-26,Liberia,1,2,Togo,True,False,,African Cup of Nations qualification,1997
 1997-01-26,Mali,1,0,Algeria,False,False,,African Cup of Nations qualification,1997
 1997-01-26,Mozambique,3,0,Mauritius,False,False,,African Cup of Nations qualification,1997
 1997-01-26,Tanzania,1,2,DR Congo,False,False,,African Cup of Nations qualification,1997
@@ -828,7 +828,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1998-08-02,Lesotho,1,1,Mauritius,False,False,,African Cup of Nations qualification,1998
 1998-08-02,Mali,3,0,Cape Verde,False,False,,African Cup of Nations qualification,1998
 1998-08-02,Niger,2,1,Liberia,False,False,,African Cup of Nations qualification,1998
-1998-08-02,São Tomé and Príncipe,0,4,Togo,False,False,,African Cup of Nations qualification,1998
+1998-08-02,São Tomé and Príncipe,0,4,Togo,True,False,,African Cup of Nations qualification,1998
 1998-08-02,Eswatini,1,2,Madagascar,False,False,,African Cup of Nations qualification,1998
 1998-08-14,Algeria,3,0,Libya,False,False,,African Cup of Nations qualification,1998
 1998-08-15,Kenya,9,1,Djibouti,False,False,,African Cup of Nations qualification,1998
@@ -906,7 +906,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-06-20,Ivory Coast,0,0,Mali,False,False,,African Cup of Nations qualification,1999
 1999-06-20,Liberia,2,0,Tunisia,False,False,,African Cup of Nations qualification,1999
 1999-06-20,Madagascar,1,1,Kenya,False,False,,African Cup of Nations qualification,1999
-1999-06-20,Mauritius,2,2,Gabon,False,False,,African Cup of Nations qualification,1999
+1999-06-20,Mauritius,2,2,Gabon,True,False,,African Cup of Nations qualification,1999
 1999-07-18,Senegal,6,2,Eritrea,False,False,,African Cup of Nations qualification,1999
 1999-08-08,Senegal,2,0,Zimbabwe,False,False,,African Cup of Nations qualification,1999
 1999-08-15,Zimbabwe,4,0,Eritrea,False,False,,African Cup of Nations qualification,1999
@@ -1111,7 +1111,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-06-21,Burkina Faso,3,0,Congo,False,False,,African Cup of Nations qualification,2003
 2003-06-21,Cape Verde,3,0,Mauritania,False,False,,African Cup of Nations qualification,2003
 2003-06-21,Eritrea,1,0,Seychelles,False,False,,African Cup of Nations qualification,2003
-2003-06-21,Liberia,1,2,Guinea,False,False,,African Cup of Nations qualification,2003
+2003-06-21,Liberia,1,2,Guinea,True,False,,African Cup of Nations qualification,2003
 2003-06-21,Nigeria,2,2,Angola,False,False,,African Cup of Nations qualification,2003
 2003-06-21,Zambia,1,1,Sudan,False,False,,African Cup of Nations qualification,2003
 2003-06-22,DR Congo,2,1,Libya,False,False,,African Cup of Nations qualification,2003
@@ -1221,7 +1221,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-06-02,Uganda,2,1,Nigeria,False,False,,African Cup of Nations qualification,2007
 2007-06-02,Zambia,3,0,Congo,False,False,,African Cup of Nations qualification,2007
 2007-06-03,Benin,0,0,Mali,False,False,,African Cup of Nations qualification,2007
-2007-06-03,Burundi,1,0,Botswana,False,False,,African Cup of Nations qualification,2007
+2007-06-03,Burundi,1,0,Botswana,True,False,,African Cup of Nations qualification,2007
 2007-06-03,Guinea,2,2,Gambia,False,False,,African Cup of Nations qualification,2007
 2007-06-03,Ivory Coast,5,0,Madagascar,False,False,,African Cup of Nations qualification,2007
 2007-06-03,Liberia,1,2,Cameroon,False,False,,African Cup of Nations qualification,2007
@@ -1338,13 +1338,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-03-27,Algeria,1,0,Morocco,False,False,,African Cup of Nations qualification,2011
 2011-03-27,Congo,0,3,Ghana,False,False,,African Cup of Nations qualification,2011
 2011-03-27,DR Congo,3,0,Mauritius,False,False,,African Cup of Nations qualification,2011
-2011-03-27,Ivory Coast,2,1,Benin,False,False,,African Cup of Nations qualification,2011
+2011-03-27,Ivory Coast,2,1,Benin,True,False,,African Cup of Nations qualification,2011
 2011-03-27,Madagascar,1,1,Guinea,False,False,,African Cup of Nations qualification,2011
 2011-03-27,Mozambique,0,2,Zambia,False,False,,African Cup of Nations qualification,2011
 2011-03-27,Niger,3,1,Sierra Leone,False,False,,African Cup of Nations qualification,2011
 2011-03-27,Nigeria,4,0,Ethiopia,False,False,,African Cup of Nations qualification,2011
 2011-03-27,Sudan,3,0,Eswatini,False,False,,African Cup of Nations qualification,2011
-2011-03-28,Libya,3,0,Comoros,False,False,,African Cup of Nations qualification,2011
+2011-03-28,Libya,3,0,Comoros,True,False,,African Cup of Nations qualification,2011
 2011-06-03,Ghana,3,1,Congo,False,False,,African Cup of Nations qualification,2011
 2011-06-04,Cameroon,0,0,Senegal,False,False,,African Cup of Nations qualification,2011
 2011-06-04,Central African Republic,2,1,Tanzania,False,False,,African Cup of Nations qualification,2011
@@ -1369,7 +1369,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-09-02,Ghana,2,0,Eswatini,False,False,,African Cup of Nations qualification,2011
 2011-09-03,Cameroon,5,0,Mauritius,False,False,,African Cup of Nations qualification,2011
 2011-09-03,Kenya,2,1,Guinea-Bissau,False,False,,African Cup of Nations qualification,2011
-2011-09-03,Libya,1,0,Mozambique,False,False,,African Cup of Nations qualification,2011
+2011-09-03,Libya,1,0,Mozambique,True,False,,African Cup of Nations qualification,2011
 2011-09-03,Malawi,0,0,Tunisia,False,False,,African Cup of Nations qualification,2011
 2011-09-03,Mali,3,0,Cape Verde,False,False,,African Cup of Nations qualification,2011
 2011-09-03,Namibia,1,0,Gambia,False,False,,African Cup of Nations qualification,2011
@@ -1415,16 +1415,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-05-17,Namibia,1,0,Congo,False,False,,African Cup of Nations qualification,2014
 2014-05-17,São Tomé and Príncipe,0,2,Benin,False,False,,African Cup of Nations qualification,2014
 2014-05-18,Burundi,0,0,Botswana,False,False,,African Cup of Nations qualification,2014
-2014-05-18,Central African Republic,0,0,Guinea-Bissau,False,False,,African Cup of Nations qualification,2014
+2014-05-18,Central African Republic,0,0,Guinea-Bissau,True,False,,African Cup of Nations qualification,2014
 2014-05-18,Eswatini,1,1,Sierra Leone,False,False,,African Cup of Nations qualification,2014
 2014-05-18,Kenya,1,0,Comoros,False,False,,African Cup of Nations qualification,2014
 2014-05-18,Liberia,1,0,Lesotho,False,False,,African Cup of Nations qualification,2014
-2014-05-18,Libya,0,0,Rwanda,False,False,,African Cup of Nations qualification,2014
+2014-05-18,Libya,0,0,Rwanda,True,False,,African Cup of Nations qualification,2014
 2014-05-18,Madagascar,2,1,Uganda,False,False,,African Cup of Nations qualification,2014
 2014-05-18,Mozambique,5,0,South Sudan,False,False,,African Cup of Nations qualification,2014
 2014-05-18,Tanzania,1,0,Zimbabwe,False,False,,African Cup of Nations qualification,2014
 2014-05-30,Comoros,1,1,Kenya,False,False,,African Cup of Nations qualification,2014
-2014-05-30,South Sudan,0,0,Mozambique,False,False,,African Cup of Nations qualification,2014
+2014-05-30,South Sudan,0,0,Mozambique,True,False,,African Cup of Nations qualification,2014
 2014-05-31,Chad,3,1,Malawi,False,False,,African Cup of Nations qualification,2014
 2014-05-31,Guinea-Bissau,3,1,Central African Republic,False,False,,African Cup of Nations qualification,2014
 2014-05-31,Rwanda,3,0,Libya,False,False,,African Cup of Nations qualification,2014
@@ -1449,7 +1449,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-08-03,Kenya,0,0,Lesotho,False,False,,African Cup of Nations qualification,2014
 2014-08-03,Mauritania,0,1,Uganda,False,False,,African Cup of Nations qualification,2014
 2014-08-03,Mozambique,2,1,Tanzania,False,False,,African Cup of Nations qualification,2014
-2014-09-05,Guinea,2,1,Togo,False,False,,African Cup of Nations qualification,2014
+2014-09-05,Guinea,2,1,Togo,True,False,,African Cup of Nations qualification,2014
 2014-09-05,Senegal,2,0,Egypt,False,False,,African Cup of Nations qualification,2014
 2014-09-05,Sudan,0,3,South Africa,False,False,,African Cup of Nations qualification,2014
 2014-09-06,Burkina Faso,2,0,Lesotho,False,False,,African Cup of Nations qualification,2014
@@ -1485,7 +1485,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-10-11,DR Congo,1,2,Ivory Coast,False,False,,African Cup of Nations qualification,2014
 2014-10-11,Ethiopia,0,2,Mali,False,False,,African Cup of Nations qualification,2014
 2014-10-11,Gabon,2,0,Burkina Faso,False,False,,African Cup of Nations qualification,2014
-2014-10-11,Guinea,1,1,Ghana,False,False,,African Cup of Nations qualification,2014
+2014-10-11,Guinea,1,1,Ghana,True,False,,African Cup of Nations qualification,2014
 2014-10-11,Malawi,0,2,Algeria,False,False,,African Cup of Nations qualification,2014
 2014-10-11,Mozambique,2,0,Cape Verde,False,False,,African Cup of Nations qualification,2014
 2014-10-11,Niger,0,0,Zambia,False,False,,African Cup of Nations qualification,2014
@@ -1524,7 +1524,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-11-19,Ethiopia,0,0,Malawi,False,False,,African Cup of Nations qualification,2014
 2014-11-19,Gabon,4,2,Lesotho,False,False,,African Cup of Nations qualification,2014
 2014-11-19,Ghana,3,1,Togo,False,False,,African Cup of Nations qualification,2014
-2014-11-19,Guinea,2,0,Uganda,False,False,,African Cup of Nations qualification,2014
+2014-11-19,Guinea,2,0,Uganda,True,False,,African Cup of Nations qualification,2014
 2014-11-19,Ivory Coast,0,0,Cameroon,False,False,,African Cup of Nations qualification,2014
 2014-11-19,Mali,2,0,Algeria,False,False,,African Cup of Nations qualification,2014
 2014-11-19,Niger,1,1,Mozambique,False,False,,African Cup of Nations qualification,2014
@@ -1533,7 +1533,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-11-19,Sudan,0,1,Congo,False,False,,African Cup of Nations qualification,2014
 2014-11-19,Tunisia,2,1,Egypt,False,False,,African Cup of Nations qualification,2014
 2014-11-19,Zambia,1,0,Cape Verde,False,False,,African Cup of Nations qualification,2014
-2015-06-12,Guinea,1,2,Eswatini,False,False,,African Cup of Nations qualification,2015
+2015-06-12,Guinea,1,2,Eswatini,True,False,,African Cup of Nations qualification,2015
 2015-06-12,Morocco,1,0,Libya,False,False,,African Cup of Nations qualification,2015
 2015-06-12,Tunisia,8,1,Djibouti,False,False,,African Cup of Nations qualification,2015
 2015-06-13,Algeria,4,0,Seychelles,False,False,,African Cup of Nations qualification,2015
@@ -1575,10 +1575,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2015-09-06,Gambia,0,1,Cameroon,False,False,,African Cup of Nations qualification,2015
 2015-09-06,Kenya,1,2,Zambia,False,False,,African Cup of Nations qualification,2015
 2015-09-06,Lesotho,1,3,Algeria,False,False,,African Cup of Nations qualification,2015
-2015-09-06,Libya,1,2,Cape Verde,False,False,,African Cup of Nations qualification,2015
+2015-09-06,Libya,1,2,Cape Verde,True,False,,African Cup of Nations qualification,2015
 2015-09-06,Madagascar,0,0,Angola,False,False,,African Cup of Nations qualification,2015
 2015-09-06,Mauritius,1,0,Mozambique,False,False,,African Cup of Nations qualification,2015
-2015-09-06,Sierra Leone,0,0,Ivory Coast,False,False,,African Cup of Nations qualification,2015
+2015-09-06,Sierra Leone,0,0,Ivory Coast,True,False,,African Cup of Nations qualification,2015
 2015-09-06,Eswatini,2,2,Malawi,False,False,,African Cup of Nations qualification,2015
 2015-09-06,Zimbabwe,1,1,Guinea,False,False,,African Cup of Nations qualification,2015
 2016-03-23,Guinea-Bissau,1,0,Kenya,False,False,,African Cup of Nations qualification,2016
@@ -1613,7 +1613,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-03-27,Mozambique,0,0,Ghana,False,False,,African Cup of Nations qualification,2016
 2016-03-28,Central African Republic,2,1,Madagascar,False,False,,African Cup of Nations qualification,2016
 2016-03-28,Equatorial Guinea,0,1,Mali,False,False,,African Cup of Nations qualification,2016
-2016-03-28,Libya,4,0,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2016
+2016-03-28,Libya,4,0,São Tomé and Príncipe,True,False,,African Cup of Nations qualification,2016
 2016-03-29,Angola,0,2,DR Congo,False,False,,African Cup of Nations qualification,2016
 2016-03-29,Egypt,1,0,Nigeria,False,False,,African Cup of Nations qualification,2016
 2016-03-29,Ethiopia,3,3,Algeria,False,False,,African Cup of Nations qualification,2016
@@ -1631,7 +1631,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-03-29,Uganda,0,0,Burkina Faso,False,False,,African Cup of Nations qualification,2016
 2016-06-02,Seychelles,0,2,Algeria,False,False,,African Cup of Nations qualification,2016
 2016-06-03,Djibouti,0,3,Tunisia,False,False,,African Cup of Nations qualification,2016
-2016-06-03,Libya,1,1,Morocco,False,False,,African Cup of Nations qualification,2016
+2016-06-03,Libya,1,1,Morocco,True,False,,African Cup of Nations qualification,2016
 2016-06-03,Mauritania,0,1,Cameroon,False,False,,African Cup of Nations qualification,2016
 2016-06-03,Sierra Leone,1,0,Sudan,False,False,,African Cup of Nations qualification,2016
 2016-06-04,Botswana,1,2,Uganda,False,False,,African Cup of Nations qualification,2016
@@ -1683,7 +1683,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-03-26,Madagascar,3,2,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2017
 2017-03-28,Mauritius,1,1,Comoros,False,False,,African Cup of Nations qualification,2017
 2017-03-28,South Sudan,6,0,Djibouti,False,False,,African Cup of Nations qualification,2017
-2017-06-09,Libya,5,1,Seychelles,False,False,,African Cup of Nations qualification,2017
+2017-06-09,Libya,5,1,Seychelles,True,False,,African Cup of Nations qualification,2017
 2017-06-09,Sudan,1,3,Madagascar,False,False,,African Cup of Nations qualification,2017
 2017-06-10,Burkina Faso,3,1,Angola,False,False,,African Cup of Nations qualification,2017
 2017-06-10,Burundi,3,0,South Sudan,False,False,,African Cup of Nations qualification,2017
@@ -1768,7 +1768,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-10-16,Comoros,2,2,Morocco,False,False,,African Cup of Nations qualification,2018
 2018-10-16,South Sudan,0,1,Gabon,False,False,,African Cup of Nations qualification,2018
 2018-10-16,Gambia,0,1,Togo,False,False,,African Cup of Nations qualification,2018
-2018-10-16,Libya,2,3,Nigeria,False,False,,African Cup of Nations qualification,2018
+2018-10-16,Libya,2,3,Nigeria,True,False,,African Cup of Nations qualification,2018
 2018-10-16,Rwanda,1,1,Guinea,False,False,,African Cup of Nations qualification,2018
 2018-10-16,Zimbabwe,1,1,DR Congo,False,False,,African Cup of Nations qualification,2018
 2018-10-16,Botswana,0,0,Burkina Faso,False,False,,African Cup of Nations qualification,2018
@@ -1815,7 +1815,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-03-23,Ivory Coast,3,0,Rwanda,False,False,,African Cup of Nations qualification,2019
 2019-03-23,Guinea-Bissau,2,2,Mozambique,False,False,,African Cup of Nations qualification,2019
 2019-03-24,Benin,2,1,Togo,False,False,,African Cup of Nations qualification,2019
-2019-03-24,Libya,1,2,South Africa,False,False,,African Cup of Nations qualification,2019
+2019-03-24,Libya,1,2,South Africa,True,False,,African Cup of Nations qualification,2019
 2019-03-24,Zimbabwe,2,0,Congo,False,False,,African Cup of Nations qualification,2019
 2019-03-24,Central African Republic,0,0,Guinea,False,False,,African Cup of Nations qualification,2019
 2019-03-24,Tanzania,3,0,Uganda,False,False,,African Cup of Nations qualification,2019
@@ -1824,7 +1824,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-10-09,Djibouti,1,1,Gambia,False,False,,African Cup of Nations qualification,2019
 2019-10-09,Liberia,1,0,Chad,False,False,,African Cup of Nations qualification,2019
 2019-10-09,Mauritius,1,3,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2019
-2019-10-09,South Sudan,2,1,Seychelles,False,False,,African Cup of Nations qualification,2019
+2019-10-09,South Sudan,2,1,Seychelles,True,False,,African Cup of Nations qualification,2019
 2019-10-13,Gambia,1,1,Djibouti,False,False,,African Cup of Nations qualification,2019
 2019-10-13,Chad,1,0,Liberia,False,False,,African Cup of Nations qualification,2019
 2019-10-13,São Tomé and Príncipe,2,1,Mauritius,False,False,,African Cup of Nations qualification,2019
@@ -1855,7 +1855,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-11-16,Madagascar,1,0,Ethiopia,False,False,,African Cup of Nations qualification,2019
 2019-11-17,Chad,0,2,Mali,False,False,,African Cup of Nations qualification,2019
 2019-11-17,Guinea,2,0,Namibia,False,False,,African Cup of Nations qualification,2019
-2019-11-17,South Sudan,1,2,Burkina Faso,False,False,,African Cup of Nations qualification,2019
+2019-11-17,South Sudan,1,2,Burkina Faso,True,False,,African Cup of Nations qualification,2019
 2019-11-17,Uganda,2,0,Malawi,False,False,,African Cup of Nations qualification,2019
 2019-11-17,South Africa,1,0,Sudan,False,False,,African Cup of Nations qualification,2019
 2019-11-17,Gabon,2,1,Angola,False,False,,African Cup of Nations qualification,2019
@@ -1875,13 +1875,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-11-19,Mauritania,2,0,Central African Republic,False,False,,African Cup of Nations qualification,2019
 2019-11-19,Zambia,1,2,Zimbabwe,False,False,,African Cup of Nations qualification,2019
 2019-11-19,Equatorial Guinea,0,1,Tunisia,False,False,,African Cup of Nations qualification,2019
-2019-11-19,Libya,2,1,Tanzania,False,False,,African Cup of Nations qualification,2019
+2019-11-19,Libya,2,1,Tanzania,True,False,,African Cup of Nations qualification,2019
 2019-11-19,Ethiopia,2,1,Ivory Coast,False,False,,African Cup of Nations qualification,2019
 2020-11-11,Guinea,1,0,Chad,False,False,,African Cup of Nations qualification,2020
 2020-11-11,Mauritania,1,1,Burundi,False,False,,African Cup of Nations qualification,2020
 2020-11-11,Kenya,1,1,Comoros,False,False,,African Cup of Nations qualification,2020
 2020-11-11,Senegal,2,0,Guinea-Bissau,False,False,,African Cup of Nations qualification,2020
-2020-11-11,Libya,2,3,Equatorial Guinea,False,False,,African Cup of Nations qualification,2020
+2020-11-11,Libya,2,3,Equatorial Guinea,True,False,,African Cup of Nations qualification,2020
 2020-11-12,Burkina Faso,3,1,Malawi,False,False,,African Cup of Nations qualification,2020
 2020-11-12,Uganda,1,0,South Sudan,False,False,,African Cup of Nations qualification,2020
 2020-11-12,Ghana,2,0,Sudan,False,False,,African Cup of Nations qualification,2020
@@ -1907,7 +1907,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-11-15,Guinea-Bissau,0,1,Senegal,False,False,,African Cup of Nations qualification,2020
 2020-11-15,Equatorial Guinea,1,0,Libya,False,False,,African Cup of Nations qualification,2020
 2020-11-16,Malawi,0,0,Burkina Faso,False,False,,African Cup of Nations qualification,2020
-2020-11-16,South Sudan,1,0,Uganda,False,False,,African Cup of Nations qualification,2020
+2020-11-16,South Sudan,1,0,Uganda,True,False,,African Cup of Nations qualification,2020
 2020-11-16,South Africa,4,2,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2020
 2020-11-16,Gambia,2,1,Gabon,False,False,,African Cup of Nations qualification,2020
 2020-11-16,Mozambique,0,2,Cameroon,False,False,,African Cup of Nations qualification,2020
@@ -1917,7 +1917,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-11-17,Namibia,1,2,Mali,False,False,,African Cup of Nations qualification,2020
 2020-11-17,Sudan,1,0,Ghana,False,False,,African Cup of Nations qualification,2020
 2020-11-17,Angola,0,1,DR Congo,False,False,,African Cup of Nations qualification,2020
-2020-11-17,Central African Republic,0,2,Morocco,False,False,,African Cup of Nations qualification,2020
+2020-11-17,Central African Republic,0,2,Morocco,True,False,,African Cup of Nations qualification,2020
 2020-11-17,Rwanda,0,0,Cape Verde,False,False,,African Cup of Nations qualification,2020
 2020-11-17,Togo,1,3,Egypt,False,False,,African Cup of Nations qualification,2020
 2020-11-17,Tanzania,1,1,Tunisia,False,False,,African Cup of Nations qualification,2020
@@ -1926,8 +1926,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-11-17,Sierra Leone,0,0,Nigeria,False,False,,African Cup of Nations qualification,2020
 2020-11-17,Lesotho,0,0,Benin,False,False,,African Cup of Nations qualification,2020
 2021-03-24,Chad,0,3,Namibia,False,False,,African Cup of Nations qualification,2021
-2021-03-24,Guinea,1,0,Mali,False,False,,African Cup of Nations qualification,2021
-2021-03-24,South Sudan,0,1,Malawi,False,False,,African Cup of Nations qualification,2021
+2021-03-24,Guinea,1,0,Mali,True,False,,African Cup of Nations qualification,2021
+2021-03-24,South Sudan,0,1,Malawi,True,False,,African Cup of Nations qualification,2021
 2021-03-24,Uganda,0,0,Burkina Faso,False,False,,African Cup of Nations qualification,2021
 2021-03-24,São Tomé and Príncipe,0,2,Sudan,False,False,,African Cup of Nations qualification,2021
 2021-03-24,Rwanda,1,0,Mozambique,False,False,,African Cup of Nations qualification,2021
@@ -1946,7 +1946,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-03-26,Cape Verde,3,1,Cameroon,False,False,,African Cup of Nations qualification,2021
 2021-03-26,Eswatini,1,3,Guinea-Bissau,False,False,,African Cup of Nations qualification,2021
 2021-03-26,Congo,0,0,Senegal,False,False,,African Cup of Nations qualification,2021
-2021-03-26,Niger,0,3,Ivory Coast,False,False,,African Cup of Nations qualification,2021
+2021-03-26,Niger,0,3,Ivory Coast,True,False,,African Cup of Nations qualification,2021
 2021-03-27,Lesotho,0,0,Sierra Leone,False,False,,African Cup of Nations qualification,2021
 2021-03-27,Benin,0,1,Nigeria,False,False,,African Cup of Nations qualification,2021
 2021-03-28,Namibia,2,1,Guinea,False,False,,African Cup of Nations qualification,2021
@@ -1972,42 +1972,42 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-03-30,Ivory Coast,3,1,Ethiopia,False,False,,African Cup of Nations qualification,2021
 2021-03-30,Madagascar,0,0,Niger,False,False,,African Cup of Nations qualification,2021
 2021-03-30,Nigeria,3,0,Lesotho,False,False,,African Cup of Nations qualification,2021
-2021-06-15,Sierra Leone,1,0,Benin,False,False,,African Cup of Nations qualification,2021
-2022-03-23,Chad,0,1,Gambia,False,False,,African Cup of Nations qualification,2022
-2022-03-23,Djibouti,2,4,South Sudan,False,False,,African Cup of Nations qualification,2022
-2022-03-23,Seychelles,0,0,Lesotho,False,False,,African Cup of Nations qualification,2022
-2022-03-23,Somalia,0,3,Eswatini,False,False,,African Cup of Nations qualification,2022
+2021-06-15,Sierra Leone,1,0,Benin,True,False,,African Cup of Nations qualification,2021
+2022-03-23,Chad,0,1,Gambia,True,False,,African Cup of Nations qualification,2022
+2022-03-23,Djibouti,2,4,South Sudan,True,False,,African Cup of Nations qualification,2022
+2022-03-23,Seychelles,0,0,Lesotho,True,False,,African Cup of Nations qualification,2022
+2022-03-23,Somalia,0,3,Eswatini,True,False,,African Cup of Nations qualification,2022
 2022-03-24,Mauritius,3,0,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2022
-2022-03-27,South Sudan,1,0,Djibouti,False,False,,African Cup of Nations qualification,2022
-2022-03-27,Lesotho,3,1,Seychelles,False,False,,African Cup of Nations qualification,2022
-2022-03-27,Eswatini,2,1,Somalia,False,False,,African Cup of Nations qualification,2022
+2022-03-27,South Sudan,1,0,Djibouti,True,False,,African Cup of Nations qualification,2022
+2022-03-27,Lesotho,3,1,Seychelles,True,False,,African Cup of Nations qualification,2022
+2022-03-27,Eswatini,2,1,Somalia,True,False,,African Cup of Nations qualification,2022
 2022-03-27,Mauritius,3,3,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2022
-2022-03-29,Gambia,2,2,Chad,False,False,,African Cup of Nations qualification,2022
+2022-03-29,Gambia,2,2,Chad,True,False,,African Cup of Nations qualification,2022
 2022-06-01,Angola,2,1,Central African Republic,False,False,,African Cup of Nations qualification,2022
 2022-06-01,Ghana,3,0,Madagascar,False,False,,African Cup of Nations qualification,2022
 2022-06-01,Libya,1,0,Botswana,False,False,,African Cup of Nations qualification,2022
 2022-06-02,Tunisia,4,0,Equatorial Guinea,False,False,,African Cup of Nations qualification,2022
-2022-06-02,Mozambique,1,1,Rwanda,False,False,,African Cup of Nations qualification,2022
+2022-06-02,Mozambique,1,1,Rwanda,True,False,,African Cup of Nations qualification,2022
 2022-06-03,Togo,2,2,Eswatini,False,False,,African Cup of Nations qualification,2022
-2022-06-03,Burkina Faso,2,0,Cape Verde,False,False,,African Cup of Nations qualification,2022
+2022-06-03,Burkina Faso,2,0,Cape Verde,True,False,,African Cup of Nations qualification,2022
 2022-06-03,Comoros,2,0,Lesotho,False,False,,African Cup of Nations qualification,2022
 2022-06-03,Ivory Coast,3,1,Zambia,False,False,,African Cup of Nations qualification,2022
-2022-06-04,Namibia,1,1,Burundi,False,False,,African Cup of Nations qualification,2022
-2022-06-04,Niger,1,1,Tanzania,False,False,,African Cup of Nations qualification,2022
+2022-06-04,Namibia,1,1,Burundi,True,False,,African Cup of Nations qualification,2022
+2022-06-04,Niger,1,1,Tanzania,True,False,,African Cup of Nations qualification,2022
 2022-06-04,Algeria,2,0,Uganda,False,False,,African Cup of Nations qualification,2022
-2022-06-04,Gambia,1,0,South Sudan,False,False,,African Cup of Nations qualification,2022
+2022-06-04,Gambia,1,0,South Sudan,True,False,,African Cup of Nations qualification,2022
 2022-06-04,Mali,4,0,Congo,False,False,,African Cup of Nations qualification,2022
 2022-06-04,Mauritania,3,0,Sudan,False,False,,African Cup of Nations qualification,2022
 2022-06-04,DR Congo,0,1,Gabon,False,False,,African Cup of Nations qualification,2022
 2022-06-04,Senegal,3,1,Benin,False,False,,African Cup of Nations qualification,2022
 2022-06-05,Malawi,2,1,Ethiopia,False,False,,African Cup of Nations qualification,2022
 2022-06-05,Egypt,1,0,Guinea,False,False,,African Cup of Nations qualification,2022
-2022-06-05,Central African Republic,1,1,Ghana,False,False,,African Cup of Nations qualification,2022
+2022-06-05,Central African Republic,1,1,Ghana,True,False,,African Cup of Nations qualification,2022
 2022-06-05,Madagascar,1,1,Angola,False,False,,African Cup of Nations qualification,2022
 2022-06-05,Botswana,0,0,Tunisia,False,False,,African Cup of Nations qualification,2022
 2022-06-06,Equatorial Guinea,2,0,Libya,False,False,,African Cup of Nations qualification,2022
-2022-06-07,Eswatini,1,3,Burkina Faso,False,False,,African Cup of Nations qualification,2022
-2022-06-07,Cape Verde,2,0,Togo,False,False,,African Cup of Nations qualification,2022
+2022-06-07,Eswatini,1,3,Burkina Faso,True,False,,African Cup of Nations qualification,2022
+2022-06-07,Cape Verde,2,0,Togo,True,False,,African Cup of Nations qualification,2022
 2022-06-07,Zambia,2,1,Comoros,False,False,,African Cup of Nations qualification,2022
 2022-06-07,Senegal,1,0,Rwanda,False,False,,African Cup of Nations qualification,2022
 2022-06-08,Uganda,1,1,Niger,False,False,,African Cup of Nations qualification,2022
@@ -2016,18 +2016,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-06-08,Gabon,0,0,Mauritania,False,False,,African Cup of Nations qualification,2022
 2022-06-08,Sudan,2,1,DR Congo,False,False,,African Cup of Nations qualification,2022
 2022-06-08,Benin,0,1,Mozambique,False,False,,African Cup of Nations qualification,2022
-2022-06-09,Guinea-Bissau,5,1,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2022
+2022-06-09,Guinea-Bissau,5,1,São Tomé and Príncipe,True,False,,African Cup of Nations qualification,2022
 2022-06-09,Nigeria,2,1,Sierra Leone,False,False,,African Cup of Nations qualification,2022
-2022-06-09,Burundi,0,1,Cameroon,False,False,,African Cup of Nations qualification,2022
-2022-06-09,Ethiopia,2,0,Egypt,False,False,,African Cup of Nations qualification,2022
+2022-06-09,Burundi,0,1,Cameroon,True,False,,African Cup of Nations qualification,2022
+2022-06-09,Ethiopia,2,0,Egypt,True,False,,African Cup of Nations qualification,2022
 2022-06-09,Guinea,1,0,Malawi,False,False,,African Cup of Nations qualification,2022
-2022-06-09,South Sudan,1,3,Mali,False,False,,African Cup of Nations qualification,2022
-2022-06-09,Lesotho,0,0,Ivory Coast,False,False,,African Cup of Nations qualification,2022
+2022-06-09,South Sudan,1,3,Mali,True,False,,African Cup of Nations qualification,2022
+2022-06-09,Lesotho,0,0,Ivory Coast,True,False,,African Cup of Nations qualification,2022
 2022-06-09,Morocco,2,1,South Africa,False,False,,African Cup of Nations qualification,2022
-2022-06-13,São Tomé and Príncipe,0,10,Nigeria,False,False,,African Cup of Nations qualification,2022
-2022-06-13,Sierra Leone,2,2,Guinea-Bissau,False,False,,African Cup of Nations qualification,2022
+2022-06-13,São Tomé and Príncipe,0,10,Nigeria,True,False,,African Cup of Nations qualification,2022
+2022-06-13,Sierra Leone,2,2,Guinea-Bissau,True,False,,African Cup of Nations qualification,2022
 2022-06-13,Morocco,2,0,Liberia,False,False,,African Cup of Nations qualification,2022
-2023-03-22,Sierra Leone,2,2,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2023
+2023-03-22,Sierra Leone,2,2,São Tomé and Príncipe,True,False,,African Cup of Nations qualification,2023
 2023-03-22,Benin,1,1,Rwanda,False,False,,African Cup of Nations qualification,2023
 2023-03-23,Madagascar,0,3,Central African Republic,False,False,,African Cup of Nations qualification,2023
 2023-03-23,Ghana,1,0,Angola,False,False,,African Cup of Nations qualification,2023
@@ -2037,33 +2037,33 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-23,Gabon,1,0,Sudan,False,False,,African Cup of Nations qualification,2023
 2023-03-24,Nigeria,0,1,Guinea-Bissau,False,False,,African Cup of Nations qualification,2023
 2023-03-24,Cape Verde,0,0,Eswatini,False,False,,African Cup of Nations qualification,2023
-2023-03-24,Burkina Faso,1,0,Togo,False,False,,African Cup of Nations qualification,2023
+2023-03-24,Burkina Faso,1,0,Togo,True,False,,African Cup of Nations qualification,2023
 2023-03-24,Cameroon,1,1,Namibia,False,False,,African Cup of Nations qualification,2023
-2023-03-24,Guinea,2,0,Ethiopia,False,False,,African Cup of Nations qualification,2023
+2023-03-24,Guinea,2,0,Ethiopia,True,False,,African Cup of Nations qualification,2023
 2023-03-24,Egypt,2,0,Malawi,False,False,,African Cup of Nations qualification,2023
-2023-03-24,Uganda,0,1,Tanzania,False,False,,African Cup of Nations qualification,2023
+2023-03-24,Uganda,0,1,Tanzania,True,False,,African Cup of Nations qualification,2023
 2023-03-24,Mali,2,0,Gambia,False,False,,African Cup of Nations qualification,2023
 2023-03-24,Ivory Coast,3,1,Comoros,False,False,,African Cup of Nations qualification,2023
-2023-03-24,DR Congo,3,1,Mauritania,False,False,,African Cup of Nations qualification,2023
+2023-03-24,DR Congo,3,1,Mauritania,True,False,,African Cup of Nations qualification,2023
 2023-03-24,Equatorial Guinea,2,0,Botswana,False,False,,African Cup of Nations qualification,2023
 2023-03-24,Tunisia,3,0,Libya,False,False,,African Cup of Nations qualification,2023
 2023-03-24,South Africa,2,2,Liberia,False,False,,African Cup of Nations qualification,2023
 2023-03-24,Senegal,5,1,Mozambique,False,False,,African Cup of Nations qualification,2023
-2023-03-26,São Tomé and Príncipe,0,2,Sierra Leone,False,False,,African Cup of Nations qualification,2023
-2023-03-26,Lesotho,0,2,Zambia,False,False,,African Cup of Nations qualification,2023
+2023-03-26,São Tomé and Príncipe,0,2,Sierra Leone,True,False,,African Cup of Nations qualification,2023
+2023-03-26,Lesotho,0,2,Zambia,True,False,,African Cup of Nations qualification,2023
 2023-03-27,Guinea-Bissau,0,1,Nigeria,False,False,,African Cup of Nations qualification,2023
-2023-03-27,Ethiopia,2,3,Guinea,False,False,,African Cup of Nations qualification,2023
-2023-03-27,Central African Republic,2,0,Madagascar,False,False,,African Cup of Nations qualification,2023
+2023-03-27,Ethiopia,2,3,Guinea,True,False,,African Cup of Nations qualification,2023
+2023-03-27,Central African Republic,2,0,Madagascar,True,False,,African Cup of Nations qualification,2023
 2023-03-27,Angola,1,1,Ghana,False,False,,African Cup of Nations qualification,2023
-2023-03-27,Niger,0,1,Algeria,False,False,,African Cup of Nations qualification,2023
-2023-03-27,South Sudan,0,1,Congo,False,False,,African Cup of Nations qualification,2023
+2023-03-27,Niger,0,1,Algeria,True,False,,African Cup of Nations qualification,2023
+2023-03-27,South Sudan,0,1,Congo,True,False,,African Cup of Nations qualification,2023
 2023-03-27,Sudan,1,0,Gabon,False,False,,African Cup of Nations qualification,2023
-2023-03-28,Eswatini,0,1,Cape Verde,False,False,,African Cup of Nations qualification,2023
+2023-03-28,Eswatini,0,1,Cape Verde,True,False,,African Cup of Nations qualification,2023
 2023-03-28,Togo,1,1,Burkina Faso,False,False,,African Cup of Nations qualification,2023
-2023-03-28,Namibia,2,1,Cameroon,False,False,,African Cup of Nations qualification,2023
+2023-03-28,Namibia,2,1,Cameroon,True,False,,African Cup of Nations qualification,2023
 2023-03-28,Malawi,0,4,Egypt,False,False,,African Cup of Nations qualification,2023
 2023-03-28,Tanzania,0,1,Uganda,False,False,,African Cup of Nations qualification,2023
-2023-03-28,Gambia,1,0,Mali,False,False,,African Cup of Nations qualification,2023
+2023-03-28,Gambia,1,0,Mali,True,False,,African Cup of Nations qualification,2023
 2023-03-28,Comoros,0,2,Ivory Coast,False,False,,African Cup of Nations qualification,2023
 2023-03-28,Mauritania,1,1,DR Congo,False,False,,African Cup of Nations qualification,2023
 2023-03-28,Botswana,2,3,Equatorial Guinea,False,False,,African Cup of Nations qualification,2023
@@ -2072,35 +2072,35 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-28,Mozambique,0,1,Senegal,False,False,,African Cup of Nations qualification,2023
 2023-03-29,Rwanda,1,1,Benin,False,False,,African Cup of Nations qualification,2023
 2023-06-14,Guinea-Bissau,1,0,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2023
-2023-06-14,Guinea,1,2,Egypt,False,False,,African Cup of Nations qualification,2023
-2023-06-14,South Sudan,2,3,Gambia,False,False,,African Cup of Nations qualification,2023
-2023-06-17,Central African Republic,1,2,Angola,False,False,,African Cup of Nations qualification,2023
+2023-06-14,Guinea,1,2,Egypt,True,False,,African Cup of Nations qualification,2023
+2023-06-14,South Sudan,2,3,Gambia,True,False,,African Cup of Nations qualification,2023
+2023-06-17,Central African Republic,1,2,Angola,True,False,,African Cup of Nations qualification,2023
 2023-06-17,Zambia,3,0,Ivory Coast,False,False,,African Cup of Nations qualification,2023
-2023-06-17,Lesotho,0,1,Comoros,False,False,,African Cup of Nations qualification,2023
+2023-06-17,Lesotho,0,1,Comoros,True,False,,African Cup of Nations qualification,2023
 2023-06-17,Equatorial Guinea,1,0,Tunisia,False,False,,African Cup of Nations qualification,2023
 2023-06-17,Botswana,1,0,Libya,False,False,,African Cup of Nations qualification,2023
 2023-06-17,South Africa,2,1,Morocco,False,False,,African Cup of Nations qualification,2023
 2023-06-17,Benin,1,1,Senegal,False,False,,African Cup of Nations qualification,2023
-2023-06-18,Sierra Leone,2,3,Nigeria,False,False,,African Cup of Nations qualification,2023
+2023-06-18,Sierra Leone,2,3,Nigeria,True,False,,African Cup of Nations qualification,2023
 2023-06-18,Cape Verde,3,1,Burkina Faso,False,False,,African Cup of Nations qualification,2023
-2023-06-18,Eswatini,0,2,Togo,False,False,,African Cup of Nations qualification,2023
+2023-06-18,Eswatini,0,2,Togo,True,False,,African Cup of Nations qualification,2023
 2023-06-18,Madagascar,0,0,Ghana,False,False,,African Cup of Nations qualification,2023
 2023-06-18,Tanzania,1,0,Niger,False,False,,African Cup of Nations qualification,2023
-2023-06-18,Uganda,1,2,Algeria,False,False,,African Cup of Nations qualification,2023
+2023-06-18,Uganda,1,2,Algeria,True,False,,African Cup of Nations qualification,2023
 2023-06-18,Congo,0,2,Mali,False,False,,African Cup of Nations qualification,2023
 2023-06-18,Gabon,0,2,DR Congo,False,False,,African Cup of Nations qualification,2023
 2023-06-18,Rwanda,0,2,Mozambique,False,False,,African Cup of Nations qualification,2023
-2023-06-20,Burundi,3,2,Namibia,False,False,,African Cup of Nations qualification,2023
-2023-06-20,Ethiopia,0,0,Malawi,False,False,,African Cup of Nations qualification,2023
-2023-06-20,Sudan,0,3,Mauritania,False,False,,African Cup of Nations qualification,2023
+2023-06-20,Burundi,3,2,Namibia,True,False,,African Cup of Nations qualification,2023
+2023-06-20,Ethiopia,0,0,Malawi,True,False,,African Cup of Nations qualification,2023
+2023-06-20,Sudan,0,3,Mauritania,True,False,,African Cup of Nations qualification,2023
 2023-09-04,Mozambique,3,2,Benin,False,False,,African Cup of Nations qualification,2023
 2023-09-06,Libya,1,1,Equatorial Guinea,False,False,,African Cup of Nations qualification,2023
 2023-09-07,Ghana,2,1,Central African Republic,False,False,,African Cup of Nations qualification,2023
 2023-09-07,Angola,0,0,Madagascar,False,False,,African Cup of Nations qualification,2023
 2023-09-07,Algeria,0,0,Tanzania,False,False,,African Cup of Nations qualification,2023
-2023-09-07,Niger,0,2,Uganda,False,False,,African Cup of Nations qualification,2023
+2023-09-07,Niger,0,2,Uganda,True,False,,African Cup of Nations qualification,2023
 2023-09-07,Tunisia,3,0,Botswana,False,False,,African Cup of Nations qualification,2023
-2023-09-08,Burkina Faso,0,0,Eswatini,False,False,,African Cup of Nations qualification,2023
+2023-09-08,Burkina Faso,0,0,Eswatini,True,False,,African Cup of Nations qualification,2023
 2023-09-08,Egypt,1,0,Ethiopia,False,False,,African Cup of Nations qualification,2023
 2023-09-08,Mali,4,0,South Sudan,False,False,,African Cup of Nations qualification,2023
 2023-09-09,Malawi,2,2,Guinea,False,False,,African Cup of Nations qualification,2023
@@ -2111,24 +2111,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-09-09,Rwanda,1,1,Senegal,False,False,,African Cup of Nations qualification,2023
 2023-09-10,Nigeria,6,0,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2023
 2023-09-10,Togo,3,2,Cape Verde,False,False,,African Cup of Nations qualification,2023
-2023-09-10,Gambia,2,2,Congo,False,False,,African Cup of Nations qualification,2023
+2023-09-10,Gambia,2,2,Congo,True,False,,African Cup of Nations qualification,2023
 2023-09-11,Guinea-Bissau,2,1,Sierra Leone,False,False,,African Cup of Nations qualification,2023
 2023-09-12,Cameroon,3,0,Burundi,False,False,,African Cup of Nations qualification,2023
 2023-10-17,Morocco,3,0,Liberia,False,False,,African Cup of Nations qualification,2023
-2024-03-20,Djibouti,0,2,Liberia,False,False,,African Cup of Nations qualification,2024
-2024-03-20,Somalia,0,3,Eswatini,False,False,,African Cup of Nations qualification,2024
-2024-03-22,Chad,1,0,Mauritius,False,False,,African Cup of Nations qualification,2024
-2024-03-22,São Tomé and Príncipe,1,1,South Sudan,False,False,,African Cup of Nations qualification,2024
+2024-03-20,Djibouti,0,2,Liberia,True,False,,African Cup of Nations qualification,2024
+2024-03-20,Somalia,0,3,Eswatini,True,False,,African Cup of Nations qualification,2024
+2024-03-22,Chad,1,0,Mauritius,True,False,,African Cup of Nations qualification,2024
+2024-03-22,São Tomé and Príncipe,1,1,South Sudan,True,False,,African Cup of Nations qualification,2024
 2024-03-26,Liberia,0,0,Djibouti,False,False,,African Cup of Nations qualification,2024
-2024-03-26,Eswatini,2,2,Somalia,False,False,,African Cup of Nations qualification,2024
+2024-03-26,Eswatini,2,2,Somalia,True,False,,African Cup of Nations qualification,2024
 2024-03-26,Mauritius,1,2,Chad,False,False,,African Cup of Nations qualification,2024
-2024-03-26,South Sudan,0,0,São Tomé and Príncipe,False,False,,African Cup of Nations qualification,2024
-2024-09-04,Comoros,1,1,Gambia,False,False,,African Cup of Nations qualification,2024
+2024-03-26,South Sudan,0,0,São Tomé and Príncipe,True,False,,African Cup of Nations qualification,2024
+2024-09-04,Comoros,1,1,Gambia,True,False,,African Cup of Nations qualification,2024
 2024-09-04,Libya,1,1,Rwanda,False,False,,African Cup of Nations qualification,2024
-2024-09-04,Sudan,1,0,Niger,False,False,,African Cup of Nations qualification,2024
+2024-09-04,Sudan,1,0,Niger,True,False,,African Cup of Nations qualification,2024
 2024-09-04,Tanzania,0,0,Ethiopia,False,False,,African Cup of Nations qualification,2024
 2024-09-05,Tunisia,1,0,Madagascar,False,False,,African Cup of Nations qualification,2024
-2024-09-05,Central African Republic,3,1,Lesotho,False,False,,African Cup of Nations qualification,2024
+2024-09-05,Central African Republic,3,1,Lesotho,True,False,,African Cup of Nations qualification,2024
 2024-09-05,Algeria,2,0,Equatorial Guinea,False,False,,African Cup of Nations qualification,2024
 2024-09-05,Ghana,0,1,Angola,False,False,,African Cup of Nations qualification,2024
 2024-09-05,Guinea-Bissau,1,0,Eswatini,False,False,,African Cup of Nations qualification,2024
@@ -2137,50 +2137,50 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-09-06,Morocco,4,1,Gabon,False,False,,African Cup of Nations qualification,2024
 2024-09-06,Egypt,3,0,Cape Verde,False,False,,African Cup of Nations qualification,2024
 2024-09-06,Togo,1,1,Liberia,False,False,,African Cup of Nations qualification,2024
-2024-09-06,Sierra Leone,0,0,Chad,False,False,,African Cup of Nations qualification,2024
+2024-09-06,Sierra Leone,0,0,Chad,True,False,,African Cup of Nations qualification,2024
 2024-09-06,Ivory Coast,2,0,Zambia,False,False,,African Cup of Nations qualification,2024
 2024-09-06,DR Congo,1,0,Guinea,False,False,,African Cup of Nations qualification,2024
 2024-09-06,Mali,1,1,Mozambique,False,False,,African Cup of Nations qualification,2024
-2024-09-06,Kenya,0,0,Zimbabwe,False,False,,African Cup of Nations qualification,2024
+2024-09-06,Kenya,0,0,Zimbabwe,True,False,,African Cup of Nations qualification,2024
 2024-09-06,South Africa,2,2,Uganda,False,False,,African Cup of Nations qualification,2024
 2024-09-06,Senegal,1,1,Burkina Faso,False,False,,African Cup of Nations qualification,2024
 2024-09-07,Mauritania,1,0,Botswana,False,False,,African Cup of Nations qualification,2024
 2024-09-07,Nigeria,3,0,Benin,False,False,,African Cup of Nations qualification,2024
 2024-09-07,Cameroon,1,0,Namibia,False,False,,African Cup of Nations qualification,2024
-2024-09-08,Gambia,1,2,Tunisia,False,False,,African Cup of Nations qualification,2024
-2024-09-09,Madagascar,1,1,Comoros,False,False,,African Cup of Nations qualification,2024
+2024-09-08,Gambia,1,2,Tunisia,True,False,,African Cup of Nations qualification,2024
+2024-09-09,Madagascar,1,1,Comoros,True,False,,African Cup of Nations qualification,2024
 2024-09-09,Morocco,1,0,Lesotho,False,False,,African Cup of Nations qualification,2024
 2024-09-09,Equatorial Guinea,2,2,Togo,False,False,,African Cup of Nations qualification,2024
-2024-09-09,Niger,1,1,Ghana,False,False,,African Cup of Nations qualification,2024
+2024-09-09,Niger,1,1,Ghana,True,False,,African Cup of Nations qualification,2024
 2024-09-09,Angola,2,1,Sudan,False,False,,African Cup of Nations qualification,2024
-2024-09-09,Ethiopia,0,2,DR Congo,False,False,,African Cup of Nations qualification,2024
+2024-09-09,Ethiopia,0,2,DR Congo,True,False,,African Cup of Nations qualification,2024
 2024-09-09,Uganda,2,0,Congo,False,False,,African Cup of Nations qualification,2024
-2024-09-09,Burundi,0,1,Senegal,False,False,,African Cup of Nations qualification,2024
+2024-09-09,Burundi,0,1,Senegal,True,False,,African Cup of Nations qualification,2024
 2024-09-10,Gabon,2,0,Central African Republic,False,False,,African Cup of Nations qualification,2024
 2024-09-10,Botswana,0,4,Egypt,False,False,,African Cup of Nations qualification,2024
 2024-09-10,Cape Verde,2,0,Mauritania,False,False,,African Cup of Nations qualification,2024
 2024-09-10,Rwanda,0,0,Nigeria,False,False,,African Cup of Nations qualification,2024
-2024-09-10,Benin,2,1,Libya,False,False,,African Cup of Nations qualification,2024
+2024-09-10,Benin,2,1,Libya,True,False,,African Cup of Nations qualification,2024
 2024-09-10,Liberia,0,3,Algeria,False,False,,African Cup of Nations qualification,2024
 2024-09-10,Zambia,3,2,Sierra Leone,False,False,,African Cup of Nations qualification,2024
-2024-09-10,Chad,0,2,Ivory Coast,False,False,,African Cup of Nations qualification,2024
-2024-09-10,Guinea,1,2,Tanzania,False,False,,African Cup of Nations qualification,2024
+2024-09-10,Chad,0,2,Ivory Coast,True,False,,African Cup of Nations qualification,2024
+2024-09-10,Guinea,1,2,Tanzania,True,False,,African Cup of Nations qualification,2024
 2024-09-10,Mozambique,2,1,Guinea-Bissau,False,False,,African Cup of Nations qualification,2024
-2024-09-10,Eswatini,0,1,Mali,False,False,,African Cup of Nations qualification,2024
-2024-09-10,Namibia,1,2,Kenya,False,False,,African Cup of Nations qualification,2024
+2024-09-10,Eswatini,0,1,Mali,True,False,,African Cup of Nations qualification,2024
+2024-09-10,Namibia,1,2,Kenya,True,False,,African Cup of Nations qualification,2024
 2024-09-10,South Sudan,2,3,South Africa,False,False,,African Cup of Nations qualification,2024
-2024-09-10,Burkina Faso,3,1,Malawi,False,False,,African Cup of Nations qualification,2024
+2024-09-10,Burkina Faso,3,1,Malawi,True,False,,African Cup of Nations qualification,2024
 2024-10-10,Cape Verde,0,1,Botswana,False,False,,African Cup of Nations qualification,2024
 2024-10-10,Algeria,5,1,Togo,False,False,,African Cup of Nations qualification,2024
 2024-10-10,Ghana,0,0,Sudan,False,False,,African Cup of Nations qualification,2024
 2024-10-10,DR Congo,1,0,Tanzania,False,False,,African Cup of Nations qualification,2024
-2024-10-10,Namibia,0,1,Zimbabwe,False,False,,African Cup of Nations qualification,2024
-2024-10-10,Burkina Faso,4,1,Burundi,False,False,,African Cup of Nations qualification,2024
-2024-10-11,Madagascar,1,1,Gambia,False,False,,African Cup of Nations qualification,2024
+2024-10-10,Namibia,0,1,Zimbabwe,True,False,,African Cup of Nations qualification,2024
+2024-10-10,Burkina Faso,4,1,Burundi,True,False,,African Cup of Nations qualification,2024
+2024-10-11,Madagascar,1,1,Gambia,True,False,,African Cup of Nations qualification,2024
 2024-10-11,Tunisia,0,1,Comoros,False,False,,African Cup of Nations qualification,2024
 2024-10-11,Gabon,0,0,Lesotho,False,False,,African Cup of Nations qualification,2024
 2024-10-11,Egypt,2,0,Mauritania,False,False,,African Cup of Nations qualification,2024
-2024-10-11,Benin,3,0,Rwanda,False,False,,African Cup of Nations qualification,2024
+2024-10-11,Benin,3,0,Rwanda,True,False,,African Cup of Nations qualification,2024
 2024-10-11,Nigeria,1,0,Libya,False,False,,African Cup of Nations qualification,2024
 2024-10-11,Equatorial Guinea,1,0,Liberia,False,False,,African Cup of Nations qualification,2024
 2024-10-11,Angola,2,0,Niger,False,False,,African Cup of Nations qualification,2024
@@ -2193,26 +2193,26 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-10-11,South Africa,5,0,Congo,False,False,,African Cup of Nations qualification,2024
 2024-10-11,Senegal,4,0,Malawi,False,False,,African Cup of Nations qualification,2024
 2024-10-12,Morocco,5,0,Central African Republic,False,False,,African Cup of Nations qualification,2024
-2024-10-12,Guinea,4,1,Ethiopia,False,False,,African Cup of Nations qualification,2024
-2024-10-13,Burundi,0,2,Burkina Faso,False,False,,African Cup of Nations qualification,2024
-2024-10-14,Gambia,1,0,Madagascar,False,False,,African Cup of Nations qualification,2024
+2024-10-12,Guinea,4,1,Ethiopia,True,False,,African Cup of Nations qualification,2024
+2024-10-13,Burundi,0,2,Burkina Faso,True,False,,African Cup of Nations qualification,2024
+2024-10-14,Gambia,1,0,Madagascar,True,False,,African Cup of Nations qualification,2024
 2024-10-14,Liberia,1,2,Equatorial Guinea,False,False,,African Cup of Nations qualification,2024
 2024-10-14,Togo,0,1,Algeria,False,False,,African Cup of Nations qualification,2024
-2024-10-14,Eswatini,0,3,Mozambique,False,False,,African Cup of Nations qualification,2024
-2024-10-14,Kenya,0,1,Cameroon,False,False,,African Cup of Nations qualification,2024
-2024-10-14,Zimbabwe,3,1,Namibia,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Comoros,1,1,Tunisia,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Lesotho,0,2,Gabon,False,False,,African Cup of Nations qualification,2024
+2024-10-14,Eswatini,0,3,Mozambique,True,False,,African Cup of Nations qualification,2024
+2024-10-14,Kenya,0,1,Cameroon,True,False,,African Cup of Nations qualification,2024
+2024-10-14,Zimbabwe,3,1,Namibia,True,False,,African Cup of Nations qualification,2024
+2024-10-15,Comoros,1,1,Tunisia,True,False,,African Cup of Nations qualification,2024
+2024-10-15,Lesotho,0,2,Gabon,True,False,,African Cup of Nations qualification,2024
 2024-10-15,Morocco,4,0,Central African Republic,False,False,,African Cup of Nations qualification,2024
 2024-10-15,Mauritania,0,1,Egypt,False,False,,African Cup of Nations qualification,2024
 2024-10-15,Botswana,1,0,Cape Verde,False,False,,African Cup of Nations qualification,2024
 2024-10-15,Rwanda,2,1,Benin,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Sudan,2,0,Ghana,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Niger,0,1,Angola,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Chad,0,1,Zambia,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Sierra Leone,1,0,Ivory Coast,False,False,,African Cup of Nations qualification,2024
+2024-10-15,Sudan,2,0,Ghana,True,False,,African Cup of Nations qualification,2024
+2024-10-15,Niger,0,1,Angola,True,False,,African Cup of Nations qualification,2024
+2024-10-15,Chad,0,1,Zambia,True,False,,African Cup of Nations qualification,2024
+2024-10-15,Sierra Leone,1,0,Ivory Coast,True,False,,African Cup of Nations qualification,2024
 2024-10-15,Tanzania,0,2,DR Congo,False,False,,African Cup of Nations qualification,2024
-2024-10-15,Ethiopia,0,3,Guinea,False,False,,African Cup of Nations qualification,2024
+2024-10-15,Ethiopia,0,3,Guinea,True,False,,African Cup of Nations qualification,2024
 2024-10-15,Guinea-Bissau,0,0,Mali,False,False,,African Cup of Nations qualification,2024
 2024-10-15,South Sudan,1,2,Uganda,False,False,,African Cup of Nations qualification,2024
 2024-10-15,Congo,1,1,South Africa,False,False,,African Cup of Nations qualification,2024

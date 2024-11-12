@@ -1,76 +1,76 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1970-06-20,Malaysia,5,0,Singapore,False,False,,Indonesia Tournament,1970
+1970-06-20,Malaysia,5,0,Singapore,True,False,,Indonesia Tournament,1970
 1970-06-21,Indonesia,2,1,Hong Kong,False,False,,Indonesia Tournament,1970
-1970-06-21,South Korea,8,0,Singapore,False,False,,Indonesia Tournament,1970
+1970-06-21,South Korea,8,0,Singapore,True,False,,Indonesia Tournament,1970
 1970-06-23,Indonesia,3,1,Western Australia,False,False,,Indonesia Tournament,1970
-1970-06-23,South Korea,0,1,Malaysia,False,False,,Indonesia Tournament,1970
-1970-06-24,Hong Kong,3,1,Western Australia,False,False,,Indonesia Tournament,1970
-1970-06-26,Hong Kong,1,1,Malaysia,False,False,,Indonesia Tournament,1970
+1970-06-23,South Korea,0,1,Malaysia,True,False,,Indonesia Tournament,1970
+1970-06-24,Hong Kong,3,1,Western Australia,True,False,,Indonesia Tournament,1970
+1970-06-26,Hong Kong,1,1,Malaysia,True,False,,Indonesia Tournament,1970
 1970-06-26,Indonesia,2,2,South Korea,False,False,,Indonesia Tournament,1970
 1970-06-27,Indonesia,3,2,Hong Kong,False,False,,Indonesia Tournament,1970
-1970-06-28,South Korea,0,2,Malaysia,False,False,,Indonesia Tournament,1970
+1970-06-28,South Korea,0,2,Malaysia,True,False,,Indonesia Tournament,1970
 1971-06-05,Indonesia,3,0,Singapore,False,False,,Indonesia Tournament,1971
-1971-06-05,South Korea,0,1,Thailand,False,False,,Indonesia Tournament,1971
-1971-06-06,Cambodia,2,2,Western Australia,False,False,,Indonesia Tournament,1971
-1971-06-06,India,0,1,Thailand,False,False,,Indonesia Tournament,1971
+1971-06-05,South Korea,0,1,Thailand,True,False,,Indonesia Tournament,1971
+1971-06-06,Cambodia,2,2,Western Australia,True,False,,Indonesia Tournament,1971
+1971-06-06,India,0,1,Thailand,True,False,,Indonesia Tournament,1971
 1971-06-07,Indonesia,1,1,Myanmar,False,False,,Indonesia Tournament,1971
-1971-06-08,Cambodia,1,1,Malaysia,False,False,,Indonesia Tournament,1971
-1971-06-08,India,2,3,South Korea,False,False,,Indonesia Tournament,1971
-1971-06-09,Myanmar,6,0,Singapore,False,False,,Indonesia Tournament,1971
-1971-06-09,Malaysia,3,2,Western Australia,False,False,,Indonesia Tournament,1971
-1971-06-11,Myanmar,5,1,Malaysia,False,False,,Indonesia Tournament,1971
+1971-06-08,Cambodia,1,1,Malaysia,True,False,,Indonesia Tournament,1971
+1971-06-08,India,2,3,South Korea,True,False,,Indonesia Tournament,1971
+1971-06-09,Myanmar,6,0,Singapore,True,False,,Indonesia Tournament,1971
+1971-06-09,Malaysia,3,2,Western Australia,True,False,,Indonesia Tournament,1971
+1971-06-11,Myanmar,5,1,Malaysia,True,False,,Indonesia Tournament,1971
 1971-06-11,Indonesia,0,0,Thailand,False,False,,Indonesia Tournament,1971
-1971-06-12,Myanmar,1,0,South Korea,False,False,,Indonesia Tournament,1971
-1971-06-12,Cambodia,3,0,Thailand,False,False,,Indonesia Tournament,1971
+1971-06-12,Myanmar,1,0,South Korea,True,False,,Indonesia Tournament,1971
+1971-06-12,Cambodia,3,0,Thailand,True,False,,Indonesia Tournament,1971
 1971-06-13,Indonesia,1,0,Cambodia,False,False,,Indonesia Tournament,1971
-1971-06-13,South Korea,1,2,Malaysia,False,False,,Indonesia Tournament,1971
-1971-06-14,Myanmar,8,0,Cambodia,False,False,,Indonesia Tournament,1971
+1971-06-13,South Korea,1,2,Malaysia,True,False,,Indonesia Tournament,1971
+1971-06-14,Myanmar,8,0,Cambodia,True,False,,Indonesia Tournament,1971
 1971-06-14,Indonesia,2,1,Malaysia,False,False,,Indonesia Tournament,1971
-1971-06-15,Cambodia,1,2,Malaysia,False,False,,Indonesia Tournament,1971
+1971-06-15,Cambodia,1,2,Malaysia,True,False,,Indonesia Tournament,1971
 1971-06-16,Indonesia,0,1,Myanmar,False,False,,Indonesia Tournament,1971
 1972-06-05,Indonesia,1,0,Myanmar,False,False,,Indonesia Tournament,1972
-1972-06-06,Cambodia,3,0,Singapore,False,False,,Indonesia Tournament,1972
-1972-06-08,Cambodia,2,0,Thailand,False,False,,Indonesia Tournament,1972
-1972-06-08,Philippines,2,0,Singapore,False,False,,Indonesia Tournament,1972
-1972-06-09,Myanmar,4,2,Sri Lanka,False,False,,Indonesia Tournament,1972
-1972-06-09,Laos,1,2,Malaysia,False,False,,Indonesia Tournament,1972
-1972-06-11,Myanmar,6,1,Laos,False,False,,Indonesia Tournament,1972
-1972-06-12,Philippines,1,0,Thailand,False,False,,Indonesia Tournament,1972
-1972-06-13,Laos,1,3,Sri Lanka,False,False,,Indonesia Tournament,1972
-1972-06-15,Myanmar,2,2,Malaysia,False,False,,Indonesia Tournament,1972
-1972-06-19,Myanmar,0,3,Cambodia,False,False,,Indonesia Tournament,1972
-1973-06-12,Myanmar,2,2,Malaysia,False,False,,Indonesia Tournament,1973
+1972-06-06,Cambodia,3,0,Singapore,True,False,,Indonesia Tournament,1972
+1972-06-08,Cambodia,2,0,Thailand,True,False,,Indonesia Tournament,1972
+1972-06-08,Philippines,2,0,Singapore,True,False,,Indonesia Tournament,1972
+1972-06-09,Myanmar,4,2,Sri Lanka,True,False,,Indonesia Tournament,1972
+1972-06-09,Laos,1,2,Malaysia,True,False,,Indonesia Tournament,1972
+1972-06-11,Myanmar,6,1,Laos,True,False,,Indonesia Tournament,1972
+1972-06-12,Philippines,1,0,Thailand,True,False,,Indonesia Tournament,1972
+1972-06-13,Laos,1,3,Sri Lanka,True,False,,Indonesia Tournament,1972
+1972-06-15,Myanmar,2,2,Malaysia,True,False,,Indonesia Tournament,1972
+1972-06-19,Myanmar,0,3,Cambodia,True,False,,Indonesia Tournament,1972
+1973-06-12,Myanmar,2,2,Malaysia,True,False,,Indonesia Tournament,1973
 1973-06-14,Indonesia,2,0,Malaysia,False,False,,Indonesia Tournament,1973
 1973-06-18,Indonesia,0,0,Myanmar,False,False,,Indonesia Tournament,1973
 1974-06-01,Indonesia,2,4,Myanmar,False,False,,Indonesia Tournament,1974
-1974-06-03,Myanmar,3,0,Malaysia,False,False,,Indonesia Tournament,1974
+1974-06-03,Myanmar,3,0,Malaysia,True,False,,Indonesia Tournament,1974
 1974-06-07,Indonesia,4,3,Malaysia,False,False,,Indonesia Tournament,1974
-1974-06-09,South Korea,0,0,Malaysia,False,False,,Indonesia Tournament,1974
-1975-06-12,Myanmar,0,2,South Korea,False,False,,Indonesia Tournament,1975
+1974-06-09,South Korea,0,0,Malaysia,True,False,,Indonesia Tournament,1974
+1975-06-12,Myanmar,0,2,South Korea,True,False,,Indonesia Tournament,1975
 1975-06-12,Indonesia,5,0,Thailand,False,False,,Indonesia Tournament,1975
-1975-06-13,Malaysia,1,0,Thailand,False,False,,Indonesia Tournament,1975
+1975-06-13,Malaysia,1,0,Thailand,True,False,,Indonesia Tournament,1975
 1975-06-14,Indonesia,3,1,Malaysia,False,False,,Indonesia Tournament,1975
 1975-06-16,Indonesia,0,2,Myanmar,False,False,,Indonesia Tournament,1975
-1975-06-16,South Korea,1,1,Malaysia,False,False,,Indonesia Tournament,1975
-1975-06-18,Myanmar,2,0,Malaysia,False,False,,Indonesia Tournament,1975
+1975-06-16,South Korea,1,1,Malaysia,True,False,,Indonesia Tournament,1975
+1975-06-18,Myanmar,2,0,Malaysia,True,False,,Indonesia Tournament,1975
 1975-06-18,Indonesia,3,2,South Korea,False,False,,Indonesia Tournament,1975
-1976-06-08,Myanmar,3,1,Malaysia,False,False,,Indonesia Tournament,1976
+1976-06-08,Myanmar,3,1,Malaysia,True,False,,Indonesia Tournament,1976
 1976-06-10,Indonesia,1,2,Malaysia,False,False,,Indonesia Tournament,1976
 1976-06-12,Indonesia,1,1,Myanmar,False,False,,Indonesia Tournament,1976
 1978-06-13,Indonesia,3,0,Malaysia,False,False,,Indonesia Tournament,1978
 1978-06-15,Indonesia,1,0,Thailand,False,False,,Indonesia Tournament,1978
-1978-06-16,Malaysia,1,1,Singapore,False,False,,Indonesia Tournament,1978
-1978-06-17,Singapore,1,3,Thailand,False,False,,Indonesia Tournament,1978
+1978-06-16,Malaysia,1,1,Singapore,True,False,,Indonesia Tournament,1978
+1978-06-17,Singapore,1,3,Thailand,True,False,,Indonesia Tournament,1978
 1978-06-21,Indonesia,2,2,Singapore,False,False,,Indonesia Tournament,1978
-1978-06-21,Malaysia,1,1,Thailand,False,False,,Indonesia Tournament,1978
+1978-06-21,Malaysia,1,1,Thailand,True,False,,Indonesia Tournament,1978
 1978-06-23,Indonesia,1,3,South Korea,False,False,,Indonesia Tournament,1978
-1978-06-23,Malaysia,3,3,Thailand,False,False,,Indonesia Tournament,1978
+1978-06-23,Malaysia,3,3,Thailand,True,False,,Indonesia Tournament,1978
 1981-08-14,Indonesia,3,0,Philippines,False,False,,Indonesia Tournament,1981
 1981-08-20,Indonesia,0,1,South Korea,False,False,,Indonesia Tournament,1981
 1985-08-12,Indonesia,1,2,Thailand,False,False,,Indonesia Tournament,1985
 1986-08-20,Indonesia,0,1,Algeria,False,False,,Indonesia Tournament,1986
 1987-08-04,Indonesia,2,1,Algeria,False,False,,Indonesia Tournament,1987
 1987-08-06,Indonesia,1,1,South Korea,False,False,,Indonesia Tournament,1987
-1987-08-07,Algeria,2,0,South Korea,False,False,,Indonesia Tournament,1987
+1987-08-07,Algeria,2,0,South Korea,True,False,,Indonesia Tournament,1987
 1987-08-09,Indonesia,2,1,Algeria,False,False,,Indonesia Tournament,1987
 1988-08-05,Indonesia,1,0,Thailand,False,False,,Indonesia Tournament,1988

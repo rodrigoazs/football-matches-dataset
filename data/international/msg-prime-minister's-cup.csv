@@ -1,13 +1,13 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2022-09-17,Fiji,1,0,New Caledonia,False,False,,MSG Prime Minister's Cup,2022
-2022-09-21,Solomon Islands,1,0,New Caledonia,False,False,,MSG Prime Minister's Cup,2022
-2022-09-24,Fiji,2,2,Solomon Islands,False,False,,MSG Prime Minister's Cup,2022
+2022-09-17,Fiji,1,0,New Caledonia,True,False,,MSG Prime Minister's Cup,2022
+2022-09-21,Solomon Islands,1,0,New Caledonia,True,False,,MSG Prime Minister's Cup,2022
+2022-09-24,Fiji,2,2,Solomon Islands,True,False,,MSG Prime Minister's Cup,2022
 2022-09-24,Vanuatu,0,1,Papua New Guinea,False,False,,MSG Prime Minister's Cup,2022
-2022-09-27,Fiji,0,1,Papua New Guinea,False,False,,MSG Prime Minister's Cup,2022
-2022-09-30,Fiji,1,0,Solomon Islands,False,False,,MSG Prime Minister's Cup,2022
-2023-10-08,Papua New Guinea,1,3,Solomon Islands,False,False,,MSG Prime Minister's Cup,2023
+2022-09-27,Fiji,0,1,Papua New Guinea,True,False,,MSG Prime Minister's Cup,2022
+2022-09-30,Fiji,1,0,Solomon Islands,True,False,,MSG Prime Minister's Cup,2022
+2023-10-08,Papua New Guinea,1,3,Solomon Islands,True,False,,MSG Prime Minister's Cup,2023
 2023-10-08,New Caledonia,4,0,Vanuatu,False,False,,MSG Prime Minister's Cup,2023
-2023-10-11,Solomon Islands,1,0,Vanuatu,False,False,,MSG Prime Minister's Cup,2023
+2023-10-11,Solomon Islands,1,0,Vanuatu,True,False,,MSG Prime Minister's Cup,2023
 2023-10-11,New Caledonia,3,1,Papua New Guinea,False,False,,MSG Prime Minister's Cup,2023
-2023-10-14,Papua New Guinea,0,1,Vanuatu,False,False,,MSG Prime Minister's Cup,2023
+2023-10-14,Papua New Guinea,0,1,Vanuatu,True,False,,MSG Prime Minister's Cup,2023
 2023-10-14,New Caledonia,0,1,Solomon Islands,False,False,,MSG Prime Minister's Cup,2023

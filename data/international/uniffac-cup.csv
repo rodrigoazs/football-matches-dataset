@@ -1,16 +1,16 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1999-11-07,Gabon,4,0,Equatorial Guinea,False,False,,UNIFFAC Cup,1999
-1999-11-08,Central African Republic,4,1,Chad,False,False,,UNIFFAC Cup,1999
-1999-11-10,Chad,5,0,São Tomé and Príncipe,False,False,,UNIFFAC Cup,1999
-1999-11-10,Congo,2,1,Equatorial Guinea,False,False,,UNIFFAC Cup,1999
+1999-11-08,Central African Republic,4,1,Chad,True,False,,UNIFFAC Cup,1999
+1999-11-10,Chad,5,0,São Tomé and Príncipe,True,False,,UNIFFAC Cup,1999
+1999-11-10,Congo,2,1,Equatorial Guinea,True,False,,UNIFFAC Cup,1999
 1999-11-10,Gabon,1,0,Central African Republic,False,False,,UNIFFAC Cup,1999
-1999-11-11,Congo,0,2,Chad,False,False,,UNIFFAC Cup,1999
-1999-11-11,Equatorial Guinea,4,2,Central African Republic,False,False,,UNIFFAC Cup,1999
+1999-11-11,Congo,0,2,Chad,True,False,,UNIFFAC Cup,1999
+1999-11-11,Equatorial Guinea,4,2,Central African Republic,True,False,,UNIFFAC Cup,1999
 1999-11-11,Gabon,1,0,São Tomé and Príncipe,False,False,,UNIFFAC Cup,1999
-1999-11-12,Congo,1,0,São Tomé and Príncipe,False,False,,UNIFFAC Cup,1999
-1999-11-13,Central African Republic,3,0,São Tomé and Príncipe,False,False,,UNIFFAC Cup,1999
-1999-11-13,Chad,1,0,Equatorial Guinea,False,False,,UNIFFAC Cup,1999
+1999-11-12,Congo,1,0,São Tomé and Príncipe,True,False,,UNIFFAC Cup,1999
+1999-11-13,Central African Republic,3,0,São Tomé and Príncipe,True,False,,UNIFFAC Cup,1999
+1999-11-13,Chad,1,0,Equatorial Guinea,True,False,,UNIFFAC Cup,1999
 1999-11-13,Gabon,0,0,Congo,False,False,,UNIFFAC Cup,1999
-1999-11-14,Central African Republic,4,2,Congo,False,False,,UNIFFAC Cup,1999
+1999-11-14,Central African Republic,4,2,Congo,True,False,,UNIFFAC Cup,1999
 1999-11-14,Gabon,2,0,Chad,False,False,,UNIFFAC Cup,1999
-1999-11-14,São Tomé and Príncipe,2,0,Equatorial Guinea,False,False,,UNIFFAC Cup,1999
+1999-11-14,São Tomé and Príncipe,2,0,Equatorial Guinea,True,False,,UNIFFAC Cup,1999

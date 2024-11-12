@@ -1,18 +1,18 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1994-11-26,Cameroon,1,2,Ivory Coast,False,False,,Simba Tournament,1994
-1994-11-30,Cameroon,0,1,Ghana,False,False,,Simba Tournament,1994
+1994-11-26,Cameroon,1,2,Ivory Coast,True,False,,Simba Tournament,1994
+1994-11-30,Cameroon,0,1,Ghana,True,False,,Simba Tournament,1994
 1994-11-30,South Africa,0,0,Ivory Coast,False,False,,Simba Tournament,1994
-1994-12-04,Ghana,1,1,Ivory Coast,False,False,,Simba Tournament,1994
+1994-12-04,Ghana,1,1,Ivory Coast,True,False,,Simba Tournament,1994
 1994-12-04,South Africa,1,1,Cameroon,False,False,,Simba Tournament,1994
-1995-11-22,Egypt,2,2,Zimbabwe,False,False,,Simba Tournament,1995
+1995-11-22,Egypt,2,2,Zimbabwe,True,False,,Simba Tournament,1995
 1995-11-22,South Africa,2,2,Zambia,False,False,,Simba Tournament,1995
 1995-11-24,South Africa,2,0,Egypt,False,False,,Simba Tournament,1995
-1995-11-24,Zambia,1,1,Zimbabwe,False,False,,Simba Tournament,1995
-1995-11-26,Egypt,3,1,Zambia,False,False,,Simba Tournament,1995
+1995-11-24,Zambia,1,1,Zimbabwe,True,False,,Simba Tournament,1995
+1995-11-26,Egypt,3,1,Zambia,True,False,,Simba Tournament,1995
 1995-11-26,South Africa,2,0,Zimbabwe,False,False,,Simba Tournament,1995
-1996-09-14,Australia,2,0,Ghana,False,False,,Simba Tournament,1996
+1996-09-14,Australia,2,0,Ghana,True,False,,Simba Tournament,1996
 1996-09-14,South Africa,1,0,Kenya,False,False,,Simba Tournament,1996
-1996-09-18,Ghana,1,0,Kenya,False,False,,Simba Tournament,1996
+1996-09-18,Ghana,1,0,Kenya,True,False,,Simba Tournament,1996
 1996-09-18,South Africa,2,0,Australia,False,False,,Simba Tournament,1996
-1996-09-21,Australia,4,0,Kenya,False,False,,Simba Tournament,1996
+1996-09-21,Australia,4,0,Kenya,True,False,,Simba Tournament,1996
 1996-09-21,South Africa,0,0,Ghana,False,False,,Simba Tournament,1996

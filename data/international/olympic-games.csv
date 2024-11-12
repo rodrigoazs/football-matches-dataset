@@ -1,47 +1,47 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1924-05-25,Italy,1,0,Spain,False,False,,Olympic Games,1924
-1924-05-25,Czechoslovakia,5,2,Turkey,False,False,,Olympic Games,1924
-1924-05-25,Switzerland,9,0,Lithuania,False,False,,Olympic Games,1924
-1924-05-25,United States,1,0,Estonia,False,False,,Olympic Games,1924
-1924-05-26,Uruguay,7,0,Yugoslavia,False,False,,Olympic Games,1924
-1924-05-26,Hungary,5,0,Poland,False,False,,Olympic Games,1924
+1924-05-25,Italy,1,0,Spain,True,False,,Olympic Games,1924
+1924-05-25,Czechoslovakia,5,2,Turkey,True,False,,Olympic Games,1924
+1924-05-25,Switzerland,9,0,Lithuania,True,False,,Olympic Games,1924
+1924-05-25,United States,1,0,Estonia,True,False,,Olympic Games,1924
+1924-05-26,Uruguay,7,0,Yugoslavia,True,False,,Olympic Games,1924
+1924-05-26,Hungary,5,0,Poland,True,False,,Olympic Games,1924
 1924-05-27,France,7,0,Latvia,False,False,,Olympic Games,1924
-1924-05-27,Netherlands,6,0,Romania,False,False,,Olympic Games,1924
-1924-05-28,Switzerland,1,1,Czechoslovakia,False,False,,Olympic Games,1924
-1924-05-28,Republic of Ireland,1,0,Bulgaria,False,False,,Olympic Games,1924
-1924-05-29,Italy,2,0,Luxembourg,False,False,,Olympic Games,1924
-1924-05-29,Sweden,8,1,Belgium,False,False,,Olympic Games,1924
-1924-05-29,Egypt,3,0,Hungary,False,False,,Olympic Games,1924
-1924-05-29,Uruguay,3,0,United States,False,False,,Olympic Games,1924
-1924-05-30,Switzerland,1,0,Czechoslovakia,False,False,,Olympic Games,1924
+1924-05-27,Netherlands,6,0,Romania,True,False,,Olympic Games,1924
+1924-05-28,Switzerland,1,1,Czechoslovakia,True,False,,Olympic Games,1924
+1924-05-28,Republic of Ireland,1,0,Bulgaria,True,False,,Olympic Games,1924
+1924-05-29,Italy,2,0,Luxembourg,True,False,,Olympic Games,1924
+1924-05-29,Sweden,8,1,Belgium,True,False,,Olympic Games,1924
+1924-05-29,Egypt,3,0,Hungary,True,False,,Olympic Games,1924
+1924-05-29,Uruguay,3,0,United States,True,False,,Olympic Games,1924
+1924-05-30,Switzerland,1,0,Czechoslovakia,True,False,,Olympic Games,1924
 1924-06-01,France,1,5,Uruguay,False,False,,Olympic Games,1924
-1924-06-01,Sweden,5,0,Egypt,False,False,,Olympic Games,1924
-1924-06-02,Switzerland,2,1,Italy,False,False,,Olympic Games,1924
-1924-06-02,Netherlands,2,1,Republic of Ireland,False,False,,Olympic Games,1924
-1924-06-05,Switzerland,2,1,Sweden,False,False,,Olympic Games,1924
-1924-06-06,Uruguay,2,1,Netherlands,False,False,,Olympic Games,1924
-1924-06-08,Sweden,1,1,Netherlands,False,False,,Olympic Games,1924
-1924-06-09,Sweden,3,1,Netherlands,False,False,,Olympic Games,1924
-1924-06-09,Uruguay,3,0,Switzerland,False,False,,Olympic Games,1924
-1928-05-27,Portugal,4,2,Chile,False,False,,Olympic Games,1928
-1928-05-27,Belgium,5,3,Luxembourg,False,False,,Olympic Games,1928
-1928-05-28,Germany,4,0,Switzerland,False,False,,Olympic Games,1928
-1928-05-28,Egypt,7,1,Turkey,False,False,,Olympic Games,1928
-1928-05-29,Italy,4,3,France,False,False,,Olympic Games,1928
-1928-05-29,Portugal,2,1,Yugoslavia,False,False,,Olympic Games,1928
-1928-05-29,Argentina,11,2,United States,False,False,,Olympic Games,1928
-1928-05-30,Spain,7,1,Mexico,False,False,,Olympic Games,1928
+1924-06-01,Sweden,5,0,Egypt,True,False,,Olympic Games,1924
+1924-06-02,Switzerland,2,1,Italy,True,False,,Olympic Games,1924
+1924-06-02,Netherlands,2,1,Republic of Ireland,True,False,,Olympic Games,1924
+1924-06-05,Switzerland,2,1,Sweden,True,False,,Olympic Games,1924
+1924-06-06,Uruguay,2,1,Netherlands,True,False,,Olympic Games,1924
+1924-06-08,Sweden,1,1,Netherlands,True,False,,Olympic Games,1924
+1924-06-09,Sweden,3,1,Netherlands,True,False,,Olympic Games,1924
+1924-06-09,Uruguay,3,0,Switzerland,True,False,,Olympic Games,1924
+1928-05-27,Portugal,4,2,Chile,True,False,,Olympic Games,1928
+1928-05-27,Belgium,5,3,Luxembourg,True,False,,Olympic Games,1928
+1928-05-28,Germany,4,0,Switzerland,True,False,,Olympic Games,1928
+1928-05-28,Egypt,7,1,Turkey,True,False,,Olympic Games,1928
+1928-05-29,Italy,4,3,France,True,False,,Olympic Games,1928
+1928-05-29,Portugal,2,1,Yugoslavia,True,False,,Olympic Games,1928
+1928-05-29,Argentina,11,2,United States,True,False,,Olympic Games,1928
+1928-05-30,Spain,7,1,Mexico,True,False,,Olympic Games,1928
 1928-05-30,Netherlands,0,2,Uruguay,False,False,,Olympic Games,1928
-1928-06-01,Italy,1,1,Spain,False,False,,Olympic Games,1928
-1928-06-02,Argentina,6,3,Belgium,False,False,,Olympic Games,1928
-1928-06-03,Uruguay,4,1,Germany,False,False,,Olympic Games,1928
-1928-06-04,Italy,7,1,Spain,False,False,,Olympic Games,1928
-1928-06-04,Egypt,2,1,Portugal,False,False,,Olympic Games,1928
+1928-06-01,Italy,1,1,Spain,True,False,,Olympic Games,1928
+1928-06-02,Argentina,6,3,Belgium,True,False,,Olympic Games,1928
+1928-06-03,Uruguay,4,1,Germany,True,False,,Olympic Games,1928
+1928-06-04,Italy,7,1,Spain,True,False,,Olympic Games,1928
+1928-06-04,Egypt,2,1,Portugal,True,False,,Olympic Games,1928
 1928-06-05,Netherlands,3,1,Belgium,False,False,,Olympic Games,1928
-1928-06-05,Chile,3,1,Mexico,False,False,,Olympic Games,1928
-1928-06-06,Argentina,6,0,Egypt,False,False,,Olympic Games,1928
-1928-06-07,Uruguay,3,2,Italy,False,False,,Olympic Games,1928
+1928-06-05,Chile,3,1,Mexico,True,False,,Olympic Games,1928
+1928-06-06,Argentina,6,0,Egypt,True,False,,Olympic Games,1928
+1928-06-07,Uruguay,3,2,Italy,True,False,,Olympic Games,1928
 1928-06-08,Netherlands,2,2,Chile,False,False,,Olympic Games,1928
-1928-06-09,Italy,11,3,Egypt,False,False,,Olympic Games,1928
-1928-06-10,Uruguay,1,1,Argentina,False,False,,Olympic Games,1928
-1928-06-13,Uruguay,2,1,Argentina,False,False,,Olympic Games,1928
+1928-06-09,Italy,11,3,Egypt,True,False,,Olympic Games,1928
+1928-06-10,Uruguay,1,1,Argentina,True,False,,Olympic Games,1928
+1928-06-13,Uruguay,2,1,Argentina,True,False,,Olympic Games,1928

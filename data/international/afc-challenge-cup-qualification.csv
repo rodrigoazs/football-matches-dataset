@@ -1,93 +1,93 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2008-04-02,Sri Lanka,5,1,Guam,False,False,,AFC Challenge Cup qualification,2008
-2008-04-04,Pakistan,1,7,Sri Lanka,False,False,,AFC Challenge Cup qualification,2008
+2008-04-02,Sri Lanka,5,1,Guam,True,False,,AFC Challenge Cup qualification,2008
+2008-04-04,Pakistan,1,7,Sri Lanka,True,False,,AFC Challenge Cup qualification,2008
 2008-04-04,Taiwan,4,1,Guam,False,False,,AFC Challenge Cup qualification,2008
-2008-04-06,Pakistan,9,2,Guam,False,False,,AFC Challenge Cup qualification,2008
+2008-04-06,Pakistan,9,2,Guam,True,False,,AFC Challenge Cup qualification,2008
 2008-04-06,Taiwan,2,2,Sri Lanka,False,False,,AFC Challenge Cup qualification,2008
-2008-05-05,Bangladesh,0,0,Afghanistan,False,False,,AFC Challenge Cup qualification,2008
+2008-05-05,Bangladesh,0,0,Afghanistan,True,False,,AFC Challenge Cup qualification,2008
 2008-05-07,Kyrgyzstan,0,1,Afghanistan,False,False,,AFC Challenge Cup qualification,2008
 2008-05-09,Kyrgyzstan,2,1,Bangladesh,False,False,,AFC Challenge Cup qualification,2008
 2008-05-13,Philippines,1,0,Brunei,False,False,,AFC Challenge Cup qualification,2008
-2008-05-13,Tajikistan,3,1,Bhutan,False,False,,AFC Challenge Cup qualification,2008
-2008-05-15,Bhutan,1,1,Brunei,False,False,,AFC Challenge Cup qualification,2008
+2008-05-13,Tajikistan,3,1,Bhutan,True,False,,AFC Challenge Cup qualification,2008
+2008-05-15,Bhutan,1,1,Brunei,True,False,,AFC Challenge Cup qualification,2008
 2008-05-15,Philippines,0,0,Tajikistan,False,False,,AFC Challenge Cup qualification,2008
 2008-05-17,Philippines,3,0,Bhutan,False,False,,AFC Challenge Cup qualification,2008
-2008-05-17,Tajikistan,4,0,Brunei,False,False,,AFC Challenge Cup qualification,2008
-2008-05-24,Nepal,3,2,Macau,False,False,,AFC Challenge Cup qualification,2008
+2008-05-17,Tajikistan,4,0,Brunei,True,False,,AFC Challenge Cup qualification,2008
+2008-05-24,Nepal,3,2,Macau,True,False,,AFC Challenge Cup qualification,2008
 2008-05-26,Cambodia,0,1,Nepal,False,False,,AFC Challenge Cup qualification,2008
 2008-05-28,Cambodia,3,1,Macau,False,False,,AFC Challenge Cup qualification,2008
 2009-03-26,Nepal,0,0,Palestine,False,False,,AFC Challenge Cup qualification,2009
 2009-03-28,Nepal,1,1,Kyrgyzstan,False,False,,AFC Challenge Cup qualification,2009
-2009-03-30,Kyrgyzstan,1,1,Palestine,False,False,,AFC Challenge Cup qualification,2009
-2009-04-04,Pakistan,1,1,Taiwan,False,False,,AFC Challenge Cup qualification,2009
+2009-03-30,Kyrgyzstan,1,1,Palestine,True,False,,AFC Challenge Cup qualification,2009
+2009-04-04,Pakistan,1,1,Taiwan,True,False,,AFC Challenge Cup qualification,2009
 2009-04-04,Sri Lanka,5,1,Brunei,False,False,,AFC Challenge Cup qualification,2009
-2009-04-06,Brunei,0,6,Pakistan,False,False,,AFC Challenge Cup qualification,2009
+2009-04-06,Brunei,0,6,Pakistan,True,False,,AFC Challenge Cup qualification,2009
 2009-04-07,Macau,2,0,Mongolia,False,False,,AFC Challenge Cup qualification,2009
 2009-04-08,Sri Lanka,2,2,Pakistan,False,False,,AFC Challenge Cup qualification,2009
 2009-04-14,Maldives,1,3,Turkmenistan,False,False,,AFC Challenge Cup qualification,2009
 2009-04-14,Mongolia,3,1,Macau,False,False,,AFC Challenge Cup qualification,2009
-2009-04-14,Philippines,1,0,Bhutan,False,False,,AFC Challenge Cup qualification,2009
-2009-04-16,Bhutan,0,7,Turkmenistan,False,False,,AFC Challenge Cup qualification,2009
+2009-04-14,Philippines,1,0,Bhutan,True,False,,AFC Challenge Cup qualification,2009
+2009-04-16,Bhutan,0,7,Turkmenistan,True,False,,AFC Challenge Cup qualification,2009
 2009-04-16,Maldives,3,2,Philippines,False,False,,AFC Challenge Cup qualification,2009
 2009-04-18,Maldives,5,0,Bhutan,False,False,,AFC Challenge Cup qualification,2009
-2009-04-18,Turkmenistan,5,0,Philippines,False,False,,AFC Challenge Cup qualification,2009
+2009-04-18,Turkmenistan,5,0,Philippines,True,False,,AFC Challenge Cup qualification,2009
 2009-04-26,Bangladesh,1,0,Cambodia,False,False,,AFC Challenge Cup qualification,2009
-2009-04-26,Myanmar,4,0,Macau,False,False,,AFC Challenge Cup qualification,2009
+2009-04-26,Myanmar,4,0,Macau,True,False,,AFC Challenge Cup qualification,2009
 2009-04-28,Bangladesh,1,2,Myanmar,False,False,,AFC Challenge Cup qualification,2009
-2009-04-28,Macau,1,2,Cambodia,False,False,,AFC Challenge Cup qualification,2009
+2009-04-28,Macau,1,2,Cambodia,True,False,,AFC Challenge Cup qualification,2009
 2009-04-30,Bangladesh,3,0,Macau,False,False,,AFC Challenge Cup qualification,2009
-2009-04-30,Myanmar,1,0,Cambodia,False,False,,AFC Challenge Cup qualification,2009
+2009-04-30,Myanmar,1,0,Cambodia,True,False,,AFC Challenge Cup qualification,2009
 2011-02-09,Cambodia,3,1,Macau,False,False,,AFC Challenge Cup qualification,2011
 2011-02-09,Philippines,2,0,Mongolia,False,False,,AFC Challenge Cup qualification,2011
 2011-02-16,Laos,1,1,Taiwan,False,False,,AFC Challenge Cup qualification,2011
 2011-02-16,Macau,3,2,Cambodia,False,False,,AFC Challenge Cup qualification,2011
 2011-03-15,Mongolia,2,1,Philippines,False,False,,AFC Challenge Cup qualification,2011
 2011-03-21,Myanmar,1,1,Philippines,False,False,,AFC Challenge Cup qualification,2011
-2011-03-21,India,3,0,Taiwan,False,False,,AFC Challenge Cup qualification,2011
+2011-03-21,India,3,0,Taiwan,True,False,,AFC Challenge Cup qualification,2011
 2011-03-21,Maldives,4,0,Cambodia,False,False,,AFC Challenge Cup qualification,2011
-2011-03-21,Palestine,2,0,Bangladesh,False,False,,AFC Challenge Cup qualification,2011
-2011-03-21,Tajikistan,1,0,Kyrgyzstan,False,False,,AFC Challenge Cup qualification,2011
-2011-03-21,Turkmenistan,3,0,Pakistan,False,False,,AFC Challenge Cup qualification,2011
-2011-03-23,Bhutan,0,3,Afghanistan,False,False,,AFC Challenge Cup qualification,2011
+2011-03-21,Palestine,2,0,Bangladesh,True,False,,AFC Challenge Cup qualification,2011
+2011-03-21,Tajikistan,1,0,Kyrgyzstan,True,False,,AFC Challenge Cup qualification,2011
+2011-03-21,Turkmenistan,3,0,Pakistan,True,False,,AFC Challenge Cup qualification,2011
+2011-03-23,Bhutan,0,3,Afghanistan,True,False,,AFC Challenge Cup qualification,2011
 2011-03-23,Myanmar,0,2,Bangladesh,False,False,,AFC Challenge Cup qualification,2011
-2011-03-23,Cambodia,0,3,Tajikistan,False,False,,AFC Challenge Cup qualification,2011
+2011-03-23,Cambodia,0,3,Tajikistan,True,False,,AFC Challenge Cup qualification,2011
 2011-03-23,Maldives,2,1,Kyrgyzstan,False,False,,AFC Challenge Cup qualification,2011
-2011-03-23,Pakistan,1,3,India,False,False,,AFC Challenge Cup qualification,2011
-2011-03-23,Philippines,0,0,Palestine,False,False,,AFC Challenge Cup qualification,2011
-2011-03-25,Afghanistan,2,0,Bhutan,False,False,,AFC Challenge Cup qualification,2011
-2011-03-25,Bangladesh,0,3,Philippines,False,False,,AFC Challenge Cup qualification,2011
+2011-03-23,Pakistan,1,3,India,True,False,,AFC Challenge Cup qualification,2011
+2011-03-23,Philippines,0,0,Palestine,True,False,,AFC Challenge Cup qualification,2011
+2011-03-25,Afghanistan,2,0,Bhutan,True,False,,AFC Challenge Cup qualification,2011
+2011-03-25,Bangladesh,0,3,Philippines,True,False,,AFC Challenge Cup qualification,2011
 2011-03-25,Myanmar,1,3,Palestine,False,False,,AFC Challenge Cup qualification,2011
-2011-03-25,Cambodia,3,4,Kyrgyzstan,False,False,,AFC Challenge Cup qualification,2011
+2011-03-25,Cambodia,3,4,Kyrgyzstan,True,False,,AFC Challenge Cup qualification,2011
 2011-03-25,Maldives,0,0,Tajikistan,False,False,,AFC Challenge Cup qualification,2011
-2011-03-25,Turkmenistan,1,1,India,False,False,,AFC Challenge Cup qualification,2011
-2011-04-07,North Korea,4,0,Sri Lanka,False,False,,AFC Challenge Cup qualification,2011
+2011-03-25,Turkmenistan,1,1,India,True,False,,AFC Challenge Cup qualification,2011
+2011-04-07,North Korea,4,0,Sri Lanka,True,False,,AFC Challenge Cup qualification,2011
 2011-04-07,Nepal,1,0,Afghanistan,False,False,,AFC Challenge Cup qualification,2011
 2011-04-09,Nepal,0,1,North Korea,False,False,,AFC Challenge Cup qualification,2011
-2011-04-09,Sri Lanka,0,1,Afghanistan,False,False,,AFC Challenge Cup qualification,2011
-2011-04-11,North Korea,2,0,Afghanistan,False,False,,AFC Challenge Cup qualification,2011
+2011-04-09,Sri Lanka,0,1,Afghanistan,True,False,,AFC Challenge Cup qualification,2011
+2011-04-11,North Korea,2,0,Afghanistan,True,False,,AFC Challenge Cup qualification,2011
 2011-04-11,Nepal,0,0,Sri Lanka,False,False,,AFC Challenge Cup qualification,2011
-2013-03-02,Afghanistan,1,0,Sri Lanka,False,False,,AFC Challenge Cup qualification,2013
+2013-03-02,Afghanistan,1,0,Sri Lanka,True,False,,AFC Challenge Cup qualification,2013
 2013-03-02,Myanmar,5,0,Guam,False,False,,AFC Challenge Cup qualification,2013
-2013-03-02,India,2,1,Taiwan,False,False,,AFC Challenge Cup qualification,2013
+2013-03-02,India,2,1,Taiwan,True,False,,AFC Challenge Cup qualification,2013
 2013-03-02,Laos,1,1,Mongolia,False,False,,AFC Challenge Cup qualification,2013
 2013-03-02,Nepal,6,0,Northern Mariana Islands,False,False,,AFC Challenge Cup qualification,2013
-2013-03-02,Palestine,1,0,Bangladesh,False,False,,AFC Challenge Cup qualification,2013
-2013-03-04,Guam,0,4,India,False,False,,AFC Challenge Cup qualification,2013
+2013-03-02,Palestine,1,0,Bangladesh,True,False,,AFC Challenge Cup qualification,2013
+2013-03-04,Guam,0,4,India,True,False,,AFC Challenge Cup qualification,2013
 2013-03-04,Laos,4,2,Sri Lanka,False,False,,AFC Challenge Cup qualification,2013
-2013-03-04,Mongolia,0,1,Afghanistan,False,False,,AFC Challenge Cup qualification,2013
+2013-03-04,Mongolia,0,1,Afghanistan,True,False,,AFC Challenge Cup qualification,2013
 2013-03-04,Nepal,0,2,Bangladesh,False,False,,AFC Challenge Cup qualification,2013
-2013-03-04,Northern Mariana Islands,0,9,Palestine,False,False,,AFC Challenge Cup qualification,2013
-2013-03-06,Bangladesh,4,0,Northern Mariana Islands,False,False,,AFC Challenge Cup qualification,2013
+2013-03-04,Northern Mariana Islands,0,9,Palestine,True,False,,AFC Challenge Cup qualification,2013
+2013-03-06,Bangladesh,4,0,Northern Mariana Islands,True,False,,AFC Challenge Cup qualification,2013
 2013-03-06,Myanmar,1,0,India,False,False,,AFC Challenge Cup qualification,2013
 2013-03-06,Laos,1,1,Afghanistan,False,False,,AFC Challenge Cup qualification,2013
 2013-03-06,Nepal,0,0,Palestine,False,False,,AFC Challenge Cup qualification,2013
-2013-03-06,Sri Lanka,3,0,Mongolia,False,False,,AFC Challenge Cup qualification,2013
+2013-03-06,Sri Lanka,3,0,Mongolia,True,False,,AFC Challenge Cup qualification,2013
 2013-03-17,Kyrgyzstan,1,0,Macau,False,False,,AFC Challenge Cup qualification,2013
-2013-03-17,Tajikistan,1,0,Pakistan,False,False,,AFC Challenge Cup qualification,2013
+2013-03-17,Tajikistan,1,0,Pakistan,True,False,,AFC Challenge Cup qualification,2013
 2013-03-19,Kyrgyzstan,1,0,Pakistan,False,False,,AFC Challenge Cup qualification,2013
-2013-03-19,Macau,0,3,Tajikistan,False,False,,AFC Challenge Cup qualification,2013
+2013-03-19,Macau,0,3,Tajikistan,True,False,,AFC Challenge Cup qualification,2013
 2013-03-21,Kyrgyzstan,1,0,Tajikistan,False,False,,AFC Challenge Cup qualification,2013
-2013-03-21,Pakistan,2,0,Macau,False,False,,AFC Challenge Cup qualification,2013
-2013-03-22,Turkmenistan,7,0,Cambodia,False,False,,AFC Challenge Cup qualification,2013
+2013-03-21,Pakistan,2,0,Macau,True,False,,AFC Challenge Cup qualification,2013
+2013-03-22,Turkmenistan,7,0,Cambodia,True,False,,AFC Challenge Cup qualification,2013
 2013-03-24,Philippines,8,0,Cambodia,False,False,,AFC Challenge Cup qualification,2013
 2013-03-26,Philippines,1,0,Turkmenistan,False,False,,AFC Challenge Cup qualification,2013

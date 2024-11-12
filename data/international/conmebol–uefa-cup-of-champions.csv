@@ -1,4 +1,4 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1985-08-21,France,2,0,Uruguay,False,False,,CONMEBOL–UEFA Cup of Champions,1985
 1993-02-24,Argentina,1,1,Denmark,False,False,,CONMEBOL–UEFA Cup of Champions,1993
-2022-06-01,Italy,0,3,Argentina,False,False,,CONMEBOL–UEFA Cup of Champions,2022
+2022-06-01,Italy,0,3,Argentina,True,False,,CONMEBOL–UEFA Cup of Champions,2022

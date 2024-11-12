@@ -1,13 +1,13 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1996-12-11,Czech Republic,2,1,Nigeria,False,False,,King Hassan II Tournament,1996
+1996-12-11,Czech Republic,2,1,Nigeria,True,False,,King Hassan II Tournament,1996
 1996-12-11,Morocco,2,2,Croatia,False,False,,King Hassan II Tournament,1996
-1996-12-12,Croatia,1,1,Czech Republic,False,False,,King Hassan II Tournament,1996
+1996-12-12,Croatia,1,1,Czech Republic,True,False,,King Hassan II Tournament,1996
 1996-12-12,Morocco,2,0,Nigeria,False,False,,King Hassan II Tournament,1996
-1998-05-27,Belgium,0,1,France,False,False,,King Hassan II Tournament,1998
+1998-05-27,Belgium,0,1,France,True,False,,King Hassan II Tournament,1998
 1998-05-27,Morocco,0,1,England,False,False,,King Hassan II Tournament,1998
-1998-05-29,Belgium,0,0,England,False,False,,King Hassan II Tournament,1998
+1998-05-29,Belgium,0,0,England,True,False,,King Hassan II Tournament,1998
 1998-05-29,Morocco,2,2,France,False,False,,King Hassan II Tournament,1998
-2000-06-04,France,2,2,Japan,False,False,,King Hassan II Tournament,2000
+2000-06-04,France,2,2,Japan,True,False,,King Hassan II Tournament,2000
 2000-06-04,Morocco,1,0,Jamaica,False,False,,King Hassan II Tournament,2000
-2000-06-06,Jamaica,0,4,Japan,False,False,,King Hassan II Tournament,2000
+2000-06-06,Jamaica,0,4,Japan,True,False,,King Hassan II Tournament,2000
 2000-06-06,Morocco,1,5,France,False,False,,King Hassan II Tournament,2000

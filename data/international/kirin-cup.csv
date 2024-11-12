@@ -5,40 +5,40 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1982-06-02,Japan,2,0,Singapore,False,False,,Kirin Cup,1982
 1983-06-07,Japan,1,0,Syria,False,False,,Kirin Cup,1983
 1984-05-31,Japan,1,0,China PR,False,False,,Kirin Cup,1984
-1984-06-03,China PR,0,1,Republic of Ireland,False,False,,Kirin Cup,1984
+1984-06-03,China PR,0,1,Republic of Ireland,True,False,,Kirin Cup,1984
 1985-05-26,Japan,1,4,Uruguay,False,False,,Kirin Cup,1985
 1986-05-11,Japan,2,1,Algeria,False,False,,Kirin Cup,1986
 1987-05-27,Japan,2,2,Senegal,False,False,,Kirin Cup,1987
 1988-06-02,Japan,0,3,China PR,False,False,,Kirin Cup,1988
 1991-06-02,Japan,1,0,Thailand,False,False,,Kirin Cup,1991
 1992-05-30,Japan,0,1,Argentina,False,False,,Kirin Cup,1992
-1992-06-03,Argentina,1,0,Wales,False,False,,Kirin Cup,1992
+1992-06-03,Argentina,1,0,Wales,True,False,,Kirin Cup,1992
 1992-06-07,Japan,0,1,Wales,False,False,,Kirin Cup,1992
 1993-03-07,Japan,0,1,Hungary,False,False,,Kirin Cup,1993
-1993-03-10,Hungary,0,0,United States,False,False,,Kirin Cup,1993
+1993-03-10,Hungary,0,0,United States,True,False,,Kirin Cup,1993
 1993-03-14,Japan,3,1,United States,False,False,,Kirin Cup,1993
 1994-05-22,Japan,1,1,Australia,False,False,,Kirin Cup,1994
-1994-05-26,Australia,0,1,France,False,False,,Kirin Cup,1994
+1994-05-26,Australia,0,1,France,True,False,,Kirin Cup,1994
 1994-05-29,Japan,1,4,France,False,False,,Kirin Cup,1994
 1995-05-21,Japan,0,0,Scotland,False,False,,Kirin Cup,1995
-1995-05-24,Ecuador,1,2,Scotland,False,False,,Kirin Cup,1995
+1995-05-24,Ecuador,1,2,Scotland,True,False,,Kirin Cup,1995
 1995-05-28,Japan,3,0,Ecuador,False,False,,Kirin Cup,1995
-1996-05-23,Mexico,0,0,Serbia,False,False,,Kirin Cup,1996
+1996-05-23,Mexico,0,0,Serbia,True,False,,Kirin Cup,1996
 1996-05-26,Japan,1,0,Serbia,False,False,,Kirin Cup,1996
 1996-05-29,Japan,3,2,Mexico,False,False,,Kirin Cup,1996
 1997-06-08,Japan,4,3,Croatia,False,False,,Kirin Cup,1997
-1997-06-12,Croatia,1,1,Turkey,False,False,,Kirin Cup,1997
+1997-06-12,Croatia,1,1,Turkey,True,False,,Kirin Cup,1997
 1997-06-15,Japan,1,0,Turkey,False,False,,Kirin Cup,1997
 1998-05-17,Japan,1,1,Paraguay,False,False,,Kirin Cup,1998
-1998-05-21,Czech Republic,1,0,Paraguay,False,False,,Kirin Cup,1998
+1998-05-21,Czech Republic,1,0,Paraguay,True,False,,Kirin Cup,1998
 1998-05-24,Japan,0,0,Czech Republic,False,False,,Kirin Cup,1998
-1999-05-30,Belgium,1,1,Peru,False,False,,Kirin Cup,1999
+1999-05-30,Belgium,1,1,Peru,True,False,,Kirin Cup,1999
 1999-06-03,Japan,0,0,Belgium,False,False,,Kirin Cup,1999
 1999-06-06,Japan,0,0,Peru,False,False,,Kirin Cup,1999
 2000-06-11,Japan,1,1,Slovakia,False,False,,Kirin Cup,2000
-2000-06-14,Bolivia,0,2,Slovakia,False,False,,Kirin Cup,2000
+2000-06-14,Bolivia,0,2,Slovakia,True,False,,Kirin Cup,2000
 2000-06-18,Japan,2,0,Bolivia,False,False,,Kirin Cup,2000
-2001-06-28,Paraguay,2,0,Serbia,False,False,,Kirin Cup,2001
+2001-06-28,Paraguay,2,0,Serbia,True,False,,Kirin Cup,2001
 2001-07-01,Japan,2,0,Paraguay,False,False,,Kirin Cup,2001
 2001-07-04,Japan,1,0,Serbia,False,False,,Kirin Cup,2001
 2002-04-29,Japan,1,0,Slovakia,False,False,,Kirin Cup,2002
@@ -46,31 +46,31 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-06-08,Japan,1,4,Argentina,False,False,,Kirin Cup,2003
 2003-06-11,Japan,0,0,Paraguay,False,False,,Kirin Cup,2003
 2004-07-09,Japan,3,1,Slovakia,False,False,,Kirin Cup,2004
-2004-07-11,Serbia,2,0,Slovakia,False,False,,Kirin Cup,2004
+2004-07-11,Serbia,2,0,Slovakia,True,False,,Kirin Cup,2004
 2004-07-13,Japan,1,0,Serbia,False,False,,Kirin Cup,2004
 2005-05-22,Japan,0,1,Peru,False,False,,Kirin Cup,2005
-2005-05-24,Peru,0,0,United Arab Emirates,False,False,,Kirin Cup,2005
+2005-05-24,Peru,0,0,United Arab Emirates,True,False,,Kirin Cup,2005
 2005-05-27,Japan,0,1,United Arab Emirates,False,False,,Kirin Cup,2005
 2006-05-09,Japan,1,2,Bulgaria,False,False,,Kirin Cup,2006
-2006-05-11,Bulgaria,1,5,Scotland,False,False,,Kirin Cup,2006
+2006-05-11,Bulgaria,1,5,Scotland,True,False,,Kirin Cup,2006
 2006-05-13,Japan,0,0,Scotland,False,False,,Kirin Cup,2006
 2007-06-01,Japan,2,0,Montenegro,False,False,,Kirin Cup,2007
-2007-06-03,Colombia,1,0,Montenegro,False,False,,Kirin Cup,2007
+2007-06-03,Colombia,1,0,Montenegro,True,False,,Kirin Cup,2007
 2007-06-05,Japan,0,0,Colombia,False,False,,Kirin Cup,2007
-2008-05-22,Ivory Coast,1,1,Paraguay,False,False,,Kirin Cup,2008
+2008-05-22,Ivory Coast,1,1,Paraguay,True,False,,Kirin Cup,2008
 2008-05-24,Japan,1,0,Ivory Coast,False,False,,Kirin Cup,2008
 2008-05-27,Japan,0,0,Paraguay,False,False,,Kirin Cup,2008
 2009-05-27,Japan,4,0,Chile,False,False,,Kirin Cup,2009
-2009-05-29,Belgium,1,1,Chile,False,False,,Kirin Cup,2009
+2009-05-29,Belgium,1,1,Chile,True,False,,Kirin Cup,2009
 2009-05-31,Japan,4,0,Belgium,False,False,,Kirin Cup,2009
 2011-06-01,Japan,0,0,Peru,False,False,,Kirin Cup,2011
-2011-06-04,Peru,0,0,Czech Republic,False,False,,Kirin Cup,2011
+2011-06-04,Peru,0,0,Czech Republic,True,False,,Kirin Cup,2011
 2011-06-07,Japan,0,0,Czech Republic,False,False,,Kirin Cup,2011
-2016-06-03,Bosnia and Herzegovina,2,2,Denmark,False,False,,Kirin Cup,2016
+2016-06-03,Bosnia and Herzegovina,2,2,Denmark,True,False,,Kirin Cup,2016
 2016-06-03,Japan,7,2,Bulgaria,False,False,,Kirin Cup,2016
-2016-06-07,Bulgaria,0,4,Denmark,False,False,,Kirin Cup,2016
+2016-06-07,Bulgaria,0,4,Denmark,True,False,,Kirin Cup,2016
 2016-06-07,Japan,1,2,Bosnia and Herzegovina,False,False,,Kirin Cup,2016
-2022-06-10,Chile,0,2,Tunisia,False,False,,Kirin Cup,2022
+2022-06-10,Chile,0,2,Tunisia,True,False,,Kirin Cup,2022
 2022-06-10,Japan,4,1,Ghana,False,False,,Kirin Cup,2022
-2022-06-14,Chile,0,0,Ghana,False,False,,Kirin Cup,2022
+2022-06-14,Chile,0,0,Ghana,True,False,,Kirin Cup,2022
 2022-06-14,Japan,0,3,Tunisia,False,False,,Kirin Cup,2022

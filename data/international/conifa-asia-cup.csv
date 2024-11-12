@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2023-08-04,Tamil Eelam,3,0,Hmong,False,False,,CONIFA Asia Cup,2023
-2023-08-05,Hmong,5,4,Tibet,False,False,,CONIFA Asia Cup,2023
-2023-08-06,Tibet,1,3,Tamil Eelam,False,False,,CONIFA Asia Cup,2023
-2023-08-08,Tamil Eelam,3,1,Hmong,False,False,,CONIFA Asia Cup,2023
+2023-08-04,Tamil Eelam,3,0,Hmong,True,False,,CONIFA Asia Cup,2023
+2023-08-05,Hmong,5,4,Tibet,True,False,,CONIFA Asia Cup,2023
+2023-08-06,Tibet,1,3,Tamil Eelam,True,False,,CONIFA Asia Cup,2023
+2023-08-08,Tamil Eelam,3,1,Hmong,True,False,,CONIFA Asia Cup,2023

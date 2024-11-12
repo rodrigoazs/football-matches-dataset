@@ -1,8 +1,8 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1980-12-30,Uruguay,2,0,Netherlands,False,False,,Mundialito,1980
-1981-01-01,Argentina,2,1,Germany,False,False,,Mundialito,1981
+1981-01-01,Argentina,2,1,Germany,True,False,,Mundialito,1981
 1981-01-03,Uruguay,2,0,Italy,False,False,,Mundialito,1981
-1981-01-04,Argentina,1,1,Brazil,False,False,,Mundialito,1981
-1981-01-06,Netherlands,1,1,Italy,False,False,,Mundialito,1981
-1981-01-07,Brazil,4,1,Germany,False,False,,Mundialito,1981
+1981-01-04,Argentina,1,1,Brazil,True,False,,Mundialito,1981
+1981-01-06,Netherlands,1,1,Italy,True,False,,Mundialito,1981
+1981-01-07,Brazil,4,1,Germany,True,False,,Mundialito,1981
 1981-01-10,Uruguay,2,1,Brazil,False,False,,Mundialito,1981

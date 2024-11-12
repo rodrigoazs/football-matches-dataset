@@ -1,56 +1,56 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1960-04-14,Ivory Coast,3,2,Benin,False,False,,African Friendship Games,1960
-1960-04-14,Burkina Faso,5,4,Gabon,False,False,,African Friendship Games,1960
-1960-04-14,Congo,4,1,Réunion,False,False,,African Friendship Games,1960
-1960-04-14,Cameroon,9,2,Djibouti,False,False,,African Friendship Games,1960
-1960-04-14,Mali,4,3,Central African Republic,False,False,,African Friendship Games,1960
+1960-04-14,Ivory Coast,3,2,Benin,True,False,,African Friendship Games,1960
+1960-04-14,Burkina Faso,5,4,Gabon,True,False,,African Friendship Games,1960
+1960-04-14,Congo,4,1,Réunion,True,False,,African Friendship Games,1960
+1960-04-14,Cameroon,9,2,Djibouti,True,False,,African Friendship Games,1960
+1960-04-14,Mali,4,3,Central African Republic,True,False,,African Friendship Games,1960
 1960-04-15,Madagascar,6,1,Burkina Faso,False,False,,African Friendship Games,1960
-1960-04-15,Cameroon,3,2,Mali,False,False,,African Friendship Games,1960
-1960-04-15,Congo,3,2,Ivory Coast,False,False,,African Friendship Games,1960
-1960-04-17,Cameroon,5,4,Congo,False,False,,African Friendship Games,1960
+1960-04-15,Cameroon,3,2,Mali,True,False,,African Friendship Games,1960
+1960-04-15,Congo,3,2,Ivory Coast,True,False,,African Friendship Games,1960
+1960-04-17,Cameroon,5,4,Congo,True,False,,African Friendship Games,1960
 1960-04-18,Madagascar,8,1,Congo,False,False,,African Friendship Games,1960
-1961-12-25,Madagascar,5,1,Mauritania,False,False,,African Friendship Games,1961
-1961-12-25,Central African Republic,1,1,Liberia,False,False,,African Friendship Games,1961
+1961-12-25,Madagascar,5,1,Mauritania,True,False,,African Friendship Games,1961
+1961-12-25,Central African Republic,1,1,Liberia,True,False,,African Friendship Games,1961
 1961-12-25,Ivory Coast,2,1,Burkina Faso,False,False,,African Friendship Games,1961
-1961-12-25,Senegal,3,2,Gabon,False,False,,African Friendship Games,1961
-1961-12-25,Chad,2,2,Niger,False,False,,African Friendship Games,1961
-1961-12-26,Benin,7,0,Mauritania,False,False,,African Friendship Games,1961
+1961-12-25,Senegal,3,2,Gabon,True,False,,African Friendship Games,1961
+1961-12-25,Chad,2,2,Niger,True,False,,African Friendship Games,1961
+1961-12-26,Benin,7,0,Mauritania,True,False,,African Friendship Games,1961
 1961-12-26,Ivory Coast,5,0,Liberia,False,False,,African Friendship Games,1961
-1961-12-26,Cameroon,6,0,Gabon,False,False,,African Friendship Games,1961
-1961-12-27,Benin,3,1,Madagascar,False,False,,African Friendship Games,1961
-1961-12-27,Burkina Faso,5,1,Liberia,False,False,,African Friendship Games,1961
+1961-12-26,Cameroon,6,0,Gabon,True,False,,African Friendship Games,1961
+1961-12-27,Benin,3,1,Madagascar,True,False,,African Friendship Games,1961
+1961-12-27,Burkina Faso,5,1,Liberia,True,False,,African Friendship Games,1961
 1961-12-27,Ivory Coast,1,0,Central African Republic,False,False,,African Friendship Games,1961
-1961-12-27,Senegal,4,0,Cameroon,False,False,,African Friendship Games,1961
+1961-12-27,Senegal,4,0,Cameroon,True,False,,African Friendship Games,1961
 1961-12-29,Ivory Coast,1,1,Senegal,False,False,,African Friendship Games,1961
-1961-12-31,Benin,4,3,Senegal,False,False,,African Friendship Games,1961
+1961-12-31,Benin,4,3,Senegal,True,False,,African Friendship Games,1961
 1963-04-12,Senegal,1,0,Cameroon,False,False,,African Friendship Games,1963
-1963-04-12,Nigeria,1,0,Niger,False,False,,African Friendship Games,1963
-1963-04-12,Madagascar,1,0,Benin,False,False,,African Friendship Games,1963
-1963-04-12,Liberia,2,1,Chad,False,False,,African Friendship Games,1963
-1963-04-12,France,5,1,Gambia,False,False,,African Friendship Games,1963
-1963-04-12,Gabon,4,0,Burkina Faso,False,False,,African Friendship Games,1963
-1963-04-12,Congo,3,2,Ivory Coast,False,False,,African Friendship Games,1963
-1963-04-12,DR Congo,6,0,Mauritania,False,False,,African Friendship Games,1963
-1963-04-13,Tunisia,3,1,Ivory Coast,False,False,,African Friendship Games,1963
-1963-04-13,Congo,2,1,DR Congo,False,False,,African Friendship Games,1963
+1963-04-12,Nigeria,1,0,Niger,True,False,,African Friendship Games,1963
+1963-04-12,Madagascar,1,0,Benin,True,False,,African Friendship Games,1963
+1963-04-12,Liberia,2,1,Chad,True,False,,African Friendship Games,1963
+1963-04-12,France,5,1,Gambia,True,False,,African Friendship Games,1963
+1963-04-12,Gabon,4,0,Burkina Faso,True,False,,African Friendship Games,1963
+1963-04-12,Congo,3,2,Ivory Coast,True,False,,African Friendship Games,1963
+1963-04-12,DR Congo,6,0,Mauritania,True,False,,African Friendship Games,1963
+1963-04-13,Tunisia,3,1,Ivory Coast,True,False,,African Friendship Games,1963
+1963-04-13,Congo,2,1,DR Congo,True,False,,African Friendship Games,1963
 1963-04-14,Senegal,5,1,Nigeria,False,False,,African Friendship Games,1963
-1963-04-14,Cameroon,3,2,Niger,False,False,,African Friendship Games,1963
-1963-04-14,Benin,1,0,Liberia,False,False,,African Friendship Games,1963
-1963-04-14,Madagascar,2,1,Chad,False,False,,African Friendship Games,1963
-1963-04-14,France,3,0,Gabon,False,False,,African Friendship Games,1963
-1963-04-14,Gambia,2,2,Burkina Faso,False,False,,African Friendship Games,1963
-1963-04-14,Ivory Coast,2,0,Mauritania,False,False,,African Friendship Games,1963
-1963-04-14,Tunisia,2,0,Congo,False,False,,African Friendship Games,1963
-1963-04-15,Tunisia,4,0,Mauritania,False,False,,African Friendship Games,1963
-1963-04-15,Ivory Coast,1,0,DR Congo,False,False,,African Friendship Games,1963
+1963-04-14,Cameroon,3,2,Niger,True,False,,African Friendship Games,1963
+1963-04-14,Benin,1,0,Liberia,True,False,,African Friendship Games,1963
+1963-04-14,Madagascar,2,1,Chad,True,False,,African Friendship Games,1963
+1963-04-14,France,3,0,Gabon,True,False,,African Friendship Games,1963
+1963-04-14,Gambia,2,2,Burkina Faso,True,False,,African Friendship Games,1963
+1963-04-14,Ivory Coast,2,0,Mauritania,True,False,,African Friendship Games,1963
+1963-04-14,Tunisia,2,0,Congo,True,False,,African Friendship Games,1963
+1963-04-15,Tunisia,4,0,Mauritania,True,False,,African Friendship Games,1963
+1963-04-15,Ivory Coast,1,0,DR Congo,True,False,,African Friendship Games,1963
 1963-04-16,Senegal,3,1,Niger,False,False,,African Friendship Games,1963
-1963-04-16,Madagascar,3,1,Liberia,False,False,,African Friendship Games,1963
-1963-04-16,Benin,6,2,Chad,False,False,,African Friendship Games,1963
-1963-04-16,Gambia,2,2,Gabon,False,False,,African Friendship Games,1963
-1963-04-16,France,1,0,Burkina Faso,False,False,,African Friendship Games,1963
-1963-04-16,Congo,7,0,Mauritania,False,False,,African Friendship Games,1963
-1963-04-16,DR Congo,1,0,Tunisia,False,False,,African Friendship Games,1963
-1963-04-18,Tunisia,2,1,Madagascar,False,False,,African Friendship Games,1963
+1963-04-16,Madagascar,3,1,Liberia,True,False,,African Friendship Games,1963
+1963-04-16,Benin,6,2,Chad,True,False,,African Friendship Games,1963
+1963-04-16,Gambia,2,2,Gabon,True,False,,African Friendship Games,1963
+1963-04-16,France,1,0,Burkina Faso,True,False,,African Friendship Games,1963
+1963-04-16,Congo,7,0,Mauritania,True,False,,African Friendship Games,1963
+1963-04-16,DR Congo,1,0,Tunisia,True,False,,African Friendship Games,1963
+1963-04-18,Tunisia,2,1,Madagascar,True,False,,African Friendship Games,1963
 1963-04-18,Senegal,2,0,France,False,False,,African Friendship Games,1963
-1963-04-20,France,4,1,Madagascar,False,False,,African Friendship Games,1963
+1963-04-20,France,4,1,Madagascar,True,False,,African Friendship Games,1963
 1963-04-20,Senegal,1,1,Tunisia,False,False,,African Friendship Games,1963

@@ -1,15 +1,15 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1966-11-25,Palestine,5,3,Yemen,False,False,,GaNEFo,1966
+1966-11-25,Palestine,5,3,Yemen,True,False,,GaNEFo,1966
 1966-11-26,Cambodia,0,2,North Korea,False,False,,GaNEFo,1966
-1966-11-26,China PR,7,0,Palestine,False,False,,GaNEFo,1966
-1966-11-26,North Vietnam,9,0,Yemen,False,False,,GaNEFo,1966
+1966-11-26,China PR,7,0,Palestine,True,False,,GaNEFo,1966
+1966-11-26,North Vietnam,9,0,Yemen,True,False,,GaNEFo,1966
 1966-11-27,Cambodia,0,4,China PR,False,False,,GaNEFo,1966
-1966-11-27,Palestine,0,4,North Vietnam,False,False,,GaNEFo,1966
+1966-11-27,Palestine,0,4,North Vietnam,True,False,,GaNEFo,1966
 1966-11-29,Cambodia,8,0,Yemen,False,False,,GaNEFo,1966
-1966-11-29,Palestine,1,5,North Korea,False,False,,GaNEFo,1966
+1966-11-29,Palestine,1,5,North Korea,True,False,,GaNEFo,1966
 1966-11-30,Cambodia,2,2,North Vietnam,False,False,,GaNEFo,1966
-1966-11-30,China PR,2,0,North Vietnam,False,False,,GaNEFo,1966
-1966-11-30,North Korea,14,0,Yemen,False,False,,GaNEFo,1966
-1966-12-03,China PR,1,2,North Korea,False,False,,GaNEFo,1966
-1966-12-06,China PR,6,0,Yemen,False,False,,GaNEFo,1966
-1966-12-06,North Korea,3,1,North Vietnam,False,False,,GaNEFo,1966
+1966-11-30,China PR,2,0,North Vietnam,True,False,,GaNEFo,1966
+1966-11-30,North Korea,14,0,Yemen,True,False,,GaNEFo,1966
+1966-12-03,China PR,1,2,North Korea,True,False,,GaNEFo,1966
+1966-12-06,China PR,6,0,Yemen,True,False,,GaNEFo,1966
+1966-12-06,North Korea,3,1,North Vietnam,True,False,,GaNEFo,1966

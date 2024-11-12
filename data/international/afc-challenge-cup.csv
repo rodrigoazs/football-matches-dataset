@@ -1,101 +1,101 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2006-04-01,Bangladesh,2,1,Cambodia,False,False,,AFC Challenge Cup,2006
-2006-04-01,Palestine,11,0,Guam,False,False,,AFC Challenge Cup,2006
-2006-04-02,Kyrgyzstan,0,1,Pakistan,False,False,,AFC Challenge Cup,2006
-2006-04-02,Nepal,2,0,Bhutan,False,False,,AFC Challenge Cup,2006
-2006-04-02,Sri Lanka,1,0,Brunei,False,False,,AFC Challenge Cup,2006
-2006-04-02,Tajikistan,4,0,Macau,False,False,,AFC Challenge Cup,2006
-2006-04-03,Afghanistan,2,2,Taiwan,False,False,,AFC Challenge Cup,2006
+2006-04-01,Palestine,11,0,Guam,True,False,,AFC Challenge Cup,2006
+2006-04-02,Kyrgyzstan,0,1,Pakistan,True,False,,AFC Challenge Cup,2006
+2006-04-02,Nepal,2,0,Bhutan,True,False,,AFC Challenge Cup,2006
+2006-04-02,Sri Lanka,1,0,Brunei,True,False,,AFC Challenge Cup,2006
+2006-04-02,Tajikistan,4,0,Macau,True,False,,AFC Challenge Cup,2006
+2006-04-03,Afghanistan,2,2,Taiwan,True,False,,AFC Challenge Cup,2006
 2006-04-03,Bangladesh,3,0,Guam,False,False,,AFC Challenge Cup,2006
-2006-04-03,Cambodia,0,4,Palestine,False,False,,AFC Challenge Cup,2006
-2006-04-04,Bhutan,0,1,Sri Lanka,False,False,,AFC Challenge Cup,2006
-2006-04-04,Brunei,2,1,Nepal,False,False,,AFC Challenge Cup,2006
-2006-04-04,Pakistan,0,2,Tajikistan,False,False,,AFC Challenge Cup,2006
+2006-04-03,Cambodia,0,4,Palestine,True,False,,AFC Challenge Cup,2006
+2006-04-04,Bhutan,0,1,Sri Lanka,True,False,,AFC Challenge Cup,2006
+2006-04-04,Brunei,2,1,Nepal,True,False,,AFC Challenge Cup,2006
+2006-04-04,Pakistan,0,2,Tajikistan,True,False,,AFC Challenge Cup,2006
 2006-04-05,Bangladesh,1,1,Palestine,False,False,,AFC Challenge Cup,2006
-2006-04-05,Philippines,1,1,Afghanistan,False,False,,AFC Challenge Cup,2006
-2006-04-06,Bhutan,0,0,Brunei,False,False,,AFC Challenge Cup,2006
-2006-04-06,Cambodia,3,0,Guam,False,False,,AFC Challenge Cup,2006
-2006-04-06,Pakistan,2,2,Macau,False,False,,AFC Challenge Cup,2006
-2006-04-06,Sri Lanka,1,1,Nepal,False,False,,AFC Challenge Cup,2006
-2006-04-06,Tajikistan,0,1,Kyrgyzstan,False,False,,AFC Challenge Cup,2006
-2006-04-07,Macau,0,2,Kyrgyzstan,False,False,,AFC Challenge Cup,2006
-2006-04-08,Sri Lanka,3,0,Taiwan,False,False,,AFC Challenge Cup,2006
-2006-04-09,Palestine,0,1,Kyrgyzstan,False,False,,AFC Challenge Cup,2006
+2006-04-05,Philippines,1,1,Afghanistan,True,False,,AFC Challenge Cup,2006
+2006-04-06,Bhutan,0,0,Brunei,True,False,,AFC Challenge Cup,2006
+2006-04-06,Cambodia,3,0,Guam,True,False,,AFC Challenge Cup,2006
+2006-04-06,Pakistan,2,2,Macau,True,False,,AFC Challenge Cup,2006
+2006-04-06,Sri Lanka,1,1,Nepal,True,False,,AFC Challenge Cup,2006
+2006-04-06,Tajikistan,0,1,Kyrgyzstan,True,False,,AFC Challenge Cup,2006
+2006-04-07,Macau,0,2,Kyrgyzstan,True,False,,AFC Challenge Cup,2006
+2006-04-08,Sri Lanka,3,0,Taiwan,True,False,,AFC Challenge Cup,2006
+2006-04-09,Palestine,0,1,Kyrgyzstan,True,False,,AFC Challenge Cup,2006
 2006-04-10,Bangladesh,1,6,Tajikistan,False,False,,AFC Challenge Cup,2006
-2006-04-12,Sri Lanka,1,1,Nepal,False,False,,AFC Challenge Cup,2006
-2006-04-13,Tajikistan,2,0,Kyrgyzstan,False,False,,AFC Challenge Cup,2006
-2006-04-16,Sri Lanka,0,4,Tajikistan,False,False,,AFC Challenge Cup,2006
+2006-04-12,Sri Lanka,1,1,Nepal,True,False,,AFC Challenge Cup,2006
+2006-04-13,Tajikistan,2,0,Kyrgyzstan,True,False,,AFC Challenge Cup,2006
+2006-04-16,Sri Lanka,0,4,Tajikistan,True,False,,AFC Challenge Cup,2006
 2008-07-30,India,1,0,Afghanistan,False,False,,AFC Challenge Cup,2008
-2008-07-30,Turkmenistan,0,0,Tajikistan,False,False,,AFC Challenge Cup,2008
-2008-07-31,Myanmar,3,0,Nepal,False,False,,AFC Challenge Cup,2008
-2008-07-31,North Korea,3,0,Sri Lanka,False,False,,AFC Challenge Cup,2008
-2008-08-01,Afghanistan,0,5,Turkmenistan,False,False,,AFC Challenge Cup,2008
+2008-07-30,Turkmenistan,0,0,Tajikistan,True,False,,AFC Challenge Cup,2008
+2008-07-31,Myanmar,3,0,Nepal,True,False,,AFC Challenge Cup,2008
+2008-07-31,North Korea,3,0,Sri Lanka,True,False,,AFC Challenge Cup,2008
+2008-08-01,Afghanistan,0,5,Turkmenistan,True,False,,AFC Challenge Cup,2008
 2008-08-01,India,1,1,Tajikistan,False,False,,AFC Challenge Cup,2008
-2008-08-02,Nepal,0,1,North Korea,False,False,,AFC Challenge Cup,2008
-2008-08-02,Sri Lanka,1,3,Myanmar,False,False,,AFC Challenge Cup,2008
-2008-08-03,Afghanistan,0,4,Tajikistan,False,False,,AFC Challenge Cup,2008
+2008-08-02,Nepal,0,1,North Korea,True,False,,AFC Challenge Cup,2008
+2008-08-02,Sri Lanka,1,3,Myanmar,True,False,,AFC Challenge Cup,2008
+2008-08-03,Afghanistan,0,4,Tajikistan,True,False,,AFC Challenge Cup,2008
 2008-08-03,India,2,1,Turkmenistan,False,False,,AFC Challenge Cup,2008
-2008-08-04,North Korea,1,0,Myanmar,False,False,,AFC Challenge Cup,2008
-2008-08-04,Nepal,3,0,Sri Lanka,False,False,,AFC Challenge Cup,2008
+2008-08-04,North Korea,1,0,Myanmar,True,False,,AFC Challenge Cup,2008
+2008-08-04,Nepal,3,0,Sri Lanka,True,False,,AFC Challenge Cup,2008
 2008-08-07,India,1,0,Myanmar,False,False,,AFC Challenge Cup,2008
-2008-08-07,North Korea,0,1,Tajikistan,False,False,,AFC Challenge Cup,2008
-2008-08-13,Myanmar,0,4,North Korea,False,False,,AFC Challenge Cup,2008
+2008-08-07,North Korea,0,1,Tajikistan,True,False,,AFC Challenge Cup,2008
+2008-08-13,Myanmar,0,4,North Korea,True,False,,AFC Challenge Cup,2008
 2008-08-13,India,4,1,Tajikistan,False,False,,AFC Challenge Cup,2008
 2010-02-16,Sri Lanka,0,4,Myanmar,False,False,,AFC Challenge Cup,2010
-2010-02-16,Tajikistan,1,2,Bangladesh,False,False,,AFC Challenge Cup,2010
-2010-02-17,North Korea,1,1,Turkmenistan,False,False,,AFC Challenge Cup,2010
-2010-02-18,Bangladesh,1,2,Myanmar,False,False,,AFC Challenge Cup,2010
+2010-02-16,Tajikistan,1,2,Bangladesh,True,False,,AFC Challenge Cup,2010
+2010-02-17,North Korea,1,1,Turkmenistan,True,False,,AFC Challenge Cup,2010
+2010-02-18,Bangladesh,1,2,Myanmar,True,False,,AFC Challenge Cup,2010
 2010-02-18,Sri Lanka,1,3,Tajikistan,False,False,,AFC Challenge Cup,2010
-2010-02-19,Kyrgyzstan,0,4,North Korea,False,False,,AFC Challenge Cup,2010
+2010-02-19,Kyrgyzstan,0,4,North Korea,True,False,,AFC Challenge Cup,2010
 2010-02-20,Sri Lanka,3,0,Bangladesh,False,False,,AFC Challenge Cup,2010
-2010-02-20,Tajikistan,3,0,Myanmar,False,False,,AFC Challenge Cup,2010
-2010-02-21,Turkmenistan,1,0,Kyrgyzstan,False,False,,AFC Challenge Cup,2010
-2010-02-24,North Korea,5,0,Myanmar,False,False,,AFC Challenge Cup,2010
-2010-02-24,Tajikistan,0,2,Turkmenistan,False,False,,AFC Challenge Cup,2010
-2010-02-25,Turkmenistan,1,1,North Korea,False,False,,AFC Challenge Cup,2010
-2010-02-27,Tajikistan,1,0,Myanmar,False,False,,AFC Challenge Cup,2010
+2010-02-20,Tajikistan,3,0,Myanmar,True,False,,AFC Challenge Cup,2010
+2010-02-21,Turkmenistan,1,0,Kyrgyzstan,True,False,,AFC Challenge Cup,2010
+2010-02-24,North Korea,5,0,Myanmar,True,False,,AFC Challenge Cup,2010
+2010-02-24,Tajikistan,0,2,Turkmenistan,True,False,,AFC Challenge Cup,2010
+2010-02-25,Turkmenistan,1,1,North Korea,True,False,,AFC Challenge Cup,2010
+2010-02-27,Tajikistan,1,0,Myanmar,True,False,,AFC Challenge Cup,2010
 2012-03-08,Nepal,0,2,Palestine,False,False,,AFC Challenge Cup,2012
-2012-03-08,Turkmenistan,3,1,Maldives,False,False,,AFC Challenge Cup,2012
-2012-03-09,India,0,2,Tajikistan,False,False,,AFC Challenge Cup,2012
-2012-03-09,North Korea,2,0,Philippines,False,False,,AFC Challenge Cup,2012
+2012-03-08,Turkmenistan,3,1,Maldives,True,False,,AFC Challenge Cup,2012
+2012-03-09,India,0,2,Tajikistan,True,False,,AFC Challenge Cup,2012
+2012-03-09,North Korea,2,0,Philippines,True,False,,AFC Challenge Cup,2012
 2012-03-10,Nepal,0,1,Maldives,False,False,,AFC Challenge Cup,2012
-2012-03-10,Palestine,0,0,Turkmenistan,False,False,,AFC Challenge Cup,2012
-2012-03-11,Philippines,2,0,India,False,False,,AFC Challenge Cup,2012
-2012-03-11,Tajikistan,0,2,North Korea,False,False,,AFC Challenge Cup,2012
-2012-03-12,Maldives,0,2,Palestine,False,False,,AFC Challenge Cup,2012
+2012-03-10,Palestine,0,0,Turkmenistan,True,False,,AFC Challenge Cup,2012
+2012-03-11,Philippines,2,0,India,True,False,,AFC Challenge Cup,2012
+2012-03-11,Tajikistan,0,2,North Korea,True,False,,AFC Challenge Cup,2012
+2012-03-12,Maldives,0,2,Palestine,True,False,,AFC Challenge Cup,2012
 2012-03-12,Nepal,0,3,Turkmenistan,False,False,,AFC Challenge Cup,2012
-2012-03-13,North Korea,4,0,India,False,False,,AFC Challenge Cup,2012
-2012-03-13,Tajikistan,1,2,Philippines,False,False,,AFC Challenge Cup,2012
-2012-03-16,North Korea,2,0,Palestine,False,False,,AFC Challenge Cup,2012
-2012-03-16,Turkmenistan,2,1,Philippines,False,False,,AFC Challenge Cup,2012
-2012-03-19,Philippines,4,3,Palestine,False,False,,AFC Challenge Cup,2012
-2012-03-19,Turkmenistan,1,2,North Korea,False,False,,AFC Challenge Cup,2012
+2012-03-13,North Korea,4,0,India,True,False,,AFC Challenge Cup,2012
+2012-03-13,Tajikistan,1,2,Philippines,True,False,,AFC Challenge Cup,2012
+2012-03-16,North Korea,2,0,Palestine,True,False,,AFC Challenge Cup,2012
+2012-03-16,Turkmenistan,2,1,Philippines,True,False,,AFC Challenge Cup,2012
+2012-03-19,Philippines,4,3,Palestine,True,False,,AFC Challenge Cup,2012
+2012-03-19,Turkmenistan,1,2,North Korea,True,False,,AFC Challenge Cup,2012
 2014-05-19,Maldives,2,3,Myanmar,False,False,,AFC Challenge Cup,2014
-2014-05-19,Palestine,1,0,Kyrgyzstan,False,False,,AFC Challenge Cup,2014
-2014-05-20,Philippines,0,0,Afghanistan,False,False,,AFC Challenge Cup,2014
-2014-05-20,Turkmenistan,5,1,Laos,False,False,,AFC Challenge Cup,2014
-2014-05-21,Myanmar,0,2,Palestine,False,False,,AFC Challenge Cup,2014
+2014-05-19,Palestine,1,0,Kyrgyzstan,True,False,,AFC Challenge Cup,2014
+2014-05-20,Philippines,0,0,Afghanistan,True,False,,AFC Challenge Cup,2014
+2014-05-20,Turkmenistan,5,1,Laos,True,False,,AFC Challenge Cup,2014
+2014-05-21,Myanmar,0,2,Palestine,True,False,,AFC Challenge Cup,2014
 2014-05-21,Maldives,2,0,Kyrgyzstan,False,False,,AFC Challenge Cup,2014
-2014-05-22,Afghanistan,3,1,Turkmenistan,False,False,,AFC Challenge Cup,2014
-2014-05-22,Laos,0,2,Philippines,False,False,,AFC Challenge Cup,2014
-2014-05-23,Kyrgyzstan,1,0,Myanmar,False,False,,AFC Challenge Cup,2014
+2014-05-22,Afghanistan,3,1,Turkmenistan,True,False,,AFC Challenge Cup,2014
+2014-05-22,Laos,0,2,Philippines,True,False,,AFC Challenge Cup,2014
+2014-05-23,Kyrgyzstan,1,0,Myanmar,True,False,,AFC Challenge Cup,2014
 2014-05-23,Maldives,0,0,Palestine,False,False,,AFC Challenge Cup,2014
-2014-05-24,Afghanistan,0,0,Laos,False,False,,AFC Challenge Cup,2014
-2014-05-24,Turkmenistan,0,2,Philippines,False,False,,AFC Challenge Cup,2014
+2014-05-24,Afghanistan,0,0,Laos,True,False,,AFC Challenge Cup,2014
+2014-05-24,Turkmenistan,0,2,Philippines,True,False,,AFC Challenge Cup,2014
 2014-05-27,Maldives,2,3,Philippines,False,False,,AFC Challenge Cup,2014
-2014-05-27,Palestine,2,0,Afghanistan,False,False,,AFC Challenge Cup,2014
+2014-05-27,Palestine,2,0,Afghanistan,True,False,,AFC Challenge Cup,2014
 2014-05-29,Maldives,1,1,Afghanistan,False,False,,AFC Challenge Cup,2014
-2014-05-30,Palestine,1,0,Philippines,False,False,,AFC Challenge Cup,2014
-2016-11-02,Brunei,4,0,Timor-Leste,False,False,,AFC Challenge Cup,2016
-2016-11-03,Macau,2,1,Mongolia,False,False,,AFC Challenge Cup,2016
-2016-11-03,Sri Lanka,1,2,Laos,False,False,,AFC Challenge Cup,2016
-2016-11-05,Timor-Leste,0,0,Nepal,False,False,,AFC Challenge Cup,2016
-2016-11-06,Laos,1,4,Macau,False,False,,AFC Challenge Cup,2016
-2016-11-06,Mongolia,2,0,Sri Lanka,False,False,,AFC Challenge Cup,2016
-2016-11-08,Nepal,3,0,Brunei,False,False,,AFC Challenge Cup,2016
-2016-11-09,Mongolia,0,3,Laos,False,False,,AFC Challenge Cup,2016
-2016-11-09,Sri Lanka,1,1,Macau,False,False,,AFC Challenge Cup,2016
-2016-11-12,Macau,1,1,Brunei,False,False,,AFC Challenge Cup,2016
-2016-11-12,Nepal,2,2,Laos,False,False,,AFC Challenge Cup,2016
-2016-11-14,Laos,3,2,Brunei,False,False,,AFC Challenge Cup,2016
-2016-11-15,Nepal,1,0,Macau,False,False,,AFC Challenge Cup,2016
+2014-05-30,Palestine,1,0,Philippines,True,False,,AFC Challenge Cup,2014
+2016-11-02,Brunei,4,0,Timor-Leste,True,False,,AFC Challenge Cup,2016
+2016-11-03,Macau,2,1,Mongolia,True,False,,AFC Challenge Cup,2016
+2016-11-03,Sri Lanka,1,2,Laos,True,False,,AFC Challenge Cup,2016
+2016-11-05,Timor-Leste,0,0,Nepal,True,False,,AFC Challenge Cup,2016
+2016-11-06,Laos,1,4,Macau,True,False,,AFC Challenge Cup,2016
+2016-11-06,Mongolia,2,0,Sri Lanka,True,False,,AFC Challenge Cup,2016
+2016-11-08,Nepal,3,0,Brunei,True,False,,AFC Challenge Cup,2016
+2016-11-09,Mongolia,0,3,Laos,True,False,,AFC Challenge Cup,2016
+2016-11-09,Sri Lanka,1,1,Macau,True,False,,AFC Challenge Cup,2016
+2016-11-12,Macau,1,1,Brunei,True,False,,AFC Challenge Cup,2016
+2016-11-12,Nepal,2,2,Laos,True,False,,AFC Challenge Cup,2016
+2016-11-14,Laos,3,2,Brunei,True,False,,AFC Challenge Cup,2016
+2016-11-15,Nepal,1,0,Macau,True,False,,AFC Challenge Cup,2016

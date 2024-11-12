@@ -1,25 +1,25 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2024-03-21,South Africa,1,1,Andorra,False,False,,FIFA Series,2024
-2024-03-21,Cape Verde,1,0,Guyana,False,False,,FIFA Series,2024
-2024-03-21,Guinea,6,0,Vanuatu,False,False,,FIFA Series,2024
+2024-03-21,South Africa,1,1,Andorra,True,False,,FIFA Series,2024
+2024-03-21,Cape Verde,1,0,Guyana,True,False,,FIFA Series,2024
+2024-03-21,Guinea,6,0,Vanuatu,True,False,,FIFA Series,2024
 2024-03-22,Algeria,3,2,Bolivia,False,False,,FIFA Series,2024
 2024-03-22,Azerbaijan,1,0,Mongolia,False,False,,FIFA Series,2024
-2024-03-22,Bulgaria,1,0,Tanzania,False,False,,FIFA Series,2024
+2024-03-22,Bulgaria,1,0,Tanzania,True,False,,FIFA Series,2024
 2024-03-22,Egypt,1,0,New Zealand,False,False,,FIFA Series,2024
-2024-03-22,Equatorial Guinea,2,0,Cambodia,False,False,,FIFA Series,2024
-2024-03-22,Brunei,0,2,Bermuda,False,False,,FIFA Series,2024
-2024-03-22,Central African Republic,6,0,Bhutan,False,False,,FIFA Series,2024
+2024-03-22,Equatorial Guinea,2,0,Cambodia,True,False,,FIFA Series,2024
+2024-03-22,Brunei,0,2,Bermuda,True,False,,FIFA Series,2024
+2024-03-22,Central African Republic,6,0,Bhutan,True,False,,FIFA Series,2024
 2024-03-22,Sri Lanka,0,0,Papua New Guinea,False,False,,FIFA Series,2024
-2024-03-23,Tunisia,0,0,Croatia,False,False,,FIFA Series,2024
-2024-03-25,Bolivia,1,0,Andorra,False,False,,FIFA Series,2024
+2024-03-23,Tunisia,0,0,Croatia,True,False,,FIFA Series,2024
+2024-03-25,Bolivia,1,0,Andorra,True,False,,FIFA Series,2024
 2024-03-25,Azerbaijan,1,1,Bulgaria,False,False,,FIFA Series,2024
-2024-03-25,Tanzania,3,0,Mongolia,False,False,,FIFA Series,2024
-2024-03-25,Cape Verde,1,0,Equatorial Guinea,False,False,,FIFA Series,2024
-2024-03-25,Bermuda,1,5,Guinea,False,False,,FIFA Series,2024
-2024-03-25,Central African Republic,4,0,Papua New Guinea,False,False,,FIFA Series,2024
+2024-03-25,Tanzania,3,0,Mongolia,True,False,,FIFA Series,2024
+2024-03-25,Cape Verde,1,0,Equatorial Guinea,True,False,,FIFA Series,2024
+2024-03-25,Bermuda,1,5,Guinea,True,False,,FIFA Series,2024
+2024-03-25,Central African Republic,4,0,Papua New Guinea,True,False,,FIFA Series,2024
 2024-03-25,Sri Lanka,2,0,Bhutan,False,False,,FIFA Series,2024
 2024-03-26,Algeria,3,3,South Africa,False,False,,FIFA Series,2024
 2024-03-26,Egypt,2,4,Croatia,False,False,,FIFA Series,2024
-2024-03-26,New Zealand,0,0,Tunisia,False,False,,FIFA Series,2024
-2024-03-26,Cambodia,1,4,Guyana,False,False,,FIFA Series,2024
-2024-03-26,Brunei,3,2,Vanuatu,False,False,,FIFA Series,2024
+2024-03-26,New Zealand,0,0,Tunisia,True,False,,FIFA Series,2024
+2024-03-26,Cambodia,1,4,Guyana,True,False,,FIFA Series,2024
+2024-03-26,Brunei,3,2,Vanuatu,True,False,,FIFA Series,2024

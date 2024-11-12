@@ -1,26 +1,26 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1982-10-05,Singapore,0,1,Malaysia,False,False,,Merlion Cup,1982
 1982-10-07,Singapore,7,0,Brunei,False,False,,Merlion Cup,1982
-1982-10-10,Brunei,0,4,Malaysia,False,False,,Merlion Cup,1982
-1982-10-11,Australia,2,0,Indonesia,False,False,,Merlion Cup,1982
-1982-10-14,Australia,5,0,Malaysia,False,False,,Merlion Cup,1982
-1982-10-17,Indonesia,0,0,Malaysia,False,False,,Merlion Cup,1982
-1983-12-04,Australia,1,2,China PR,False,False,,Merlion Cup,1983
+1982-10-10,Brunei,0,4,Malaysia,True,False,,Merlion Cup,1982
+1982-10-11,Australia,2,0,Indonesia,True,False,,Merlion Cup,1982
+1982-10-14,Australia,5,0,Malaysia,True,False,,Merlion Cup,1982
+1982-10-17,Indonesia,0,0,Malaysia,True,False,,Merlion Cup,1982
+1983-12-04,Australia,1,2,China PR,True,False,,Merlion Cup,1983
 1983-12-11,Singapore,4,0,Brunei,False,False,,Merlion Cup,1983
 1983-12-14,Singapore,1,0,China PR,False,False,,Merlion Cup,1983
 1983-12-17,Singapore,2,4,Australia,False,False,,Merlion Cup,1983
-1985-10-13,Brunei,0,4,Malaysia,False,False,,Merlion Cup,1985
+1985-10-13,Brunei,0,4,Malaysia,True,False,,Merlion Cup,1985
 1985-10-16,Singapore,2,1,Brunei,False,False,,Merlion Cup,1985
 1985-10-20,Singapore,2,0,Malaysia,False,False,,Merlion Cup,1985
 1985-10-23,Singapore,4,0,Malaysia,False,False,,Merlion Cup,1985
-1986-08-24,China PR,0,0,North Korea,False,False,,Merlion Cup,1986
+1986-08-24,China PR,0,0,North Korea,True,False,,Merlion Cup,1986
 1986-08-24,Singapore,0,1,Canada,False,False,,Merlion Cup,1986
-1986-08-27,Canada,0,0,North Korea,False,False,,Merlion Cup,1986
+1986-08-27,Canada,0,0,North Korea,True,False,,Merlion Cup,1986
 1986-08-30,Singapore,0,2,North Korea,False,False,,Merlion Cup,1986
-1986-08-31,China PR,1,0,Canada,False,False,,Merlion Cup,1986
+1986-08-31,China PR,1,0,Canada,True,False,,Merlion Cup,1986
 1986-09-01,Singapore,0,3,China PR,False,False,,Merlion Cup,1986
 1986-09-03,Singapore,1,2,China PR,False,False,,Merlion Cup,1986
-1986-09-04,Canada,0,2,North Korea,False,False,,Merlion Cup,1986
-1986-09-06,China PR,2,1,North Korea,False,False,,Merlion Cup,1986
+1986-09-04,Canada,0,2,North Korea,True,False,,Merlion Cup,1986
+1986-09-06,China PR,2,1,North Korea,True,False,,Merlion Cup,1986
 1986-09-06,Singapore,0,1,Canada,False,False,,Merlion Cup,1986
 1992-12-08,Singapore,3,0,Malaysia,False,False,,Merlion Cup,1992

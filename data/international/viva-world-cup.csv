@@ -1,61 +1,61 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2006-11-20,Monaco,3,0,Ambazonia,False,False,,Viva World Cup,2006
+2006-11-20,Monaco,3,0,Ambazonia,True,False,,Viva World Cup,2006
 2006-11-20,Occitania,0,7,Sápmi,False,False,,Viva World Cup,2006
 2006-11-21,Sápmi,3,0,Ambazonia,False,False,,Viva World Cup,2006
 2006-11-21,Occitania,2,3,Monaco,False,False,,Viva World Cup,2006
-2006-11-23,Occitania,3,0,Ambazonia,False,False,,Viva World Cup,2006
-2006-11-23,Sápmi,14,0,Monaco,False,False,,Viva World Cup,2006
-2006-11-24,Occitania,3,0,Ambazonia,False,False,,Viva World Cup,2006
-2006-11-24,Sápmi,21,1,Monaco,False,False,,Viva World Cup,2006
+2006-11-23,Occitania,3,0,Ambazonia,True,False,,Viva World Cup,2006
+2006-11-23,Sápmi,14,0,Monaco,True,False,,Viva World Cup,2006
+2006-11-24,Occitania,3,0,Ambazonia,True,False,,Viva World Cup,2006
+2006-11-24,Sápmi,21,1,Monaco,True,False,,Viva World Cup,2006
 2008-07-07,Sápmi,2,2,Iraqi Kurdistan,False,False,,Viva World Cup,2008
-2008-07-08,Provence,1,6,Padania,False,False,,Viva World Cup,2008
-2008-07-09,Provence,0,3,Iraqi Kurdistan,False,False,,Viva World Cup,2008
+2008-07-08,Provence,1,6,Padania,True,False,,Viva World Cup,2008
+2008-07-09,Provence,0,3,Iraqi Kurdistan,True,False,,Viva World Cup,2008
 2008-07-09,Sápmi,0,1,Arameans Suryoye,False,False,,Viva World Cup,2008
-2008-07-10,Arameans Suryoye,5,0,Provence,False,False,,Viva World Cup,2008
-2008-07-10,Padania,2,1,Iraqi Kurdistan,False,False,,Viva World Cup,2008
+2008-07-10,Arameans Suryoye,5,0,Provence,True,False,,Viva World Cup,2008
+2008-07-10,Padania,2,1,Iraqi Kurdistan,True,False,,Viva World Cup,2008
 2008-07-11,Sápmi,0,2,Padania,False,False,,Viva World Cup,2008
-2008-07-11,Iraqi Kurdistan,0,0,Arameans Suryoye,False,False,,Viva World Cup,2008
-2008-07-12,Padania,4,1,Arameans Suryoye,False,False,,Viva World Cup,2008
+2008-07-11,Iraqi Kurdistan,0,0,Arameans Suryoye,True,False,,Viva World Cup,2008
+2008-07-12,Padania,4,1,Arameans Suryoye,True,False,,Viva World Cup,2008
 2008-07-12,Sápmi,4,2,Provence,False,False,,Viva World Cup,2008
 2008-07-13,Sápmi,3,1,Iraqi Kurdistan,False,False,,Viva World Cup,2008
-2008-07-13,Padania,2,0,Arameans Suryoye,False,False,,Viva World Cup,2008
+2008-07-13,Padania,2,0,Arameans Suryoye,True,False,,Viva World Cup,2008
 2009-06-22,Padania,1,0,Occitania,False,False,,Viva World Cup,2009
-2009-06-22,Provence,3,1,Gozo,False,False,,Viva World Cup,2009
-2009-06-23,Occitania,0,4,Iraqi Kurdistan,False,False,,Viva World Cup,2009
-2009-06-23,Sápmi,1,2,Provence,False,False,,Viva World Cup,2009
+2009-06-22,Provence,3,1,Gozo,True,False,,Viva World Cup,2009
+2009-06-23,Occitania,0,4,Iraqi Kurdistan,True,False,,Viva World Cup,2009
+2009-06-23,Sápmi,1,2,Provence,True,False,,Viva World Cup,2009
 2009-06-24,Padania,2,1,Iraqi Kurdistan,False,False,,Viva World Cup,2009
-2009-06-24,Sápmi,7,2,Gozo,False,False,,Viva World Cup,2009
-2009-06-25,Provence,0,6,Iraqi Kurdistan,False,False,,Viva World Cup,2009
+2009-06-24,Sápmi,7,2,Gozo,True,False,,Viva World Cup,2009
+2009-06-25,Provence,0,6,Iraqi Kurdistan,True,False,,Viva World Cup,2009
 2009-06-25,Padania,4,0,Sápmi,False,False,,Viva World Cup,2009
-2009-06-26,Occitania,2,1,Gozo,False,False,,Viva World Cup,2009
-2009-06-26,Provence,4,4,Sápmi,False,False,,Viva World Cup,2009
+2009-06-26,Occitania,2,1,Gozo,True,False,,Viva World Cup,2009
+2009-06-26,Provence,4,4,Sápmi,True,False,,Viva World Cup,2009
 2009-06-27,Padania,2,0,Iraqi Kurdistan,False,False,,Viva World Cup,2009
 2010-05-31,Gozo,1,2,Padania,False,False,,Viva World Cup,2010
-2010-05-31,Iraqi Kurdistan,4,1,Two Sicilies,False,False,,Viva World Cup,2010
-2010-06-01,Occitania,0,1,Padania,False,False,,Viva World Cup,2010
-2010-06-01,Provence,0,1,Two Sicilies,False,False,,Viva World Cup,2010
+2010-05-31,Iraqi Kurdistan,4,1,Two Sicilies,True,False,,Viva World Cup,2010
+2010-06-01,Occitania,0,1,Padania,True,False,,Viva World Cup,2010
+2010-06-01,Provence,0,1,Two Sicilies,True,False,,Viva World Cup,2010
 2010-06-02,Gozo,0,5,Occitania,False,False,,Viva World Cup,2010
-2010-06-02,Iraqi Kurdistan,3,2,Provence,False,False,,Viva World Cup,2010
-2010-06-04,Iraqi Kurdistan,2,1,Occitania,False,False,,Viva World Cup,2010
-2010-06-04,Padania,2,0,Two Sicilies,False,False,,Viva World Cup,2010
+2010-06-02,Iraqi Kurdistan,3,2,Provence,True,False,,Viva World Cup,2010
+2010-06-04,Iraqi Kurdistan,2,1,Occitania,True,False,,Viva World Cup,2010
+2010-06-04,Padania,2,0,Two Sicilies,True,False,,Viva World Cup,2010
 2010-06-04,Gozo,2,1,Provence,False,False,,Viva World Cup,2010
-2010-06-05,Occitania,2,0,Two Sicilies,False,False,,Viva World Cup,2010
-2010-06-05,Iraqi Kurdistan,0,1,Padania,False,False,,Viva World Cup,2010
+2010-06-05,Occitania,2,0,Two Sicilies,True,False,,Viva World Cup,2010
+2010-06-05,Iraqi Kurdistan,0,1,Padania,True,False,,Viva World Cup,2010
 2012-06-04,Iraqi Kurdistan,6,0,Western Sahara,False,False,,Viva World Cup,2012
-2012-06-04,Zanzibar,6,0,Raetia,False,False,,Viva World Cup,2012
-2012-06-04,Northern Cyprus,15,0,Darfur,False,False,,Viva World Cup,2012
-2012-06-05,Western Sahara,2,6,Occitania,False,False,,Viva World Cup,2012
-2012-06-05,Raetia,1,0,Tamil Eelam,False,False,,Viva World Cup,2012
-2012-06-05,Darfur,0,18,Provence,False,False,,Viva World Cup,2012
+2012-06-04,Zanzibar,6,0,Raetia,True,False,,Viva World Cup,2012
+2012-06-04,Northern Cyprus,15,0,Darfur,True,False,,Viva World Cup,2012
+2012-06-05,Western Sahara,2,6,Occitania,True,False,,Viva World Cup,2012
+2012-06-05,Raetia,1,0,Tamil Eelam,True,False,,Viva World Cup,2012
+2012-06-05,Darfur,0,18,Provence,True,False,,Viva World Cup,2012
 2012-06-06,Iraqi Kurdistan,1,0,Occitania,False,False,,Viva World Cup,2012
-2012-06-06,Tamil Eelam,0,3,Zanzibar,False,False,,Viva World Cup,2012
-2012-06-06,Provence,2,1,Northern Cyprus,False,False,,Viva World Cup,2012
-2012-06-07,Western Sahara,5,1,Darfur,False,False,,Viva World Cup,2012
-2012-06-07,Occitania,7,0,Tamil Eelam,False,False,,Viva World Cup,2012
-2012-06-08,Western Sahara,3,0,Raetia,False,False,,Viva World Cup,2012
+2012-06-06,Tamil Eelam,0,3,Zanzibar,True,False,,Viva World Cup,2012
+2012-06-06,Provence,2,1,Northern Cyprus,True,False,,Viva World Cup,2012
+2012-06-07,Western Sahara,5,1,Darfur,True,False,,Viva World Cup,2012
+2012-06-07,Occitania,7,0,Tamil Eelam,True,False,,Viva World Cup,2012
+2012-06-08,Western Sahara,3,0,Raetia,True,False,,Viva World Cup,2012
 2012-06-08,Iraqi Kurdistan,2,1,Provence,False,False,,Viva World Cup,2012
-2012-06-08,Zanzibar,0,2,Northern Cyprus,False,False,,Viva World Cup,2012
-2012-06-09,Tamil Eelam,4,0,Raetia,False,False,,Viva World Cup,2012
-2012-06-09,Occitania,3,1,Western Sahara,False,False,,Viva World Cup,2012
-2012-06-09,Provence,2,7,Zanzibar,False,False,,Viva World Cup,2012
+2012-06-08,Zanzibar,0,2,Northern Cyprus,True,False,,Viva World Cup,2012
+2012-06-09,Tamil Eelam,4,0,Raetia,True,False,,Viva World Cup,2012
+2012-06-09,Occitania,3,1,Western Sahara,True,False,,Viva World Cup,2012
+2012-06-09,Provence,2,7,Zanzibar,True,False,,Viva World Cup,2012
 2012-06-09,Iraqi Kurdistan,2,1,Northern Cyprus,False,False,,Viva World Cup,2012

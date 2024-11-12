@@ -138,8 +138,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-11-20,Kosovo,4,0,Azerbaijan,False,False,,UEFA Nations League,2018
 2018-11-20,Malta,1,1,Faroe Islands,False,False,,UEFA Nations League,2018
 2019-06-05,Portugal,3,1,Switzerland,False,False,,UEFA Nations League,2019
-2019-06-06,England,1,3,Netherlands,False,False,,UEFA Nations League,2019
-2019-06-09,Switzerland,0,0,England,False,False,,UEFA Nations League,2019
+2019-06-06,England,1,3,Netherlands,True,False,,UEFA Nations League,2019
+2019-06-09,Switzerland,0,0,England,True,False,,UEFA Nations League,2019
 2019-06-09,Portugal,1,0,Netherlands,False,False,,UEFA Nations League,2019
 2020-09-03,Germany,1,1,Spain,False,False,,UEFA Nations League,2020
 2020-09-03,Ukraine,2,1,Switzerland,False,False,,UEFA Nations League,2020
@@ -147,7 +147,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-09-03,Turkey,0,1,Hungary,False,False,,UEFA Nations League,2020
 2020-09-03,Bulgaria,1,1,Republic of Ireland,False,False,,UEFA Nations League,2020
 2020-09-03,Finland,0,1,Wales,False,False,,UEFA Nations League,2020
-2020-09-03,Moldova,1,1,Kosovo,False,False,,UEFA Nations League,2020
+2020-09-03,Moldova,1,1,Kosovo,True,False,,UEFA Nations League,2020
 2020-09-03,Slovenia,0,0,Greece,False,False,,UEFA Nations League,2020
 2020-09-03,Latvia,0,0,Andorra,False,False,,UEFA Nations League,2020
 2020-09-03,Faroe Islands,3,2,Malta,False,False,,UEFA Nations League,2020
@@ -194,7 +194,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-09-08,Cyprus,0,1,Azerbaijan,False,False,,UEFA Nations League,2020
 2020-09-08,Armenia,2,0,Estonia,False,False,,UEFA Nations League,2020
 2020-09-08,Georgia,1,1,North Macedonia,False,False,,UEFA Nations League,2020
-2020-09-08,San Marino,0,2,Liechtenstein,False,False,,UEFA Nations League,2020
+2020-09-08,San Marino,0,2,Liechtenstein,True,False,,UEFA Nations League,2020
 2020-10-10,Spain,1,0,Switzerland,False,False,,UEFA Nations League,2020
 2020-10-10,Ukraine,1,2,Germany,False,False,,UEFA Nations League,2020
 2020-10-10,Luxembourg,2,0,Cyprus,False,False,,UEFA Nations League,2020
@@ -216,7 +216,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-10-11,Russia,1,1,Turkey,False,False,,UEFA Nations League,2020
 2020-10-11,Republic of Ireland,0,0,Wales,False,False,,UEFA Nations League,2020
 2020-10-11,Finland,2,0,Bulgaria,False,False,,UEFA Nations League,2020
-2020-10-11,Armenia,2,2,Georgia,False,False,,UEFA Nations League,2020
+2020-10-11,Armenia,2,2,Georgia,True,False,,UEFA Nations League,2020
 2020-10-11,Estonia,3,3,North Macedonia,False,False,,UEFA Nations League,2020
 2020-10-11,Kosovo,0,1,Slovenia,False,False,,UEFA Nations League,2020
 2020-10-11,Greece,2,0,Moldova,False,False,,UEFA Nations League,2020
@@ -224,7 +224,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-10-11,Lithuania,2,2,Belarus,False,False,,UEFA Nations League,2020
 2020-10-13,Germany,3,3,Switzerland,False,False,,UEFA Nations League,2020
 2020-10-13,Ukraine,1,0,Spain,False,False,,UEFA Nations League,2020
-2020-10-13,Azerbaijan,0,0,Cyprus,False,False,,UEFA Nations League,2020
+2020-10-13,Azerbaijan,0,0,Cyprus,True,False,,UEFA Nations League,2020
 2020-10-13,Montenegro,1,2,Luxembourg,False,False,,UEFA Nations League,2020
 2020-10-13,Latvia,0,1,Malta,False,False,,UEFA Nations League,2020
 2020-10-13,Faroe Islands,2,0,Andorra,False,False,,UEFA Nations League,2020
@@ -253,7 +253,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-11-14,Sweden,2,1,Croatia,False,False,,UEFA Nations League,2020
 2020-11-14,Germany,3,1,Ukraine,False,False,,UEFA Nations League,2020
 2020-11-14,Switzerland,1,1,Spain,False,False,,UEFA Nations League,2020
-2020-11-14,Azerbaijan,0,0,Montenegro,False,False,,UEFA Nations League,2020
+2020-11-14,Azerbaijan,0,0,Montenegro,True,False,,UEFA Nations League,2020
 2020-11-14,Cyprus,2,1,Luxembourg,False,False,,UEFA Nations League,2020
 2020-11-14,Malta,3,1,Andorra,False,False,,UEFA Nations League,2020
 2020-11-14,Latvia,1,1,Faroe Islands,False,False,,UEFA Nations League,2020
@@ -297,16 +297,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-11-18,Serbia,5,0,Russia,False,False,,UEFA Nations League,2020
 2020-11-18,Republic of Ireland,0,0,Bulgaria,False,False,,UEFA Nations League,2020
 2020-11-18,Wales,3,1,Finland,False,False,,UEFA Nations League,2020
-2020-11-18,Armenia,1,0,North Macedonia,False,False,,UEFA Nations League,2020
+2020-11-18,Armenia,1,0,North Macedonia,True,False,,UEFA Nations League,2020
 2020-11-18,Georgia,0,0,Estonia,False,False,,UEFA Nations League,2020
 2020-11-18,Kosovo,1,0,Moldova,False,False,,UEFA Nations League,2020
 2020-11-18,Greece,0,0,Slovenia,False,False,,UEFA Nations League,2020
 2020-11-18,Albania,3,2,Belarus,False,False,,UEFA Nations League,2020
 2020-11-18,Kazakhstan,1,2,Lithuania,False,False,,UEFA Nations League,2020
 2021-10-06,Italy,1,2,Spain,False,False,,UEFA Nations League,2021
-2021-10-07,Belgium,2,3,France,False,False,,UEFA Nations League,2021
+2021-10-07,Belgium,2,3,France,True,False,,UEFA Nations League,2021
 2021-10-10,Italy,2,1,Belgium,False,False,,UEFA Nations League,2021
-2021-10-10,Spain,1,2,France,False,False,,UEFA Nations League,2021
+2021-10-10,Spain,1,2,France,True,False,,UEFA Nations League,2021
 2022-03-24,Estonia,0,0,Cyprus,False,False,,UEFA Nations League,2022
 2022-03-24,Moldova,1,2,Kazakhstan,False,False,,UEFA Nations League,2022
 2022-03-29,Cyprus,2,0,Estonia,False,False,,UEFA Nations League,2022
@@ -326,7 +326,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-06-03,France,1,2,Denmark,False,False,,UEFA Nations League,2022
 2022-06-03,Belgium,1,4,Netherlands,False,False,,UEFA Nations League,2022
 2022-06-03,Kazakhstan,2,0,Azerbaijan,False,False,,UEFA Nations League,2022
-2022-06-03,Belarus,0,1,Slovakia,False,False,,UEFA Nations League,2022
+2022-06-03,Belarus,0,1,Slovakia,True,False,,UEFA Nations League,2022
 2022-06-03,Liechtenstein,0,2,Moldova,False,False,,UEFA Nations League,2022
 2022-06-03,Latvia,3,0,Andorra,False,False,,UEFA Nations League,2022
 2022-06-04,Hungary,1,0,England,False,False,,UEFA Nations League,2022
@@ -348,7 +348,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-06-06,Austria,1,2,Denmark,False,False,,UEFA Nations League,2022
 2022-06-06,Croatia,1,1,France,False,False,,UEFA Nations League,2022
 2022-06-06,Iceland,1,1,Albania,False,False,,UEFA Nations League,2022
-2022-06-06,Belarus,0,0,Azerbaijan,False,False,,UEFA Nations League,2022
+2022-06-06,Belarus,0,0,Azerbaijan,True,False,,UEFA Nations League,2022
 2022-06-06,Slovakia,0,1,Kazakhstan,False,False,,UEFA Nations League,2022
 2022-06-06,Latvia,1,0,Liechtenstein,False,False,,UEFA Nations League,2022
 2022-06-06,Andorra,0,0,Moldova,False,False,,UEFA Nations League,2022
@@ -375,14 +375,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-06-10,Denmark,0,1,Croatia,False,False,,UEFA Nations League,2022
 2022-06-10,Albania,1,2,Israel,False,False,,UEFA Nations League,2022
 2022-06-10,Azerbaijan,0,1,Slovakia,False,False,,UEFA Nations League,2022
-2022-06-10,Belarus,1,1,Kazakhstan,False,False,,UEFA Nations League,2022
+2022-06-10,Belarus,1,1,Kazakhstan,True,False,,UEFA Nations League,2022
 2022-06-10,Moldova,2,4,Latvia,False,False,,UEFA Nations League,2022
 2022-06-10,Andorra,2,1,Liechtenstein,False,False,,UEFA Nations League,2022
 2022-06-11,England,0,0,Italy,False,False,,UEFA Nations League,2022
 2022-06-11,Hungary,1,1,Germany,False,False,,UEFA Nations League,2022
 2022-06-11,Wales,1,1,Belgium,False,False,,UEFA Nations League,2022
 2022-06-11,Netherlands,2,2,Poland,False,False,,UEFA Nations League,2022
-2022-06-11,Ukraine,3,0,Armenia,False,False,,UEFA Nations League,2022
+2022-06-11,Ukraine,3,0,Armenia,True,False,,UEFA Nations League,2022
 2022-06-11,Republic of Ireland,3,0,Scotland,False,False,,UEFA Nations League,2022
 2022-06-11,Montenegro,1,1,Bosnia and Herzegovina,False,False,,UEFA Nations League,2022
 2022-06-11,Romania,1,0,Finland,False,False,,UEFA Nations League,2022
@@ -407,7 +407,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-06-14,Netherlands,3,2,Wales,False,False,,UEFA Nations League,2022
 2022-06-14,Poland,0,1,Belgium,False,False,,UEFA Nations League,2022
 2022-06-14,Armenia,1,4,Scotland,False,False,,UEFA Nations League,2022
-2022-06-14,Ukraine,1,1,Republic of Ireland,False,False,,UEFA Nations League,2022
+2022-06-14,Ukraine,1,1,Republic of Ireland,True,False,,UEFA Nations League,2022
 2022-06-14,Bosnia and Herzegovina,3,2,Finland,False,False,,UEFA Nations League,2022
 2022-06-14,Romania,0,3,Montenegro,False,False,,UEFA Nations League,2022
 2022-06-14,Luxembourg,2,2,Faroe Islands,False,False,,UEFA Nations League,2022
@@ -447,7 +447,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-09-25,Netherlands,1,0,Belgium,False,False,,UEFA Nations League,2022
 2022-09-25,Faroe Islands,2,1,Turkey,False,False,,UEFA Nations League,2022
 2022-09-25,Luxembourg,1,0,Lithuania,False,False,,UEFA Nations League,2022
-2022-09-25,Slovakia,1,1,Belarus,False,False,,UEFA Nations League,2022
+2022-09-25,Slovakia,1,1,Belarus,True,False,,UEFA Nations League,2022
 2022-09-25,Azerbaijan,3,0,Kazakhstan,False,False,,UEFA Nations League,2022
 2022-09-25,Andorra,1,1,Latvia,False,False,,UEFA Nations League,2022
 2022-09-25,Moldova,2,0,Liechtenstein,False,False,,UEFA Nations League,2022
@@ -461,17 +461,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-09-27,Portugal,0,1,Spain,False,False,,UEFA Nations League,2022
 2022-09-27,Switzerland,2,1,Czech Republic,False,False,,UEFA Nations League,2022
 2022-09-27,Republic of Ireland,3,2,Armenia,False,False,,UEFA Nations League,2022
-2022-09-27,Ukraine,0,0,Scotland,False,False,,UEFA Nations League,2022
+2022-09-27,Ukraine,0,0,Scotland,True,False,,UEFA Nations League,2022
 2022-09-27,Albania,1,1,Iceland,False,False,,UEFA Nations League,2022
 2022-09-27,Norway,0,2,Serbia,False,False,,UEFA Nations League,2022
 2022-09-27,Sweden,1,1,Slovenia,False,False,,UEFA Nations League,2022
 2022-09-27,Kosovo,5,1,Cyprus,False,False,,UEFA Nations League,2022
 2022-09-27,Greece,3,1,Northern Ireland,False,False,,UEFA Nations League,2022
 2023-06-14,Netherlands,2,4,Croatia,False,False,,UEFA Nations League,2023
-2023-06-15,Spain,2,1,Italy,False,False,,UEFA Nations League,2023
+2023-06-15,Spain,2,1,Italy,True,False,,UEFA Nations League,2023
 2023-06-18,Netherlands,2,3,Italy,False,False,,UEFA Nations League,2023
-2023-06-18,Croatia,0,0,Spain,False,False,,UEFA Nations League,2023
-2024-03-21,Gibraltar,0,1,Lithuania,False,False,,UEFA Nations League,2024
+2023-06-18,Croatia,0,0,Spain,True,False,,UEFA Nations League,2023
+2024-03-21,Gibraltar,0,1,Lithuania,True,False,,UEFA Nations League,2024
 2024-03-26,Lithuania,1,0,Gibraltar,False,False,,UEFA Nations League,2024
 2024-09-05,Portugal,2,1,Croatia,False,False,,UEFA Nations League,2024
 2024-09-05,Scotland,2,3,Poland,False,False,,UEFA Nations League,2024
@@ -480,9 +480,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-09-05,Azerbaijan,1,3,Sweden,False,False,,UEFA Nations League,2024
 2024-09-05,Estonia,0,1,Slovakia,False,False,,UEFA Nations League,2024
 2024-09-05,Northern Ireland,2,0,Luxembourg,False,False,,UEFA Nations League,2024
-2024-09-05,Belarus,0,0,Bulgaria,False,False,,UEFA Nations League,2024
+2024-09-05,Belarus,0,0,Bulgaria,True,False,,UEFA Nations League,2024
 2024-09-05,San Marino,1,0,Liechtenstein,False,False,,UEFA Nations League,2024
-2024-09-06,Belgium,3,1,Israel,False,False,,UEFA Nations League,2024
+2024-09-06,Belgium,3,1,Israel,True,False,,UEFA Nations League,2024
 2024-09-06,France,1,3,Italy,False,False,,UEFA Nations League,2024
 2024-09-06,Kazakhstan,0,0,Norway,False,False,,UEFA Nations League,2024
 2024-09-06,Slovenia,1,1,Austria,False,False,,UEFA Nations League,2024
@@ -493,7 +493,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-09-07,Germany,5,0,Hungary,False,False,,UEFA Nations League,2024
 2024-09-07,Netherlands,5,2,Bosnia and Herzegovina,False,False,,UEFA Nations League,2024
 2024-09-07,Georgia,4,1,Czech Republic,False,False,,UEFA Nations League,2024
-2024-09-07,Ukraine,1,2,Albania,False,False,,UEFA Nations League,2024
+2024-09-07,Ukraine,1,2,Albania,True,False,,UEFA Nations League,2024
 2024-09-07,Republic of Ireland,0,2,England,False,False,,UEFA Nations League,2024
 2024-09-07,Greece,3,0,Finland,False,False,,UEFA Nations League,2024
 2024-09-07,Faroe Islands,1,1,North Macedonia,False,False,,UEFA Nations League,2024
@@ -509,7 +509,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-09-08,Bulgaria,1,0,Northern Ireland,False,False,,UEFA Nations League,2024
 2024-09-08,Gibraltar,2,2,Liechtenstein,False,False,,UEFA Nations League,2024
 2024-09-09,France,2,0,Belgium,False,False,,UEFA Nations League,2024
-2024-09-09,Israel,1,2,Italy,False,False,,UEFA Nations League,2024
+2024-09-09,Israel,1,2,Italy,True,False,,UEFA Nations League,2024
 2024-09-09,Norway,2,1,Austria,False,False,,UEFA Nations League,2024
 2024-09-09,Slovenia,3,0,Kazakhstan,False,False,,UEFA Nations League,2024
 2024-09-09,Montenegro,1,2,Wales,False,False,,UEFA Nations League,2024
@@ -525,7 +525,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-09-10,Latvia,1,0,Faroe Islands,False,False,,UEFA Nations League,2024
 2024-09-10,North Macedonia,2,0,Armenia,False,False,,UEFA Nations League,2024
 2024-09-10,Andorra,0,1,Malta,False,False,,UEFA Nations League,2024
-2024-10-10,Israel,1,4,France,False,False,,UEFA Nations League,2024
+2024-10-10,Israel,1,4,France,True,False,,UEFA Nations League,2024
 2024-10-10,Italy,2,2,Belgium,False,False,,UEFA Nations League,2024
 2024-10-10,England,1,2,Greece,False,False,,UEFA Nations League,2024
 2024-10-10,Finland,1,2,Republic of Ireland,False,False,,UEFA Nations League,2024
@@ -538,7 +538,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-10-11,Bosnia and Herzegovina,1,2,Germany,False,False,,UEFA Nations League,2024
 2024-10-11,Hungary,1,1,Netherlands,False,False,,UEFA Nations League,2024
 2024-10-11,Czech Republic,2,0,Albania,False,False,,UEFA Nations League,2024
-2024-10-11,Ukraine,1,0,Georgia,False,False,,UEFA Nations League,2024
+2024-10-11,Ukraine,1,0,Georgia,True,False,,UEFA Nations League,2024
 2024-10-11,Iceland,2,2,Wales,False,False,,UEFA Nations League,2024
 2024-10-11,Turkey,1,0,Montenegro,False,False,,UEFA Nations League,2024
 2024-10-11,Estonia,3,1,Azerbaijan,False,False,,UEFA Nations League,2024
@@ -550,7 +550,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-10-12,Lithuania,1,2,Kosovo,False,False,,UEFA Nations League,2024
 2024-10-12,Cyprus,0,3,Romania,False,False,,UEFA Nations League,2024
 2024-10-12,Bulgaria,0,0,Luxembourg,False,False,,UEFA Nations League,2024
-2024-10-12,Belarus,0,0,Northern Ireland,False,False,,UEFA Nations League,2024
+2024-10-12,Belarus,0,0,Northern Ireland,True,False,,UEFA Nations League,2024
 2024-10-13,Finland,1,3,England,False,False,,UEFA Nations League,2024
 2024-10-13,Greece,2,0,Republic of Ireland,False,False,,UEFA Nations League,2024
 2024-10-13,Kazakhstan,0,1,Slovenia,False,False,,UEFA Nations League,2024
@@ -564,7 +564,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-10-14,Bosnia and Herzegovina,0,2,Hungary,False,False,,UEFA Nations League,2024
 2024-10-14,Germany,1,0,Netherlands,False,False,,UEFA Nations League,2024
 2024-10-14,Georgia,0,1,Albania,False,False,,UEFA Nations League,2024
-2024-10-14,Ukraine,1,1,Czech Republic,False,False,,UEFA Nations League,2024
+2024-10-14,Ukraine,1,1,Czech Republic,True,False,,UEFA Nations League,2024
 2024-10-14,Iceland,2,4,Turkey,False,False,,UEFA Nations League,2024
 2024-10-14,Wales,1,0,Montenegro,False,False,,UEFA Nations League,2024
 2024-10-14,Azerbaijan,1,3,Slovakia,False,False,,UEFA Nations League,2024
@@ -576,4 +576,4 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2024-10-15,Kosovo,3,0,Cyprus,False,False,,UEFA Nations League,2024
 2024-10-15,Lithuania,1,2,Romania,False,False,,UEFA Nations League,2024
 2024-10-15,Northern Ireland,5,0,Bulgaria,False,False,,UEFA Nations League,2024
-2024-10-15,Belarus,1,1,Luxembourg,False,False,,UEFA Nations League,2024
+2024-10-15,Belarus,1,1,Luxembourg,True,False,,UEFA Nations League,2024

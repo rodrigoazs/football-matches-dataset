@@ -1,8 +1,8 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2021-11-09,Sri Lanka,4,4,Maldives,False,False,,Mahinda Rajapaksa Cup,2021
-2021-11-10,Bangladesh,1,1,Seychelles,False,False,,Mahinda Rajapaksa Cup,2021
-2021-11-13,Bangladesh,2,1,Maldives,False,False,,Mahinda Rajapaksa Cup,2021
+2021-11-10,Bangladesh,1,1,Seychelles,True,False,,Mahinda Rajapaksa Cup,2021
+2021-11-13,Bangladesh,2,1,Maldives,True,False,,Mahinda Rajapaksa Cup,2021
 2021-11-13,Sri Lanka,0,1,Seychelles,False,False,,Mahinda Rajapaksa Cup,2021
-2021-11-16,Maldives,0,0,Seychelles,False,False,,Mahinda Rajapaksa Cup,2021
+2021-11-16,Maldives,0,0,Seychelles,True,False,,Mahinda Rajapaksa Cup,2021
 2021-11-16,Sri Lanka,2,1,Bangladesh,False,False,,Mahinda Rajapaksa Cup,2021
 2021-11-19,Sri Lanka,3,3,Seychelles,False,False,,Mahinda Rajapaksa Cup,2021

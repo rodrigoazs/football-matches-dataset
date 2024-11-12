@@ -1,62 +1,62 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1994-07-03,Papua New Guinea,1,0,New Caledonia,False,False,,Oceania Nations Cup qualification,1994
-1994-07-04,Fiji,3,1,New Caledonia,False,False,,Oceania Nations Cup qualification,1994
+1994-07-03,Papua New Guinea,1,0,New Caledonia,True,False,,Oceania Nations Cup qualification,1994
+1994-07-04,Fiji,3,1,New Caledonia,True,False,,Oceania Nations Cup qualification,1994
 1994-07-05,Solomon Islands,2,0,Papua New Guinea,False,False,,Oceania Nations Cup qualification,1994
-1994-07-05,Vanuatu,2,3,New Caledonia,False,False,,Oceania Nations Cup qualification,1994
-1994-07-06,Papua New Guinea,0,1,Fiji,False,False,,Oceania Nations Cup qualification,1994
+1994-07-05,Vanuatu,2,3,New Caledonia,True,False,,Oceania Nations Cup qualification,1994
+1994-07-06,Papua New Guinea,0,1,Fiji,True,False,,Oceania Nations Cup qualification,1994
 1994-07-06,Solomon Islands,4,0,Vanuatu,False,False,,Oceania Nations Cup qualification,1994
 1994-07-07,Solomon Islands,1,0,Fiji,False,False,,Oceania Nations Cup qualification,1994
-1994-07-07,Vanuatu,1,1,Papua New Guinea,False,False,,Oceania Nations Cup qualification,1994
+1994-07-07,Vanuatu,1,1,Papua New Guinea,True,False,,Oceania Nations Cup qualification,1994
 1994-07-08,Solomon Islands,3,1,New Caledonia,False,False,,Oceania Nations Cup qualification,1994
-1994-07-08,Vanuatu,2,4,Fiji,False,False,,Oceania Nations Cup qualification,1994
+1994-07-08,Vanuatu,2,4,Fiji,True,False,,Oceania Nations Cup qualification,1994
 1994-11-24,Samoa,3,1,American Samoa,False,False,,Oceania Nations Cup qualification,1994
-1994-11-24,Tahiti,1,0,Tonga,False,False,,Oceania Nations Cup qualification,1994
+1994-11-24,Tahiti,1,0,Tonga,True,False,,Oceania Nations Cup qualification,1994
 1994-11-25,Samoa,2,2,Tonga,False,False,,Oceania Nations Cup qualification,1994
-1994-11-25,Tahiti,2,1,American Samoa,False,False,,Oceania Nations Cup qualification,1994
+1994-11-25,Tahiti,2,1,American Samoa,True,False,,Oceania Nations Cup qualification,1994
 1994-11-28,Samoa,0,7,Tahiti,False,False,,Oceania Nations Cup qualification,1994
-1994-11-28,Tonga,2,1,American Samoa,False,False,,Oceania Nations Cup qualification,1994
+1994-11-28,Tonga,2,1,American Samoa,True,False,,Oceania Nations Cup qualification,1994
 1998-09-02,Cook Islands,2,1,Samoa,False,False,,Oceania Nations Cup qualification,1998
-1998-09-02,Tonga,3,0,American Samoa,False,False,,Oceania Nations Cup qualification,1998
+1998-09-02,Tonga,3,0,American Samoa,True,False,,Oceania Nations Cup qualification,1998
 1998-09-03,Cook Islands,4,3,American Samoa,False,False,,Oceania Nations Cup qualification,1998
-1998-09-03,Tahiti,5,0,Tonga,False,False,,Oceania Nations Cup qualification,1998
+1998-09-03,Tahiti,5,0,Tonga,True,False,,Oceania Nations Cup qualification,1998
 1998-09-05,Cook Islands,2,2,Tonga,False,False,,Oceania Nations Cup qualification,1998
-1998-09-05,Fiji,3,0,New Caledonia,False,False,,Oceania Nations Cup qualification,1998
-1998-09-05,Solomon Islands,3,1,Papua New Guinea,False,False,,Oceania Nations Cup qualification,1998
-1998-09-05,Tahiti,5,1,Samoa,False,False,,Oceania Nations Cup qualification,1998
-1998-09-07,Papua New Guinea,1,0,New Caledonia,False,False,,Oceania Nations Cup qualification,1998
-1998-09-07,Samoa,2,0,Tonga,False,False,,Oceania Nations Cup qualification,1998
-1998-09-07,Tahiti,12,0,American Samoa,False,False,,Oceania Nations Cup qualification,1998
+1998-09-05,Fiji,3,0,New Caledonia,True,False,,Oceania Nations Cup qualification,1998
+1998-09-05,Solomon Islands,3,1,Papua New Guinea,True,False,,Oceania Nations Cup qualification,1998
+1998-09-05,Tahiti,5,1,Samoa,True,False,,Oceania Nations Cup qualification,1998
+1998-09-07,Papua New Guinea,1,0,New Caledonia,True,False,,Oceania Nations Cup qualification,1998
+1998-09-07,Samoa,2,0,Tonga,True,False,,Oceania Nations Cup qualification,1998
+1998-09-07,Tahiti,12,0,American Samoa,True,False,,Oceania Nations Cup qualification,1998
 1998-09-07,Vanuatu,1,2,Fiji,False,False,,Oceania Nations Cup qualification,1998
 1998-09-08,Cook Islands,0,5,Tahiti,False,False,,Oceania Nations Cup qualification,1998
-1998-09-08,Samoa,4,0,American Samoa,False,False,,Oceania Nations Cup qualification,1998
-1998-09-08,Solomon Islands,3,2,New Caledonia,False,False,,Oceania Nations Cup qualification,1998
+1998-09-08,Samoa,4,0,American Samoa,True,False,,Oceania Nations Cup qualification,1998
+1998-09-08,Solomon Islands,3,2,New Caledonia,True,False,,Oceania Nations Cup qualification,1998
 1998-09-08,Vanuatu,1,1,Papua New Guinea,False,False,,Oceania Nations Cup qualification,1998
-1998-09-10,Fiji,2,0,Papua New Guinea,False,False,,Oceania Nations Cup qualification,1998
+1998-09-10,Fiji,2,0,Papua New Guinea,True,False,,Oceania Nations Cup qualification,1998
 1998-09-10,Vanuatu,3,1,Solomon Islands,False,False,,Oceania Nations Cup qualification,1998
-1998-09-12,Fiji,1,1,Solomon Islands,False,False,,Oceania Nations Cup qualification,1998
+1998-09-12,Fiji,1,1,Solomon Islands,True,False,,Oceania Nations Cup qualification,1998
 1998-09-12,Vanuatu,3,2,New Caledonia,False,False,,Oceania Nations Cup qualification,1998
 2000-04-08,Fiji,5,0,Papua New Guinea,False,False,,Oceania Nations Cup qualification,2000
-2000-04-08,New Caledonia,4,2,Solomon Islands,False,False,,Oceania Nations Cup qualification,2000
+2000-04-08,New Caledonia,4,2,Solomon Islands,True,False,,Oceania Nations Cup qualification,2000
 2000-04-10,Fiji,2,1,New Caledonia,False,False,,Oceania Nations Cup qualification,2000
-2000-04-10,Solomon Islands,2,1,Vanuatu,False,False,,Oceania Nations Cup qualification,2000
+2000-04-10,Solomon Islands,2,1,Vanuatu,True,False,,Oceania Nations Cup qualification,2000
 2000-04-11,Fiji,4,1,Vanuatu,False,False,,Oceania Nations Cup qualification,2000
-2000-04-11,New Caledonia,6,1,Papua New Guinea,False,False,,Oceania Nations Cup qualification,2000
-2000-04-13,Solomon Islands,4,2,Papua New Guinea,False,False,,Oceania Nations Cup qualification,2000
-2000-04-13,Vanuatu,6,0,New Caledonia,False,False,,Oceania Nations Cup qualification,2000
+2000-04-11,New Caledonia,6,1,Papua New Guinea,True,False,,Oceania Nations Cup qualification,2000
+2000-04-13,Solomon Islands,4,2,Papua New Guinea,True,False,,Oceania Nations Cup qualification,2000
+2000-04-13,Vanuatu,6,0,New Caledonia,True,False,,Oceania Nations Cup qualification,2000
 2000-04-15,Fiji,2,2,Solomon Islands,False,False,,Oceania Nations Cup qualification,2000
-2000-04-15,Papua New Guinea,1,4,Vanuatu,False,False,,Oceania Nations Cup qualification,2000
-2000-06-08,Tonga,1,2,Cook Islands,False,False,,Oceania Nations Cup qualification,2000
-2000-06-14,American Samoa,1,2,Tonga,False,False,,Oceania Nations Cup qualification,2000
-2002-03-09,American Samoa,0,10,New Caledonia,False,False,,Oceania Nations Cup qualification,2002
+2000-04-15,Papua New Guinea,1,4,Vanuatu,True,False,,Oceania Nations Cup qualification,2000
+2000-06-08,Tonga,1,2,Cook Islands,True,False,,Oceania Nations Cup qualification,2000
+2000-06-14,American Samoa,1,2,Tonga,True,False,,Oceania Nations Cup qualification,2000
+2002-03-09,American Samoa,0,10,New Caledonia,True,False,,Oceania Nations Cup qualification,2002
 2002-03-09,Samoa,2,0,Tonga,False,False,,Oceania Nations Cup qualification,2002
-2002-03-12,American Samoa,2,7,Tonga,False,False,,Oceania Nations Cup qualification,2002
-2002-03-12,New Caledonia,1,4,Papua New Guinea,False,False,,Oceania Nations Cup qualification,2002
-2002-03-14,Papua New Guinea,5,0,Tonga,False,False,,Oceania Nations Cup qualification,2002
+2002-03-12,American Samoa,2,7,Tonga,True,False,,Oceania Nations Cup qualification,2002
+2002-03-12,New Caledonia,1,4,Papua New Guinea,True,False,,Oceania Nations Cup qualification,2002
+2002-03-14,Papua New Guinea,5,0,Tonga,True,False,,Oceania Nations Cup qualification,2002
 2002-03-14,Samoa,5,0,American Samoa,False,False,,Oceania Nations Cup qualification,2002
-2002-03-16,New Caledonia,9,0,Tonga,False,False,,Oceania Nations Cup qualification,2002
+2002-03-16,New Caledonia,9,0,Tonga,True,False,,Oceania Nations Cup qualification,2002
 2002-03-16,Samoa,1,4,Papua New Guinea,False,False,,Oceania Nations Cup qualification,2002
-2002-03-18,American Samoa,0,7,Papua New Guinea,False,False,,Oceania Nations Cup qualification,2002
+2002-03-18,American Samoa,0,7,Papua New Guinea,True,False,,Oceania Nations Cup qualification,2002
 2002-03-18,Samoa,0,5,New Caledonia,False,False,,Oceania Nations Cup qualification,2002
 2024-03-20,Tonga,1,4,Samoa,False,False,,Oceania Nations Cup qualification,2024
-2024-03-23,Samoa,1,0,Cook Islands,False,False,,Oceania Nations Cup qualification,2024
+2024-03-23,Samoa,1,0,Cook Islands,True,False,,Oceania Nations Cup qualification,2024
 2024-03-26,Tonga,0,1,Cook Islands,False,False,,Oceania Nations Cup qualification,2024

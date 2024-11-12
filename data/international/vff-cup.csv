@@ -1,10 +1,10 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2008-10-28,Thailand,1,0,North Korea,False,False,,VFF Cup,2008
+2008-10-28,Thailand,1,0,North Korea,True,False,,VFF Cup,2008
 2008-10-30,Vietnam,0,0,North Korea,False,False,,VFF Cup,2008
 2008-11-16,Vietnam,2,2,Thailand,False,False,,VFF Cup,2008
-2010-11-02,Singapore,1,2,North Korea,False,False,,VFF Cup,2010
+2010-11-02,Singapore,1,2,North Korea,True,False,,VFF Cup,2010
 2010-11-04,Vietnam,1,1,Singapore,False,False,,VFF Cup,2010
 2010-11-06,Vietnam,0,2,North Korea,False,False,,VFF Cup,2010
 2012-10-24,Vietnam,0,1,Turkmenistan,False,False,,VFF Cup,2012
 2012-10-26,Vietnam,4,0,Laos,False,False,,VFF Cup,2012
-2012-10-28,Laos,2,4,Turkmenistan,False,False,,VFF Cup,2012
+2012-10-28,Laos,2,4,Turkmenistan,True,False,,VFF Cup,2012

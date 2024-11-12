@@ -19,6 +19,6 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-05-27,Bolivia,2,1,Paraguay,False,False,,Copa Paz del Chaco,1993
 1995-05-14,Bolivia,1,1,Paraguay,False,False,,Copa Paz del Chaco,1995
 1995-06-09,Paraguay,0,0,Bolivia,False,False,,Copa Paz del Chaco,1995
-1999-11-03,Bolivia,0,0,Paraguay,False,False,,Copa Paz del Chaco,1999
+1999-11-03,Bolivia,0,0,Paraguay,True,False,,Copa Paz del Chaco,1999
 2011-06-04,Bolivia,0,2,Paraguay,False,False,,Copa Paz del Chaco,2011
 2011-06-07,Paraguay,0,0,Bolivia,False,False,,Copa Paz del Chaco,2011

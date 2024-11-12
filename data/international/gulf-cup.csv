@@ -1,396 +1,396 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1970-03-27,Bahrain,2,1,Qatar,False,False,,Gulf Cup,1970
-1970-03-28,Saudi Arabia,1,3,Kuwait,False,False,,Gulf Cup,1970
+1970-03-28,Saudi Arabia,1,3,Kuwait,True,False,,Gulf Cup,1970
 1970-03-30,Bahrain,0,0,Saudi Arabia,False,False,,Gulf Cup,1970
-1970-03-31,Kuwait,4,2,Qatar,False,False,,Gulf Cup,1970
-1970-04-02,Saudi Arabia,1,1,Qatar,False,False,,Gulf Cup,1970
+1970-03-31,Kuwait,4,2,Qatar,True,False,,Gulf Cup,1970
+1970-04-02,Saudi Arabia,1,1,Qatar,True,False,,Gulf Cup,1970
 1970-04-03,Bahrain,1,3,Kuwait,False,False,,Gulf Cup,1970
 1972-03-16,Saudi Arabia,2,2,Kuwait,False,False,,Gulf Cup,1972
-1972-03-17,Qatar,0,1,United Arab Emirates,False,False,,Gulf Cup,1972
-1972-03-18,Bahrain,0,2,Kuwait,False,False,,Gulf Cup,1972
+1972-03-17,Qatar,0,1,United Arab Emirates,True,False,,Gulf Cup,1972
+1972-03-18,Bahrain,0,2,Kuwait,True,False,,Gulf Cup,1972
 1972-03-19,Saudi Arabia,4,0,United Arab Emirates,False,False,,Gulf Cup,1972
-1972-03-21,Bahrain,6,2,Qatar,False,False,,Gulf Cup,1972
-1972-03-22,Kuwait,7,0,United Arab Emirates,False,False,,Gulf Cup,1972
+1972-03-21,Bahrain,6,2,Qatar,True,False,,Gulf Cup,1972
+1972-03-22,Kuwait,7,0,United Arab Emirates,True,False,,Gulf Cup,1972
 1972-03-24,Saudi Arabia,4,0,Qatar,False,False,,Gulf Cup,1972
-1972-03-25,Bahrain,2,0,United Arab Emirates,False,False,,Gulf Cup,1972
-1972-03-26,Kuwait,5,0,Qatar,False,False,,Gulf Cup,1972
+1972-03-25,Bahrain,2,0,United Arab Emirates,True,False,,Gulf Cup,1972
+1972-03-26,Kuwait,5,0,Qatar,True,False,,Gulf Cup,1972
 1972-03-28,Saudi Arabia,2,1,Bahrain,False,False,,Gulf Cup,1972
 1974-03-15,Kuwait,2,0,United Arab Emirates,False,False,,Gulf Cup,1974
-1974-03-16,Bahrain,4,0,Oman,False,False,,Gulf Cup,1974
-1974-03-16,Qatar,0,2,Saudi Arabia,False,False,,Gulf Cup,1974
-1974-03-18,Bahrain,0,4,United Arab Emirates,False,False,,Gulf Cup,1974
+1974-03-16,Bahrain,4,0,Oman,True,False,,Gulf Cup,1974
+1974-03-16,Qatar,0,2,Saudi Arabia,True,False,,Gulf Cup,1974
+1974-03-18,Bahrain,0,4,United Arab Emirates,True,False,,Gulf Cup,1974
 1974-03-19,Kuwait,5,0,Oman,False,False,,Gulf Cup,1974
-1974-03-21,Bahrain,1,4,Saudi Arabia,False,False,,Gulf Cup,1974
-1974-03-22,Oman,0,4,Qatar,False,False,,Gulf Cup,1974
-1974-03-23,Saudi Arabia,2,0,United Arab Emirates,False,False,,Gulf Cup,1974
+1974-03-21,Bahrain,1,4,Saudi Arabia,True,False,,Gulf Cup,1974
+1974-03-22,Oman,0,4,Qatar,True,False,,Gulf Cup,1974
+1974-03-23,Saudi Arabia,2,0,United Arab Emirates,True,False,,Gulf Cup,1974
 1974-03-24,Kuwait,1,0,Qatar,False,False,,Gulf Cup,1974
 1974-03-26,Kuwait,6,0,United Arab Emirates,False,False,,Gulf Cup,1974
-1974-03-26,Qatar,1,3,Saudi Arabia,False,False,,Gulf Cup,1974
-1974-03-28,Qatar,1,1,United Arab Emirates,False,False,,Gulf Cup,1974
+1974-03-26,Qatar,1,3,Saudi Arabia,True,False,,Gulf Cup,1974
+1974-03-28,Qatar,1,1,United Arab Emirates,True,False,,Gulf Cup,1974
 1974-03-29,Kuwait,4,0,Saudi Arabia,False,False,,Gulf Cup,1974
 1976-03-26,Qatar,1,0,Saudi Arabia,False,False,,Gulf Cup,1976
-1976-03-27,Bahrain,3,2,United Arab Emirates,False,False,,Gulf Cup,1976
-1976-03-27,Iraq,4,0,Oman,False,False,,Gulf Cup,1976
+1976-03-27,Bahrain,3,2,United Arab Emirates,True,False,,Gulf Cup,1976
+1976-03-27,Iraq,4,0,Oman,True,False,,Gulf Cup,1976
 1976-03-28,Qatar,0,4,Kuwait,False,False,,Gulf Cup,1976
-1976-03-29,Bahrain,1,4,Iraq,False,False,,Gulf Cup,1976
-1976-03-29,Saudi Arabia,2,0,United Arab Emirates,False,False,,Gulf Cup,1976
-1976-03-31,Kuwait,8,0,Oman,False,False,,Gulf Cup,1976
-1976-04-01,Iraq,7,1,Saudi Arabia,False,False,,Gulf Cup,1976
+1976-03-29,Bahrain,1,4,Iraq,True,False,,Gulf Cup,1976
+1976-03-29,Saudi Arabia,2,0,United Arab Emirates,True,False,,Gulf Cup,1976
+1976-03-31,Kuwait,8,0,Oman,True,False,,Gulf Cup,1976
+1976-04-01,Iraq,7,1,Saudi Arabia,True,False,,Gulf Cup,1976
 1976-04-01,Qatar,3,1,United Arab Emirates,False,False,,Gulf Cup,1976
-1976-04-02,Bahrain,1,0,Oman,False,False,,Gulf Cup,1976
-1976-04-03,Kuwait,0,0,United Arab Emirates,False,False,,Gulf Cup,1976
+1976-04-02,Bahrain,1,0,Oman,True,False,,Gulf Cup,1976
+1976-04-03,Kuwait,0,0,United Arab Emirates,True,False,,Gulf Cup,1976
 1976-04-03,Qatar,0,0,Iraq,False,False,,Gulf Cup,1976
-1976-04-04,Oman,1,3,Saudi Arabia,False,False,,Gulf Cup,1976
-1976-04-06,Bahrain,2,5,Kuwait,False,False,,Gulf Cup,1976
-1976-04-06,Iraq,4,0,United Arab Emirates,False,False,,Gulf Cup,1976
+1976-04-04,Oman,1,3,Saudi Arabia,True,False,,Gulf Cup,1976
+1976-04-06,Bahrain,2,5,Kuwait,True,False,,Gulf Cup,1976
+1976-04-06,Iraq,4,0,United Arab Emirates,True,False,,Gulf Cup,1976
 1976-04-07,Qatar,4,1,Oman,False,False,,Gulf Cup,1976
-1976-04-08,Bahrain,2,1,Saudi Arabia,False,False,,Gulf Cup,1976
-1976-04-08,Iraq,2,2,Kuwait,False,False,,Gulf Cup,1976
-1976-04-10,Oman,1,1,United Arab Emirates,False,False,,Gulf Cup,1976
+1976-04-08,Bahrain,2,1,Saudi Arabia,True,False,,Gulf Cup,1976
+1976-04-08,Iraq,2,2,Kuwait,True,False,,Gulf Cup,1976
+1976-04-10,Oman,1,1,United Arab Emirates,True,False,,Gulf Cup,1976
 1976-04-10,Qatar,3,0,Bahrain,False,False,,Gulf Cup,1976
-1976-04-11,Kuwait,3,1,Saudi Arabia,False,False,,Gulf Cup,1976
-1976-04-15,Iraq,2,4,Kuwait,False,False,,Gulf Cup,1976
+1976-04-11,Kuwait,3,1,Saudi Arabia,True,False,,Gulf Cup,1976
+1976-04-15,Iraq,2,4,Kuwait,True,False,,Gulf Cup,1976
 1979-03-23,Iraq,4,0,Bahrain,False,False,,Gulf Cup,1979
-1979-03-24,Kuwait,3,1,Qatar,False,False,,Gulf Cup,1979
-1979-03-24,Saudi Arabia,2,1,United Arab Emirates,False,False,,Gulf Cup,1979
+1979-03-24,Kuwait,3,1,Qatar,True,False,,Gulf Cup,1979
+1979-03-24,Saudi Arabia,2,1,United Arab Emirates,True,False,,Gulf Cup,1979
 1979-03-27,Iraq,2,0,Qatar,False,False,,Gulf Cup,1979
-1979-03-27,Bahrain,3,0,United Arab Emirates,False,False,,Gulf Cup,1979
-1979-03-28,Saudi Arabia,4,0,Oman,False,False,,Gulf Cup,1979
-1979-03-29,Qatar,1,0,United Arab Emirates,False,False,,Gulf Cup,1979
-1979-03-30,Bahrain,3,1,Oman,False,False,,Gulf Cup,1979
+1979-03-27,Bahrain,3,0,United Arab Emirates,True,False,,Gulf Cup,1979
+1979-03-28,Saudi Arabia,4,0,Oman,True,False,,Gulf Cup,1979
+1979-03-29,Qatar,1,0,United Arab Emirates,True,False,,Gulf Cup,1979
+1979-03-30,Bahrain,3,1,Oman,True,False,,Gulf Cup,1979
 1979-03-30,Iraq,3,1,Kuwait,False,False,,Gulf Cup,1979
-1979-04-01,Oman,0,1,Qatar,False,False,,Gulf Cup,1979
-1979-04-01,Kuwait,7,0,United Arab Emirates,False,False,,Gulf Cup,1979
-1979-04-02,Saudi Arabia,1,1,Bahrain,False,False,,Gulf Cup,1979
-1979-04-03,Kuwait,2,0,Oman,False,False,,Gulf Cup,1979
-1979-04-04,Saudi Arabia,7,0,Qatar,False,False,,Gulf Cup,1979
+1979-04-01,Oman,0,1,Qatar,True,False,,Gulf Cup,1979
+1979-04-01,Kuwait,7,0,United Arab Emirates,True,False,,Gulf Cup,1979
+1979-04-02,Saudi Arabia,1,1,Bahrain,True,False,,Gulf Cup,1979
+1979-04-03,Kuwait,2,0,Oman,True,False,,Gulf Cup,1979
+1979-04-04,Saudi Arabia,7,0,Qatar,True,False,,Gulf Cup,1979
 1979-04-04,Iraq,5,0,United Arab Emirates,False,False,,Gulf Cup,1979
 1979-04-06,Iraq,7,0,Oman,False,False,,Gulf Cup,1979
-1979-04-06,Kuwait,0,0,Saudi Arabia,False,False,,Gulf Cup,1979
-1979-04-07,Bahrain,1,1,Qatar,False,False,,Gulf Cup,1979
+1979-04-06,Kuwait,0,0,Saudi Arabia,True,False,,Gulf Cup,1979
+1979-04-07,Bahrain,1,1,Qatar,True,False,,Gulf Cup,1979
 1979-04-08,Iraq,2,0,Saudi Arabia,False,False,,Gulf Cup,1979
-1979-04-09,Bahrain,0,2,Kuwait,False,False,,Gulf Cup,1979
-1979-04-09,Oman,0,4,United Arab Emirates,False,False,,Gulf Cup,1979
+1979-04-09,Bahrain,0,2,Kuwait,True,False,,Gulf Cup,1979
+1979-04-09,Oman,0,4,United Arab Emirates,True,False,,Gulf Cup,1979
 1982-03-19,United Arab Emirates,1,0,Qatar,False,False,,Gulf Cup,1982
-1982-03-20,Bahrain,0,2,Kuwait,False,False,,Gulf Cup,1982
+1982-03-20,Bahrain,0,2,Kuwait,True,False,,Gulf Cup,1982
 1982-03-21,United Arab Emirates,1,0,Saudi Arabia,False,False,,Gulf Cup,1982
-1982-03-22,Oman,0,3,Qatar,False,False,,Gulf Cup,1982
+1982-03-22,Oman,0,3,Qatar,True,False,,Gulf Cup,1982
 1982-03-24,United Arab Emirates,0,2,Kuwait,False,False,,Gulf Cup,1982
-1982-03-25,Bahrain,4,1,Oman,False,False,,Gulf Cup,1982
-1982-03-26,Saudi Arabia,0,1,Kuwait,False,False,,Gulf Cup,1982
+1982-03-25,Bahrain,4,1,Oman,True,False,,Gulf Cup,1982
+1982-03-26,Saudi Arabia,0,1,Kuwait,True,False,,Gulf Cup,1982
 1982-03-27,United Arab Emirates,2,3,Bahrain,False,False,,Gulf Cup,1982
-1982-03-29,Kuwait,2,0,Oman,False,False,,Gulf Cup,1982
-1982-03-29,Saudi Arabia,1,0,Qatar,False,False,,Gulf Cup,1982
-1982-03-31,Bahrain,1,0,Qatar,False,False,,Gulf Cup,1982
-1982-03-31,Saudi Arabia,3,0,Oman,False,False,,Gulf Cup,1982
-1982-04-02,Bahrain,2,2,Saudi Arabia,False,False,,Gulf Cup,1982
+1982-03-29,Kuwait,2,0,Oman,True,False,,Gulf Cup,1982
+1982-03-29,Saudi Arabia,1,0,Qatar,True,False,,Gulf Cup,1982
+1982-03-31,Bahrain,1,0,Qatar,True,False,,Gulf Cup,1982
+1982-03-31,Saudi Arabia,3,0,Oman,True,False,,Gulf Cup,1982
+1982-04-02,Bahrain,2,2,Saudi Arabia,True,False,,Gulf Cup,1982
 1982-04-02,United Arab Emirates,3,1,Oman,False,False,,Gulf Cup,1982
-1982-04-04,Kuwait,1,2,Qatar,False,False,,Gulf Cup,1982
+1982-04-04,Kuwait,1,2,Qatar,True,False,,Gulf Cup,1982
 1984-03-09,Oman,0,1,Bahrain,False,False,,Gulf Cup,1984
-1984-03-10,Kuwait,0,2,United Arab Emirates,False,False,,Gulf Cup,1984
-1984-03-10,Saudi Arabia,1,2,Qatar,False,False,,Gulf Cup,1984
+1984-03-10,Kuwait,0,2,United Arab Emirates,True,False,,Gulf Cup,1984
+1984-03-10,Saudi Arabia,1,2,Qatar,True,False,,Gulf Cup,1984
 1984-03-11,Oman,1,2,Iraq,False,False,,Gulf Cup,1984
-1984-03-12,Bahrain,0,1,Kuwait,False,False,,Gulf Cup,1984
-1984-03-13,Qatar,0,1,United Arab Emirates,False,False,,Gulf Cup,1984
-1984-03-15,Iraq,0,0,United Arab Emirates,False,False,,Gulf Cup,1984
+1984-03-12,Bahrain,0,1,Kuwait,True,False,,Gulf Cup,1984
+1984-03-13,Qatar,0,1,United Arab Emirates,True,False,,Gulf Cup,1984
+1984-03-15,Iraq,0,0,United Arab Emirates,True,False,,Gulf Cup,1984
 1984-03-15,Oman,1,3,Saudi Arabia,False,False,,Gulf Cup,1984
-1984-03-16,Kuwait,1,2,Qatar,False,False,,Gulf Cup,1984
-1984-03-17,Iraq,4,0,Saudi Arabia,False,False,,Gulf Cup,1984
-1984-03-18,Bahrain,1,1,United Arab Emirates,False,False,,Gulf Cup,1984
+1984-03-16,Kuwait,1,2,Qatar,True,False,,Gulf Cup,1984
+1984-03-17,Iraq,4,0,Saudi Arabia,True,False,,Gulf Cup,1984
+1984-03-18,Bahrain,1,1,United Arab Emirates,True,False,,Gulf Cup,1984
 1984-03-18,Oman,0,2,Qatar,False,False,,Gulf Cup,1984
-1984-03-20,Bahrain,0,1,Iraq,False,False,,Gulf Cup,1984
-1984-03-20,Saudi Arabia,1,1,Kuwait,False,False,,Gulf Cup,1984
+1984-03-20,Bahrain,0,1,Iraq,True,False,,Gulf Cup,1984
+1984-03-20,Saudi Arabia,1,1,Kuwait,True,False,,Gulf Cup,1984
 1984-03-21,Oman,1,1,United Arab Emirates,False,False,,Gulf Cup,1984
-1984-03-22,Bahrain,1,1,Qatar,False,False,,Gulf Cup,1984
-1984-03-22,Iraq,3,1,Kuwait,False,False,,Gulf Cup,1984
-1984-03-23,Saudi Arabia,2,0,United Arab Emirates,False,False,,Gulf Cup,1984
-1984-03-25,Iraq,1,2,Qatar,False,False,,Gulf Cup,1984
+1984-03-22,Bahrain,1,1,Qatar,True,False,,Gulf Cup,1984
+1984-03-22,Iraq,3,1,Kuwait,True,False,,Gulf Cup,1984
+1984-03-23,Saudi Arabia,2,0,United Arab Emirates,True,False,,Gulf Cup,1984
+1984-03-25,Iraq,1,2,Qatar,True,False,,Gulf Cup,1984
 1984-03-25,Oman,0,0,Kuwait,False,False,,Gulf Cup,1984
-1984-03-26,Bahrain,0,2,Saudi Arabia,False,False,,Gulf Cup,1984
-1984-03-28,Iraq,1,1,Qatar,False,False,,Gulf Cup,1984
+1984-03-26,Bahrain,0,2,Saudi Arabia,True,False,,Gulf Cup,1984
+1984-03-28,Iraq,1,1,Qatar,True,False,,Gulf Cup,1984
 1986-03-22,Bahrain,0,0,Iraq,False,False,,Gulf Cup,1986
-1986-03-23,Qatar,2,1,Oman,False,False,,Gulf Cup,1986
-1986-03-23,Saudi Arabia,1,3,Kuwait,False,False,,Gulf Cup,1986
-1986-03-24,United Arab Emirates,2,2,Iraq,False,False,,Gulf Cup,1986
+1986-03-23,Qatar,2,1,Oman,True,False,,Gulf Cup,1986
+1986-03-23,Saudi Arabia,1,3,Kuwait,True,False,,Gulf Cup,1986
+1986-03-24,United Arab Emirates,2,2,Iraq,True,False,,Gulf Cup,1986
 1986-03-25,Bahrain,2,1,Saudi Arabia,False,False,,Gulf Cup,1986
-1986-03-25,Kuwait,2,0,Oman,False,False,,Gulf Cup,1986
-1986-03-27,Qatar,1,1,Iraq,False,False,,Gulf Cup,1986
-1986-03-28,Saudi Arabia,3,1,Oman,False,False,,Gulf Cup,1986
-1986-03-28,United Arab Emirates,0,1,Kuwait,False,False,,Gulf Cup,1986
+1986-03-25,Kuwait,2,0,Oman,True,False,,Gulf Cup,1986
+1986-03-27,Qatar,1,1,Iraq,True,False,,Gulf Cup,1986
+1986-03-28,Saudi Arabia,3,1,Oman,True,False,,Gulf Cup,1986
+1986-03-28,United Arab Emirates,0,1,Kuwait,True,False,,Gulf Cup,1986
 1986-03-29,Bahrain,0,0,Qatar,False,False,,Gulf Cup,1986
-1986-03-30,Iraq,1,2,Saudi Arabia,False,False,,Gulf Cup,1986
-1986-03-30,Oman,0,1,United Arab Emirates,False,False,,Gulf Cup,1986
-1986-04-01,Kuwait,2,1,Qatar,False,False,,Gulf Cup,1986
+1986-03-30,Iraq,1,2,Saudi Arabia,True,False,,Gulf Cup,1986
+1986-03-30,Oman,0,1,United Arab Emirates,True,False,,Gulf Cup,1986
+1986-04-01,Kuwait,2,1,Qatar,True,False,,Gulf Cup,1986
 1986-04-02,Bahrain,0,0,Oman,False,False,,Gulf Cup,1986
-1986-04-02,Saudi Arabia,0,2,United Arab Emirates,False,False,,Gulf Cup,1986
-1986-04-03,Iraq,1,2,Kuwait,False,False,,Gulf Cup,1986
+1986-04-02,Saudi Arabia,0,2,United Arab Emirates,True,False,,Gulf Cup,1986
+1986-04-03,Iraq,1,2,Kuwait,True,False,,Gulf Cup,1986
 1986-04-05,Bahrain,1,3,United Arab Emirates,False,False,,Gulf Cup,1986
-1986-04-05,Qatar,0,2,Saudi Arabia,False,False,,Gulf Cup,1986
-1986-04-06,Oman,2,3,Iraq,False,False,,Gulf Cup,1986
+1986-04-05,Qatar,0,2,Saudi Arabia,True,False,,Gulf Cup,1986
+1986-04-06,Oman,2,3,Iraq,True,False,,Gulf Cup,1986
 1986-04-07,Bahrain,1,1,Kuwait,False,False,,Gulf Cup,1986
-1986-04-07,Qatar,3,2,United Arab Emirates,False,False,,Gulf Cup,1986
+1986-04-07,Qatar,3,2,United Arab Emirates,True,False,,Gulf Cup,1986
 1988-03-02,Saudi Arabia,2,0,Oman,False,False,,Gulf Cup,1988
-1988-03-03,Qatar,1,1,Kuwait,False,False,,Gulf Cup,1988
-1988-03-03,United Arab Emirates,2,0,Bahrain,False,False,,Gulf Cup,1988
-1988-03-04,Iraq,1,1,Oman,False,False,,Gulf Cup,1988
-1988-03-05,Kuwait,0,1,United Arab Emirates,False,False,,Gulf Cup,1988
+1988-03-03,Qatar,1,1,Kuwait,True,False,,Gulf Cup,1988
+1988-03-03,United Arab Emirates,2,0,Bahrain,True,False,,Gulf Cup,1988
+1988-03-04,Iraq,1,1,Oman,True,False,,Gulf Cup,1988
+1988-03-05,Kuwait,0,1,United Arab Emirates,True,False,,Gulf Cup,1988
 1988-03-05,Saudi Arabia,0,0,Qatar,False,False,,Gulf Cup,1988
-1988-03-07,Oman,0,2,Bahrain,False,False,,Gulf Cup,1988
-1988-03-08,Iraq,1,0,Kuwait,False,False,,Gulf Cup,1988
-1988-03-08,Qatar,2,1,United Arab Emirates,False,False,,Gulf Cup,1988
+1988-03-07,Oman,0,2,Bahrain,True,False,,Gulf Cup,1988
+1988-03-08,Iraq,1,0,Kuwait,True,False,,Gulf Cup,1988
+1988-03-08,Qatar,2,1,United Arab Emirates,True,False,,Gulf Cup,1988
 1988-03-09,Saudi Arabia,1,0,Bahrain,False,False,,Gulf Cup,1988
-1988-03-10,Oman,2,1,Qatar,False,False,,Gulf Cup,1988
-1988-03-10,United Arab Emirates,0,0,Iraq,False,False,,Gulf Cup,1988
-1988-03-12,Kuwait,0,1,Bahrain,False,False,,Gulf Cup,1988
-1988-03-13,Qatar,0,3,Iraq,False,False,,Gulf Cup,1988
+1988-03-10,Oman,2,1,Qatar,True,False,,Gulf Cup,1988
+1988-03-10,United Arab Emirates,0,0,Iraq,True,False,,Gulf Cup,1988
+1988-03-12,Kuwait,0,1,Bahrain,True,False,,Gulf Cup,1988
+1988-03-13,Qatar,0,3,Iraq,True,False,,Gulf Cup,1988
 1988-03-13,Saudi Arabia,2,2,United Arab Emirates,False,False,,Gulf Cup,1988
-1988-03-14,Oman,0,2,Kuwait,False,False,,Gulf Cup,1988
-1988-03-16,Bahrain,1,0,Qatar,False,False,,Gulf Cup,1988
+1988-03-14,Oman,0,2,Kuwait,True,False,,Gulf Cup,1988
+1988-03-16,Bahrain,1,0,Qatar,True,False,,Gulf Cup,1988
 1988-03-16,Saudi Arabia,0,2,Iraq,False,False,,Gulf Cup,1988
-1988-03-17,United Arab Emirates,1,0,Oman,False,False,,Gulf Cup,1988
-1988-03-18,Bahrain,0,1,Iraq,False,False,,Gulf Cup,1988
+1988-03-17,United Arab Emirates,1,0,Oman,True,False,,Gulf Cup,1988
+1988-03-18,Bahrain,0,1,Iraq,True,False,,Gulf Cup,1988
 1988-03-18,Saudi Arabia,0,0,Kuwait,False,False,,Gulf Cup,1988
 1990-02-21,Kuwait,1,0,Bahrain,False,False,,Gulf Cup,1990
-1990-02-22,Oman,1,1,United Arab Emirates,False,False,,Gulf Cup,1990
-1990-02-23,Qatar,0,0,Bahrain,False,False,,Gulf Cup,1990
+1990-02-22,Oman,1,1,United Arab Emirates,True,False,,Gulf Cup,1990
+1990-02-23,Qatar,0,0,Bahrain,True,False,,Gulf Cup,1990
 1990-02-24,Kuwait,1,1,Oman,False,False,,Gulf Cup,1990
-1990-02-27,Qatar,0,0,United Arab Emirates,False,False,,Gulf Cup,1990
-1990-03-01,Bahrain,0,0,Oman,False,False,,Gulf Cup,1990
-1990-03-04,Oman,2,4,Qatar,False,False,,Gulf Cup,1990
-1990-03-05,Bahrain,1,0,United Arab Emirates,False,False,,Gulf Cup,1990
+1990-02-27,Qatar,0,0,United Arab Emirates,True,False,,Gulf Cup,1990
+1990-03-01,Bahrain,0,0,Oman,True,False,,Gulf Cup,1990
+1990-03-04,Oman,2,4,Qatar,True,False,,Gulf Cup,1990
+1990-03-05,Bahrain,1,0,United Arab Emirates,True,False,,Gulf Cup,1990
 1990-03-07,Kuwait,2,0,Qatar,False,False,,Gulf Cup,1990
 1990-03-09,Kuwait,6,1,United Arab Emirates,False,False,,Gulf Cup,1990
 1992-11-27,Qatar,2,0,Oman,False,False,,Gulf Cup,1992
-1992-11-28,Saudi Arabia,1,2,Bahrain,False,False,,Gulf Cup,1992
-1992-11-28,United Arab Emirates,0,2,Kuwait,False,False,,Gulf Cup,1992
-1992-11-30,Kuwait,2,1,Oman,False,False,,Gulf Cup,1992
-1992-12-01,Saudi Arabia,0,1,United Arab Emirates,False,False,,Gulf Cup,1992
+1992-11-28,Saudi Arabia,1,2,Bahrain,True,False,,Gulf Cup,1992
+1992-11-28,United Arab Emirates,0,2,Kuwait,True,False,,Gulf Cup,1992
+1992-11-30,Kuwait,2,1,Oman,True,False,,Gulf Cup,1992
+1992-12-01,Saudi Arabia,0,1,United Arab Emirates,True,False,,Gulf Cup,1992
 1992-12-01,Qatar,1,0,Bahrain,False,False,,Gulf Cup,1992
 1992-12-03,Qatar,4,0,Kuwait,False,False,,Gulf Cup,1992
-1992-12-04,Bahrain,0,2,United Arab Emirates,False,False,,Gulf Cup,1992
-1992-12-04,Oman,0,2,Saudi Arabia,False,False,,Gulf Cup,1992
-1992-12-06,Kuwait,1,2,Saudi Arabia,False,False,,Gulf Cup,1992
+1992-12-04,Bahrain,0,2,United Arab Emirates,True,False,,Gulf Cup,1992
+1992-12-04,Oman,0,2,Saudi Arabia,True,False,,Gulf Cup,1992
+1992-12-06,Kuwait,1,2,Saudi Arabia,True,False,,Gulf Cup,1992
 1992-12-06,Qatar,1,0,United Arab Emirates,False,False,,Gulf Cup,1992
-1992-12-07,Bahrain,3,0,Oman,False,False,,Gulf Cup,1992
-1992-12-09,Oman,0,1,United Arab Emirates,False,False,,Gulf Cup,1992
-1992-12-10,Kuwait,0,1,Bahrain,False,False,,Gulf Cup,1992
+1992-12-07,Bahrain,3,0,Oman,True,False,,Gulf Cup,1992
+1992-12-09,Oman,0,1,United Arab Emirates,True,False,,Gulf Cup,1992
+1992-12-10,Kuwait,0,1,Bahrain,True,False,,Gulf Cup,1992
 1992-12-10,Qatar,0,1,Saudi Arabia,False,False,,Gulf Cup,1992
 1994-11-03,United Arab Emirates,2,0,Qatar,False,False,,Gulf Cup,1994
-1994-11-04,Bahrain,2,1,Kuwait,False,False,,Gulf Cup,1994
-1994-11-04,Oman,1,2,Saudi Arabia,False,False,,Gulf Cup,1994
+1994-11-04,Bahrain,2,1,Kuwait,True,False,,Gulf Cup,1994
+1994-11-04,Oman,1,2,Saudi Arabia,True,False,,Gulf Cup,1994
 1994-11-06,United Arab Emirates,1,1,Saudi Arabia,False,False,,Gulf Cup,1994
-1994-11-06,Oman,1,1,Bahrain,False,False,,Gulf Cup,1994
-1994-11-07,Kuwait,1,0,Qatar,False,False,,Gulf Cup,1994
-1994-11-09,Qatar,4,2,Oman,False,False,,Gulf Cup,1994
+1994-11-06,Oman,1,1,Bahrain,True,False,,Gulf Cup,1994
+1994-11-07,Kuwait,1,0,Qatar,True,False,,Gulf Cup,1994
+1994-11-09,Qatar,4,2,Oman,True,False,,Gulf Cup,1994
 1994-11-09,United Arab Emirates,2,0,Kuwait,False,False,,Gulf Cup,1994
-1994-11-10,Saudi Arabia,3,1,Bahrain,False,False,,Gulf Cup,1994
-1994-11-12,Qatar,1,2,Saudi Arabia,False,False,,Gulf Cup,1994
+1994-11-10,Saudi Arabia,3,1,Bahrain,True,False,,Gulf Cup,1994
+1994-11-12,Qatar,1,2,Saudi Arabia,True,False,,Gulf Cup,1994
 1994-11-12,United Arab Emirates,0,0,Bahrain,False,False,,Gulf Cup,1994
-1994-11-13,Oman,0,0,Kuwait,False,False,,Gulf Cup,1994
-1994-11-15,Bahrain,1,1,Qatar,False,False,,Gulf Cup,1994
-1994-11-16,Kuwait,0,2,Saudi Arabia,False,False,,Gulf Cup,1994
+1994-11-13,Oman,0,0,Kuwait,True,False,,Gulf Cup,1994
+1994-11-15,Bahrain,1,1,Qatar,True,False,,Gulf Cup,1994
+1994-11-16,Kuwait,0,2,Saudi Arabia,True,False,,Gulf Cup,1994
 1994-11-16,United Arab Emirates,2,0,Oman,False,False,,Gulf Cup,1994
 1996-10-15,Oman,0,1,Saudi Arabia,False,False,,Gulf Cup,1996
-1996-10-16,Kuwait,1,0,Bahrain,False,False,,Gulf Cup,1996
-1996-10-16,United Arab Emirates,0,1,Qatar,False,False,,Gulf Cup,1996
+1996-10-16,Kuwait,1,0,Bahrain,True,False,,Gulf Cup,1996
+1996-10-16,United Arab Emirates,0,1,Qatar,True,False,,Gulf Cup,1996
 1996-10-18,Oman,1,2,Kuwait,False,False,,Gulf Cup,1996
-1996-10-18,United Arab Emirates,1,1,Bahrain,False,False,,Gulf Cup,1996
-1996-10-19,Qatar,2,2,Saudi Arabia,False,False,,Gulf Cup,1996
+1996-10-18,United Arab Emirates,1,1,Bahrain,True,False,,Gulf Cup,1996
+1996-10-19,Qatar,2,2,Saudi Arabia,True,False,,Gulf Cup,1996
 1996-10-21,Oman,0,3,Qatar,False,False,,Gulf Cup,1996
-1996-10-21,Saudi Arabia,3,1,Bahrain,False,False,,Gulf Cup,1996
-1996-10-22,Kuwait,1,2,United Arab Emirates,False,False,,Gulf Cup,1996
-1996-10-24,Kuwait,1,0,Saudi Arabia,False,False,,Gulf Cup,1996
+1996-10-21,Saudi Arabia,3,1,Bahrain,True,False,,Gulf Cup,1996
+1996-10-22,Kuwait,1,2,United Arab Emirates,True,False,,Gulf Cup,1996
+1996-10-24,Kuwait,1,0,Saudi Arabia,True,False,,Gulf Cup,1996
 1996-10-24,Oman,0,0,United Arab Emirates,False,False,,Gulf Cup,1996
-1996-10-25,Bahrain,1,2,Qatar,False,False,,Gulf Cup,1996
-1996-10-27,United Arab Emirates,2,2,Saudi Arabia,False,False,,Gulf Cup,1996
+1996-10-25,Bahrain,1,2,Qatar,True,False,,Gulf Cup,1996
+1996-10-27,United Arab Emirates,2,2,Saudi Arabia,True,False,,Gulf Cup,1996
 1996-10-28,Oman,1,1,Bahrain,False,False,,Gulf Cup,1996
-1996-10-28,Qatar,1,2,Kuwait,False,False,,Gulf Cup,1996
+1996-10-28,Qatar,1,2,Kuwait,True,False,,Gulf Cup,1996
 1998-10-30,Bahrain,0,1,United Arab Emirates,False,False,,Gulf Cup,1998
-1998-10-31,Kuwait,1,2,Saudi Arabia,False,False,,Gulf Cup,1998
-1998-10-31,Oman,2,1,Qatar,False,False,,Gulf Cup,1998
+1998-10-31,Kuwait,1,2,Saudi Arabia,True,False,,Gulf Cup,1998
+1998-10-31,Oman,2,1,Qatar,True,False,,Gulf Cup,1998
 1998-11-02,Bahrain,1,1,Saudi Arabia,False,False,,Gulf Cup,1998
-1998-11-02,Kuwait,6,2,Qatar,False,False,,Gulf Cup,1998
-1998-11-03,United Arab Emirates,3,2,Oman,False,False,,Gulf Cup,1998
-1998-11-05,Oman,0,1,Saudi Arabia,False,False,,Gulf Cup,1998
-1998-11-05,Qatar,0,0,United Arab Emirates,False,False,,Gulf Cup,1998
+1998-11-02,Kuwait,6,2,Qatar,True,False,,Gulf Cup,1998
+1998-11-03,United Arab Emirates,3,2,Oman,True,False,,Gulf Cup,1998
+1998-11-05,Oman,0,1,Saudi Arabia,True,False,,Gulf Cup,1998
+1998-11-05,Qatar,0,0,United Arab Emirates,True,False,,Gulf Cup,1998
 1998-11-06,Bahrain,0,2,Kuwait,False,False,,Gulf Cup,1998
 1998-11-08,Bahrain,0,0,Qatar,False,False,,Gulf Cup,1998
-1998-11-08,Saudi Arabia,1,0,United Arab Emirates,False,False,,Gulf Cup,1998
-1998-11-09,Oman,0,5,Kuwait,False,False,,Gulf Cup,1998
-1998-11-11,Qatar,0,0,Saudi Arabia,False,False,,Gulf Cup,1998
+1998-11-08,Saudi Arabia,1,0,United Arab Emirates,True,False,,Gulf Cup,1998
+1998-11-09,Oman,0,5,Kuwait,True,False,,Gulf Cup,1998
+1998-11-11,Qatar,0,0,Saudi Arabia,True,False,,Gulf Cup,1998
 1998-11-12,Bahrain,2,2,Oman,False,False,,Gulf Cup,1998
-1998-11-12,United Arab Emirates,1,4,Kuwait,False,False,,Gulf Cup,1998
+1998-11-12,United Arab Emirates,1,4,Kuwait,True,False,,Gulf Cup,1998
 2002-01-16,Saudi Arabia,1,1,Kuwait,False,False,,Gulf Cup,2002
-2002-01-17,Qatar,1,0,Bahrain,False,False,,Gulf Cup,2002
-2002-01-17,United Arab Emirates,1,0,Oman,False,False,,Gulf Cup,2002
-2002-01-19,Kuwait,1,3,Oman,False,False,,Gulf Cup,2002
+2002-01-17,Qatar,1,0,Bahrain,True,False,,Gulf Cup,2002
+2002-01-17,United Arab Emirates,1,0,Oman,True,False,,Gulf Cup,2002
+2002-01-19,Kuwait,1,3,Oman,True,False,,Gulf Cup,2002
 2002-01-20,Saudi Arabia,3,1,Bahrain,False,False,,Gulf Cup,2002
-2002-01-20,United Arab Emirates,0,2,Qatar,False,False,,Gulf Cup,2002
-2002-01-22,Kuwait,0,0,Bahrain,False,False,,Gulf Cup,2002
-2002-01-24,Oman,1,2,Qatar,False,False,,Gulf Cup,2002
+2002-01-20,United Arab Emirates,0,2,Qatar,True,False,,Gulf Cup,2002
+2002-01-22,Kuwait,0,0,Bahrain,True,False,,Gulf Cup,2002
+2002-01-24,Oman,1,2,Qatar,True,False,,Gulf Cup,2002
 2002-01-24,Saudi Arabia,1,0,United Arab Emirates,False,False,,Gulf Cup,2002
-2002-01-26,Kuwait,0,1,Qatar,False,False,,Gulf Cup,2002
-2002-01-27,United Arab Emirates,1,2,Bahrain,False,False,,Gulf Cup,2002
+2002-01-26,Kuwait,0,1,Qatar,True,False,,Gulf Cup,2002
+2002-01-27,United Arab Emirates,1,2,Bahrain,True,False,,Gulf Cup,2002
 2002-01-27,Saudi Arabia,2,0,Oman,False,False,,Gulf Cup,2002
-2002-01-29,Kuwait,2,1,United Arab Emirates,False,False,,Gulf Cup,2002
-2002-01-30,Bahrain,1,1,Oman,False,False,,Gulf Cup,2002
+2002-01-29,Kuwait,2,1,United Arab Emirates,True,False,,Gulf Cup,2002
+2002-01-30,Bahrain,1,1,Oman,True,False,,Gulf Cup,2002
 2002-01-30,Saudi Arabia,3,1,Qatar,False,False,,Gulf Cup,2002
 2003-12-26,Kuwait,0,0,Oman,False,False,,Gulf Cup,2003
-2003-12-26,United Arab Emirates,0,2,Saudi Arabia,False,False,,Gulf Cup,2003
-2003-12-27,Bahrain,0,0,Qatar,False,False,,Gulf Cup,2003
-2003-12-28,Yemen,1,1,Oman,False,False,,Gulf Cup,2003
+2003-12-26,United Arab Emirates,0,2,Saudi Arabia,True,False,,Gulf Cup,2003
+2003-12-27,Bahrain,0,0,Qatar,True,False,,Gulf Cup,2003
+2003-12-28,Yemen,1,1,Oman,True,False,,Gulf Cup,2003
 2003-12-29,Kuwait,0,2,United Arab Emirates,False,False,,Gulf Cup,2003
-2003-12-29,Saudi Arabia,0,0,Qatar,False,False,,Gulf Cup,2003
-2003-12-30,Bahrain,5,1,Yemen,False,False,,Gulf Cup,2003
-2003-12-31,Oman,2,0,United Arab Emirates,False,False,,Gulf Cup,2003
-2004-01-01,Bahrain,0,1,Saudi Arabia,False,False,,Gulf Cup,2004
+2003-12-29,Saudi Arabia,0,0,Qatar,True,False,,Gulf Cup,2003
+2003-12-30,Bahrain,5,1,Yemen,True,False,,Gulf Cup,2003
+2003-12-31,Oman,2,0,United Arab Emirates,True,False,,Gulf Cup,2003
+2004-01-01,Bahrain,0,1,Saudi Arabia,True,False,,Gulf Cup,2004
 2004-01-01,Kuwait,4,0,Yemen,False,False,,Gulf Cup,2004
-2004-01-03,Oman,0,1,Bahrain,False,False,,Gulf Cup,2004
-2004-01-03,United Arab Emirates,0,0,Qatar,False,False,,Gulf Cup,2004
+2004-01-03,Oman,0,1,Bahrain,True,False,,Gulf Cup,2004
+2004-01-03,United Arab Emirates,0,0,Qatar,True,False,,Gulf Cup,2004
 2004-01-04,Kuwait,1,1,Saudi Arabia,False,False,,Gulf Cup,2004
-2004-01-05,Qatar,3,0,Yemen,False,False,,Gulf Cup,2004
-2004-01-06,Oman,1,2,Saudi Arabia,False,False,,Gulf Cup,2004
-2004-01-07,United Arab Emirates,1,3,Bahrain,False,False,,Gulf Cup,2004
+2004-01-05,Qatar,3,0,Yemen,True,False,,Gulf Cup,2004
+2004-01-06,Oman,1,2,Saudi Arabia,True,False,,Gulf Cup,2004
+2004-01-07,United Arab Emirates,1,3,Bahrain,True,False,,Gulf Cup,2004
 2004-01-08,Kuwait,1,2,Qatar,False,False,,Gulf Cup,2004
-2004-01-08,Yemen,0,2,Saudi Arabia,False,False,,Gulf Cup,2004
+2004-01-08,Yemen,0,2,Saudi Arabia,True,False,,Gulf Cup,2004
 2004-01-10,Kuwait,0,4,Bahrain,False,False,,Gulf Cup,2004
-2004-01-11,Oman,2,0,Qatar,False,False,,Gulf Cup,2004
-2004-01-11,Yemen,0,3,United Arab Emirates,False,False,,Gulf Cup,2004
-2004-12-10,Iraq,1,3,Oman,False,False,,Gulf Cup,2004
+2004-01-11,Oman,2,0,Qatar,True,False,,Gulf Cup,2004
+2004-01-11,Yemen,0,3,United Arab Emirates,True,False,,Gulf Cup,2004
+2004-12-10,Iraq,1,3,Oman,True,False,,Gulf Cup,2004
 2004-12-10,Qatar,2,2,United Arab Emirates,False,False,,Gulf Cup,2004
-2004-12-11,Bahrain,1,1,Yemen,False,False,,Gulf Cup,2004
-2004-12-11,Saudi Arabia,1,2,Kuwait,False,False,,Gulf Cup,2004
-2004-12-13,Oman,2,1,United Arab Emirates,False,False,,Gulf Cup,2004
+2004-12-11,Bahrain,1,1,Yemen,True,False,,Gulf Cup,2004
+2004-12-11,Saudi Arabia,1,2,Kuwait,True,False,,Gulf Cup,2004
+2004-12-13,Oman,2,1,United Arab Emirates,True,False,,Gulf Cup,2004
 2004-12-13,Qatar,3,3,Iraq,False,False,,Gulf Cup,2004
-2004-12-14,Kuwait,1,1,Bahrain,False,False,,Gulf Cup,2004
-2004-12-14,Saudi Arabia,2,0,Yemen,False,False,,Gulf Cup,2004
-2004-12-16,Iraq,1,1,United Arab Emirates,False,False,,Gulf Cup,2004
+2004-12-14,Kuwait,1,1,Bahrain,True,False,,Gulf Cup,2004
+2004-12-14,Saudi Arabia,2,0,Yemen,True,False,,Gulf Cup,2004
+2004-12-16,Iraq,1,1,United Arab Emirates,True,False,,Gulf Cup,2004
 2004-12-16,Qatar,2,1,Oman,False,False,,Gulf Cup,2004
-2004-12-17,Bahrain,3,0,Saudi Arabia,False,False,,Gulf Cup,2004
-2004-12-17,Kuwait,3,0,Yemen,False,False,,Gulf Cup,2004
-2004-12-20,Oman,3,2,Bahrain,False,False,,Gulf Cup,2004
+2004-12-17,Bahrain,3,0,Saudi Arabia,True,False,,Gulf Cup,2004
+2004-12-17,Kuwait,3,0,Yemen,True,False,,Gulf Cup,2004
+2004-12-20,Oman,3,2,Bahrain,True,False,,Gulf Cup,2004
 2004-12-20,Qatar,2,0,Kuwait,False,False,,Gulf Cup,2004
-2004-12-23,Bahrain,3,1,Kuwait,False,False,,Gulf Cup,2004
+2004-12-23,Bahrain,3,1,Kuwait,True,False,,Gulf Cup,2004
 2004-12-24,Qatar,1,1,Oman,False,False,,Gulf Cup,2004
-2007-01-17,Kuwait,1,1,Yemen,False,False,,Gulf Cup,2007
+2007-01-17,Kuwait,1,1,Yemen,True,False,,Gulf Cup,2007
 2007-01-17,United Arab Emirates,1,2,Oman,False,False,,Gulf Cup,2007
-2007-01-18,Qatar,0,1,Iraq,False,False,,Gulf Cup,2007
-2007-01-18,Saudi Arabia,2,1,Bahrain,False,False,,Gulf Cup,2007
-2007-01-20,Kuwait,1,2,Oman,False,False,,Gulf Cup,2007
+2007-01-18,Qatar,0,1,Iraq,True,False,,Gulf Cup,2007
+2007-01-18,Saudi Arabia,2,1,Bahrain,True,False,,Gulf Cup,2007
+2007-01-20,Kuwait,1,2,Oman,True,False,,Gulf Cup,2007
 2007-01-20,United Arab Emirates,2,1,Yemen,False,False,,Gulf Cup,2007
-2007-01-21,Bahrain,1,1,Iraq,False,False,,Gulf Cup,2007
-2007-01-21,Saudi Arabia,1,1,Qatar,False,False,,Gulf Cup,2007
-2007-01-23,Oman,2,1,Yemen,False,False,,Gulf Cup,2007
+2007-01-21,Bahrain,1,1,Iraq,True,False,,Gulf Cup,2007
+2007-01-21,Saudi Arabia,1,1,Qatar,True,False,,Gulf Cup,2007
+2007-01-23,Oman,2,1,Yemen,True,False,,Gulf Cup,2007
 2007-01-23,United Arab Emirates,3,2,Kuwait,False,False,,Gulf Cup,2007
-2007-01-24,Qatar,1,2,Bahrain,False,False,,Gulf Cup,2007
-2007-01-24,Saudi Arabia,1,0,Iraq,False,False,,Gulf Cup,2007
-2007-01-27,Oman,1,0,Bahrain,False,False,,Gulf Cup,2007
+2007-01-24,Qatar,1,2,Bahrain,True,False,,Gulf Cup,2007
+2007-01-24,Saudi Arabia,1,0,Iraq,True,False,,Gulf Cup,2007
+2007-01-27,Oman,1,0,Bahrain,True,False,,Gulf Cup,2007
 2007-01-27,United Arab Emirates,1,0,Saudi Arabia,False,False,,Gulf Cup,2007
 2007-01-30,United Arab Emirates,1,0,Oman,False,False,,Gulf Cup,2007
-2009-01-04,Bahrain,3,1,Iraq,False,False,,Gulf Cup,2009
+2009-01-04,Bahrain,3,1,Iraq,True,False,,Gulf Cup,2009
 2009-01-04,Oman,0,0,Kuwait,False,False,,Gulf Cup,2009
-2009-01-05,Saudi Arabia,0,0,Qatar,False,False,,Gulf Cup,2009
-2009-01-05,United Arab Emirates,3,1,Yemen,False,False,,Gulf Cup,2009
-2009-01-07,Bahrain,0,1,Kuwait,False,False,,Gulf Cup,2009
+2009-01-05,Saudi Arabia,0,0,Qatar,True,False,,Gulf Cup,2009
+2009-01-05,United Arab Emirates,3,1,Yemen,True,False,,Gulf Cup,2009
+2009-01-07,Bahrain,0,1,Kuwait,True,False,,Gulf Cup,2009
 2009-01-07,Oman,4,0,Iraq,False,False,,Gulf Cup,2009
-2009-01-08,Qatar,0,0,United Arab Emirates,False,False,,Gulf Cup,2009
-2009-01-08,Saudi Arabia,6,0,Yemen,False,False,,Gulf Cup,2009
-2009-01-10,Iraq,1,1,Kuwait,False,False,,Gulf Cup,2009
+2009-01-08,Qatar,0,0,United Arab Emirates,True,False,,Gulf Cup,2009
+2009-01-08,Saudi Arabia,6,0,Yemen,True,False,,Gulf Cup,2009
+2009-01-10,Iraq,1,1,Kuwait,True,False,,Gulf Cup,2009
 2009-01-10,Oman,2,0,Bahrain,False,False,,Gulf Cup,2009
-2009-01-11,Qatar,2,1,Yemen,False,False,,Gulf Cup,2009
-2009-01-11,United Arab Emirates,0,3,Saudi Arabia,False,False,,Gulf Cup,2009
-2009-01-14,Kuwait,0,1,Saudi Arabia,False,False,,Gulf Cup,2009
+2009-01-11,Qatar,2,1,Yemen,True,False,,Gulf Cup,2009
+2009-01-11,United Arab Emirates,0,3,Saudi Arabia,True,False,,Gulf Cup,2009
+2009-01-14,Kuwait,0,1,Saudi Arabia,True,False,,Gulf Cup,2009
 2009-01-14,Oman,1,0,Qatar,False,False,,Gulf Cup,2009
 2009-01-17,Oman,0,0,Saudi Arabia,False,False,,Gulf Cup,2009
-2010-11-22,Kuwait,1,0,Qatar,False,False,,Gulf Cup,2010
+2010-11-22,Kuwait,1,0,Qatar,True,False,,Gulf Cup,2010
 2010-11-22,Yemen,0,4,Saudi Arabia,False,False,,Gulf Cup,2010
-2010-11-23,Iraq,0,0,United Arab Emirates,False,False,,Gulf Cup,2010
-2010-11-23,Oman,1,1,Bahrain,False,False,,Gulf Cup,2010
-2010-11-25,Saudi Arabia,0,0,Kuwait,False,False,,Gulf Cup,2010
+2010-11-23,Iraq,0,0,United Arab Emirates,True,False,,Gulf Cup,2010
+2010-11-23,Oman,1,1,Bahrain,True,False,,Gulf Cup,2010
+2010-11-25,Saudi Arabia,0,0,Kuwait,True,False,,Gulf Cup,2010
 2010-11-25,Yemen,1,2,Qatar,False,False,,Gulf Cup,2010
-2010-11-26,Bahrain,2,3,Iraq,False,False,,Gulf Cup,2010
-2010-11-26,United Arab Emirates,0,0,Oman,False,False,,Gulf Cup,2010
-2010-11-28,Qatar,1,1,Saudi Arabia,False,False,,Gulf Cup,2010
+2010-11-26,Bahrain,2,3,Iraq,True,False,,Gulf Cup,2010
+2010-11-26,United Arab Emirates,0,0,Oman,True,False,,Gulf Cup,2010
+2010-11-28,Qatar,1,1,Saudi Arabia,True,False,,Gulf Cup,2010
 2010-11-28,Yemen,0,3,Kuwait,False,False,,Gulf Cup,2010
-2010-11-29,Oman,0,0,Iraq,False,False,,Gulf Cup,2010
-2010-11-29,United Arab Emirates,3,1,Bahrain,False,False,,Gulf Cup,2010
-2010-12-02,Kuwait,2,2,Iraq,False,False,,Gulf Cup,2010
-2010-12-02,United Arab Emirates,0,1,Saudi Arabia,False,False,,Gulf Cup,2010
-2010-12-05,Kuwait,1,0,Saudi Arabia,False,False,,Gulf Cup,2010
+2010-11-29,Oman,0,0,Iraq,True,False,,Gulf Cup,2010
+2010-11-29,United Arab Emirates,3,1,Bahrain,True,False,,Gulf Cup,2010
+2010-12-02,Kuwait,2,2,Iraq,True,False,,Gulf Cup,2010
+2010-12-02,United Arab Emirates,0,1,Saudi Arabia,True,False,,Gulf Cup,2010
+2010-12-05,Kuwait,1,0,Saudi Arabia,True,False,,Gulf Cup,2010
 2013-01-05,Bahrain,0,0,Oman,False,False,,Gulf Cup,2013
-2013-01-05,Qatar,1,3,United Arab Emirates,False,False,,Gulf Cup,2013
-2013-01-06,Kuwait,2,0,Yemen,False,False,,Gulf Cup,2013
-2013-01-06,Saudi Arabia,0,2,Iraq,False,False,,Gulf Cup,2013
+2013-01-05,Qatar,1,3,United Arab Emirates,True,False,,Gulf Cup,2013
+2013-01-06,Kuwait,2,0,Yemen,True,False,,Gulf Cup,2013
+2013-01-06,Saudi Arabia,0,2,Iraq,True,False,,Gulf Cup,2013
 2013-01-08,Bahrain,1,2,United Arab Emirates,False,False,,Gulf Cup,2013
-2013-01-08,Qatar,2,1,Oman,False,False,,Gulf Cup,2013
-2013-01-09,Iraq,1,0,Kuwait,False,False,,Gulf Cup,2013
-2013-01-09,Yemen,0,2,Saudi Arabia,False,False,,Gulf Cup,2013
+2013-01-08,Qatar,2,1,Oman,True,False,,Gulf Cup,2013
+2013-01-09,Iraq,1,0,Kuwait,True,False,,Gulf Cup,2013
+2013-01-09,Yemen,0,2,Saudi Arabia,True,False,,Gulf Cup,2013
 2013-01-11,Bahrain,1,0,Qatar,False,False,,Gulf Cup,2013
-2013-01-11,United Arab Emirates,2,0,Oman,False,False,,Gulf Cup,2013
-2013-01-12,Iraq,2,0,Yemen,False,False,,Gulf Cup,2013
-2013-01-12,Kuwait,1,0,Saudi Arabia,False,False,,Gulf Cup,2013
+2013-01-11,United Arab Emirates,2,0,Oman,True,False,,Gulf Cup,2013
+2013-01-12,Iraq,2,0,Yemen,True,False,,Gulf Cup,2013
+2013-01-12,Kuwait,1,0,Saudi Arabia,True,False,,Gulf Cup,2013
 2013-01-15,Bahrain,1,1,Iraq,False,False,,Gulf Cup,2013
-2013-01-15,United Arab Emirates,1,0,Kuwait,False,False,,Gulf Cup,2013
+2013-01-15,United Arab Emirates,1,0,Kuwait,True,False,,Gulf Cup,2013
 2013-01-18,Bahrain,1,6,Kuwait,False,False,,Gulf Cup,2013
-2013-01-18,United Arab Emirates,2,1,Iraq,False,False,,Gulf Cup,2013
+2013-01-18,United Arab Emirates,2,1,Iraq,True,False,,Gulf Cup,2013
 2014-11-13,Saudi Arabia,1,1,Qatar,False,False,,Gulf Cup,2014
-2014-11-13,Yemen,0,0,Bahrain,False,False,,Gulf Cup,2014
-2014-11-14,Iraq,0,1,Kuwait,False,False,,Gulf Cup,2014
-2014-11-14,United Arab Emirates,0,0,Oman,False,False,,Gulf Cup,2014
+2014-11-13,Yemen,0,0,Bahrain,True,False,,Gulf Cup,2014
+2014-11-14,Iraq,0,1,Kuwait,True,False,,Gulf Cup,2014
+2014-11-14,United Arab Emirates,0,0,Oman,True,False,,Gulf Cup,2014
 2014-11-16,Saudi Arabia,3,0,Bahrain,False,False,,Gulf Cup,2014
-2014-11-16,Yemen,0,0,Qatar,False,False,,Gulf Cup,2014
-2014-11-17,Iraq,1,1,Oman,False,False,,Gulf Cup,2014
-2014-11-17,United Arab Emirates,2,2,Kuwait,False,False,,Gulf Cup,2014
-2014-11-19,Bahrain,0,0,Qatar,False,False,,Gulf Cup,2014
+2014-11-16,Yemen,0,0,Qatar,True,False,,Gulf Cup,2014
+2014-11-17,Iraq,1,1,Oman,True,False,,Gulf Cup,2014
+2014-11-17,United Arab Emirates,2,2,Kuwait,True,False,,Gulf Cup,2014
+2014-11-19,Bahrain,0,0,Qatar,True,False,,Gulf Cup,2014
 2014-11-19,Saudi Arabia,1,0,Yemen,False,False,,Gulf Cup,2014
-2014-11-20,Kuwait,0,5,Oman,False,False,,Gulf Cup,2014
-2014-11-20,United Arab Emirates,2,0,Iraq,False,False,,Gulf Cup,2014
-2014-11-23,Oman,1,3,Qatar,False,False,,Gulf Cup,2014
+2014-11-20,Kuwait,0,5,Oman,True,False,,Gulf Cup,2014
+2014-11-20,United Arab Emirates,2,0,Iraq,True,False,,Gulf Cup,2014
+2014-11-23,Oman,1,3,Qatar,True,False,,Gulf Cup,2014
 2014-11-23,Saudi Arabia,3,2,United Arab Emirates,False,False,,Gulf Cup,2014
-2014-11-25,United Arab Emirates,1,0,Oman,False,False,,Gulf Cup,2014
+2014-11-25,United Arab Emirates,1,0,Oman,True,False,,Gulf Cup,2014
 2014-11-26,Saudi Arabia,1,2,Qatar,False,False,,Gulf Cup,2014
 2017-12-22,Kuwait,1,2,Saudi Arabia,False,False,,Gulf Cup,2017
-2017-12-22,Oman,0,1,United Arab Emirates,False,False,,Gulf Cup,2017
-2017-12-23,Bahrain,1,1,Iraq,False,False,,Gulf Cup,2017
-2017-12-23,Qatar,4,0,Yemen,False,False,,Gulf Cup,2017
+2017-12-22,Oman,0,1,United Arab Emirates,True,False,,Gulf Cup,2017
+2017-12-23,Bahrain,1,1,Iraq,True,False,,Gulf Cup,2017
+2017-12-23,Qatar,4,0,Yemen,True,False,,Gulf Cup,2017
 2017-12-25,Kuwait,0,1,Oman,False,False,,Gulf Cup,2017
-2017-12-25,United Arab Emirates,0,0,Saudi Arabia,False,False,,Gulf Cup,2017
-2017-12-26,Iraq,2,1,Qatar,False,False,,Gulf Cup,2017
-2017-12-26,Yemen,0,1,Bahrain,False,False,,Gulf Cup,2017
+2017-12-25,United Arab Emirates,0,0,Saudi Arabia,True,False,,Gulf Cup,2017
+2017-12-26,Iraq,2,1,Qatar,True,False,,Gulf Cup,2017
+2017-12-26,Yemen,0,1,Bahrain,True,False,,Gulf Cup,2017
 2017-12-28,Kuwait,0,0,United Arab Emirates,False,False,,Gulf Cup,2017
-2017-12-28,Saudi Arabia,0,2,Oman,False,False,,Gulf Cup,2017
-2017-12-29,Iraq,3,0,Yemen,False,False,,Gulf Cup,2017
-2017-12-29,Qatar,1,1,Bahrain,False,False,,Gulf Cup,2017
-2018-01-02,Iraq,0,0,United Arab Emirates,False,False,,Gulf Cup,2018
-2018-01-02,Oman,1,0,Bahrain,False,False,,Gulf Cup,2018
-2018-01-05,Oman,0,0,United Arab Emirates,False,False,,Gulf Cup,2018
+2017-12-28,Saudi Arabia,0,2,Oman,True,False,,Gulf Cup,2017
+2017-12-29,Iraq,3,0,Yemen,True,False,,Gulf Cup,2017
+2017-12-29,Qatar,1,1,Bahrain,True,False,,Gulf Cup,2017
+2018-01-02,Iraq,0,0,United Arab Emirates,True,False,,Gulf Cup,2018
+2018-01-02,Oman,1,0,Bahrain,True,False,,Gulf Cup,2018
+2018-01-05,Oman,0,0,United Arab Emirates,True,False,,Gulf Cup,2018
 2019-11-26,Qatar,1,2,Iraq,False,False,,Gulf Cup,2019
-2019-11-26,United Arab Emirates,3,0,Yemen,False,False,,Gulf Cup,2019
-2019-11-27,Oman,0,0,Bahrain,False,False,,Gulf Cup,2019
-2019-11-27,Saudi Arabia,1,3,Kuwait,False,False,,Gulf Cup,2019
-2019-11-29,United Arab Emirates,0,2,Iraq,False,False,,Gulf Cup,2019
+2019-11-26,United Arab Emirates,3,0,Yemen,True,False,,Gulf Cup,2019
+2019-11-27,Oman,0,0,Bahrain,True,False,,Gulf Cup,2019
+2019-11-27,Saudi Arabia,1,3,Kuwait,True,False,,Gulf Cup,2019
+2019-11-29,United Arab Emirates,0,2,Iraq,True,False,,Gulf Cup,2019
 2019-11-29,Qatar,6,0,Yemen,False,False,,Gulf Cup,2019
-2019-11-30,Kuwait,1,2,Oman,False,False,,Gulf Cup,2019
-2019-11-30,Bahrain,0,2,Saudi Arabia,False,False,,Gulf Cup,2019
+2019-11-30,Kuwait,1,2,Oman,True,False,,Gulf Cup,2019
+2019-11-30,Bahrain,0,2,Saudi Arabia,True,False,,Gulf Cup,2019
 2019-12-02,Qatar,4,2,United Arab Emirates,False,False,,Gulf Cup,2019
-2019-12-02,Yemen,0,0,Iraq,False,False,,Gulf Cup,2019
-2019-12-02,Kuwait,2,4,Bahrain,False,False,,Gulf Cup,2019
-2019-12-02,Oman,1,3,Saudi Arabia,False,False,,Gulf Cup,2019
-2019-12-05,Iraq,2,2,Bahrain,False,False,,Gulf Cup,2019
+2019-12-02,Yemen,0,0,Iraq,True,False,,Gulf Cup,2019
+2019-12-02,Kuwait,2,4,Bahrain,True,False,,Gulf Cup,2019
+2019-12-02,Oman,1,3,Saudi Arabia,True,False,,Gulf Cup,2019
+2019-12-05,Iraq,2,2,Bahrain,True,False,,Gulf Cup,2019
 2019-12-05,Qatar,0,1,Saudi Arabia,False,False,,Gulf Cup,2019
-2019-12-08,Bahrain,1,0,Saudi Arabia,False,False,,Gulf Cup,2019
+2019-12-08,Bahrain,1,0,Saudi Arabia,True,False,,Gulf Cup,2019
 2023-01-06,Iraq,0,0,Oman,False,False,,Gulf Cup,2023
-2023-01-06,Yemen,0,2,Saudi Arabia,False,False,,Gulf Cup,2023
-2023-01-07,Bahrain,2,1,United Arab Emirates,False,False,,Gulf Cup,2023
-2023-01-07,Kuwait,0,2,Qatar,False,False,,Gulf Cup,2023
-2023-01-09,Oman,3,2,Yemen,False,False,,Gulf Cup,2023
+2023-01-06,Yemen,0,2,Saudi Arabia,True,False,,Gulf Cup,2023
+2023-01-07,Bahrain,2,1,United Arab Emirates,True,False,,Gulf Cup,2023
+2023-01-07,Kuwait,0,2,Qatar,True,False,,Gulf Cup,2023
+2023-01-09,Oman,3,2,Yemen,True,False,,Gulf Cup,2023
 2023-01-09,Iraq,2,0,Saudi Arabia,False,False,,Gulf Cup,2023
-2023-01-10,United Arab Emirates,0,1,Kuwait,False,False,,Gulf Cup,2023
-2023-01-10,Qatar,1,2,Bahrain,False,False,,Gulf Cup,2023
+2023-01-10,United Arab Emirates,0,1,Kuwait,True,False,,Gulf Cup,2023
+2023-01-10,Qatar,1,2,Bahrain,True,False,,Gulf Cup,2023
 2023-01-12,Iraq,5,0,Yemen,False,False,,Gulf Cup,2023
-2023-01-12,Saudi Arabia,1,2,Oman,False,False,,Gulf Cup,2023
-2023-01-13,Bahrain,1,1,Kuwait,False,False,,Gulf Cup,2023
-2023-01-13,Qatar,1,1,United Arab Emirates,False,False,,Gulf Cup,2023
+2023-01-12,Saudi Arabia,1,2,Oman,True,False,,Gulf Cup,2023
+2023-01-13,Bahrain,1,1,Kuwait,True,False,,Gulf Cup,2023
+2023-01-13,Qatar,1,1,United Arab Emirates,True,False,,Gulf Cup,2023
 2023-01-16,Iraq,2,1,Qatar,False,False,,Gulf Cup,2023
-2023-01-16,Bahrain,0,1,Oman,False,False,,Gulf Cup,2023
+2023-01-16,Bahrain,0,1,Oman,True,False,,Gulf Cup,2023
 2023-01-19,Iraq,3,2,Oman,False,False,,Gulf Cup,2023

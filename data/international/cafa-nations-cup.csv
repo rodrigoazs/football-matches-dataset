@@ -1,11 +1,11 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2023-06-11,Tajikistan,1,1,Turkmenistan,False,False,,CAFA Nations Cup,2023
+2023-06-11,Tajikistan,1,1,Turkmenistan,True,False,,CAFA Nations Cup,2023
 2023-06-11,Uzbekistan,3,0,Oman,False,False,,CAFA Nations Cup,2023
-2023-06-13,Iran,6,1,Afghanistan,False,False,,CAFA Nations Cup,2023
-2023-06-14,Oman,1,1,Tajikistan,False,False,,CAFA Nations Cup,2023
+2023-06-13,Iran,6,1,Afghanistan,True,False,,CAFA Nations Cup,2023
+2023-06-14,Oman,1,1,Tajikistan,True,False,,CAFA Nations Cup,2023
 2023-06-14,Uzbekistan,2,0,Turkmenistan,False,False,,CAFA Nations Cup,2023
 2023-06-16,Kyrgyzstan,1,5,Iran,False,False,,CAFA Nations Cup,2023
-2023-06-17,Turkmenistan,0,2,Oman,False,False,,CAFA Nations Cup,2023
+2023-06-17,Turkmenistan,0,2,Oman,True,False,,CAFA Nations Cup,2023
 2023-06-17,Uzbekistan,5,1,Tajikistan,False,False,,CAFA Nations Cup,2023
-2023-06-20,Kyrgyzstan,0,1,Oman,False,False,,CAFA Nations Cup,2023
+2023-06-20,Kyrgyzstan,0,1,Oman,True,False,,CAFA Nations Cup,2023
 2023-06-20,Uzbekistan,0,1,Iran,False,False,,CAFA Nations Cup,2023

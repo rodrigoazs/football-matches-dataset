@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1988-05-21,Canada,0,3,Greece,False,False,,Matthews Cup,1988
-1988-05-23,Chile,0,1,Greece,False,False,,Matthews Cup,1988
+1988-05-23,Chile,0,1,Greece,True,False,,Matthews Cup,1988
 1988-05-25,Canada,1,0,Chile,False,False,,Matthews Cup,1988
 1988-05-28,Canada,0,0,Greece,False,False,,Matthews Cup,1988
