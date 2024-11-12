@@ -1,115 +1,115 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2004-02-04,Tuna Luso,1,3,Palmeiras,False,False,first,brasileirao-serie-a,2004
-2004-02-04,São Gabriel-RS,2,2,Figueirense-SC,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Figueirense-SC,0,1,São Gabriel-RS,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Cuiabá,0,1,Goiás,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Goiás,3,1,Cuiabá,False,False,first,brasileirao-serie-a,2004
-2004-02-04,ASA,1,1,Brasiliense,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Brasiliense,3,0,ASA,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Catuense,4,2,Atlético-MG,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Atlético-MG,5,1,Catuense,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Novo Horizonte-GO,0,5,Santo André-SP,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Serra-ES,1,4,América-MG,False,False,first,brasileirao-serie-a,2004
-2004-02-18,União Cacoalense-RO,1,1,Guarani-SP,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Guarani-SP,0,0,União Cacoalense-RO,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Maranhão,0,5,Botafogo,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Paranávaí-PR,0,0,Gama,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Gama,3,0,Paranávaí-PR,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Palmas-TO,1,2,Remo,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Remo,1,3,Palmas-TO,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Parnahyba-PI,2,2,Nacional-AM,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Nacional-AM,1,1,Parnahyba-PI,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Flamengo-PI,0,1,Vasco da Gama,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Vasco da Gama,5,0,Flamengo-PI,False,False,first,brasileirao-serie-a,2004
-2004-02-18,XV de Novembro-RS,1,1,Portuguesa/San (SP),False,False,first,brasileirao-serie-a,2004
-2004-03-03,Portuguesa/San (SP),2,2,XV de Novembro-RS,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Sergipe-SE,1,4,Americano,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Atlético Roraima,1,2,Sport,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Sport,4,0,Atlético Roraima,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Botafogo-PB,0,2,Corinthians,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Ferroviário-CE,4,0,América-RN,False,False,first,brasileirao-serie-a,2004
-2004-03-03,América-RN,1,0,Ferroviário-CE,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Atlético Cajazeirense,0,1,Fortaleza,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Fortaleza,2,2,Atlético Cajazeirense,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Rio Branco-AC,1,0,Rio Negro-AM,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Rio Negro-AM,0,1,Rio Branco-AC,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Confiança,0,0,Internacional,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Internacional,4,1,Confiança,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Prudentópolis-PR,4,0,São Gonçalo-RN,False,False,first,brasileirao-serie-a,2004
-2004-03-04,São Gonçalo-RN,2,1,Prudentópolis-PR,False,False,first,brasileirao-serie-a,2004
-2004-02-18,CTE Colatina,1,2,Vitória,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Vitória,4,0,CTE Colatina,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Ypiranga-AP,0,0,Sampaio Corrêa-MA,False,False,first,brasileirao-serie-a,2004
-2004-03-03,Sampaio Corrêa-MA,4,0,Ypiranga-AP,False,False,first,brasileirao-serie-a,2004
-2004-02-04,SER Chapadão-MS,0,0,Grêmio,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Grêmio,2,1,SER Chapadão-MS,False,False,first,brasileirao-serie-a,2004
-2004-02-04,América-RJ,0,1,Londrina,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Londrina,1,0,América-RJ,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Uberlândia-MG,0,3,Juventude,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Caxias-SC,1,3,Fluminense,False,False,first,brasileirao-serie-a,2004
-2004-02-04,CRB,4,4,Flamengo-RJ,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Flamengo-RJ,3,1,CRB,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Tupi-MG,2,2,Bangu,False,False,first,brasileirao-serie-a,2004
-2004-02-18,Bangu,0,1,Tupi-MG,False,False,first,brasileirao-serie-a,2004
-2004-02-04,Barra,0,0,Santa Cruz-PE,False,False,first,brasileirao-serie-a,2004
-2004-02-18,CE Nova Esperança,1,0,União Agrícola Barbarense,False,False,first,brasileirao-serie-a,2004
-2004-03-03,União Agrícola Barbarense,1,0,CE Nova Esperança,False,False,first,brasileirao-serie-a,2004
-2004-03-17,São Gabriel,2,1,Palmeiras,False,False,second,brasileirao-serie-a,2004
-2004-04-07,Palmeiras,4,0,São Gabriel,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Brasiliense,2,2,Goiás,False,False,second,brasileirao-serie-a,2004
-2004-04-07,Goiás,0,0,Brasiliense,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Santo André,3,0,Atlético-MG,False,False,second,brasileirao-serie-a,2004
-2004-04-07,Atlético-MG,2,0,Santo André,False,False,second,brasileirao-serie-a,2004
-2004-03-17,América-MG,1,1,Guarani,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Guarani,1,0,América-MG,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Gama,4,4,Botafogo,False,False,second,brasileirao-serie-a,2004
-2004-04-07,Botafogo,2,3,Gama,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Palmas,5,0,Nacional,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Nacional,3,0,Palmas,False,False,second,brasileirao-serie-a,2004
-2004-03-17,XV de Novembro,1,1,Vasco da Gama,False,False,second,brasileirao-serie-a,2004
-2004-04-07,Vasco da Gama,0,3,XV de Novembro,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Americano,2,1,Sport,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Sport,0,0,Americano,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Ferroviário,0,2,Corinthians,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Rio Branco,1,1,Fortaleza,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Fortaleza,5,1,Rio Branco,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Prudentópolis,0,2,Internacional,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Sampaio Corrêa-MA,1,0,Vitória,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Vitória,3,1,Sampaio Corrêa-MA,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Londrina,0,2,Grêmio,False,False,second,brasileirao-serie-a,2004
-2004-03-17,Juventude,2,2,Fluminense,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Fluminense,2,1,Juventude,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Tupi-MG,2,3,Flamengo,False,False,second,brasileirao-serie-a,2004
-2004-04-01,Flamengo,4,0,Tupi-MG,False,False,second,brasileirao-serie-a,2004
-2004-03-17,CENE,1,0,Santa Cruz,False,False,second,brasileirao-serie-a,2004
-2004-03-24,Santa Cruz,3,0,CENE,False,False,second,brasileirao-serie-a,2004
-2004-04-14,Goiás,1,1,Palmeiras,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Palmeiras,1,1,Goiás,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Guarani,1,1,Santo André,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Santo André,0,0,Guarani,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Palmas,1,1,Gama,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Gama,2,3,Palmas,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Americano,1,2,XV de Novembro,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,XV de Novembro,3,2,Americano,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Corinthians,0,0,Fortaleza,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Fortaleza,1,1,Corinthians,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Internacional,1,1,Vitória,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Vitória,3,1,Internacional,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Fluminense,2,2,Grêmio,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Grêmio,4,1,Fluminense,False,False,round16,brasileirao-serie-a,2004
-2004-04-14,Santa Cruz,0,1,Flamengo,False,False,round16,brasileirao-serie-a,2004
-2004-05-05,Flamengo,1,0,Santa Cruz,False,False,round16,brasileirao-serie-a,2004
-2004-05-12,Santo André,3,3,Palmeiras,False,False,quarter,brasileirao-serie-a,2004
-2004-05-20,Palmeiras,4,4,Santo André,False,False,quarter,brasileirao-serie-a,2004
-2004-05-12,XV de Novembro,3,0,Palmas,False,False,quarter,brasileirao-serie-a,2004
-2004-05-19,Palmas,0,1,XV de Novembro,False,False,quarter,brasileirao-serie-a,2004
-2004-05-13,Corinthians,1,0,Vitória,False,False,quarter,brasileirao-serie-a,2004
-2004-05-19,Vitória,2,0,Corinthians,False,False,quarter,brasileirao-serie-a,2004
-2004-05-12,Grêmio,0,1,Flamengo,False,False,quarter,brasileirao-serie-a,2004
-2004-05-19,Flamengo,0,0,Grêmio,False,False,quarter,brasileirao-serie-a,2004
-2004-05-26,Santo André,3,4,XV de Novembro,False,False,semi,brasileirao-serie-a,2004
-2004-06-09,XV de Novembro,1,3,Santo André,False,False,semi,brasileirao-serie-a,2004
-2004-06-09,Vitória,0,1,Flamengo,False,False,semi,brasileirao-serie-a,2004
-2004-06-16,Flamengo,2,0,Vitória,False,False,semi,brasileirao-serie-a,2004
-2004-06-23,Santo André,2,2,Flamengo,False,False,final,brasileirao-serie-a,2004
-2004-06-30,Flamengo,0,2,Santo André,False,False,final,brasileirao-serie-a,2004
+2004-02-04,Tuna Luso,1,3,Palmeiras,False,False,first,Copa de Brasil,2004
+2004-02-04,São Gabriel-RS,2,2,Figueirense-SC,False,False,first,Copa de Brasil,2004
+2004-02-18,Figueirense-SC,0,1,São Gabriel-RS,False,False,first,Copa de Brasil,2004
+2004-02-18,Cuiabá,0,1,Goiás,False,False,first,Copa de Brasil,2004
+2004-03-03,Goiás,3,1,Cuiabá,False,False,first,Copa de Brasil,2004
+2004-02-04,ASA,1,1,Brasiliense,False,False,first,Copa de Brasil,2004
+2004-03-03,Brasiliense,3,0,ASA,False,False,first,Copa de Brasil,2004
+2004-02-18,Catuense,4,2,Atlético-MG,False,False,first,Copa de Brasil,2004
+2004-03-03,Atlético-MG,5,1,Catuense,False,False,first,Copa de Brasil,2004
+2004-02-18,Novo Horizonte-GO,0,5,Santo André-SP,False,False,first,Copa de Brasil,2004
+2004-02-18,Serra-ES,1,4,América-MG,False,False,first,Copa de Brasil,2004
+2004-02-18,União Cacoalense-RO,1,1,Guarani-SP,False,False,first,Copa de Brasil,2004
+2004-03-03,Guarani-SP,0,0,União Cacoalense-RO,False,False,first,Copa de Brasil,2004
+2004-02-04,Maranhão,0,5,Botafogo,False,False,first,Copa de Brasil,2004
+2004-02-04,Paranávaí-PR,0,0,Gama,False,False,first,Copa de Brasil,2004
+2004-02-18,Gama,3,0,Paranávaí-PR,False,False,first,Copa de Brasil,2004
+2004-02-04,Palmas-TO,1,2,Remo,False,False,first,Copa de Brasil,2004
+2004-02-18,Remo,1,3,Palmas-TO,False,False,first,Copa de Brasil,2004
+2004-02-04,Parnahyba-PI,2,2,Nacional-AM,False,False,first,Copa de Brasil,2004
+2004-02-18,Nacional-AM,1,1,Parnahyba-PI,False,False,first,Copa de Brasil,2004
+2004-02-04,Flamengo-PI,0,1,Vasco da Gama,False,False,first,Copa de Brasil,2004
+2004-02-18,Vasco da Gama,5,0,Flamengo-PI,False,False,first,Copa de Brasil,2004
+2004-02-18,XV de Novembro-RS,1,1,Portuguesa/San (SP),False,False,first,Copa de Brasil,2004
+2004-03-03,Portuguesa/San (SP),2,2,XV de Novembro-RS,False,False,first,Copa de Brasil,2004
+2004-02-04,Sergipe-SE,1,4,Americano,False,False,first,Copa de Brasil,2004
+2004-02-04,Atlético Roraima,1,2,Sport,False,False,first,Copa de Brasil,2004
+2004-02-18,Sport,4,0,Atlético Roraima,False,False,first,Copa de Brasil,2004
+2004-02-04,Botafogo-PB,0,2,Corinthians,False,False,first,Copa de Brasil,2004
+2004-02-04,Ferroviário-CE,4,0,América-RN,False,False,first,Copa de Brasil,2004
+2004-03-03,América-RN,1,0,Ferroviário-CE,False,False,first,Copa de Brasil,2004
+2004-02-04,Atlético Cajazeirense,0,1,Fortaleza,False,False,first,Copa de Brasil,2004
+2004-03-03,Fortaleza,2,2,Atlético Cajazeirense,False,False,first,Copa de Brasil,2004
+2004-02-18,Rio Branco-AC,1,0,Rio Negro-AM,False,False,first,Copa de Brasil,2004
+2004-03-03,Rio Negro-AM,0,1,Rio Branco-AC,False,False,first,Copa de Brasil,2004
+2004-02-18,Confiança,0,0,Internacional,False,False,first,Copa de Brasil,2004
+2004-03-03,Internacional,4,1,Confiança,False,False,first,Copa de Brasil,2004
+2004-02-04,Prudentópolis-PR,4,0,São Gonçalo-RN,False,False,first,Copa de Brasil,2004
+2004-03-04,São Gonçalo-RN,2,1,Prudentópolis-PR,False,False,first,Copa de Brasil,2004
+2004-02-18,CTE Colatina,1,2,Vitória,False,False,first,Copa de Brasil,2004
+2004-03-03,Vitória,4,0,CTE Colatina,False,False,first,Copa de Brasil,2004
+2004-02-18,Ypiranga-AP,0,0,Sampaio Corrêa-MA,False,False,first,Copa de Brasil,2004
+2004-03-03,Sampaio Corrêa-MA,4,0,Ypiranga-AP,False,False,first,Copa de Brasil,2004
+2004-02-04,SER Chapadão-MS,0,0,Grêmio,False,False,first,Copa de Brasil,2004
+2004-02-18,Grêmio,2,1,SER Chapadão-MS,False,False,first,Copa de Brasil,2004
+2004-02-04,América-RJ,0,1,Londrina,False,False,first,Copa de Brasil,2004
+2004-02-18,Londrina,1,0,América-RJ,False,False,first,Copa de Brasil,2004
+2004-02-18,Uberlândia-MG,0,3,Juventude,False,False,first,Copa de Brasil,2004
+2004-02-04,Caxias-SC,1,3,Fluminense,False,False,first,Copa de Brasil,2004
+2004-02-04,CRB,4,4,Flamengo-RJ,False,False,first,Copa de Brasil,2004
+2004-02-18,Flamengo-RJ,3,1,CRB,False,False,first,Copa de Brasil,2004
+2004-02-04,Tupi-MG,2,2,Bangu,False,False,first,Copa de Brasil,2004
+2004-02-18,Bangu,0,1,Tupi-MG,False,False,first,Copa de Brasil,2004
+2004-02-04,Barra,0,0,Santa Cruz-PE,False,False,first,Copa de Brasil,2004
+2004-02-18,CE Nova Esperança,1,0,União Agrícola Barbarense,False,False,first,Copa de Brasil,2004
+2004-03-03,União Agrícola Barbarense,1,0,CE Nova Esperança,False,False,first,Copa de Brasil,2004
+2004-03-17,São Gabriel,2,1,Palmeiras,False,False,second,Copa de Brasil,2004
+2004-04-07,Palmeiras,4,0,São Gabriel,False,False,second,Copa de Brasil,2004
+2004-03-17,Brasiliense,2,2,Goiás,False,False,second,Copa de Brasil,2004
+2004-04-07,Goiás,0,0,Brasiliense,False,False,second,Copa de Brasil,2004
+2004-03-24,Santo André,3,0,Atlético-MG,False,False,second,Copa de Brasil,2004
+2004-04-07,Atlético-MG,2,0,Santo André,False,False,second,Copa de Brasil,2004
+2004-03-17,América-MG,1,1,Guarani,False,False,second,Copa de Brasil,2004
+2004-03-24,Guarani,1,0,América-MG,False,False,second,Copa de Brasil,2004
+2004-03-24,Gama,4,4,Botafogo,False,False,second,Copa de Brasil,2004
+2004-04-07,Botafogo,2,3,Gama,False,False,second,Copa de Brasil,2004
+2004-03-17,Palmas,5,0,Nacional,False,False,second,Copa de Brasil,2004
+2004-03-24,Nacional,3,0,Palmas,False,False,second,Copa de Brasil,2004
+2004-03-17,XV de Novembro,1,1,Vasco da Gama,False,False,second,Copa de Brasil,2004
+2004-04-07,Vasco da Gama,0,3,XV de Novembro,False,False,second,Copa de Brasil,2004
+2004-03-17,Americano,2,1,Sport,False,False,second,Copa de Brasil,2004
+2004-03-24,Sport,0,0,Americano,False,False,second,Copa de Brasil,2004
+2004-03-17,Ferroviário,0,2,Corinthians,False,False,second,Copa de Brasil,2004
+2004-03-17,Rio Branco,1,1,Fortaleza,False,False,second,Copa de Brasil,2004
+2004-03-24,Fortaleza,5,1,Rio Branco,False,False,second,Copa de Brasil,2004
+2004-03-24,Prudentópolis,0,2,Internacional,False,False,second,Copa de Brasil,2004
+2004-03-17,Sampaio Corrêa-MA,1,0,Vitória,False,False,second,Copa de Brasil,2004
+2004-03-24,Vitória,3,1,Sampaio Corrêa-MA,False,False,second,Copa de Brasil,2004
+2004-03-17,Londrina,0,2,Grêmio,False,False,second,Copa de Brasil,2004
+2004-03-17,Juventude,2,2,Fluminense,False,False,second,Copa de Brasil,2004
+2004-03-24,Fluminense,2,1,Juventude,False,False,second,Copa de Brasil,2004
+2004-03-24,Tupi-MG,2,3,Flamengo,False,False,second,Copa de Brasil,2004
+2004-04-01,Flamengo,4,0,Tupi-MG,False,False,second,Copa de Brasil,2004
+2004-03-17,CENE,1,0,Santa Cruz,False,False,second,Copa de Brasil,2004
+2004-03-24,Santa Cruz,3,0,CENE,False,False,second,Copa de Brasil,2004
+2004-04-14,Goiás,1,1,Palmeiras,False,False,round16,Copa de Brasil,2004
+2004-05-05,Palmeiras,1,1,Goiás,False,False,round16,Copa de Brasil,2004
+2004-04-14,Guarani,1,1,Santo André,False,False,round16,Copa de Brasil,2004
+2004-05-05,Santo André,0,0,Guarani,False,False,round16,Copa de Brasil,2004
+2004-04-14,Palmas,1,1,Gama,False,False,round16,Copa de Brasil,2004
+2004-05-05,Gama,2,3,Palmas,False,False,round16,Copa de Brasil,2004
+2004-04-14,Americano,1,2,XV de Novembro,False,False,round16,Copa de Brasil,2004
+2004-05-05,XV de Novembro,3,2,Americano,False,False,round16,Copa de Brasil,2004
+2004-04-14,Corinthians,0,0,Fortaleza,False,False,round16,Copa de Brasil,2004
+2004-05-05,Fortaleza,1,1,Corinthians,False,False,round16,Copa de Brasil,2004
+2004-04-14,Internacional,1,1,Vitória,False,False,round16,Copa de Brasil,2004
+2004-05-05,Vitória,3,1,Internacional,False,False,round16,Copa de Brasil,2004
+2004-04-14,Fluminense,2,2,Grêmio,False,False,round16,Copa de Brasil,2004
+2004-05-05,Grêmio,4,1,Fluminense,False,False,round16,Copa de Brasil,2004
+2004-04-14,Santa Cruz,0,1,Flamengo,False,False,round16,Copa de Brasil,2004
+2004-05-05,Flamengo,1,0,Santa Cruz,False,False,round16,Copa de Brasil,2004
+2004-05-12,Santo André,3,3,Palmeiras,False,False,quarter,Copa de Brasil,2004
+2004-05-20,Palmeiras,4,4,Santo André,False,False,quarter,Copa de Brasil,2004
+2004-05-12,XV de Novembro,3,0,Palmas,False,False,quarter,Copa de Brasil,2004
+2004-05-19,Palmas,0,1,XV de Novembro,False,False,quarter,Copa de Brasil,2004
+2004-05-13,Corinthians,1,0,Vitória,False,False,quarter,Copa de Brasil,2004
+2004-05-19,Vitória,2,0,Corinthians,False,False,quarter,Copa de Brasil,2004
+2004-05-12,Grêmio,0,1,Flamengo,False,False,quarter,Copa de Brasil,2004
+2004-05-19,Flamengo,0,0,Grêmio,False,False,quarter,Copa de Brasil,2004
+2004-05-26,Santo André,3,4,XV de Novembro,False,False,semi,Copa de Brasil,2004
+2004-06-09,XV de Novembro,1,3,Santo André,False,False,semi,Copa de Brasil,2004
+2004-06-09,Vitória,0,1,Flamengo,False,False,semi,Copa de Brasil,2004
+2004-06-16,Flamengo,2,0,Vitória,False,False,semi,Copa de Brasil,2004
+2004-06-23,Santo André,2,2,Flamengo,False,False,final,Copa de Brasil,2004
+2004-06-30,Flamengo,0,2,Santo André,False,False,final,Copa de Brasil,2004

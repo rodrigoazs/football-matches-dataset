@@ -1,291 +1,291 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1996-08-08,Bahia,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-08-08,Fluminense,1,0,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-08-08,Atlético-MG,1,0,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-08-11,Sport,0,1,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-08-11,Goiás,3,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-08-11,Coritiba,2,0,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-08-08,Criciúma,1,1,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-09-18,Santos,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-09-25,Botafogo,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-09-26,Guarani,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-10-02,Internacional,4,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-10-02,São Paulo,4,1,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Vasco da Gama,1,2,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Palmeiras,0,0,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Juventude,1,0,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Vitória,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Paraná,0,0,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Corinthians,0,0,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-09-11,Cruzeiro,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-09-18,RB Bragantino,0,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,São Paulo,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-08-14,Flamengo,2,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-10-02,Atlético-PR,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-12,Grêmio,3,0,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Guarani,1,1,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Vitória,0,1,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Palmeiras,5,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Fluminense,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Goiás,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Corinthians,0,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,São Paulo,5,2,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-08-18,Atlético-PR,3,1,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-08-18,Atlético-MG,3,1,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Internacional,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Criciúma,1,3,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-08-17,Juventude,1,1,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Flamengo,0,1,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-08-21,Portuguesa-SP,2,0,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Corinthians,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Grêmio,6,1,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-08-21,Bahia,2,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-08-21,Coritiba,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Cruzeiro,2,1,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Goiás,3,1,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Palmeiras,3,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Botafogo,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Santos,1,0,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-08-20,Internacional,3,1,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Goiás,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,RB Bragantino,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Cruzeiro,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Criciúma,4,1,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Bahia,1,2,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-25,Atlético-PR,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,São Paulo,2,1,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Portuguesa-SP,3,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-08-25,Paraná,3,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-08-25,Sport,3,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Grêmio,2,2,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-08-24,Juventude,2,1,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Flamengo,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Palmeiras,4,1,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Fluminense,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Vasco da Gama,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Atlético-PR,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-08-29,Coritiba,4,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Corinthians,2,2,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Atlético-MG,2,0,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-08-28,Botafogo,0,2,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-09-26,Vitória,2,1,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-10-16,Juventude,2,3,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-10-25,RB Bragantino,3,1,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Guarani,3,1,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-08-31,Paraná,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,São Paulo,1,0,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-08-31,Flamengo,1,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Sport,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Vasco da Gama,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Vitória,2,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Botafogo,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-09-01,Coritiba,1,3,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Portuguesa-SP,2,0,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Cruzeiro,2,1,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-08-30,Internacional,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Atlético-MG,2,1,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Atlético-PR,3,1,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Bahia,2,1,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Botafogo,4,1,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,RB Bragantino,0,1,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Internacional,3,0,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Portuguesa-SP,2,2,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Santos,1,1,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,São Paulo,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-09-05,Paraná,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Corinthians,2,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-09-04,Fluminense,1,5,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Sport,3,0,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Coritiba,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Santos,1,2,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Juventude,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Flamengo,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-09-08,Atlético-PR,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Fluminense,2,1,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-09-08,Vitória,4,0,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Criciúma,0,0,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Goiás,0,0,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Cruzeiro,4,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-09-07,Grêmio,5,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Sport,6,0,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,RB Bragantino,2,3,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Bahia,1,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Internacional,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-15,Portuguesa-SP,2,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-09-15,Guarani,2,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-09-15,Paraná,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Atlético-MG,3,0,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Palmeiras,4,2,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Goiás,2,0,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Vasco da Gama,4,1,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-09-14,Botafogo,0,2,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,São Paulo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Santos,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Flamengo,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Fluminense,1,0,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Corinthians,0,1,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,RB Bragantino,0,1,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Guarani,3,2,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-09-22,Juventude,2,0,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-09-22,Atlético-PR,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Internacional,1,2,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Bahia,0,0,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-09-21,Cruzeiro,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Atlético-MG,4,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-09-29,Botafogo,5,0,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Coritiba,3,1,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-09-29,Criciúma,1,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Goiás,1,3,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Grêmio,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Palmeiras,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-09-29,Paraná,1,4,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Santos,1,2,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Sport,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-09-28,Vasco da Gama,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-09-29,Vitória,0,5,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-10-06,Atlético-PR,3,0,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Bahia,1,1,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-10-06,RB Bragantino,1,0,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-10-06,Criciúma,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Cruzeiro,2,1,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Fluminense,2,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Guarani,3,1,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Internacional,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Portuguesa-SP,1,3,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Sport,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-05,Vasco da Gama,4,1,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-23,Palmeiras,2,2,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Grêmio,3,1,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Juventude,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Palmeiras,2,1,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-10-10,São Paulo,3,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Goiás,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Santos,1,2,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Paraná,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Fluminense,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Botafogo,1,0,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Atlético-MG,1,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-10-10,Coritiba,0,1,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-10-09,Vitória,2,0,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Atlético-MG,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Atlético-PR,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-10-13,RB Bragantino,3,1,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Corinthians,3,1,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Criciúma,1,1,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-10-13,Flamengo,1,4,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Goiás,6,3,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Grêmio,1,0,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Guarani,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Portuguesa-SP,0,0,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Vasco da Gama,0,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-10-12,Vitória,1,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Santos,1,2,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Fluminense,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Botafogo,2,3,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Palmeiras,4,2,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-10-16,Criciúma,2,3,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Cruzeiro,4,0,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Internacional,0,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-10-20,Coritiba,1,0,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-10-20,Juventude,0,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Sport,0,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,Bahia,1,2,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-10-19,São Paulo,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Vitória,2,0,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Portuguesa-SP,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Vasco da Gama,2,3,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Corinthians,0,0,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,RB Bragantino,3,1,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Guarani,1,0,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-10-27,Paraná,2,0,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Atlético-PR,6,2,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Atlético-MG,4,3,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Goiás,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Flamengo,1,2,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-10-26,Grêmio,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Juventude,0,2,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,São Paulo,5,3,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Palmeiras,1,0,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-03,Fluminense,0,2,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Sport,3,2,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-11-03,Internacional,0,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Bahia,1,3,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Santos,2,2,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Guarani,0,2,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Botafogo,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-11-02,Cruzeiro,2,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-11-03,Coritiba,0,1,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-10-30,Vitória,2,1,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Flamengo,2,1,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Grêmio,4,2,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Paraná,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Portuguesa-SP,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Juventude,2,2,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,RB Bragantino,2,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Criciúma,3,0,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Atlético-PR,0,0,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-11-06,Vasco da Gama,1,2,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-11-14,Cruzeiro,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-11-13,Corinthians,0,0,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Coritiba,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Criciúma,2,1,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,São Paulo,2,1,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Botafogo,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-10-10,Atlético-MG,5,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Sport,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-11-10,Fluminense,2,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Guarani,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Santos,1,0,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-11-10,Bahia,4,2,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-11-10,Internacional,2,1,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-11-09,Goiás,4,1,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Juventude,3,5,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,RB Bragantino,3,4,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Corinthians,1,1,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Flamengo,3,1,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Vasco da Gama,4,2,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Palmeiras,2,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Portuguesa-SP,1,2,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-11-17,Santos,3,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Vitória,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-11-17,Paraná,2,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-11-17,Grêmio,0,2,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-11-16,Cruzeiro,3,1,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Criciúma,2,0,Flamengo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Fluminense,1,0,Juventude,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Botafogo,3,3,Vitória,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Bahia,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Guarani,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Internacional,2,0,Corinthians,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,São Paulo,1,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Coritiba,4,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Santos,0,3,Paraná,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Goiás,3,0,RB Bragantino,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Atlético-MG,3,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1996
-1996-11-20,Sport,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Flamengo,0,1,Bahia,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Vitória,1,3,Fluminense,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Portuguesa-SP,4,1,Botafogo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Vasco da Gama,0,2,Guarani,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Palmeiras,4,1,Sport,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Corinthians,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Paraná,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Cruzeiro,2,1,Santos,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,RB Bragantino,1,0,Internacional,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Atlético-PR,1,2,Criciúma,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Juventude,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1996
-1996-11-24,Grêmio,1,3,Goiás,False,False,first,Brasileirão Série A 2024,1996
-1996-11-27,Portuguesa-SP,3,0,Cruzeiro,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-24,Cruzeiro,1,0,Portuguesa-SP,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-27,Goiás,3,1,Guarani,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-30,Guarani,1,0,Goiás,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-27,Grêmio,3,1,Palmeiras,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-30,Palmeiras,1,0,Grêmio,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-28,Atlético-MG,3,1,Atlético-PR,False,False,quarter,Brasileirão Série A 2024,1996
-1996-11-30,Atlético-PR,1,0,Atlético-MG,False,False,quarter,Brasileirão Série A 2024,1996
-1996-12-05,Portuguesa-SP,1,0,Atlético-MG,False,False,semi,Brasileirão Série A 2024,1996
-1996-12-08,Atlético-MG,2,2,Portuguesa-SP,False,False,semi,Brasileirão Série A 2024,1996
-1996-12-05,Goiás,1,3,Grêmio,False,False,semi,Brasileirão Série A 2024,1996
-1996-12-08,Grêmio,2,2,Goiás,False,False,semi,Brasileirão Série A 2024,1996
-1996-12-11,Portuguesa-SP,2,0,Grêmio,False,False,final,Brasileirão Série A 2024,1996
-1996-12-15,Grêmio,2,0,Portuguesa-SP,False,False,final,Brasileirão Série A 2024,1996
+1996-08-08,Bahia,0,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-08-08,Fluminense,1,0,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-08-08,Atlético-MG,1,0,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-08-11,Sport,0,1,Paraná,False,False,first,Brasileirão Série A,1996
+1996-08-11,Goiás,3,1,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-08-11,Coritiba,2,0,Juventude,False,False,first,Brasileirão Série A,1996
+1996-08-08,Criciúma,1,1,Vitória,False,False,first,Brasileirão Série A,1996
+1996-09-18,Santos,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-09-25,Botafogo,1,0,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-09-26,Guarani,1,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-10-02,Internacional,4,1,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-10-02,São Paulo,4,1,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-08-14,Vasco da Gama,1,2,Sport,False,False,first,Brasileirão Série A,1996
+1996-08-14,Palmeiras,0,0,Internacional,False,False,first,Brasileirão Série A,1996
+1996-08-14,Juventude,1,0,Bahia,False,False,first,Brasileirão Série A,1996
+1996-08-14,Vitória,1,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-08-14,Paraná,0,0,Goiás,False,False,first,Brasileirão Série A,1996
+1996-08-14,Corinthians,0,0,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-09-11,Cruzeiro,2,0,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-09-18,RB Bragantino,0,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-08-14,São Paulo,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-08-14,Flamengo,2,1,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-10-02,Atlético-PR,1,0,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-11-12,Grêmio,3,0,Santos,False,False,first,Brasileirão Série A,1996
+1996-08-17,Guarani,1,1,Santos,False,False,first,Brasileirão Série A,1996
+1996-08-17,Vitória,0,1,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-08-17,Palmeiras,5,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-08-17,Fluminense,1,1,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-08-17,Goiás,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-08-17,Corinthians,0,2,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-08-17,São Paulo,5,2,Bahia,False,False,first,Brasileirão Série A,1996
+1996-08-18,Atlético-PR,3,1,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-08-18,Atlético-MG,3,1,Paraná,False,False,first,Brasileirão Série A,1996
+1996-08-17,Internacional,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-08-17,Criciúma,1,3,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-08-17,Juventude,1,1,Sport,False,False,first,Brasileirão Série A,1996
+1996-08-20,Flamengo,0,1,Juventude,False,False,first,Brasileirão Série A,1996
+1996-08-21,Portuguesa-SP,2,0,Paraná,False,False,first,Brasileirão Série A,1996
+1996-08-20,Corinthians,1,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-08-20,Grêmio,6,1,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-08-21,Bahia,2,0,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-08-21,Coritiba,1,0,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-08-20,Cruzeiro,2,1,Vitória,False,False,first,Brasileirão Série A,1996
+1996-08-20,Goiás,3,1,Sport,False,False,first,Brasileirão Série A,1996
+1996-08-20,Palmeiras,3,1,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-08-20,Botafogo,1,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-08-20,Santos,1,0,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-08-20,Internacional,3,1,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-08-24,Goiás,0,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-08-24,RB Bragantino,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-08-24,Cruzeiro,2,1,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-08-24,Criciúma,4,1,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-08-24,Bahia,1,2,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-08-25,Atlético-PR,0,1,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-08-24,São Paulo,2,1,Santos,False,False,first,Brasileirão Série A,1996
+1996-08-24,Portuguesa-SP,3,1,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-08-25,Paraná,3,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-08-25,Sport,3,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-08-24,Grêmio,2,2,Vitória,False,False,first,Brasileirão Série A,1996
+1996-08-24,Juventude,2,1,Internacional,False,False,first,Brasileirão Série A,1996
+1996-08-28,Flamengo,0,1,Guarani,False,False,first,Brasileirão Série A,1996
+1996-08-28,Palmeiras,4,1,Paraná,False,False,first,Brasileirão Série A,1996
+1996-08-28,Fluminense,1,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-08-28,Vasco da Gama,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-08-28,Atlético-PR,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-08-29,Coritiba,4,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-08-28,Corinthians,2,2,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-08-28,Atlético-MG,2,0,Internacional,False,False,first,Brasileirão Série A,1996
+1996-08-28,Botafogo,0,2,Santos,False,False,first,Brasileirão Série A,1996
+1996-09-26,Vitória,2,1,Goiás,False,False,first,Brasileirão Série A,1996
+1996-10-16,Juventude,2,3,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-10-25,RB Bragantino,3,1,Sport,False,False,first,Brasileirão Série A,1996
+1996-08-30,Guarani,3,1,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-08-31,Paraná,0,1,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-08-30,São Paulo,1,0,Goiás,False,False,first,Brasileirão Série A,1996
+1996-08-31,Flamengo,1,0,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-08-30,Sport,1,0,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-08-30,Vasco da Gama,1,1,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-08-30,Vitória,2,1,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-08-30,Botafogo,0,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-09-01,Coritiba,1,3,Santos,False,False,first,Brasileirão Série A,1996
+1996-08-30,Portuguesa-SP,2,0,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-08-30,Cruzeiro,2,1,Juventude,False,False,first,Brasileirão Série A,1996
+1996-08-30,Internacional,1,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-09-04,Atlético-MG,2,1,Goiás,False,False,first,Brasileirão Série A,1996
+1996-09-04,Atlético-PR,3,1,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-09-04,Bahia,2,1,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-09-04,Botafogo,4,1,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-09-04,RB Bragantino,0,1,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-09-04,Internacional,3,0,Sport,False,False,first,Brasileirão Série A,1996
+1996-09-04,Portuguesa-SP,2,2,Vitória,False,False,first,Brasileirão Série A,1996
+1996-09-04,Santos,1,1,Juventude,False,False,first,Brasileirão Série A,1996
+1996-09-04,São Paulo,0,1,Guarani,False,False,first,Brasileirão Série A,1996
+1996-09-05,Paraná,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-09-04,Corinthians,2,1,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-09-04,Fluminense,1,5,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-09-07,Sport,3,0,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-09-07,Coritiba,1,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-09-07,Santos,1,2,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-09-07,Juventude,0,1,Guarani,False,False,first,Brasileirão Série A,1996
+1996-09-07,Flamengo,1,1,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-09-08,Atlético-PR,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-09-07,Fluminense,2,1,Internacional,False,False,first,Brasileirão Série A,1996
+1996-09-08,Vitória,4,0,Paraná,False,False,first,Brasileirão Série A,1996
+1996-09-07,Criciúma,0,0,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-09-07,Goiás,0,0,Bahia,False,False,first,Brasileirão Série A,1996
+1996-09-07,Cruzeiro,4,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-09-07,Grêmio,5,0,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-09-14,Sport,6,0,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-09-14,RB Bragantino,2,3,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-09-14,Bahia,1,2,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-09-14,Internacional,1,0,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-09-15,Portuguesa-SP,2,0,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-09-15,Guarani,2,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-09-15,Paraná,0,0,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-09-14,Atlético-MG,3,0,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-09-14,Palmeiras,4,2,Juventude,False,False,first,Brasileirão Série A,1996
+1996-09-14,Goiás,2,0,Santos,False,False,first,Brasileirão Série A,1996
+1996-09-14,Vasco da Gama,4,1,Vitória,False,False,first,Brasileirão Série A,1996
+1996-09-14,Botafogo,0,2,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-09-21,São Paulo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-09-21,Santos,0,1,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-09-21,Flamengo,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-09-21,Fluminense,1,0,Goiás,False,False,first,Brasileirão Série A,1996
+1996-09-21,Corinthians,0,1,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-09-21,RB Bragantino,0,1,Vitória,False,False,first,Brasileirão Série A,1996
+1996-09-21,Guarani,3,2,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-09-22,Juventude,2,0,Paraná,False,False,first,Brasileirão Série A,1996
+1996-09-22,Atlético-PR,1,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-09-21,Internacional,1,2,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-09-21,Bahia,0,0,Sport,False,False,first,Brasileirão Série A,1996
+1996-09-21,Cruzeiro,0,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-09-28,Atlético-MG,4,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-09-29,Botafogo,5,0,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-09-28,Coritiba,3,1,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-09-29,Criciúma,1,2,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-09-28,Goiás,1,3,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-09-28,Grêmio,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-09-28,Palmeiras,2,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-09-29,Paraná,1,4,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-09-28,Santos,1,2,Internacional,False,False,first,Brasileirão Série A,1996
+1996-09-28,Sport,1,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-09-28,Vasco da Gama,0,0,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-09-29,Vitória,0,5,Juventude,False,False,first,Brasileirão Série A,1996
+1996-10-06,Atlético-PR,3,0,Vitória,False,False,first,Brasileirão Série A,1996
+1996-10-05,Bahia,1,1,Santos,False,False,first,Brasileirão Série A,1996
+1996-10-06,RB Bragantino,1,0,Paraná,False,False,first,Brasileirão Série A,1996
+1996-10-06,Criciúma,0,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-10-05,Cruzeiro,2,1,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-10-05,Fluminense,2,2,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-10-05,Guarani,3,1,Goiás,False,False,first,Brasileirão Série A,1996
+1996-10-05,Internacional,1,1,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-10-05,Portuguesa-SP,1,3,Juventude,False,False,first,Brasileirão Série A,1996
+1996-10-05,Sport,2,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-10-05,Vasco da Gama,4,1,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-10-23,Palmeiras,2,2,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-10-09,Grêmio,3,1,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-10-09,Juventude,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-10-09,Palmeiras,2,1,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-10-10,São Paulo,3,3,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-10-09,Goiás,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-10-09,Santos,1,2,Sport,False,False,first,Brasileirão Série A,1996
+1996-10-09,Paraná,2,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-10-09,Fluminense,1,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-10-09,Botafogo,1,0,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-10-09,Atlético-MG,1,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-10-10,Coritiba,0,1,Internacional,False,False,first,Brasileirão Série A,1996
+1996-10-09,Vitória,2,0,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-10-12,Atlético-MG,2,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-10-12,Atlético-PR,2,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-10-13,RB Bragantino,3,1,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-10-12,Corinthians,3,1,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-10-12,Criciúma,1,1,Santos,False,False,first,Brasileirão Série A,1996
+1996-10-13,Flamengo,1,4,Paraná,False,False,first,Brasileirão Série A,1996
+1996-10-12,Goiás,6,3,Internacional,False,False,first,Brasileirão Série A,1996
+1996-10-12,Grêmio,1,0,Juventude,False,False,first,Brasileirão Série A,1996
+1996-10-12,Guarani,2,0,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-10-12,Portuguesa-SP,0,0,Sport,False,False,first,Brasileirão Série A,1996
+1996-10-12,Vasco da Gama,0,1,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-10-12,Vitória,1,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-10-19,Santos,1,2,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-10-19,Fluminense,3,2,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-10-19,Botafogo,2,3,Goiás,False,False,first,Brasileirão Série A,1996
+1996-10-19,Palmeiras,4,2,Vitória,False,False,first,Brasileirão Série A,1996
+1996-10-16,Criciúma,2,3,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-10-19,Cruzeiro,4,0,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-10-19,Internacional,0,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-10-20,Coritiba,1,0,Paraná,False,False,first,Brasileirão Série A,1996
+1996-10-20,Juventude,0,2,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-10-19,Sport,0,0,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-10-19,Bahia,1,2,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-10-19,São Paulo,0,0,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-10-26,Vitória,2,0,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-10-26,Portuguesa-SP,2,0,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-10-26,Vasco da Gama,2,3,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-10-26,Corinthians,0,0,Santos,False,False,first,Brasileirão Série A,1996
+1996-10-26,RB Bragantino,3,1,Juventude,False,False,first,Brasileirão Série A,1996
+1996-10-26,Guarani,1,0,Bahia,False,False,first,Brasileirão Série A,1996
+1996-10-27,Paraná,2,0,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-10-26,Atlético-PR,6,2,Sport,False,False,first,Brasileirão Série A,1996
+1996-10-26,Atlético-MG,4,3,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-10-26,Goiás,1,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-10-26,Flamengo,1,2,Internacional,False,False,first,Brasileirão Série A,1996
+1996-10-26,Grêmio,1,1,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-11-02,Juventude,0,2,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-11-02,São Paulo,5,3,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-11-02,Palmeiras,1,0,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-11-03,Fluminense,0,2,Paraná,False,False,first,Brasileirão Série A,1996
+1996-11-02,Sport,3,2,Vitória,False,False,first,Brasileirão Série A,1996
+1996-11-03,Internacional,0,2,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-11-02,Bahia,1,3,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-11-02,Santos,2,2,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-11-02,Guarani,0,2,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-11-02,Botafogo,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-11-02,Cruzeiro,2,1,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-11-03,Coritiba,0,1,Goiás,False,False,first,Brasileirão Série A,1996
+1996-10-30,Vitória,2,1,Internacional,False,False,first,Brasileirão Série A,1996
+1996-11-06,Flamengo,2,1,Sport,False,False,first,Brasileirão Série A,1996
+1996-11-06,Grêmio,4,2,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-11-06,Paraná,1,1,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-11-06,Portuguesa-SP,1,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-11-06,Juventude,2,2,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-11-06,RB Bragantino,2,2,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-11-06,Criciúma,3,0,Goiás,False,False,first,Brasileirão Série A,1996
+1996-11-06,Atlético-PR,0,0,Guarani,False,False,first,Brasileirão Série A,1996
+1996-11-06,Vasco da Gama,1,2,Santos,False,False,first,Brasileirão Série A,1996
+1996-11-14,Cruzeiro,0,0,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-11-13,Corinthians,0,0,Bahia,False,False,first,Brasileirão Série A,1996
+1996-11-09,Coritiba,0,0,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-11-09,Criciúma,2,1,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-11-09,São Paulo,2,1,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-11-09,Botafogo,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-10-10,Atlético-MG,5,1,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-11-09,Sport,0,0,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-11-10,Fluminense,2,3,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-11-09,Guarani,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-11-09,Santos,1,0,Vitória,False,False,first,Brasileirão Série A,1996
+1996-11-10,Bahia,4,2,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-11-10,Internacional,2,1,Paraná,False,False,first,Brasileirão Série A,1996
+1996-11-09,Goiás,4,1,Juventude,False,False,first,Brasileirão Série A,1996
+1996-11-16,Juventude,3,5,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-11-16,RB Bragantino,3,4,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-11-16,Corinthians,1,1,Goiás,False,False,first,Brasileirão Série A,1996
+1996-11-16,Flamengo,3,1,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-11-16,Vasco da Gama,4,2,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-11-16,Palmeiras,2,0,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-11-16,Portuguesa-SP,1,2,Internacional,False,False,first,Brasileirão Série A,1996
+1996-11-17,Santos,3,2,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-11-16,Vitória,0,1,Guarani,False,False,first,Brasileirão Série A,1996
+1996-11-17,Paraná,2,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-11-17,Grêmio,0,2,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-11-16,Cruzeiro,3,1,Sport,False,False,first,Brasileirão Série A,1996
+1996-11-20,Criciúma,2,0,Flamengo,False,False,first,Brasileirão Série A,1996
+1996-11-20,Fluminense,1,0,Juventude,False,False,first,Brasileirão Série A,1996
+1996-11-20,Botafogo,3,3,Vitória,False,False,first,Brasileirão Série A,1996
+1996-11-20,Bahia,3,2,Vasco da Gama,False,False,first,Brasileirão Série A,1996
+1996-11-20,Guarani,1,0,Palmeiras,False,False,first,Brasileirão Série A,1996
+1996-11-20,Internacional,2,0,Corinthians,False,False,first,Brasileirão Série A,1996
+1996-11-20,São Paulo,1,0,Cruzeiro,False,False,first,Brasileirão Série A,1996
+1996-11-20,Coritiba,4,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1996
+1996-11-20,Santos,0,3,Paraná,False,False,first,Brasileirão Série A,1996
+1996-11-20,Goiás,3,0,RB Bragantino,False,False,first,Brasileirão Série A,1996
+1996-11-20,Atlético-MG,3,2,Atlético-PR,False,False,first,Brasileirão Série A,1996
+1996-11-20,Sport,1,0,Grêmio,False,False,first,Brasileirão Série A,1996
+1996-11-24,Flamengo,0,1,Bahia,False,False,first,Brasileirão Série A,1996
+1996-11-24,Vitória,1,3,Fluminense,False,False,first,Brasileirão Série A,1996
+1996-11-24,Portuguesa-SP,4,1,Botafogo,False,False,first,Brasileirão Série A,1996
+1996-11-24,Vasco da Gama,0,2,Guarani,False,False,first,Brasileirão Série A,1996
+1996-11-24,Palmeiras,4,1,Sport,False,False,first,Brasileirão Série A,1996
+1996-11-24,Corinthians,1,1,Coritiba,False,False,first,Brasileirão Série A,1996
+1996-11-24,Paraná,1,1,São Paulo,False,False,first,Brasileirão Série A,1996
+1996-11-24,Cruzeiro,2,1,Santos,False,False,first,Brasileirão Série A,1996
+1996-11-24,RB Bragantino,1,0,Internacional,False,False,first,Brasileirão Série A,1996
+1996-11-24,Atlético-PR,1,2,Criciúma,False,False,first,Brasileirão Série A,1996
+1996-11-24,Juventude,1,0,Atlético-MG,False,False,first,Brasileirão Série A,1996
+1996-11-24,Grêmio,1,3,Goiás,False,False,first,Brasileirão Série A,1996
+1996-11-27,Portuguesa-SP,3,0,Cruzeiro,False,False,quarter,Brasileirão Série A,1996
+1996-11-24,Cruzeiro,1,0,Portuguesa-SP,False,False,quarter,Brasileirão Série A,1996
+1996-11-27,Goiás,3,1,Guarani,False,False,quarter,Brasileirão Série A,1996
+1996-11-30,Guarani,1,0,Goiás,False,False,quarter,Brasileirão Série A,1996
+1996-11-27,Grêmio,3,1,Palmeiras,False,False,quarter,Brasileirão Série A,1996
+1996-11-30,Palmeiras,1,0,Grêmio,False,False,quarter,Brasileirão Série A,1996
+1996-11-28,Atlético-MG,3,1,Atlético-PR,False,False,quarter,Brasileirão Série A,1996
+1996-11-30,Atlético-PR,1,0,Atlético-MG,False,False,quarter,Brasileirão Série A,1996
+1996-12-05,Portuguesa-SP,1,0,Atlético-MG,False,False,semi,Brasileirão Série A,1996
+1996-12-08,Atlético-MG,2,2,Portuguesa-SP,False,False,semi,Brasileirão Série A,1996
+1996-12-05,Goiás,1,3,Grêmio,False,False,semi,Brasileirão Série A,1996
+1996-12-08,Grêmio,2,2,Goiás,False,False,semi,Brasileirão Série A,1996
+1996-12-11,Portuguesa-SP,2,0,Grêmio,False,False,final,Brasileirão Série A,1996
+1996-12-15,Grêmio,2,0,Portuguesa-SP,False,False,final,Brasileirão Série A,1996

@@ -1,71 +1,71 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1996-02-06,Ferrovia-CE,0,1,Goiás,False,False,first,brasileirao-serie-a,1996
-1996-02-13,Goiás,2,0,Ferrovia-CE,False,False,first,brasileirao-serie-a,1996
-1996-02-07,União Atlético Clube,2,1,Vila Nova-GO,False,False,first,brasileirao-serie-a,1996
-1996-02-14,Vila Nova-GO,1,0,União Atlético Clube,False,False,first,brasileirao-serie-a,1996
-1996-02-06,Cristal,0,1,Santa Cruz-PE,False,False,first,brasileirao-serie-a,1996
-1996-02-27,Santa Cruz-PE,3,1,Cristal,False,False,first,brasileirao-serie-a,1996
-1996-02-06,Maranhão,0,0,Vitória,False,False,first,brasileirao-serie-a,1996
-1996-02-28,Vitória,3,1,Maranhão,False,False,first,brasileirao-serie-a,1996
-1996-02-14,Atletico-RR,1,3,Juventus-AC,False,False,first,brasileirao-serie-a,1996
-1996-02-14,Nacional-AM,1,3,América-MG,False,False,first,brasileirao-serie-a,1996
-1996-02-14,Gama,0,1,Bahia,False,False,first,brasileirao-serie-a,1996
-1996-02-28,Bahia,2,1,Gama,False,False,first,brasileirao-serie-a,1996
-1996-02-14,Ji-Paraná,1,1,Atletico-PR,False,False,first,brasileirao-serie-a,1996
-1996-02-28,Atletico-PR,3,0,Ji-Paraná,False,False,first,brasileirao-serie-a,1996
-1996-02-13,Santa Cruz-PB,0,2,Vasco da Gama,False,False,first,brasileirao-serie-a,1996
-1996-02-27,ABC,0,4,Corinthians,False,False,first,brasileirao-serie-a,1996
-1996-02-28,Sergipe,0,8,Palmeiras,False,False,first,brasileirao-serie-a,1996
-1996-02-06,Operário-MS,0,1,Grêmio,False,False,first,brasileirao-serie-a,1996
-1996-03-05,Grêmio,3,1,Operário-MS,False,False,first,brasileirao-serie-a,1996
-1996-02-20,CRB,1,4,Fluminense,False,False,first,brasileirao-serie-a,1996
-1996-02-14,Linhares-ES,0,1,Flamengo,False,False,first,brasileirao-serie-a,1996
-1996-03-07,Flamengo,4,1,Linhares-ES,False,False,first,brasileirao-serie-a,1996
-1996-03-05,Goiás,2,1,Criciúma,False,False,first,brasileirao-serie-a,1996
-1996-03-13,Criciúma,3,0,Goiás,False,False,first,brasileirao-serie-a,1996
-1996-03-12,América-MG,1,2,São Paulo,False,False,first,brasileirao-serie-a,1996
-1996-03-19,São Paulo,4,1,América-MG,False,False,first,brasileirao-serie-a,1996
-1996-03-20,Operário-MT,0,2,Internacional,False,False,first,brasileirao-serie-a,1996
-1996-03-13,Juventus-AC,1,1,Cruzeiro,False,False,first,brasileirao-serie-a,1996
-1996-03-20,Cruzeiro,4,0,Juventus-AC,False,False,first,brasileirao-serie-a,1996
-1996-03-07,Remo,1,1,Santa Cruz-PE,False,False,first,brasileirao-serie-a,1996
-1996-03-20,Santa Cruz-PE,0,1,Remo,False,False,first,brasileirao-serie-a,1996
-1996-03-19,Vila Nova-GO,0,1,Atletico-MG,False,False,first,brasileirao-serie-a,1996
-1996-03-26,Atletico-MG,4,1,Vila Nova-GO,False,False,first,brasileirao-serie-a,1996
-1996-03-05,Cori-Sabba,1,0,Botafogo,False,False,first,brasileirao-serie-a,1996
-1996-03-29,Botafogo,3,0,Cori-Sabba,False,False,first,brasileirao-serie-a,1996
-1996-03-05,Atletico-PR,3,0,Santos,False,False,first,brasileirao-serie-a,1996
-1996-03-12,Santos,1,1,Atletico-PR,False,False,first,brasileirao-serie-a,1996
-1996-03-05,Vitória,0,0,Paraná,False,False,first,brasileirao-serie-a,1996
-1996-03-27,Paraná,1,0,Vitória,False,False,first,brasileirao-serie-a,1996
-1996-03-06,Bahia,0,0,Coritiba,False,False,first,brasileirao-serie-a,1996
-1996-03-14,Coritiba,3,1,Bahia,False,False,first,brasileirao-serie-a,1996
-1996-04-02,Internacional,1,1,São Paulo,False,False,round16,brasileirao-serie-a,1996
-1996-03-28,Vasco da Gama,2,6,Cruzeiro,False,False,round16,brasileirao-serie-a,1996
-1996-04-17,Cruzeiro,1,1,Vasco da Gama,False,False,round16,brasileirao-serie-a,1996
-1996-04-05,Corinthians,0,0,Remo,False,False,round16,brasileirao-serie-a,1996
-1996-04-09,Remo,1,1,Corinthians,False,False,round16,brasileirao-serie-a,1996
-1996-04-03,Fluminense,2,1,Criciúma,False,False,round16,brasileirao-serie-a,1996
-1996-04-10,Criciúma,3,1,Fluminense,False,False,round16,brasileirao-serie-a,1996
-1996-04-03,Atletico-MG,1,2,Palmeiras,False,False,round16,brasileirao-serie-a,1996
-1996-04-16,Palmeiras,5,0,Atletico-MG,False,False,round16,brasileirao-serie-a,1996
-1996-03-26,Atletico-PR,1,1,Grêmio,False,False,round16,brasileirao-serie-a,1996
-1996-04-19,Grêmio,3,0,Atletico-PR,False,False,round16,brasileirao-serie-a,1996
-1996-03-28,Coritiba,1,2,Flamengo,False,False,round16,brasileirao-serie-a,1996
-1996-04-17,Flamengo,0,0,Coritiba,False,False,round16,brasileirao-serie-a,1996
-1996-04-16,Botafogo,0,0,Paraná,False,False,round16,brasileirao-serie-a,1996
-1996-04-23,Paraná,0,0,Botafogo,False,False,round16,brasileirao-serie-a,1996
-1996-05-09,Internacional,3,2,Flamengo,False,False,quarter,brasileirao-serie-a,1996
-1996-05-16,Flamengo,3,1,Internacional,False,False,quarter,brasileirao-serie-a,1996
-1996-04-24,Cruzeiro,4,0,Corinthians,False,False,quarter,brasileirao-serie-a,1996
-1996-05-03,Corinthians,3,2,Cruzeiro,False,False,quarter,brasileirao-serie-a,1996
-1996-04-03,Criciúma,1,1,Grêmio,False,False,quarter,brasileirao-serie-a,1996
-1996-04-03,Grêmio,2,0,Criciúma,False,False,quarter,brasileirao-serie-a,1996
-1996-05-07,Palmeiras,2,0,Paraná,False,False,quarter,brasileirao-serie-a,1996
-1996-05-14,Paraná,1,3,Palmeiras,False,False,quarter,brasileirao-serie-a,1996
-1996-05-28,Flamengo,1,1,Cruzeiro,False,False,semi,brasileirao-serie-a,1996
-1996-06-05,Cruzeiro,0,0,Flamengo,False,False,semi,brasileirao-serie-a,1996
-1996-05-29,Palmeiras,3,1,Grêmio,False,False,semi,brasileirao-serie-a,1996
-1996-06-05,Grêmio,2,1,Palmeiras,False,False,semi,brasileirao-serie-a,1996
-1996-06-14,Cruzeiro,1,1,Palmeiras,False,False,final,brasileirao-serie-a,1996
-1996-06-19,Palmeiras,1,2,Cruzeiro,False,False,final,brasileirao-serie-a,1996
+1996-02-06,Ferrovia-CE,0,1,Goiás,False,False,first,Copa de Brasil,1996
+1996-02-13,Goiás,2,0,Ferrovia-CE,False,False,first,Copa de Brasil,1996
+1996-02-07,União Atlético Clube,2,1,Vila Nova-GO,False,False,first,Copa de Brasil,1996
+1996-02-14,Vila Nova-GO,1,0,União Atlético Clube,False,False,first,Copa de Brasil,1996
+1996-02-06,Cristal,0,1,Santa Cruz-PE,False,False,first,Copa de Brasil,1996
+1996-02-27,Santa Cruz-PE,3,1,Cristal,False,False,first,Copa de Brasil,1996
+1996-02-06,Maranhão,0,0,Vitória,False,False,first,Copa de Brasil,1996
+1996-02-28,Vitória,3,1,Maranhão,False,False,first,Copa de Brasil,1996
+1996-02-14,Atletico-RR,1,3,Juventus-AC,False,False,first,Copa de Brasil,1996
+1996-02-14,Nacional-AM,1,3,América-MG,False,False,first,Copa de Brasil,1996
+1996-02-14,Gama,0,1,Bahia,False,False,first,Copa de Brasil,1996
+1996-02-28,Bahia,2,1,Gama,False,False,first,Copa de Brasil,1996
+1996-02-14,Ji-Paraná,1,1,Atletico-PR,False,False,first,Copa de Brasil,1996
+1996-02-28,Atletico-PR,3,0,Ji-Paraná,False,False,first,Copa de Brasil,1996
+1996-02-13,Santa Cruz-PB,0,2,Vasco da Gama,False,False,first,Copa de Brasil,1996
+1996-02-27,ABC,0,4,Corinthians,False,False,first,Copa de Brasil,1996
+1996-02-28,Sergipe,0,8,Palmeiras,False,False,first,Copa de Brasil,1996
+1996-02-06,Operário-MS,0,1,Grêmio,False,False,first,Copa de Brasil,1996
+1996-03-05,Grêmio,3,1,Operário-MS,False,False,first,Copa de Brasil,1996
+1996-02-20,CRB,1,4,Fluminense,False,False,first,Copa de Brasil,1996
+1996-02-14,Linhares-ES,0,1,Flamengo,False,False,first,Copa de Brasil,1996
+1996-03-07,Flamengo,4,1,Linhares-ES,False,False,first,Copa de Brasil,1996
+1996-03-05,Goiás,2,1,Criciúma,False,False,first,Copa de Brasil,1996
+1996-03-13,Criciúma,3,0,Goiás,False,False,first,Copa de Brasil,1996
+1996-03-12,América-MG,1,2,São Paulo,False,False,first,Copa de Brasil,1996
+1996-03-19,São Paulo,4,1,América-MG,False,False,first,Copa de Brasil,1996
+1996-03-20,Operário-MT,0,2,Internacional,False,False,first,Copa de Brasil,1996
+1996-03-13,Juventus-AC,1,1,Cruzeiro,False,False,first,Copa de Brasil,1996
+1996-03-20,Cruzeiro,4,0,Juventus-AC,False,False,first,Copa de Brasil,1996
+1996-03-07,Remo,1,1,Santa Cruz-PE,False,False,first,Copa de Brasil,1996
+1996-03-20,Santa Cruz-PE,0,1,Remo,False,False,first,Copa de Brasil,1996
+1996-03-19,Vila Nova-GO,0,1,Atletico-MG,False,False,first,Copa de Brasil,1996
+1996-03-26,Atletico-MG,4,1,Vila Nova-GO,False,False,first,Copa de Brasil,1996
+1996-03-05,Cori-Sabba,1,0,Botafogo,False,False,first,Copa de Brasil,1996
+1996-03-29,Botafogo,3,0,Cori-Sabba,False,False,first,Copa de Brasil,1996
+1996-03-05,Atletico-PR,3,0,Santos,False,False,first,Copa de Brasil,1996
+1996-03-12,Santos,1,1,Atletico-PR,False,False,first,Copa de Brasil,1996
+1996-03-05,Vitória,0,0,Paraná,False,False,first,Copa de Brasil,1996
+1996-03-27,Paraná,1,0,Vitória,False,False,first,Copa de Brasil,1996
+1996-03-06,Bahia,0,0,Coritiba,False,False,first,Copa de Brasil,1996
+1996-03-14,Coritiba,3,1,Bahia,False,False,first,Copa de Brasil,1996
+1996-04-02,Internacional,1,1,São Paulo,False,False,round16,Copa de Brasil,1996
+1996-03-28,Vasco da Gama,2,6,Cruzeiro,False,False,round16,Copa de Brasil,1996
+1996-04-17,Cruzeiro,1,1,Vasco da Gama,False,False,round16,Copa de Brasil,1996
+1996-04-05,Corinthians,0,0,Remo,False,False,round16,Copa de Brasil,1996
+1996-04-09,Remo,1,1,Corinthians,False,False,round16,Copa de Brasil,1996
+1996-04-03,Fluminense,2,1,Criciúma,False,False,round16,Copa de Brasil,1996
+1996-04-10,Criciúma,3,1,Fluminense,False,False,round16,Copa de Brasil,1996
+1996-04-03,Atletico-MG,1,2,Palmeiras,False,False,round16,Copa de Brasil,1996
+1996-04-16,Palmeiras,5,0,Atletico-MG,False,False,round16,Copa de Brasil,1996
+1996-03-26,Atletico-PR,1,1,Grêmio,False,False,round16,Copa de Brasil,1996
+1996-04-19,Grêmio,3,0,Atletico-PR,False,False,round16,Copa de Brasil,1996
+1996-03-28,Coritiba,1,2,Flamengo,False,False,round16,Copa de Brasil,1996
+1996-04-17,Flamengo,0,0,Coritiba,False,False,round16,Copa de Brasil,1996
+1996-04-16,Botafogo,0,0,Paraná,False,False,round16,Copa de Brasil,1996
+1996-04-23,Paraná,0,0,Botafogo,False,False,round16,Copa de Brasil,1996
+1996-05-09,Internacional,3,2,Flamengo,False,False,quarter,Copa de Brasil,1996
+1996-05-16,Flamengo,3,1,Internacional,False,False,quarter,Copa de Brasil,1996
+1996-04-24,Cruzeiro,4,0,Corinthians,False,False,quarter,Copa de Brasil,1996
+1996-05-03,Corinthians,3,2,Cruzeiro,False,False,quarter,Copa de Brasil,1996
+1996-04-03,Criciúma,1,1,Grêmio,False,False,quarter,Copa de Brasil,1996
+1996-04-03,Grêmio,2,0,Criciúma,False,False,quarter,Copa de Brasil,1996
+1996-05-07,Palmeiras,2,0,Paraná,False,False,quarter,Copa de Brasil,1996
+1996-05-14,Paraná,1,3,Palmeiras,False,False,quarter,Copa de Brasil,1996
+1996-05-28,Flamengo,1,1,Cruzeiro,False,False,semi,Copa de Brasil,1996
+1996-06-05,Cruzeiro,0,0,Flamengo,False,False,semi,Copa de Brasil,1996
+1996-05-29,Palmeiras,3,1,Grêmio,False,False,semi,Copa de Brasil,1996
+1996-06-05,Grêmio,2,1,Palmeiras,False,False,semi,Copa de Brasil,1996
+1996-06-14,Cruzeiro,1,1,Palmeiras,False,False,final,Copa de Brasil,1996
+1996-06-19,Palmeiras,1,2,Cruzeiro,False,False,final,Copa de Brasil,1996

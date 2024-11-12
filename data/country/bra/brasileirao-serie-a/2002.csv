@@ -1,340 +1,340 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2002-08-10,Vasco da Gama,2,0,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-10,São Paulo,4,2,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-08-10,Paraná,2,1,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-08-10,Santos,2,1,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-10,Goiás,3,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Fluminense,5,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Palmeiras,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Atlético-MG,1,2,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Internacional,1,3,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Guarani,2,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Coritiba,1,0,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Bahia,1,0,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-11,Juventude,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,São Caetano,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Botafogo,1,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Cruzeiro,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Grêmio,3,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Atlético-PR,4,0,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Figueirense,0,0,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Ponte Preta-SP,2,0,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Vitória,4,1,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Corinthians,3,2,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Flamengo,0,0,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Portuguesa-SP,1,0,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-08-14,Gama,0,1,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-17,Fluminense,3,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-08-17,Internacional,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-08-17,Atlético-PR,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Juventude,2,1,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Guarani,1,4,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Flamengo,1,1,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Paraná,2,3,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Cruzeiro,0,0,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Portuguesa-SP,0,0,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Bahia,1,2,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,Gama,2,1,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-08-18,São Caetano,3,0,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Botafogo,2,2,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,São Paulo,0,1,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Atlético-MG,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Paysandu,1,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Coritiba,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Vitória,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Goiás,1,1,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-08-21,Santos,3,0,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-22,Vasco da Gama,0,1,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-22,Palmeiras,3,2,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-08-22,Grêmio,0,2,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-08-22,Ponte Preta-SP,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-08-24,Flamengo,1,2,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-08-24,Internacional,2,2,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-24,Figueirense,0,3,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Palmeiras,0,4,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Fluminense,1,1,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Coritiba,1,2,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Portuguesa-SP,1,0,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Cruzeiro,2,1,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Vitória,2,1,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Ponte Preta-SP,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-08-25,Goiás,2,4,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Guarani,1,1,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Juventude,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Santos,2,1,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Gama,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Atlético-PR,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Corinthians,1,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-08-28,Bahia,1,2,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-29,São Paulo,2,0,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-08-29,Grêmio,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-08-29,Atlético-MG,2,1,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-08-31,Coritiba,2,0,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-08-31,Botafogo,1,0,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-08-31,Corinthians,0,3,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-08-31,Internacional,3,0,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Flamengo,1,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,São Paulo,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Atlético-MG,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Paraná,5,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Vitória,5,1,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Ponte Preta-SP,0,1,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Juventude,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-01,Goiás,1,2,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Vasco da Gama,1,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Flamengo,5,2,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Palmeiras,2,2,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Cruzeiro,3,1,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Atlético-PR,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Paysandu,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Bahia,3,2,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,Gama,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-04,São Caetano,2,1,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-09-05,Portuguesa-SP,0,2,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-09-05,Santos,3,0,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-09-07,Vasco da Gama,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-09-07,Palmeiras,2,2,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-07,São Caetano,3,0,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-07,Atlético-MG,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-07,Goiás,2,2,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Fluminense,4,3,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Santos,2,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Grêmio,4,0,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Paraná,3,0,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Vitória,0,0,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Juventude,2,1,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-09-08,Guarani,2,0,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Flamengo,3,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Portuguesa-SP,3,2,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Internacional,3,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Coritiba,4,2,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Bahia,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Ponte Preta-SP,1,0,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Figueirense,0,2,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-09-11,Paysandu,2,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-12,Botafogo,0,4,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-09-12,Corinthians,3,0,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-09-12,Cruzeiro,0,2,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-09-12,Gama,1,2,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-09-14,Internacional,2,4,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-09-14,Santos,2,0,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-09-14,Paraná,2,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-09-14,Palmeiras,1,2,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,São Paulo,6,0,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,Coritiba,3,1,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,Botafogo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,Guarani,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,São Caetano,4,0,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,Vitória,4,3,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,Juventude,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-09-15,Cruzeiro,3,1,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Vasco da Gama,1,2,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Portuguesa-SP,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Goiás,3,0,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Figueirense,3,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Paysandu,1,1,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Atlético-PR,1,3,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Bahia,2,0,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-18,Ponte Preta-SP,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-09-19,Grêmio,2,0,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-09-19,Corinthians,2,1,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-09-19,Atlético-MG,4,1,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-09-21,Botafogo,0,2,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-09-21,Portuguesa-SP,0,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-09-21,Figueirense,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-09-21,Santos,1,1,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Vasco da Gama,1,1,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Corinthians,2,1,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Atlético-MG,0,3,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Atlético-PR,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Paysandu,4,3,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Guarani,0,0,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,São Caetano,1,0,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-09-22,Grêmio,4,0,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,São Paulo,1,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Cruzeiro,4,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Internacional,1,0,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Fluminense,0,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Paraná,1,2,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Vitória,2,2,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Ponte Preta-SP,3,2,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-09-25,Juventude,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-09-26,Gama,0,0,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-09-26,Coritiba,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-26,Palmeiras,1,0,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-09-26,Flamengo,2,3,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-09-28,Internacional,1,2,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-09-28,Fluminense,2,1,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-09-28,Bahia,1,2,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-28,Cruzeiro,2,1,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-09-28,Atlético-PR,0,1,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,Vasco da Gama,4,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,São Paulo,2,2,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,Paysandu,5,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,Ponte Preta-SP,3,1,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,Figueirense,2,1,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,Goiás,4,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-09-29,Santos,1,1,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Grêmio,3,0,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Botafogo,2,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Gama,1,1,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,São Caetano,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Palmeiras,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Vitória,2,1,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Juventude,2,1,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-10-02,Flamengo,1,1,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-10-03,Paraná,1,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-10-03,Corinthians,2,4,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-10-03,Atlético-MG,0,2,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-05,Botafogo,1,1,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-10-05,Flamengo,2,3,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-05,Gama,2,0,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-10-05,Palmeiras,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-05,Goiás,0,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-10-05,Guarani,1,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-08,Fluminense,3,2,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-10-08,São Paulo,3,1,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-10-08,Guarani,3,1,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Grêmio,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Flamengo,2,0,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Corinthians,2,2,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Santos,3,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Atlético-PR,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Paysandu,3,2,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Vitória,4,2,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Juventude,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-09,Goiás,4,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-10-12,Palmeiras,2,2,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-10-12,Figueirense,0,3,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-12,São Caetano,2,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-12,Paraná,1,0,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Botafogo,1,0,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Portuguesa-SP,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Ponte Preta-SP,3,2,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Cruzeiro,1,4,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Internacional,2,2,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Coritiba,0,1,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Gama,1,3,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-10-13,Bahia,5,3,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Paysandu,3,1,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Vasco da Gama,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Coritiba,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Internacional,1,2,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Figueirense,3,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Gama,1,0,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,São Paulo,3,2,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-10-16,Bahia,2,1,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-17,Palmeiras,4,2,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-10-17,Botafogo,1,4,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-10-17,Atlético-MG,2,1,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-10-19,Santos,1,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-19,Vasco da Gama,1,0,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-10-19,Grêmio,3,1,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Corinthians,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Fluminense,1,0,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Cruzeiro,1,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Guarani,1,2,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Vitória,1,2,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,São Caetano,2,1,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Goiás,1,0,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Atlético-PR,2,3,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-10-20,Juventude,5,3,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Corinthians,2,2,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Portuguesa-SP,2,0,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,São Caetano,1,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Figueirense,2,1,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Fluminense,2,2,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Paraná,2,1,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Paysandu,2,1,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Ponte Preta-SP,1,1,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-10-23,Bahia,4,2,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Botafogo,2,3,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Portuguesa-SP,1,3,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Internacional,0,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Santos,3,0,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Atlético-PR,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Gama,0,1,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-10-26,Juventude,3,2,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-10-28,Guarani,2,4,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Flamengo,0,1,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Palmeiras,2,1,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Atlético-MG,3,2,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Grêmio,2,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Coritiba,3,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Paysandu,1,2,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Bahia,1,1,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-10-30,Figueirense,1,2,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-10-31,Fluminense,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-10-31,São Paulo,5,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-10-31,Paraná,3,1,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-11-02,Flamengo,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-11-02,Guarani,0,2,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-11-02,Internacional,0,1,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Vasco da Gama,1,0,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Corinthians,0,2,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Cruzeiro,3,2,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Ponte Preta-SP,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Atlético-PR,2,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Paysandu,2,1,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Goiás,4,0,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,São Caetano,2,1,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-11-03,Vitória,1,0,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,Fluminense,0,3,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,São Paulo,5,3,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,Atlético-PR,2,1,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,Vitória,3,1,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,Figueirense,0,2,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,Gama,2,3,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-11-06,São Caetano,1,1,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-11-07,Atlético-MG,3,1,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-11-07,Paraná,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-11-07,Corinthians,5,2,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-11-09,Vasco da Gama,4,1,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-11-09,Cruzeiro,4,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,2002
-2002-11-09,Santos,1,3,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-11-09,Grêmio,2,2,São Caetano,False,False,first,Brasileirão Série A 2024,2002
-2002-11-09,Paysandu,3,2,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-11-10,Botafogo,2,1,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-11-10,Portuguesa-SP,1,2,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-11-10,Coritiba,2,0,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-11-10,Guarani,1,1,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-11-10,Juventude,3,2,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-11-10,Goiás,3,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Vasco da Gama,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Palmeiras,1,1,Flamengo,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Atlético-MG,6,4,Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Internacional,0,1,Cruzeiro,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Coritiba,1,2,Figueirense,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Bahia,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,2002
-2002-11-13,Juventude,0,0,Paysandu,False,False,first,Brasileirão Série A 2024,2002
-2002-11-14,Fluminense,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,2002
-2002-11-14,São Paulo,3,2,Vitória,False,False,first,Brasileirão Série A 2024,2002
-2002-11-14,Paraná,1,1,Grêmio,False,False,first,Brasileirão Série A 2024,2002
-2002-11-14,Guarani,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Flamengo,2,2,Guarani,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Botafogo,0,1,São Paulo,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Corinthians,1,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Portuguesa-SP,2,4,Bahia,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Cruzeiro,2,0,Goiás,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Grêmio,1,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Atlético-PR,4,0,Juventude,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Paysandu,0,2,Internacional,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Vitória,4,3,Palmeiras,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Ponte Preta-SP,2,3,Fluminense,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Figueirense,2,2,Paraná,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,Gama,4,0,Coritiba,False,False,first,Brasileirão Série A 2024,2002
-2002-11-17,São Caetano,3,2,Santos,False,False,first,Brasileirão Série A 2024,2002
-2002-11-24,Fluminense,3,2,São Caetano,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-27,São Caetano,2,0,Fluminense,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-24,Atlético-MG,2,6,Corinthians,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-27,Corinthians,2,1,Atlético-MG,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-24,Grêmio,0,0,Juventude,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-27,Juventude,1,0,Grêmio,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-24,Santos,3,1,São Paulo,False,False,quarter,Brasileirão Série A 2024,2002
-2002-11-28,São Paulo,1,2,Santos,False,False,quarter,Brasileirão Série A 2024,2002
-2002-12-01,Fluminense,1,0,Corinthians,False,False,semi,Brasileirão Série A 2024,2002
-2002-12-04,Corinthians,3,2,Fluminense,False,False,semi,Brasileirão Série A 2024,2002
-2002-12-01,Santos,3,0,Grêmio,False,False,semi,Brasileirão Série A 2024,2002
-2002-12-04,Grêmio,1,0,Santos,False,False,semi,Brasileirão Série A 2024,2002
-2002-12-01,Santos,2,0,Corinthians,False,False,final,Brasileirão Série A 2024,2002
-2002-12-04,Corinthians,2,3,Santos,False,False,final,Brasileirão Série A 2024,2002
+2002-08-10,Vasco da Gama,2,0,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-08-10,São Paulo,4,2,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-08-10,Paraná,2,1,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-08-10,Santos,2,1,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-08-10,Goiás,3,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-08-11,Fluminense,5,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-08-11,Palmeiras,1,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-08-11,Atlético-MG,1,2,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-08-11,Internacional,1,3,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-08-11,Guarani,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-08-11,Coritiba,1,0,Vitória,False,False,first,Brasileirão Série A,2002
+2002-08-11,Bahia,1,0,Gama,False,False,first,Brasileirão Série A,2002
+2002-08-11,Juventude,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-08-14,São Caetano,2,0,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-08-14,Botafogo,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-08-14,Cruzeiro,1,1,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-08-14,Grêmio,3,2,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-08-14,Atlético-PR,4,0,Bahia,False,False,first,Brasileirão Série A,2002
+2002-08-14,Figueirense,0,0,Guarani,False,False,first,Brasileirão Série A,2002
+2002-08-14,Ponte Preta-SP,2,0,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-08-14,Vitória,4,1,Goiás,False,False,first,Brasileirão Série A,2002
+2002-08-14,Corinthians,3,2,Internacional,False,False,first,Brasileirão Série A,2002
+2002-08-14,Flamengo,0,0,Juventude,False,False,first,Brasileirão Série A,2002
+2002-08-14,Portuguesa-SP,1,0,Paraná,False,False,first,Brasileirão Série A,2002
+2002-08-14,Gama,0,1,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-08-17,Fluminense,3,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-08-17,Internacional,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-08-17,Atlético-PR,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-08-18,Juventude,2,1,Santos,False,False,first,Brasileirão Série A,2002
+2002-08-18,Guarani,1,4,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-08-18,Flamengo,1,1,Goiás,False,False,first,Brasileirão Série A,2002
+2002-08-18,Paraná,2,3,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-08-18,Cruzeiro,0,0,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-08-18,Portuguesa-SP,0,0,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-08-18,Bahia,1,2,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-08-18,Gama,2,1,Vitória,False,False,first,Brasileirão Série A,2002
+2002-08-18,São Caetano,3,0,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-08-21,Botafogo,2,2,Internacional,False,False,first,Brasileirão Série A,2002
+2002-08-21,São Paulo,0,1,Juventude,False,False,first,Brasileirão Série A,2002
+2002-08-21,Atlético-MG,1,1,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-08-21,Paysandu,1,2,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-08-21,Coritiba,2,1,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-08-21,Vitória,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-08-21,Goiás,1,1,Bahia,False,False,first,Brasileirão Série A,2002
+2002-08-21,Santos,3,0,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-08-22,Vasco da Gama,0,1,Gama,False,False,first,Brasileirão Série A,2002
+2002-08-22,Palmeiras,3,2,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-08-22,Grêmio,0,2,Guarani,False,False,first,Brasileirão Série A,2002
+2002-08-22,Ponte Preta-SP,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-08-24,Flamengo,1,2,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-08-24,Internacional,2,2,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-08-24,Figueirense,0,3,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-08-25,Palmeiras,0,4,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-08-25,Fluminense,1,1,Santos,False,False,first,Brasileirão Série A,2002
+2002-08-25,Coritiba,1,2,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-08-25,Portuguesa-SP,1,0,Gama,False,False,first,Brasileirão Série A,2002
+2002-08-25,Cruzeiro,2,1,Bahia,False,False,first,Brasileirão Série A,2002
+2002-08-25,Vitória,2,1,Juventude,False,False,first,Brasileirão Série A,2002
+2002-08-25,Ponte Preta-SP,1,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-08-25,Goiás,2,4,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-08-28,Guarani,1,1,Internacional,False,False,first,Brasileirão Série A,2002
+2002-08-28,Juventude,2,0,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-08-28,Santos,2,1,Paraná,False,False,first,Brasileirão Série A,2002
+2002-08-28,Gama,2,1,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-08-28,Atlético-PR,1,0,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-08-28,Corinthians,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-08-28,Bahia,1,2,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-08-29,São Paulo,2,0,Goiás,False,False,first,Brasileirão Série A,2002
+2002-08-29,Grêmio,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-08-29,Atlético-MG,2,1,Vitória,False,False,first,Brasileirão Série A,2002
+2002-08-31,Coritiba,2,0,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-08-31,Botafogo,1,0,Gama,False,False,first,Brasileirão Série A,2002
+2002-08-31,Corinthians,0,3,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-08-31,Internacional,3,0,Santos,False,False,first,Brasileirão Série A,2002
+2002-09-01,Flamengo,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-09-01,São Paulo,2,0,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-09-01,Atlético-MG,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-09-01,Paraná,5,1,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-09-01,Vitória,5,1,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-09-01,Ponte Preta-SP,0,1,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-09-01,Juventude,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-09-01,Goiás,1,2,Guarani,False,False,first,Brasileirão Série A,2002
+2002-09-04,Vasco da Gama,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-09-04,Flamengo,5,2,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-09-04,Palmeiras,2,2,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-09-04,Cruzeiro,3,1,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-09-04,Atlético-PR,2,0,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-09-04,Paysandu,0,1,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-09-04,Bahia,3,2,Paraná,False,False,first,Brasileirão Série A,2002
+2002-09-04,Gama,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-09-04,São Caetano,2,1,Guarani,False,False,first,Brasileirão Série A,2002
+2002-09-05,Portuguesa-SP,0,2,Internacional,False,False,first,Brasileirão Série A,2002
+2002-09-05,Santos,3,0,Vitória,False,False,first,Brasileirão Série A,2002
+2002-09-07,Vasco da Gama,1,0,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-09-07,Palmeiras,2,2,Gama,False,False,first,Brasileirão Série A,2002
+2002-09-07,São Caetano,3,0,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-09-07,Atlético-MG,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-09-07,Goiás,2,2,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-09-08,Fluminense,4,3,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-09-08,Santos,2,2,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-09-08,Grêmio,4,0,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-09-08,Paraná,3,0,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-09-08,Vitória,0,0,Internacional,False,False,first,Brasileirão Série A,2002
+2002-09-08,Juventude,2,1,Bahia,False,False,first,Brasileirão Série A,2002
+2002-09-08,Guarani,2,0,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-09-11,Flamengo,3,2,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-09-11,Portuguesa-SP,3,2,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-09-11,Internacional,3,2,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-09-11,Coritiba,4,2,Santos,False,False,first,Brasileirão Série A,2002
+2002-09-11,Bahia,1,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-09-11,Ponte Preta-SP,1,0,Paraná,False,False,first,Brasileirão Série A,2002
+2002-09-11,Figueirense,0,2,Vitória,False,False,first,Brasileirão Série A,2002
+2002-09-11,Paysandu,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-09-12,Botafogo,0,4,Juventude,False,False,first,Brasileirão Série A,2002
+2002-09-12,Corinthians,3,0,Goiás,False,False,first,Brasileirão Série A,2002
+2002-09-12,Cruzeiro,0,2,Guarani,False,False,first,Brasileirão Série A,2002
+2002-09-12,Gama,1,2,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-09-14,Internacional,2,4,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-09-14,Santos,2,0,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-09-14,Paraná,2,2,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-09-14,Palmeiras,1,2,Bahia,False,False,first,Brasileirão Série A,2002
+2002-09-15,São Paulo,6,0,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-09-15,Coritiba,3,1,Goiás,False,False,first,Brasileirão Série A,2002
+2002-09-15,Botafogo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-09-15,Guarani,0,0,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-09-15,São Caetano,4,0,Gama,False,False,first,Brasileirão Série A,2002
+2002-09-15,Vitória,4,3,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-09-15,Juventude,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-09-15,Cruzeiro,3,1,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-09-18,Vasco da Gama,1,2,Santos,False,False,first,Brasileirão Série A,2002
+2002-09-18,Portuguesa-SP,2,0,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-09-18,Goiás,3,0,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-09-18,Figueirense,3,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-09-18,Paysandu,1,1,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-09-18,Atlético-PR,1,3,Gama,False,False,first,Brasileirão Série A,2002
+2002-09-18,Bahia,2,0,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-09-18,Ponte Preta-SP,2,0,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-09-19,Grêmio,2,0,Juventude,False,False,first,Brasileirão Série A,2002
+2002-09-19,Corinthians,2,1,Vitória,False,False,first,Brasileirão Série A,2002
+2002-09-19,Atlético-MG,4,1,Paraná,False,False,first,Brasileirão Série A,2002
+2002-09-21,Botafogo,0,2,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-09-21,Portuguesa-SP,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-09-21,Figueirense,1,0,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-09-21,Santos,1,1,Goiás,False,False,first,Brasileirão Série A,2002
+2002-09-22,Vasco da Gama,1,1,Internacional,False,False,first,Brasileirão Série A,2002
+2002-09-22,Corinthians,2,1,Paraná,False,False,first,Brasileirão Série A,2002
+2002-09-22,Atlético-MG,0,3,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-09-22,Atlético-PR,1,1,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-09-22,Paysandu,4,3,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-09-22,Guarani,0,0,Juventude,False,False,first,Brasileirão Série A,2002
+2002-09-22,São Caetano,1,0,Bahia,False,False,first,Brasileirão Série A,2002
+2002-09-22,Grêmio,4,0,Vitória,False,False,first,Brasileirão Série A,2002
+2002-09-25,São Paulo,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-09-25,Cruzeiro,4,0,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-09-25,Internacional,1,0,Bahia,False,False,first,Brasileirão Série A,2002
+2002-09-25,Fluminense,0,1,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-09-25,Paraná,1,2,Guarani,False,False,first,Brasileirão Série A,2002
+2002-09-25,Vitória,2,2,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-09-25,Ponte Preta-SP,3,2,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-09-25,Juventude,0,1,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-09-26,Gama,0,0,Santos,False,False,first,Brasileirão Série A,2002
+2002-09-26,Coritiba,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-09-26,Palmeiras,1,0,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-09-26,Flamengo,2,3,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-09-28,Internacional,1,2,Paraná,False,False,first,Brasileirão Série A,2002
+2002-09-28,Fluminense,2,1,Guarani,False,False,first,Brasileirão Série A,2002
+2002-09-28,Bahia,1,2,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-09-28,Cruzeiro,2,1,Juventude,False,False,first,Brasileirão Série A,2002
+2002-09-28,Atlético-PR,0,1,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-09-29,Vasco da Gama,4,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-09-29,São Paulo,2,2,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-09-29,Paysandu,5,2,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-09-29,Ponte Preta-SP,3,1,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-09-29,Figueirense,2,1,Gama,False,False,first,Brasileirão Série A,2002
+2002-09-29,Goiás,4,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-09-29,Santos,1,1,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-10-02,Grêmio,3,0,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-10-02,Botafogo,2,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-10-02,Gama,1,1,Internacional,False,False,first,Brasileirão Série A,2002
+2002-10-02,São Caetano,1,0,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-10-02,Palmeiras,1,1,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-10-02,Vitória,2,1,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-10-02,Juventude,2,1,Goiás,False,False,first,Brasileirão Série A,2002
+2002-10-02,Flamengo,1,1,Bahia,False,False,first,Brasileirão Série A,2002
+2002-10-03,Paraná,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-10-03,Corinthians,2,4,Santos,False,False,first,Brasileirão Série A,2002
+2002-10-03,Atlético-MG,0,2,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-10-05,Botafogo,1,1,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-10-05,Flamengo,2,3,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-10-05,Gama,2,0,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-10-05,Palmeiras,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-10-05,Goiás,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-10-05,Guarani,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-10-08,Fluminense,3,2,Paraná,False,False,first,Brasileirão Série A,2002
+2002-10-08,São Paulo,3,1,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-10-08,Guarani,3,1,Gama,False,False,first,Brasileirão Série A,2002
+2002-10-09,Grêmio,1,1,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-10-09,Flamengo,2,0,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-10-09,Corinthians,2,2,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-10-09,Santos,3,2,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-10-09,Atlético-PR,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-10-09,Paysandu,3,2,Bahia,False,False,first,Brasileirão Série A,2002
+2002-10-09,Vitória,4,2,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-10-09,Juventude,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-10-09,Goiás,4,2,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-10-12,Palmeiras,2,2,Juventude,False,False,first,Brasileirão Série A,2002
+2002-10-12,Figueirense,0,3,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-10-12,São Caetano,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-10-12,Paraná,1,0,Vitória,False,False,first,Brasileirão Série A,2002
+2002-10-13,Botafogo,1,0,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-10-13,Portuguesa-SP,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-10-13,Ponte Preta-SP,3,2,Goiás,False,False,first,Brasileirão Série A,2002
+2002-10-13,Cruzeiro,1,4,Santos,False,False,first,Brasileirão Série A,2002
+2002-10-13,Internacional,2,2,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-10-13,Coritiba,0,1,Guarani,False,False,first,Brasileirão Série A,2002
+2002-10-13,Gama,1,3,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-10-13,Bahia,5,3,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-10-16,Paysandu,3,1,Paraná,False,False,first,Brasileirão Série A,2002
+2002-10-16,Vasco da Gama,2,1,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-10-16,Coritiba,0,0,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-10-16,Internacional,1,2,Goiás,False,False,first,Brasileirão Série A,2002
+2002-10-16,Figueirense,3,2,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-10-16,Gama,1,0,Juventude,False,False,first,Brasileirão Série A,2002
+2002-10-16,São Paulo,3,2,Santos,False,False,first,Brasileirão Série A,2002
+2002-10-16,Bahia,2,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-10-17,Palmeiras,4,2,Guarani,False,False,first,Brasileirão Série A,2002
+2002-10-17,Botafogo,1,4,Vitória,False,False,first,Brasileirão Série A,2002
+2002-10-17,Atlético-MG,2,1,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-10-19,Santos,1,2,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-10-19,Vasco da Gama,1,0,Paraná,False,False,first,Brasileirão Série A,2002
+2002-10-19,Grêmio,3,1,Gama,False,False,first,Brasileirão Série A,2002
+2002-10-20,Corinthians,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-10-20,Fluminense,1,0,Bahia,False,False,first,Brasileirão Série A,2002
+2002-10-20,Cruzeiro,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-10-20,Guarani,1,2,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-10-20,Vitória,1,2,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-10-20,São Caetano,2,1,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-10-20,Goiás,1,0,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-10-20,Atlético-PR,2,3,Internacional,False,False,first,Brasileirão Série A,2002
+2002-10-20,Juventude,5,3,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-10-23,Corinthians,2,2,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-10-23,Portuguesa-SP,2,0,Guarani,False,False,first,Brasileirão Série A,2002
+2002-10-23,São Caetano,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-10-23,Figueirense,2,1,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-10-23,Fluminense,2,2,Goiás,False,False,first,Brasileirão Série A,2002
+2002-10-23,Paraná,2,1,Gama,False,False,first,Brasileirão Série A,2002
+2002-10-23,Paysandu,2,1,Santos,False,False,first,Brasileirão Série A,2002
+2002-10-23,Ponte Preta-SP,1,1,Vitória,False,False,first,Brasileirão Série A,2002
+2002-10-23,Bahia,4,2,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-10-26,Botafogo,2,3,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-10-26,Portuguesa-SP,1,3,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-10-26,Internacional,0,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-10-26,Santos,3,0,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-10-26,Atlético-PR,1,0,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-10-26,Gama,0,1,Goiás,False,False,first,Brasileirão Série A,2002
+2002-10-26,Juventude,3,2,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-10-28,Guarani,2,4,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-10-30,Flamengo,0,1,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-10-30,Palmeiras,2,1,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-10-30,Atlético-MG,3,2,Internacional,False,False,first,Brasileirão Série A,2002
+2002-10-30,Grêmio,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-10-30,Coritiba,3,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-10-30,Paysandu,1,2,Goiás,False,False,first,Brasileirão Série A,2002
+2002-10-30,Bahia,1,1,Santos,False,False,first,Brasileirão Série A,2002
+2002-10-30,Figueirense,1,2,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-10-31,Fluminense,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-10-31,São Paulo,5,2,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-10-31,Paraná,3,1,Juventude,False,False,first,Brasileirão Série A,2002
+2002-11-02,Flamengo,2,0,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-11-02,Guarani,0,2,Santos,False,False,first,Brasileirão Série A,2002
+2002-11-02,Internacional,0,1,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-11-03,Vasco da Gama,1,0,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-11-03,Corinthians,0,2,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-11-03,Cruzeiro,3,2,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-11-03,Ponte Preta-SP,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-11-03,Atlético-PR,2,2,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-11-03,Paysandu,2,1,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-11-03,Goiás,4,0,Paraná,False,False,first,Brasileirão Série A,2002
+2002-11-03,São Caetano,2,1,Juventude,False,False,first,Brasileirão Série A,2002
+2002-11-03,Vitória,1,0,Bahia,False,False,first,Brasileirão Série A,2002
+2002-11-06,Fluminense,0,3,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-11-06,São Paulo,5,3,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-11-06,Atlético-PR,2,1,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-11-06,Vitória,3,1,Guarani,False,False,first,Brasileirão Série A,2002
+2002-11-06,Figueirense,0,2,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-11-06,Gama,2,3,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-11-06,São Caetano,1,1,Internacional,False,False,first,Brasileirão Série A,2002
+2002-11-07,Atlético-MG,3,1,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-11-07,Paraná,2,0,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-11-07,Corinthians,5,2,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-11-09,Vasco da Gama,4,1,Vitória,False,False,first,Brasileirão Série A,2002
+2002-11-09,Cruzeiro,4,1,Atlético-PR,False,False,first,Brasileirão Série A,2002
+2002-11-09,Santos,1,3,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-11-09,Grêmio,2,2,São Caetano,False,False,first,Brasileirão Série A,2002
+2002-11-09,Paysandu,3,2,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-11-10,Botafogo,2,1,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-11-10,Portuguesa-SP,1,2,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-11-10,Coritiba,2,0,Paraná,False,False,first,Brasileirão Série A,2002
+2002-11-10,Guarani,1,1,Bahia,False,False,first,Brasileirão Série A,2002
+2002-11-10,Juventude,3,2,Internacional,False,False,first,Brasileirão Série A,2002
+2002-11-10,Goiás,3,1,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-11-13,Vasco da Gama,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2002
+2002-11-13,Palmeiras,1,1,Flamengo,False,False,first,Brasileirão Série A,2002
+2002-11-13,Atlético-MG,6,4,Gama,False,False,first,Brasileirão Série A,2002
+2002-11-13,Internacional,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2002
+2002-11-13,Coritiba,1,2,Figueirense,False,False,first,Brasileirão Série A,2002
+2002-11-13,Bahia,0,0,Corinthians,False,False,first,Brasileirão Série A,2002
+2002-11-13,Juventude,0,0,Paysandu,False,False,first,Brasileirão Série A,2002
+2002-11-14,Fluminense,2,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2002
+2002-11-14,São Paulo,3,2,Vitória,False,False,first,Brasileirão Série A,2002
+2002-11-14,Paraná,1,1,Grêmio,False,False,first,Brasileirão Série A,2002
+2002-11-14,Guarani,2,0,Botafogo,False,False,first,Brasileirão Série A,2002
+2002-11-17,Flamengo,2,2,Guarani,False,False,first,Brasileirão Série A,2002
+2002-11-17,Botafogo,0,1,São Paulo,False,False,first,Brasileirão Série A,2002
+2002-11-17,Corinthians,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2002
+2002-11-17,Portuguesa-SP,2,4,Bahia,False,False,first,Brasileirão Série A,2002
+2002-11-17,Cruzeiro,2,0,Goiás,False,False,first,Brasileirão Série A,2002
+2002-11-17,Grêmio,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2002
+2002-11-17,Atlético-PR,4,0,Juventude,False,False,first,Brasileirão Série A,2002
+2002-11-17,Paysandu,0,2,Internacional,False,False,first,Brasileirão Série A,2002
+2002-11-17,Vitória,4,3,Palmeiras,False,False,first,Brasileirão Série A,2002
+2002-11-17,Ponte Preta-SP,2,3,Fluminense,False,False,first,Brasileirão Série A,2002
+2002-11-17,Figueirense,2,2,Paraná,False,False,first,Brasileirão Série A,2002
+2002-11-17,Gama,4,0,Coritiba,False,False,first,Brasileirão Série A,2002
+2002-11-17,São Caetano,3,2,Santos,False,False,first,Brasileirão Série A,2002
+2002-11-24,Fluminense,3,2,São Caetano,False,False,quarter,Brasileirão Série A,2002
+2002-11-27,São Caetano,2,0,Fluminense,False,False,quarter,Brasileirão Série A,2002
+2002-11-24,Atlético-MG,2,6,Corinthians,False,False,quarter,Brasileirão Série A,2002
+2002-11-27,Corinthians,2,1,Atlético-MG,False,False,quarter,Brasileirão Série A,2002
+2002-11-24,Grêmio,0,0,Juventude,False,False,quarter,Brasileirão Série A,2002
+2002-11-27,Juventude,1,0,Grêmio,False,False,quarter,Brasileirão Série A,2002
+2002-11-24,Santos,3,1,São Paulo,False,False,quarter,Brasileirão Série A,2002
+2002-11-28,São Paulo,1,2,Santos,False,False,quarter,Brasileirão Série A,2002
+2002-12-01,Fluminense,1,0,Corinthians,False,False,semi,Brasileirão Série A,2002
+2002-12-04,Corinthians,3,2,Fluminense,False,False,semi,Brasileirão Série A,2002
+2002-12-01,Santos,3,0,Grêmio,False,False,semi,Brasileirão Série A,2002
+2002-12-04,Grêmio,1,0,Santos,False,False,semi,Brasileirão Série A,2002
+2002-12-01,Santos,2,0,Corinthians,False,False,final,Brasileirão Série A,2002
+2002-12-04,Corinthians,2,3,Santos,False,False,final,Brasileirão Série A,2002

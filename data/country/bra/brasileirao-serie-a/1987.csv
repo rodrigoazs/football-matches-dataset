@@ -1,424 +1,424 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1987-09-11,Palmeiras,2,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1987
-1987-09-12,Botafogo,1,0,Goiás,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Corinthians,0,1,Fluminense,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Flamengo,0,2,São Paulo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Internacional,4,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Coritiba,0,1,Grêmio,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Bahia,0,3,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Atlético-MG,5,1,Santos,False,False,first,Brasileirão Série A 2024,1987
-1987-09-18,Corinthians,0,1,Goiás,False,False,first,Brasileirão Série A 2024,1987
-1987-09-19,Atlético-MG,0,0,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Santos,0,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Fluminense,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Bahia,1,1,São Paulo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Flamengo,2,1,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Grêmio,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Santa Cruz,0,0,Coritiba,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Fluminense,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,São Paulo,3,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Grêmio,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Cruzeiro,2,1,Bahia,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Coritiba,2,1,Corinthians,False,False,first,Brasileirão Série A 2024,1987
-1987-09-24,Botafogo,0,0,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-09-24,Santos,0,0,Flamengo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-30,Goiás,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-09-26,Coritiba,2,1,Bahia,False,False,first,Brasileirão Série A 2024,1987
-1987-09-26,Fluminense,0,0,Grêmio,False,False,first,Brasileirão Série A 2024,1987
-1987-09-26,Palmeiras,2,1,São Paulo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-26,Goiás,1,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Cruzeiro,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Corinthians,0,0,Santos,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Internacional,2,0,Flamengo,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Vasco da Gama,1,2,Atlético-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-10-01,Vasco da Gama,1,0,Botafogo,False,False,first,Brasileirão Série A 2024,1987
-1987-10-02,Internacional,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1987
-1987-10-03,Atlético-MG,2,0,Coritiba,False,False,first,Brasileirão Série A 2024,1987
-1987-10-03,Santos,1,0,Grêmio,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Bahia,1,0,Goiás,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Flamengo,0,1,Fluminense,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,São Paulo,0,0,Corinthians,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Santa Cruz,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1987
-1987-10-07,Bahia,0,2,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-10-07,Santa Cruz,1,1,Fluminense,False,False,first,Brasileirão Série A 2024,1987
-1987-10-07,Palmeiras,1,0,Vasco da Gama,False,False,first,Brasileirão Série A 2024,1987
-1987-10-07,Botafogo,0,0,Santos,False,False,first,Brasileirão Série A 2024,1987
-1987-10-08,São Paulo,0,1,Atlético-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-10-08,Cruzeiro,1,1,Corinthians,False,False,first,Brasileirão Série A 2024,1987
-1987-10-08,Grêmio,4,0,Goiás,False,False,first,Brasileirão Série A 2024,1987
-1987-10-08,Flamengo,3,1,Coritiba,False,False,first,Brasileirão Série A 2024,1987
-1987-10-10,Santa Cruz,3,1,Santos,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Vasco da Gama,4,1,Corinthians,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Cruzeiro,0,0,Atlético-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Goiás,1,1,Flamengo,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Palmeiras,1,0,Coritiba,False,False,first,Brasileirão Série A 2024,1987
-1987-10-12,São Paulo,0,2,Botafogo,False,False,first,Brasileirão Série A 2024,1987
-1987-10-12,Internacional,0,1,Grêmio,False,False,first,Brasileirão Série A 2024,1987
-1987-10-12,Fluminense,0,1,Bahia,False,False,first,Brasileirão Série A 2024,1987
-1987-10-16,Goiás,2,0,Palmeiras,False,False,first,Brasileirão Série A 2024,1987
-1987-10-17,Vasco da Gama,0,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-10-17,Santos,0,1,Bahia,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Flamengo,0,0,Cruzeiro,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Corinthians,1,0,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Coritiba,1,1,Botafogo,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Grêmio,1,0,São Paulo,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Atlético-MG,3,1,Fluminense,False,False,first,Brasileirão Série A 2024,1987
-1987-10-23,Grêmio,0,0,Atlético-MG,False,False,second,Brasileirão Série A 2024,1987
-1987-10-24,Flamengo,1,0,Botafogo,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,Corinthians,0,0,Palmeiras,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,Bahia,0,0,Santa Cruz,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Botafogo,0,0,Atlético-MG,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Bahia,1,1,Corinthians,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Santa Cruz,1,2,Palmeiras,False,False,second,Brasileirão Série A 2024,1987
-1987-10-29,Flamengo,1,1,Grêmio,False,False,second,Brasileirão Série A 2024,1987
-1987-10-31,Corinthians,2,1,Santa Cruz,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Palmeiras,0,1,Bahia,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Atlético-MG,1,0,Flamengo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-02,Grêmio,0,2,Botafogo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Flamengo,2,0,Palmeiras,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Grêmio,2,0,Bahia,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Atlético-MG,2,0,Santa Cruz,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Botafogo,1,0,Corinthians,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Palmeiras,2,1,Grêmio,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Santa Cruz,1,0,Botafogo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Corinthians,1,2,Atlético-MG,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Bahia,0,2,Flamengo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-14,Santa Cruz,2,1,Grêmio,False,False,second,Brasileirão Série A 2024,1987
-1987-11-14,Palmeiras,1,0,Botafogo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Corinthians,1,1,Flamengo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Bahia,1,1,Atlético-MG,False,False,second,Brasileirão Série A 2024,1987
-1987-11-19,Grêmio,1,0,Corinthians,False,False,second,Brasileirão Série A 2024,1987
-1987-11-21,Botafogo,2,2,Bahia,False,False,second,Brasileirão Série A 2024,1987
-1987-11-22,Flamengo,3,1,Santa Cruz,False,False,second,Brasileirão Série A 2024,1987
-1987-11-22,Atlético-MG,1,0,Palmeiras,False,False,second,Brasileirão Série A 2024,1987
-1987-10-24,São Paulo,3,1,Santos,False,False,second,Brasileirão Série A 2024,1987
-1987-10-24,Vasco da Gama,0,2,Fluminense,False,False,second,Brasileirão Série A 2024,1987
-1987-10-24,Goiás,1,1,Coritiba,False,False,second,Brasileirão Série A 2024,1987
-1987-10-24,Cruzeiro,3,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Cruzeiro,3,0,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Internacional,0,1,Fluminense,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,São Paulo,2,0,Goiás,False,False,second,Brasileirão Série A 2024,1987
-1987-10-29,Santos,2,1,Coritiba,False,False,second,Brasileirão Série A 2024,1987
-1987-10-31,Coritiba,3,2,São Paulo,False,False,second,Brasileirão Série A 2024,1987
-1987-10-31,Fluminense,1,1,Cruzeiro,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Vasco da Gama,1,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Goiás,0,0,Santos,False,False,second,Brasileirão Série A 2024,1987
-1987-11-06,Santos,0,0,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,São Paulo,2,0,Fluminense,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Coritiba,0,3,Cruzeiro,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Internacional,0,0,Goiás,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Fluminense,1,0,Goiás,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Internacional,2,0,Santos,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Cruzeiro,0,0,São Paulo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-07,Vasco da Gama,3,2,Coritiba,False,False,second,Brasileirão Série A 2024,1987
-1987-11-14,Fluminense,1,1,Santos,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Vasco da Gama,1,2,São Paulo,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Internacional,0,0,Coritiba,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Cruzeiro,1,0,Goiás,False,False,second,Brasileirão Série A 2024,1987
-1987-11-21,São Paulo,3,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-11-21,Coritiba,2,1,Fluminense,False,False,second,Brasileirão Série A 2024,1987
-1987-11-22,Goiás,2,2,Vasco da Gama,False,False,second,Brasileirão Série A 2024,1987
-1987-11-22,Santos,0,1,Cruzeiro,False,False,second,Brasileirão Série A 2024,1987
-1987-11-29,Flamengo,1,0,Atlético-MG,False,False,semi,Brasileirão Série A 2024,1987
-1987-12-02,Atlético-MG,2,3,Flamengo,False,False,semi,Brasileirão Série A 2024,1987
-1987-11-29,Internacional,0,0,Cruzeiro,False,False,semi,Brasileirão Série A 2024,1987
-1987-12-02,Cruzeiro,0,0,Internacional,False,False,semi,Brasileirão Série A 2024,1987
-1987-12-06,Internacional,1,1,Flamengo,False,False,final,Brasileirão Série A 2024,1987
-1987-12-13,Flamengo,1,0,Internacional,False,False,final,Brasileirão Série A 2024,1987
-1987-09-13,Bangu,1,1,Joinville,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Criciúma,1,2,Ceará,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,Treze,0,0,Atlético-PR,False,False,first,Brasileirão Série A 2024,1987
-1987-09-13,CSA,0,1,Guarani,False,False,first,Brasileirão Série A 2024,1987
-1987-09-16,Vitória,3,1,Joinville,False,False,first,Brasileirão Série A 2024,1987
-1987-09-16,Internacional,1,0,Ceará,False,False,first,Brasileirão Série A 2024,1987
-1987-09-16,Sport,1,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1987
-1987-09-16,Treze,1,3,Guarani,False,False,first,Brasileirão Série A 2024,1987
-1987-09-17,Criciúma,2,0,Náutico,False,False,first,Brasileirão Série A 2024,1987
-1987-09-19,Rio Branco-ES,0,1,CSA,False,False,first,Brasileirão Série A 2024,1987
-1987-09-19,Vitória,1,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Internacional,2,1,Treze,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Atlético-GO,1,0,Ceará,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Sport,2,0,Guarani,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Criciúma,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1987
-1987-09-20,Joinville,2,1,Náutico,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Atlético-PR,1,2,Bangu,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Joinville,0,0,Treze,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Atlético-GO,3,1,CSA,False,False,first,Brasileirão Série A 2024,1987
-1987-09-23,Sport,3,0,Criciúma,False,False,first,Brasileirão Série A 2024,1987
-1987-09-24,Náutico,0,1,Rio Branco-ES,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Ceará,1,1,Rio Branco-ES,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Náutico,2,1,Atlético-GO,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Bangu,1,0,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Guarani,0,1,Vitória,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Joinville,0,1,Sport,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Treze,2,1,Criciúma,False,False,first,Brasileirão Série A 2024,1987
-1987-09-27,Atlético-PR,1,1,CSA,False,False,first,Brasileirão Série A 2024,1987
-1987-09-30,Portuguesa-SP,1,1,Sport,False,False,first,Brasileirão Série A 2024,1987
-1987-09-30,Internacional,0,0,Vitória,False,False,first,Brasileirão Série A 2024,1987
-1987-09-30,Bangu,0,0,Guarani,False,False,first,Brasileirão Série A 2024,1987
-1987-09-30,CSA,1,2,Criciúma,False,False,first,Brasileirão Série A 2024,1987
-1987-09-30,Treze,3,1,Atlético-GO,False,False,first,Brasileirão Série A 2024,1987
-1987-10-01,Ceará,1,0,Joinville,False,False,first,Brasileirão Série A 2024,1987
-1987-10-03,Internacional,0,1,Náutico,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,CSA,3,2,Joinville,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Criciúma,2,1,Vitória,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Atlético-GO,0,0,Sport,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Bangu,1,0,Rio Branco-ES,False,False,first,Brasileirão Série A 2024,1987
-1987-10-04,Ceará,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-10-07,CSA,0,2,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-10-07,Rio Branco-ES,0,1,Sport,False,False,first,Brasileirão Série A 2024,1987
-1987-10-08,Náutico,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-10-10,Atlético-GO,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Rio Branco-ES,2,1,Treze,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Sport,4,0,Internacional,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Guarani,4,2,Náutico,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Vitória,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Ceará,0,1,Atlético-PR,False,False,first,Brasileirão Série A 2024,1987
-1987-10-13,Portuguesa-SP,1,0,Treze,False,False,first,Brasileirão Série A 2024,1987
-1987-10-14,Atlético-PR,2,0,Náutico,False,False,first,Brasileirão Série A 2024,1987
-1987-10-14,Rio Branco-ES,0,0,Vitória,False,False,first,Brasileirão Série A 2024,1987
-1987-10-15,Portuguesa-SP,1,0,Bangu,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Portuguesa-SP,4,0,CSA,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Guarani,1,0,Ceará,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Vitória,0,0,Atlético-GO,False,False,first,Brasileirão Série A 2024,1987
-1987-10-21,Guarani,0,2,Atlético-PR,False,False,first,Brasileirão Série A 2024,1987
-1987-10-21,Rio Branco-ES,0,0,Atlético-GO,False,False,second,Brasileirão Série A 2024,1987
-1987-10-24,Atlético-GO,0,2,Criciúma,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,Rio Branco-ES,0,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,Guarani,2,0,Portuguesa-SP,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,Joinville,1,2,Atlético-PR,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Atlético-PR,0,1,Portuguesa-SP,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Criciúma,3,0,Rio Branco-ES,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Internacional,1,0,Atlético-GO,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Joinville,0,2,Guarani,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Joinville,0,0,Rio Branco-ES,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Guarani,2,0,Criciúma,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Portuguesa-SP,1,0,Atlético-GO,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Internacional,1,1,Atlético-PR,False,False,second,Brasileirão Série A 2024,1987
-1987-11-04,Criciúma,2,0,Joinville,False,False,second,Brasileirão Série A 2024,1987
-1987-11-04,Atlético-PR,3,0,Atlético-GO,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Internacional,0,0,Joinville,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Atlético-GO,1,0,Guarani,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Atlético-PR,1,1,Rio Branco-ES,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Portuguesa-SP,0,0,Criciúma,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Rio Branco-ES,2,3,Guarani,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Atlético-GO,0,0,Joinville,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,Portuguesa-SP,1,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Guarani,0,0,Atlético-PR,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Criciúma,0,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Joinville,1,0,Portuguesa-SP,False,False,second,Brasileirão Série A 2024,1987
-1987-11-18,Guarani,0,0,Internacional,False,False,second,Brasileirão Série A 2024,1987
-1987-11-18,Criciúma,1,1,Atlético-PR,False,False,second,Brasileirão Série A 2024,1987
-1987-11-18,Portuguesa-SP,0,1,Rio Branco-ES,False,False,second,Brasileirão Série A 2024,1987
-1987-10-21,Bangu,2,0,Ceará,False,False,second,Brasileirão Série A 2024,1987
-1987-10-21,Vitória,0,0,CSA,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,CSA,1,1,Náutico,False,False,second,Brasileirão Série A 2024,1987
-1987-10-25,Sport,2,1,Ceará,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Bangu,2,0,Sport,False,False,second,Brasileirão Série A 2024,1987
-1987-10-28,Ceará,0,2,Treze,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Treze,1,1,Vitória,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,CSA,0,0,Bangu,False,False,second,Brasileirão Série A 2024,1987
-1987-11-01,Náutico,0,1,Sport,False,False,second,Brasileirão Série A 2024,1987
-1987-11-04,Náutico,2,2,Vitória,False,False,second,Brasileirão Série A 2024,1987
-1987-11-04,Treze,0,0,Bangu,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Sport,0,0,Vitória,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Ceará,1,0,Náutico,False,False,second,Brasileirão Série A 2024,1987
-1987-11-08,Treze,2,1,CSA,False,False,second,Brasileirão Série A 2024,1987
-1987-11-11,CSA,0,1,Sport,False,False,second,Brasileirão Série A 2024,1987
-1987-11-14,Vitória,1,0,Ceará,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Sport,2,1,Treze,False,False,second,Brasileirão Série A 2024,1987
-1987-11-15,Bangu,3,0,Náutico,False,False,second,Brasileirão Série A 2024,1987
-1987-11-18,Ceará,2,0,CSA,False,False,second,Brasileirão Série A 2024,1987
-1987-11-18,Vitória,3,1,Bangu,False,False,second,Brasileirão Série A 2024,1987
-1987-11-18,Náutico,2,1,Treze,False,False,second,Brasileirão Série A 2024,1987
-1987-11-22,Bangu,1,1,Vitória,False,False,first,Brasileirão Série A 2024,1987
-1987-11-28,Atlético-PR,0,0,Guarani,False,False,semi,Brasileirão Série A 2024,1987
-1987-12-02,Guarani,0,0,Atlético-PR,False,False,semi,Brasileirão Série A 2024,1987
-1987-11-29,Bangu,3,2,Sport,False,False,semi,Brasileirão Série A 2024,1987
-1987-12-03,Sport,3,1,Bangu,False,False,semi,Brasileirão Série A 2024,1987
-1987-12-06,Guarani,2,0,Sport,False,False,final,Brasileirão Série A 2024,1987
-1987-12-13,Sport,3,0,Guarani,False,False,final,Brasileirão Série A 2024,1987
-1987-12-06,Mixto,2,1,Operário-MS,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Operário-MT,2,0,Sobradinho,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Mixto,1,1,Operário-MT,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Operário-MS,4,0,Sobradinho,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Mixto,0,0,Sobradinho,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Operário-MS,1,0,Operário-MT,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Sobradinho,0,1,Mixto,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Operário-MT,1,2,Operário-MS,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Operário-MT,0,0,Mixto,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Sobradinho,0,1,Operário-MS,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Operário-MS,0,1,Mixto,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Auto Esporte-PB,0,3,Catuense,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Central,0,1,CRB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Auto Esporte-PB,0,0,CRB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Catuense,2,0,Central,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Auto Esporte-PB,1,0,Central,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Catuense,2,0,CRB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Central,2,4,Auto Esporte-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,CRB,1,3,Catuense,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Central,0,1,Catuense,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,CRB,2,1,Auto Esporte-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,CRB,2,4,Central,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Catuense,0,2,Auto Esporte-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,ABC,2,4,América-RN,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Botafogo-PB,2,1,Fortaleza,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,ABC,1,2,Botafogo-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,América-RN,1,1,Fortaleza,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,ABC,1,2,Fortaleza,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,América-RN,3,1,Botafogo-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Botafogo-PB,1,0,América-RN,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Fortaleza,0,1,ABC,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Fortaleza,0,0,América-RN,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Botafogo-PB,2,2,ABC,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,América-RN,0,0,ABC,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Fortaleza,2,0,Botafogo-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Ferroviário,1,0,Serrano,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Maranhão,0,1,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Ferroviário,2,0,Maranhão,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Sampaio Corrêa-MA,0,1,Serrano,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Ferroviário,3,1,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Maranhão,2,1,Serrano,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Serrano,1,0,Maranhão,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Sampaio Corrêa-MA,1,0,Ferroviário,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Serrano,0,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Maranhão,3,1,Ferroviário,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Sampaio Corrêa-MA,1,1,Maranhão,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Serrano,0,0,Ferroviário,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Imperatriz,1,1,Piauí,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Moto Club,3,1,River,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Imperatriz,0,0,River,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Moto Club,0,0,Piauí,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Imperatriz,0,2,Moto Club,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Piauí,2,0,River,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,River,1,0,Piauí,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Moto Club,2,0,Imperatriz,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Piauí,0,0,Moto Club,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,River,1,2,Imperatriz,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Piauí,1,0,Imperatriz,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,River,1,3,Moto Club,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Nacional-AM,2,1,Rio Negro,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Paysandu,0,1,Tuna Luso,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Nacional-AM,1,2,Paysandu,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Rio Negro,0,1,Tuna Luso,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Nacional-AM,1,1,Tuna Luso,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Paysandu,3,1,Rio Negro,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Rio Negro,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Tuna Luso,0,2,Nacional-AM,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Tuna Luso,1,0,Rio Negro,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Paysandu,2,0,Nacional-AM,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Tuna Luso,2,3,Paysandu,False,False,first,Brasileirão Série A 2024,1987
-1987-12-06,Rio Negro,3,0,Nacional-AM,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Auto Esporte-PB,0,1,Mixto,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Mixto,3,0,Auto Esporte-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Operário-MS,2,0,Catuense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Catuense,2,2,Operário-MS,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Sampaio Corrêa-MA,1,1,Botafogo-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Botafogo-PB,0,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,América-RN,1,0,Ferroviário,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Ferroviário,0,2,América-RN,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Tuna Luso,2,0,Moto Club,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Moto Club,2,0,Tuna Luso,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Piauí,1,1,Paysandu,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Paysandu,2,0,Piauí,False,False,first,Brasileirão Série A 2024,1987
-1987-11-25,Tuna Luso,2,2,Paysandu,False,False,first,Brasileirão Série A 2024,1987
-1987-11-28,Paysandu,1,0,Tuna Luso,False,False,first,Brasileirão Série A 2024,1987
-1987-11-25,Operário-MS,2,0,Mixto,False,False,first,Brasileirão Série A 2024,1987
-1987-11-28,Mixto,2,2,Operário-MS,False,False,first,Brasileirão Série A 2024,1987
-1987-11-26,América-RN,1,0,Botafogo-PB,False,False,first,Brasileirão Série A 2024,1987
-1987-11-29,Botafogo-PB,2,0,América-RN,False,False,first,Brasileirão Série A 2024,1987
-1987-12-09,Paysandu,2,0,Botafogo,False,False,first,Brasileirão Série A 2024,1987
-1987-12-09,Botafogo,0,0,Operário-MS,False,False,first,Brasileirão Série A 2024,1987
-1987-12-09,Operário-MS,2,1,Paysandu,False,False,first,Brasileirão Série A 2024,1987
-1987-12-09,Esportivo,0,0,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Chapecoense,0,0,Pinheiros,False,False,first,Brasileirão Série A 2024,1987
-1987-10-11,Esportivo,1,1,Chapecoense,False,False,first,Brasileirão Série A 2024,1987
-1987-10-20,Santa Cruz,1,0,Pinheiros,False,False,first,Brasileirão Série A 2024,1987
-1987-10-20,Chapecoense,2,2,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-10-25,Pinheiros,4,1,Esportivo,False,False,first,Brasileirão Série A 2024,1987
-1987-10-25,Santa Cruz,1,0,Esportivo,False,False,first,Brasileirão Série A 2024,1987
-1987-11-01,Pinheiros,0,1,Chapecoense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-01,Chapecoense,2,1,Esportivo,False,False,first,Brasileirão Série A 2024,1987
-1987-11-07,Pinheiros,1,1,Santa Cruz,False,False,first,Brasileirão Série A 2024,1987
-1987-11-07,Santa Cruz,0,0,Chapecoense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-07,Caxias,1,1,Juventude,False,False,first,Brasileirão Série A 2024,1987
-1987-10-10,Avaí,2,1,Londrina,False,False,first,Brasileirão Série A 2024,1987
-1987-10-10,Juventude,0,0,Avaí,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Caxias,2,1,Londrina,False,False,first,Brasileirão Série A 2024,1987
-1987-10-18,Caxias,1,0,Avaí,False,False,first,Brasileirão Série A 2024,1987
-1987-10-25,Londrina,1,0,Juventude,False,False,first,Brasileirão Série A 2024,1987
-1987-10-25,Juventude,1,0,Caxias,False,False,first,Brasileirão Série A 2024,1987
-1987-11-01,Londrina,0,0,Avaí,False,False,first,Brasileirão Série A 2024,1987
-1987-11-01,Avaí,1,1,Juventude,False,False,first,Brasileirão Série A 2024,1987
-1987-11-07,Londrina,0,2,Caxias,False,False,first,Brasileirão Série A 2024,1987
-1987-11-07,Avaí,1,0,Caxias,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Juventude,3,1,Londrina,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Americano,0,0,CA Juventus,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Desportiva,3,0,Estrela do Norte,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Estrela do Norte,1,0,Americano,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Desportiva,1,1,CA Juventus,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Americano,1,1,Desportiva,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Estrela do Norte,0,1,CA Juventus,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,CA Juventus,0,0,Americano,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Estrela do Norte,1,0,Desportiva,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Americano,1,0,Estrela do Norte,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,CA Juventus,0,0,Desportiva,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Desportiva,0,1,Americano,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,CA Juventus,4,0,Estrela do Norte,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,América-MG,1,0,Goytacaz,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Tupi-MG,4,0,Botafogo-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,América-MG,2,1,Tupi-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Goytacaz,2,1,Botafogo-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Botafogo-SP,2,0,América-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Goytacaz,0,1,Tupi-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Goytacaz,2,1,América-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Botafogo-SP,1,0,Tupi-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Botafogo-SP,2,1,Goytacaz,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Tupi-MG,1,0,América-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,América-MG,0,0,Botafogo-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Tupi-MG,2,0,Goytacaz,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Itumbiara,0,1,Santo André,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Uberaba-MG,0,1,Uberlândia-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Uberlândia-MG,2,0,Itumbiara,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Uberaba-MG,1,0,Santo André,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Itumbiara,0,1,Uberaba-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Santo André,0,2,Uberlândia-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Santo André,0,0,Itumbiara,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Uberlândia-MG,0,0,Uberaba-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Itumbiara,0,0,Uberlândia-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Santo André,0,0,Uberaba-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Uberaba-MG,0,0,Itumbiara,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Uberlândia-MG,0,1,Santo André,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Anapolina,2,0,Corumbaense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Brasília,1,3,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Anapolina,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Brasília,3,2,Corumbaense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Brasília,1,1,Anapolina,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Corumbaense,2,2,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Corumbaense,2,0,Anapolina,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Ponte Preta-SP,2,0,Brasília,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Ponte Preta-SP,2,0,Anapolina,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Corumbaense,2,0,Brasília,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Anapolina,0,0,Brasília,False,False,first,Brasileirão Série A 2024,1987
-1987-11-12,Ponte Preta-SP,3,0,Corumbaense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Juventude,2,1,Chapecoense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Chapecoense,1,1,Juventude,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Santa Cruz-RS,1,1,Caxias,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Caxias,1,0,Santa Cruz-RS,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Botafogo-SP,1,0,CA Juventus,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,CA Juventus,1,0,Botafogo-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Americano,1,0,Tupi-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Tupi-MG,0,1,Americano,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Corumbaense,1,0,Uberlândia-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Uberlândia-MG,2,1,Corumbaense,False,False,first,Brasileirão Série A 2024,1987
-1987-11-18,Uberaba-MG,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-21,Ponte Preta-SP,3,0,Uberaba-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-25,Uberlândia-MG,5,0,Ponte Preta-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-28,Ponte Preta-SP,3,0,Uberlândia-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-11-25,Americano,3,1,Botafogo-SP,False,False,first,Brasileirão Série A 2024,1987
-1987-11-28,Botafogo-SP,1,0,Americano,False,False,first,Brasileirão Série A 2024,1987
-1987-11-25,Juventude,1,0,Caxias,False,False,first,Brasileirão Série A 2024,1987
-1987-11-29,Caxias,1,1,Juventude,False,False,first,Brasileirão Série A 2024,1987
-1987-12-05,Juventude,0,0,Americano,False,False,first,Brasileirão Série A 2024,1987
-1987-12-09,Americano,2,0,Uberlândia-MG,False,False,first,Brasileirão Série A 2024,1987
-1987-12-24,Uberlândia-MG,2,0,Juventude,False,False,first,Brasileirão Série A 2024,1987
+1987-09-11,Palmeiras,2,0,Cruzeiro,False,False,first,Brasileirão Série A,1987
+1987-09-12,Botafogo,1,0,Goiás,False,False,first,Brasileirão Série A,1987
+1987-09-13,Corinthians,0,1,Fluminense,False,False,first,Brasileirão Série A,1987
+1987-09-13,Flamengo,0,2,São Paulo,False,False,first,Brasileirão Série A,1987
+1987-09-13,Internacional,4,0,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-09-13,Coritiba,0,1,Grêmio,False,False,first,Brasileirão Série A,1987
+1987-09-13,Bahia,0,3,Vasco da Gama,False,False,first,Brasileirão Série A,1987
+1987-09-13,Atlético-MG,5,1,Santos,False,False,first,Brasileirão Série A,1987
+1987-09-18,Corinthians,0,1,Goiás,False,False,first,Brasileirão Série A,1987
+1987-09-19,Atlético-MG,0,0,Internacional,False,False,first,Brasileirão Série A,1987
+1987-09-20,Santos,0,0,Palmeiras,False,False,first,Brasileirão Série A,1987
+1987-09-20,Fluminense,1,1,Botafogo,False,False,first,Brasileirão Série A,1987
+1987-09-20,Bahia,1,1,São Paulo,False,False,first,Brasileirão Série A,1987
+1987-09-20,Flamengo,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,1987
+1987-09-20,Grêmio,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1987
+1987-09-20,Santa Cruz,0,0,Coritiba,False,False,first,Brasileirão Série A,1987
+1987-09-23,Fluminense,2,0,Palmeiras,False,False,first,Brasileirão Série A,1987
+1987-09-23,São Paulo,3,0,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-09-23,Grêmio,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,1987
+1987-09-23,Cruzeiro,2,1,Bahia,False,False,first,Brasileirão Série A,1987
+1987-09-23,Coritiba,2,1,Corinthians,False,False,first,Brasileirão Série A,1987
+1987-09-24,Botafogo,0,0,Internacional,False,False,first,Brasileirão Série A,1987
+1987-09-24,Santos,0,0,Flamengo,False,False,first,Brasileirão Série A,1987
+1987-09-30,Goiás,0,1,Atlético-MG,False,False,first,Brasileirão Série A,1987
+1987-09-26,Coritiba,2,1,Bahia,False,False,first,Brasileirão Série A,1987
+1987-09-26,Fluminense,0,0,Grêmio,False,False,first,Brasileirão Série A,1987
+1987-09-26,Palmeiras,2,1,São Paulo,False,False,first,Brasileirão Série A,1987
+1987-09-26,Goiás,1,0,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-09-27,Cruzeiro,1,1,Botafogo,False,False,first,Brasileirão Série A,1987
+1987-09-27,Corinthians,0,0,Santos,False,False,first,Brasileirão Série A,1987
+1987-09-27,Internacional,2,0,Flamengo,False,False,first,Brasileirão Série A,1987
+1987-09-27,Vasco da Gama,1,2,Atlético-MG,False,False,first,Brasileirão Série A,1987
+1987-10-01,Vasco da Gama,1,0,Botafogo,False,False,first,Brasileirão Série A,1987
+1987-10-02,Internacional,2,0,Palmeiras,False,False,first,Brasileirão Série A,1987
+1987-10-03,Atlético-MG,2,0,Coritiba,False,False,first,Brasileirão Série A,1987
+1987-10-03,Santos,1,0,Grêmio,False,False,first,Brasileirão Série A,1987
+1987-10-04,Bahia,1,0,Goiás,False,False,first,Brasileirão Série A,1987
+1987-10-04,Flamengo,0,1,Fluminense,False,False,first,Brasileirão Série A,1987
+1987-10-04,São Paulo,0,0,Corinthians,False,False,first,Brasileirão Série A,1987
+1987-10-04,Santa Cruz,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1987
+1987-10-07,Bahia,0,2,Internacional,False,False,first,Brasileirão Série A,1987
+1987-10-07,Santa Cruz,1,1,Fluminense,False,False,first,Brasileirão Série A,1987
+1987-10-07,Palmeiras,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,1987
+1987-10-07,Botafogo,0,0,Santos,False,False,first,Brasileirão Série A,1987
+1987-10-08,São Paulo,0,1,Atlético-MG,False,False,first,Brasileirão Série A,1987
+1987-10-08,Cruzeiro,1,1,Corinthians,False,False,first,Brasileirão Série A,1987
+1987-10-08,Grêmio,4,0,Goiás,False,False,first,Brasileirão Série A,1987
+1987-10-08,Flamengo,3,1,Coritiba,False,False,first,Brasileirão Série A,1987
+1987-10-10,Santa Cruz,3,1,Santos,False,False,first,Brasileirão Série A,1987
+1987-10-11,Vasco da Gama,4,1,Corinthians,False,False,first,Brasileirão Série A,1987
+1987-10-11,Cruzeiro,0,0,Atlético-MG,False,False,first,Brasileirão Série A,1987
+1987-10-11,Goiás,1,1,Flamengo,False,False,first,Brasileirão Série A,1987
+1987-10-11,Palmeiras,1,0,Coritiba,False,False,first,Brasileirão Série A,1987
+1987-10-12,São Paulo,0,2,Botafogo,False,False,first,Brasileirão Série A,1987
+1987-10-12,Internacional,0,1,Grêmio,False,False,first,Brasileirão Série A,1987
+1987-10-12,Fluminense,0,1,Bahia,False,False,first,Brasileirão Série A,1987
+1987-10-16,Goiás,2,0,Palmeiras,False,False,first,Brasileirão Série A,1987
+1987-10-17,Vasco da Gama,0,0,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-10-17,Santos,0,1,Bahia,False,False,first,Brasileirão Série A,1987
+1987-10-18,Flamengo,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1987
+1987-10-18,Corinthians,1,0,Internacional,False,False,first,Brasileirão Série A,1987
+1987-10-18,Coritiba,1,1,Botafogo,False,False,first,Brasileirão Série A,1987
+1987-10-18,Grêmio,1,0,São Paulo,False,False,first,Brasileirão Série A,1987
+1987-10-18,Atlético-MG,3,1,Fluminense,False,False,first,Brasileirão Série A,1987
+1987-10-23,Grêmio,0,0,Atlético-MG,False,False,second,Brasileirão Série A,1987
+1987-10-24,Flamengo,1,0,Botafogo,False,False,second,Brasileirão Série A,1987
+1987-10-25,Corinthians,0,0,Palmeiras,False,False,second,Brasileirão Série A,1987
+1987-10-25,Bahia,0,0,Santa Cruz,False,False,second,Brasileirão Série A,1987
+1987-10-28,Botafogo,0,0,Atlético-MG,False,False,second,Brasileirão Série A,1987
+1987-10-28,Bahia,1,1,Corinthians,False,False,second,Brasileirão Série A,1987
+1987-10-28,Santa Cruz,1,2,Palmeiras,False,False,second,Brasileirão Série A,1987
+1987-10-29,Flamengo,1,1,Grêmio,False,False,second,Brasileirão Série A,1987
+1987-10-31,Corinthians,2,1,Santa Cruz,False,False,second,Brasileirão Série A,1987
+1987-11-01,Palmeiras,0,1,Bahia,False,False,second,Brasileirão Série A,1987
+1987-11-01,Atlético-MG,1,0,Flamengo,False,False,second,Brasileirão Série A,1987
+1987-11-02,Grêmio,0,2,Botafogo,False,False,second,Brasileirão Série A,1987
+1987-11-07,Flamengo,2,0,Palmeiras,False,False,second,Brasileirão Série A,1987
+1987-11-07,Grêmio,2,0,Bahia,False,False,second,Brasileirão Série A,1987
+1987-11-07,Atlético-MG,2,0,Santa Cruz,False,False,second,Brasileirão Série A,1987
+1987-11-07,Botafogo,1,0,Corinthians,False,False,second,Brasileirão Série A,1987
+1987-11-11,Palmeiras,2,1,Grêmio,False,False,second,Brasileirão Série A,1987
+1987-11-11,Santa Cruz,1,0,Botafogo,False,False,second,Brasileirão Série A,1987
+1987-11-11,Corinthians,1,2,Atlético-MG,False,False,second,Brasileirão Série A,1987
+1987-11-11,Bahia,0,2,Flamengo,False,False,second,Brasileirão Série A,1987
+1987-11-14,Santa Cruz,2,1,Grêmio,False,False,second,Brasileirão Série A,1987
+1987-11-14,Palmeiras,1,0,Botafogo,False,False,second,Brasileirão Série A,1987
+1987-11-15,Corinthians,1,1,Flamengo,False,False,second,Brasileirão Série A,1987
+1987-11-15,Bahia,1,1,Atlético-MG,False,False,second,Brasileirão Série A,1987
+1987-11-19,Grêmio,1,0,Corinthians,False,False,second,Brasileirão Série A,1987
+1987-11-21,Botafogo,2,2,Bahia,False,False,second,Brasileirão Série A,1987
+1987-11-22,Flamengo,3,1,Santa Cruz,False,False,second,Brasileirão Série A,1987
+1987-11-22,Atlético-MG,1,0,Palmeiras,False,False,second,Brasileirão Série A,1987
+1987-10-24,São Paulo,3,1,Santos,False,False,second,Brasileirão Série A,1987
+1987-10-24,Vasco da Gama,0,2,Fluminense,False,False,second,Brasileirão Série A,1987
+1987-10-24,Goiás,1,1,Coritiba,False,False,second,Brasileirão Série A,1987
+1987-10-24,Cruzeiro,3,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-10-28,Cruzeiro,3,0,Vasco da Gama,False,False,second,Brasileirão Série A,1987
+1987-10-28,Internacional,0,1,Fluminense,False,False,second,Brasileirão Série A,1987
+1987-10-28,São Paulo,2,0,Goiás,False,False,second,Brasileirão Série A,1987
+1987-10-29,Santos,2,1,Coritiba,False,False,second,Brasileirão Série A,1987
+1987-10-31,Coritiba,3,2,São Paulo,False,False,second,Brasileirão Série A,1987
+1987-10-31,Fluminense,1,1,Cruzeiro,False,False,second,Brasileirão Série A,1987
+1987-11-01,Vasco da Gama,1,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-11-01,Goiás,0,0,Santos,False,False,second,Brasileirão Série A,1987
+1987-11-06,Santos,0,0,Vasco da Gama,False,False,second,Brasileirão Série A,1987
+1987-11-07,São Paulo,2,0,Fluminense,False,False,second,Brasileirão Série A,1987
+1987-11-07,Coritiba,0,3,Cruzeiro,False,False,second,Brasileirão Série A,1987
+1987-11-07,Internacional,0,0,Goiás,False,False,second,Brasileirão Série A,1987
+1987-11-07,Fluminense,1,0,Goiás,False,False,second,Brasileirão Série A,1987
+1987-11-07,Internacional,2,0,Santos,False,False,second,Brasileirão Série A,1987
+1987-11-07,Cruzeiro,0,0,São Paulo,False,False,second,Brasileirão Série A,1987
+1987-11-07,Vasco da Gama,3,2,Coritiba,False,False,second,Brasileirão Série A,1987
+1987-11-14,Fluminense,1,1,Santos,False,False,second,Brasileirão Série A,1987
+1987-11-15,Vasco da Gama,1,2,São Paulo,False,False,second,Brasileirão Série A,1987
+1987-11-15,Internacional,0,0,Coritiba,False,False,second,Brasileirão Série A,1987
+1987-11-15,Cruzeiro,1,0,Goiás,False,False,second,Brasileirão Série A,1987
+1987-11-21,São Paulo,3,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-11-21,Coritiba,2,1,Fluminense,False,False,second,Brasileirão Série A,1987
+1987-11-22,Goiás,2,2,Vasco da Gama,False,False,second,Brasileirão Série A,1987
+1987-11-22,Santos,0,1,Cruzeiro,False,False,second,Brasileirão Série A,1987
+1987-11-29,Flamengo,1,0,Atlético-MG,False,False,semi,Brasileirão Série A,1987
+1987-12-02,Atlético-MG,2,3,Flamengo,False,False,semi,Brasileirão Série A,1987
+1987-11-29,Internacional,0,0,Cruzeiro,False,False,semi,Brasileirão Série A,1987
+1987-12-02,Cruzeiro,0,0,Internacional,False,False,semi,Brasileirão Série A,1987
+1987-12-06,Internacional,1,1,Flamengo,False,False,final,Brasileirão Série A,1987
+1987-12-13,Flamengo,1,0,Internacional,False,False,final,Brasileirão Série A,1987
+1987-09-13,Bangu,1,1,Joinville,False,False,first,Brasileirão Série A,1987
+1987-09-13,Criciúma,1,2,Ceará,False,False,first,Brasileirão Série A,1987
+1987-09-13,Treze,0,0,Atlético-PR,False,False,first,Brasileirão Série A,1987
+1987-09-13,CSA,0,1,Guarani,False,False,first,Brasileirão Série A,1987
+1987-09-16,Vitória,3,1,Joinville,False,False,first,Brasileirão Série A,1987
+1987-09-16,Internacional,1,0,Ceará,False,False,first,Brasileirão Série A,1987
+1987-09-16,Sport,1,1,Atlético-PR,False,False,first,Brasileirão Série A,1987
+1987-09-16,Treze,1,3,Guarani,False,False,first,Brasileirão Série A,1987
+1987-09-17,Criciúma,2,0,Náutico,False,False,first,Brasileirão Série A,1987
+1987-09-19,Rio Branco-ES,0,1,CSA,False,False,first,Brasileirão Série A,1987
+1987-09-19,Vitória,1,2,Atlético-PR,False,False,first,Brasileirão Série A,1987
+1987-09-20,Internacional,2,1,Treze,False,False,first,Brasileirão Série A,1987
+1987-09-20,Atlético-GO,1,0,Ceará,False,False,first,Brasileirão Série A,1987
+1987-09-20,Sport,2,0,Guarani,False,False,first,Brasileirão Série A,1987
+1987-09-20,Criciúma,1,0,Bangu,False,False,first,Brasileirão Série A,1987
+1987-09-20,Joinville,2,1,Náutico,False,False,first,Brasileirão Série A,1987
+1987-09-23,Atlético-PR,1,2,Bangu,False,False,first,Brasileirão Série A,1987
+1987-09-23,Joinville,0,0,Treze,False,False,first,Brasileirão Série A,1987
+1987-09-23,Atlético-GO,3,1,CSA,False,False,first,Brasileirão Série A,1987
+1987-09-23,Sport,3,0,Criciúma,False,False,first,Brasileirão Série A,1987
+1987-09-24,Náutico,0,1,Rio Branco-ES,False,False,first,Brasileirão Série A,1987
+1987-09-27,Ceará,1,1,Rio Branco-ES,False,False,first,Brasileirão Série A,1987
+1987-09-27,Náutico,2,1,Atlético-GO,False,False,first,Brasileirão Série A,1987
+1987-09-27,Bangu,1,0,Internacional,False,False,first,Brasileirão Série A,1987
+1987-09-27,Guarani,0,1,Vitória,False,False,first,Brasileirão Série A,1987
+1987-09-27,Joinville,0,1,Sport,False,False,first,Brasileirão Série A,1987
+1987-09-27,Treze,2,1,Criciúma,False,False,first,Brasileirão Série A,1987
+1987-09-27,Atlético-PR,1,1,CSA,False,False,first,Brasileirão Série A,1987
+1987-09-30,Portuguesa-SP,1,1,Sport,False,False,first,Brasileirão Série A,1987
+1987-09-30,Internacional,0,0,Vitória,False,False,first,Brasileirão Série A,1987
+1987-09-30,Bangu,0,0,Guarani,False,False,first,Brasileirão Série A,1987
+1987-09-30,CSA,1,2,Criciúma,False,False,first,Brasileirão Série A,1987
+1987-09-30,Treze,3,1,Atlético-GO,False,False,first,Brasileirão Série A,1987
+1987-10-01,Ceará,1,0,Joinville,False,False,first,Brasileirão Série A,1987
+1987-10-03,Internacional,0,1,Náutico,False,False,first,Brasileirão Série A,1987
+1987-10-04,CSA,3,2,Joinville,False,False,first,Brasileirão Série A,1987
+1987-10-04,Criciúma,2,1,Vitória,False,False,first,Brasileirão Série A,1987
+1987-10-04,Atlético-GO,0,0,Sport,False,False,first,Brasileirão Série A,1987
+1987-10-04,Bangu,1,0,Rio Branco-ES,False,False,first,Brasileirão Série A,1987
+1987-10-04,Ceará,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1987
+1987-10-07,CSA,0,2,Internacional,False,False,first,Brasileirão Série A,1987
+1987-10-07,Rio Branco-ES,0,1,Sport,False,False,first,Brasileirão Série A,1987
+1987-10-08,Náutico,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1987
+1987-10-10,Atlético-GO,1,0,Bangu,False,False,first,Brasileirão Série A,1987
+1987-10-11,Rio Branco-ES,2,1,Treze,False,False,first,Brasileirão Série A,1987
+1987-10-11,Sport,4,0,Internacional,False,False,first,Brasileirão Série A,1987
+1987-10-11,Guarani,4,2,Náutico,False,False,first,Brasileirão Série A,1987
+1987-10-11,Vitória,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1987
+1987-10-11,Ceará,0,1,Atlético-PR,False,False,first,Brasileirão Série A,1987
+1987-10-13,Portuguesa-SP,1,0,Treze,False,False,first,Brasileirão Série A,1987
+1987-10-14,Atlético-PR,2,0,Náutico,False,False,first,Brasileirão Série A,1987
+1987-10-14,Rio Branco-ES,0,0,Vitória,False,False,first,Brasileirão Série A,1987
+1987-10-15,Portuguesa-SP,1,0,Bangu,False,False,first,Brasileirão Série A,1987
+1987-10-18,Portuguesa-SP,4,0,CSA,False,False,first,Brasileirão Série A,1987
+1987-10-18,Guarani,1,0,Ceará,False,False,first,Brasileirão Série A,1987
+1987-10-18,Vitória,0,0,Atlético-GO,False,False,first,Brasileirão Série A,1987
+1987-10-21,Guarani,0,2,Atlético-PR,False,False,first,Brasileirão Série A,1987
+1987-10-21,Rio Branco-ES,0,0,Atlético-GO,False,False,second,Brasileirão Série A,1987
+1987-10-24,Atlético-GO,0,2,Criciúma,False,False,second,Brasileirão Série A,1987
+1987-10-25,Rio Branco-ES,0,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-10-25,Guarani,2,0,Portuguesa-SP,False,False,second,Brasileirão Série A,1987
+1987-10-25,Joinville,1,2,Atlético-PR,False,False,second,Brasileirão Série A,1987
+1987-10-28,Atlético-PR,0,1,Portuguesa-SP,False,False,second,Brasileirão Série A,1987
+1987-10-28,Criciúma,3,0,Rio Branco-ES,False,False,second,Brasileirão Série A,1987
+1987-10-28,Internacional,1,0,Atlético-GO,False,False,second,Brasileirão Série A,1987
+1987-10-28,Joinville,0,2,Guarani,False,False,second,Brasileirão Série A,1987
+1987-11-01,Joinville,0,0,Rio Branco-ES,False,False,second,Brasileirão Série A,1987
+1987-11-01,Guarani,2,0,Criciúma,False,False,second,Brasileirão Série A,1987
+1987-11-01,Portuguesa-SP,1,0,Atlético-GO,False,False,second,Brasileirão Série A,1987
+1987-11-01,Internacional,1,1,Atlético-PR,False,False,second,Brasileirão Série A,1987
+1987-11-04,Criciúma,2,0,Joinville,False,False,second,Brasileirão Série A,1987
+1987-11-04,Atlético-PR,3,0,Atlético-GO,False,False,second,Brasileirão Série A,1987
+1987-11-08,Internacional,0,0,Joinville,False,False,second,Brasileirão Série A,1987
+1987-11-08,Atlético-GO,1,0,Guarani,False,False,second,Brasileirão Série A,1987
+1987-11-08,Atlético-PR,1,1,Rio Branco-ES,False,False,second,Brasileirão Série A,1987
+1987-11-08,Portuguesa-SP,0,0,Criciúma,False,False,second,Brasileirão Série A,1987
+1987-11-11,Rio Branco-ES,2,3,Guarani,False,False,second,Brasileirão Série A,1987
+1987-11-11,Atlético-GO,0,0,Joinville,False,False,second,Brasileirão Série A,1987
+1987-11-11,Portuguesa-SP,1,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-11-15,Guarani,0,0,Atlético-PR,False,False,second,Brasileirão Série A,1987
+1987-11-15,Criciúma,0,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-11-15,Joinville,1,0,Portuguesa-SP,False,False,second,Brasileirão Série A,1987
+1987-11-18,Guarani,0,0,Internacional,False,False,second,Brasileirão Série A,1987
+1987-11-18,Criciúma,1,1,Atlético-PR,False,False,second,Brasileirão Série A,1987
+1987-11-18,Portuguesa-SP,0,1,Rio Branco-ES,False,False,second,Brasileirão Série A,1987
+1987-10-21,Bangu,2,0,Ceará,False,False,second,Brasileirão Série A,1987
+1987-10-21,Vitória,0,0,CSA,False,False,second,Brasileirão Série A,1987
+1987-10-25,CSA,1,1,Náutico,False,False,second,Brasileirão Série A,1987
+1987-10-25,Sport,2,1,Ceará,False,False,second,Brasileirão Série A,1987
+1987-10-28,Bangu,2,0,Sport,False,False,second,Brasileirão Série A,1987
+1987-10-28,Ceará,0,2,Treze,False,False,second,Brasileirão Série A,1987
+1987-11-01,Treze,1,1,Vitória,False,False,second,Brasileirão Série A,1987
+1987-11-01,CSA,0,0,Bangu,False,False,second,Brasileirão Série A,1987
+1987-11-01,Náutico,0,1,Sport,False,False,second,Brasileirão Série A,1987
+1987-11-04,Náutico,2,2,Vitória,False,False,second,Brasileirão Série A,1987
+1987-11-04,Treze,0,0,Bangu,False,False,second,Brasileirão Série A,1987
+1987-11-08,Sport,0,0,Vitória,False,False,second,Brasileirão Série A,1987
+1987-11-08,Ceará,1,0,Náutico,False,False,second,Brasileirão Série A,1987
+1987-11-08,Treze,2,1,CSA,False,False,second,Brasileirão Série A,1987
+1987-11-11,CSA,0,1,Sport,False,False,second,Brasileirão Série A,1987
+1987-11-14,Vitória,1,0,Ceará,False,False,second,Brasileirão Série A,1987
+1987-11-15,Sport,2,1,Treze,False,False,second,Brasileirão Série A,1987
+1987-11-15,Bangu,3,0,Náutico,False,False,second,Brasileirão Série A,1987
+1987-11-18,Ceará,2,0,CSA,False,False,second,Brasileirão Série A,1987
+1987-11-18,Vitória,3,1,Bangu,False,False,second,Brasileirão Série A,1987
+1987-11-18,Náutico,2,1,Treze,False,False,second,Brasileirão Série A,1987
+1987-11-22,Bangu,1,1,Vitória,False,False,first,Brasileirão Série A,1987
+1987-11-28,Atlético-PR,0,0,Guarani,False,False,semi,Brasileirão Série A,1987
+1987-12-02,Guarani,0,0,Atlético-PR,False,False,semi,Brasileirão Série A,1987
+1987-11-29,Bangu,3,2,Sport,False,False,semi,Brasileirão Série A,1987
+1987-12-03,Sport,3,1,Bangu,False,False,semi,Brasileirão Série A,1987
+1987-12-06,Guarani,2,0,Sport,False,False,final,Brasileirão Série A,1987
+1987-12-13,Sport,3,0,Guarani,False,False,final,Brasileirão Série A,1987
+1987-12-06,Mixto,2,1,Operário-MS,False,False,first,Brasileirão Série A,1987
+1987-12-06,Operário-MT,2,0,Sobradinho,False,False,first,Brasileirão Série A,1987
+1987-12-06,Mixto,1,1,Operário-MT,False,False,first,Brasileirão Série A,1987
+1987-12-06,Operário-MS,4,0,Sobradinho,False,False,first,Brasileirão Série A,1987
+1987-12-06,Mixto,0,0,Sobradinho,False,False,first,Brasileirão Série A,1987
+1987-12-06,Operário-MS,1,0,Operário-MT,False,False,first,Brasileirão Série A,1987
+1987-12-06,Sobradinho,0,1,Mixto,False,False,first,Brasileirão Série A,1987
+1987-12-06,Operário-MT,1,2,Operário-MS,False,False,first,Brasileirão Série A,1987
+1987-12-06,Operário-MT,0,0,Mixto,False,False,first,Brasileirão Série A,1987
+1987-12-06,Sobradinho,0,1,Operário-MS,False,False,first,Brasileirão Série A,1987
+1987-12-06,Operário-MS,0,1,Mixto,False,False,first,Brasileirão Série A,1987
+1987-12-06,Auto Esporte-PB,0,3,Catuense,False,False,first,Brasileirão Série A,1987
+1987-12-06,Central,0,1,CRB,False,False,first,Brasileirão Série A,1987
+1987-12-06,Auto Esporte-PB,0,0,CRB,False,False,first,Brasileirão Série A,1987
+1987-12-06,Catuense,2,0,Central,False,False,first,Brasileirão Série A,1987
+1987-12-06,Auto Esporte-PB,1,0,Central,False,False,first,Brasileirão Série A,1987
+1987-12-06,Catuense,2,0,CRB,False,False,first,Brasileirão Série A,1987
+1987-12-06,Central,2,4,Auto Esporte-PB,False,False,first,Brasileirão Série A,1987
+1987-12-06,CRB,1,3,Catuense,False,False,first,Brasileirão Série A,1987
+1987-12-06,Central,0,1,Catuense,False,False,first,Brasileirão Série A,1987
+1987-12-06,CRB,2,1,Auto Esporte-PB,False,False,first,Brasileirão Série A,1987
+1987-12-06,CRB,2,4,Central,False,False,first,Brasileirão Série A,1987
+1987-12-06,Catuense,0,2,Auto Esporte-PB,False,False,first,Brasileirão Série A,1987
+1987-12-06,ABC,2,4,América-RN,False,False,first,Brasileirão Série A,1987
+1987-12-06,Botafogo-PB,2,1,Fortaleza,False,False,first,Brasileirão Série A,1987
+1987-12-06,ABC,1,2,Botafogo-PB,False,False,first,Brasileirão Série A,1987
+1987-12-06,América-RN,1,1,Fortaleza,False,False,first,Brasileirão Série A,1987
+1987-12-06,ABC,1,2,Fortaleza,False,False,first,Brasileirão Série A,1987
+1987-12-06,América-RN,3,1,Botafogo-PB,False,False,first,Brasileirão Série A,1987
+1987-12-06,Botafogo-PB,1,0,América-RN,False,False,first,Brasileirão Série A,1987
+1987-12-06,Fortaleza,0,1,ABC,False,False,first,Brasileirão Série A,1987
+1987-12-06,Fortaleza,0,0,América-RN,False,False,first,Brasileirão Série A,1987
+1987-12-06,Botafogo-PB,2,2,ABC,False,False,first,Brasileirão Série A,1987
+1987-12-06,América-RN,0,0,ABC,False,False,first,Brasileirão Série A,1987
+1987-12-06,Fortaleza,2,0,Botafogo-PB,False,False,first,Brasileirão Série A,1987
+1987-12-06,Ferroviário,1,0,Serrano,False,False,first,Brasileirão Série A,1987
+1987-12-06,Maranhão,0,1,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1987
+1987-12-06,Ferroviário,2,0,Maranhão,False,False,first,Brasileirão Série A,1987
+1987-12-06,Sampaio Corrêa-MA,0,1,Serrano,False,False,first,Brasileirão Série A,1987
+1987-12-06,Ferroviário,3,1,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1987
+1987-12-06,Maranhão,2,1,Serrano,False,False,first,Brasileirão Série A,1987
+1987-12-06,Serrano,1,0,Maranhão,False,False,first,Brasileirão Série A,1987
+1987-12-06,Sampaio Corrêa-MA,1,0,Ferroviário,False,False,first,Brasileirão Série A,1987
+1987-12-06,Serrano,0,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1987
+1987-12-06,Maranhão,3,1,Ferroviário,False,False,first,Brasileirão Série A,1987
+1987-12-06,Sampaio Corrêa-MA,1,1,Maranhão,False,False,first,Brasileirão Série A,1987
+1987-12-06,Serrano,0,0,Ferroviário,False,False,first,Brasileirão Série A,1987
+1987-12-06,Imperatriz,1,1,Piauí,False,False,first,Brasileirão Série A,1987
+1987-12-06,Moto Club,3,1,River,False,False,first,Brasileirão Série A,1987
+1987-12-06,Imperatriz,0,0,River,False,False,first,Brasileirão Série A,1987
+1987-12-06,Moto Club,0,0,Piauí,False,False,first,Brasileirão Série A,1987
+1987-12-06,Imperatriz,0,2,Moto Club,False,False,first,Brasileirão Série A,1987
+1987-12-06,Piauí,2,0,River,False,False,first,Brasileirão Série A,1987
+1987-12-06,River,1,0,Piauí,False,False,first,Brasileirão Série A,1987
+1987-12-06,Moto Club,2,0,Imperatriz,False,False,first,Brasileirão Série A,1987
+1987-12-06,Piauí,0,0,Moto Club,False,False,first,Brasileirão Série A,1987
+1987-12-06,River,1,2,Imperatriz,False,False,first,Brasileirão Série A,1987
+1987-12-06,Piauí,1,0,Imperatriz,False,False,first,Brasileirão Série A,1987
+1987-12-06,River,1,3,Moto Club,False,False,first,Brasileirão Série A,1987
+1987-12-06,Nacional-AM,2,1,Rio Negro,False,False,first,Brasileirão Série A,1987
+1987-12-06,Paysandu,0,1,Tuna Luso,False,False,first,Brasileirão Série A,1987
+1987-12-06,Nacional-AM,1,2,Paysandu,False,False,first,Brasileirão Série A,1987
+1987-12-06,Rio Negro,0,1,Tuna Luso,False,False,first,Brasileirão Série A,1987
+1987-12-06,Nacional-AM,1,1,Tuna Luso,False,False,first,Brasileirão Série A,1987
+1987-12-06,Paysandu,3,1,Rio Negro,False,False,first,Brasileirão Série A,1987
+1987-12-06,Rio Negro,1,1,Paysandu,False,False,first,Brasileirão Série A,1987
+1987-12-06,Tuna Luso,0,2,Nacional-AM,False,False,first,Brasileirão Série A,1987
+1987-12-06,Tuna Luso,1,0,Rio Negro,False,False,first,Brasileirão Série A,1987
+1987-12-06,Paysandu,2,0,Nacional-AM,False,False,first,Brasileirão Série A,1987
+1987-12-06,Tuna Luso,2,3,Paysandu,False,False,first,Brasileirão Série A,1987
+1987-12-06,Rio Negro,3,0,Nacional-AM,False,False,first,Brasileirão Série A,1987
+1987-11-18,Auto Esporte-PB,0,1,Mixto,False,False,first,Brasileirão Série A,1987
+1987-11-21,Mixto,3,0,Auto Esporte-PB,False,False,first,Brasileirão Série A,1987
+1987-11-18,Operário-MS,2,0,Catuense,False,False,first,Brasileirão Série A,1987
+1987-11-21,Catuense,2,2,Operário-MS,False,False,first,Brasileirão Série A,1987
+1987-11-18,Sampaio Corrêa-MA,1,1,Botafogo-PB,False,False,first,Brasileirão Série A,1987
+1987-11-21,Botafogo-PB,0,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1987
+1987-11-18,América-RN,1,0,Ferroviário,False,False,first,Brasileirão Série A,1987
+1987-11-21,Ferroviário,0,2,América-RN,False,False,first,Brasileirão Série A,1987
+1987-11-18,Tuna Luso,2,0,Moto Club,False,False,first,Brasileirão Série A,1987
+1987-11-21,Moto Club,2,0,Tuna Luso,False,False,first,Brasileirão Série A,1987
+1987-11-18,Piauí,1,1,Paysandu,False,False,first,Brasileirão Série A,1987
+1987-11-21,Paysandu,2,0,Piauí,False,False,first,Brasileirão Série A,1987
+1987-11-25,Tuna Luso,2,2,Paysandu,False,False,first,Brasileirão Série A,1987
+1987-11-28,Paysandu,1,0,Tuna Luso,False,False,first,Brasileirão Série A,1987
+1987-11-25,Operário-MS,2,0,Mixto,False,False,first,Brasileirão Série A,1987
+1987-11-28,Mixto,2,2,Operário-MS,False,False,first,Brasileirão Série A,1987
+1987-11-26,América-RN,1,0,Botafogo-PB,False,False,first,Brasileirão Série A,1987
+1987-11-29,Botafogo-PB,2,0,América-RN,False,False,first,Brasileirão Série A,1987
+1987-12-09,Paysandu,2,0,Botafogo,False,False,first,Brasileirão Série A,1987
+1987-12-09,Botafogo,0,0,Operário-MS,False,False,first,Brasileirão Série A,1987
+1987-12-09,Operário-MS,2,1,Paysandu,False,False,first,Brasileirão Série A,1987
+1987-12-09,Esportivo,0,0,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-10-11,Chapecoense,0,0,Pinheiros,False,False,first,Brasileirão Série A,1987
+1987-10-11,Esportivo,1,1,Chapecoense,False,False,first,Brasileirão Série A,1987
+1987-10-20,Santa Cruz,1,0,Pinheiros,False,False,first,Brasileirão Série A,1987
+1987-10-20,Chapecoense,2,2,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-10-25,Pinheiros,4,1,Esportivo,False,False,first,Brasileirão Série A,1987
+1987-10-25,Santa Cruz,1,0,Esportivo,False,False,first,Brasileirão Série A,1987
+1987-11-01,Pinheiros,0,1,Chapecoense,False,False,first,Brasileirão Série A,1987
+1987-11-01,Chapecoense,2,1,Esportivo,False,False,first,Brasileirão Série A,1987
+1987-11-07,Pinheiros,1,1,Santa Cruz,False,False,first,Brasileirão Série A,1987
+1987-11-07,Santa Cruz,0,0,Chapecoense,False,False,first,Brasileirão Série A,1987
+1987-11-07,Caxias,1,1,Juventude,False,False,first,Brasileirão Série A,1987
+1987-10-10,Avaí,2,1,Londrina,False,False,first,Brasileirão Série A,1987
+1987-10-10,Juventude,0,0,Avaí,False,False,first,Brasileirão Série A,1987
+1987-10-18,Caxias,2,1,Londrina,False,False,first,Brasileirão Série A,1987
+1987-10-18,Caxias,1,0,Avaí,False,False,first,Brasileirão Série A,1987
+1987-10-25,Londrina,1,0,Juventude,False,False,first,Brasileirão Série A,1987
+1987-10-25,Juventude,1,0,Caxias,False,False,first,Brasileirão Série A,1987
+1987-11-01,Londrina,0,0,Avaí,False,False,first,Brasileirão Série A,1987
+1987-11-01,Avaí,1,1,Juventude,False,False,first,Brasileirão Série A,1987
+1987-11-07,Londrina,0,2,Caxias,False,False,first,Brasileirão Série A,1987
+1987-11-07,Avaí,1,0,Caxias,False,False,first,Brasileirão Série A,1987
+1987-11-12,Juventude,3,1,Londrina,False,False,first,Brasileirão Série A,1987
+1987-11-12,Americano,0,0,CA Juventus,False,False,first,Brasileirão Série A,1987
+1987-11-12,Desportiva,3,0,Estrela do Norte,False,False,first,Brasileirão Série A,1987
+1987-11-12,Estrela do Norte,1,0,Americano,False,False,first,Brasileirão Série A,1987
+1987-11-12,Desportiva,1,1,CA Juventus,False,False,first,Brasileirão Série A,1987
+1987-11-12,Americano,1,1,Desportiva,False,False,first,Brasileirão Série A,1987
+1987-11-12,Estrela do Norte,0,1,CA Juventus,False,False,first,Brasileirão Série A,1987
+1987-11-12,CA Juventus,0,0,Americano,False,False,first,Brasileirão Série A,1987
+1987-11-12,Estrela do Norte,1,0,Desportiva,False,False,first,Brasileirão Série A,1987
+1987-11-12,Americano,1,0,Estrela do Norte,False,False,first,Brasileirão Série A,1987
+1987-11-12,CA Juventus,0,0,Desportiva,False,False,first,Brasileirão Série A,1987
+1987-11-12,Desportiva,0,1,Americano,False,False,first,Brasileirão Série A,1987
+1987-11-12,CA Juventus,4,0,Estrela do Norte,False,False,first,Brasileirão Série A,1987
+1987-11-12,América-MG,1,0,Goytacaz,False,False,first,Brasileirão Série A,1987
+1987-11-12,Tupi-MG,4,0,Botafogo-SP,False,False,first,Brasileirão Série A,1987
+1987-11-12,América-MG,2,1,Tupi-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Goytacaz,2,1,Botafogo-SP,False,False,first,Brasileirão Série A,1987
+1987-11-12,Botafogo-SP,2,0,América-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Goytacaz,0,1,Tupi-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Goytacaz,2,1,América-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Botafogo-SP,1,0,Tupi-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Botafogo-SP,2,1,Goytacaz,False,False,first,Brasileirão Série A,1987
+1987-11-12,Tupi-MG,1,0,América-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,América-MG,0,0,Botafogo-SP,False,False,first,Brasileirão Série A,1987
+1987-11-12,Tupi-MG,2,0,Goytacaz,False,False,first,Brasileirão Série A,1987
+1987-11-12,Itumbiara,0,1,Santo André,False,False,first,Brasileirão Série A,1987
+1987-11-12,Uberaba-MG,0,1,Uberlândia-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Uberlândia-MG,2,0,Itumbiara,False,False,first,Brasileirão Série A,1987
+1987-11-12,Uberaba-MG,1,0,Santo André,False,False,first,Brasileirão Série A,1987
+1987-11-12,Itumbiara,0,1,Uberaba-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Santo André,0,2,Uberlândia-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Santo André,0,0,Itumbiara,False,False,first,Brasileirão Série A,1987
+1987-11-12,Uberlândia-MG,0,0,Uberaba-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Itumbiara,0,0,Uberlândia-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Santo André,0,0,Uberaba-MG,False,False,first,Brasileirão Série A,1987
+1987-11-12,Uberaba-MG,0,0,Itumbiara,False,False,first,Brasileirão Série A,1987
+1987-11-12,Uberlândia-MG,0,1,Santo André,False,False,first,Brasileirão Série A,1987
+1987-11-12,Anapolina,2,0,Corumbaense,False,False,first,Brasileirão Série A,1987
+1987-11-12,Brasília,1,3,Ponte Preta-SP,False,False,first,Brasileirão Série A,1987
+1987-11-12,Anapolina,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,1987
+1987-11-12,Brasília,3,2,Corumbaense,False,False,first,Brasileirão Série A,1987
+1987-11-12,Brasília,1,1,Anapolina,False,False,first,Brasileirão Série A,1987
+1987-11-12,Corumbaense,2,2,Ponte Preta-SP,False,False,first,Brasileirão Série A,1987
+1987-11-12,Corumbaense,2,0,Anapolina,False,False,first,Brasileirão Série A,1987
+1987-11-12,Ponte Preta-SP,2,0,Brasília,False,False,first,Brasileirão Série A,1987
+1987-11-12,Ponte Preta-SP,2,0,Anapolina,False,False,first,Brasileirão Série A,1987
+1987-11-12,Corumbaense,2,0,Brasília,False,False,first,Brasileirão Série A,1987
+1987-11-12,Anapolina,0,0,Brasília,False,False,first,Brasileirão Série A,1987
+1987-11-12,Ponte Preta-SP,3,0,Corumbaense,False,False,first,Brasileirão Série A,1987
+1987-11-18,Juventude,2,1,Chapecoense,False,False,first,Brasileirão Série A,1987
+1987-11-21,Chapecoense,1,1,Juventude,False,False,first,Brasileirão Série A,1987
+1987-11-18,Santa Cruz-RS,1,1,Caxias,False,False,first,Brasileirão Série A,1987
+1987-11-21,Caxias,1,0,Santa Cruz-RS,False,False,first,Brasileirão Série A,1987
+1987-11-18,Botafogo-SP,1,0,CA Juventus,False,False,first,Brasileirão Série A,1987
+1987-11-21,CA Juventus,1,0,Botafogo-SP,False,False,first,Brasileirão Série A,1987
+1987-11-18,Americano,1,0,Tupi-MG,False,False,first,Brasileirão Série A,1987
+1987-11-21,Tupi-MG,0,1,Americano,False,False,first,Brasileirão Série A,1987
+1987-11-18,Corumbaense,1,0,Uberlândia-MG,False,False,first,Brasileirão Série A,1987
+1987-11-21,Uberlândia-MG,2,1,Corumbaense,False,False,first,Brasileirão Série A,1987
+1987-11-18,Uberaba-MG,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,1987
+1987-11-21,Ponte Preta-SP,3,0,Uberaba-MG,False,False,first,Brasileirão Série A,1987
+1987-11-25,Uberlândia-MG,5,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,1987
+1987-11-28,Ponte Preta-SP,3,0,Uberlândia-MG,False,False,first,Brasileirão Série A,1987
+1987-11-25,Americano,3,1,Botafogo-SP,False,False,first,Brasileirão Série A,1987
+1987-11-28,Botafogo-SP,1,0,Americano,False,False,first,Brasileirão Série A,1987
+1987-11-25,Juventude,1,0,Caxias,False,False,first,Brasileirão Série A,1987
+1987-11-29,Caxias,1,1,Juventude,False,False,first,Brasileirão Série A,1987
+1987-12-05,Juventude,0,0,Americano,False,False,first,Brasileirão Série A,1987
+1987-12-09,Americano,2,0,Uberlândia-MG,False,False,first,Brasileirão Série A,1987
+1987-12-24,Uberlândia-MG,2,0,Juventude,False,False,first,Brasileirão Série A,1987

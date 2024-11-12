@@ -1,117 +1,117 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2010-02-10,Sousa-PB,1,2,Vasco da Gama,False,False,first,brasileirao-serie-a,2010
-2010-02-25,Vasco da Gama,0,0,Sousa-PB,False,False,first,brasileirao-serie-a,2010
-2010-02-24,ASA,0,0,Nacional-AM,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Nacional-AM,2,2,ASA,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Picos-PI,0,5,Ceará,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Corinthians-PR,1,0,Juventude,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Juventude,0,1,Corinthians-PR,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Ituiutaba,2,3,Goiás,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Goiás,0,0,Ituiutaba,False,False,first,brasileirao-serie-a,2010
-2010-02-24,São José-AP,1,1,América-RN,False,False,first,brasileirao-serie-a,2010
-2010-03-10,América-RN,0,1,São José-AP,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Corinthians-AL,3,1,Vitória,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Vitória,4,0,Corinthians-AL,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Ivinhema-MS,1,1,Náutico-PE,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Náutico-PE,3,1,Ivinhema-MS,False,False,first,brasileirao-serie-a,2010
-2010-02-10,São Raimundo-PA,1,0,Botafogo,False,False,first,brasileirao-serie-a,2010
-2010-03-11,Botafogo,4,3,São Raimundo-PA,False,False,first,brasileirao-serie-a,2010
-2010-02-24,América-AM,0,1,Santa Cruz-PE,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Santa Cruz-PE,3,0,América-AM,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Vitória-ES,0,2,Bahia,False,False,first,brasileirao-serie-a,2010
-2010-02-10,ASSU,0,3,Atlético-GO,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Flamengo-PI,0,1,Palmeiras,False,False,first,brasileirao-serie-a,2010
-2010-02-25,Palmeiras,4,0,Flamengo-PI,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Potyguar-CN (RN),0,0,Paysandu,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Paysandu,3,1,Potyguar-CN (RN),False,False,first,brasileirao-serie-a,2010
-2010-02-10,Vilhena-RO,2,2,Atlético-PR,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Atlético-PR,4,0,Vilhena-RO,False,False,first,brasileirao-serie-a,2010
-2010-02-10,São Domingos-SE,1,1,Sampaio Corrêa-MA,False,False,first,brasileirao-serie-a,2010
-2010-02-25,Sampaio Corrêa-MA,2,1,São Domingos-SE,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Confiança,1,1,Fluminense,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Fluminense,2,0,Confiança,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Uberaba-MG,1,0,Londrina,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Londrina,0,2,Uberaba-MG,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Atlético Roraima,0,7,Portuguesa-SP,False,False,first,brasileirao-serie-a,2010
-2010-02-10,JV Lideral-MA,0,0,Ponte Preta-SP,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Ponte Preta-SP,4,0,JV Lideral-MA,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Araguaia,1,3,Grêmio,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Votoraty,4,0,Treze,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Treze,2,1,Votoraty,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Luverdense,0,1,Coritiba,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Coritiba,1,0,Luverdense,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Ypiranga-RS,0,3,Avaí,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Naviraiense-MS,0,1,Santos,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Santos,10,0,Naviraiense-MS,False,False,first,brasileirao-serie-a,2010
-2010-02-24,São Mateus-ES,1,2,Remo,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Remo,4,1,São Mateus-ES,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Araguaína,0,1,Guarani-SP,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Guarani-SP,2,1,Araguaína,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Tigres do Brasil-RJ,2,2,Fortaleza,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Fortaleza,3,2,Tigres do Brasil-RJ,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Juventus-AC,0,7,Atlético-MG,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Chapecoense,3,0,Brasiliense,False,False,first,brasileirao-serie-a,2010
-2010-03-10,Brasiliense,2,1,Chapecoense,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Brasília,2,4,Sport,False,False,first,brasileirao-serie-a,2010
-2010-02-10,Cerâmica,1,1,Paraná-PR,False,False,first,brasileirao-serie-a,2010
-2010-02-24,Paraná-PR,6,1,Cerâmica,False,False,first,brasileirao-serie-a,2010
-2010-03-17,ASA,1,1,Vasco da Gama,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Vasco da Gama,3,1,ASA,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Corinthians-PR,2,1,Ceará,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Ceará,1,1,Corinthians-PR,False,False,second,brasileirao-serie-a,2010
-2010-03-17,São José-AP,0,1,Goiás,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Goiás,7,0,São José-AP,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Náutico,0,1,Vitória,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Vitória,5,0,Náutico,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Santa Cruz,0,1,Botafogo,False,False,second,brasileirao-serie-a,2010
-2010-04-01,Botafogo,2,3,Santa Cruz,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Atlético-GO,2,0,Bahia,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Bahia,1,0,Atlético-GO,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Paysandu,1,2,Palmeiras,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Palmeiras,1,0,Paysandu,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Sampaio Corrêa-MA,1,1,Atlético-PR,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Atlético-PR,2,0,Sampaio Corrêa-MA,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Uberaba-MG,0,2,Fluminense,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Ponte Preta,1,1,Portuguesa,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Portuguesa,2,1,Ponte Preta,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Votoraty,0,1,Grêmio,False,False,second,brasileirao-serie-a,2010
-2010-04-01,Grêmio,3,0,Votoraty,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Avaí,1,1,Coritiba,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Coritiba,0,1,Avaí,False,False,second,brasileirao-serie-a,2010
-2010-03-18,Remo,0,4,Santos,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Fortaleza,2,0,Guarani,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Guarani,2,0,Fortaleza,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Chapecoense,1,0,Atlético-MG,False,False,second,brasileirao-serie-a,2010
-2010-04-01,Atlético-MG,6,0,Chapecoense,False,False,second,brasileirao-serie-a,2010
-2010-03-17,Paraná,1,1,Sport,False,False,second,brasileirao-serie-a,2010
-2010-03-31,Sport,1,0,Paraná,False,False,second,brasileirao-serie-a,2010
-2010-04-14,Corinthians-PR,0,1,Vasco da Gama,False,False,round16,brasileirao-serie-a,2010
-2010-04-21,Vasco da Gama,2,1,Corinthians-PR,False,False,round16,brasileirao-serie-a,2010
-2010-04-15,Vitória,4,0,Goiás,False,False,round16,brasileirao-serie-a,2010
-2010-04-21,Goiás,2,2,Vitória,False,False,round16,brasileirao-serie-a,2010
-2010-04-14,Santa Cruz,1,2,Atlético-GO,False,False,round16,brasileirao-serie-a,2010
-2010-04-22,Atlético-GO,2,0,Santa Cruz,False,False,round16,brasileirao-serie-a,2010
-2010-04-15,Palmeiras,1,0,Atlético-PR,False,False,round16,brasileirao-serie-a,2010
-2010-04-21,Atlético-PR,1,1,Palmeiras,False,False,round16,brasileirao-serie-a,2010
-2010-04-14,Portuguesa,0,1,Fluminense,False,False,round16,brasileirao-serie-a,2010
-2010-04-22,Fluminense,3,2,Portuguesa,False,False,round16,brasileirao-serie-a,2010
-2010-04-14,Grêmio,3,1,Avaí,False,False,round16,brasileirao-serie-a,2010
-2010-04-21,Avaí,3,2,Grêmio,False,False,round16,brasileirao-serie-a,2010
-2010-04-14,Santos,8,1,Guarani,False,False,round16,brasileirao-serie-a,2010
-2010-04-21,Guarani,3,2,Santos,False,False,round16,brasileirao-serie-a,2010
-2010-04-14,Atlético-MG,1,0,Sport,False,False,round16,brasileirao-serie-a,2010
-2010-04-21,Sport,0,2,Atlético-MG,False,False,round16,brasileirao-serie-a,2010
-2010-04-28,Vitória,2,0,Vasco da Gama,False,False,quarter,brasileirao-serie-a,2010
-2010-05-05,Vasco da Gama,3,1,Vitória,False,False,quarter,brasileirao-serie-a,2010
-2010-04-29,Palmeiras,1,0,Atlético-GO,False,False,quarter,brasileirao-serie-a,2010
-2010-05-05,Atlético-GO,1,0,Palmeiras,False,False,quarter,brasileirao-serie-a,2010
-2010-04-29,Fluminense,2,3,Grêmio,False,False,quarter,brasileirao-serie-a,2010
-2010-05-05,Grêmio,2,0,Fluminense,False,False,quarter,brasileirao-serie-a,2010
-2010-04-28,Atlético-MG,3,2,Santos,False,False,quarter,brasileirao-serie-a,2010
-2010-05-05,Santos,3,1,Atlético-MG,False,False,quarter,brasileirao-serie-a,2010
-2010-05-12,Atlético-GO,1,0,Vitória,False,False,semi,brasileirao-serie-a,2010
-2010-05-19,Vitória,4,0,Atlético-GO,False,False,semi,brasileirao-serie-a,2010
-2010-05-12,Grêmio,4,3,Santos,False,False,semi,brasileirao-serie-a,2010
-2010-05-19,Santos,3,1,Grêmio,False,False,semi,brasileirao-serie-a,2010
-2010-07-28,Santos,2,0,Vitória,False,False,final,brasileirao-serie-a,2010
-2010-08-04,Vitória,2,1,Santos,False,False,final,brasileirao-serie-a,2010
+2010-02-10,Sousa-PB,1,2,Vasco da Gama,False,False,first,Copa de Brasil,2010
+2010-02-25,Vasco da Gama,0,0,Sousa-PB,False,False,first,Copa de Brasil,2010
+2010-02-24,ASA,0,0,Nacional-AM,False,False,first,Copa de Brasil,2010
+2010-03-10,Nacional-AM,2,2,ASA,False,False,first,Copa de Brasil,2010
+2010-02-24,Picos-PI,0,5,Ceará,False,False,first,Copa de Brasil,2010
+2010-02-10,Corinthians-PR,1,0,Juventude,False,False,first,Copa de Brasil,2010
+2010-02-24,Juventude,0,1,Corinthians-PR,False,False,first,Copa de Brasil,2010
+2010-02-24,Ituiutaba,2,3,Goiás,False,False,first,Copa de Brasil,2010
+2010-03-10,Goiás,0,0,Ituiutaba,False,False,first,Copa de Brasil,2010
+2010-02-24,São José-AP,1,1,América-RN,False,False,first,Copa de Brasil,2010
+2010-03-10,América-RN,0,1,São José-AP,False,False,first,Copa de Brasil,2010
+2010-02-24,Corinthians-AL,3,1,Vitória,False,False,first,Copa de Brasil,2010
+2010-03-10,Vitória,4,0,Corinthians-AL,False,False,first,Copa de Brasil,2010
+2010-02-24,Ivinhema-MS,1,1,Náutico-PE,False,False,first,Copa de Brasil,2010
+2010-03-10,Náutico-PE,3,1,Ivinhema-MS,False,False,first,Copa de Brasil,2010
+2010-02-10,São Raimundo-PA,1,0,Botafogo,False,False,first,Copa de Brasil,2010
+2010-03-11,Botafogo,4,3,São Raimundo-PA,False,False,first,Copa de Brasil,2010
+2010-02-24,América-AM,0,1,Santa Cruz-PE,False,False,first,Copa de Brasil,2010
+2010-03-10,Santa Cruz-PE,3,0,América-AM,False,False,first,Copa de Brasil,2010
+2010-02-10,Vitória-ES,0,2,Bahia,False,False,first,Copa de Brasil,2010
+2010-02-10,ASSU,0,3,Atlético-GO,False,False,first,Copa de Brasil,2010
+2010-02-10,Flamengo-PI,0,1,Palmeiras,False,False,first,Copa de Brasil,2010
+2010-02-25,Palmeiras,4,0,Flamengo-PI,False,False,first,Copa de Brasil,2010
+2010-02-10,Potyguar-CN (RN),0,0,Paysandu,False,False,first,Copa de Brasil,2010
+2010-02-24,Paysandu,3,1,Potyguar-CN (RN),False,False,first,Copa de Brasil,2010
+2010-02-10,Vilhena-RO,2,2,Atlético-PR,False,False,first,Copa de Brasil,2010
+2010-02-24,Atlético-PR,4,0,Vilhena-RO,False,False,first,Copa de Brasil,2010
+2010-02-10,São Domingos-SE,1,1,Sampaio Corrêa-MA,False,False,first,Copa de Brasil,2010
+2010-02-25,Sampaio Corrêa-MA,2,1,São Domingos-SE,False,False,first,Copa de Brasil,2010
+2010-02-24,Confiança,1,1,Fluminense,False,False,first,Copa de Brasil,2010
+2010-03-10,Fluminense,2,0,Confiança,False,False,first,Copa de Brasil,2010
+2010-02-24,Uberaba-MG,1,0,Londrina,False,False,first,Copa de Brasil,2010
+2010-03-10,Londrina,0,2,Uberaba-MG,False,False,first,Copa de Brasil,2010
+2010-02-24,Atlético Roraima,0,7,Portuguesa-SP,False,False,first,Copa de Brasil,2010
+2010-02-10,JV Lideral-MA,0,0,Ponte Preta-SP,False,False,first,Copa de Brasil,2010
+2010-02-24,Ponte Preta-SP,4,0,JV Lideral-MA,False,False,first,Copa de Brasil,2010
+2010-02-10,Araguaia,1,3,Grêmio,False,False,first,Copa de Brasil,2010
+2010-02-10,Votoraty,4,0,Treze,False,False,first,Copa de Brasil,2010
+2010-02-24,Treze,2,1,Votoraty,False,False,first,Copa de Brasil,2010
+2010-02-24,Luverdense,0,1,Coritiba,False,False,first,Copa de Brasil,2010
+2010-03-10,Coritiba,1,0,Luverdense,False,False,first,Copa de Brasil,2010
+2010-02-24,Ypiranga-RS,0,3,Avaí,False,False,first,Copa de Brasil,2010
+2010-02-24,Naviraiense-MS,0,1,Santos,False,False,first,Copa de Brasil,2010
+2010-03-10,Santos,10,0,Naviraiense-MS,False,False,first,Copa de Brasil,2010
+2010-02-24,São Mateus-ES,1,2,Remo,False,False,first,Copa de Brasil,2010
+2010-03-10,Remo,4,1,São Mateus-ES,False,False,first,Copa de Brasil,2010
+2010-02-24,Araguaína,0,1,Guarani-SP,False,False,first,Copa de Brasil,2010
+2010-03-10,Guarani-SP,2,1,Araguaína,False,False,first,Copa de Brasil,2010
+2010-02-10,Tigres do Brasil-RJ,2,2,Fortaleza,False,False,first,Copa de Brasil,2010
+2010-02-24,Fortaleza,3,2,Tigres do Brasil-RJ,False,False,first,Copa de Brasil,2010
+2010-02-24,Juventus-AC,0,7,Atlético-MG,False,False,first,Copa de Brasil,2010
+2010-02-24,Chapecoense,3,0,Brasiliense,False,False,first,Copa de Brasil,2010
+2010-03-10,Brasiliense,2,1,Chapecoense,False,False,first,Copa de Brasil,2010
+2010-02-24,Brasília,2,4,Sport,False,False,first,Copa de Brasil,2010
+2010-02-10,Cerâmica,1,1,Paraná-PR,False,False,first,Copa de Brasil,2010
+2010-02-24,Paraná-PR,6,1,Cerâmica,False,False,first,Copa de Brasil,2010
+2010-03-17,ASA,1,1,Vasco da Gama,False,False,second,Copa de Brasil,2010
+2010-03-31,Vasco da Gama,3,1,ASA,False,False,second,Copa de Brasil,2010
+2010-03-17,Corinthians-PR,2,1,Ceará,False,False,second,Copa de Brasil,2010
+2010-03-31,Ceará,1,1,Corinthians-PR,False,False,second,Copa de Brasil,2010
+2010-03-17,São José-AP,0,1,Goiás,False,False,second,Copa de Brasil,2010
+2010-03-31,Goiás,7,0,São José-AP,False,False,second,Copa de Brasil,2010
+2010-03-17,Náutico,0,1,Vitória,False,False,second,Copa de Brasil,2010
+2010-03-31,Vitória,5,0,Náutico,False,False,second,Copa de Brasil,2010
+2010-03-17,Santa Cruz,0,1,Botafogo,False,False,second,Copa de Brasil,2010
+2010-04-01,Botafogo,2,3,Santa Cruz,False,False,second,Copa de Brasil,2010
+2010-03-17,Atlético-GO,2,0,Bahia,False,False,second,Copa de Brasil,2010
+2010-03-31,Bahia,1,0,Atlético-GO,False,False,second,Copa de Brasil,2010
+2010-03-17,Paysandu,1,2,Palmeiras,False,False,second,Copa de Brasil,2010
+2010-03-31,Palmeiras,1,0,Paysandu,False,False,second,Copa de Brasil,2010
+2010-03-17,Sampaio Corrêa-MA,1,1,Atlético-PR,False,False,second,Copa de Brasil,2010
+2010-03-31,Atlético-PR,2,0,Sampaio Corrêa-MA,False,False,second,Copa de Brasil,2010
+2010-03-17,Uberaba-MG,0,2,Fluminense,False,False,second,Copa de Brasil,2010
+2010-03-17,Ponte Preta,1,1,Portuguesa,False,False,second,Copa de Brasil,2010
+2010-03-31,Portuguesa,2,1,Ponte Preta,False,False,second,Copa de Brasil,2010
+2010-03-17,Votoraty,0,1,Grêmio,False,False,second,Copa de Brasil,2010
+2010-04-01,Grêmio,3,0,Votoraty,False,False,second,Copa de Brasil,2010
+2010-03-17,Avaí,1,1,Coritiba,False,False,second,Copa de Brasil,2010
+2010-03-31,Coritiba,0,1,Avaí,False,False,second,Copa de Brasil,2010
+2010-03-18,Remo,0,4,Santos,False,False,second,Copa de Brasil,2010
+2010-03-17,Fortaleza,2,0,Guarani,False,False,second,Copa de Brasil,2010
+2010-03-31,Guarani,2,0,Fortaleza,False,False,second,Copa de Brasil,2010
+2010-03-17,Chapecoense,1,0,Atlético-MG,False,False,second,Copa de Brasil,2010
+2010-04-01,Atlético-MG,6,0,Chapecoense,False,False,second,Copa de Brasil,2010
+2010-03-17,Paraná,1,1,Sport,False,False,second,Copa de Brasil,2010
+2010-03-31,Sport,1,0,Paraná,False,False,second,Copa de Brasil,2010
+2010-04-14,Corinthians-PR,0,1,Vasco da Gama,False,False,round16,Copa de Brasil,2010
+2010-04-21,Vasco da Gama,2,1,Corinthians-PR,False,False,round16,Copa de Brasil,2010
+2010-04-15,Vitória,4,0,Goiás,False,False,round16,Copa de Brasil,2010
+2010-04-21,Goiás,2,2,Vitória,False,False,round16,Copa de Brasil,2010
+2010-04-14,Santa Cruz,1,2,Atlético-GO,False,False,round16,Copa de Brasil,2010
+2010-04-22,Atlético-GO,2,0,Santa Cruz,False,False,round16,Copa de Brasil,2010
+2010-04-15,Palmeiras,1,0,Atlético-PR,False,False,round16,Copa de Brasil,2010
+2010-04-21,Atlético-PR,1,1,Palmeiras,False,False,round16,Copa de Brasil,2010
+2010-04-14,Portuguesa,0,1,Fluminense,False,False,round16,Copa de Brasil,2010
+2010-04-22,Fluminense,3,2,Portuguesa,False,False,round16,Copa de Brasil,2010
+2010-04-14,Grêmio,3,1,Avaí,False,False,round16,Copa de Brasil,2010
+2010-04-21,Avaí,3,2,Grêmio,False,False,round16,Copa de Brasil,2010
+2010-04-14,Santos,8,1,Guarani,False,False,round16,Copa de Brasil,2010
+2010-04-21,Guarani,3,2,Santos,False,False,round16,Copa de Brasil,2010
+2010-04-14,Atlético-MG,1,0,Sport,False,False,round16,Copa de Brasil,2010
+2010-04-21,Sport,0,2,Atlético-MG,False,False,round16,Copa de Brasil,2010
+2010-04-28,Vitória,2,0,Vasco da Gama,False,False,quarter,Copa de Brasil,2010
+2010-05-05,Vasco da Gama,3,1,Vitória,False,False,quarter,Copa de Brasil,2010
+2010-04-29,Palmeiras,1,0,Atlético-GO,False,False,quarter,Copa de Brasil,2010
+2010-05-05,Atlético-GO,1,0,Palmeiras,False,False,quarter,Copa de Brasil,2010
+2010-04-29,Fluminense,2,3,Grêmio,False,False,quarter,Copa de Brasil,2010
+2010-05-05,Grêmio,2,0,Fluminense,False,False,quarter,Copa de Brasil,2010
+2010-04-28,Atlético-MG,3,2,Santos,False,False,quarter,Copa de Brasil,2010
+2010-05-05,Santos,3,1,Atlético-MG,False,False,quarter,Copa de Brasil,2010
+2010-05-12,Atlético-GO,1,0,Vitória,False,False,semi,Copa de Brasil,2010
+2010-05-19,Vitória,4,0,Atlético-GO,False,False,semi,Copa de Brasil,2010
+2010-05-12,Grêmio,4,3,Santos,False,False,semi,Copa de Brasil,2010
+2010-05-19,Santos,3,1,Grêmio,False,False,semi,Copa de Brasil,2010
+2010-07-28,Santos,2,0,Vitória,False,False,final,Copa de Brasil,2010
+2010-08-04,Vitória,2,1,Santos,False,False,final,Copa de Brasil,2010

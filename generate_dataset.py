@@ -2,10 +2,6 @@ import os
 
 import pandas as pd
 
-tournaments = {
-    "brasileirao-serie-a": "Brasileirao Serie A",
-    "copa-do-brasil": "Copa do Brasil",
-}
 
 directory = "data"
 
@@ -22,16 +18,12 @@ def main():
     files = get_all_files(directory)
     result = None
     for file in files:
-        info = file.split("/")
-        tournament = info[-2]
-        year = int(info[-1].replace(".csv", ""))
-        df = pd.read_csv(file)
-        df["tournament_name"] = tournaments[tournament]
-        df["tournament_year"] = year
-        if result is None:
-            result = df
-        else:
-            result = pd.concat([result, df], axis=0)
+        if file.endswith(".csv"):
+            df = pd.read_csv(file)
+            if result is None:
+                result = df
+            else:
+                result = pd.concat([result, df], axis=0)
     result.to_csv("results.csv", index=False)
 
 

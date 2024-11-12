@@ -1,159 +1,159 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2013-02-27,Atlético Acreano,1,1,Desportiva,False,False,first,brasileirao-serie-a,2013
-2013-03-13,Desportiva,5,4,Atlético Acreano,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Remo,0,1,Flamengo-RJ,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Flamengo-RJ,3,0,Remo,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Campinense,0,1,Sampaio Corrêa-MA,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Sampaio Corrêa-MA,0,1,Campinense,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Ceilândia,0,0,Ceará,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Ceará,4,3,Ceilândia,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Santa Cruz-RN,0,0,ASA,False,False,first,brasileirao-serie-a,2013
-2013-04-25,ASA,2,1,Santa Cruz-RN,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Rio Branco-AC,0,2,Internacional,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Guarani-J,1,2,Santa Cruz-PE,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Santa Cruz-PE,2,0,Guarani-J,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Volta Redonda,1,0,Avaí,False,False,first,brasileirao-serie-a,2013
-2013-04-24,Avaí,4,1,Volta Redonda,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Gurupi,2,3,América-MG,False,False,first,brasileirao-serie-a,2013
-2013-04-17,América-MG,0,0,Gurupi,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Oratório-AP,1,3,Goiás,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Veranópolis-RS,1,0,Santo André-SP,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Santo André-SP,2,0,Veranópolis-RS,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Vitória da Conquista-BA,0,1,Sport,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Sport,2,0,Vitória da Conquista-BA,False,False,first,brasileirao-serie-a,2013
-2013-04-11,Parnahyba-PI,1,3,ABC,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Mixto,2,1,Vitória,False,False,first,brasileirao-serie-a,2013
-2013-04-16,Vitória,5,1,Mixto,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Salgueiro-PE,2,0,Boa Esporte,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Boa Esporte,2,2,Salgueiro-PE,False,False,first,brasileirao-serie-a,2013
-2013-04-11,São Bernardo-SP,1,1,Paraná-PR,False,False,first,brasileirao-serie-a,2013
-2013-04-24,Paraná-PR,2,3,São Bernardo-SP,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Noroeste-SP,0,0,Criciúma,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Criciúma,3,0,Noroeste-SP,False,False,first,brasileirao-serie-a,2013
-2013-05-01,Sousa-PB,0,3,Coritiba,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Nacional-AM,2,0,Águia de Marabá,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Águia de Marabá,1,2,Nacional-AM,False,False,first,brasileirao-serie-a,2013
-2013-04-04,Itabaiana,0,3,Ponte Preta-SP,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Águia Negra,0,2,RB Bragantino,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Sobradinho-DF,0,0,Botafogo,False,False,first,brasileirao-serie-a,2013
-2013-04-24,Botafogo,2,0,Sobradinho-DF,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Fast Clube,1,1,CRB,False,False,first,brasileirao-serie-a,2013
-2013-04-25,CRB,2,1,Fast Clube,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Desportiva,1,4,Figueirense-SC,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Arapongas,1,0,São Caetano-SP,False,False,first,brasileirao-serie-a,2013
-2013-04-17,São Caetano-SP,1,0,Arapongas,False,False,first,brasileirao-serie-a,2013
-2013-04-10,CSA,0,3,Cruzeiro,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Resende-PA,2,1,Caxias,False,False,first,brasileirao-serie-a,2013
-2013-04-18,Caxias,0,0,Resende-PA,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Cametá,0,7,Atlético-GO,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Cianorte,2,1,Barueri,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Barueri,0,3,Cianorte,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Brasil-RS,0,1,Atlético-PR,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Atlético-PR,2,0,Brasil-RS,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Ji-Paraná,0,1,América-RN,False,False,first,brasileirao-serie-a,2013
-2013-04-25,América-RN,1,0,Ji-Paraná,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Naviraiense-MS,0,0,Portuguesa-SP,False,False,first,brasileirao-serie-a,2013
-2013-04-16,Portuguesa-SP,1,1,Naviraiense-MS,False,False,first,brasileirao-serie-a,2013
-2013-04-10,São Raimundo-RR,0,2,Paysandu,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Flamengo-PI,2,2,Santos,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Santos,2,0,Flamengo-PI,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Aracruz,1,1,Joinville,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Joinville,1,0,Aracruz,False,False,first,brasileirao-serie-a,2013
-2013-04-10,CRAC,3,1,Náutico-PE,False,False,first,brasileirao-serie-a,2013
-2013-04-18,Náutico-PE,1,1,CRAC,False,False,first,brasileirao-serie-a,2013
-2013-04-03,Bangu,1,2,Betim,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Betim,1,0,Bangu,False,False,first,brasileirao-serie-a,2013
-2013-04-11,Maranhão,0,2,Bahia,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Tupi-MG,1,0,Luverdense,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Luverdense,3,0,Tupi-MG,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Confiança,1,0,Guarani-SP,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Guarani-SP,1,0,Confiança,False,False,first,brasileirao-serie-a,2013
-2013-04-10,Luziânia,0,0,Fortaleza,False,False,first,brasileirao-serie-a,2013
-2013-04-17,Fortaleza,0,0,Luziânia,False,False,first,brasileirao-serie-a,2013
-2013-05-01,Campinense,1,2,Flamengo,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Flamengo,2,1,Campinense,False,False,second,brasileirao-serie-a,2013
-2013-05-01,ASA,3,0,Ceará,False,False,second,brasileirao-serie-a,2013
-2013-05-08,Ceará,3,0,ASA,False,False,second,brasileirao-serie-a,2013
-2013-05-01,Santa Cruz-PE,0,0,Internacional,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Internacional,2,0,Santa Cruz-PE,False,False,second,brasileirao-serie-a,2013
-2013-05-07,América-MG,0,1,Avaí,False,False,second,brasileirao-serie-a,2013
-2013-05-16,Avaí,0,3,América-MG,False,False,second,brasileirao-serie-a,2013
-2013-05-01,Santo André,2,3,Goiás,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Goiás,1,0,Santo André,False,False,second,brasileirao-serie-a,2013
-2013-05-08,ABC,2,0,Sport,False,False,second,brasileirao-serie-a,2013
-2013-05-21,Sport,2,3,ABC,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Salgueiro,0,0,Vitória,False,False,second,brasileirao-serie-a,2013
-2013-05-22,Vitória,1,1,Salgueiro,False,False,second,brasileirao-serie-a,2013
-2013-05-07,São Bernardo,1,1,Criciúma,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Criciúma,3,1,São Bernardo,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Nacional,4,1,Coritiba,False,False,second,brasileirao-serie-a,2013
-2013-05-23,Coritiba,1,0,Nacional,False,False,second,brasileirao-serie-a,2013
-2013-05-09,RB Bragantino,1,3,Ponte Preta,False,False,second,brasileirao-serie-a,2013
-2013-05-02,CRB,0,0,Botafogo,False,False,second,brasileirao-serie-a,2013
-2013-05-22,Botafogo,3,0,CRB,False,False,second,brasileirao-serie-a,2013
-2013-05-08,Arapongas,0,0,Figueirense,False,False,second,brasileirao-serie-a,2013
-2013-05-22,Figueirense,3,1,Arapongas,False,False,second,brasileirao-serie-a,2013
-2013-05-01,Resende,1,2,Cruzeiro,False,False,second,brasileirao-serie-a,2013
-2013-05-22,Cruzeiro,4,0,Resende,False,False,second,brasileirao-serie-a,2013
-2013-05-01,Cianorte,1,3,Atlético-GO,False,False,second,brasileirao-serie-a,2013
-2013-05-09,América-RN,2,6,Atlético-PR,False,False,second,brasileirao-serie-a,2013
-2013-05-08,Naviraiense,0,1,Paysandu,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Paysandu,0,2,Naviraiense,False,False,second,brasileirao-serie-a,2013
-2013-05-08,Joinville,0,1,Santos,False,False,second,brasileirao-serie-a,2013
-2013-05-22,Santos,0,0,Joinville,False,False,second,brasileirao-serie-a,2013
-2013-05-01,CRAC,3,2,Betim,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Betim,0,1,CRAC,False,False,second,brasileirao-serie-a,2013
-2013-05-08,Luverdense,2,0,Bahia,False,False,second,brasileirao-serie-a,2013
-2013-05-15,Bahia,1,0,Luverdense,False,False,second,brasileirao-serie-a,2013
-2013-05-08,Confiança,1,1,Fortaleza,False,False,second,brasileirao-serie-a,2013
-2013-05-23,Fortaleza,4,0,Confiança,False,False,second,brasileirao-serie-a,2013
-2013-07-10,ASA,0,1,Flamengo,False,False,third,brasileirao-serie-a,2013
-2013-07-17,Flamengo,2,1,ASA,False,False,third,brasileirao-serie-a,2013
-2013-07-10,Internacional,3,1,América-MG,False,False,third,brasileirao-serie-a,2013
-2013-07-17,América-MG,1,1,Internacional,False,False,third,brasileirao-serie-a,2013
-2013-07-03,Goiás,3,0,ABC,False,False,third,brasileirao-serie-a,2013
-2013-07-17,ABC,1,1,Goiás,False,False,third,brasileirao-serie-a,2013
-2013-07-02,Salgueiro,0,0,Criciúma,False,False,third,brasileirao-serie-a,2013
-2013-07-17,Criciúma,1,1,Salgueiro,False,False,third,brasileirao-serie-a,2013
-2013-07-10,Ponte Preta,0,1,Nacional,False,False,third,brasileirao-serie-a,2013
-2013-07-24,Nacional,1,0,Ponte Preta,False,False,third,brasileirao-serie-a,2013
-2013-07-03,Botafogo,1,0,Figueirense,False,False,third,brasileirao-serie-a,2013
-2013-07-24,Figueirense,1,0,Botafogo,False,False,third,brasileirao-serie-a,2013
-2013-07-09,Cruzeiro,5,0,Atlético-GO,False,False,third,brasileirao-serie-a,2013
-2013-07-17,Atlético-GO,0,1,Cruzeiro,False,False,third,brasileirao-serie-a,2013
-2013-07-17,Paysandu,0,0,Atlético-PR,False,False,third,brasileirao-serie-a,2013
-2013-07-24,Atlético-PR,2,1,Paysandu,False,False,third,brasileirao-serie-a,2013
-2013-07-10,Santos,1,1,CRAC,False,False,third,brasileirao-serie-a,2013
-2013-07-24,CRAC,0,2,Santos,False,False,third,brasileirao-serie-a,2013
-2013-07-10,Fortaleza,0,0,Luverdense,False,False,third,brasileirao-serie-a,2013
-2013-07-18,Luverdense,2,1,Fortaleza,False,False,third,brasileirao-serie-a,2013
-2013-08-21,Luverdense,1,0,Corinthians,False,False,round16,brasileirao-serie-a,2013
-2013-08-28,Corinthians,2,0,Luverdense,False,False,round16,brasileirao-serie-a,2013
-2013-08-21,Santos,1,0,Grêmio,False,False,round16,brasileirao-serie-a,2013
-2013-08-28,Grêmio,2,0,Santos,False,False,round16,brasileirao-serie-a,2013
-2013-08-22,Internacional,3,0,Salgueiro,False,False,round16,brasileirao-serie-a,2013
-2013-08-29,Salgueiro,2,2,Internacional,False,False,round16,brasileirao-serie-a,2013
-2013-08-21,Palmeiras,1,0,Atlético-PR,False,False,round16,brasileirao-serie-a,2013
-2013-08-28,Atlético-PR,3,0,Palmeiras,False,False,round16,brasileirao-serie-a,2013
-2013-08-21,Fluminense,1,0,Goiás,False,False,round16,brasileirao-serie-a,2013
-2013-08-28,Goiás,2,0,Fluminense,False,False,round16,brasileirao-serie-a,2013
-2013-08-20,Nacional,0,2,Vasco da Gama,False,False,round16,brasileirao-serie-a,2013
-2013-08-29,Vasco da Gama,2,1,Nacional,False,False,round16,brasileirao-serie-a,2013
-2013-08-22,Botafogo,4,2,Atlético-MG,False,False,round16,brasileirao-serie-a,2013
-2013-08-28,Atlético-MG,2,2,Botafogo,False,False,round16,brasileirao-serie-a,2013
-2013-08-21,Cruzeiro,2,1,Flamengo,False,False,round16,brasileirao-serie-a,2013
-2013-08-28,Flamengo,1,0,Cruzeiro,False,False,round16,brasileirao-serie-a,2013
-2013-09-25,Corinthians,0,0,Grêmio,False,False,quarter,brasileirao-serie-a,2013
-2013-10-23,Grêmio,0,0,Corinthians,False,False,quarter,brasileirao-serie-a,2013
-2013-09-25,Internacional,1,1,Atlético-PR,False,False,quarter,brasileirao-serie-a,2013
-2013-10-23,Atlético-PR,0,0,Internacional,False,False,quarter,brasileirao-serie-a,2013
-2013-09-25,Goiás,2,1,Vasco da Gama,False,False,quarter,brasileirao-serie-a,2013
-2013-10-24,Vasco da Gama,3,2,Goiás,False,False,quarter,brasileirao-serie-a,2013
-2013-09-25,Botafogo,1,1,Flamengo,False,False,quarter,brasileirao-serie-a,2013
-2013-10-23,Flamengo,4,0,Botafogo,False,False,quarter,brasileirao-serie-a,2013
-2013-10-30,Atlético-PR,1,0,Grêmio,False,False,semi,brasileirao-serie-a,2013
-2013-11-06,Grêmio,0,0,Atlético-PR,False,False,semi,brasileirao-serie-a,2013
-2013-10-30,Goiás,1,2,Flamengo,False,False,semi,brasileirao-serie-a,2013
-2013-11-06,Flamengo,2,1,Goiás,False,False,semi,brasileirao-serie-a,2013
-2013-11-20,Atlético-PR,1,1,Flamengo,False,False,final,brasileirao-serie-a,2013
-2013-11-27,Flamengo,2,0,Atlético-PR,False,False,final,brasileirao-serie-a,2013
+2013-02-27,Atlético Acreano,1,1,Desportiva,False,False,first,Copa de Brasil,2013
+2013-03-13,Desportiva,5,4,Atlético Acreano,False,False,first,Copa de Brasil,2013
+2013-04-03,Remo,0,1,Flamengo-RJ,False,False,first,Copa de Brasil,2013
+2013-04-17,Flamengo-RJ,3,0,Remo,False,False,first,Copa de Brasil,2013
+2013-04-10,Campinense,0,1,Sampaio Corrêa-MA,False,False,first,Copa de Brasil,2013
+2013-04-17,Sampaio Corrêa-MA,0,1,Campinense,False,False,first,Copa de Brasil,2013
+2013-04-03,Ceilândia,0,0,Ceará,False,False,first,Copa de Brasil,2013
+2013-04-10,Ceará,4,3,Ceilândia,False,False,first,Copa de Brasil,2013
+2013-04-10,Santa Cruz-RN,0,0,ASA,False,False,first,Copa de Brasil,2013
+2013-04-25,ASA,2,1,Santa Cruz-RN,False,False,first,Copa de Brasil,2013
+2013-04-03,Rio Branco-AC,0,2,Internacional,False,False,first,Copa de Brasil,2013
+2013-04-03,Guarani-J,1,2,Santa Cruz-PE,False,False,first,Copa de Brasil,2013
+2013-04-10,Santa Cruz-PE,2,0,Guarani-J,False,False,first,Copa de Brasil,2013
+2013-04-10,Volta Redonda,1,0,Avaí,False,False,first,Copa de Brasil,2013
+2013-04-24,Avaí,4,1,Volta Redonda,False,False,first,Copa de Brasil,2013
+2013-04-10,Gurupi,2,3,América-MG,False,False,first,Copa de Brasil,2013
+2013-04-17,América-MG,0,0,Gurupi,False,False,first,Copa de Brasil,2013
+2013-04-10,Oratório-AP,1,3,Goiás,False,False,first,Copa de Brasil,2013
+2013-04-03,Veranópolis-RS,1,0,Santo André-SP,False,False,first,Copa de Brasil,2013
+2013-04-17,Santo André-SP,2,0,Veranópolis-RS,False,False,first,Copa de Brasil,2013
+2013-04-03,Vitória da Conquista-BA,0,1,Sport,False,False,first,Copa de Brasil,2013
+2013-04-17,Sport,2,0,Vitória da Conquista-BA,False,False,first,Copa de Brasil,2013
+2013-04-11,Parnahyba-PI,1,3,ABC,False,False,first,Copa de Brasil,2013
+2013-04-10,Mixto,2,1,Vitória,False,False,first,Copa de Brasil,2013
+2013-04-16,Vitória,5,1,Mixto,False,False,first,Copa de Brasil,2013
+2013-04-10,Salgueiro-PE,2,0,Boa Esporte,False,False,first,Copa de Brasil,2013
+2013-04-17,Boa Esporte,2,2,Salgueiro-PE,False,False,first,Copa de Brasil,2013
+2013-04-11,São Bernardo-SP,1,1,Paraná-PR,False,False,first,Copa de Brasil,2013
+2013-04-24,Paraná-PR,2,3,São Bernardo-SP,False,False,first,Copa de Brasil,2013
+2013-04-03,Noroeste-SP,0,0,Criciúma,False,False,first,Copa de Brasil,2013
+2013-04-17,Criciúma,3,0,Noroeste-SP,False,False,first,Copa de Brasil,2013
+2013-05-01,Sousa-PB,0,3,Coritiba,False,False,first,Copa de Brasil,2013
+2013-04-03,Nacional-AM,2,0,Águia de Marabá,False,False,first,Copa de Brasil,2013
+2013-04-10,Águia de Marabá,1,2,Nacional-AM,False,False,first,Copa de Brasil,2013
+2013-04-04,Itabaiana,0,3,Ponte Preta-SP,False,False,first,Copa de Brasil,2013
+2013-04-10,Águia Negra,0,2,RB Bragantino,False,False,first,Copa de Brasil,2013
+2013-04-17,Sobradinho-DF,0,0,Botafogo,False,False,first,Copa de Brasil,2013
+2013-04-24,Botafogo,2,0,Sobradinho-DF,False,False,first,Copa de Brasil,2013
+2013-04-10,Fast Clube,1,1,CRB,False,False,first,Copa de Brasil,2013
+2013-04-25,CRB,2,1,Fast Clube,False,False,first,Copa de Brasil,2013
+2013-04-10,Desportiva,1,4,Figueirense-SC,False,False,first,Copa de Brasil,2013
+2013-04-10,Arapongas,1,0,São Caetano-SP,False,False,first,Copa de Brasil,2013
+2013-04-17,São Caetano-SP,1,0,Arapongas,False,False,first,Copa de Brasil,2013
+2013-04-10,CSA,0,3,Cruzeiro,False,False,first,Copa de Brasil,2013
+2013-04-03,Resende-PA,2,1,Caxias,False,False,first,Copa de Brasil,2013
+2013-04-18,Caxias,0,0,Resende-PA,False,False,first,Copa de Brasil,2013
+2013-04-10,Cametá,0,7,Atlético-GO,False,False,first,Copa de Brasil,2013
+2013-04-03,Cianorte,2,1,Barueri,False,False,first,Copa de Brasil,2013
+2013-04-17,Barueri,0,3,Cianorte,False,False,first,Copa de Brasil,2013
+2013-04-03,Brasil-RS,0,1,Atlético-PR,False,False,first,Copa de Brasil,2013
+2013-04-17,Atlético-PR,2,0,Brasil-RS,False,False,first,Copa de Brasil,2013
+2013-04-10,Ji-Paraná,0,1,América-RN,False,False,first,Copa de Brasil,2013
+2013-04-25,América-RN,1,0,Ji-Paraná,False,False,first,Copa de Brasil,2013
+2013-04-03,Naviraiense-MS,0,0,Portuguesa-SP,False,False,first,Copa de Brasil,2013
+2013-04-16,Portuguesa-SP,1,1,Naviraiense-MS,False,False,first,Copa de Brasil,2013
+2013-04-10,São Raimundo-RR,0,2,Paysandu,False,False,first,Copa de Brasil,2013
+2013-04-10,Flamengo-PI,2,2,Santos,False,False,first,Copa de Brasil,2013
+2013-04-17,Santos,2,0,Flamengo-PI,False,False,first,Copa de Brasil,2013
+2013-04-10,Aracruz,1,1,Joinville,False,False,first,Copa de Brasil,2013
+2013-04-17,Joinville,1,0,Aracruz,False,False,first,Copa de Brasil,2013
+2013-04-10,CRAC,3,1,Náutico-PE,False,False,first,Copa de Brasil,2013
+2013-04-18,Náutico-PE,1,1,CRAC,False,False,first,Copa de Brasil,2013
+2013-04-03,Bangu,1,2,Betim,False,False,first,Copa de Brasil,2013
+2013-04-17,Betim,1,0,Bangu,False,False,first,Copa de Brasil,2013
+2013-04-11,Maranhão,0,2,Bahia,False,False,first,Copa de Brasil,2013
+2013-04-10,Tupi-MG,1,0,Luverdense,False,False,first,Copa de Brasil,2013
+2013-04-17,Luverdense,3,0,Tupi-MG,False,False,first,Copa de Brasil,2013
+2013-04-10,Confiança,1,0,Guarani-SP,False,False,first,Copa de Brasil,2013
+2013-04-17,Guarani-SP,1,0,Confiança,False,False,first,Copa de Brasil,2013
+2013-04-10,Luziânia,0,0,Fortaleza,False,False,first,Copa de Brasil,2013
+2013-04-17,Fortaleza,0,0,Luziânia,False,False,first,Copa de Brasil,2013
+2013-05-01,Campinense,1,2,Flamengo,False,False,second,Copa de Brasil,2013
+2013-05-15,Flamengo,2,1,Campinense,False,False,second,Copa de Brasil,2013
+2013-05-01,ASA,3,0,Ceará,False,False,second,Copa de Brasil,2013
+2013-05-08,Ceará,3,0,ASA,False,False,second,Copa de Brasil,2013
+2013-05-01,Santa Cruz-PE,0,0,Internacional,False,False,second,Copa de Brasil,2013
+2013-05-15,Internacional,2,0,Santa Cruz-PE,False,False,second,Copa de Brasil,2013
+2013-05-07,América-MG,0,1,Avaí,False,False,second,Copa de Brasil,2013
+2013-05-16,Avaí,0,3,América-MG,False,False,second,Copa de Brasil,2013
+2013-05-01,Santo André,2,3,Goiás,False,False,second,Copa de Brasil,2013
+2013-05-15,Goiás,1,0,Santo André,False,False,second,Copa de Brasil,2013
+2013-05-08,ABC,2,0,Sport,False,False,second,Copa de Brasil,2013
+2013-05-21,Sport,2,3,ABC,False,False,second,Copa de Brasil,2013
+2013-05-15,Salgueiro,0,0,Vitória,False,False,second,Copa de Brasil,2013
+2013-05-22,Vitória,1,1,Salgueiro,False,False,second,Copa de Brasil,2013
+2013-05-07,São Bernardo,1,1,Criciúma,False,False,second,Copa de Brasil,2013
+2013-05-15,Criciúma,3,1,São Bernardo,False,False,second,Copa de Brasil,2013
+2013-05-15,Nacional,4,1,Coritiba,False,False,second,Copa de Brasil,2013
+2013-05-23,Coritiba,1,0,Nacional,False,False,second,Copa de Brasil,2013
+2013-05-09,RB Bragantino,1,3,Ponte Preta,False,False,second,Copa de Brasil,2013
+2013-05-02,CRB,0,0,Botafogo,False,False,second,Copa de Brasil,2013
+2013-05-22,Botafogo,3,0,CRB,False,False,second,Copa de Brasil,2013
+2013-05-08,Arapongas,0,0,Figueirense,False,False,second,Copa de Brasil,2013
+2013-05-22,Figueirense,3,1,Arapongas,False,False,second,Copa de Brasil,2013
+2013-05-01,Resende,1,2,Cruzeiro,False,False,second,Copa de Brasil,2013
+2013-05-22,Cruzeiro,4,0,Resende,False,False,second,Copa de Brasil,2013
+2013-05-01,Cianorte,1,3,Atlético-GO,False,False,second,Copa de Brasil,2013
+2013-05-09,América-RN,2,6,Atlético-PR,False,False,second,Copa de Brasil,2013
+2013-05-08,Naviraiense,0,1,Paysandu,False,False,second,Copa de Brasil,2013
+2013-05-15,Paysandu,0,2,Naviraiense,False,False,second,Copa de Brasil,2013
+2013-05-08,Joinville,0,1,Santos,False,False,second,Copa de Brasil,2013
+2013-05-22,Santos,0,0,Joinville,False,False,second,Copa de Brasil,2013
+2013-05-01,CRAC,3,2,Betim,False,False,second,Copa de Brasil,2013
+2013-05-15,Betim,0,1,CRAC,False,False,second,Copa de Brasil,2013
+2013-05-08,Luverdense,2,0,Bahia,False,False,second,Copa de Brasil,2013
+2013-05-15,Bahia,1,0,Luverdense,False,False,second,Copa de Brasil,2013
+2013-05-08,Confiança,1,1,Fortaleza,False,False,second,Copa de Brasil,2013
+2013-05-23,Fortaleza,4,0,Confiança,False,False,second,Copa de Brasil,2013
+2013-07-10,ASA,0,1,Flamengo,False,False,third,Copa de Brasil,2013
+2013-07-17,Flamengo,2,1,ASA,False,False,third,Copa de Brasil,2013
+2013-07-10,Internacional,3,1,América-MG,False,False,third,Copa de Brasil,2013
+2013-07-17,América-MG,1,1,Internacional,False,False,third,Copa de Brasil,2013
+2013-07-03,Goiás,3,0,ABC,False,False,third,Copa de Brasil,2013
+2013-07-17,ABC,1,1,Goiás,False,False,third,Copa de Brasil,2013
+2013-07-02,Salgueiro,0,0,Criciúma,False,False,third,Copa de Brasil,2013
+2013-07-17,Criciúma,1,1,Salgueiro,False,False,third,Copa de Brasil,2013
+2013-07-10,Ponte Preta,0,1,Nacional,False,False,third,Copa de Brasil,2013
+2013-07-24,Nacional,1,0,Ponte Preta,False,False,third,Copa de Brasil,2013
+2013-07-03,Botafogo,1,0,Figueirense,False,False,third,Copa de Brasil,2013
+2013-07-24,Figueirense,1,0,Botafogo,False,False,third,Copa de Brasil,2013
+2013-07-09,Cruzeiro,5,0,Atlético-GO,False,False,third,Copa de Brasil,2013
+2013-07-17,Atlético-GO,0,1,Cruzeiro,False,False,third,Copa de Brasil,2013
+2013-07-17,Paysandu,0,0,Atlético-PR,False,False,third,Copa de Brasil,2013
+2013-07-24,Atlético-PR,2,1,Paysandu,False,False,third,Copa de Brasil,2013
+2013-07-10,Santos,1,1,CRAC,False,False,third,Copa de Brasil,2013
+2013-07-24,CRAC,0,2,Santos,False,False,third,Copa de Brasil,2013
+2013-07-10,Fortaleza,0,0,Luverdense,False,False,third,Copa de Brasil,2013
+2013-07-18,Luverdense,2,1,Fortaleza,False,False,third,Copa de Brasil,2013
+2013-08-21,Luverdense,1,0,Corinthians,False,False,round16,Copa de Brasil,2013
+2013-08-28,Corinthians,2,0,Luverdense,False,False,round16,Copa de Brasil,2013
+2013-08-21,Santos,1,0,Grêmio,False,False,round16,Copa de Brasil,2013
+2013-08-28,Grêmio,2,0,Santos,False,False,round16,Copa de Brasil,2013
+2013-08-22,Internacional,3,0,Salgueiro,False,False,round16,Copa de Brasil,2013
+2013-08-29,Salgueiro,2,2,Internacional,False,False,round16,Copa de Brasil,2013
+2013-08-21,Palmeiras,1,0,Atlético-PR,False,False,round16,Copa de Brasil,2013
+2013-08-28,Atlético-PR,3,0,Palmeiras,False,False,round16,Copa de Brasil,2013
+2013-08-21,Fluminense,1,0,Goiás,False,False,round16,Copa de Brasil,2013
+2013-08-28,Goiás,2,0,Fluminense,False,False,round16,Copa de Brasil,2013
+2013-08-20,Nacional,0,2,Vasco da Gama,False,False,round16,Copa de Brasil,2013
+2013-08-29,Vasco da Gama,2,1,Nacional,False,False,round16,Copa de Brasil,2013
+2013-08-22,Botafogo,4,2,Atlético-MG,False,False,round16,Copa de Brasil,2013
+2013-08-28,Atlético-MG,2,2,Botafogo,False,False,round16,Copa de Brasil,2013
+2013-08-21,Cruzeiro,2,1,Flamengo,False,False,round16,Copa de Brasil,2013
+2013-08-28,Flamengo,1,0,Cruzeiro,False,False,round16,Copa de Brasil,2013
+2013-09-25,Corinthians,0,0,Grêmio,False,False,quarter,Copa de Brasil,2013
+2013-10-23,Grêmio,0,0,Corinthians,False,False,quarter,Copa de Brasil,2013
+2013-09-25,Internacional,1,1,Atlético-PR,False,False,quarter,Copa de Brasil,2013
+2013-10-23,Atlético-PR,0,0,Internacional,False,False,quarter,Copa de Brasil,2013
+2013-09-25,Goiás,2,1,Vasco da Gama,False,False,quarter,Copa de Brasil,2013
+2013-10-24,Vasco da Gama,3,2,Goiás,False,False,quarter,Copa de Brasil,2013
+2013-09-25,Botafogo,1,1,Flamengo,False,False,quarter,Copa de Brasil,2013
+2013-10-23,Flamengo,4,0,Botafogo,False,False,quarter,Copa de Brasil,2013
+2013-10-30,Atlético-PR,1,0,Grêmio,False,False,semi,Copa de Brasil,2013
+2013-11-06,Grêmio,0,0,Atlético-PR,False,False,semi,Copa de Brasil,2013
+2013-10-30,Goiás,1,2,Flamengo,False,False,semi,Copa de Brasil,2013
+2013-11-06,Flamengo,2,1,Goiás,False,False,semi,Copa de Brasil,2013
+2013-11-20,Atlético-PR,1,1,Flamengo,False,False,final,Copa de Brasil,2013
+2013-11-27,Flamengo,2,0,Atlético-PR,False,False,final,Copa de Brasil,2013
