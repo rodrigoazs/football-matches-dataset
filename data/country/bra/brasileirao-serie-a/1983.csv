@@ -99,23 +99,23 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1983-02-27,Goiás,3,1,Mixto,False,False,first
 1983-03-05,Palmeiras,2,1,Comercial-MS,False,False,first
 1983-03-06,Bahia,3,0,Goiás,False,False,first
-1983-01-23,CA Juventus,0,0,Vila Nova,False,False,first
+1983-01-23,CA Juventus,0,0,Vila Nova-GO,False,False,first
 1983-01-23,Atlético-MG,1,2,América-RJ,False,False,first
 1983-01-26,Rio Branco-ES,0,2,América-RJ,False,False,first
 1983-01-26,CA Juventus,0,0,Atlético-MG,False,False,first
 1983-01-29,Rio Branco-ES,1,1,CA Juventus,False,False,first
-1983-01-29,Vila Nova,1,2,Atlético-MG,False,False,first
+1983-01-29,Vila Nova-GO,1,2,Atlético-MG,False,False,first
 1983-02-02,América-RJ,2,0,CA Juventus,False,False,first
-1983-02-02,Rio Branco-ES,1,0,Vila Nova,False,False,first
+1983-02-02,Rio Branco-ES,1,0,Vila Nova-GO,False,False,first
 1983-02-05,Atlético-MG,2,0,Rio Branco-ES,False,False,first
-1983-02-05,América-RJ,3,1,Vila Nova,False,False,first
+1983-02-05,América-RJ,3,1,Vila Nova-GO,False,False,first
 1983-02-09,CA Juventus,3,2,Rio Branco-ES,False,False,first
-1983-02-10,Atlético-MG,4,1,Vila Nova,False,False,first
+1983-02-10,Atlético-MG,4,1,Vila Nova-GO,False,False,first
 1983-02-19,CA Juventus,1,3,América-RJ,False,False,first
-1983-02-19,Vila Nova,2,0,Rio Branco-ES,False,False,first
+1983-02-19,Vila Nova-GO,2,0,Rio Branco-ES,False,False,first
 1983-02-23,Rio Branco-ES,0,2,Atlético-MG,False,False,first
-1983-02-23,Vila Nova,3,0,América-RJ,False,False,first
-1983-02-26,Vila Nova,1,0,CA Juventus,False,False,first
+1983-02-23,Vila Nova-GO,3,0,América-RJ,False,False,first
+1983-02-26,Vila Nova-GO,1,0,CA Juventus,False,False,first
 1983-02-27,América-RJ,1,1,Atlético-MG,False,False,first
 1983-03-06,Atlético-MG,1,0,CA Juventus,False,False,first
 1983-03-06,América-RJ,4,0,Rio Branco-ES,False,False,first
@@ -187,18 +187,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1983-03-30,Sport,1,1,Internacional,False,False,second
 1983-04-03,Ponte Preta-SP,2,1,Sport,False,False,second
 1983-04-03,Internacional,2,1,Atlético-MG,False,False,second
-1983-03-13,Colorado,1,0,Vila Nova,False,False,second
-1983-03-13,Uberaba,1,4,São Paulo,False,False,second
-1983-03-16,São Paulo,4,0,Vila Nova,False,False,second
-1983-03-16,Uberaba,2,3,Colorado,False,False,second
+1983-03-13,Colorado,1,0,Vila Nova-GO,False,False,second
+1983-03-13,Uberaba-MG,1,4,São Paulo,False,False,second
+1983-03-16,São Paulo,4,0,Vila Nova-GO,False,False,second
+1983-03-16,Uberaba-MG,2,3,Colorado,False,False,second
 1983-03-19,São Paulo,4,0,Colorado,False,False,second
-1983-03-19,Vila Nova,1,1,Uberaba,False,False,second
-1983-03-26,Colorado,1,0,Uberaba,False,False,second
-1983-03-26,Vila Nova,0,2,São Paulo,False,False,second
-1983-03-30,Uberaba,4,0,Vila Nova,False,False,second
+1983-03-19,Vila Nova-GO,1,1,Uberaba-MG,False,False,second
+1983-03-26,Colorado,1,0,Uberaba-MG,False,False,second
+1983-03-26,Vila Nova-GO,0,2,São Paulo,False,False,second
+1983-03-30,Uberaba-MG,4,0,Vila Nova-GO,False,False,second
 1983-03-30,Colorado,2,2,São Paulo,False,False,second
-1983-04-02,São Paulo,5,1,Uberaba,False,False,second
-1983-04-02,Vila Nova,4,1,Colorado,False,False,second
+1983-04-02,São Paulo,5,1,Uberaba-MG,False,False,second
+1983-04-02,Vila Nova-GO,4,1,Colorado,False,False,second
 1983-03-13,Corinthians,1,1,Vasco da Gama,False,False,second
 1983-03-13,Campo Grande,0,0,Bahia,False,False,second
 1983-03-16,Bahia,0,0,Corinthians,False,False,second

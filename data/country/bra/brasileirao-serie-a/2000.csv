@@ -463,10 +463,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-09,Anapolina,1,1,Bandeirante,False,False,first
 2000-08-09,América-RN,1,1,Ceará,False,False,first
 2000-08-09,Fortaleza,2,1,ABC,False,False,first
-2000-08-09,Desportiva,1,0,Vila Nova,False,False,first
+2000-08-09,Desportiva,1,0,Vila Nova-GO,False,False,first
 2000-08-09,Sampaio Corrêa-MA,1,2,Náutico,False,False,first
 2000-08-10,Serra,0,1,CRB,False,False,first
-2000-08-12,Vila Nova,5,1,Sampaio Corrêa-MA,False,False,first
+2000-08-12,Vila Nova-GO,5,1,Sampaio Corrêa-MA,False,False,first
 2000-08-13,Ceará,0,1,São Raimundo,False,False,first
 2000-08-13,CRB,1,1,Fortaleza,False,False,first
 2000-08-13,ABC,1,3,CSA,False,False,first
@@ -480,12 +480,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-16,Paysandu,0,0,Sampaio Corrêa-MA,False,False,first
 2000-08-16,América-RN,1,0,Bandeirante,False,False,first
 2000-08-16,Ceará,3,0,Serra,False,False,first
-2000-08-16,River,3,2,Vila Nova,False,False,first
+2000-08-16,River,3,2,Vila Nova-GO,False,False,first
 2000-08-16,Náutico,3,0,CSA,False,False,first
 2000-08-17,São Raimundo,1,2,Anapolina,False,False,first
 2000-08-17,Fortaleza,2,1,Remo,False,False,first
 2000-08-19,Serra,2,4,Náutico,False,False,first
-2000-08-19,Vila Nova,2,3,América-RN,False,False,first
+2000-08-19,Vila Nova-GO,2,3,América-RN,False,False,first
 2000-08-20,CSA,0,3,Paysandu,False,False,first
 2000-08-20,Remo,1,1,CRB,False,False,first
 2000-08-20,ABC,2,0,Bandeirante,False,False,first
@@ -493,7 +493,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-20,Desportiva,0,2,Ceará,False,False,first
 2000-08-20,Anapolina,0,0,Fortaleza,False,False,first
 2000-08-20,São Raimundo,2,1,River,False,False,first
-2000-08-22,Vila Nova,0,1,Náutico,False,False,first
+2000-08-22,Vila Nova-GO,0,1,Náutico,False,False,first
 2000-08-23,CSA,4,3,Nacional-AM,False,False,first
 2000-08-23,Paysandu,1,0,CRB,False,False,first
 2000-08-23,América-RN,1,1,ABC,False,False,first
@@ -505,7 +505,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-26,Ceará,1,0,CSA,False,False,first
 2000-08-26,Náutico,0,2,Anapolina,False,False,first
 2000-08-26,Nacional-AM,4,1,ABC,False,False,first
-2000-08-27,CRB,1,1,Vila Nova,False,False,first
+2000-08-27,CRB,1,1,Vila Nova-GO,False,False,first
 2000-08-27,América-RN,3,0,Serra,False,False,first
 2000-08-27,Fortaleza,3,2,Paysandu,False,False,first
 2000-08-27,River,1,2,Remo,False,False,first
@@ -517,12 +517,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-30,Nacional-AM,3,2,Náutico,False,False,first
 2000-08-30,Remo,1,2,ABC,False,False,first
 2000-08-30,América-RN,1,2,Paysandu,False,False,first
-2000-08-30,CSA,3,2,Vila Nova,False,False,first
+2000-08-30,CSA,3,2,Vila Nova-GO,False,False,first
 2000-08-30,Desportiva,3,4,CRB,False,False,first
 2000-09-02,CRB,0,0,Ceará,False,False,first
 2000-09-02,Paysandu,3,1,River,False,False,first
 2000-09-02,ABC,3,0,São Raimundo,False,False,first
-2000-09-02,Vila Nova,3,3,Fortaleza,False,False,first
+2000-09-02,Vila Nova-GO,3,3,Fortaleza,False,False,first
 2000-09-02,Anapolina,4,0,Desportiva,False,False,first
 2000-09-02,Náutico,2,0,Bandeirante,False,False,first
 2000-09-02,Serra,1,1,Nacional-AM,False,False,first
@@ -531,7 +531,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-06,Paysandu,1,0,Anapolina,False,False,first
 2000-09-06,ABC,2,0,Desportiva,False,False,first
 2000-09-06,River,2,1,Ceará,False,False,first
-2000-09-06,Bandeirante,2,2,Vila Nova,False,False,first
+2000-09-06,Bandeirante,2,2,Vila Nova-GO,False,False,first
 2000-09-06,Náutico,0,2,Remo,False,False,first
 2000-09-06,Serra,2,5,Fortaleza,False,False,first
 2000-09-07,CSA,0,2,CRB,False,False,first
@@ -540,7 +540,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-09,Ceará,0,0,Náutico,False,False,first
 2000-09-10,CRB,6,2,Bandeirante,False,False,first
 2000-09-10,São Raimundo,2,0,CSA,False,False,first
-2000-09-10,Remo,1,0,Vila Nova,False,False,first
+2000-09-10,Remo,1,0,Vila Nova-GO,False,False,first
 2000-09-10,Desportiva,0,6,Serra,False,False,first
 2000-09-10,América-RN,1,1,Anapolina,False,False,first
 2000-09-10,Fortaleza,2,0,Sampaio Corrêa-MA,False,False,first
@@ -549,7 +549,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-13,Sampaio Corrêa-MA,1,0,CRB,False,False,first
 2000-09-13,ABC,2,2,Ceará,False,False,first
 2000-09-13,Fortaleza,4,3,São Raimundo,False,False,first
-2000-09-13,Vila Nova,2,0,Nacional-AM,False,False,first
+2000-09-13,Vila Nova-GO,2,0,Nacional-AM,False,False,first
 2000-09-13,Anapolina,3,2,River,False,False,first
 2000-09-13,Paysandu,0,0,Remo,False,False,first
 2000-09-13,Náutico,1,0,Desportiva,False,False,first
@@ -559,7 +559,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-17,América-RN,1,0,River,False,False,first
 2000-09-17,Ceará,2,0,Nacional-AM,False,False,first
 2000-09-17,Sampaio Corrêa-MA,3,2,Desportiva,False,False,first
-2000-09-17,Vila Nova,1,1,Paysandu,False,False,first
+2000-09-17,Vila Nova-GO,1,1,Paysandu,False,False,first
 2000-09-17,Bandeirante,2,2,São Raimundo,False,False,first
 2000-09-17,Náutico,1,1,CRB,False,False,first
 2000-09-17,Serra,5,2,Remo,False,False,first
@@ -569,12 +569,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-20,Desportiva,1,1,CSA,False,False,first
 2000-09-20,Remo,1,1,Sampaio Corrêa-MA,False,False,first
 2000-09-21,River,3,0,Bandeirante,False,False,first
-2000-09-21,Serra,2,0,Vila Nova,False,False,first
+2000-09-21,Serra,2,0,Vila Nova-GO,False,False,first
 2000-09-21,Paysandu,4,2,Ceará,False,False,first
 2000-09-21,Nacional-AM,3,4,Fortaleza,False,False,first
 2000-09-23,CRB,0,0,América-RN,False,False,first
 2000-09-23,Remo,4,0,Desportiva,False,False,first
-2000-09-23,Vila Nova,0,1,São Raimundo,False,False,first
+2000-09-23,Vila Nova-GO,0,1,São Raimundo,False,False,first
 2000-09-24,Bandeirante,1,1,Nacional-AM,False,False,first
 2000-09-24,CSA,1,0,Anapolina,False,False,first
 2000-09-24,Fortaleza,3,1,River,False,False,first
@@ -587,7 +587,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-09-27,Ceará,1,3,Fortaleza,False,False,first
 2000-09-27,Sampaio Corrêa-MA,3,2,ABC,False,False,first
 2000-09-27,Bandeirante,0,1,Paysandu,False,False,first
-2000-09-27,Anapolina,1,0,Vila Nova,False,False,first
+2000-09-27,Anapolina,1,0,Vila Nova-GO,False,False,first
 2000-09-27,Náutico,0,0,River,False,False,first
 2000-09-28,São Raimundo,4,1,Remo,False,False,first
 2000-09-30,América-RN,1,1,Fortaleza,False,False,first
@@ -595,11 +595,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-10-04,Serra,3,1,Sampaio Corrêa-MA,False,False,first
 2000-10-04,Náutico,3,2,São Raimundo,False,False,first
 2000-10-04,River,1,1,CRB,False,False,first
-2000-10-04,Ceará,0,0,Vila Nova,False,False,first
+2000-10-04,Ceará,0,0,Vila Nova-GO,False,False,first
 2000-10-04,ABC,4,1,Paysandu,False,False,first
 2000-10-04,Remo,1,0,CSA,False,False,first
 2000-10-07,Anapolina,0,1,Sampaio Corrêa-MA,False,False,first
-2000-10-07,Vila Nova,0,1,ABC,False,False,first
+2000-10-07,Vila Nova-GO,0,1,ABC,False,False,first
 2000-10-07,Ceará,1,2,Remo,False,False,first
 2000-10-07,Paysandu,3,2,Desportiva,False,False,first
 2000-10-07,CRB,1,1,São Raimundo,False,False,first
@@ -726,39 +726,39 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-08-06,Ypiranga,3,0,Baré,False,False,first
 2000-08-09,Rio Branco-AC,2,0,Genus,False,False,first
 2000-08-09,Rio Negro,0,2,Flamengo-PI,False,False,first
-2000-08-30,Baré,2,1,Tocantinópolis,False,False,first
+2000-08-30,Baré,2,1,Tocantinópolis-TO,False,False,first
 2000-08-12,Flamengo-PI,4,0,Ypiranga,False,False,first
 2000-08-13,Genus,1,3,Baré,False,False,first
-2000-08-15,Tocantinópolis,1,1,Rio Branco-AC,False,False,first
+2000-08-15,Tocantinópolis-TO,1,1,Rio Branco-AC,False,False,first
 2000-08-16,Ypiranga,5,3,Genus,False,False,first
 2000-08-16,Baré,0,0,Rio Negro,False,False,first
-2000-08-17,Flamengo-PI,2,0,Tocantinópolis,False,False,first
-2000-08-20,Rio Negro,0,2,Tocantinópolis,False,False,first
+2000-08-17,Flamengo-PI,2,0,Tocantinópolis-TO,False,False,first
+2000-08-20,Rio Negro,0,2,Tocantinópolis-TO,False,False,first
 2000-08-20,Rio Branco-AC,2,2,Ypiranga,False,False,first
 2000-08-20,Genus,0,1,Flamengo-PI,False,False,first
-2000-08-23,Tocantinópolis,4,0,Genus,False,False,first
+2000-08-23,Tocantinópolis-TO,4,0,Genus,False,False,first
 2000-08-23,Baré,2,1,Rio Branco-AC,False,False,first
 2000-08-23,Ypiranga,1,0,Rio Negro,False,False,first
 2000-08-26,Flamengo-PI,1,0,Baré,False,False,first
 2000-08-27,Rio Negro,2,1,Rio Branco-AC,False,False,first
-2000-08-27,Tocantinópolis,1,0,Ypiranga,False,False,first
+2000-08-27,Tocantinópolis-TO,1,0,Ypiranga,False,False,first
 2000-09-02,Rio Branco-AC,3,0,Rio Negro,False,False,first
-2000-09-02,Ypiranga,3,0,Tocantinópolis,False,False,first
+2000-09-02,Ypiranga,3,0,Tocantinópolis-TO,False,False,first
 2000-09-02,Baré,1,0,Flamengo-PI,False,False,first
-2000-09-06,Genus,2,3,Tocantinópolis,False,False,first
+2000-09-06,Genus,2,3,Tocantinópolis-TO,False,False,first
 2000-09-06,Rio Branco-AC,1,0,Baré,False,False,first
 2000-09-06,Rio Negro,2,0,Ypiranga,False,False,first
 2000-09-09,Flamengo-PI,1,0,Genus,False,False,first
-2000-09-10,Tocantinópolis,3,1,Rio Negro,False,False,first
+2000-09-10,Tocantinópolis-TO,3,1,Rio Negro,False,False,first
 2000-09-10,Ypiranga,1,0,Rio Branco-AC,False,False,first
-2000-09-13,Tocantinópolis,1,0,Flamengo-PI,False,False,first
+2000-09-13,Tocantinópolis-TO,1,0,Flamengo-PI,False,False,first
 2000-09-13,Genus,3,2,Ypiranga,False,False,first
 2000-09-13,Rio Negro,1,0,Baré,False,False,first
 2000-09-17,Ypiranga,3,1,Flamengo-PI,False,False,first
-2000-09-17,Rio Branco-AC,2,1,Tocantinópolis,False,False,first
+2000-09-17,Rio Branco-AC,2,1,Tocantinópolis-TO,False,False,first
 2000-09-17,Baré,9,1,Genus,False,False,first
 2000-09-20,Flamengo-PI,1,1,Rio Negro,False,False,first
-2000-09-20,Tocantinópolis,2,1,Baré,False,False,first
+2000-09-20,Tocantinópolis-TO,2,1,Baré,False,False,first
 2000-09-20,Genus,2,2,Rio Branco-AC,False,False,first
 2000-09-24,Rio Negro,4,2,Genus,False,False,first
 2000-09-24,Flamengo-PI,3,1,Rio Branco-AC,False,False,first
@@ -806,16 +806,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-10-19,Juazeiro,5,0,Tuna Luso,False,False,second
 2000-10-19,Atlético-GO,3,2,Ypiranga,False,False,second
 2000-09-30,Corinthians-AL,1,3,Central,False,False,second
-2000-09-30,Dom Pedro II,2,1,Tocantinópolis,False,False,second
+2000-09-30,Dom Pedro II,2,1,Tocantinópolis-TO,False,False,second
 2000-10-04,Central,0,0,Dom Pedro II,False,False,second
-2000-10-04,Tocantinópolis,1,2,Corinthians-AL,False,False,second
-2000-10-07,Tocantinópolis,2,1,Central,False,False,second
+2000-10-04,Tocantinópolis-TO,1,2,Corinthians-AL,False,False,second
+2000-10-07,Tocantinópolis-TO,2,1,Central,False,False,second
 2000-10-07,Corinthians-AL,2,2,Dom Pedro II,False,False,second
 2000-10-11,Dom Pedro II,0,0,Corinthians-AL,False,False,second
-2000-10-13,Central,0,1,Tocantinópolis,False,False,second
-2000-10-15,Corinthians-AL,5,1,Tocantinópolis,False,False,second
+2000-10-13,Central,0,1,Tocantinópolis-TO,False,False,second
+2000-10-15,Corinthians-AL,5,1,Tocantinópolis-TO,False,False,second
 2000-10-15,Dom Pedro II,2,3,Central,False,False,second
-2000-10-19,Tocantinópolis,2,0,Dom Pedro II,False,False,second
+2000-10-19,Tocantinópolis-TO,2,0,Dom Pedro II,False,False,second
 2000-10-19,Central,2,1,Corinthians-AL,False,False,second
 2000-09-30,Flamengo-PI,7,2,Operário-MS,False,False,second
 2000-09-30,Moto Club,2,1,Confiança,False,False,second
@@ -829,77 +829,77 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-10-15,Flamengo-PI,3,5,Confiança,False,False,second
 2000-10-19,Operário-MS,1,0,Flamengo,False,False,second
 2000-10-19,Confiança,3,0,Moto Club,False,False,second
-2000-08-06,São José,1,2,Uberlândia,False,False,second
+2000-08-06,São José,1,2,Uberlândia-MG,False,False,second
 2000-08-06,CA Juventus,2,0,Volta Redonda,False,False,second
 2000-08-06,Nacional-SP,2,1,Rio Branco-SP,False,False,second
 2000-08-09,Nacional-SP,1,4,CA Juventus,False,False,second
 2000-08-09,Volta Redonda,1,1,Rio Branco-SP,False,False,second
-2000-08-13,CA Juventus,4,0,Uberlândia,False,False,second
+2000-08-13,CA Juventus,4,0,Uberlândia-MG,False,False,second
 2000-08-13,Rio Branco-SP,4,1,São José,False,False,second
 2000-08-16,São José,0,1,CA Juventus,False,False,second
-2000-08-16,Uberlândia,1,0,Volta Redonda,False,False,second
+2000-08-16,Uberlândia-MG,1,0,Volta Redonda,False,False,second
 2000-08-20,Nacional-SP,2,1,São José,False,False,second
 2000-08-20,CA Juventus,1,3,Rio Branco-SP,False,False,second
-2000-08-23,Uberlândia,3,0,Nacional-SP,False,False,second
+2000-08-23,Uberlândia-MG,3,0,Nacional-SP,False,False,second
 2000-08-23,São José,2,2,Volta Redonda,False,False,second
 2000-08-27,Volta Redonda,3,1,Nacional-SP,False,False,second
-2000-08-27,Rio Branco-SP,2,0,Uberlândia,False,False,second
-2000-09-02,Uberlândia,1,1,Rio Branco-SP,False,False,second
+2000-08-27,Rio Branco-SP,2,0,Uberlândia-MG,False,False,second
+2000-09-02,Uberlândia-MG,1,1,Rio Branco-SP,False,False,second
 2000-09-02,Nacional-SP,1,0,Volta Redonda,False,False,second
-2000-09-06,Nacional-SP,3,3,Uberlândia,False,False,second
+2000-09-06,Nacional-SP,3,3,Uberlândia-MG,False,False,second
 2000-09-06,Volta Redonda,2,1,São José,False,False,second
 2000-09-09,São José,0,2,Nacional-SP,False,False,second
 2000-09-10,Rio Branco-SP,2,2,CA Juventus,False,False,second
 2000-09-13,CA Juventus,1,0,São José,False,False,second
-2000-09-13,Volta Redonda,0,1,Uberlândia,False,False,second
-2000-09-17,Uberlândia,2,2,CA Juventus,False,False,second
+2000-09-13,Volta Redonda,0,1,Uberlândia-MG,False,False,second
+2000-09-17,Uberlândia-MG,2,2,CA Juventus,False,False,second
 2000-09-17,São José,1,2,Rio Branco-SP,False,False,second
 2000-09-20,CA Juventus,2,1,Nacional-SP,False,False,second
 2000-09-20,Rio Branco-SP,3,1,Volta Redonda,False,False,second
 2000-09-24,Rio Branco-SP,4,0,Nacional-SP,False,False,second
 2000-09-24,Volta Redonda,1,1,CA Juventus,False,False,second
-2000-09-24,Uberlândia,2,1,São José,False,False,second
+2000-09-24,Uberlândia-MG,2,1,São José,False,False,second
 2000-08-06,Etti Jundiaí,4,0,Malutrom,False,False,second
-2000-08-06,Internacional-SP,1,1,União Bandeirante,False,False,second
+2000-08-06,Internacional-SP,1,1,União Bandeirante-RO,False,False,second
 2000-08-06,Comercial-SP,1,1,Madureira,False,False,second
 2000-08-09,Etti Jundiaí,2,0,Internacional-SP,False,False,second
-2000-08-09,União Bandeirante,2,1,Malutrom,False,False,second
+2000-08-09,União Bandeirante-RO,2,1,Malutrom,False,False,second
 2000-08-30,Madureira,2,0,União,False,False,second
 2000-08-13,Internacional-SP,2,0,Madureira,False,False,second
 2000-08-13,Malutrom,3,0,Comercial-SP,False,False,second
 2000-08-13,União,0,2,Etti Jundiaí,False,False,second
-2000-08-16,Madureira,6,0,União Bandeirante,False,False,second
+2000-08-16,Madureira,6,0,União Bandeirante-RO,False,False,second
 2000-08-16,Malutrom,3,2,União,False,False,second
 2000-08-17,Comercial-SP,2,1,Internacional-SP,False,False,second
-2000-08-20,União Bandeirante,3,0,União,False,False,second
+2000-08-20,União Bandeirante-RO,3,0,União,False,False,second
 2000-08-20,Internacional-SP,2,2,Malutrom,False,False,second
 2000-08-20,Etti Jundiaí,3,0,Comercial-SP,False,False,second
 2000-08-23,Madureira,0,2,Etti Jundiaí,False,False,second
-2000-08-23,Comercial-SP,1,0,União Bandeirante,False,False,second
+2000-08-23,Comercial-SP,1,0,União Bandeirante-RO,False,False,second
 2000-08-23,União,2,1,Internacional-SP,False,False,second
 2000-08-27,União,2,0,Comercial-SP,False,False,second
-2000-08-27,União Bandeirante,1,1,Etti Jundiaí,False,False,second
+2000-08-27,União Bandeirante-RO,1,1,Etti Jundiaí,False,False,second
 2000-08-28,Malutrom,2,1,Madureira,False,False,second
 2000-09-02,Madureira,0,0,Malutrom,False,False,second
-2000-09-02,Etti Jundiaí,8,0,União Bandeirante,False,False,second
+2000-09-02,Etti Jundiaí,8,0,União Bandeirante-RO,False,False,second
 2000-09-19,Comercial-SP,2,1,União,False,False,second
 2000-09-06,Internacional-SP,6,0,União,False,False,second
 2000-09-06,Etti Jundiaí,4,0,Madureira,False,False,second
-2000-09-06,União Bandeirante,3,0,Comercial-SP,False,False,second
+2000-09-06,União Bandeirante-RO,3,0,Comercial-SP,False,False,second
 2000-09-09,Malutrom,0,0,Internacional-SP,False,False,second
 2000-09-09,Comercial-SP,1,4,Etti Jundiaí,False,False,second
-2000-09-10,União,2,1,União Bandeirante,False,False,second
+2000-09-10,União,2,1,União Bandeirante-RO,False,False,second
 2000-09-13,Internacional-SP,2,0,Comercial-SP,False,False,second
 2000-09-13,União,0,2,Malutrom,False,False,second
-2000-09-13,União Bandeirante,1,1,Madureira,False,False,second
+2000-09-13,União Bandeirante-RO,1,1,Madureira,False,False,second
 2000-09-16,Comercial-SP,1,4,Malutrom,False,False,second
 2000-09-16,Etti Jundiaí,5,2,União,False,False,second
 2000-09-17,Madureira,1,1,Internacional-SP,False,False,second
 2000-09-20,Internacional-SP,2,4,Etti Jundiaí,False,False,second
-2000-09-20,Malutrom,2,2,União Bandeirante,False,False,second
+2000-09-20,Malutrom,2,2,União Bandeirante-RO,False,False,second
 2000-09-21,União,1,1,Madureira,False,False,second
 2000-09-24,Madureira,7,1,Comercial-SP,False,False,second
-2000-09-24,União Bandeirante,3,0,Internacional-SP,False,False,second
+2000-09-24,União Bandeirante-RO,3,0,Internacional-SP,False,False,second
 2000-09-24,Malutrom,2,1,Etti Jundiaí,False,False,second
 2000-08-06,União Agrícola,2,0,Mogi Mirim,False,False,second
 2000-08-06,Olimpia,1,1,Ipatinga,False,False,second
@@ -998,28 +998,28 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-10-18,CA Juventus,5,0,Etti Jundiaí,False,False,second
 2000-10-18,Matonense,0,0,Portuguesa-Santos,False,False,second
 2000-09-30,Olimpia,2,0,Rio Branco-PR,False,False,second
-2000-09-30,Uberlândia,1,0,União Bandeirante,False,False,second
-2000-10-04,Rio Branco-PR,3,2,Uberlândia,False,False,second
-2000-10-04,União Bandeirante,0,1,Olimpia,False,False,second
-2000-10-07,Olimpia,1,1,Uberlândia,False,False,second
-2000-10-07,União Bandeirante,0,1,Rio Branco-PR,False,False,second
-2000-10-11,Uberlândia,3,0,Olimpia,False,False,second
-2000-10-11,Rio Branco-PR,2,1,União Bandeirante,False,False,second
-2000-10-15,Olimpia,3,1,União Bandeirante,False,False,second
-2000-10-15,Uberlândia,0,0,Rio Branco-PR,False,False,second
-2000-10-18,União Bandeirante,3,4,Uberlândia,False,False,second
+2000-09-30,Uberlândia-MG,1,0,União Bandeirante-RO,False,False,second
+2000-10-04,Rio Branco-PR,3,2,Uberlândia-MG,False,False,second
+2000-10-04,União Bandeirante-RO,0,1,Olimpia,False,False,second
+2000-10-07,Olimpia,1,1,Uberlândia-MG,False,False,second
+2000-10-07,União Bandeirante-RO,0,1,Rio Branco-PR,False,False,second
+2000-10-11,Uberlândia-MG,3,0,Olimpia,False,False,second
+2000-10-11,Rio Branco-PR,2,1,União Bandeirante-RO,False,False,second
+2000-10-15,Olimpia,3,1,União Bandeirante-RO,False,False,second
+2000-10-15,Uberlândia-MG,0,0,Rio Branco-PR,False,False,second
+2000-10-18,União Bandeirante-RO,3,4,Uberlândia-MG,False,False,second
 2000-10-18,Rio Branco-PR,0,0,Olimpia,False,False,second
-2000-10-22,Juazeiro,1,1,Uberlândia,False,False,third
+2000-10-22,Juazeiro,1,1,Uberlândia-MG,False,False,third
 2000-10-23,Central,0,0,Olimpia,False,False,third
-2000-10-25,Uberlândia,5,0,Central,False,False,third
+2000-10-25,Uberlândia-MG,5,0,Central,False,False,third
 2000-10-26,Olimpia,1,0,Juazeiro,False,False,third
 2000-10-29,Juazeiro,1,1,Central,False,False,third
-2000-10-29,Olimpia,1,1,Uberlândia,False,False,third
-2000-11-01,Uberlândia,2,1,Olimpia,False,False,third
+2000-10-29,Olimpia,1,1,Uberlândia-MG,False,False,third
+2000-11-01,Uberlândia-MG,2,1,Olimpia,False,False,third
 2000-11-01,Central,1,2,Juazeiro,False,False,third
 2000-11-05,Juazeiro,1,0,Olimpia,False,False,third
-2000-11-05,Central,0,1,Uberlândia,False,False,third
-2000-11-08,Uberlândia,0,1,Juazeiro,False,False,third
+2000-11-05,Central,0,1,Uberlândia-MG,False,False,third
+2000-11-08,Uberlândia-MG,0,1,Juazeiro,False,False,third
 2000-11-08,Olimpia,5,1,Central,False,False,third
 2000-10-22,Moto Club,2,2,Malutrom,False,False,third
 2000-11-04,Etti Jundiaí,4,0,Tuna Luso,False,False,third
@@ -1033,8 +1033,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2000-11-07,Moto Club,3,2,Tuna Luso,False,False,third
 2000-11-11,Malutrom,4,3,Moto Club,False,False,third
 2000-11-11,Tuna Luso,2,1,Etti Jundiaí,False,False,third
-2000-11-11,Uberlândia,1,1,Malutrom,False,False,third
-2000-11-11,Malutrom,3,2,Uberlândia,False,False,third
+2000-11-11,Uberlândia-MG,1,1,Malutrom,False,False,third
+2000-11-11,Malutrom,3,2,Uberlândia-MG,False,False,third
 2000-11-11,Paraná,1,1,Goiás,False,False,third
 2000-11-11,Goiás,0,3,Paraná,False,False,third
 2000-11-11,Internacional,0,0,Atlético-PR,False,False,third

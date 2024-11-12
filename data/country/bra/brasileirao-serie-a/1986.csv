@@ -293,34 +293,34 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1986-10-05,Fluminense-BA,2,2,Central,False,False,first
 1986-09-06,América-MG,2,2,Itumbiara,False,False,first
 1986-09-07,Mixto,2,1,Anápolis,False,False,first
-1986-09-16,Internacional-SP,2,0,Uberlândia,False,False,first
+1986-09-16,Internacional-SP,2,0,Uberlândia-MG,False,False,first
 1986-09-30,Santo André,1,1,CA Juventus,False,False,first
-1986-09-10,Mixto,0,0,Uberlândia,False,False,first
+1986-09-10,Mixto,0,0,Uberlândia-MG,False,False,first
 1986-09-10,América-MG,1,1,CA Juventus,False,False,first
 1986-09-11,Santo André,0,0,Itumbiara,False,False,first
-1986-09-11,Anápolis,2,0,Ubiratan,False,False,first
+1986-09-11,Anápolis,2,0,Ubiratan-MS,False,False,first
 1986-09-14,Internacional-SP,3,1,Santo André,False,False,first
-1986-09-14,Uberlândia,0,1,América-MG,False,False,first
-1986-09-14,Ubiratan,4,2,Mixto,False,False,first
+1986-09-14,Uberlândia-MG,0,1,América-MG,False,False,first
+1986-09-14,Ubiratan-MS,4,2,Mixto,False,False,first
 1986-09-14,CA Juventus,0,0,Itumbiara,False,False,first
 1986-09-17,Santo André,3,2,Mixto,False,False,first
 1986-09-17,CA Juventus,1,0,Internacional-SP,False,False,first
 1986-09-17,Anápolis,2,0,América-MG,False,False,first
-1986-09-17,Itumbiara,0,0,Ubiratan,False,False,first
-1986-09-21,Uberlândia,1,1,Anápolis,False,False,first
+1986-09-17,Itumbiara,0,0,Ubiratan-MS,False,False,first
+1986-09-21,Uberlândia-MG,1,1,Anápolis,False,False,first
 1986-09-21,América-MG,0,1,Santo André,False,False,first
-1986-09-21,CA Juventus,1,0,Ubiratan,False,False,first
+1986-09-21,CA Juventus,1,0,Ubiratan-MS,False,False,first
 1986-09-24,Internacional-SP,2,0,América-MG,False,False,first
-1986-09-25,Itumbiara,1,0,Uberlândia,False,False,first
+1986-09-25,Itumbiara,1,0,Uberlândia-MG,False,False,first
 1986-09-25,Anápolis,0,1,CA Juventus,False,False,first
-1986-09-25,Ubiratan,0,0,Santo André,False,False,first
-1986-09-28,Uberlândia,0,0,CA Juventus,False,False,first
+1986-09-25,Ubiratan-MS,0,0,Santo André,False,False,first
+1986-09-28,Uberlândia-MG,0,0,CA Juventus,False,False,first
 1986-09-28,Itumbiara,1,1,Anápolis,False,False,first
 1986-09-28,América-MG,6,1,Mixto,False,False,first
-1986-09-28,Ubiratan,1,1,Internacional-SP,False,False,first
+1986-09-28,Ubiratan-MS,1,1,Internacional-SP,False,False,first
 1986-10-01,Internacional-SP,4,0,Anápolis,False,False,first
-1986-10-02,Santo André,2,1,Uberlândia,False,False,first
-1986-10-02,Ubiratan,0,0,América-MG,False,False,first
+1986-10-02,Santo André,2,1,Uberlândia-MG,False,False,first
+1986-10-02,Ubiratan-MS,0,0,América-MG,False,False,first
 1986-10-02,Mixto,2,2,Itumbiara,False,False,first
 1986-10-05,Anápolis,1,0,Santo André,False,False,first
 1986-10-05,CA Juventus,3,0,Mixto,False,False,first

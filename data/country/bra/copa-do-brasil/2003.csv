@@ -98,8 +98,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2003-05-01,São Paulo,1,0,Figueirense,False,False,round16
 2003-04-09,Goiás,2,1,Botafogo,False,False,round16
 2003-05-01,Botafogo,2,3,Goiás,False,False,round16
-2003-04-23,Cruzeiro,2,0,Vila Nova,False,False,round16
-2003-04-30,Vila Nova,1,2,Cruzeiro,False,False,round16
+2003-04-23,Cruzeiro,2,0,Vila Nova-GO,False,False,round16
+2003-04-30,Vila Nova-GO,1,2,Cruzeiro,False,False,round16
 2003-04-23,Bahia,2,1,Vasco da Gama,False,False,round16
 2003-04-30,Vasco da Gama,1,0,Bahia,False,False,round16
 2003-05-07,Sport,4,0,Atlético-MG,False,False,quarter

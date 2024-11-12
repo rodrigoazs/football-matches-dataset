@@ -77,8 +77,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2006-03-15,XV de Novembro,1,0,Grêmio,False,False,second
 2006-03-23,Grêmio,1,0,XV de Novembro,False,False,second
 2006-03-22,CENE,3,5,Fluminense,False,False,second
-2006-03-22,Vila Nova,3,1,Paysandu,False,False,second
-2006-04-05,Paysandu,1,0,Vila Nova,False,False,second
+2006-03-22,Vila Nova-GO,3,1,Paysandu,False,False,second
+2006-04-05,Paysandu,1,0,Vila Nova-GO,False,False,second
 2006-03-22,CRB,0,2,Cruzeiro,False,False,second
 2006-03-15,Santa Cruz,2,2,Vitória,False,False,second
 2006-03-22,Vitória,3,2,Santa Cruz,False,False,second
@@ -94,8 +94,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2006-04-20,Vasco da Gama,1,0,Criciúma,False,False,round16
 2006-04-12,Volta Redonda,1,0,XV de Novembro,False,False,round16
 2006-04-19,XV de Novembro,2,1,Volta Redonda,False,False,round16
-2006-04-12,Vila Nova,2,2,Fluminense,False,False,round16
-2006-04-19,Fluminense,4,0,Vila Nova,False,False,round16
+2006-04-12,Vila Nova-GO,2,2,Fluminense,False,False,round16
+2006-04-19,Fluminense,4,0,Vila Nova-GO,False,False,round16
 2006-04-12,Vitória,2,1,Cruzeiro,False,False,round16
 2006-04-19,Cruzeiro,4,0,Vitória,False,False,round16
 2006-04-26,Flamengo,4,1,Atlético-MG,False,False,quarter

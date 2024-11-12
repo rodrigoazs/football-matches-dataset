@@ -63,8 +63,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2005-03-16,Coritiba,3,0,Náutico,False,False,second
 2005-03-09,Esportivo,1,2,Fluminense,False,False,second
 2005-03-17,Fluminense,1,0,Esportivo,False,False,second
-2005-03-09,Vila Nova,1,1,Grêmio,False,False,second
-2005-04-06,Grêmio,3,1,Vila Nova,False,False,second
+2005-03-09,Vila Nova-GO,1,1,Grêmio,False,False,second
+2005-04-06,Grêmio,3,1,Vila Nova-GO,False,False,second
 2005-03-16,Ituano,2,0,Fortaleza,False,False,second
 2005-04-06,Fortaleza,2,1,Ituano,False,False,second
 2005-03-16,Brasiliense,1,3,Atlético-MG,False,False,second

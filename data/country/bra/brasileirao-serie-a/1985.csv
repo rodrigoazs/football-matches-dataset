@@ -335,134 +335,134 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1985-01-27,Joinville,4,0,Corumbaense,False,False,first
 1985-01-27,Bangu,1,0,Brasília,False,False,first
 1985-01-27,Leônico,0,0,Pinheiros,False,False,first
-1985-01-27,Desportiva,2,1,Vila Nova,False,False,first
-1985-01-27,GE Brasil,1,1,Uberlândia,False,False,first
+1985-01-27,Desportiva,2,1,Vila Nova-GO,False,False,first
+1985-01-27,GE Brasil,1,1,Uberlândia-MG,False,False,first
 1985-01-30,Ponte Preta-SP,3,0,Leônico,False,False,first
 1985-01-30,Pinheiros,1,0,Villa Nova-MG,False,False,first
 1985-01-30,GE Brasil,1,0,Corumbaense,False,False,first
-1985-01-30,Joinville,2,0,Uberlândia,False,False,first
+1985-01-30,Joinville,2,0,Uberlândia-MG,False,False,first
 1985-01-30,Desportiva,0,1,Brasília,False,False,first
-1985-01-30,Bangu,2,0,Vila Nova,False,False,first
-1985-02-02,Vila Nova,1,2,Ponte Preta-SP,False,False,first
+1985-01-30,Bangu,2,0,Vila Nova-GO,False,False,first
+1985-02-02,Vila Nova-GO,1,2,Ponte Preta-SP,False,False,first
 1985-02-03,Corumbaense,0,1,Bangu,False,False,first
 1985-02-03,Villa Nova-MG,1,3,GE Brasil,False,False,first
 1985-02-03,Leônico,1,0,Joinville,False,False,first
 1985-02-03,Brasília,0,0,Pinheiros,False,False,first
-1985-02-03,Uberlândia,1,2,Desportiva,False,False,first
+1985-02-03,Uberlândia-MG,1,2,Desportiva,False,False,first
 1985-02-06,Brasília,1,1,Ponte Preta-SP,False,False,first
 1985-02-06,Villa Nova-MG,0,3,Joinville,False,False,first
-1985-02-06,Uberlândia,1,2,Bangu,False,False,first
-1985-02-06,Vila Nova,3,2,Pinheiros,False,False,first
+1985-02-06,Uberlândia-MG,1,2,Bangu,False,False,first
+1985-02-06,Vila Nova-GO,3,2,Pinheiros,False,False,first
 1985-02-06,Corumbaense,2,0,Desportiva,False,False,first
 1985-02-06,Leônico,2,1,GE Brasil,False,False,first
 1985-02-10,Ponte Preta-SP,2,1,Pinheiros,False,False,first
 1985-02-10,Joinville,1,2,GE Brasil,False,False,first
-1985-02-10,Villa Nova-MG,3,0,Vila Nova,False,False,first
+1985-02-10,Villa Nova-MG,3,0,Vila Nova-GO,False,False,first
 1985-02-10,Bangu,4,1,Desportiva,False,False,first
 1985-02-10,Leônico,0,0,Corumbaense,False,False,first
-1985-02-10,Brasília,1,1,Uberlândia,False,False,first
+1985-02-10,Brasília,1,1,Uberlândia-MG,False,False,first
 1985-02-13,GE Brasil,2,0,Ponte Preta-SP,False,False,first
 1985-02-13,Corumbaense,0,1,Brasília,False,False,first
 1985-02-13,Desportiva,0,1,Joinville,False,False,first
-1985-02-13,Vila Nova,0,1,Leônico,False,False,first
-1985-02-13,Uberlândia,3,0,Villa Nova-MG,False,False,first
+1985-02-13,Vila Nova-GO,0,1,Leônico,False,False,first
+1985-02-13,Uberlândia-MG,3,0,Villa Nova-MG,False,False,first
 1985-02-13,Pinheiros,1,1,Bangu,False,False,first
-1985-02-24,Brasília,0,1,Vila Nova,False,False,first
+1985-02-24,Brasília,0,1,Vila Nova-GO,False,False,first
 1985-02-24,Joinville,1,0,Bangu,False,False,first
 1985-02-24,Pinheiros,2,2,GE Brasil,False,False,first
 1985-02-24,Ponte Preta-SP,2,0,Desportiva,False,False,first
 1985-02-24,Villa Nova-MG,2,0,Leônico,False,False,first
-1985-02-24,Uberlândia,2,0,Corumbaense,False,False,first
+1985-02-24,Uberlândia-MG,2,0,Corumbaense,False,False,first
 1985-02-27,GE Brasil,0,1,Bangu,False,False,first
-1985-02-27,Leônico,3,1,Uberlândia,False,False,first
+1985-02-27,Leônico,3,1,Uberlândia-MG,False,False,first
 1985-02-27,Pinheiros,1,0,Desportiva,False,False,first
-1985-02-27,Vila Nova,1,1,Corumbaense,False,False,first
+1985-02-27,Vila Nova-GO,1,1,Corumbaense,False,False,first
 1985-02-27,Ponte Preta-SP,2,1,Joinville,False,False,first
 1985-02-27,Villa Nova-MG,0,2,Brasília,False,False,first
 1985-03-03,Desportiva,3,0,GE Brasil,False,False,first
 1985-03-03,Corumbaense,0,0,Villa Nova-MG,False,False,first
 1985-03-03,Leônico,5,3,Brasília,False,False,first
 1985-03-03,Joinville,1,0,Pinheiros,False,False,first
-1985-03-03,Uberlândia,1,1,Vila Nova,False,False,first
+1985-03-03,Uberlândia-MG,1,1,Vila Nova-GO,False,False,first
 1985-03-03,Bangu,0,0,Ponte Preta-SP,False,False,first
-1985-03-06,GE Brasil,2,2,Vila Nova,False,False,first
+1985-03-06,GE Brasil,2,2,Vila Nova-GO,False,False,first
 1985-03-06,Bangu,1,1,Villa Nova-MG,False,False,first
 1985-03-06,Ponte Preta-SP,2,0,Corumbaense,False,False,first
-1985-03-06,Pinheiros,2,0,Uberlândia,False,False,first
+1985-03-06,Pinheiros,2,0,Uberlândia-MG,False,False,first
 1985-03-06,Desportiva,3,1,Leônico,False,False,first
 1985-03-06,Joinville,1,0,Brasília,False,False,first
 1985-03-10,Corumbaense,1,3,Pinheiros,False,False,first
-1985-03-10,Uberlândia,0,0,Ponte Preta-SP,False,False,first
+1985-03-10,Uberlândia-MG,0,0,Ponte Preta-SP,False,False,first
 1985-03-10,Leônico,1,2,Bangu,False,False,first
-1985-03-10,Vila Nova,1,1,Joinville,False,False,first
+1985-03-10,Vila Nova-GO,1,1,Joinville,False,False,first
 1985-03-10,Villa Nova-MG,3,1,Desportiva,False,False,first
 1985-03-10,Brasília,3,2,GE Brasil,False,False,first
 1985-03-16,Pinheiros,1,0,Leônico,False,False,first
-1985-03-16,Vila Nova,1,0,Desportiva,False,False,first
-1985-03-16,Uberlândia,1,2,GE Brasil,False,False,first
+1985-03-16,Vila Nova-GO,1,0,Desportiva,False,False,first
+1985-03-16,Uberlândia-MG,1,2,GE Brasil,False,False,first
 1985-03-16,Villa Nova-MG,1,3,Ponte Preta-SP,False,False,first
 1985-03-16,Brasília,2,1,Bangu,False,False,first
 1985-03-16,Corumbaense,1,2,Joinville,False,False,first
 1985-03-14,Villa Nova-MG,0,0,Pinheiros,False,False,first
-1985-03-20,Uberlândia,0,1,Joinville,False,False,first
+1985-03-20,Uberlândia-MG,0,1,Joinville,False,False,first
 1985-03-20,Corumbaense,1,2,GE Brasil,False,False,first
 1985-03-20,Brasília,0,0,Desportiva,False,False,first
 1985-03-20,Leônico,1,2,Ponte Preta-SP,False,False,first
-1985-03-21,Vila Nova,3,2,Bangu,False,False,first
+1985-03-21,Vila Nova-GO,3,2,Bangu,False,False,first
 1985-03-23,Pinheiros,1,0,Brasília,False,False,first
-1985-03-24,Desportiva,2,1,Uberlândia,False,False,first
+1985-03-24,Desportiva,2,1,Uberlândia-MG,False,False,first
 1985-03-24,Joinville,1,0,Leônico,False,False,first
 1985-03-24,GE Brasil,0,0,Villa Nova-MG,False,False,first
 1985-03-24,Bangu,4,0,Corumbaense,False,False,first
-1985-03-24,Ponte Preta-SP,4,1,Vila Nova,False,False,first
-1985-03-27,Bangu,2,0,Uberlândia,False,False,first
+1985-03-24,Ponte Preta-SP,4,1,Vila Nova-GO,False,False,first
+1985-03-27,Bangu,2,0,Uberlândia-MG,False,False,first
 1985-03-27,Ponte Preta-SP,1,1,Brasília,False,False,first
 1985-03-27,Desportiva,0,1,Corumbaense,False,False,first
-1985-03-27,Pinheiros,1,1,Vila Nova,False,False,first
+1985-03-27,Pinheiros,1,1,Vila Nova-GO,False,False,first
 1985-03-27,Joinville,1,2,Villa Nova-MG,False,False,first
 1985-03-27,GE Brasil,4,1,Leônico,False,False,first
 1985-03-30,Pinheiros,0,1,Ponte Preta-SP,False,False,first
 1985-03-31,Desportiva,0,1,Bangu,False,False,first
-1985-03-31,Vila Nova,1,0,Villa Nova-MG,False,False,first
+1985-03-31,Vila Nova-GO,1,0,Villa Nova-MG,False,False,first
 1985-03-31,GE Brasil,1,1,Joinville,False,False,first
-1985-03-31,Uberlândia,1,2,Brasília,False,False,first
+1985-03-31,Uberlândia-MG,1,2,Brasília,False,False,first
 1985-03-31,Corumbaense,2,1,Leônico,False,False,first
 1985-04-03,Bangu,1,1,Pinheiros,False,False,first
 1985-04-03,Joinville,0,1,Desportiva,False,False,first
-1985-04-03,Villa Nova-MG,0,2,Uberlândia,False,False,first
-1985-04-03,Leônico,2,1,Vila Nova,False,False,first
+1985-04-03,Villa Nova-MG,0,2,Uberlândia-MG,False,False,first
+1985-04-03,Leônico,2,1,Vila Nova-GO,False,False,first
 1985-04-03,Brasília,1,1,Corumbaense,False,False,first
 1985-04-03,Ponte Preta-SP,2,2,GE Brasil,False,False,first
-1985-04-06,Vila Nova,3,1,Brasília,False,False,first
+1985-04-06,Vila Nova-GO,3,1,Brasília,False,False,first
 1985-04-07,Desportiva,1,0,Ponte Preta-SP,False,False,first
 1985-04-07,Bangu,3,1,Joinville,False,False,first
 1985-04-07,Leônico,1,0,Villa Nova-MG,False,False,first
-1985-04-07,Corumbaense,1,0,Uberlândia,False,False,first
+1985-04-07,Corumbaense,1,0,Uberlândia-MG,False,False,first
 1985-04-07,GE Brasil,1,0,Pinheiros,False,False,first
 1985-04-10,Desportiva,0,2,Pinheiros,False,False,first
 1985-04-10,Bangu,3,1,GE Brasil,False,False,first
 1985-04-10,Joinville,1,1,Ponte Preta-SP,False,False,first
 1985-04-10,Brasília,2,0,Villa Nova-MG,False,False,first
-1985-04-10,Uberlândia,4,0,Leônico,False,False,first
-1985-04-10,Corumbaense,1,3,Vila Nova,False,False,first
+1985-04-10,Uberlândia-MG,4,0,Leônico,False,False,first
+1985-04-10,Corumbaense,1,3,Vila Nova-GO,False,False,first
 1985-04-14,GE Brasil,5,0,Desportiva,False,False,first
 1985-04-14,Brasília,1,0,Leônico,False,False,first
 1985-04-14,Pinheiros,1,1,Joinville,False,False,first
 1985-04-14,Villa Nova-MG,4,3,Corumbaense,False,False,first
 1985-04-14,Ponte Preta-SP,2,2,Bangu,False,False,first
-1985-04-14,Vila Nova,0,3,Uberlândia,False,False,first
+1985-04-14,Vila Nova-GO,0,3,Uberlândia-MG,False,False,first
 1985-04-17,Brasília,0,0,Joinville,False,False,first
 1985-04-17,Leônico,1,1,Desportiva,False,False,first
 1985-04-17,Corumbaense,1,5,Ponte Preta-SP,False,False,first
-1985-04-17,Uberlândia,2,1,Pinheiros,False,False,first
-1985-04-17,Vila Nova,0,0,GE Brasil,False,False,first
+1985-04-17,Uberlândia-MG,2,1,Pinheiros,False,False,first
+1985-04-17,Vila Nova-GO,0,0,GE Brasil,False,False,first
 1985-04-17,Villa Nova-MG,0,2,Bangu,False,False,first
 1985-04-21,Desportiva,1,1,Villa Nova-MG,False,False,first
 1985-04-21,GE Brasil,2,0,Brasília,False,False,first
 1985-04-21,Pinheiros,0,0,Corumbaense,False,False,first
-1985-04-21,Ponte Preta-SP,1,1,Uberlândia,False,False,first
+1985-04-21,Ponte Preta-SP,1,1,Uberlândia-MG,False,False,first
 1985-04-21,Bangu,1,0,Leônico,False,False,first
-1985-04-21,Joinville,3,0,Vila Nova,False,False,first
+1985-04-21,Joinville,3,0,Vila Nova-GO,False,False,first
 1985-07-03,Ponte Preta-SP,1,1,Atlético-MG,False,False,second
 1985-07-03,CSA,0,0,Guarani,False,False,second
 1985-07-07,Guarani,1,1,Atlético-MG,False,False,second

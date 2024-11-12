@@ -28,7 +28,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-02-15,Itabaiana,2,4,Goiás,False,True,first
 2017-02-08,São Raimundo-RR,0,2,Boa Esporte,False,True,first
 2017-02-09,Santos-AP,0,2,Vasco da Gama,False,True,first
-2017-02-16,Fast Clube,1,1,Vila Nova,False,True,first
+2017-02-16,Fast Clube,1,1,Vila Nova-GO,False,True,first
 2017-02-08,Luziânia,0,2,Vitória,False,True,first
 2017-02-15,Anápolis,0,0,RB Bragantino,False,True,first
 2017-02-08,Vitória da Conquista,1,1,Coritiba,False,True,first
@@ -53,7 +53,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2017-03-01,Avaí,1,1,Luverdense,False,True,second
 2017-03-02,Ponte Preta,1,1,Cuiabá,False,True,second
 2017-03-01,Boa Esporte,0,0,Goiás,False,True,second
-2017-03-01,Vila Nova,1,2,Vasco da Gama,False,True,second
+2017-03-01,Vila Nova-GO,1,2,Vasco da Gama,False,True,second
 2017-02-22,Vitória,3,2,RB Bragantino,False,True,second
 2017-02-23,Coritiba,0,2,ASA,False,True,second
 2017-03-08,Paraná,2,0,Bahia,False,True,second

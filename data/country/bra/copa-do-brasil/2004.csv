@@ -79,8 +79,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2004-03-17,Londrina,0,2,Grêmio,False,False,second
 2004-03-17,Juventude,2,2,Fluminense,False,False,second
 2004-03-24,Fluminense,2,1,Juventude,False,False,second
-2004-03-24,Tupi,2,3,Flamengo,False,False,second
-2004-04-01,Flamengo,4,0,Tupi,False,False,second
+2004-03-24,Tupi-MG,2,3,Flamengo,False,False,second
+2004-04-01,Flamengo,4,0,Tupi-MG,False,False,second
 2004-03-17,CENE,1,0,Santa Cruz,False,False,second
 2004-03-24,Santa Cruz,3,0,CENE,False,False,second
 2004-04-14,Goiás,1,1,Palmeiras,False,False,round16

@@ -45,7 +45,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-02-21,Criciúma,1,1,Cianorte,False,True,second
 2018-02-15,Fluminense,5,0,Salgueiro,False,True,second
 2018-02-22,Juventude,0,2,Avaí,False,True,second
-2018-02-22,Uberlândia,0,2,Coritiba,False,True,second
+2018-02-22,Uberlândia-MG,0,2,Coritiba,False,True,second
 2018-02-21,Goiás,0,0,Boa Esporte,False,True,second
 2018-02-21,Ponte Preta,1,0,Internacional-SP,False,True,second
 2018-02-22,Sampaio Corrêa-MA,1,0,Paraná,False,True,second
@@ -75,8 +75,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2018-03-15,Vitória,3,0,RB Bragantino,False,False,third
 2018-02-28,Figueirense,0,1,Atlético-MG,False,False,third
 2018-03-14,Atlético-MG,1,2,Figueirense,False,False,third
-2018-02-28,Ferroviário,1,1,Vila Nova,False,False,third
-2018-03-15,Vila Nova,0,1,Ferroviário,False,False,third
+2018-02-28,Ferroviário,1,1,Vila Nova-GO,False,False,third
+2018-03-15,Vila Nova-GO,0,1,Ferroviário,False,False,third
 2018-02-28,Náutico,2,1,Cuiabá,False,False,third
 2018-03-14,Cuiabá,0,1,Náutico,False,False,third
 2018-04-11,Ponte Preta,3,0,Náutico,False,False,fourth

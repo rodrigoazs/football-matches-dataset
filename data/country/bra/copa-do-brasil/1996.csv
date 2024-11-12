@@ -1,8 +1,8 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-02-06,Ferrovia-CE,0,1,Goiás,False,False,first
 1996-02-13,Goiás,2,0,Ferrovia-CE,False,False,first
-1996-02-07,União Atlético Clube,2,1,Vila Nova,False,False,first
-1996-02-14,Vila Nova,1,0,União Atlético Clube,False,False,first
+1996-02-07,União Atlético Clube,2,1,Vila Nova-GO,False,False,first
+1996-02-14,Vila Nova-GO,1,0,União Atlético Clube,False,False,first
 1996-02-06,Cristal,0,1,Santa Cruz-PE,False,False,first
 1996-02-27,Santa Cruz-PE,3,1,Cristal,False,False,first
 1996-02-06,Maranhão,0,0,Vitória,False,False,first
@@ -30,8 +30,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1996-03-20,Cruzeiro,4,0,Juventus-AC,False,False,first
 1996-03-07,Remo,1,1,Santa Cruz-PE,False,False,first
 1996-03-20,Santa Cruz-PE,0,1,Remo,False,False,first
-1996-03-19,Vila Nova,0,1,Atletico-MG,False,False,first
-1996-03-26,Atletico-MG,4,1,Vila Nova,False,False,first
+1996-03-19,Vila Nova-GO,0,1,Atletico-MG,False,False,first
+1996-03-26,Atletico-MG,4,1,Vila Nova-GO,False,False,first
 1996-03-05,Cori-Sabba,1,0,Botafogo,False,False,first
 1996-03-29,Botafogo,3,0,Cori-Sabba,False,False,first
 1996-03-05,Atletico-PR,3,0,Santos,False,False,first

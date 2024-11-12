@@ -260,16 +260,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1984-04-25,Portuguesa-SP,3,2,Operário-MS,False,False,third
 1984-04-25,Santo André,1,1,Fluminense,False,False,third
 1984-04-08,Fortaleza,1,1,Coritiba,False,False,third
-1984-04-08,Uberlândia,0,0,Vasco da Gama,False,False,third
-1984-04-11,Uberlândia,1,0,Fortaleza,False,False,third
+1984-04-08,Uberlândia-MG,0,0,Vasco da Gama,False,False,third
+1984-04-11,Uberlândia-MG,1,0,Fortaleza,False,False,third
 1984-04-11,Vasco da Gama,1,0,Coritiba,False,False,third
-1984-04-15,Coritiba,1,0,Uberlândia,False,False,third
+1984-04-15,Coritiba,1,0,Uberlândia-MG,False,False,third
 1984-04-15,Vasco da Gama,2,0,Fortaleza,False,False,third
 1984-04-18,Coritiba,0,0,Vasco da Gama,False,False,third
-1984-04-18,Fortaleza,0,2,Uberlândia,False,False,third
+1984-04-18,Fortaleza,0,2,Uberlândia-MG,False,False,third
 1984-04-22,Fortaleza,1,5,Vasco da Gama,False,False,third
-1984-04-22,Uberlândia,1,1,Coritiba,False,False,third
-1984-04-25,Vasco da Gama,1,0,Uberlândia,False,False,third
+1984-04-22,Uberlândia-MG,1,1,Coritiba,False,False,third
+1984-04-25,Vasco da Gama,1,0,Uberlândia-MG,False,False,third
 1984-04-25,Coritiba,2,1,Fortaleza,False,False,third
 1984-04-08,Flamengo,3,0,América-RJ,False,False,third
 1984-04-09,Santos,4,2,Náutico,False,False,third

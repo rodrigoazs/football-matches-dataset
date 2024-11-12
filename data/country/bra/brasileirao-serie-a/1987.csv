@@ -366,29 +366,29 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1987-11-12,Desportiva,0,1,Americano,False,False,first
 1987-11-12,CA Juventus,4,0,Estrela do Norte,False,False,first
 1987-11-12,América-MG,1,0,Goytacaz,False,False,first
-1987-11-12,Tupi,4,0,Botafogo-SP,False,False,first
-1987-11-12,América-MG,2,1,Tupi,False,False,first
+1987-11-12,Tupi-MG,4,0,Botafogo-SP,False,False,first
+1987-11-12,América-MG,2,1,Tupi-MG,False,False,first
 1987-11-12,Goytacaz,2,1,Botafogo-SP,False,False,first
 1987-11-12,Botafogo-SP,2,0,América-MG,False,False,first
-1987-11-12,Goytacaz,0,1,Tupi,False,False,first
+1987-11-12,Goytacaz,0,1,Tupi-MG,False,False,first
 1987-11-12,Goytacaz,2,1,América-MG,False,False,first
-1987-11-12,Botafogo-SP,1,0,Tupi,False,False,first
+1987-11-12,Botafogo-SP,1,0,Tupi-MG,False,False,first
 1987-11-12,Botafogo-SP,2,1,Goytacaz,False,False,first
-1987-11-12,Tupi,1,0,América-MG,False,False,first
+1987-11-12,Tupi-MG,1,0,América-MG,False,False,first
 1987-11-12,América-MG,0,0,Botafogo-SP,False,False,first
-1987-11-12,Tupi,2,0,Goytacaz,False,False,first
+1987-11-12,Tupi-MG,2,0,Goytacaz,False,False,first
 1987-11-12,Itumbiara,0,1,Santo André,False,False,first
-1987-11-12,Uberaba,0,1,Uberlândia,False,False,first
-1987-11-12,Uberlândia,2,0,Itumbiara,False,False,first
-1987-11-12,Uberaba,1,0,Santo André,False,False,first
-1987-11-12,Itumbiara,0,1,Uberaba,False,False,first
-1987-11-12,Santo André,0,2,Uberlândia,False,False,first
+1987-11-12,Uberaba-MG,0,1,Uberlândia-MG,False,False,first
+1987-11-12,Uberlândia-MG,2,0,Itumbiara,False,False,first
+1987-11-12,Uberaba-MG,1,0,Santo André,False,False,first
+1987-11-12,Itumbiara,0,1,Uberaba-MG,False,False,first
+1987-11-12,Santo André,0,2,Uberlândia-MG,False,False,first
 1987-11-12,Santo André,0,0,Itumbiara,False,False,first
-1987-11-12,Uberlândia,0,0,Uberaba,False,False,first
-1987-11-12,Itumbiara,0,0,Uberlândia,False,False,first
-1987-11-12,Santo André,0,0,Uberaba,False,False,first
-1987-11-12,Uberaba,0,0,Itumbiara,False,False,first
-1987-11-12,Uberlândia,0,1,Santo André,False,False,first
+1987-11-12,Uberlândia-MG,0,0,Uberaba-MG,False,False,first
+1987-11-12,Itumbiara,0,0,Uberlândia-MG,False,False,first
+1987-11-12,Santo André,0,0,Uberaba-MG,False,False,first
+1987-11-12,Uberaba-MG,0,0,Itumbiara,False,False,first
+1987-11-12,Uberlândia-MG,0,1,Santo André,False,False,first
 1987-11-12,Anapolina,2,0,Corumbaense,False,False,first
 1987-11-12,Brasília,1,3,Ponte Preta-SP,False,False,first
 1987-11-12,Anapolina,0,0,Ponte Preta-SP,False,False,first
@@ -407,18 +407,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1987-11-21,Caxias,1,0,Santa Cruz-RS,False,False,first
 1987-11-18,Botafogo-SP,1,0,CA Juventus,False,False,first
 1987-11-21,CA Juventus,1,0,Botafogo-SP,False,False,first
-1987-11-18,Americano,1,0,Tupi,False,False,first
-1987-11-21,Tupi,0,1,Americano,False,False,first
-1987-11-18,Corumbaense,1,0,Uberlândia,False,False,first
-1987-11-21,Uberlândia,2,1,Corumbaense,False,False,first
-1987-11-18,Uberaba,2,0,Ponte Preta-SP,False,False,first
-1987-11-21,Ponte Preta-SP,3,0,Uberaba,False,False,first
-1987-11-25,Uberlândia,5,0,Ponte Preta-SP,False,False,first
-1987-11-28,Ponte Preta-SP,3,0,Uberlândia,False,False,first
+1987-11-18,Americano,1,0,Tupi-MG,False,False,first
+1987-11-21,Tupi-MG,0,1,Americano,False,False,first
+1987-11-18,Corumbaense,1,0,Uberlândia-MG,False,False,first
+1987-11-21,Uberlândia-MG,2,1,Corumbaense,False,False,first
+1987-11-18,Uberaba-MG,2,0,Ponte Preta-SP,False,False,first
+1987-11-21,Ponte Preta-SP,3,0,Uberaba-MG,False,False,first
+1987-11-25,Uberlândia-MG,5,0,Ponte Preta-SP,False,False,first
+1987-11-28,Ponte Preta-SP,3,0,Uberlândia-MG,False,False,first
 1987-11-25,Americano,3,1,Botafogo-SP,False,False,first
 1987-11-28,Botafogo-SP,1,0,Americano,False,False,first
 1987-11-25,Juventude,1,0,Caxias,False,False,first
 1987-11-29,Caxias,1,1,Juventude,False,False,first
 1987-12-05,Juventude,0,0,Americano,False,False,first
-1987-12-09,Americano,2,0,Uberlândia,False,False,first
-1987-12-24,Uberlândia,2,0,Juventude,False,False,first
+1987-12-09,Americano,2,0,Uberlândia-MG,False,False,first
+1987-12-24,Uberlândia-MG,2,0,Juventude,False,False,first

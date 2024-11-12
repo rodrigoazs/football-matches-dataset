@@ -47,19 +47,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1980-02-24,Palmeiras,1,1,Vitória,False,False,first
 1980-02-24,Ceará,2,1,Flamengo-PI,False,False,first
 1980-02-24,Desportiva,1,0,Guarani,False,False,first
-1980-02-24,América-RN,1,0,Vila Nova,False,False,first
+1980-02-24,América-RN,1,0,Vila Nova-GO,False,False,first
 1980-02-24,Fluminense,2,3,Atlético-MG,False,False,first
 1980-02-27,Ceará,1,1,América-RN,False,False,first
 1980-02-27,Guarani,1,2,Fluminense,False,False,first
 1980-02-27,Flamengo-PI,0,0,Vitória,False,False,first
-1980-02-27,Vila Nova,1,0,Desportiva,False,False,first
+1980-02-27,Vila Nova-GO,1,0,Desportiva,False,False,first
 1980-02-27,Atlético-MG,2,0,Palmeiras,False,False,first
 1980-03-02,Palmeiras,0,0,Guarani,False,False,first
 1980-03-02,Vitória,1,1,Fluminense,False,False,first
-1980-03-02,Vila Nova,0,0,Ceará,False,False,first
+1980-03-02,Vila Nova-GO,0,0,Ceará,False,False,first
 1980-03-02,América-RN,1,1,Desportiva,False,False,first
 1980-03-02,Atlético-MG,2,0,Flamengo-PI,False,False,first
-1980-03-05,Fluminense,4,0,Vila Nova,False,False,first
+1980-03-05,Fluminense,4,0,Vila Nova-GO,False,False,first
 1980-03-05,Desportiva,1,4,Atlético-MG,False,False,first
 1980-03-05,Guarani,3,0,Flamengo-PI,False,False,first
 1980-03-05,Vitória,0,5,Ceará,False,False,first
@@ -68,24 +68,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1980-03-09,Flamengo-PI,3,0,América-RN,False,False,first
 1980-03-09,Ceará,0,0,Desportiva,False,False,first
 1980-03-09,Fluminense,0,0,Palmeiras,False,False,first
-1980-03-15,Palmeiras,4,0,Vila Nova,False,False,first
+1980-03-15,Palmeiras,4,0,Vila Nova-GO,False,False,first
 1980-03-16,Guarani,1,0,Ceará,False,False,first
 1980-03-16,Flamengo-PI,2,2,Fluminense,False,False,first
 1980-03-16,América-RN,0,0,Atlético-MG,False,False,first
 1980-03-16,Vitória,4,2,Desportiva,False,False,first
 1980-03-19,Atlético-MG,5,1,Vitória,False,False,first
 1980-03-19,Desportiva,1,0,Palmeiras,False,False,first
-1980-03-19,Vila Nova,2,1,Flamengo-PI,False,False,first
+1980-03-19,Vila Nova-GO,2,1,Flamengo-PI,False,False,first
 1980-03-19,Fluminense,4,2,Ceará,False,False,first
 1980-03-20,Guarani,1,1,América-RN,False,False,first
 1980-03-22,Fluminense,3,1,Desportiva,False,False,first
 1980-03-23,Flamengo-PI,1,4,Palmeiras,False,False,first
 1980-03-23,Vitória,8,1,América-RN,False,False,first
 1980-03-23,Ceará,2,1,Atlético-MG,False,False,first
-1980-03-23,Vila Nova,1,1,Guarani,False,False,first
+1980-03-23,Vila Nova-GO,1,1,Guarani,False,False,first
 1980-03-30,Palmeiras,3,1,Ceará,False,False,first
 1980-03-30,América-RN,0,0,Fluminense,False,False,first
-1980-03-30,Atlético-MG,3,1,Vila Nova,False,False,first
+1980-03-30,Atlético-MG,3,1,Vila Nova-GO,False,False,first
 1980-03-30,Guarani,2,0,Vitória,False,False,first
 1980-03-30,Desportiva,3,1,Flamengo-PI,False,False,first
 1980-02-23,Internacional,1,2,Itabaiana,False,False,first

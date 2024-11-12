@@ -52,8 +52,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 2007-02-28,Ceará,2,0,Barras,False,False,first
 2007-02-14,Caxias,2,1,Coritiba,False,False,first
 2007-02-21,Coritiba,4,1,Caxias,False,False,first
-2007-02-14,Ulbra Ji-Paraná (RO),2,0,Santa Cruz-PE,False,False,first
-2007-02-21,Santa Cruz-PE,1,2,Ulbra Ji-Paraná (RO),False,False,first
+2007-02-14,Ulbra Ji-Paraná,2,0,Santa Cruz-PE,False,False,first
+2007-02-21,Santa Cruz-PE,1,2,Ulbra Ji-Paraná,False,False,first
 2007-03-21,Ipatinga,2,0,Palmeiras,False,False,second
 2007-04-05,Palmeiras,2,0,Ipatinga,False,False,second
 2007-03-14,Ananindeua,0,5,Sport,False,False,second

@@ -79,12 +79,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-05-14,Joinville,0,1,Colorado,False,False,first
 1978-03-26,Náutico,0,1,Santa Cruz,False,False,first
 1978-03-26,América-RN,2,0,Botafogo-PB,False,False,first
-1978-03-26,Uberlândia,1,3,Villa Nova-MG,False,False,first
-1978-03-26,Uberaba,2,0,América-MG,False,False,first
+1978-03-26,Uberlândia-MG,1,3,Villa Nova-MG,False,False,first
+1978-03-26,Uberaba-MG,2,0,América-MG,False,False,first
 1978-03-26,Cruzeiro,1,2,Sport,False,False,first
 1978-03-29,ABC,1,1,Santa Cruz,False,False,first
-1978-03-29,Uberaba,0,0,Sport,False,False,first
-1978-03-29,Uberlândia,1,1,América-MG,False,False,first
+1978-03-29,Uberaba-MG,0,0,Sport,False,False,first
+1978-03-29,Uberlândia-MG,1,1,América-MG,False,False,first
 1978-03-29,Campinense,1,1,América-RN,False,False,first
 1978-03-29,Atlético-MG,1,0,Villa Nova-MG,False,False,first
 1978-03-29,Náutico,3,1,Botafogo-PB,False,False,first
@@ -92,74 +92,74 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-04-02,Cruzeiro,4,1,América-MG,False,False,first
 1978-04-02,Botafogo-PB,0,0,ABC,False,False,first
 1978-04-02,Santa Cruz,3,0,Atlético-MG,False,False,first
-1978-04-02,Uberlândia,1,0,Uberaba,False,False,first
+1978-04-02,Uberlândia-MG,1,0,Uberaba-MG,False,False,first
 1978-04-02,Campinense,0,0,Sport,False,False,first
-1978-04-05,Uberaba,1,1,América-RN,False,False,first
+1978-04-05,Uberaba-MG,1,1,América-RN,False,False,first
 1978-04-05,Campinense,1,3,Náutico,False,False,first
 1978-04-06,Botafogo-PB,0,3,Atlético-MG,False,False,first
 1978-04-06,ABC,2,2,Sport,False,False,first
 1978-04-06,Santa Cruz,1,1,Villa Nova-MG,False,False,first
-1978-04-06,Cruzeiro,6,0,Uberlândia,False,False,first
+1978-04-06,Cruzeiro,6,0,Uberlândia-MG,False,False,first
 1978-04-08,América-MG,5,1,América-RN,False,False,first
-1978-04-08,Náutico,2,0,Uberaba,False,False,first
+1978-04-08,Náutico,2,0,Uberaba-MG,False,False,first
 1978-04-09,Santa Cruz,2,2,Cruzeiro,False,False,first
 1978-04-10,ABC,0,2,Villa Nova-MG,False,False,first
-1978-04-12,Uberlândia,0,1,Atlético-MG,False,False,first
+1978-04-12,Uberlândia-MG,0,1,Atlético-MG,False,False,first
 1978-04-12,América-RN,0,1,Náutico,False,False,first
 1978-04-12,América-MG,1,2,Santa Cruz,False,False,first
 1978-04-12,Campinense,0,3,Cruzeiro,False,False,first
 1978-04-12,Sport,0,1,Villa Nova-MG,False,False,first
-1978-04-13,ABC,1,1,Uberaba,False,False,first
+1978-04-13,ABC,1,1,Uberaba-MG,False,False,first
 1978-04-15,América-MG,2,2,Campinense,False,False,first
-1978-04-16,Uberaba,0,1,Santa Cruz,False,False,first
+1978-04-16,Uberaba-MG,0,1,Santa Cruz,False,False,first
 1978-04-16,Náutico,1,0,Sport,False,False,first
 1978-04-16,ABC,1,2,Cruzeiro,False,False,first
 1978-04-16,Botafogo-PB,1,1,Villa Nova-MG,False,False,first
 1978-04-19,Villa Nova-MG,0,1,Náutico,False,False,first
 1978-04-20,Botafogo-PB,1,3,Santa Cruz,False,False,first
 1978-04-20,Sport,2,0,América-MG,False,False,first
-1978-04-20,Uberlândia,2,0,Campinense,False,False,first
-1978-04-23,Uberlândia,1,1,Náutico,False,False,first
+1978-04-20,Uberlândia-MG,2,0,Campinense,False,False,first
+1978-04-23,Uberlândia-MG,1,1,Náutico,False,False,first
 1978-04-23,Botafogo-PB,1,0,América-MG,False,False,first
-1978-04-23,Uberaba,1,1,Campinense,False,False,first
+1978-04-23,Uberaba-MG,1,1,Campinense,False,False,first
 1978-04-23,Atlético-MG,0,2,Cruzeiro,False,False,first
 1978-04-23,América-RN,1,1,ABC,False,False,first
 1978-04-23,Santa Cruz,1,0,Sport,False,False,first
 1978-04-26,ABC,2,0,América-MG,False,False,first
-1978-04-26,Uberaba,1,3,Cruzeiro,False,False,first
+1978-04-26,Uberaba-MG,1,3,Cruzeiro,False,False,first
 1978-04-26,Atlético-MG,2,0,Náutico,False,False,first
 1978-04-26,Botafogo-PB,1,3,Sport,False,False,first
-1978-04-27,Santa Cruz,3,0,Uberlândia,False,False,first
+1978-04-27,Santa Cruz,3,0,Uberlândia-MG,False,False,first
 1978-04-27,Villa Nova-MG,2,3,Campinense,False,False,first
 1978-04-29,Náutico,4,0,América-MG,False,False,first
 1978-04-30,Sport,0,0,Atlético-MG,False,False,first
 1978-04-30,América-RN,0,0,Santa Cruz,False,False,first
 1978-04-30,Campinense,0,1,ABC,False,False,first
 1978-04-30,Cruzeiro,1,0,Villa Nova-MG,False,False,first
-1978-05-01,Botafogo-PB,6,3,Uberlândia,False,False,first
-1978-05-03,América-RN,4,2,Uberlândia,False,False,first
+1978-05-01,Botafogo-PB,6,3,Uberlândia-MG,False,False,first
+1978-05-03,América-RN,4,2,Uberlândia-MG,False,False,first
 1978-05-03,América-MG,0,1,Villa Nova-MG,False,False,first
 1978-05-03,Campinense,0,3,Atlético-MG,False,False,first
-1978-05-04,Uberaba,1,3,Botafogo-PB,False,False,first
+1978-05-04,Uberaba-MG,1,3,Botafogo-PB,False,False,first
 1978-05-04,Náutico,4,2,ABC,False,False,first
 1978-05-06,América-RN,0,0,Atlético-MG,False,False,first
-1978-05-06,Villa Nova-MG,1,0,Uberaba,False,False,first
+1978-05-06,Villa Nova-MG,1,0,Uberaba-MG,False,False,first
 1978-05-07,Cruzeiro,4,3,Botafogo-PB,False,False,first
-1978-05-07,Sport,2,0,Uberlândia,False,False,first
+1978-05-07,Sport,2,0,Uberlândia-MG,False,False,first
 1978-05-07,Santa Cruz,6,0,Campinense,False,False,first
 1978-05-09,Campinense,3,0,Botafogo-PB,False,False,first
 1978-05-09,Atlético-MG,2,0,América-MG,False,False,first
 1978-05-10,Náutico,2,1,Cruzeiro,False,False,first
 1978-05-10,Sport,2,0,América-RN,False,False,first
-1978-05-11,Atlético-MG,0,0,Uberaba,False,False,first
-1978-05-11,Uberlândia,0,1,ABC,False,False,first
+1978-05-11,Atlético-MG,0,0,Uberaba-MG,False,False,first
+1978-05-11,Uberlândia-MG,0,1,ABC,False,False,first
 1978-05-14,Atlético-MG,5,0,ABC,False,False,first
 1978-05-14,América-RN,1,1,Cruzeiro,False,False,first
 1978-03-25,Santos,3,0,Goiás,False,False,first
 1978-03-26,Rio Branco-ES,0,0,Mixto,False,False,first
 1978-03-26,Anapolina,0,0,Corinthians,False,False,first
 1978-03-26,Operário-MT,0,2,Brasília,False,False,first
-1978-03-26,Vila Nova,1,1,Dom Bosco,False,False,first
+1978-03-26,Vila Nova-GO,1,1,Dom Bosco,False,False,first
 1978-03-29,Anapolina,1,1,Dom Bosco,False,False,first
 1978-03-29,Santos,1,1,Mixto,False,False,first
 1978-03-29,Brasília,0,1,Corinthians,False,False,first
@@ -170,18 +170,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-04-02,Comercial-MT,2,2,Mixto,False,False,first
 1978-04-02,Goiás,0,0,Corinthians,False,False,first
 1978-04-05,Comercial-MT,1,0,Santos,False,False,first
-1978-04-06,Vila Nova,0,1,Operário-MT,False,False,first
+1978-04-06,Vila Nova-GO,0,1,Operário-MT,False,False,first
 1978-04-06,Dom Bosco,3,1,Brasília,False,False,first
 1978-04-06,Rio Branco-ES,1,0,Anapolina,False,False,first
 1978-04-08,Corinthians,0,0,Santos,False,False,first
 1978-04-09,Brasília,2,2,Comercial-MT,False,False,first
 1978-04-09,Dom Bosco,3,0,Rio Branco-ES,False,False,first
-1978-04-09,Vila Nova,1,0,Anapolina,False,False,first
+1978-04-09,Vila Nova-GO,1,0,Anapolina,False,False,first
 1978-04-09,Desportiva,1,0,Operário-MT,False,False,first
 1978-04-12,Goiás,1,0,Comercial-MT,False,False,first
 1978-04-12,Operário-MT,3,0,Rio Branco-ES,False,False,first
 1978-04-16,Desportiva,0,1,Corinthians,False,False,first
-1978-04-16,Comercial-MT,0,0,Vila Nova,False,False,first
+1978-04-16,Comercial-MT,0,0,Vila Nova-GO,False,False,first
 1978-04-16,Brasília,1,0,Rio Branco-ES,False,False,first
 1978-04-16,Anapolina,0,2,Goiás,False,False,first
 1978-04-16,Dom Bosco,1,1,Mixto,False,False,first
@@ -189,35 +189,35 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-04-20,Desportiva,2,0,Dom Bosco,False,False,first
 1978-04-20,Goiás,2,0,Rio Branco-ES,False,False,first
 1978-04-20,Santos,1,2,Operário-MT,False,False,first
-1978-04-20,Mixto,2,0,Vila Nova,False,False,first
+1978-04-20,Mixto,2,0,Vila Nova-GO,False,False,first
 1978-04-22,Brasília,1,2,Mixto,False,False,first
 1978-04-23,Corinthians,4,0,Dom Bosco,False,False,first
 1978-04-23,Operário-MT,1,1,Comercial-MT,False,False,first
 1978-04-23,Rio Branco-ES,2,2,Santos,False,False,first
-1978-04-23,Vila Nova,0,1,Goiás,False,False,first
+1978-04-23,Vila Nova-GO,0,1,Goiás,False,False,first
 1978-04-26,Operário-MT,2,1,Dom Bosco,False,False,first
 1978-04-26,Santos,1,1,Desportiva,False,False,first
 1978-04-26,Rio Branco-ES,0,1,Comercial-MT,False,False,first
 1978-04-26,Goiás,1,1,Mixto,False,False,first
-1978-04-27,Vila Nova,0,0,Brasília,False,False,first
+1978-04-27,Vila Nova-GO,0,0,Brasília,False,False,first
 1978-04-29,Corinthians,2,0,Comercial-MT,False,False,first
 1978-04-30,Operário-MT,1,0,Goiás,False,False,first
 1978-04-30,Desportiva,0,0,Brasília,False,False,first
 1978-04-30,Mixto,2,1,Anapolina,False,False,first
 1978-05-03,Comercial-MT,1,1,Anapolina,False,False,first
 1978-05-03,Dom Bosco,0,2,Goiás,False,False,first
-1978-05-03,Vila Nova,2,0,Desportiva,False,False,first
+1978-05-03,Vila Nova-GO,2,0,Desportiva,False,False,first
 1978-05-04,Corinthians,4,1,Rio Branco-ES,False,False,first
 1978-05-04,Mixto,0,0,Operário-MT,False,False,first
 1978-05-07,Anapolina,2,1,Desportiva,False,False,first
-1978-05-07,Vila Nova,1,3,Santos,False,False,first
+1978-05-07,Vila Nova-GO,1,3,Santos,False,False,first
 1978-05-07,Operário-MT,0,0,Corinthians,False,False,first
 1978-05-07,Dom Bosco,1,1,Comercial-MT,False,False,first
 1978-05-10,Mixto,0,0,Corinthians,False,False,first
-1978-05-10,Rio Branco-ES,1,4,Vila Nova,False,False,first
+1978-05-10,Rio Branco-ES,1,4,Vila Nova-GO,False,False,first
 1978-05-10,Brasília,2,1,Santos,False,False,first
 1978-05-11,Comercial-MT,0,0,Desportiva,False,False,first
-1978-05-14,Corinthians,3,0,Vila Nova,False,False,first
+1978-05-14,Corinthians,3,0,Vila Nova-GO,False,False,first
 1978-05-14,Anapolina,1,1,Santos,False,False,first
 1978-05-14,Goiás,4,0,Brasília,False,False,first
 1978-05-14,Mixto,3,0,Desportiva,False,False,first
@@ -585,41 +585,41 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1978-06-24,Londrina,3,1,Chapecoense,False,False,second
 1978-06-24,Grêmio Maringá,4,0,GE Brasil,False,False,second
 1978-05-21,ABC,1,1,América-RN,False,False,second
-1978-05-21,Uberaba,1,1,Uberlândia,False,False,second
+1978-05-21,Uberaba-MG,1,1,Uberlândia-MG,False,False,second
 1978-05-21,Botafogo-PB,4,0,Campinense,False,False,second
-1978-05-24,Uberlândia,2,0,América-RN,False,False,second
-1978-05-27,Uberaba,0,0,ABC,False,False,second
-1978-05-27,Uberlândia,0,1,América-MG,False,False,second
+1978-05-24,Uberlândia-MG,2,0,América-RN,False,False,second
+1978-05-27,Uberaba-MG,0,0,ABC,False,False,second
+1978-05-27,Uberlândia-MG,0,1,América-MG,False,False,second
 1978-05-28,América-RN,2,2,Campinense,False,False,second
 1978-05-30,América-MG,1,1,ABC,False,False,second
-1978-06-04,América-MG,1,1,Uberaba,False,False,second
+1978-06-04,América-MG,1,1,Uberaba-MG,False,False,second
 1978-06-04,ABC,2,0,Campinense,False,False,second
-1978-06-04,Uberlândia,0,0,Botafogo-PB,False,False,second
+1978-06-04,Uberlândia-MG,0,0,Botafogo-PB,False,False,second
 1978-06-08,América-MG,0,2,Botafogo-PB,False,False,second
 1978-06-13,Botafogo-PB,1,0,América-RN,False,False,second
-1978-06-13,Campinense,1,1,Uberaba,False,False,second
-1978-06-17,Botafogo-PB,1,0,Uberaba,False,False,second
-1978-06-17,ABC,1,0,Uberlândia,False,False,second
-1978-06-20,Campinense,0,0,Uberlândia,False,False,second
+1978-06-13,Campinense,1,1,Uberaba-MG,False,False,second
+1978-06-17,Botafogo-PB,1,0,Uberaba-MG,False,False,second
+1978-06-17,ABC,1,0,Uberlândia-MG,False,False,second
+1978-06-20,Campinense,0,0,Uberlândia-MG,False,False,second
 1978-06-20,América-RN,1,1,América-MG,False,False,second
 1978-06-22,ABC,2,2,Botafogo-PB,False,False,second
 1978-06-22,Campinense,1,0,América-MG,False,False,second
-1978-06-22,Uberaba,3,2,América-RN,False,False,second
-1978-05-21,Desportiva,2,0,Vila Nova,False,False,second
+1978-06-22,Uberaba-MG,3,2,América-RN,False,False,second
+1978-05-21,Desportiva,2,0,Vila Nova-GO,False,False,second
 1978-05-21,Dom Bosco,3,0,Anapolina,False,False,second
 1978-05-28,Desportiva,2,1,Rio Branco-ES,False,False,second
-1978-05-28,Vila Nova,1,0,Anapolina,False,False,second
+1978-05-28,Vila Nova-GO,1,0,Anapolina,False,False,second
 1978-05-28,Comercial-MT,3,1,Dom Bosco,False,False,second
 1978-06-04,Rio Branco-ES,0,0,Dom Bosco,False,False,second
-1978-06-08,Dom Bosco,2,0,Vila Nova,False,False,second
-1978-06-13,Vila Nova,2,2,Comercial-MT,False,False,second
+1978-06-08,Dom Bosco,2,0,Vila Nova-GO,False,False,second
+1978-06-13,Vila Nova-GO,2,2,Comercial-MT,False,False,second
 1978-06-17,Comercial-MT,1,2,Rio Branco-ES,False,False,second
 1978-06-17,Desportiva,0,2,Anapolina,False,False,second
 1978-06-20,Comercial-MT,1,0,Desportiva,False,False,second
 1978-06-20,Anapolina,2,2,Rio Branco-ES,False,False,second
 1978-06-23,Dom Bosco,2,1,Desportiva,False,False,second
 1978-06-24,Anapolina,0,0,Comercial-MT,False,False,second
-1978-06-24,Vila Nova,2,1,Rio Branco-ES,False,False,second
+1978-06-24,Vila Nova-GO,2,1,Rio Branco-ES,False,False,second
 1978-05-21,CSA,0,0,CRB,False,False,second
 1978-05-21,Confiança,2,1,Sergipe,False,False,second
 1978-05-21,Volta Redonda,1,0,Itabuna,False,False,second

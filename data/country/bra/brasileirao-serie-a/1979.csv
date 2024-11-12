@@ -179,50 +179,50 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1979-11-03,América-MG,2,1,Treze,False,False,first
 1979-11-03,Paysandu,1,2,Rio Negro,False,False,first
 1979-09-16,River,2,1,Moto Club,False,False,first
-1979-09-23,Maranhão,1,1,Uberlândia,False,False,first
+1979-09-23,Maranhão,1,1,Uberlândia-MG,False,False,first
 1979-09-23,Tiradentes,1,1,Sampaio Corrêa-MA,False,False,first
 1979-09-23,Piauí,0,0,Moto Club,False,False,first
-1979-09-26,Piauí,0,0,Uberlândia,False,False,first
-1979-09-27,Náutico,0,1,Uberaba,False,False,first
+1979-09-26,Piauí,0,0,Uberlândia-MG,False,False,first
+1979-09-27,Náutico,0,1,Uberaba-MG,False,False,first
 1979-09-27,Central,1,1,Tiradentes,False,False,first
 1979-09-27,Maranhão,3,0,Sampaio Corrêa-MA,False,False,first
-1979-09-30,River,1,2,Uberaba,False,False,first
-1979-09-30,Uberlândia,0,1,Náutico,False,False,first
+1979-09-30,River,1,2,Uberaba-MG,False,False,first
+1979-09-30,Uberlândia-MG,0,1,Náutico,False,False,first
 1979-10-03,Moto Club,1,0,Tiradentes,False,False,first
-1979-10-04,Uberaba,2,1,Central,False,False,first
+1979-10-04,Uberaba-MG,2,1,Central,False,False,first
 1979-10-04,Sampaio Corrêa-MA,4,2,Piauí,False,False,first
 1979-10-06,Maranhão,3,0,Moto Club,False,False,first
-1979-10-06,Uberaba,3,1,Uberlândia,False,False,first
+1979-10-06,Uberaba-MG,3,1,Uberlândia-MG,False,False,first
 1979-10-06,Sampaio Corrêa-MA,0,0,River,False,False,first
 1979-10-06,Piauí,2,2,Tiradentes,False,False,first
 1979-10-06,Náutico,1,1,Central,False,False,first
 1979-10-10,Náutico,2,0,Sampaio Corrêa-MA,False,False,first
 1979-10-10,Central,1,0,River,False,False,first
-1979-10-11,Uberlândia,2,0,Moto Club,False,False,first
+1979-10-11,Uberlândia-MG,2,0,Moto Club,False,False,first
 1979-10-14,Central,2,2,Maranhão,False,False,first
-1979-10-14,Uberaba,3,0,Piauí,False,False,first
-1979-10-14,Uberlândia,2,1,River,False,False,first
+1979-10-14,Uberaba-MG,3,0,Piauí,False,False,first
+1979-10-14,Uberlândia-MG,2,1,River,False,False,first
 1979-10-14,Tiradentes,0,1,Náutico,False,False,first
 1979-10-17,Central,2,0,Sampaio Corrêa-MA,False,False,first
 1979-10-17,Náutico,2,2,Piauí,False,False,first
-1979-10-17,Moto Club,2,0,Uberaba,False,False,first
+1979-10-17,Moto Club,2,0,Uberaba-MG,False,False,first
 1979-10-20,Tiradentes,3,1,River,False,False,first
 1979-10-20,Piauí,0,2,Central,False,False,first
-1979-10-21,Uberaba,0,1,Maranhão,False,False,first
+1979-10-21,Uberaba-MG,0,1,Maranhão,False,False,first
 1979-10-23,Náutico,2,3,Maranhão,False,False,first
 1979-10-23,Moto Club,2,1,Central,False,False,first
-1979-10-23,Uberlândia,4,0,Tiradentes,False,False,first
+1979-10-23,Uberlândia-MG,4,0,Tiradentes,False,False,first
 1979-10-27,Maranhão,1,0,River,False,False,first
-1979-10-28,Uberaba,2,0,Tiradentes,False,False,first
+1979-10-28,Uberaba-MG,2,0,Tiradentes,False,False,first
 1979-10-28,Sampaio Corrêa-MA,1,0,Moto Club,False,False,first
-1979-10-28,Central,2,0,Uberlândia,False,False,first
+1979-10-28,Central,2,0,Uberlândia-MG,False,False,first
 1979-10-30,River,3,1,Náutico,False,False,first
 1979-10-30,Maranhão,1,1,Piauí,False,False,first
-1979-11-01,Uberlândia,4,1,Sampaio Corrêa-MA,False,False,first
+1979-11-01,Uberlândia-MG,4,1,Sampaio Corrêa-MA,False,False,first
 1979-11-03,Náutico,1,0,Moto Club,False,False,first
 1979-11-03,Tiradentes,0,3,Maranhão,False,False,first
 1979-11-03,River,1,1,Piauí,False,False,first
-1979-11-03,Sampaio Corrêa-MA,0,2,Uberaba,False,False,first
+1979-11-03,Sampaio Corrêa-MA,0,2,Uberaba-MG,False,False,first
 1979-09-23,ASA,1,0,Itabaiana,False,False,first
 1979-09-25,Potiguar,0,0,CSA,False,False,first
 1979-09-25,ABC,4,2,CRB,False,False,first
@@ -314,32 +314,32 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1979-11-03,Figueirense,1,0,Atlético-PR,False,False,first
 1979-11-03,Internacional,2,2,Operário-MS,False,False,first
 1979-09-23,Remo,1,2,Dom Bosco,False,False,first
-1979-09-23,Vila Nova,0,1,Cruzeiro,False,False,first
+1979-09-23,Vila Nova-GO,0,1,Cruzeiro,False,False,first
 1979-09-23,Atlético-MG,0,0,Goiás,False,False,first
 1979-09-27,Dom Bosco,0,1,Goiás,False,False,first
 1979-09-30,Cruzeiro,1,1,Dom Bosco,False,False,first
-1979-09-30,Vila Nova,2,1,Remo,False,False,first
+1979-09-30,Vila Nova-GO,2,1,Remo,False,False,first
 1979-09-30,Nacional-AM,0,0,Atlético-MG,False,False,first
 1979-10-03,Nacional-AM,0,0,Vitória,False,False,first
 1979-10-03,Ceará,4,1,Remo,False,False,first
 1979-10-03,Bahia,2,1,Dom Bosco,False,False,first
 1979-10-04,Goiás,3,1,Cruzeiro,False,False,first
-1979-10-04,Atlético-MG,0,0,Vila Nova,False,False,first
+1979-10-04,Atlético-MG,0,0,Vila Nova-GO,False,False,first
 1979-10-06,Atlético-MG,1,1,Cruzeiro,False,False,first
 1979-10-06,Bahia,1,2,Vitória,False,False,first
 1979-10-06,Remo,3,0,Nacional-AM,False,False,first
-1979-10-06,Vila Nova,2,1,Goiás,False,False,first
+1979-10-06,Vila Nova-GO,2,1,Goiás,False,False,first
 1979-10-06,Dom Bosco,2,5,Ceará,False,False,first
-1979-10-10,Vitória,0,0,Vila Nova,False,False,first
+1979-10-10,Vitória,0,0,Vila Nova-GO,False,False,first
 1979-10-10,Cruzeiro,3,0,Remo,False,False,first
 1979-10-10,Ceará,3,1,Bahia,False,False,first
 1979-10-11,Goiás,2,0,Nacional-AM,False,False,first
 1979-10-14,Nacional-AM,1,0,Bahia,False,False,first
 1979-10-14,Atlético-MG,3,1,Ceará,False,False,first
 1979-10-14,Vitória,2,4,Cruzeiro,False,False,first
-1979-10-14,Vila Nova,1,1,Dom Bosco,False,False,first
+1979-10-14,Vila Nova-GO,1,1,Dom Bosco,False,False,first
 1979-10-17,Bahia,1,0,Goiás,False,False,first
-1979-10-17,Ceará,2,4,Vila Nova,False,False,first
+1979-10-17,Ceará,2,4,Vila Nova-GO,False,False,first
 1979-10-17,Remo,2,2,Atlético-MG,False,False,first
 1979-10-17,Cruzeiro,4,1,Nacional-AM,False,False,first
 1979-10-20,Dom Bosco,2,1,Nacional-AM,False,False,first
@@ -350,11 +350,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1979-10-25,Cruzeiro,5,0,Bahia,False,False,first
 1979-10-27,Nacional-AM,1,1,Ceará,False,False,first
 1979-10-28,Atlético-MG,1,1,Vitória,False,False,first
-1979-10-28,Vila Nova,0,0,Bahia,False,False,first
+1979-10-28,Vila Nova-GO,0,0,Bahia,False,False,first
 1979-10-30,Remo,1,0,Goiás,False,False,first
 1979-11-01,Vitória,0,2,Dom Bosco,False,False,first
 1979-11-03,Bahia,1,0,Remo,False,False,first
-1979-11-03,Nacional-AM,2,4,Vila Nova,False,False,first
+1979-11-03,Nacional-AM,2,4,Vila Nova-GO,False,False,first
 1979-11-03,Dom Bosco,1,1,Atlético-MG,False,False,first
 1979-11-03,Ceará,1,1,Cruzeiro,False,False,first
 1979-11-03,Goiás,1,0,Vitória,False,False,first
@@ -496,61 +496,61 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1979-11-28,Goiás,1,0,Ceará,False,False,second
 1979-11-28,Botafogo-PB,1,1,Operário-MT,False,False,second
 1979-11-28,ASA,0,1,Vasco da Gama,False,False,second
-1979-11-08,Vila Nova,2,0,Vitória,False,False,second
+1979-11-08,Vila Nova-GO,2,0,Vitória,False,False,second
 1979-11-08,Maranhão,1,0,XV de Novembro de Jaú,False,False,second
 1979-11-08,Campo Grande,1,1,Fluminense,False,False,second
 1979-11-11,XV de Novembro de Jaú,2,2,Fluminense,False,False,second
-1979-11-11,Itabaiana,1,1,Vila Nova,False,False,second
+1979-11-11,Itabaiana,1,1,Vila Nova-GO,False,False,second
 1979-11-11,Campo Grande,5,0,Maranhão,False,False,second
-1979-11-11,Vitória,3,0,Uberlândia,False,False,second
-1979-11-15,Vila Nova,2,2,Fluminense,False,False,second
-1979-11-15,Uberlândia,2,1,Campo Grande,False,False,second
+1979-11-11,Vitória,3,0,Uberlândia-MG,False,False,second
+1979-11-15,Vila Nova-GO,2,2,Fluminense,False,False,second
+1979-11-15,Uberlândia-MG,2,1,Campo Grande,False,False,second
 1979-11-15,Vitória,3,1,XV de Novembro de Jaú,False,False,second
 1979-11-15,Maranhão,1,0,Itabaiana,False,False,second
-1979-11-17,Vila Nova,0,0,XV de Novembro de Jaú,False,False,second
+1979-11-17,Vila Nova-GO,0,0,XV de Novembro de Jaú,False,False,second
 1979-11-17,Fluminense,2,1,Vitória,False,False,second
-1979-11-18,Maranhão,0,1,Uberlândia,False,False,second
+1979-11-18,Maranhão,0,1,Uberlândia-MG,False,False,second
 1979-11-18,Campo Grande,2,1,Itabaiana,False,False,second
-1979-11-21,Campo Grande,0,0,Vila Nova,False,False,second
+1979-11-21,Campo Grande,0,0,Vila Nova-GO,False,False,second
 1979-11-21,Fluminense,5,0,Itabaiana,False,False,second
 1979-11-21,Vitória,2,1,Maranhão,False,False,second
-1979-11-21,XV de Novembro de Jaú,1,2,Uberlândia,False,False,second
-1979-11-23,Uberlândia,3,0,Itabaiana,False,False,second
+1979-11-21,XV de Novembro de Jaú,1,2,Uberlândia-MG,False,False,second
+1979-11-23,Uberlândia-MG,3,0,Itabaiana,False,False,second
 1979-11-25,Itabaiana,1,2,Vitória,False,False,second
-1979-11-25,Uberlândia,0,0,Fluminense,False,False,second
-1979-11-25,Maranhão,0,1,Vila Nova,False,False,second
+1979-11-25,Uberlândia-MG,0,0,Fluminense,False,False,second
+1979-11-25,Maranhão,0,1,Vila Nova-GO,False,False,second
 1979-11-25,Campo Grande,1,2,XV de Novembro de Jaú,False,False,second
 1979-11-28,XV de Novembro de Jaú,2,1,Itabaiana,False,False,second
 1979-11-28,Vitória,1,0,Campo Grande,False,False,second
 1979-11-29,Fluminense,6,0,Maranhão,False,False,second
-1979-11-29,Vila Nova,0,0,Uberlândia,False,False,second
+1979-11-29,Vila Nova-GO,0,0,Uberlândia-MG,False,False,second
 1979-11-07,CSA,1,0,Villa Nova-MG,False,False,second
 1979-11-07,Cruzeiro,4,0,Dom Bosco,False,False,second
-1979-11-07,Comercial-SP,1,0,Uberaba,False,False,second
+1979-11-07,Comercial-SP,1,0,Uberaba-MG,False,False,second
 1979-11-08,Leônico,2,2,Americano,False,False,second
 1979-11-10,Dom Bosco,2,1,Leônico,False,False,second
 1979-11-10,Villa Nova-MG,0,1,Comercial-SP,False,False,second
-1979-11-11,Uberaba,1,0,CSA,False,False,second
+1979-11-11,Uberaba-MG,1,0,CSA,False,False,second
 1979-11-11,Americano,2,5,Cruzeiro,False,False,second
-1979-11-15,Leônico,1,1,Uberaba,False,False,second
+1979-11-15,Leônico,1,1,Uberaba-MG,False,False,second
 1979-11-15,Cruzeiro,2,1,Comercial-SP,False,False,second
 1979-11-15,Dom Bosco,0,1,Villa Nova-MG,False,False,second
 1979-11-15,CSA,0,0,Americano,False,False,second
 1979-11-18,CSA,1,0,Leônico,False,False,second
 1979-11-18,Comercial-SP,2,3,Dom Bosco,False,False,second
 1979-11-18,Cruzeiro,4,1,Villa Nova-MG,False,False,second
-1979-11-18,Americano,1,0,Uberaba,False,False,second
+1979-11-18,Americano,1,0,Uberaba-MG,False,False,second
 1979-11-21,Comercial-SP,1,0,Americano,False,False,second
 1979-11-21,Dom Bosco,3,1,CSA,False,False,second
-1979-11-21,Uberaba,2,2,Cruzeiro,False,False,second
+1979-11-21,Uberaba-MG,2,2,Cruzeiro,False,False,second
 1979-11-22,Villa Nova-MG,1,4,Leônico,False,False,second
 1979-11-24,Americano,1,0,Dom Bosco,False,False,second
-1979-11-25,Uberaba,2,0,Villa Nova-MG,False,False,second
+1979-11-25,Uberaba-MG,2,0,Villa Nova-MG,False,False,second
 1979-11-25,CSA,2,1,Cruzeiro,False,False,second
 1979-11-25,Leônico,1,1,Comercial-SP,False,False,second
 1979-11-28,Villa Nova-MG,3,2,Americano,False,False,second
 1979-11-28,Comercial-SP,1,0,CSA,False,False,second
-1979-11-28,Dom Bosco,0,1,Uberaba,False,False,second
+1979-11-28,Dom Bosco,0,1,Uberaba-MG,False,False,second
 1979-11-29,Cruzeiro,1,0,Leônico,False,False,second
 1979-12-02,XV de Novembro,0,2,Guarani,False,False,third
 1979-12-04,Coritiba,4,0,Vitória,False,False,third
@@ -569,11 +569,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage
 1979-12-04,Cruzeiro,2,3,Internacional,False,False,third
 1979-12-08,Goiás,1,1,Cruzeiro,False,False,third
 1979-12-02,Atlético-PR,1,1,Vasco da Gama,False,False,third
-1979-12-04,Operário-MS,3,0,Uberlândia,False,False,third
-1979-12-06,Vasco da Gama,5,0,Uberlândia,False,False,third
+1979-12-04,Operário-MS,3,0,Uberlândia-MG,False,False,third
+1979-12-06,Vasco da Gama,5,0,Uberlândia-MG,False,False,third
 1979-12-06,Operário-MS,1,0,Atlético-PR,False,False,third
 1979-12-08,Vasco da Gama,4,0,Operário-MS,False,False,third
-1979-12-08,Uberlândia,3,2,Atlético-PR,False,False,third
+1979-12-08,Uberlândia-MG,3,2,Atlético-PR,False,False,third
 1979-12-12,Coritiba,1,1,Vasco da Gama,False,False,semi
 1979-12-16,Vasco da Gama,2,1,Coritiba,False,False,semi
 1979-12-13,Palmeiras,2,3,Internacional,False,False,semi
