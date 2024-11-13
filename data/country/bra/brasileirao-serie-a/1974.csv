@@ -1,448 +1,448 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1974-03-09,Vasco da Gama,2,0,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-03-09,Bahia,2,1,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-03-10,Fluminense,1,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-03-10,Grêmio,1,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-03-10,Desportiva,1,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-03-10,Atlético-PR,1,0,Internacional,False,False,first,Brasileirão Série A,1974
-1974-03-10,Vitória,1,2,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-03-10,Remo,2,2,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-03-10,Sampaio Corrêa-MA,1,2,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-03-10,América-RN,1,1,Avaí,False,False,first,Brasileirão Série A,1974
-1974-03-13,Fluminense,2,1,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-03-13,Grêmio,2,0,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-03-13,Desportiva,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-03-13,Avaí,1,2,Internacional,False,False,first,Brasileirão Série A,1974
-1974-03-13,Vitória,0,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-03-13,Paysandu,3,1,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-03-13,Tiradentes,0,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-03-13,Sampaio Corrêa-MA,2,2,Bahia,False,False,first,Brasileirão Série A,1974
-1974-03-13,América-RN,0,2,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-03-14,Remo,2,3,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-03-16,Botafogo,0,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-03-16,Vitória,2,2,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-03-16,Coritiba,0,2,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-03-17,Flamengo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-03-17,Internacional,5,1,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-03-17,Bahia,1,1,Remo,False,False,first,Brasileirão Série A,1974
-1974-03-17,Tiradentes,0,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-03-17,Sampaio Corrêa-MA,1,0,América-GB,False,False,first,Brasileirão Série A,1974
-1974-03-17,Desportiva,1,0,Avaí,False,False,first,Brasileirão Série A,1974
-1974-03-17,América-RN,2,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-03-20,Botafogo,3,1,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-03-20,Coritiba,0,1,América-RN,False,False,first,Brasileirão Série A,1974
-1974-03-20,Avaí,0,1,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-03-20,Bahia,1,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-03-20,Remo,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-03-20,Sampaio Corrêa-MA,3,1,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-03-20,Itabaiana,1,2,Internacional,False,False,first,Brasileirão Série A,1974
-1974-03-20,América-GB,1,2,Vitória,False,False,first,Brasileirão Série A,1974
-1974-03-23,Flamengo,4,0,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-03-23,Atlético-PR,1,0,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-03-23,Fluminense,2,3,Olaria,False,False,first,Brasileirão Série A,1974
-1974-03-23,Grêmio,1,2,Internacional,False,False,first,Brasileirão Série A,1974
-1974-03-23,Coritiba,3,2,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-03-23,Bahia,1,1,Vitória,False,False,first,Brasileirão Série A,1974
-1974-03-23,Paysandu,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-03-23,Sampaio Corrêa-MA,1,0,Avaí,False,False,first,Brasileirão Série A,1974
-1974-03-23,América-RN,1,3,América-GB,False,False,first,Brasileirão Série A,1974
-1974-03-23,Itabaiana,1,0,Remo,False,False,first,Brasileirão Série A,1974
-1974-03-27,América-GB,2,0,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-03-27,Tiradentes,3,0,América-RN,False,False,first,Brasileirão Série A,1974
-1974-03-30,Bahia,0,2,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-03-30,Vasco da Gama,0,0,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-03-30,Internacional,2,0,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-03-30,Atlético-PR,3,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-03-30,Avaí,3,0,Remo,False,False,first,Brasileirão Série A,1974
-1974-03-30,Paysandu,1,1,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-03-30,Sampaio Corrêa-MA,0,2,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-03-30,Itabaiana,1,3,América-GB,False,False,first,Brasileirão Série A,1974
-1974-03-30,Desportiva,1,1,Vitória,False,False,first,Brasileirão Série A,1974
-1974-04-03,Vasco da Gama,0,0,Bahia,False,False,first,Brasileirão Série A,1974
-1974-04-06,Flamengo,2,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-04-06,Grêmio,1,0,Remo,False,False,first,Brasileirão Série A,1974
-1974-04-06,Coritiba,3,2,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-04-06,Avaí,2,2,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-04-06,Vitória,1,1,América-RN,False,False,first,Brasileirão Série A,1974
-1974-04-06,Paysandu,1,1,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-04-06,Sampaio Corrêa-MA,1,1,Internacional,False,False,first,Brasileirão Série A,1974
-1974-04-06,Desportiva,2,3,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-04-10,Olaria,1,2,América-RN,False,False,first,Brasileirão Série A,1974
-1974-04-13,Fluminense,0,1,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-04-13,Internacional,1,1,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-04-13,Coritiba,0,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-04-13,Vitória,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-04-13,Remo,2,2,Olaria,False,False,first,Brasileirão Série A,1974
-1974-04-13,Itabaiana,2,1,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-04-13,Desportiva,0,0,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-04-13,Avaí,1,0,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-04-14,Tiradentes,3,0,Bahia,False,False,first,Brasileirão Série A,1974
-1974-04-16,Botafogo,5,1,Avaí,False,False,first,Brasileirão Série A,1974
-1974-04-20,Internacional,3,0,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-04-20,Paysandu,2,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-04-20,Tiradentes,0,0,Remo,False,False,first,Brasileirão Série A,1974
-1974-04-20,Sampaio Corrêa-MA,0,3,Vitória,False,False,first,Brasileirão Série A,1974
-1974-04-20,América-RN,0,2,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-04-21,Vasco da Gama,1,2,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-04-21,Atlético-PR,1,2,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-04-21,Avaí,0,2,América-GB,False,False,first,Brasileirão Série A,1974
-1974-04-21,Bahia,1,1,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-04-24,Flamengo,4,0,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-04-24,Paysandu,1,2,Vitória,False,False,first,Brasileirão Série A,1974
-1974-04-27,Botafogo,1,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-04-27,Grêmio,2,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-04-27,Coritiba,1,1,Olaria,False,False,first,Brasileirão Série A,1974
-1974-04-27,Avaí,0,1,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-04-27,Bahia,0,0,Internacional,False,False,first,Brasileirão Série A,1974
-1974-04-27,Remo,1,1,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-04-27,América-RN,2,3,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-04-27,Itabaiana,1,0,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-04-27,Desportiva,1,0,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-05-02,Fluminense,2,0,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-05-04,Flamengo,0,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-05-04,Grêmio,2,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-05-04,Atlético-PR,1,0,Bahia,False,False,first,Brasileirão Série A,1974
-1974-05-04,Vitória,3,0,Avaí,False,False,first,Brasileirão Série A,1974
-1974-05-04,Remo,1,0,Internacional,False,False,first,Brasileirão Série A,1974
-1974-05-04,Tiradentes,2,1,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-05-04,Sampaio Corrêa-MA,0,0,América-RN,False,False,first,Brasileirão Série A,1974
-1974-05-04,Itabaiana,0,3,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-05-04,Desportiva,0,1,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-05-08,Vasco da Gama,1,1,Olaria,False,False,first,Brasileirão Série A,1974
-1974-05-08,Coritiba,3,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-05-08,Desportiva,2,1,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-05-08,Tiradentes,0,0,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-05-11,Flamengo,1,0,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-05-11,Internacional,1,1,Vitória,False,False,first,Brasileirão Série A,1974
-1974-05-11,Atlético-PR,2,0,Remo,False,False,first,Brasileirão Série A,1974
-1974-05-11,Avaí,0,0,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-05-11,Bahia,1,0,América-GB,False,False,first,Brasileirão Série A,1974
-1974-05-11,Paysandu,1,0,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-05-11,Sampaio Corrêa-MA,1,1,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-05-11,América-RN,1,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-05-15,Botafogo,2,3,Internacional,False,False,first,Brasileirão Série A,1974
-1974-05-15,Atlético-PR,4,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-05-15,Vitória,0,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-05-15,Paysandu,0,0,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-05-15,Tiradentes,0,1,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-05-15,América-RN,0,1,Bahia,False,False,first,Brasileirão Série A,1974
-1974-05-15,Itabaiana,0,1,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-05-16,Remo,2,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-05-18,América-GB,3,0,Internacional,False,False,first,Brasileirão Série A,1974
-1974-05-18,Flamengo,0,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-05-18,Grêmio,4,0,Tiradentes,False,False,first,Brasileirão Série A,1974
-1974-05-18,Coritiba,0,1,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-05-18,Avaí,0,2,Olaria,False,False,first,Brasileirão Série A,1974
-1974-05-18,Vitória,3,1,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-05-18,Remo,0,0,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-05-18,Sampaio Corrêa-MA,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-05-18,América-RN,0,0,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-05-18,Itabaiana,0,1,Bahia,False,False,first,Brasileirão Série A,1974
-1974-05-22,Olaria,2,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-05-22,Vitória,2,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-05-22,América-RN,0,1,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-05-25,Internacional,2,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-05-25,Coritiba,2,1,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-05-25,Avaí,1,2,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-05-25,Bahia,1,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-05-25,Tiradentes,2,2,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-05-25,América-RN,1,0,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-05-25,Itabaiana,2,1,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-05-25,Desportiva,0,5,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-05-25,Remo,3,1,Vitória,False,False,first,Brasileirão Série A,1974
-1974-05-26,Vasco da Gama,0,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-05-29,Vasco da Gama,1,0,Avaí,False,False,first,Brasileirão Série A,1974
-1974-05-29,América-RN,0,0,Paysandu,False,False,first,Brasileirão Série A,1974
-1974-05-30,Olaria,4,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-06-01,Flamengo,3,0,Remo,False,False,first,Brasileirão Série A,1974
-1974-06-02,Botafogo,1,0,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-06-02,Grêmio,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-06-02,Coritiba,1,1,Internacional,False,False,first,Brasileirão Série A,1974
-1974-06-02,Bahia,1,1,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-06-02,Paysandu,0,1,América-GB,False,False,first,Brasileirão Série A,1974
-1974-06-02,Tiradentes,2,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-06-02,Sampaio Corrêa-MA,0,1,Atlético-PR,False,False,first,Brasileirão Série A,1974
-1974-06-02,Itabaiana,2,0,Avaí,False,False,first,Brasileirão Série A,1974
-1974-06-05,Botafogo,0,0,Bahia,False,False,first,Brasileirão Série A,1974
-1974-06-05,Internacional,3,0,América-RN,False,False,first,Brasileirão Série A,1974
-1974-06-05,Avaí,1,2,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-06-05,Vitória,1,0,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-06-05,Remo,2,4,América-GB,False,False,first,Brasileirão Série A,1974
-1974-06-05,Itabaiana,0,1,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-06-05,Desportiva,1,1,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-06-08,América-GB,2,0,Olaria,False,False,first,Brasileirão Série A,1974
-1974-06-08,Coritiba,1,1,Vitória,False,False,first,Brasileirão Série A,1974
-1974-06-08,Paysandu,2,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-06-09,Botafogo,0,2,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-06-09,Atlético-PR,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,1974
-1974-06-09,Bahia,0,1,Grêmio,False,False,first,Brasileirão Série A,1974
-1974-06-09,Remo,3,1,Desportiva,False,False,first,Brasileirão Série A,1974
-1974-06-09,Tiradentes,2,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-06-19,Internacional,1,1,Fluminense,False,False,first,Brasileirão Série A,1974
-1974-06-12,Fluminense,1,1,Coritiba,False,False,first,Brasileirão Série A,1974
-1974-06-12,Paysandu,1,0,Sampaio Corrêa-MA,False,False,first,Brasileirão Série A,1974
-1974-06-13,Vasco da Gama,3,1,Internacional,False,False,first,Brasileirão Série A,1974
-1974-06-13,Grêmio,2,2,Botafogo,False,False,first,Brasileirão Série A,1974
-1974-06-13,Atlético-PR,1,2,América-GB,False,False,first,Brasileirão Série A,1974
-1974-06-13,Avaí,0,2,Bahia,False,False,first,Brasileirão Série A,1974
-1974-06-13,Vitória,1,0,Flamengo,False,False,first,Brasileirão Série A,1974
-1974-06-13,Remo,2,0,América-RN,False,False,first,Brasileirão Série A,1974
-1974-06-13,Tiradentes,1,0,Itabaiana,False,False,first,Brasileirão Série A,1974
-1974-06-13,Desportiva,0,1,Olaria,False,False,first,Brasileirão Série A,1974
-1974-03-09,Palmeiras,4,3,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-03-09,Ceará,1,1,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-03-10,Cruzeiro,0,0,Guarani,False,False,first,Brasileirão Série A,1974
-1974-03-10,Náutico,2,0,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-03-10,Santos,1,2,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-03-10,Fortaleza,2,0,América-MG,False,False,first,Brasileirão Série A,1974
-1974-03-10,Nacional-AM,0,1,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-03-10,CEUB,1,2,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-03-10,Goiás,1,0,Sport,False,False,first,Brasileirão Série A,1974
-1974-03-10,Operário-CG,3,2,CSA,False,False,first,Brasileirão Série A,1974
-1974-03-13,Goiás,0,0,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-03-13,Operário-CG,1,0,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-03-13,Cruzeiro,1,0,Náutico,False,False,first,Brasileirão Série A,1974
-1974-03-13,Sport,1,0,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-03-13,Rio Negro,2,4,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-03-13,CEUB,1,0,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-03-14,Nacional-AM,1,1,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-03-16,São Paulo,1,1,Guarani,False,False,first,Brasileirão Série A,1974
-1974-03-16,Atlético-MG,0,0,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-03-17,Corinthians,0,0,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-03-17,Santa Cruz,1,3,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-03-17,Fortaleza,2,1,Náutico,False,False,first,Brasileirão Série A,1974
-1974-03-17,Nacional-AM,1,1,Ceará,False,False,first,Brasileirão Série A,1974
-1974-03-17,América-MG,0,2,Santos,False,False,first,Brasileirão Série A,1974
-1974-03-17,CEUB,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-03-17,Goiás,4,0,CSA,False,False,first,Brasileirão Série A,1974
-1974-03-17,Operário-CG,1,1,Sport,False,False,first,Brasileirão Série A,1974
-1974-03-20,São Paulo,1,1,Náutico,False,False,first,Brasileirão Série A,1974
-1974-03-20,Sport,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-03-20,Ceará,0,1,Guarani,False,False,first,Brasileirão Série A,1974
-1974-03-20,América-MG,2,0,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-03-20,CEUB,1,3,Santos,False,False,first,Brasileirão Série A,1974
-1974-03-20,CSA,0,5,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-03-20,Portuguesa-SP,2,1,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-03-20,Santa Cruz,2,1,Goiás,False,False,first,Brasileirão Série A,1974
-1974-03-23,Náutico,2,0,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-03-23,Corinthians,3,1,América-MG,False,False,first,Brasileirão Série A,1974
-1974-03-23,Guarani,2,2,Santos,False,False,first,Brasileirão Série A,1974
-1974-03-23,Cruzeiro,1,2,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-03-23,Santa Cruz,0,0,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-03-23,Ceará,1,1,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-03-23,Rio Negro,0,4,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-03-23,CEUB,1,0,Sport,False,False,first,Brasileirão Série A,1974
-1974-03-23,Goiás,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-03-23,CSA,1,2,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-03-27,Portuguesa-SP,3,0,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-03-27,Santa Cruz,3,0,CSA,False,False,first,Brasileirão Série A,1974
-1974-03-27,Nacional-AM,2,1,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-03-27,América-MG,2,1,Ceará,False,False,first,Brasileirão Série A,1974
-1974-03-30,Guarani,3,0,Goiás,False,False,first,Brasileirão Série A,1974
-1974-03-30,Atlético-MG,1,1,América-MG,False,False,first,Brasileirão Série A,1974
-1974-03-30,Náutico,1,1,Santos,False,False,first,Brasileirão Série A,1974
-1974-03-30,Ceará,0,1,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-03-30,CEUB,1,1,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-03-30,CSA,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-03-30,Operário-CG,1,0,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-03-31,Rio Negro,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-04-03,São Paulo,2,0,Ceará,False,False,first,Brasileirão Série A,1974
-1974-04-03,Santa Cruz,2,3,América-MG,False,False,first,Brasileirão Série A,1974
-1974-04-03,Fortaleza,3,0,Guarani,False,False,first,Brasileirão Série A,1974
-1974-04-03,Náutico,0,0,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-04-06,Corinthians,2,2,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-04-06,Cruzeiro,3,0,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-04-06,Sport,1,1,Santos,False,False,first,Brasileirão Série A,1974
-1974-04-06,Fortaleza,2,1,Goiás,False,False,first,Brasileirão Série A,1974
-1974-04-06,CEUB,2,4,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-04-06,CSA,0,1,Guarani,False,False,first,Brasileirão Série A,1974
-1974-04-06,Operário-CG,0,2,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-04-06,Rio Negro,2,1,Náutico,False,False,first,Brasileirão Série A,1974
-1974-04-10,São Paulo,2,1,Sport,False,False,first,Brasileirão Série A,1974
-1974-04-10,Cruzeiro,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-04-10,Ceará,2,1,CEUB,False,False,first,Brasileirão Série A,1974
-1974-04-13,Santos,1,0,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-04-13,Guarani,2,1,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-04-13,Atlético-MG,2,1,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-04-13,Santa Cruz,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-04-13,Fortaleza,2,1,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-04-13,CSA,1,0,CEUB,False,False,first,Brasileirão Série A,1974
-1974-04-13,Operário-CG,1,1,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-04-16,Portuguesa-SP,0,0,América-MG,False,False,first,Brasileirão Série A,1974
-1974-04-16,Sport,1,0,Náutico,False,False,first,Brasileirão Série A,1974
-1974-04-17,Nacional-AM,0,2,CEUB,False,False,first,Brasileirão Série A,1974
-1974-04-20,Palmeiras,0,4,Santos,False,False,first,Brasileirão Série A,1974
-1974-04-20,Atlético-MG,1,0,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-04-20,Náutico,2,0,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-04-20,Ceará,1,0,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-04-20,Goiás,0,1,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-04-21,Rio Negro,1,0,Guarani,False,False,first,Brasileirão Série A,1974
-1974-04-21,CSA,0,0,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-04-23,Corinthians,1,0,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-04-24,Sport,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-04-24,Rio Negro,1,0,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-04-24,América-MG,0,1,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-04-27,São Paulo,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-04-27,Guarani,1,0,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-04-27,Cruzeiro,1,0,CEUB,False,False,first,Brasileirão Série A,1974
-1974-04-27,Sport,1,4,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-04-27,Ceará,1,2,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-04-27,CSA,0,1,Náutico,False,False,first,Brasileirão Série A,1974
-1974-04-27,Operário-CG,1,0,América-MG,False,False,first,Brasileirão Série A,1974
-1974-04-28,Nacional-AM,0,1,Santos,False,False,first,Brasileirão Série A,1974
-1974-05-02,Santos,3,0,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-05-04,Corinthians,1,1,Guarani,False,False,first,Brasileirão Série A,1974
-1974-05-04,Náutico,2,1,Ceará,False,False,first,Brasileirão Série A,1974
-1974-05-04,Fortaleza,3,3,Sport,False,False,first,Brasileirão Série A,1974
-1974-05-04,América-MG,0,0,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-05-04,CEUB,0,0,Goiás,False,False,first,Brasileirão Série A,1974
-1974-05-04,CSA,0,2,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-05-04,Operário-CG,3,0,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-05-04,Nacional-AM,0,2,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-05-08,Palmeiras,0,0,Guarani,False,False,first,Brasileirão Série A,1974
-1974-05-08,Sport,0,2,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-05-08,América-MG,0,1,Goiás,False,False,first,Brasileirão Série A,1974
-1974-05-08,Operário-CG,0,0,CEUB,False,False,first,Brasileirão Série A,1974
-1974-05-11,Corinthians,0,1,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-05-11,Sport,2,2,América-MG,False,False,first,Brasileirão Série A,1974
-1974-05-11,Ceará,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-05-11,Goiás,3,2,Santos,False,False,first,Brasileirão Série A,1974
-1974-05-12,Atlético-MG,0,1,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-05-12,Rio Negro,2,0,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-05-29,CEUB,1,1,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-05-15,São Paulo,1,2,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-05-15,Náutico,1,1,Guarani,False,False,first,Brasileirão Série A,1974
-1974-05-15,Fortaleza,0,2,Santos,False,False,first,Brasileirão Série A,1974
-1974-05-15,Rio Negro,1,1,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-05-15,Goiás,3,1,Ceará,False,False,first,Brasileirão Série A,1974
-1974-05-15,CSA,0,1,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-05-16,Palmeiras,1,0,América-MG,False,False,first,Brasileirão Série A,1974
-1974-05-18,Portuguesa-SP,2,2,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-05-18,Corinthians,1,1,Santos,False,False,first,Brasileirão Série A,1974
-1974-05-18,Guarani,1,1,Sport,False,False,first,Brasileirão Série A,1974
-1974-05-18,Cruzeiro,2,2,América-MG,False,False,first,Brasileirão Série A,1974
-1974-05-18,Náutico,0,0,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-05-18,Fortaleza,1,1,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-05-18,Nacional-AM,1,1,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-05-18,CEUB,1,1,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-05-18,Goiás,0,0,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-05-18,CSA,1,3,Ceará,False,False,first,Brasileirão Série A,1974
-1974-05-22,Santos,1,0,CSA,False,False,first,Brasileirão Série A,1974
-1974-05-22,Guarani,2,0,CEUB,False,False,first,Brasileirão Série A,1974
-1974-05-22,Sport,1,1,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-05-22,Goiás,1,1,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-05-25,Palmeiras,2,2,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-05-25,Atlético-MG,0,1,Guarani,False,False,first,Brasileirão Série A,1974
-1974-05-25,Santa Cruz,0,0,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-05-25,Ceará,1,1,Santos,False,False,first,Brasileirão Série A,1974
-1974-05-25,Operário-CG,0,0,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-05-26,Nacional-AM,2,0,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-05-26,Goiás,0,3,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-05-29,Fortaleza,1,0,CSA,False,False,first,Brasileirão Série A,1974
-1974-05-29,América-MG,0,3,Náutico,False,False,first,Brasileirão Série A,1974
-1974-05-29,Goiás,2,0,Rio Negro,False,False,first,Brasileirão Série A,1974
-1974-05-29,Sport,1,1,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-06-01,Corinthians,5,0,Nacional-AM,False,False,first,Brasileirão Série A,1974
-1974-06-02,Santos,1,1,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-06-02,Guarani,3,3,América-MG,False,False,first,Brasileirão Série A,1974
-1974-06-02,Cruzeiro,0,0,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-06-02,Santa Cruz,3,3,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-06-02,Ceará,0,0,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-06-02,Rio Negro,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-06-02,CEUB,0,2,Náutico,False,False,first,Brasileirão Série A,1974
-1974-06-02,CSA,0,1,Sport,False,False,first,Brasileirão Série A,1974
-1974-06-05,Palmeiras,1,1,Ceará,False,False,first,Brasileirão Série A,1974
-1974-06-05,Atlético-MG,3,1,Goiás,False,False,first,Brasileirão Série A,1974
-1974-06-05,Santa Cruz,0,3,Sport,False,False,first,Brasileirão Série A,1974
-1974-06-05,Fortaleza,0,2,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-06-05,Nacional-AM,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-06-05,CSA,0,3,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-06-05,Operário-CG,1,0,Santos,False,False,first,Brasileirão Série A,1974
-1974-06-08,Santa Cruz,0,0,Fortaleza,False,False,first,Brasileirão Série A,1974
-1974-06-08,Rio Negro,3,1,CSA,False,False,first,Brasileirão Série A,1974
-1974-06-08,CEUB,0,2,América-MG,False,False,first,Brasileirão Série A,1974
-1974-06-09,Guarani,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-06-09,São Paulo,1,1,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-06-09,Atlético-MG,2,1,Santos,False,False,first,Brasileirão Série A,1974
-1974-06-09,Náutico,0,1,Palmeiras,False,False,first,Brasileirão Série A,1974
-1974-06-09,Ceará,1,1,Cruzeiro,False,False,first,Brasileirão Série A,1974
-1974-06-09,Nacional-AM,1,2,Operário-CG,False,False,first,Brasileirão Série A,1974
-1974-06-12,Santos,1,1,Santa Cruz,False,False,first,Brasileirão Série A,1974
-1974-06-12,Sport,1,1,Ceará,False,False,first,Brasileirão Série A,1974
-1974-06-12,Rio Negro,1,0,CEUB,False,False,first,Brasileirão Série A,1974
-1974-06-12,Goiás,0,0,Náutico,False,False,first,Brasileirão Série A,1974
-1974-06-12,Palmeiras,1,0,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-06-13,América-MG,1,0,CSA,False,False,first,Brasileirão Série A,1974
-1974-06-13,Palmeiras,1,2,Atlético-MG,False,False,first,Brasileirão Série A,1974
-1974-06-13,Cruzeiro,0,1,São Paulo,False,False,first,Brasileirão Série A,1974
-1974-06-13,Náutico,3,1,Portuguesa-SP,False,False,first,Brasileirão Série A,1974
-1974-06-13,Fortaleza,2,0,Corinthians,False,False,first,Brasileirão Série A,1974
-1974-06-13,Nacional-AM,0,3,Goiás,False,False,first,Brasileirão Série A,1974
-1974-06-13,Operário-CG,1,0,Guarani,False,False,first,Brasileirão Série A,1974
-1974-07-02,Palmeiras,3,1,Flamengo,False,False,second,Brasileirão Série A,1974
-1974-07-02,Guarani,3,1,Bahia,False,False,second,Brasileirão Série A,1974
-1974-07-03,Cruzeiro,4,1,Paysandu,False,False,second,Brasileirão Série A,1974
-1974-07-06,Cruzeiro,1,0,Guarani,False,False,second,Brasileirão Série A,1974
-1974-07-06,Paysandu,1,2,Palmeiras,False,False,second,Brasileirão Série A,1974
-1974-07-06,Bahia,1,1,Flamengo,False,False,second,Brasileirão Série A,1974
-1974-07-10,Palmeiras,2,1,Guarani,False,False,second,Brasileirão Série A,1974
-1974-07-13,Palmeiras,2,0,Bahia,False,False,second,Brasileirão Série A,1974
-1974-07-13,Flamengo,1,3,Cruzeiro,False,False,second,Brasileirão Série A,1974
-1974-07-14,Paysandu,0,1,Guarani,False,False,second,Brasileirão Série A,1974
-1974-07-17,Flamengo,6,0,Paysandu,False,False,second,Brasileirão Série A,1974
-1974-07-17,Bahia,0,1,Cruzeiro,False,False,second,Brasileirão Série A,1974
-1974-06-29,Flamengo,3,0,Guarani,False,False,second,Brasileirão Série A,1974
-1974-06-29,Cruzeiro,2,1,Palmeiras,False,False,second,Brasileirão Série A,1974
-1974-06-29,Bahia,1,1,Paysandu,False,False,second,Brasileirão Série A,1974
-1974-07-03,Vitória,1,0,Corinthians,False,False,second,Brasileirão Série A,1974
-1974-07-03,Operário-CG,1,3,Atlético-MG,False,False,second,Brasileirão Série A,1974
-1974-07-03,Nacional-AM,0,0,Vasco da Gama,False,False,second,Brasileirão Série A,1974
-1974-07-06,Corinthians,2,2,Nacional-AM,False,False,second,Brasileirão Série A,1974
-1974-07-06,Operário-CG,0,2,Vitória,False,False,second,Brasileirão Série A,1974
-1974-07-10,Atlético-MG,0,2,Vasco da Gama,False,False,second,Brasileirão Série A,1974
-1974-07-11,Corinthians,0,0,Operário-CG,False,False,second,Brasileirão Série A,1974
-1974-07-14,Vasco da Gama,2,0,Corinthians,False,False,second,Brasileirão Série A,1974
-1974-07-14,Atlético-MG,2,2,Vitória,False,False,second,Brasileirão Série A,1974
-1974-07-14,Nacional-AM,0,1,Operário-CG,False,False,second,Brasileirão Série A,1974
-1974-07-17,Atlético-MG,3,0,Nacional-AM,False,False,second,Brasileirão Série A,1974
-1974-07-18,Vitória,0,0,Vasco da Gama,False,False,second,Brasileirão Série A,1974
-1974-06-29,Vasco da Gama,3,0,Operário-CG,False,False,second,Brasileirão Série A,1974
-1974-06-30,Corinthians,1,0,Atlético-MG,False,False,second,Brasileirão Série A,1974
-1974-06-30,Nacional-AM,1,0,Vitória,False,False,second,Brasileirão Série A,1974
-1974-07-03,América-GB,0,2,Santos,False,False,second,Brasileirão Série A,1974
-1974-07-03,Náutico,4,2,Coritiba,False,False,second,Brasileirão Série A,1974
-1974-07-03,Fortaleza,1,3,Grêmio,False,False,second,Brasileirão Série A,1974
-1974-07-07,Grêmio,0,1,Santos,False,False,second,Brasileirão Série A,1974
-1974-07-07,Coritiba,2,0,América-GB,False,False,second,Brasileirão Série A,1974
-1974-07-07,Fortaleza,0,0,Náutico,False,False,second,Brasileirão Série A,1974
-1974-07-10,América-GB,0,1,Grêmio,False,False,second,Brasileirão Série A,1974
-1974-07-13,Coritiba,0,0,Fortaleza,False,False,second,Brasileirão Série A,1974
-1974-07-15,Náutico,0,2,Santos,False,False,second,Brasileirão Série A,1974
-1974-07-17,Náutico,2,2,América-GB,False,False,second,Brasileirão Série A,1974
-1974-07-17,Grêmio,1,0,Coritiba,False,False,second,Brasileirão Série A,1974
-1974-07-18,Santos,1,1,Fortaleza,False,False,second,Brasileirão Série A,1974
-1974-06-29,Santos,2,1,Coritiba,False,False,second,Brasileirão Série A,1974
-1974-06-29,Grêmio,2,1,Náutico,False,False,second,Brasileirão Série A,1974
-1974-06-29,Fortaleza,3,0,América-GB,False,False,second,Brasileirão Série A,1974
-1974-06-30,Fluminense,0,1,São Paulo,False,False,second,Brasileirão Série A,1974
-1974-06-30,Internacional,1,1,Atlético-PR,False,False,second,Brasileirão Série A,1974
-1974-06-30,Goiás,0,1,Portuguesa-SP,False,False,second,Brasileirão Série A,1974
-1974-07-03,Goiás,1,1,São Paulo,False,False,second,Brasileirão Série A,1974
-1974-07-03,Internacional,2,0,Fluminense,False,False,second,Brasileirão Série A,1974
-1974-07-03,Atlético-PR,1,1,Portuguesa-SP,False,False,second,Brasileirão Série A,1974
-1974-07-06,Internacional,1,1,Goiás,False,False,second,Brasileirão Série A,1974
-1974-07-06,Fluminense,0,1,Atlético-PR,False,False,second,Brasileirão Série A,1974
-1974-07-07,São Paulo,1,1,Portuguesa-SP,False,False,second,Brasileirão Série A,1974
-1974-07-13,São Paulo,0,0,Atlético-PR,False,False,second,Brasileirão Série A,1974
-1974-07-14,Portuguesa-SP,0,1,Internacional,False,False,second,Brasileirão Série A,1974
-1974-07-14,Goiás,1,1,Fluminense,False,False,second,Brasileirão Série A,1974
-1974-07-17,Atlético-PR,2,1,Goiás,False,False,second,Brasileirão Série A,1974
-1974-07-17,São Paulo,0,1,Internacional,False,False,second,Brasileirão Série A,1974
-1974-07-18,Fluminense,3,1,Portuguesa-SP,False,False,second,Brasileirão Série A,1974
-1974-07-21,Vasco da Gama,2,1,Santos,False,False,third,Brasileirão Série A,1974
-1974-07-21,Internacional,1,1,Cruzeiro,False,False,third,Brasileirão Série A,1974
-1974-07-24,Cruzeiro,1,1,Vasco da Gama,False,False,third,Brasileirão Série A,1974
-1974-07-24,Santos,2,1,Internacional,False,False,third,Brasileirão Série A,1974
-1974-07-28,Santos,1,3,Cruzeiro,False,False,third,Brasileirão Série A,1974
-1974-07-28,Vasco da Gama,2,2,Internacional,False,False,third,Brasileirão Série A,1974
-1974-08-01,Vasco da Gama,2,1,Cruzeiro,False,True,final,Brasileirão Série A,1974
+1974-03-09,Vasco da Gama,2,0,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-03-09,Bahia,2,1,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Fluminense,1,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Grêmio,1,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Desportiva,1,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Atlético-PR,1,0,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Vitória,1,2,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Remo,2,2,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Sampaio Corrêa-MA,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,América-RN,1,1,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Fluminense,2,1,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Grêmio,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Desportiva,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Avaí,1,2,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Vitória,0,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Paysandu,3,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Tiradentes,0,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Sampaio Corrêa-MA,2,2,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,América-RN,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-03-14,Remo,2,3,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-03-16,Botafogo,0,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-03-16,Vitória,2,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-03-16,Coritiba,0,2,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Flamengo,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Internacional,5,1,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Bahia,1,1,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Tiradentes,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Sampaio Corrêa-MA,1,0,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Desportiva,1,0,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,América-RN,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Botafogo,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Coritiba,0,1,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Avaí,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Bahia,1,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Remo,1,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Sampaio Corrêa-MA,3,1,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Itabaiana,1,2,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,América-GB,1,2,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Flamengo,4,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Atlético-PR,1,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Fluminense,2,3,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Grêmio,1,2,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Coritiba,3,2,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Bahia,1,1,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Paysandu,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Sampaio Corrêa-MA,1,0,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,América-RN,1,3,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Itabaiana,1,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-03-27,América-GB,2,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-03-27,Tiradentes,3,0,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Bahia,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Vasco da Gama,0,0,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Internacional,2,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Atlético-PR,3,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Avaí,3,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Paysandu,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Sampaio Corrêa-MA,0,2,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Itabaiana,1,3,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Desportiva,1,1,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-04-03,Vasco da Gama,0,0,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Flamengo,2,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Grêmio,1,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Coritiba,3,2,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Avaí,2,2,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Vitória,1,1,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Paysandu,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Sampaio Corrêa-MA,1,1,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Desportiva,2,3,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-04-10,Olaria,1,2,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Fluminense,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Internacional,1,1,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Coritiba,0,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Vitória,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Remo,2,2,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Itabaiana,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Desportiva,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Avaí,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-04-14,Tiradentes,3,0,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-04-16,Botafogo,5,1,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Internacional,3,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Paysandu,2,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Tiradentes,0,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Sampaio Corrêa-MA,0,3,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,América-RN,0,2,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,Vasco da Gama,1,2,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,Atlético-PR,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,Avaí,0,2,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,Bahia,1,1,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-04-24,Flamengo,4,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-04-24,Paysandu,1,2,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Botafogo,1,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Grêmio,2,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Coritiba,1,1,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Avaí,0,1,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Bahia,0,0,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Remo,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,América-RN,2,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Itabaiana,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Desportiva,1,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-05-02,Fluminense,2,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Flamengo,0,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Grêmio,2,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Atlético-PR,1,0,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Vitória,3,0,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Remo,1,0,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Tiradentes,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Sampaio Corrêa-MA,0,0,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Itabaiana,0,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Desportiva,0,1,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Vasco da Gama,1,1,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Coritiba,3,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Desportiva,2,1,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Tiradentes,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Flamengo,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Internacional,1,1,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Atlético-PR,2,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Avaí,0,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Bahia,1,0,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Paysandu,1,0,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Sampaio Corrêa-MA,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,América-RN,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Botafogo,2,3,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Atlético-PR,4,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Vitória,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Paysandu,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Tiradentes,0,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,América-RN,0,1,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Itabaiana,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-05-16,Remo,2,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,América-GB,3,0,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Flamengo,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Grêmio,4,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Coritiba,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Avaí,0,2,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Vitória,3,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Remo,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Sampaio Corrêa-MA,2,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,América-RN,0,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Itabaiana,0,1,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,Olaria,2,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,Vitória,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,América-RN,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Internacional,2,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Coritiba,2,1,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Avaí,1,2,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Bahia,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Tiradentes,2,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,América-RN,1,0,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Itabaiana,2,1,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Desportiva,0,5,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Remo,3,1,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-05-26,Vasco da Gama,0,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,Vasco da Gama,1,0,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,América-RN,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
+1974-05-30,Olaria,4,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-06-01,Flamengo,3,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Botafogo,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Grêmio,1,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Coritiba,1,1,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Bahia,1,1,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Paysandu,0,1,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Tiradentes,2,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Sampaio Corrêa-MA,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Itabaiana,2,0,Avaí,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Botafogo,0,0,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Internacional,3,0,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Avaí,1,2,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Vitória,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Remo,2,4,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Itabaiana,0,1,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Desportiva,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-06-08,América-GB,2,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-06-08,Coritiba,1,1,Vitória,False,False,First Round,Brasileirão Série A,1974
+1974-06-08,Paysandu,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Botafogo,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Atlético-PR,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Bahia,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Remo,3,1,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Tiradentes,2,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-06-19,Internacional,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Fluminense,1,1,Coritiba,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Paysandu,1,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Vasco da Gama,3,1,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Grêmio,2,2,Botafogo,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Atlético-PR,1,2,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Avaí,0,2,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Vitória,1,0,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Remo,2,0,América-RN,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Tiradentes,1,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Desportiva,0,1,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-03-09,Palmeiras,4,3,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-03-09,Ceará,1,1,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Cruzeiro,0,0,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Náutico,2,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Santos,1,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Fortaleza,2,0,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Nacional-AM,0,1,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,CEUB,1,2,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Goiás,1,0,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Operário-CG,3,2,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Goiás,0,0,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Operário-CG,1,0,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Cruzeiro,1,0,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Sport,1,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Rio Negro,2,4,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,CEUB,1,0,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-03-14,Nacional-AM,1,1,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-03-16,São Paulo,1,1,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-03-16,Atlético-MG,0,0,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Corinthians,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Santa Cruz,1,3,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Fortaleza,2,1,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Nacional-AM,1,1,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,América-MG,0,2,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,CEUB,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Goiás,4,0,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-03-17,Operário-CG,1,1,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,São Paulo,1,1,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Sport,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Ceará,0,1,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,América-MG,2,0,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,CEUB,1,3,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,CSA,0,5,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Portuguesa-SP,2,1,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Santa Cruz,2,1,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Náutico,2,0,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Corinthians,3,1,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Guarani,2,2,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Cruzeiro,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Santa Cruz,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Ceará,1,1,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Rio Negro,0,4,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,CEUB,1,0,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Goiás,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,CSA,1,2,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-03-27,Portuguesa-SP,3,0,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-03-27,Santa Cruz,3,0,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-03-27,Nacional-AM,2,1,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-03-27,América-MG,2,1,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Guarani,3,0,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Atlético-MG,1,1,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Náutico,1,1,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Ceará,0,1,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,CEUB,1,1,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,CSA,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Operário-CG,1,0,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-03-31,Rio Negro,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-04-03,São Paulo,2,0,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-04-03,Santa Cruz,2,3,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-04-03,Fortaleza,3,0,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-04-03,Náutico,0,0,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Corinthians,2,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Cruzeiro,3,0,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Sport,1,1,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Fortaleza,2,1,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,CEUB,2,4,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,CSA,0,1,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Operário-CG,0,2,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Rio Negro,2,1,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-04-10,São Paulo,2,1,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-04-10,Cruzeiro,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-04-10,Ceará,2,1,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Santos,1,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Guarani,2,1,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Atlético-MG,2,1,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Santa Cruz,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Fortaleza,2,1,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,CSA,1,0,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Operário-CG,1,1,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-04-16,Portuguesa-SP,0,0,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-04-16,Sport,1,0,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-04-17,Nacional-AM,0,2,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Palmeiras,0,4,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Atlético-MG,1,0,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Náutico,2,0,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Ceará,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-04-20,Goiás,0,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,Rio Negro,1,0,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,CSA,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-04-23,Corinthians,1,0,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-04-24,Sport,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-04-24,Rio Negro,1,0,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-04-24,América-MG,0,1,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,São Paulo,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Guarani,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Cruzeiro,1,0,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Sport,1,4,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Ceará,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,CSA,0,1,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Operário-CG,1,0,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-04-28,Nacional-AM,0,1,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-05-02,Santos,3,0,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Corinthians,1,1,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Náutico,2,1,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Fortaleza,3,3,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,América-MG,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,CEUB,0,0,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,CSA,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Operário-CG,3,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Nacional-AM,0,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Palmeiras,0,0,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Sport,0,2,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,América-MG,0,1,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-05-08,Operário-CG,0,0,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Corinthians,0,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Sport,2,2,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Ceará,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Goiás,3,2,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-05-12,Atlético-MG,0,1,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-05-12,Rio Negro,2,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,CEUB,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,São Paulo,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Náutico,1,1,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Fortaleza,0,2,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Rio Negro,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Goiás,3,1,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,CSA,0,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-05-16,Palmeiras,1,0,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Portuguesa-SP,2,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Corinthians,1,1,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Guarani,1,1,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Cruzeiro,2,2,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Náutico,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Fortaleza,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Nacional-AM,1,1,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,CEUB,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Goiás,0,0,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,CSA,1,3,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,Santos,1,0,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,Guarani,2,0,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,Sport,1,1,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,Goiás,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Palmeiras,2,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Atlético-MG,0,1,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Santa Cruz,0,0,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Ceará,1,1,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Operário-CG,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-05-26,Nacional-AM,2,0,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-05-26,Goiás,0,3,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,Fortaleza,1,0,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,América-MG,0,3,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,Goiás,2,0,Rio Negro,False,False,First Round,Brasileirão Série A,1974
+1974-05-29,Sport,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-06-01,Corinthians,5,0,Nacional-AM,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Santos,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Guarani,3,3,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Cruzeiro,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Santa Cruz,3,3,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Ceará,0,0,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Rio Negro,0,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,CEUB,0,2,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,CSA,0,1,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Palmeiras,1,1,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Atlético-MG,3,1,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Santa Cruz,0,3,Sport,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Fortaleza,0,2,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Nacional-AM,0,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,CSA,0,3,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-06-05,Operário-CG,1,0,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-06-08,Santa Cruz,0,0,Fortaleza,False,False,First Round,Brasileirão Série A,1974
+1974-06-08,Rio Negro,3,1,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-06-08,CEUB,0,2,América-MG,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Guarani,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,São Paulo,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Atlético-MG,2,1,Santos,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Náutico,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Ceará,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Nacional-AM,1,2,Operário-CG,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Santos,1,1,Santa Cruz,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Sport,1,1,Ceará,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Rio Negro,1,0,CEUB,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Goiás,0,0,Náutico,False,False,First Round,Brasileirão Série A,1974
+1974-06-12,Palmeiras,1,0,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,América-MG,1,0,CSA,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Palmeiras,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Cruzeiro,0,1,São Paulo,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Náutico,3,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Fortaleza,2,0,Corinthians,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Nacional-AM,0,3,Goiás,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Operário-CG,1,0,Guarani,False,False,First Round,Brasileirão Série A,1974
+1974-07-02,Palmeiras,3,1,Flamengo,False,False,Second Round,Brasileirão Série A,1974
+1974-07-02,Guarani,3,1,Bahia,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Cruzeiro,4,1,Paysandu,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Cruzeiro,1,0,Guarani,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Paysandu,1,2,Palmeiras,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Bahia,1,1,Flamengo,False,False,Second Round,Brasileirão Série A,1974
+1974-07-10,Palmeiras,2,1,Guarani,False,False,Second Round,Brasileirão Série A,1974
+1974-07-13,Palmeiras,2,0,Bahia,False,False,Second Round,Brasileirão Série A,1974
+1974-07-13,Flamengo,1,3,Cruzeiro,False,False,Second Round,Brasileirão Série A,1974
+1974-07-14,Paysandu,0,1,Guarani,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Flamengo,6,0,Paysandu,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Bahia,0,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Flamengo,3,0,Guarani,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Cruzeiro,2,1,Palmeiras,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Bahia,1,1,Paysandu,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Vitória,1,0,Corinthians,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Operário-CG,1,3,Atlético-MG,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Nacional-AM,0,0,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Corinthians,2,2,Nacional-AM,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Operário-CG,0,2,Vitória,False,False,Second Round,Brasileirão Série A,1974
+1974-07-10,Atlético-MG,0,2,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1974
+1974-07-11,Corinthians,0,0,Operário-CG,False,False,Second Round,Brasileirão Série A,1974
+1974-07-14,Vasco da Gama,2,0,Corinthians,False,False,Second Round,Brasileirão Série A,1974
+1974-07-14,Atlético-MG,2,2,Vitória,False,False,Second Round,Brasileirão Série A,1974
+1974-07-14,Nacional-AM,0,1,Operário-CG,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Atlético-MG,3,0,Nacional-AM,False,False,Second Round,Brasileirão Série A,1974
+1974-07-18,Vitória,0,0,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Vasco da Gama,3,0,Operário-CG,False,False,Second Round,Brasileirão Série A,1974
+1974-06-30,Corinthians,1,0,Atlético-MG,False,False,Second Round,Brasileirão Série A,1974
+1974-06-30,Nacional-AM,1,0,Vitória,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,América-GB,0,2,Santos,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Náutico,4,2,Coritiba,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Fortaleza,1,3,Grêmio,False,False,Second Round,Brasileirão Série A,1974
+1974-07-07,Grêmio,0,1,Santos,False,False,Second Round,Brasileirão Série A,1974
+1974-07-07,Coritiba,2,0,América-GB,False,False,Second Round,Brasileirão Série A,1974
+1974-07-07,Fortaleza,0,0,Náutico,False,False,Second Round,Brasileirão Série A,1974
+1974-07-10,América-GB,0,1,Grêmio,False,False,Second Round,Brasileirão Série A,1974
+1974-07-13,Coritiba,0,0,Fortaleza,False,False,Second Round,Brasileirão Série A,1974
+1974-07-15,Náutico,0,2,Santos,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Náutico,2,2,América-GB,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Grêmio,1,0,Coritiba,False,False,Second Round,Brasileirão Série A,1974
+1974-07-18,Santos,1,1,Fortaleza,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Santos,2,1,Coritiba,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Grêmio,2,1,Náutico,False,False,Second Round,Brasileirão Série A,1974
+1974-06-29,Fortaleza,3,0,América-GB,False,False,Second Round,Brasileirão Série A,1974
+1974-06-30,Fluminense,0,1,São Paulo,False,False,Second Round,Brasileirão Série A,1974
+1974-06-30,Internacional,1,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1974
+1974-06-30,Goiás,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Goiás,1,1,São Paulo,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Internacional,2,0,Fluminense,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Atlético-PR,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Internacional,1,1,Goiás,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Fluminense,0,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1974
+1974-07-07,São Paulo,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
+1974-07-13,São Paulo,0,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1974
+1974-07-14,Portuguesa-SP,0,1,Internacional,False,False,Second Round,Brasileirão Série A,1974
+1974-07-14,Goiás,1,1,Fluminense,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Atlético-PR,2,1,Goiás,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,São Paulo,0,1,Internacional,False,False,Second Round,Brasileirão Série A,1974
+1974-07-18,Fluminense,3,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
+1974-07-21,Vasco da Gama,2,1,Santos,False,False,Third Round,Brasileirão Série A,1974
+1974-07-21,Internacional,1,1,Cruzeiro,False,False,Third Round,Brasileirão Série A,1974
+1974-07-24,Cruzeiro,1,1,Vasco da Gama,False,False,Third Round,Brasileirão Série A,1974
+1974-07-24,Santos,2,1,Internacional,False,False,Third Round,Brasileirão Série A,1974
+1974-07-28,Santos,1,3,Cruzeiro,False,False,Third Round,Brasileirão Série A,1974
+1974-07-28,Vasco da Gama,2,2,Internacional,False,False,Third Round,Brasileirão Série A,1974
+1974-08-01,Vasco da Gama,2,1,Cruzeiro,False,True,Final,Brasileirão Série A,1974

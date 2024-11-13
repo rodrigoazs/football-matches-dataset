@@ -1,381 +1,381 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2018-04-14,Santos,2,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-04-14,Cruzeiro,0,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-04-14,Vitória,2,2,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-04-15,América-MG,3,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-04-15,Internacional,2,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-04-15,Vasco da Gama,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-04-15,Corinthians,2,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-04-15,Atlético-PR,5,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-04-16,Botafogo,1,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-04-16,São Paulo,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-04-21,Bahia,1,0,Santos,False,False,first,Brasileirão Série A,2018
-2018-04-21,Flamengo,2,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-04-22,Paraná,0,4,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-04-22,Chapecoense,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-04-22,Atlético-MG,2,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-04-22,Fluminense,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-04-22,Palmeiras,1,0,Internacional,False,False,first,Brasileirão Série A,2018
-2018-04-22,Ceará,0,0,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-04-22,Grêmio,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-04-23,Sport,1,1,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-04-28,Botafogo,2,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-04-29,Atlético-MG,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-04-29,Fluminense,1,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-04-29,Ceará,0,3,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-04-29,Bahia,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-04-29,Palmeiras,0,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-04-29,Paraná,1,2,Sport,False,False,first,Brasileirão Série A,2018
-2018-04-29,Internacional,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-04-30,América-MG,2,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-05-05,Vasco da Gama,4,1,América-MG,False,False,first,Brasileirão Série A,2018
-2018-05-05,São Paulo,2,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-05-06,Corinthians,1,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-05-06,Atlético-PR,1,3,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-05-06,Vitória,1,2,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-05-06,Cruzeiro,1,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-05-06,Flamengo,2,0,Internacional,False,False,first,Brasileirão Série A,2018
-2018-05-06,Sport,2,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-05-06,Grêmio,5,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-05-07,Chapecoense,1,1,Paraná,False,False,first,Brasileirão Série A,2018
-2018-05-12,Grêmio,0,0,Internacional,False,False,first,Brasileirão Série A,2018
-2018-05-13,Cruzeiro,2,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-05-13,Atlético-PR,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-05-13,Corinthians,1,0,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-05-13,Bahia,2,2,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-05-13,Chapecoense,3,2,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-05-13,Vasco da Gama,2,3,Vitória,False,False,first,Brasileirão Série A,2018
-2018-05-13,Santos,3,1,Paraná,False,False,first,Brasileirão Série A,2018
-2018-05-14,Botafogo,2,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-05-14,Ceará,2,2,América-MG,False,False,first,Brasileirão Série A,2018
-2018-05-19,Palmeiras,3,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-05-19,Atlético-MG,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-05-19,Flamengo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-05-20,Vitória,2,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-05-20,Paraná,0,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-05-20,América-MG,1,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-05-20,São Paulo,1,0,Santos,False,False,first,Brasileirão Série A,2018
-2018-05-20,Sport,1,1,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-05-20,Fluminense,2,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-05-21,Internacional,3,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-05-26,Atlético-MG,0,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-05-26,Fluminense,3,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-05-26,Palmeiras,2,3,Sport,False,False,first,Brasileirão Série A,2018
-2018-05-27,Paraná,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-05-27,Botafogo,1,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-05-27,Santos,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-05-27,Internacional,2,1,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-05-27,Bahia,3,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-05-27,América-MG,1,3,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-05-27,Ceará,0,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-05-30,Chapecoense,2,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-05-30,São Paulo,3,2,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-05-30,Cruzeiro,1,0,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-05-30,Grêmio,0,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-05-30,Sport,3,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-05-30,Vasco da Gama,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-05-30,Vitória,2,3,Internacional,False,False,first,Brasileirão Série A,2018
-2018-05-31,Flamengo,2,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-05-31,Corinthians,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-05-31,Atlético-PR,2,0,Santos,False,False,first,Brasileirão Série A,2018
-2018-06-02,Palmeiras,3,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-06-02,Atlético-MG,3,3,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-06-02,Internacional,0,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-06-02,Vasco da Gama,1,2,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-06-03,Flamengo,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-06-03,Santos,5,2,Vitória,False,False,first,Brasileirão Série A,2018
-2018-06-03,Bahia,0,2,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-06-03,América-MG,3,1,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-06-03,Ceará,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-06-04,Paraná,2,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-06-05,São Paulo,0,0,Internacional,False,False,first,Brasileirão Série A,2018
-2018-06-06,Corinthians,1,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-06-06,Sport,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-06-06,Grêmio,0,2,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-06-06,Cruzeiro,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-06-06,Vitória,1,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-06-06,Botafogo,0,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-06-07,Paraná,1,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-06-07,Fluminense,0,2,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-06-07,América-MG,1,3,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-06-09,Corinthians,0,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-06-09,Atlético-PR,0,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-06-09,Chapecoense,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-06-09,Vasco da Gama,3,2,Sport,False,False,first,Brasileirão Série A,2018
-2018-06-10,Atlético-MG,5,2,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-06-10,Grêmio,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-06-10,Bahia,3,3,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-06-10,Ceará,2,2,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-06-10,Flamengo,2,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-06-10,Santos,1,2,Internacional,False,False,first,Brasileirão Série A,2018
-2018-06-12,São Paulo,3,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-06-13,Palmeiras,1,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-06-13,Botafogo,2,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-06-13,Atlético-MG,2,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-06-13,Bahia,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-06-13,Internacional,3,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-06-13,América-MG,0,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-06-13,Fluminense,0,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-06-13,Paraná,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-06-13,Sport,0,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-07-18,Ceará,1,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-07-18,Vitória,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-07-18,Corinthians,2,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-07-18,Flamengo,0,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-07-18,Grêmio,2,0,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-07-19,Santos,1,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-07-19,Vasco da Gama,1,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-07-19,Atlético-PR,2,2,Internacional,False,False,first,Brasileirão Série A,2018
-2018-07-19,Chapecoense,1,1,Bahia,False,False,first,Brasileirão Série A,2018
-2018-07-19,Cruzeiro,3,1,América-MG,False,False,first,Brasileirão Série A,2018
-2018-07-21,São Paulo,3,1,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-07-21,Flamengo,2,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-07-22,Bahia,4,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-07-22,Palmeiras,3,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-07-22,Paraná,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-07-22,Sport,1,2,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-07-22,Vasco da Gama,1,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-07-22,Chapecoense,0,0,Santos,False,False,first,Brasileirão Série A,2018
-2018-07-22,Cruzeiro,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-07-23,Internacional,1,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-07-25,Atlético-MG,2,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-07-25,Fluminense,1,0,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-07-25,Santos,1,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-07-25,Corinthians,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-07-26,América-MG,2,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-07-26,Grêmio,2,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-07-26,Botafogo,1,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-07-26,Vitória,1,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-07-28,Ceará,1,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-07-29,Palmeiras,3,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-07-29,Vasco da Gama,1,4,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-07-29,Atlético-PR,4,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-07-29,Cruzeiro,0,2,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-07-29,Flamengo,4,1,Sport,False,False,first,Brasileirão Série A,2018
-2018-07-29,Internacional,3,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-07-29,Chapecoense,1,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-07-29,Santos,0,1,América-MG,False,False,first,Brasileirão Série A,2018
-2018-07-30,Bahia,2,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-08-04,Corinthians,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-08-04,Botafogo,0,0,Santos,False,False,first,Brasileirão Série A,2018
-2018-08-04,Grêmio,2,0,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-08-05,América-MG,0,0,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-08-05,Vitória,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-08-05,Paraná,0,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-08-05,São Paulo,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-08-05,Fluminense,1,1,Bahia,False,False,first,Brasileirão Série A,2018
-2018-08-05,Sport,1,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-08-06,Atlético-MG,0,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-08-08,Ceará,1,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-08-11,Ceará,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-08-11,Bahia,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-08-12,Atlético-MG,3,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-08-12,Paraná,1,1,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-08-12,Chapecoense,2,1,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-08-12,Flamengo,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-08-12,Sport,1,3,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-08-12,Palmeiras,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-08-12,Grêmio,4,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-08-13,Fluminense,0,3,Internacional,False,False,first,Brasileirão Série A,2018
-2018-08-18,Santos,3,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-08-18,Corinthians,0,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-08-19,Internacional,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-08-19,Atlético-PR,3,0,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-08-19,Botafogo,0,3,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-08-19,Vitória,0,3,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-08-19,Cruzeiro,1,1,Bahia,False,False,first,Brasileirão Série A,2018
-2018-08-19,São Paulo,2,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-08-19,América-MG,0,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-08-20,Vasco da Gama,1,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-08-22,Palmeiras,2,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-08-22,Sport,0,2,América-MG,False,False,first,Brasileirão Série A,2018
-2018-08-22,Grêmio,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-08-22,Fluminense,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-08-22,Bahia,0,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-08-22,Paraná,1,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-08-23,Atlético-MG,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-08-23,Flamengo,1,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-08-25,Botafogo,2,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-08-25,Cruzeiro,2,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-08-25,Santos,2,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-08-25,Corinthians,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-08-25,Atlético-PR,2,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-08-26,São Paulo,1,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-08-26,América-MG,2,2,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-08-26,Vitória,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-08-26,Internacional,0,0,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-08-26,Vasco da Gama,3,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-08-29,Atlético-PR,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-08-29,Ceará,0,2,Bahia,False,False,first,Brasileirão Série A,2018
-2018-09-01,Corinthians,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-09-01,Grêmio,4,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-09-01,Vitória,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-09-01,Vasco da Gama,0,3,Santos,False,False,first,Brasileirão Série A,2018
-2018-09-02,Flamengo,0,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-09-02,Atlético-PR,2,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-09-02,São Paulo,1,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-09-02,Sport,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-09-02,Chapecoense,1,2,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-09-02,Cruzeiro,0,0,Internacional,False,False,first,Brasileirão Série A,2018
-2018-09-05,Bahia,2,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-09-05,Ceará,2,1,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-09-05,Palmeiras,2,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-09-05,Paraná,1,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-09-05,Atlético-MG,1,0,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-09-05,Internacional,2,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-09-05,Botafogo,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-09-06,América-MG,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-09-06,Fluminense,0,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-09-06,Santos,0,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-09-08,Flamengo,2,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-09-08,Sport,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-09-08,São Paulo,1,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-09-09,Palmeiras,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-09-09,Fluminense,1,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-09-09,América-MG,0,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-09-09,Internacional,1,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-09-09,Paraná,0,2,Santos,False,False,first,Brasileirão Série A,2018
-2018-09-09,Vitória,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-09-10,Atlético-MG,3,1,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-09-13,Chapecoense,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-09-15,Ceará,2,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-09-15,Grêmio,2,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-09-15,Vasco da Gama,1,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-09-16,Botafogo,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-09-16,Santos,0,0,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-09-16,Cruzeiro,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-09-16,Atlético-PR,3,1,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-09-16,Bahia,1,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-09-16,Corinthians,2,1,Sport,False,False,first,Brasileirão Série A,2018
-2018-09-17,Chapecoense,2,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-09-22,São Paulo,1,1,América-MG,False,False,first,Brasileirão Série A,2018
-2018-09-23,Grêmio,3,2,Ceará,False,False,first,Brasileirão Série A,2018
-2018-09-23,Atlético-PR,3,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-09-23,Corinthians,1,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-09-23,Flamengo,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-09-23,Vitória,3,4,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-09-23,Sport,0,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-09-23,Cruzeiro,2,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-09-24,Vasco da Gama,2,1,Bahia,False,False,first,Brasileirão Série A,2018
-2018-09-24,Chapecoense,1,2,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-09-27,Santos,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-09-29,Bahia,0,0,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-09-29,Fluminense,0,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-09-29,América-MG,0,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-09-30,Palmeiras,3,1,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-09-30,Atlético-MG,5,2,Sport,False,False,first,Brasileirão Série A,2018
-2018-09-30,Botafogo,2,2,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-09-30,Santos,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-09-30,Internacional,2,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-09-30,Ceará,3,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-10-01,Paraná,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-10-05,Corinthians,0,3,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-10-05,Vitória,0,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-10-05,Sport,2,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-10-06,Grêmio,2,2,Bahia,False,False,first,Brasileirão Série A,2018
-2018-10-06,Atlético-PR,4,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-10-06,Chapecoense,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-10-06,São Paulo,0,2,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-10-08,Fluminense,4,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-10-09,Botafogo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-10-13,Bahia,2,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-10-13,Flamengo,3,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-10-13,Santos,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-10-14,Chapecoense,0,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-10-14,Palmeiras,2,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-10-14,Internacional,3,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-10-14,Vasco da Gama,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-10-14,Atlético-MG,0,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-10-14,Atlético-PR,4,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-10-15,Ceará,0,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-10-20,América-MG,1,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-10-20,Botafogo,0,1,Bahia,False,False,first,Brasileirão Série A,2018
-2018-10-20,São Paulo,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-10-20,Sport,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-10-21,Fluminense,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-10-21,Palmeiras,2,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-10-21,Vitória,2,2,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-10-21,Cruzeiro,3,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-10-21,Paraná,0,4,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-10-22,Internacional,2,2,Santos,False,False,first,Brasileirão Série A,2018
-2018-10-24,Cruzeiro,0,2,Ceará,False,False,first,Brasileirão Série A,2018
-2018-10-26,Vasco da Gama,1,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-10-26,Vitória,0,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-10-27,Cruzeiro,3,1,Paraná,False,False,first,Brasileirão Série A,2018
-2018-10-27,Atlético-PR,2,1,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-10-27,Santos,3,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-10-27,Grêmio,3,4,Sport,False,False,first,Brasileirão Série A,2018
-2018-10-27,Chapecoense,1,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-10-27,Flamengo,1,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-10-27,Corinthians,2,1,Bahia,False,False,first,Brasileirão Série A,2018
-2018-10-29,Ceará,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-11-03,Atlético-MG,0,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-11-03,Fluminense,0,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-11-03,Palmeiras,3,2,Santos,False,False,first,Brasileirão Série A,2018
-2018-11-04,Paraná,1,1,Vitória,False,False,first,Brasileirão Série A,2018
-2018-11-04,América-MG,1,2,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-11-04,Botafogo,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-11-04,São Paulo,2,2,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-11-04,Bahia,1,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-11-04,Internacional,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-11-05,Sport,1,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-11-10,América-MG,0,1,Paraná,False,False,first,Brasileirão Série A,2018
-2018-11-10,Corinthians,1,1,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-11-10,Botafogo,2,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-11-10,Atlético-PR,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-11-11,Atlético-MG,1,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-11-11,Ceará,1,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-11-11,Grêmio,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-11-11,Vitória,2,2,Bahia,False,False,first,Brasileirão Série A,2018
-2018-11-11,Fluminense,0,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-11-12,Santos,0,1,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-11-14,Bahia,2,1,Ceará,False,False,first,Brasileirão Série A,2018
-2018-11-14,Sport,0,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-11-14,Paraná,0,1,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-11-14,Cruzeiro,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-11-14,Palmeiras,3,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-11-14,Vasco da Gama,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-11-15,Internacional,2,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-11-15,Flamengo,1,0,Santos,False,False,first,Brasileirão Série A,2018
-2018-11-15,Chapecoense,0,1,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-11-15,São Paulo,1,1,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-11-17,Atlético-MG,1,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-11-17,Vitória,1,2,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-11-17,Corinthians,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-11-18,Sport,0,1,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-11-18,Botafogo,1,0,Internacional,False,False,first,Brasileirão Série A,2018
-2018-11-18,Paraná,1,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-11-18,América-MG,2,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-11-18,Grêmio,2,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-11-18,São Paulo,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-11-19,Fluminense,0,0,Ceará,False,False,first,Brasileirão Série A,2018
-2018-11-21,Santos,1,1,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-11-21,Atlético-PR,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-11-21,Cruzeiro,3,0,Vitória,False,False,first,Brasileirão Série A,2018
-2018-11-21,Flamengo,2,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-11-21,Palmeiras,4,0,América-MG,False,False,first,Brasileirão Série A,2018
-2018-11-21,Internacional,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-11-22,Vasco da Gama,2,0,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-11-22,Ceará,1,0,Paraná,False,False,first,Brasileirão Série A,2018
-2018-11-22,Bahia,2,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-11-22,Chapecoense,2,1,Sport,False,False,first,Brasileirão Série A,2018
-2018-11-24,Santos,3,2,Atlético-MG,False,False,first,Brasileirão Série A,2018
-2018-11-25,Vitória,0,0,Grêmio,False,False,first,Brasileirão Série A,2018
-2018-11-25,Cruzeiro,0,2,Flamengo,False,False,first,Brasileirão Série A,2018
-2018-11-25,Vasco da Gama,0,1,Palmeiras,False,False,first,Brasileirão Série A,2018
-2018-11-25,Atlético-PR,2,2,Ceará,False,False,first,Brasileirão Série A,2018
-2018-11-25,Corinthians,0,0,Chapecoense,False,False,first,Brasileirão Série A,2018
-2018-11-25,Internacional,2,0,Fluminense,False,False,first,Brasileirão Série A,2018
-2018-11-25,América-MG,1,0,Bahia,False,False,first,Brasileirão Série A,2018
-2018-11-26,Botafogo,2,1,Paraná,False,False,first,Brasileirão Série A,2018
-2018-11-26,São Paulo,0,0,Sport,False,False,first,Brasileirão Série A,2018
-2018-12-01,Atlético-MG,1,0,Botafogo,False,False,first,Brasileirão Série A,2018
-2018-12-01,Flamengo,1,2,Atlético-PR,False,False,first,Brasileirão Série A,2018
-2018-12-02,Ceará,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,2018
-2018-12-02,Sport,2,1,Santos,False,False,first,Brasileirão Série A,2018
-2018-12-02,Bahia,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2018
-2018-12-02,Palmeiras,3,2,Vitória,False,False,first,Brasileirão Série A,2018
-2018-12-02,Grêmio,1,0,Corinthians,False,False,first,Brasileirão Série A,2018
-2018-12-02,Paraná,1,1,Internacional,False,False,first,Brasileirão Série A,2018
-2018-12-02,Chapecoense,1,0,São Paulo,False,False,first,Brasileirão Série A,2018
-2018-12-02,Fluminense,1,0,América-MG,False,False,first,Brasileirão Série A,2018
+2018-04-14,Santos,2,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-14,Cruzeiro,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-14,Vitória,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-15,América-MG,3,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-15,Internacional,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-15,Vasco da Gama,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-15,Corinthians,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-15,Atlético-PR,5,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-16,Botafogo,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-16,São Paulo,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-21,Bahia,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-21,Flamengo,2,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Paraná,0,4,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Chapecoense,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Atlético-MG,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Fluminense,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Palmeiras,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Ceará,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-22,Grêmio,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-23,Sport,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-28,Botafogo,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Atlético-MG,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Fluminense,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Ceará,0,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Bahia,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Palmeiras,0,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Paraná,1,2,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-29,Internacional,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-04-30,América-MG,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-05,Vasco da Gama,4,1,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-05,São Paulo,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Corinthians,1,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Atlético-PR,1,3,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Vitória,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Cruzeiro,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Flamengo,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Sport,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-06,Grêmio,5,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-07,Chapecoense,1,1,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-12,Grêmio,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Cruzeiro,2,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Atlético-PR,1,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Corinthians,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Bahia,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Chapecoense,3,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Vasco da Gama,2,3,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-13,Santos,3,1,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-14,Botafogo,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-14,Ceará,2,2,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-19,Palmeiras,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-19,Atlético-MG,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-19,Flamengo,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-20,Vitória,2,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-20,Paraná,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-20,América-MG,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-20,São Paulo,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-20,Sport,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-20,Fluminense,2,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-21,Internacional,3,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-26,Atlético-MG,0,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-26,Fluminense,3,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-26,Palmeiras,2,3,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,Paraná,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,Botafogo,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,Santos,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,Internacional,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,Bahia,3,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,América-MG,1,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-27,Ceará,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,Chapecoense,2,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,São Paulo,3,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,Cruzeiro,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,Grêmio,0,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,Sport,3,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,Vasco da Gama,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-30,Vitória,2,3,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-31,Flamengo,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-31,Corinthians,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-05-31,Atlético-PR,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-02,Palmeiras,3,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-02,Atlético-MG,3,3,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-02,Internacional,0,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-02,Vasco da Gama,1,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-03,Flamengo,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-03,Santos,5,2,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-03,Bahia,0,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-03,América-MG,3,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-03,Ceará,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-04,Paraná,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-05,São Paulo,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-06,Corinthians,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-06,Sport,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-06,Grêmio,0,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-06,Cruzeiro,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-06,Vitória,1,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-06,Botafogo,0,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-07,Paraná,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-07,Fluminense,0,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-07,América-MG,1,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-09,Corinthians,0,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-09,Atlético-PR,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-09,Chapecoense,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-09,Vasco da Gama,3,2,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-10,Atlético-MG,5,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-10,Grêmio,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-10,Bahia,3,3,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-10,Ceará,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-10,Flamengo,2,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-10,Santos,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-12,São Paulo,3,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Palmeiras,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Botafogo,2,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Atlético-MG,2,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Bahia,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Internacional,3,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,América-MG,0,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Fluminense,0,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Paraná,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-06-13,Sport,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-18,Ceará,1,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-18,Vitória,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-18,Corinthians,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-18,Flamengo,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-18,Grêmio,2,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-19,Santos,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-19,Vasco da Gama,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-19,Atlético-PR,2,2,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-19,Chapecoense,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-19,Cruzeiro,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-21,São Paulo,3,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-21,Flamengo,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Bahia,4,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Palmeiras,3,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Paraná,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Sport,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Vasco da Gama,1,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Chapecoense,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-22,Cruzeiro,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-23,Internacional,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-25,Atlético-MG,2,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-25,Fluminense,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-25,Santos,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-25,Corinthians,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-26,América-MG,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-26,Grêmio,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-26,Botafogo,1,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-26,Vitória,1,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-28,Ceará,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Palmeiras,3,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Vasco da Gama,1,4,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Atlético-PR,4,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Cruzeiro,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Flamengo,4,1,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Internacional,3,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Chapecoense,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-29,Santos,0,1,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-07-30,Bahia,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-04,Corinthians,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-04,Botafogo,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-04,Grêmio,2,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-05,América-MG,0,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-05,Vitória,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-05,Paraná,0,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-05,São Paulo,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-05,Fluminense,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-05,Sport,1,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-06,Atlético-MG,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-08,Ceará,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-11,Ceará,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-11,Bahia,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Atlético-MG,3,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Paraná,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Chapecoense,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Flamengo,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Sport,1,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Palmeiras,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-12,Grêmio,4,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-13,Fluminense,0,3,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-18,Santos,3,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-18,Corinthians,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,Internacional,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,Atlético-PR,3,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,Botafogo,0,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,Vitória,0,3,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,Cruzeiro,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,São Paulo,2,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-19,América-MG,0,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-20,Vasco da Gama,1,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-22,Palmeiras,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-22,Sport,0,2,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-22,Grêmio,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-22,Fluminense,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-22,Bahia,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-22,Paraná,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-23,Atlético-MG,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-23,Flamengo,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-25,Botafogo,2,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-25,Cruzeiro,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-25,Santos,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-25,Corinthians,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-25,Atlético-PR,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-26,São Paulo,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-26,América-MG,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-26,Vitória,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-26,Internacional,0,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-26,Vasco da Gama,3,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-29,Atlético-PR,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-08-29,Ceará,0,2,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-01,Corinthians,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-01,Grêmio,4,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-01,Vitória,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-01,Vasco da Gama,0,3,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-02,Flamengo,0,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-02,Atlético-PR,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-02,São Paulo,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-02,Sport,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-02,Chapecoense,1,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-02,Cruzeiro,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Bahia,2,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Ceará,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Palmeiras,2,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Paraná,1,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Atlético-MG,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Internacional,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-05,Botafogo,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-06,América-MG,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-06,Fluminense,0,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-06,Santos,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-08,Flamengo,2,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-08,Sport,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-08,São Paulo,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-09,Palmeiras,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-09,Fluminense,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-09,América-MG,0,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-09,Internacional,1,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-09,Paraná,0,2,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-09,Vitória,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-10,Atlético-MG,3,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-13,Chapecoense,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-15,Ceará,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-15,Grêmio,2,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-15,Vasco da Gama,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-16,Botafogo,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-16,Santos,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-16,Cruzeiro,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-16,Atlético-PR,3,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-16,Bahia,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-16,Corinthians,2,1,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-17,Chapecoense,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-22,São Paulo,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Grêmio,3,2,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Atlético-PR,3,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Corinthians,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Flamengo,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Vitória,3,4,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Sport,0,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-23,Cruzeiro,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-24,Vasco da Gama,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-24,Chapecoense,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-27,Santos,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-29,Bahia,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-29,Fluminense,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-29,América-MG,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-30,Palmeiras,3,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-30,Atlético-MG,5,2,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-30,Botafogo,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-30,Santos,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-30,Internacional,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-09-30,Ceará,3,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-01,Paraná,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-05,Corinthians,0,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-05,Vitória,0,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-05,Sport,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-06,Grêmio,2,2,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-06,Atlético-PR,4,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-06,Chapecoense,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-06,São Paulo,0,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-08,Fluminense,4,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-09,Botafogo,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-13,Bahia,2,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-13,Flamengo,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-13,Santos,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-14,Chapecoense,0,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-14,Palmeiras,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-14,Internacional,3,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-14,Vasco da Gama,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-14,Atlético-MG,0,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-14,Atlético-PR,4,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-15,Ceará,0,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-20,América-MG,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-20,Botafogo,0,1,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-20,São Paulo,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-20,Sport,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-21,Fluminense,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-21,Palmeiras,2,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-21,Vitória,2,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-21,Cruzeiro,3,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-21,Paraná,0,4,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-22,Internacional,2,2,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-24,Cruzeiro,0,2,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-26,Vasco da Gama,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-26,Vitória,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Cruzeiro,3,1,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Atlético-PR,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Santos,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Grêmio,3,4,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Chapecoense,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Flamengo,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-27,Corinthians,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-10-29,Ceará,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-03,Atlético-MG,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-03,Fluminense,0,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-03,Palmeiras,3,2,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-04,Paraná,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-04,América-MG,1,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-04,Botafogo,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-04,São Paulo,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-04,Bahia,1,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-04,Internacional,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-05,Sport,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-10,América-MG,0,1,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-10,Corinthians,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-10,Botafogo,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-10,Atlético-PR,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-11,Atlético-MG,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-11,Ceará,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-11,Grêmio,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-11,Vitória,2,2,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-11,Fluminense,0,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-12,Santos,0,1,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-14,Bahia,2,1,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-14,Sport,0,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-14,Paraná,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-14,Cruzeiro,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-14,Palmeiras,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-14,Vasco da Gama,1,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-15,Internacional,2,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-15,Flamengo,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-15,Chapecoense,0,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-15,São Paulo,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-17,Atlético-MG,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-17,Vitória,1,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-17,Corinthians,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-18,Sport,0,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-18,Botafogo,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-18,Paraná,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-18,América-MG,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-18,Grêmio,2,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-18,São Paulo,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-19,Fluminense,0,0,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-21,Santos,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-21,Atlético-PR,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-21,Cruzeiro,3,0,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-21,Flamengo,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-21,Palmeiras,4,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-21,Internacional,1,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-22,Vasco da Gama,2,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-22,Ceará,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-22,Bahia,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-22,Chapecoense,2,1,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-24,Santos,3,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,Vitória,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,Cruzeiro,0,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,Vasco da Gama,0,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,Atlético-PR,2,2,Ceará,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,Corinthians,0,0,Chapecoense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,Internacional,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-25,América-MG,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-26,Botafogo,2,1,Paraná,False,False,Round-robin,Brasileirão Série A,2018
+2018-11-26,São Paulo,0,0,Sport,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-01,Atlético-MG,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-01,Flamengo,1,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Ceará,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Sport,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Bahia,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Palmeiras,3,2,Vitória,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Grêmio,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Paraná,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Chapecoense,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2018
+2018-12-02,Fluminense,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2018

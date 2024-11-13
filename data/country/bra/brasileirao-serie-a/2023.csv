@@ -1,381 +1,381 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2023-04-15,Palmeiras,2,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-04-15,América-MG,0,3,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-04-15,Athletico-PR,2,0,Goiás,False,False,first,Brasileirão Série A,2023
-2023-04-15,Botafogo,2,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-04-15,RB Bragantino,2,1,Bahia,False,False,first,Brasileirão Série A,2023
-2023-04-15,Fortaleza,1,1,Internacional,False,False,first,Brasileirão Série A,2023
-2023-04-15,Atlético-MG,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-04-16,Corinthians,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-04-16,Flamengo,3,0,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-04-16,Grêmio,1,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-04-22,Fluminense,2,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-04-22,Cuiabá,1,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-04-22,São Paulo,3,0,América-MG,False,False,first,Brasileirão Série A,2023
-2023-04-22,Cruzeiro,1,0,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-04-23,Internacional,2,1,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-04-23,Vasco da Gama,2,2,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-04-23,Santos,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-04-23,Coritiba,0,3,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-04-23,Goiás,3,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-04-24,Bahia,1,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-04-29,Fortaleza,4,2,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-04-29,Coritiba,1,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-04-29,Palmeiras,2,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-04-29,RB Bragantino,0,3,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-04-29,Santos,3,2,América-MG,False,False,first,Brasileirão Série A,2023
-2023-04-29,Atlético-MG,2,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-04-30,Flamengo,2,3,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-04-30,Internacional,1,0,Goiás,False,False,first,Brasileirão Série A,2023
-2023-04-30,Cuiabá,1,2,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-05-01,Vasco da Gama,0,1,Bahia,False,False,first,Brasileirão Série A,2023
-2023-05-06,Cruzeiro,2,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-05-06,Fluminense,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-05-07,América-MG,1,2,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-05-07,Bahia,3,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-05-07,Athletico-PR,2,1,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-05-07,São Paulo,2,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-05-07,Grêmio,3,3,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-05-07,Botafogo,2,0,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-05-07,Goiás,0,5,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-05-08,Corinthians,1,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-05-10,Santos,3,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-05-10,RB Bragantino,2,2,América-MG,False,False,first,Brasileirão Série A,2023
-2023-05-10,Internacional,0,2,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-05-10,Cuiabá,0,4,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-05-10,Flamengo,2,0,Goiás,False,False,first,Brasileirão Série A,2023
-2023-05-10,Palmeiras,4,1,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-05-10,Cruzeiro,0,2,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-05-11,Botafogo,3,0,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-05-11,Coritiba,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-05-11,Fortaleza,0,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-05-13,Bahia,2,3,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-05-13,Palmeiras,1,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-05-13,Fluminense,2,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-05-13,Atlético-MG,2,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-05-14,Vasco da Gama,0,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-05-14,Corinthians,1,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-05-14,Grêmio,0,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-05-14,Athletico-PR,3,2,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-05-14,Goiás,2,1,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-05-14,América-MG,0,4,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-05-20,Bahia,1,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-05-20,América-MG,2,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-05-20,RB Bragantino,2,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-05-20,Coritiba,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-05-20,São Paulo,4,2,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-05-20,Botafogo,1,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-05-20,Santos,0,0,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-05-21,Flamengo,1,0,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-05-21,Grêmio,3,1,Internacional,False,False,first,Brasileirão Série A,2023
-2023-05-22,Cruzeiro,0,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-05-27,Fortaleza,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-05-27,Athletico-PR,1,2,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-05-27,Cuiabá,1,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-05-27,Flamengo,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-05-27,São Paulo,2,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-05-28,Internacional,2,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-05-28,Corinthians,2,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-05-28,Atlético-MG,1,1,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-05-28,RB Bragantino,2,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-05-28,Botafogo,2,0,América-MG,False,False,first,Brasileirão Série A,2023
-2023-06-03,Fortaleza,0,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-06-03,América-MG,2,0,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-06-03,Athletico-PR,1,0,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-06-03,Cruzeiro,0,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-06-03,Santos,1,1,Internacional,False,False,first,Brasileirão Série A,2023
-2023-06-04,Fluminense,2,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-06-04,Grêmio,2,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-06-04,Palmeiras,3,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-06-04,Goiás,0,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-06-05,Vasco da Gama,1,4,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-06-10,Coritiba,0,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-06-10,Atlético-MG,1,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-06-10,Bahia,2,2,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-06-10,Corinthians,1,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-06-10,Botafogo,2,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-06-11,América-MG,2,2,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-06-11,São Paulo,0,2,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-06-11,Internacional,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-06-11,Goiás,2,2,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-06-11,Flamengo,3,0,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-06-21,São Paulo,2,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-06-21,Cruzeiro,0,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-06-21,Santos,0,2,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-06-21,Fluminense,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-06-21,Bahia,1,0,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-06-22,Grêmio,3,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-06-22,Cuiabá,0,1,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-06-22,Coritiba,0,1,Internacional,False,False,first,Brasileirão Série A,2023
-2023-06-22,Vasco da Gama,0,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-06-22,RB Bragantino,4,0,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-06-24,Athletico-PR,1,0,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-06-24,Fluminense,2,1,Bahia,False,False,first,Brasileirão Série A,2023
-2023-06-24,Fortaleza,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-06-24,Cruzeiro,1,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-06-25,Grêmio,5,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-06-25,Palmeiras,0,1,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-06-25,América-MG,1,2,Internacional,False,False,first,Brasileirão Série A,2023
-2023-06-25,RB Bragantino,2,0,Goiás,False,False,first,Brasileirão Série A,2023
-2023-06-25,Santos,2,3,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-06-26,Vasco da Gama,1,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-07-01,São Paulo,1,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-07-01,Flamengo,2,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-07-01,Bahia,1,2,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-07-01,Internacional,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-07-02,Corinthians,0,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-07-02,Athletico-PR,2,2,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-07-02,Botafogo,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-07-02,Atlético-MG,2,2,América-MG,False,False,first,Brasileirão Série A,2023
-2023-07-02,Cuiabá,3,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-07-03,Goiás,1,2,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-07-08,Vasco da Gama,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-07-08,Cuiabá,1,1,Bahia,False,False,first,Brasileirão Série A,2023
-2023-07-08,Coritiba,3,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-07-08,Atlético-MG,0,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-07-08,Palmeiras,1,1,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-07-09,Santos,4,3,Goiás,False,False,first,Brasileirão Série A,2023
-2023-07-09,Fluminense,2,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-07-09,RB Bragantino,0,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-07-09,Grêmio,0,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-07-09,Fortaleza,1,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-07-15,Botafogo,2,0,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-07-16,Cruzeiro,0,0,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-07-16,São Paulo,4,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-07-16,Fortaleza,0,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-07-16,Fluminense,0,0,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-07-16,Internacional,0,0,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-07-16,Athletico-PR,2,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-07-17,Goiás,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-09-18,Corinthians,4,4,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-09-23,América-MG,0,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-07-22,Flamengo,1,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-07-22,Palmeiras,3,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-07-22,Bahia,0,0,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-07-22,Cuiabá,2,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-07-22,Grêmio,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-07-23,Santos,2,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-07-23,Cruzeiro,0,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-07-23,RB Bragantino,0,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-07-23,Vasco da Gama,0,2,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-07-24,Coritiba,2,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-07-29,Athletico-PR,3,3,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-07-29,Fluminense,1,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-07-29,Internacional,1,2,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-07-29,Corinthians,3,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-07-29,Fortaleza,0,3,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-07-29,Atlético-MG,1,2,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-07-30,São Paulo,0,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-07-30,Botafogo,4,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-07-30,América-MG,1,4,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-07-30,Goiás,1,1,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-08-05,Santos,1,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-08-05,Internacional,2,2,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-08-05,Goiás,1,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-08-05,Fluminense,2,1,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-08-06,São Paulo,0,2,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-08-06,Vasco da Gama,1,0,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-08-06,Coritiba,0,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-08-06,Bahia,3,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-08-06,Cruzeiro,0,0,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-08-06,Cuiabá,3,0,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-08-12,Botafogo,3,1,Internacional,False,False,first,Brasileirão Série A,2023
-2023-08-13,Atlético-MG,1,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-08-13,América-MG,0,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-08-13,Grêmio,2,1,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-08-13,Corinthians,3,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-08-13,Fortaleza,4,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-08-13,Flamengo,1,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-08-14,Palmeiras,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-08-14,RB Bragantino,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-08-15,Athletico-PR,2,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-08-19,São Paulo,0,0,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-08-19,Internacional,0,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-08-19,Fluminense,3,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-08-19,Cuiabá,0,2,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-08-19,Cruzeiro,1,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-08-20,Vasco da Gama,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-08-20,Coritiba,2,3,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-08-20,Santos,2,1,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-08-20,Bahia,4,0,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-08-21,Goiás,1,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-08-26,Flamengo,0,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-08-26,Corinthians,1,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-08-27,RB Bragantino,2,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-08-27,Botafogo,3,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-08-27,Atlético-MG,2,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-08-27,América-MG,2,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-08-27,Fortaleza,3,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-08-27,Athletico-PR,2,2,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-08-27,Palmeiras,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-08-27,Grêmio,3,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-09-02,Athletico-PR,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-09-02,Goiás,0,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-09-02,Botafogo,1,2,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-09-03,Grêmio,2,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-09-03,Fluminense,1,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-09-03,Corinthians,0,0,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-09-03,América-MG,2,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-09-03,Cruzeiro,0,0,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-09-03,Bahia,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-09-27,São Paulo,2,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-09-13,Flamengo,0,3,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-09-13,Internacional,2,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-09-14,Santos,0,3,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-09-14,Fortaleza,2,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-09-14,Coritiba,2,4,Bahia,False,False,first,Brasileirão Série A,2023
-2023-09-14,RB Bragantino,2,0,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-09-15,Cuiabá,2,2,América-MG,False,False,first,Brasileirão Série A,2023
-2023-09-15,Palmeiras,1,0,Goiás,False,False,first,Brasileirão Série A,2023
-2023-09-16,Vasco da Gama,4,2,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-09-16,Atlético-MG,1,0,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-09-18,Bahia,1,2,Santos,False,False,first,Brasileirão Série A,2023
-2023-09-19,América-MG,0,2,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-09-20,Goiás,0,0,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-09-20,Fluminense,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-09-20,São Paulo,1,2,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-09-21,Vasco da Gama,5,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-09-21,Athletico-PR,2,1,Internacional,False,False,first,Brasileirão Série A,2023
-2023-09-21,Grêmio,1,0,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-09-22,Corinthians,1,0,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-09-23,Atlético-MG,1,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-09-30,Flamengo,1,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-09-30,Fortaleza,1,1,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-09-30,São Paulo,2,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-09-30,Cuiabá,3,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-09-30,Internacional,0,2,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-10-01,Santos,4,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-10-01,Cruzeiro,1,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-10-01,Coritiba,2,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-10-01,RB Bragantino,2,1,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-10-02,Botafogo,1,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-10-07,Goiás,4,6,Bahia,False,False,first,Brasileirão Série A,2023
-2023-10-07,Vasco da Gama,0,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-10-07,Corinthians,1,1,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-10-08,Internacional,3,2,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-10-08,Palmeiras,1,2,Santos,False,False,first,Brasileirão Série A,2023
-2023-10-08,Fluminense,0,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-10-08,Atlético-MG,1,2,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-10-08,Athletico-PR,1,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-10-08,Fortaleza,3,2,América-MG,False,False,first,Brasileirão Série A,2023
-2023-10-14,Cuiabá,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-10-18,Grêmio,1,2,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-10-18,América-MG,1,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-10-18,Coritiba,0,3,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-10-18,Vasco da Gama,1,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-10-18,Bahia,1,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-10-18,Goiás,2,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-10-19,Palmeiras,0,2,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-10-19,Cruzeiro,0,2,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-10-19,Santos,1,3,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-10-19,Fluminense,3,3,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-10-21,Bahia,2,0,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-10-21,Cuiabá,1,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-10-21,São Paulo,3,0,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-10-21,Botafogo,1,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-10-22,Internacional,7,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-10-22,Atlético-MG,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-10-22,Flamengo,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-10-22,Corinthians,1,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-10-22,RB Bragantino,1,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-10-22,Coritiba,0,2,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-10-25,Fluminense,5,3,Goiás,False,False,first,Brasileirão Série A,2023
-2023-10-25,RB Bragantino,1,2,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-10-25,Athletico-PR,3,2,América-MG,False,False,first,Brasileirão Série A,2023
-2023-10-25,Cruzeiro,3,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-10-25,Palmeiras,5,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-10-25,Grêmio,3,2,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-10-25,Cuiabá,0,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-10-26,Vasco da Gama,1,2,Internacional,False,False,first,Brasileirão Série A,2023
-2023-10-26,Santos,2,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-11-23,Fortaleza,2,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-10-28,América-MG,3,4,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-10-28,Palmeiras,1,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-10-28,Atlético-MG,2,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-10-29,Athletico-PR,1,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-10-29,Goiás,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-10-29,Corinthians,1,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-10-29,Internacional,3,4,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-10-29,Botafogo,0,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-11-18,Fortaleza,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-11-23,Flamengo,1,0,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-10-31,Bahia,1,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-11-01,Corinthians,1,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-11-01,Internacional,1,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-11-01,Coritiba,1,2,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-11-01,Flamengo,1,2,Santos,False,False,first,Brasileirão Série A,2023
-2023-11-01,Atlético-MG,3,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-11-01,Botafogo,3,4,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-11-02,Cuiabá,0,2,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-11-02,Goiás,0,2,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-11-02,São Paulo,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-11-04,América-MG,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-11-04,Grêmio,1,0,Bahia,False,False,first,Brasileirão Série A,2023
-2023-11-04,Palmeiras,1,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-11-05,RB Bragantino,1,0,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-11-05,Cruzeiro,1,2,Internacional,False,False,first,Brasileirão Série A,2023
-2023-11-05,Fortaleza,0,2,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-11-05,Coritiba,0,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-11-06,Vasco da Gama,1,0,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-11-06,Santos,0,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-11-22,Fluminense,1,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-11-08,América-MG,0,3,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-11-08,Internacional,0,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-11-08,Athletico-PR,1,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-11-08,São Paulo,1,0,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-11-08,Flamengo,3,0,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-11-09,Corinthians,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-11-09,Goiás,0,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-11-09,Botafogo,3,4,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-11-09,Bahia,0,3,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-11-22,Cruzeiro,2,2,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-11-11,Coritiba,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-11-11,Flamengo,1,1,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-11-11,Palmeiras,3,0,Internacional,False,False,first,Brasileirão Série A,2023
-2023-11-12,RB Bragantino,2,2,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-11-12,Grêmio,0,1,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-11-12,Atlético-MG,2,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-11-12,Santos,0,0,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-11-12,Cuiabá,2,1,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-11-12,Vasco da Gama,2,1,América-MG,False,False,first,Brasileirão Série A,2023
-2023-11-12,Bahia,1,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-11-24,Corinthians,1,5,Bahia,False,False,first,Brasileirão Série A,2023
-2023-11-25,Athletico-PR,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-11-25,Fluminense,2,1,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-11-26,Botafogo,1,1,Santos,False,False,first,Brasileirão Série A,2023
-2023-11-26,Atlético-MG,3,0,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-11-26,Internacional,1,0,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-11-26,Fortaleza,2,2,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-11-26,São Paulo,0,0,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-11-26,América-MG,0,3,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-11-27,Goiás,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-11-28,Vasco da Gama,2,4,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-11-29,Santos,0,3,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-11-29,Flamengo,0,3,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-11-29,Cuiabá,0,2,Internacional,False,False,first,Brasileirão Série A,2023
-2023-11-29,Bahia,0,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-11-29,Coritiba,1,1,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-11-29,Palmeiras,4,0,América-MG,False,False,first,Brasileirão Série A,2023
-2023-11-30,Grêmio,2,1,Goiás,False,False,first,Brasileirão Série A,2023
-2023-11-30,Cruzeiro,1,1,Athletico-PR,False,False,first,Brasileirão Série A,2023
-2023-11-30,RB Bragantino,1,2,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-12-02,Corinthians,1,2,Internacional,False,False,first,Brasileirão Série A,2023
-2023-12-02,Atlético-MG,2,1,São Paulo,False,False,first,Brasileirão Série A,2023
-2023-12-03,Flamengo,2,1,Cuiabá,False,False,first,Brasileirão Série A,2023
-2023-12-03,Palmeiras,1,0,Fluminense,False,False,first,Brasileirão Série A,2023
-2023-12-03,América-MG,3,2,Bahia,False,False,first,Brasileirão Série A,2023
-2023-12-03,Athletico-PR,3,0,Santos,False,False,first,Brasileirão Série A,2023
-2023-12-03,Fortaleza,1,0,Goiás,False,False,first,Brasileirão Série A,2023
-2023-12-03,Grêmio,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2023
-2023-12-03,RB Bragantino,1,0,Coritiba,False,False,first,Brasileirão Série A,2023
-2023-12-03,Botafogo,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2023
-2023-12-06,Goiás,1,0,América-MG,False,False,first,Brasileirão Série A,2023
-2023-12-06,Fluminense,2,3,Grêmio,False,False,first,Brasileirão Série A,2023
-2023-12-06,Vasco da Gama,2,1,RB Bragantino,False,False,first,Brasileirão Série A,2023
-2023-12-06,São Paulo,1,0,Flamengo,False,False,first,Brasileirão Série A,2023
-2023-12-06,Santos,1,2,Fortaleza,False,False,first,Brasileirão Série A,2023
-2023-12-06,Cruzeiro,1,1,Palmeiras,False,False,first,Brasileirão Série A,2023
-2023-12-06,Internacional,3,1,Botafogo,False,False,first,Brasileirão Série A,2023
-2023-12-06,Coritiba,0,2,Corinthians,False,False,first,Brasileirão Série A,2023
-2023-12-06,Bahia,4,1,Atlético-MG,False,False,first,Brasileirão Série A,2023
-2023-12-06,Cuiabá,3,0,Athletico-PR,False,False,first,Brasileirão Série A,2023
+2023-04-15,Palmeiras,2,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-15,América-MG,0,3,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-15,Athletico-PR,2,0,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-15,Botafogo,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-15,RB Bragantino,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-15,Fortaleza,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-15,Atlético-MG,1,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-16,Corinthians,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-16,Flamengo,3,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-16,Grêmio,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-22,Fluminense,2,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-22,Cuiabá,1,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-22,São Paulo,3,0,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-22,Cruzeiro,1,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-23,Internacional,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-23,Vasco da Gama,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-23,Santos,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-23,Coritiba,0,3,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-23,Goiás,3,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-24,Bahia,1,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-29,Fortaleza,4,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-29,Coritiba,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-29,Palmeiras,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-29,RB Bragantino,0,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-29,Santos,3,2,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-29,Atlético-MG,2,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-30,Flamengo,2,3,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-30,Internacional,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-04-30,Cuiabá,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-01,Vasco da Gama,0,1,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-06,Cruzeiro,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-06,Fluminense,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,América-MG,1,2,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,Bahia,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,Athletico-PR,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,São Paulo,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,Grêmio,3,3,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,Botafogo,2,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-07,Goiás,0,5,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-08,Corinthians,1,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,Santos,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,RB Bragantino,2,2,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,Internacional,0,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,Cuiabá,0,4,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,Flamengo,2,0,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,Palmeiras,4,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-10,Cruzeiro,0,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-11,Botafogo,3,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-11,Coritiba,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-11,Fortaleza,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-13,Bahia,2,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-13,Palmeiras,1,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-13,Fluminense,2,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-13,Atlético-MG,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-14,Vasco da Gama,0,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-14,Corinthians,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-14,Grêmio,0,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-14,Athletico-PR,3,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-14,Goiás,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-14,América-MG,0,4,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,Bahia,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,América-MG,2,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,RB Bragantino,2,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,Coritiba,1,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,São Paulo,4,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,Botafogo,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-20,Santos,0,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-21,Flamengo,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-21,Grêmio,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-22,Cruzeiro,0,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-27,Fortaleza,2,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-27,Athletico-PR,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-27,Cuiabá,1,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-27,Flamengo,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-27,São Paulo,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-28,Internacional,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-28,Corinthians,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-28,Atlético-MG,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-28,RB Bragantino,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-05-28,Botafogo,2,0,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-03,Fortaleza,0,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-03,América-MG,2,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-03,Athletico-PR,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-03,Cruzeiro,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-03,Santos,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-04,Fluminense,2,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-04,Grêmio,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-04,Palmeiras,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-04,Goiás,0,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-05,Vasco da Gama,1,4,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-10,Coritiba,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-10,Atlético-MG,1,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-10,Bahia,2,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-10,Corinthians,1,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-10,Botafogo,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-11,América-MG,2,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-11,São Paulo,0,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-11,Internacional,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-11,Goiás,2,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-11,Flamengo,3,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-21,São Paulo,2,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-21,Cruzeiro,0,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-21,Santos,0,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-21,Fluminense,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-21,Bahia,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-22,Grêmio,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-22,Cuiabá,0,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-22,Coritiba,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-22,Vasco da Gama,0,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-22,RB Bragantino,4,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-24,Athletico-PR,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-24,Fluminense,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-24,Fortaleza,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-24,Cruzeiro,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-25,Grêmio,5,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-25,Palmeiras,0,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-25,América-MG,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-25,RB Bragantino,2,0,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-25,Santos,2,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-06-26,Vasco da Gama,1,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-01,São Paulo,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-01,Flamengo,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-01,Bahia,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-01,Internacional,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-02,Corinthians,0,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-02,Athletico-PR,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-02,Botafogo,2,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-02,Atlético-MG,2,2,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-02,Cuiabá,3,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-03,Goiás,1,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-08,Vasco da Gama,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-08,Cuiabá,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-08,Coritiba,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-08,Atlético-MG,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-08,Palmeiras,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-09,Santos,4,3,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-09,Fluminense,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-09,RB Bragantino,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-09,Grêmio,0,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-09,Fortaleza,1,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-15,Botafogo,2,0,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-16,Cruzeiro,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-16,São Paulo,4,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-16,Fortaleza,0,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-16,Fluminense,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-16,Internacional,0,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-16,Athletico-PR,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-17,Goiás,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-18,Corinthians,4,4,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-23,América-MG,0,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-22,Flamengo,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-22,Palmeiras,3,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-22,Bahia,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-22,Cuiabá,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-22,Grêmio,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-23,Santos,2,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-23,Cruzeiro,0,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-23,RB Bragantino,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-23,Vasco da Gama,0,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-24,Coritiba,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-29,Athletico-PR,3,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-29,Fluminense,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-29,Internacional,1,2,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-29,Corinthians,3,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-29,Fortaleza,0,3,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-29,Atlético-MG,1,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-30,São Paulo,0,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-30,Botafogo,4,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-30,América-MG,1,4,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-07-30,Goiás,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-05,Santos,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-05,Internacional,2,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-05,Goiás,1,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-05,Fluminense,2,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-06,São Paulo,0,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-06,Vasco da Gama,1,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-06,Coritiba,0,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-06,Bahia,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-06,Cruzeiro,0,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-06,Cuiabá,3,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-12,Botafogo,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-13,Atlético-MG,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-13,América-MG,0,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-13,Grêmio,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-13,Corinthians,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-13,Fortaleza,4,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-13,Flamengo,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-14,Palmeiras,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-14,RB Bragantino,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-15,Athletico-PR,2,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-19,São Paulo,0,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-19,Internacional,0,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-19,Fluminense,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-19,Cuiabá,0,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-19,Cruzeiro,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-20,Vasco da Gama,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-20,Coritiba,2,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-20,Santos,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-20,Bahia,4,0,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-21,Goiás,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-26,Flamengo,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-26,Corinthians,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,RB Bragantino,2,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,Botafogo,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,Atlético-MG,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,América-MG,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,Fortaleza,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,Athletico-PR,2,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,Palmeiras,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-08-27,Grêmio,3,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-02,Athletico-PR,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-02,Goiás,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-02,Botafogo,1,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-03,Grêmio,2,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-03,Fluminense,1,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-03,Corinthians,0,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-03,América-MG,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-03,Cruzeiro,0,0,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-03,Bahia,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-27,São Paulo,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-13,Flamengo,0,3,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-13,Internacional,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-14,Santos,0,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-14,Fortaleza,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-14,Coritiba,2,4,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-14,RB Bragantino,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-15,Cuiabá,2,2,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-15,Palmeiras,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-16,Vasco da Gama,4,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-16,Atlético-MG,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-18,Bahia,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-19,América-MG,0,2,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-20,Goiás,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-20,Fluminense,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-20,São Paulo,1,2,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-21,Vasco da Gama,5,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-21,Athletico-PR,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-21,Grêmio,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-22,Corinthians,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-23,Atlético-MG,1,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-30,Flamengo,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-30,Fortaleza,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-30,São Paulo,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-30,Cuiabá,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-09-30,Internacional,0,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-01,Santos,4,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-01,Cruzeiro,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-01,Coritiba,2,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-01,RB Bragantino,2,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-02,Botafogo,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-07,Goiás,4,6,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-07,Vasco da Gama,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-07,Corinthians,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-08,Internacional,3,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-08,Palmeiras,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-08,Fluminense,0,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-08,Atlético-MG,1,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-08,Athletico-PR,1,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-08,Fortaleza,3,2,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-14,Cuiabá,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-18,Grêmio,1,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-18,América-MG,1,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-18,Coritiba,0,3,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-18,Vasco da Gama,1,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-18,Bahia,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-18,Goiás,2,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-19,Palmeiras,0,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-19,Cruzeiro,0,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-19,Santos,1,3,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-19,Fluminense,3,3,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-21,Bahia,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-21,Cuiabá,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-21,São Paulo,3,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-21,Botafogo,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-22,Internacional,7,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-22,Atlético-MG,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-22,Flamengo,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-22,Corinthians,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-22,RB Bragantino,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-22,Coritiba,0,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,Fluminense,5,3,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,RB Bragantino,1,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,Athletico-PR,3,2,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,Cruzeiro,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,Palmeiras,5,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,Grêmio,3,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-25,Cuiabá,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-26,Vasco da Gama,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-26,Santos,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-23,Fortaleza,2,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-28,América-MG,3,4,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-28,Palmeiras,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-28,Atlético-MG,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-29,Athletico-PR,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-29,Goiás,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-29,Corinthians,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-29,Internacional,3,4,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-29,Botafogo,0,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-18,Fortaleza,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-23,Flamengo,1,0,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-10-31,Bahia,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-01,Corinthians,1,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-01,Internacional,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-01,Coritiba,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-01,Flamengo,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-01,Atlético-MG,3,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-01,Botafogo,3,4,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-02,Cuiabá,0,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-02,Goiás,0,2,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-02,São Paulo,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-04,América-MG,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-04,Grêmio,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-04,Palmeiras,1,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-05,RB Bragantino,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-05,Cruzeiro,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-05,Fortaleza,0,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-05,Coritiba,0,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-06,Vasco da Gama,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-06,Santos,0,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-22,Fluminense,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-08,América-MG,0,3,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-08,Internacional,0,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-08,Athletico-PR,1,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-08,São Paulo,1,0,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-08,Flamengo,3,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-09,Corinthians,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-09,Goiás,0,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-09,Botafogo,3,4,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-09,Bahia,0,3,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-22,Cruzeiro,2,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-11,Coritiba,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-11,Flamengo,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-11,Palmeiras,3,0,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,RB Bragantino,2,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,Grêmio,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,Atlético-MG,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,Santos,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,Cuiabá,2,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,Vasco da Gama,2,1,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-12,Bahia,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-24,Corinthians,1,5,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-25,Athletico-PR,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-25,Fluminense,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-26,Botafogo,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-26,Atlético-MG,3,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-26,Internacional,1,0,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-26,Fortaleza,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-26,São Paulo,0,0,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-26,América-MG,0,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-27,Goiás,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-28,Vasco da Gama,2,4,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-29,Santos,0,3,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-29,Flamengo,0,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-29,Cuiabá,0,2,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-29,Bahia,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-29,Coritiba,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-29,Palmeiras,4,0,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-30,Grêmio,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-30,Cruzeiro,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023
+2023-11-30,RB Bragantino,1,2,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-02,Corinthians,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-02,Atlético-MG,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,Flamengo,2,1,Cuiabá,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,Palmeiras,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,América-MG,3,2,Bahia,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,Athletico-PR,3,0,Santos,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,Fortaleza,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,Grêmio,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,RB Bragantino,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-03,Botafogo,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Goiás,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Fluminense,2,3,Grêmio,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Vasco da Gama,2,1,RB Bragantino,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,São Paulo,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Santos,1,2,Fortaleza,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Cruzeiro,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Internacional,3,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Coritiba,0,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Bahia,4,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2023
+2023-12-06,Cuiabá,3,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2023

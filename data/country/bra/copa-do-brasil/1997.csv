@@ -1,79 +1,79 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1997-02-18,Guará,0,7,Internacional,False,False,first,Copa de Brasil,1997
-1997-02-18,Mixto,0,3,Corinthians,False,False,first,Copa de Brasil,1997
-1997-02-18,Ypiranga-AP,1,0,Remo,False,False,first,Copa de Brasil,1997
-1997-02-25,Remo,5,0,Ypiranga-AP,False,False,first,Copa de Brasil,1997
-1997-02-20,CSA,2,6,Atletico-PR,False,False,first,Copa de Brasil,1997
-1997-02-20,Operário-MS,2,2,Santa Cruz-PE,False,False,first,Copa de Brasil,1997
-1997-02-25,Santa Cruz-PE,6,1,Operário-MS,False,False,first,Copa de Brasil,1997
-1997-02-20,Desportiva,1,1,Santos,False,False,first,Copa de Brasil,1997
-1997-02-27,Santos,5,1,Desportiva,False,False,first,Copa de Brasil,1997
-1997-02-20,Paysandu,2,1,Vila Nova-GO,False,False,first,Copa de Brasil,1997
-1997-02-27,Vila Nova-GO,3,0,Paysandu,False,False,first,Copa de Brasil,1997
-1997-02-25,Santa Cruz-PB,0,4,Fluminense,False,False,first,Copa de Brasil,1997
-1997-02-25,Rio Branco-AC,3,2,Bare,False,False,first,Copa de Brasil,1997
-1997-03-03,Bare,1,1,Rio Branco-AC,False,False,first,Copa de Brasil,1997
-1997-02-25,Kaburé,1,1,Portuguesa,False,False,first,Copa de Brasil,1997
-1997-03-04,Portuguesa,8,0,Kaburé,False,False,first,Copa de Brasil,1997
-1997-02-27,Ji-Paraná,1,3,Botafogo,False,False,first,Copa de Brasil,1997
-1997-02-27,América-MG,1,1,Bahia,False,False,first,Copa de Brasil,1997
-1997-03-06,Bahia,2,0,América-MG,False,False,first,Copa de Brasil,1997
-1997-02-20,Sergipe,3,5,Vasco da Gama,False,False,first,Copa de Brasil,1997
-1997-02-25,River-PI,0,0,Palmeiras,False,False,first,Copa de Brasil,1997
-1997-03-11,Palmeiras,7,1,River-PI,False,False,first,Copa de Brasil,1997
-1997-02-27,Nacional-AM,2,6,Flamengo,False,False,first,Copa de Brasil,1997
-1997-03-04,Santa Cruz-PE,1,1,Cruzeiro,False,False,first,Copa de Brasil,1997
-1997-03-26,Cruzeiro,0,1,Santa Cruz-PE,False,False,first,Copa de Brasil,1997
-1997-03-06,Paraná,1,1,Internacional,False,False,first,Copa de Brasil,1997
-1997-03-13,Internacional,3,0,Paraná,False,False,first,Copa de Brasil,1997
-1997-03-11,Vila Nova-GO,2,3,São Paulo,False,False,first,Copa de Brasil,1997
-1997-03-25,São Paulo,2,0,Vila Nova-GO,False,False,first,Copa de Brasil,1997
-1997-03-12,Botafogo,0,3,Vitória,False,False,first,Copa de Brasil,1997
-1997-03-12,Ceará,1,0,Fluminense,False,False,first,Copa de Brasil,1997
-1997-03-20,Fluminense,0,0,Ceará,False,False,first,Copa de Brasil,1997
-1997-03-13,Figueirense-SC,0,1,Santos,False,False,first,Copa de Brasil,1997
-1997-03-18,Santos,3,2,Figueirense-SC,False,False,first,Copa de Brasil,1997
-1997-03-13,Remo,3,3,Atletico-MG,False,False,first,Copa de Brasil,1997
-1997-03-19,Atletico-MG,3,2,Remo,False,False,first,Copa de Brasil,1997
-1997-03-13,Rio Branco-AC,1,0,Goiás,False,False,first,Copa de Brasil,1997
-1997-03-20,Goiás,2,1,Rio Branco-AC,False,False,first,Copa de Brasil,1997
-1997-03-13,Bahia,2,2,Coritiba,False,False,first,Copa de Brasil,1997
-1997-03-20,Coritiba,1,0,Bahia,False,False,first,Copa de Brasil,1997
-1997-03-13,Corinthians,2,0,Juventude,False,False,first,Copa de Brasil,1997
-1997-03-20,Juventude,2,0,Corinthians,False,False,first,Copa de Brasil,1997
-1997-03-13,América-RN,1,0,Portuguesa,False,False,first,Copa de Brasil,1997
-1997-03-20,Portuguesa,3,0,América-RN,False,False,first,Copa de Brasil,1997
-1997-03-14,Atletico-PR,3,0,Sport,False,False,first,Copa de Brasil,1997
-1997-03-20,Sport,1,1,Atletico-PR,False,False,first,Copa de Brasil,1997
-1997-03-18,Fortaleza,2,3,Grêmio,False,False,first,Copa de Brasil,1997
-1997-03-25,Grêmio,3,1,Fortaleza,False,False,first,Copa de Brasil,1997
-1997-03-25,Coritiba,0,1,Palmeiras,False,False,round16,Copa de Brasil,1997
-1997-04-03,Palmeiras,4,2,Coritiba,False,False,round16,Copa de Brasil,1997
-1997-03-26,Santos,2,0,Internacional,False,False,round16,Copa de Brasil,1997
-1997-04-03,Internacional,2,0,Santos,False,False,round16,Copa de Brasil,1997
-1997-03-26,Corinthians,1,0,Atletico-MG,False,False,round16,Copa de Brasil,1997
-1997-04-03,Atletico-MG,1,1,Corinthians,False,False,round16,Copa de Brasil,1997
-1997-04-03,Vitória,2,1,São Paulo,False,False,round16,Copa de Brasil,1997
-1997-04-08,São Paulo,2,2,Vitória,False,False,round16,Copa de Brasil,1997
-1997-04-03,Ceará,3,2,Santa Cruz-PE,False,False,round16,Copa de Brasil,1997
-1997-04-08,Santa Cruz-PE,0,1,Ceará,False,False,round16,Copa de Brasil,1997
-1997-04-03,Rio Branco-AC,2,1,Flamengo,False,False,round16,Copa de Brasil,1997
-1997-04-10,Flamengo,5,1,Rio Branco-AC,False,False,round16,Copa de Brasil,1997
-1997-04-03,Atletico-PR,3,1,Vasco da Gama,False,False,round16,Copa de Brasil,1997
-1997-04-10,Vasco da Gama,4,3,Atletico-PR,False,False,round16,Copa de Brasil,1997
-1997-04-04,Grêmio,2,1,Portuguesa,False,False,round16,Copa de Brasil,1997
-1997-04-08,Portuguesa,1,1,Grêmio,False,False,round16,Copa de Brasil,1997
-1997-04-17,Internacional,1,1,Flamengo,False,False,quarter,Copa de Brasil,1997
-1997-04-25,Flamengo,1,0,Internacional,False,False,quarter,Copa de Brasil,1997
-1997-04-15,Ceará,2,5,Palmeiras,False,False,quarter,Copa de Brasil,1997
-1997-04-29,Palmeiras,5,0,Ceará,False,False,quarter,Copa de Brasil,1997
-1997-04-15,Corinthians,1,2,Atletico-PR,False,False,quarter,Copa de Brasil,1997
-1997-04-22,Atletico-PR,2,6,Corinthians,False,False,quarter,Copa de Brasil,1997
-1997-04-18,Grêmio,2,0,Vitória,False,False,quarter,Copa de Brasil,1997
-1997-05-03,Vitória,3,3,Grêmio,False,False,quarter,Copa de Brasil,1997
-1997-05-06,Flamengo,2,0,Palmeiras,False,False,semi,Copa de Brasil,1997
-1997-05-13,Palmeiras,0,1,Flamengo,False,False,semi,Copa de Brasil,1997
-1997-05-08,Corinthians,1,2,Grêmio,False,False,semi,Copa de Brasil,1997
-1997-05-15,Grêmio,1,1,Corinthians,False,False,semi,Copa de Brasil,1997
-1997-05-20,Grêmio,0,0,Flamengo,False,False,final,Copa de Brasil,1997
-1997-05-22,Flamengo,2,2,Grêmio,False,False,final,Copa de Brasil,1997
+1997-02-18,Guará,0,7,Internacional,False,False,First Round,Copa de Brasil,1997
+1997-02-18,Mixto,0,3,Corinthians,False,False,First Round,Copa de Brasil,1997
+1997-02-18,Ypiranga-AP,1,0,Remo,False,False,First Round,Copa de Brasil,1997
+1997-02-25,Remo,5,0,Ypiranga-AP,False,False,First Round,Copa de Brasil,1997
+1997-02-20,CSA,2,6,Atletico-PR,False,False,First Round,Copa de Brasil,1997
+1997-02-20,Operário-MS,2,2,Santa Cruz-PE,False,False,First Round,Copa de Brasil,1997
+1997-02-25,Santa Cruz-PE,6,1,Operário-MS,False,False,First Round,Copa de Brasil,1997
+1997-02-20,Desportiva,1,1,Santos,False,False,First Round,Copa de Brasil,1997
+1997-02-27,Santos,5,1,Desportiva,False,False,First Round,Copa de Brasil,1997
+1997-02-20,Paysandu,2,1,Vila Nova-GO,False,False,First Round,Copa de Brasil,1997
+1997-02-27,Vila Nova-GO,3,0,Paysandu,False,False,First Round,Copa de Brasil,1997
+1997-02-25,Santa Cruz-PB,0,4,Fluminense,False,False,First Round,Copa de Brasil,1997
+1997-02-25,Rio Branco-AC,3,2,Bare,False,False,First Round,Copa de Brasil,1997
+1997-03-03,Bare,1,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,1997
+1997-02-25,Kaburé,1,1,Portuguesa,False,False,First Round,Copa de Brasil,1997
+1997-03-04,Portuguesa,8,0,Kaburé,False,False,First Round,Copa de Brasil,1997
+1997-02-27,Ji-Paraná,1,3,Botafogo,False,False,First Round,Copa de Brasil,1997
+1997-02-27,América-MG,1,1,Bahia,False,False,First Round,Copa de Brasil,1997
+1997-03-06,Bahia,2,0,América-MG,False,False,First Round,Copa de Brasil,1997
+1997-02-20,Sergipe,3,5,Vasco da Gama,False,False,First Round,Copa de Brasil,1997
+1997-02-25,River-PI,0,0,Palmeiras,False,False,First Round,Copa de Brasil,1997
+1997-03-11,Palmeiras,7,1,River-PI,False,False,First Round,Copa de Brasil,1997
+1997-02-27,Nacional-AM,2,6,Flamengo,False,False,First Round,Copa de Brasil,1997
+1997-03-04,Santa Cruz-PE,1,1,Cruzeiro,False,False,First Round,Copa de Brasil,1997
+1997-03-26,Cruzeiro,0,1,Santa Cruz-PE,False,False,First Round,Copa de Brasil,1997
+1997-03-06,Paraná,1,1,Internacional,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Internacional,3,0,Paraná,False,False,First Round,Copa de Brasil,1997
+1997-03-11,Vila Nova-GO,2,3,São Paulo,False,False,First Round,Copa de Brasil,1997
+1997-03-25,São Paulo,2,0,Vila Nova-GO,False,False,First Round,Copa de Brasil,1997
+1997-03-12,Botafogo,0,3,Vitória,False,False,First Round,Copa de Brasil,1997
+1997-03-12,Ceará,1,0,Fluminense,False,False,First Round,Copa de Brasil,1997
+1997-03-20,Fluminense,0,0,Ceará,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Figueirense-SC,0,1,Santos,False,False,First Round,Copa de Brasil,1997
+1997-03-18,Santos,3,2,Figueirense-SC,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Remo,3,3,Atletico-MG,False,False,First Round,Copa de Brasil,1997
+1997-03-19,Atletico-MG,3,2,Remo,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Rio Branco-AC,1,0,Goiás,False,False,First Round,Copa de Brasil,1997
+1997-03-20,Goiás,2,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Bahia,2,2,Coritiba,False,False,First Round,Copa de Brasil,1997
+1997-03-20,Coritiba,1,0,Bahia,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Corinthians,2,0,Juventude,False,False,First Round,Copa de Brasil,1997
+1997-03-20,Juventude,2,0,Corinthians,False,False,First Round,Copa de Brasil,1997
+1997-03-13,América-RN,1,0,Portuguesa,False,False,First Round,Copa de Brasil,1997
+1997-03-20,Portuguesa,3,0,América-RN,False,False,First Round,Copa de Brasil,1997
+1997-03-14,Atletico-PR,3,0,Sport,False,False,First Round,Copa de Brasil,1997
+1997-03-20,Sport,1,1,Atletico-PR,False,False,First Round,Copa de Brasil,1997
+1997-03-18,Fortaleza,2,3,Grêmio,False,False,First Round,Copa de Brasil,1997
+1997-03-25,Grêmio,3,1,Fortaleza,False,False,First Round,Copa de Brasil,1997
+1997-03-25,Coritiba,0,1,Palmeiras,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Palmeiras,4,2,Coritiba,False,False,Round of 16,Copa de Brasil,1997
+1997-03-26,Santos,2,0,Internacional,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Internacional,2,0,Santos,False,False,Round of 16,Copa de Brasil,1997
+1997-03-26,Corinthians,1,0,Atletico-MG,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Atletico-MG,1,1,Corinthians,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Vitória,2,1,São Paulo,False,False,Round of 16,Copa de Brasil,1997
+1997-04-08,São Paulo,2,2,Vitória,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Ceará,3,2,Santa Cruz-PE,False,False,Round of 16,Copa de Brasil,1997
+1997-04-08,Santa Cruz-PE,0,1,Ceará,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Rio Branco-AC,2,1,Flamengo,False,False,Round of 16,Copa de Brasil,1997
+1997-04-10,Flamengo,5,1,Rio Branco-AC,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Atletico-PR,3,1,Vasco da Gama,False,False,Round of 16,Copa de Brasil,1997
+1997-04-10,Vasco da Gama,4,3,Atletico-PR,False,False,Round of 16,Copa de Brasil,1997
+1997-04-04,Grêmio,2,1,Portuguesa,False,False,Round of 16,Copa de Brasil,1997
+1997-04-08,Portuguesa,1,1,Grêmio,False,False,Round of 16,Copa de Brasil,1997
+1997-04-17,Internacional,1,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,1997
+1997-04-25,Flamengo,1,0,Internacional,False,False,Quarterfinal,Copa de Brasil,1997
+1997-04-15,Ceará,2,5,Palmeiras,False,False,Quarterfinal,Copa de Brasil,1997
+1997-04-29,Palmeiras,5,0,Ceará,False,False,Quarterfinal,Copa de Brasil,1997
+1997-04-15,Corinthians,1,2,Atletico-PR,False,False,Quarterfinal,Copa de Brasil,1997
+1997-04-22,Atletico-PR,2,6,Corinthians,False,False,Quarterfinal,Copa de Brasil,1997
+1997-04-18,Grêmio,2,0,Vitória,False,False,Quarterfinal,Copa de Brasil,1997
+1997-05-03,Vitória,3,3,Grêmio,False,False,Quarterfinal,Copa de Brasil,1997
+1997-05-06,Flamengo,2,0,Palmeiras,False,False,Semifinal,Copa de Brasil,1997
+1997-05-13,Palmeiras,0,1,Flamengo,False,False,Semifinal,Copa de Brasil,1997
+1997-05-08,Corinthians,1,2,Grêmio,False,False,Semifinal,Copa de Brasil,1997
+1997-05-15,Grêmio,1,1,Corinthians,False,False,Semifinal,Copa de Brasil,1997
+1997-05-20,Grêmio,0,0,Flamengo,False,False,Final,Copa de Brasil,1997
+1997-05-22,Flamengo,2,2,Grêmio,False,False,Final,Copa de Brasil,1997

@@ -1,381 +1,381 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2011-05-21,Ceará,1,3,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-05-21,Atlético-MG,3,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-05-21,Flamengo,4,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-05-21,Santos,1,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-05-22,Coritiba,0,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-05-22,Palmeiras,1,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-05-22,Figueirense,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-05-22,Grêmio,1,2,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-05-22,América-MG,2,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-05-22,Fluminense,0,2,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-05-28,Internacional,0,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-05-28,Botafogo,1,0,Santos,False,False,first,Brasileirão Série A,2011
-2011-05-28,Avaí,1,3,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-05-28,São Paulo,1,0,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-05-29,Cruzeiro,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-05-29,Corinthians,2,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-05-29,Bahia,3,3,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-05-29,Atlético-PR,0,1,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-05-29,Atlético-GO,0,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-05-29,Vasco da Gama,3,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-06-04,Palmeiras,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-06-04,Fluminense,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-06-04,Ceará,2,2,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-06-04,Figueirense,2,0,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-06-05,Grêmio,2,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-06-05,Flamengo,1,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-06-05,Coritiba,5,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-06-05,América-MG,2,4,Internacional,False,False,first,Brasileirão Série A,2011
-2011-06-05,Santos,3,1,Avaí,False,False,first,Brasileirão Série A,2011
-2011-06-09,Atlético-MG,0,1,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-06-11,Avaí,2,2,América-MG,False,False,first,Brasileirão Série A,2011
-2011-06-11,São Paulo,3,1,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-06-11,Cruzeiro,1,1,Santos,False,False,first,Brasileirão Série A,2011
-2011-06-11,Vasco da Gama,1,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-06-12,Atlético-GO,4,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-06-12,Internacional,2,2,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-06-12,Corinthians,2,0,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-06-12,Bahia,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-06-12,Atlético-PR,1,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-06-12,Botafogo,3,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-06-18,Fluminense,0,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-06-18,América-MG,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-06-19,Grêmio,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-06-19,Figueirense,2,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-06-19,Palmeiras,5,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-06-19,Ceará,0,2,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-06-19,Flamengo,0,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-06-19,Atlético-MG,2,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-06-19,Coritiba,1,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-08-10,Santos,0,0,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-06-25,Atlético-PR,0,2,Bahia,False,False,first,Brasileirão Série A,2011
-2011-06-25,Flamengo,4,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-06-25,Cruzeiro,2,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-06-26,Ceará,2,0,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-06-26,Botafogo,2,1,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-06-26,Corinthians,5,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-06-26,Avaí,0,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-06-26,Atlético-GO,0,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-06-26,Internacional,4,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-07-02,Santos,1,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-06-29,Grêmio,2,2,Avaí,False,False,first,Brasileirão Série A,2011
-2011-06-29,Vasco da Gama,0,3,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-06-29,Figueirense,2,1,Santos,False,False,first,Brasileirão Série A,2011
-2011-06-29,Bahia,0,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-06-29,América-MG,2,3,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-06-29,São Paulo,0,2,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-06-30,Palmeiras,2,0,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-06-30,Coritiba,3,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-06-30,Atlético-MG,0,4,Internacional,False,False,first,Brasileirão Série A,2011
-2011-06-30,Fluminense,3,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-07-06,Cruzeiro,2,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-07-06,Internacional,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-07-06,Avaí,2,2,Bahia,False,False,first,Brasileirão Série A,2011
-2011-07-06,Corinthians,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-07-06,Ceará,3,0,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-07-06,Flamengo,1,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-07-07,Botafogo,1,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-07-07,Coritiba,3,0,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-07-07,América-MG,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-08-24,Santos,2,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-07-09,Vasco da Gama,2,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-07-09,São Paulo,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-07-09,Atlético-PR,0,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-07-10,Atlético-GO,0,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-07-10,Grêmio,2,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-07-10,Fluminense,0,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-07-10,Bahia,1,1,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-07-10,Palmeiras,3,0,Santos,False,False,first,Brasileirão Série A,2011
-2011-07-10,Atlético-MG,2,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-07-10,Figueirense,1,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-07-16,Vasco da Gama,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-07-16,Coritiba,3,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-07-16,Atlético-GO,0,1,Avaí,False,False,first,Brasileirão Série A,2011
-2011-07-16,Santos,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-07-17,Ceará,4,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-07-17,Internacional,0,3,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-07-17,Cruzeiro,2,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-07-20,Palmeiras,0,0,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-07-20,Figueirense,0,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-07-20,Botafogo,0,2,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-07-21,Avaí,1,3,Internacional,False,False,first,Brasileirão Série A,2011
-2011-07-23,São Paulo,2,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-07-23,Atlético-PR,2,1,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-07-23,América-MG,0,0,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-07-23,Flamengo,1,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-07-24,Corinthians,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-07-24,Atlético-MG,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-07-24,Fluminense,1,0,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-07-24,Bahia,0,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-10-05,Grêmio,1,0,Santos,False,False,first,Brasileirão Série A,2011
-2011-07-14,Corinthians,1,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-07-27,Grêmio,1,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-07-27,Atlético-MG,1,0,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-07-27,Atlético-GO,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-07-27,Botafogo,2,1,Avaí,False,False,first,Brasileirão Série A,2011
-2011-07-27,Santos,4,5,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-07-27,Coritiba,3,4,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-07-27,Figueirense,0,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-07-28,Vasco da Gama,1,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-07-28,Ceará,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-07-30,Cruzeiro,0,1,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-07-30,Flamengo,2,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-07-30,Palmeiras,3,2,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-07-31,São Paulo,0,2,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-07-31,Internacional,0,0,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-07-31,Avaí,3,2,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-07-31,Fluminense,4,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-07-31,América-MG,1,3,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-07-31,Atlético-PR,3,2,Santos,False,False,first,Brasileirão Série A,2011
-2011-07-31,Bahia,3,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-08-03,Corinthians,2,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-08-03,Grêmio,2,2,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-08-03,Figueirense,2,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-08-03,Ceará,0,3,Avaí,False,False,first,Brasileirão Série A,2011
-2011-08-03,Vasco da Gama,2,0,Santos,False,False,first,Brasileirão Série A,2011
-2011-08-03,Coritiba,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-08-03,Cruzeiro,0,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-08-04,Fluminense,2,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-08-04,São Paulo,3,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-08-04,Atlético-GO,0,3,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-08-06,Palmeiras,0,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-08-06,Flamengo,1,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-08-06,Atlético-MG,1,2,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-08-07,Internacional,3,2,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-08-07,Santos,1,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-08-07,Atlético-PR,1,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-08-07,América-MG,3,0,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-08-07,Botafogo,4,0,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-08-07,Bahia,2,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-08-07,Avaí,1,2,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-08-13,Atlético-GO,2,0,Santos,False,False,first,Brasileirão Série A,2011
-2011-08-13,São Paulo,2,2,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-08-13,Cruzeiro,5,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-08-13,Botafogo,4,2,América-MG,False,False,first,Brasileirão Série A,2011
-2011-08-14,Corinthians,2,2,Ceará,False,False,first,Brasileirão Série A,2011
-2011-08-14,Coritiba,3,0,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-08-14,Vasco da Gama,1,0,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-08-14,Figueirense,2,2,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-08-14,Bahia,1,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-08-14,Grêmio,2,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-08-17,Atlético-PR,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-08-17,Ceará,3,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-08-17,Internacional,1,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-08-17,Fluminense,3,0,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-08-17,Atlético-MG,2,3,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-08-17,Santos,2,3,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-08-17,Avaí,0,2,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-08-18,América-MG,1,1,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-08-18,Palmeiras,1,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-08-18,Flamengo,1,4,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-08-20,Botafogo,3,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-08-20,Cruzeiro,1,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-08-20,Corinthians,0,2,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-08-21,Avaí,0,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-08-21,Internacional,2,2,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-08-21,Atlético-GO,1,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-08-21,São Paulo,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-08-21,Atlético-PR,2,2,América-MG,False,False,first,Brasileirão Série A,2011
-2011-08-21,Vasco da Gama,1,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-08-21,Bahia,1,2,Santos,False,False,first,Brasileirão Série A,2011
-2011-08-27,América-MG,1,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-08-27,Coritiba,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-08-27,Fluminense,1,2,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-08-28,Ceará,3,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-08-28,Grêmio,2,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-08-28,Santos,1,1,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-08-28,Flamengo,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-08-28,Palmeiras,2,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-08-28,Figueirense,2,3,Avaí,False,False,first,Brasileirão Série A,2011
-2011-08-28,Atlético-MG,1,2,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-08-31,Vasco da Gama,3,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-08-31,Corinthians,3,2,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-08-31,Atlético-GO,3,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-08-31,Atlético-PR,0,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-08-31,Cruzeiro,2,4,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-08-31,São Paulo,1,2,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-08-31,Internacional,3,3,Santos,False,False,first,Brasileirão Série A,2011
-2011-08-31,Botafogo,3,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-08-31,Avaí,3,2,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-09-01,Bahia,0,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-09-03,Atlético-MG,2,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-09-03,Figueirense,1,2,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-09-03,Fluminense,3,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-09-04,América-MG,4,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-09-04,Grêmio,4,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-09-04,Palmeiras,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-09-04,Flamengo,1,3,Bahia,False,False,first,Brasileirão Série A,2011
-2011-09-04,Coritiba,1,0,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-09-04,Ceará,1,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-10-19,Santos,2,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-09-07,São Paulo,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-09-07,Botafogo,4,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-09-07,Internacional,4,2,América-MG,False,False,first,Brasileirão Série A,2011
-2011-09-07,Avaí,1,2,Santos,False,False,first,Brasileirão Série A,2011
-2011-09-07,Cruzeiro,1,2,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-09-07,Atlético-PR,2,2,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-09-07,Atlético-GO,1,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-09-08,Vasco da Gama,2,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-09-08,Bahia,1,2,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-09-08,Corinthians,2,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-09-10,América-MG,2,2,Avaí,False,False,first,Brasileirão Série A,2011
-2011-09-10,Santos,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-09-11,Coritiba,5,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-09-11,Fluminense,1,0,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-09-11,Ceará,1,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-09-11,Figueirense,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-09-11,Palmeiras,0,3,Internacional,False,False,first,Brasileirão Série A,2011
-2011-09-11,Flamengo,1,2,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-09-11,Grêmio,1,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-09-11,Atlético-MG,2,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-09-17,Atlético-GO,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-09-17,Vasco da Gama,4,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-09-17,São Paulo,4,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-09-18,Atlético-PR,0,0,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-09-18,Bahia,3,0,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-09-18,Avaí,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-09-18,Corinthians,1,3,Santos,False,False,first,Brasileirão Série A,2011
-2011-09-18,Botafogo,1,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-09-18,Internacional,1,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-09-18,Cruzeiro,0,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-09-21,Coritiba,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-09-21,Fluminense,3,1,Avaí,False,False,first,Brasileirão Série A,2011
-2011-09-21,América-MG,1,2,Santos,False,False,first,Brasileirão Série A,2011
-2011-09-21,Bahia,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-09-21,Atlético-MG,1,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-09-21,Figueirense,1,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-09-21,São Paulo,0,0,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-09-22,Palmeiras,1,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-09-22,Grêmio,0,1,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-09-22,Vasco da Gama,1,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-09-24,Atlético-PR,1,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-09-24,Flamengo,2,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-09-24,Santos,2,3,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-09-25,Internacional,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-09-25,Cruzeiro,0,3,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-09-25,Avaí,1,2,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-09-25,Corinthians,1,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-09-25,Botafogo,2,2,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-09-25,Atlético-GO,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-09-25,Ceará,3,2,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-10-01,Fluminense,3,2,Santos,False,False,first,Brasileirão Série A,2011
-2011-10-01,Bahia,3,2,Avaí,False,False,first,Brasileirão Série A,2011
-2011-10-01,Palmeiras,1,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-10-02,São Paulo,1,2,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-10-02,Atlético-PR,2,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-10-02,Atlético-MG,1,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-10-02,Vasco da Gama,2,2,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-10-02,Figueirense,0,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-10-02,Atlético-GO,2,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-10-02,Grêmio,2,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-10-05,Cruzeiro,3,3,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-10-08,América-MG,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-10-08,Botafogo,2,2,Bahia,False,False,first,Brasileirão Série A,2011
-2011-10-08,Coritiba,2,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-10-09,Santos,1,0,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-10-09,Flamengo,3,2,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-10-09,Internacional,3,0,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-10-09,Corinthians,3,0,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-10-09,Avaí,3,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-10-09,Ceará,1,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-10-12,Corinthians,0,2,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-10-12,Grêmio,1,3,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-10-12,Bahia,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-10-12,Avaí,2,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-10-12,América-MG,4,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-10-12,Flamengo,1,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-10-12,São Paulo,0,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-10-13,Fluminense,3,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-10-13,Atlético-MG,2,1,Santos,False,False,first,Brasileirão Série A,2011
-2011-10-13,Atlético-PR,2,2,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-10-15,Figueirense,2,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-10-15,Ceará,0,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-10-15,Palmeiras,1,2,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-10-16,Internacional,4,2,Avaí,False,False,first,Brasileirão Série A,2011
-2011-10-16,Santos,0,1,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-10-16,Atlético-GO,3,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-10-16,Cruzeiro,0,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-10-16,Vasco da Gama,2,0,América-MG,False,False,first,Brasileirão Série A,2011
-2011-10-16,Botafogo,2,0,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-10-16,Coritiba,0,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-10-22,Palmeiras,1,2,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-10-22,Avaí,3,2,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-10-22,Fluminense,0,2,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-10-22,América-MG,2,2,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-10-23,Flamengo,1,1,Santos,False,False,first,Brasileirão Série A,2011
-2011-10-23,Atlético-PR,1,0,Ceará,False,False,first,Brasileirão Série A,2011
-2011-10-23,Bahia,0,2,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-10-23,São Paulo,0,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-10-23,Internacional,1,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-10-23,Cruzeiro,3,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-10-29,Santos,4,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-10-29,Botafogo,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-10-29,Ceará,1,2,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-10-30,Vasco da Gama,0,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-10-30,Corinthians,2,1,Avaí,False,False,first,Brasileirão Série A,2011
-2011-10-30,Figueirense,2,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-10-30,Grêmio,4,2,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-10-30,Atlético-MG,2,1,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-10-30,Atlético-GO,0,1,Internacional,False,False,first,Brasileirão Série A,2011
-2011-10-30,Coritiba,3,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-11-05,Botafogo,0,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-11-05,Atlético-MG,2,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-11-05,Bahia,4,3,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-11-06,Flamengo,5,1,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-11-06,Santos,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-11-06,Avaí,1,2,Ceará,False,False,first,Brasileirão Série A,2011
-2011-11-06,América-MG,2,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-11-06,Atlético-PR,2,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-11-06,Palmeiras,0,2,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-11-06,Internacional,1,2,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-11-12,São Paulo,2,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-11-12,Figueirense,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-11-12,Fluminense,1,2,América-MG,False,False,first,Brasileirão Série A,2011
-2011-11-13,Grêmio,2,2,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-11-13,Corinthians,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-11-13,Ceará,2,3,Santos,False,False,first,Brasileirão Série A,2011
-2011-11-13,Coritiba,2,0,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-11-13,Cruzeiro,1,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-11-13,Atlético-GO,0,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-11-13,Vasco da Gama,2,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-11-16,Atlético-PR,1,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-11-16,América-MG,2,1,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-11-16,Internacional,1,0,Bahia,False,False,first,Brasileirão Série A,2011
-2011-11-16,Fluminense,5,4,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-11-16,Palmeiras,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-11-16,Ceará,0,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-11-16,Avaí,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-11-17,Flamengo,0,0,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-11-17,Atlético-MG,2,1,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-11-17,Santos,1,1,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-11-19,Grêmio,1,3,Ceará,False,False,first,Brasileirão Série A,2011
-2011-11-19,São Paulo,3,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-11-19,Vasco da Gama,2,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-11-20,Botafogo,1,2,Internacional,False,False,first,Brasileirão Série A,2011
-2011-11-20,Cruzeiro,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-11-20,Corinthians,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-11-20,Atlético-GO,0,0,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-11-20,Coritiba,1,0,Santos,False,False,first,Brasileirão Série A,2011
-2011-11-20,Figueirense,0,4,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-11-20,Bahia,0,2,Palmeiras,False,False,first,Brasileirão Série A,2011
-2011-11-27,América-MG,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2011
-2011-11-27,Palmeiras,1,0,São Paulo,False,False,first,Brasileirão Série A,2011
-2011-11-27,Flamengo,1,0,Internacional,False,False,first,Brasileirão Série A,2011
-2011-11-27,Ceará,2,2,Cruzeiro,False,False,first,Brasileirão Série A,2011
-2011-11-27,Coritiba,1,0,Avaí,False,False,first,Brasileirão Série A,2011
-2011-11-27,Grêmio,2,2,Atlético-GO,False,False,first,Brasileirão Série A,2011
-2011-11-27,Santos,1,1,Bahia,False,False,first,Brasileirão Série A,2011
-2011-11-27,Atlético-MG,4,0,Botafogo,False,False,first,Brasileirão Série A,2011
-2011-11-27,Figueirense,0,1,Corinthians,False,False,first,Brasileirão Série A,2011
-2011-11-27,Fluminense,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,2011
-2011-12-04,Internacional,1,0,Grêmio,False,False,first,Brasileirão Série A,2011
-2011-12-04,Cruzeiro,6,1,Atlético-MG,False,False,first,Brasileirão Série A,2011
-2011-12-04,São Paulo,4,1,Santos,False,False,first,Brasileirão Série A,2011
-2011-12-04,Botafogo,1,1,Fluminense,False,False,first,Brasileirão Série A,2011
-2011-12-04,Atlético-PR,1,0,Coritiba,False,False,first,Brasileirão Série A,2011
-2011-12-04,Avaí,1,1,Figueirense,False,False,first,Brasileirão Série A,2011
-2011-12-04,Atlético-GO,5,1,América-MG,False,False,first,Brasileirão Série A,2011
-2011-12-04,Bahia,2,1,Ceará,False,False,first,Brasileirão Série A,2011
-2011-12-04,Vasco da Gama,1,1,Flamengo,False,False,first,Brasileirão Série A,2011
-2011-12-04,Corinthians,0,0,Palmeiras,False,False,first,Brasileirão Série A,2011
+2011-05-21,Ceará,1,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-21,Atlético-MG,3,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-21,Flamengo,4,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-21,Santos,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-22,Coritiba,0,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-22,Palmeiras,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-22,Figueirense,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-22,Grêmio,1,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-22,América-MG,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-22,Fluminense,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-28,Internacional,0,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-28,Botafogo,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-28,Avaí,1,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-28,São Paulo,1,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-29,Cruzeiro,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-29,Corinthians,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-29,Bahia,3,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-29,Atlético-PR,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-29,Atlético-GO,0,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-05-29,Vasco da Gama,3,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-04,Palmeiras,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-04,Fluminense,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-04,Ceará,2,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-04,Figueirense,2,0,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-05,Grêmio,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-05,Flamengo,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-05,Coritiba,5,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-05,América-MG,2,4,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-05,Santos,3,1,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-09,Atlético-MG,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-11,Avaí,2,2,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-11,São Paulo,3,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-11,Cruzeiro,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-11,Vasco da Gama,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-12,Atlético-GO,4,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-12,Internacional,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-12,Corinthians,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-12,Bahia,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-12,Atlético-PR,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-12,Botafogo,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-18,Fluminense,0,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-18,América-MG,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Grêmio,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Figueirense,2,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Palmeiras,5,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Ceará,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Flamengo,0,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Atlético-MG,2,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-19,Coritiba,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-10,Santos,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-25,Atlético-PR,0,2,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-25,Flamengo,4,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-25,Cruzeiro,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-26,Ceará,2,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-26,Botafogo,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-26,Corinthians,5,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-26,Avaí,0,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-26,Atlético-GO,0,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-26,Internacional,4,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-02,Santos,1,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-29,Grêmio,2,2,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-29,Vasco da Gama,0,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-29,Figueirense,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-29,Bahia,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-29,América-MG,2,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-29,São Paulo,0,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-30,Palmeiras,2,0,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-30,Coritiba,3,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-30,Atlético-MG,0,4,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-06-30,Fluminense,3,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-06,Cruzeiro,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-06,Internacional,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-06,Avaí,2,2,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-06,Corinthians,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-06,Ceará,3,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-06,Flamengo,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-07,Botafogo,1,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-07,Coritiba,3,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-07,América-MG,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-24,Santos,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-09,Vasco da Gama,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-09,São Paulo,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-09,Atlético-PR,0,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Atlético-GO,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Grêmio,2,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Fluminense,0,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Bahia,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Palmeiras,3,0,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Atlético-MG,2,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-10,Figueirense,1,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-16,Vasco da Gama,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-16,Coritiba,3,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-16,Atlético-GO,0,1,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-16,Santos,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-17,Ceará,4,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-17,Internacional,0,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-17,Cruzeiro,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-20,Palmeiras,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-20,Figueirense,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-20,Botafogo,0,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-21,Avaí,1,3,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-23,São Paulo,2,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-23,Atlético-PR,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-23,América-MG,0,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-23,Flamengo,1,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-24,Corinthians,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-24,Atlético-MG,1,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-24,Fluminense,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-24,Bahia,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-05,Grêmio,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-14,Corinthians,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Grêmio,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Atlético-MG,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Atlético-GO,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Botafogo,2,1,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Santos,4,5,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Coritiba,3,4,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-27,Figueirense,0,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-28,Vasco da Gama,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-28,Ceará,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-30,Cruzeiro,0,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-30,Flamengo,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-30,Palmeiras,3,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,São Paulo,0,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,Internacional,0,0,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,Avaí,3,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,Fluminense,4,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,América-MG,1,3,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,Atlético-PR,3,2,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-07-31,Bahia,3,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Corinthians,2,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Grêmio,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Figueirense,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Ceará,0,3,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Vasco da Gama,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Coritiba,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-03,Cruzeiro,0,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-04,Fluminense,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-04,São Paulo,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-04,Atlético-GO,0,3,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-06,Palmeiras,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-06,Flamengo,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-06,Atlético-MG,1,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,Internacional,3,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,Santos,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,Atlético-PR,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,América-MG,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,Botafogo,4,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,Bahia,2,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-07,Avaí,1,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-13,Atlético-GO,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-13,São Paulo,2,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-13,Cruzeiro,5,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-13,Botafogo,4,2,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-14,Corinthians,2,2,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-14,Coritiba,3,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-14,Vasco da Gama,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-14,Figueirense,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-14,Bahia,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-14,Grêmio,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Atlético-PR,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Ceará,3,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Internacional,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Fluminense,3,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Atlético-MG,2,3,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Santos,2,3,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-17,Avaí,0,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-18,América-MG,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-18,Palmeiras,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-18,Flamengo,1,4,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-20,Botafogo,3,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-20,Cruzeiro,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-20,Corinthians,0,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,Avaí,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,Internacional,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,Atlético-GO,1,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,São Paulo,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,Atlético-PR,2,2,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,Vasco da Gama,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-21,Bahia,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-27,América-MG,1,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-27,Coritiba,1,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-27,Fluminense,1,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Ceará,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Grêmio,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Santos,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Flamengo,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Palmeiras,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Figueirense,2,3,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-28,Atlético-MG,1,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Vasco da Gama,3,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Corinthians,3,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Atlético-GO,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Atlético-PR,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Cruzeiro,2,4,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,São Paulo,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Internacional,3,3,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Botafogo,3,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-08-31,Avaí,3,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-01,Bahia,0,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-03,Atlético-MG,2,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-03,Figueirense,1,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-03,Fluminense,3,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-04,América-MG,4,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-04,Grêmio,4,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-04,Palmeiras,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-04,Flamengo,1,3,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-04,Coritiba,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-04,Ceará,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-19,Santos,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,São Paulo,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,Botafogo,4,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,Internacional,4,2,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,Avaí,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,Cruzeiro,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,Atlético-PR,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-07,Atlético-GO,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-08,Vasco da Gama,2,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-08,Bahia,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-08,Corinthians,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-10,América-MG,2,2,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-10,Santos,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Coritiba,5,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Fluminense,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Ceará,1,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Figueirense,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Palmeiras,0,3,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Flamengo,1,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Grêmio,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-11,Atlético-MG,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-17,Atlético-GO,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-17,Vasco da Gama,4,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-17,São Paulo,4,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Atlético-PR,0,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Bahia,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Avaí,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Corinthians,1,3,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Botafogo,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Internacional,1,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-18,Cruzeiro,0,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,Coritiba,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,Fluminense,3,1,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,América-MG,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,Bahia,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,Atlético-MG,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,Figueirense,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-21,São Paulo,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-22,Palmeiras,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-22,Grêmio,0,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-22,Vasco da Gama,1,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-24,Atlético-PR,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-24,Flamengo,2,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-24,Santos,2,3,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Internacional,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Cruzeiro,0,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Avaí,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Corinthians,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Botafogo,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Atlético-GO,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-09-25,Ceará,3,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-01,Fluminense,3,2,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-01,Bahia,3,2,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-01,Palmeiras,1,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,São Paulo,1,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,Atlético-PR,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,Atlético-MG,1,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,Vasco da Gama,2,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,Figueirense,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,Atlético-GO,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-02,Grêmio,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-05,Cruzeiro,3,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-08,América-MG,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-08,Botafogo,2,2,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-08,Coritiba,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-09,Santos,1,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-09,Flamengo,3,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-09,Internacional,3,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-09,Corinthians,3,0,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-09,Avaí,3,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-09,Ceará,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,Corinthians,0,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,Grêmio,1,3,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,Bahia,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,Avaí,2,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,América-MG,4,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,Flamengo,1,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-12,São Paulo,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-13,Fluminense,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-13,Atlético-MG,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-13,Atlético-PR,2,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-15,Figueirense,2,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-15,Ceará,0,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-15,Palmeiras,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Internacional,4,2,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Santos,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Atlético-GO,3,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Cruzeiro,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Vasco da Gama,2,0,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Botafogo,2,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-16,Coritiba,0,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-22,Palmeiras,1,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-22,Avaí,3,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-22,Fluminense,0,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-22,América-MG,2,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-23,Flamengo,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-23,Atlético-PR,1,0,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-23,Bahia,0,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-23,São Paulo,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-23,Internacional,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-23,Cruzeiro,3,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-29,Santos,4,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-29,Botafogo,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-29,Ceará,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Vasco da Gama,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Corinthians,2,1,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Figueirense,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Grêmio,4,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Atlético-MG,2,1,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Atlético-GO,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-10-30,Coritiba,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-05,Botafogo,0,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-05,Atlético-MG,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-05,Bahia,4,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,Flamengo,5,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,Santos,2,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,Avaí,1,2,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,América-MG,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,Atlético-PR,2,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,Palmeiras,0,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-06,Internacional,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-12,São Paulo,2,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-12,Figueirense,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-12,Fluminense,1,2,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Grêmio,2,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Corinthians,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Ceará,2,3,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Coritiba,2,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Cruzeiro,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Atlético-GO,0,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-13,Vasco da Gama,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,Atlético-PR,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,América-MG,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,Internacional,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,Fluminense,5,4,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,Palmeiras,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,Ceará,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-16,Avaí,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-17,Flamengo,0,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-17,Atlético-MG,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-17,Santos,1,1,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-19,Grêmio,1,3,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-19,São Paulo,3,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-19,Vasco da Gama,2,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Botafogo,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Cruzeiro,1,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Corinthians,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Atlético-GO,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Coritiba,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Figueirense,0,4,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-20,Bahia,0,2,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,América-MG,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Palmeiras,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Flamengo,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Ceará,2,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Coritiba,1,0,Avaí,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Grêmio,2,2,Atlético-GO,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Santos,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Atlético-MG,4,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Figueirense,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2011
+2011-11-27,Fluminense,1,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Internacional,1,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Cruzeiro,6,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,São Paulo,4,1,Santos,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Botafogo,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Atlético-PR,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Avaí,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Atlético-GO,5,1,América-MG,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Bahia,2,1,Ceará,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Vasco da Gama,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2011
+2011-12-04,Corinthians,0,0,Palmeiras,False,False,Round-robin,Brasileirão Série A,2011

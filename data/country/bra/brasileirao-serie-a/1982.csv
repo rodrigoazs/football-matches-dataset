@@ -1,292 +1,292 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1982-01-17,Santos,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,1982
-1982-01-17,Moto Club,0,0,Paysandu,False,False,first,Brasileirão Série A,1982
-1982-01-20,Santos,4,1,Moto Club,False,False,first,Brasileirão Série A,1982
-1982-01-20,Paysandu,1,1,Nacional-AM,False,False,first,Brasileirão Série A,1982
-1982-01-24,Vasco da Gama,7,0,Moto Club,False,False,first,Brasileirão Série A,1982
-1982-01-24,Nacional-AM,2,2,Santos,False,False,first,Brasileirão Série A,1982
-1982-01-28,Nacional-AM,0,1,Vasco da Gama,False,False,first,Brasileirão Série A,1982
-1982-01-28,Paysandu,0,0,Santos,False,False,first,Brasileirão Série A,1982
-1982-01-31,Moto Club,0,0,Nacional-AM,False,False,first,Brasileirão Série A,1982
-1982-01-31,Paysandu,1,3,Vasco da Gama,False,False,first,Brasileirão Série A,1982
-1982-02-03,Santos,3,1,Nacional-AM,False,False,first,Brasileirão Série A,1982
-1982-02-03,Moto Club,1,2,Vasco da Gama,False,False,first,Brasileirão Série A,1982
-1982-02-07,Santos,4,1,Paysandu,False,False,first,Brasileirão Série A,1982
-1982-02-07,Vasco da Gama,4,0,Nacional-AM,False,False,first,Brasileirão Série A,1982
-1982-02-10,Vasco da Gama,2,0,Paysandu,False,False,first,Brasileirão Série A,1982
-1982-02-10,Nacional-AM,0,1,Moto Club,False,False,first,Brasileirão Série A,1982
-1982-02-14,Paysandu,0,0,Moto Club,False,False,first,Brasileirão Série A,1982
-1982-02-14,Vasco da Gama,3,0,Santos,False,False,first,Brasileirão Série A,1982
-1982-02-17,Moto Club,2,1,Santos,False,False,first,Brasileirão Série A,1982
-1982-02-17,Nacional-AM,1,1,Paysandu,False,False,first,Brasileirão Série A,1982
-1982-01-17,Botafogo,1,2,Guarani,False,False,first,Brasileirão Série A,1982
-1982-01-17,América-RN,1,2,Ceará,False,False,first,Brasileirão Série A,1982
-1982-01-20,Guarani,4,2,América-RN,False,False,first,Brasileirão Série A,1982
-1982-01-20,Ceará,3,1,River,False,False,first,Brasileirão Série A,1982
-1982-01-24,River,1,3,Guarani,False,False,first,Brasileirão Série A,1982
-1982-01-24,Botafogo,2,0,América-RN,False,False,first,Brasileirão Série A,1982
-1982-01-28,Ceará,1,1,Guarani,False,False,first,Brasileirão Série A,1982
-1982-01-28,River,1,3,Botafogo,False,False,first,Brasileirão Série A,1982
-1982-01-31,América-RN,1,0,River,False,False,first,Brasileirão Série A,1982
-1982-01-31,Ceará,0,0,Botafogo,False,False,first,Brasileirão Série A,1982
-1982-02-03,América-RN,0,3,Botafogo,False,False,first,Brasileirão Série A,1982
-1982-02-04,Guarani,8,0,River,False,False,first,Brasileirão Série A,1982
-1982-02-07,Guarani,8,1,Ceará,False,False,first,Brasileirão Série A,1982
-1982-02-07,Botafogo,5,2,River,False,False,first,Brasileirão Série A,1982
-1982-02-10,Botafogo,1,0,Ceará,False,False,first,Brasileirão Série A,1982
-1982-02-10,River,0,1,América-RN,False,False,first,Brasileirão Série A,1982
-1982-02-14,Guarani,4,1,Botafogo,False,False,first,Brasileirão Série A,1982
-1982-02-14,Ceará,3,2,América-RN,False,False,first,Brasileirão Série A,1982
-1982-02-17,River,1,2,Ceará,False,False,first,Brasileirão Série A,1982
-1982-02-17,América-RN,1,2,Guarani,False,False,first,Brasileirão Série A,1982
-1982-01-16,São Paulo,5,0,Treze,False,False,first,Brasileirão Série A,1982
-1982-01-17,Ferroviário,1,2,Náutico,False,False,first,Brasileirão Série A,1982
-1982-01-20,Flamengo,3,2,São Paulo,False,False,first,Brasileirão Série A,1982
-1982-01-20,Treze,1,1,Náutico,False,False,first,Brasileirão Série A,1982
-1982-01-24,Náutico,3,4,Flamengo,False,False,first,Brasileirão Série A,1982
-1982-01-24,Ferroviário,0,2,Treze,False,False,first,Brasileirão Série A,1982
-1982-01-28,Flamengo,5,0,Treze,False,False,first,Brasileirão Série A,1982
-1982-01-28,São Paulo,4,0,Ferroviário,False,False,first,Brasileirão Série A,1982
-1982-01-31,Náutico,1,4,São Paulo,False,False,first,Brasileirão Série A,1982
-1982-01-31,Flamengo,3,0,Ferroviário,False,False,first,Brasileirão Série A,1982
-1982-02-03,Treze,0,3,São Paulo,False,False,first,Brasileirão Série A,1982
-1982-02-04,Náutico,2,3,Ferroviário,False,False,first,Brasileirão Série A,1982
-1982-02-07,Treze,1,3,Flamengo,False,False,first,Brasileirão Série A,1982
-1982-02-07,Ferroviário,1,2,São Paulo,False,False,first,Brasileirão Série A,1982
-1982-02-10,São Paulo,1,1,Náutico,False,False,first,Brasileirão Série A,1982
-1982-02-10,Ferroviário,1,2,Flamengo,False,False,first,Brasileirão Série A,1982
-1982-02-13,Flamengo,1,1,Náutico,False,False,first,Brasileirão Série A,1982
-1982-02-14,Treze,2,0,Ferroviário,False,False,first,Brasileirão Série A,1982
-1982-02-16,São Paulo,3,4,Flamengo,False,False,first,Brasileirão Série A,1982
-1982-02-17,Náutico,0,0,Treze,False,False,first,Brasileirão Série A,1982
-1982-01-17,Itabaiana,0,1,Internacional-SP,False,False,first,Brasileirão Série A,1982
-1982-01-17,CSA,1,2,Sport,False,False,first,Brasileirão Série A,1982
-1982-01-20,Sport,4,0,Itabaiana,False,False,first,Brasileirão Série A,1982
-1982-01-20,Internacional-SP,2,2,Fluminense,False,False,first,Brasileirão Série A,1982
-1982-01-24,Fluminense,1,2,Sport,False,False,first,Brasileirão Série A,1982
-1982-01-24,CSA,2,0,Itabaiana,False,False,first,Brasileirão Série A,1982
-1982-01-28,Fluminense,2,0,CSA,False,False,first,Brasileirão Série A,1982
-1982-01-28,Internacional-SP,2,3,Sport,False,False,first,Brasileirão Série A,1982
-1982-01-31,Internacional-SP,2,2,CSA,False,False,first,Brasileirão Série A,1982
-1982-01-31,Itabaiana,0,4,Fluminense,False,False,first,Brasileirão Série A,1982
-1982-02-03,Sport,0,0,Fluminense,False,False,first,Brasileirão Série A,1982
-1982-02-04,Itabaiana,0,0,CSA,False,False,first,Brasileirão Série A,1982
-1982-02-07,CSA,3,3,Fluminense,False,False,first,Brasileirão Série A,1982
-1982-02-07,Sport,1,0,Internacional-SP,False,False,first,Brasileirão Série A,1982
-1982-02-10,Fluminense,2,0,Itabaiana,False,False,first,Brasileirão Série A,1982
-1982-02-10,CSA,1,1,Internacional-SP,False,False,first,Brasileirão Série A,1982
-1982-02-14,Sport,3,0,CSA,False,False,first,Brasileirão Série A,1982
-1982-02-14,Internacional-SP,5,1,Itabaiana,False,False,first,Brasileirão Série A,1982
-1982-02-17,Itabaiana,1,0,Sport,False,False,first,Brasileirão Série A,1982
-1982-02-17,Fluminense,0,0,Internacional-SP,False,False,first,Brasileirão Série A,1982
-1982-01-17,Bahia,3,2,Mixto,False,False,first,Brasileirão Série A,1982
-1982-01-17,Bangu,3,0,Cruzeiro,False,False,first,Brasileirão Série A,1982
-1982-01-20,Bangu,0,0,Bahia,False,False,first,Brasileirão Série A,1982
-1982-01-20,Mixto,1,2,Operário-MS,False,False,first,Brasileirão Série A,1982
-1982-01-24,Cruzeiro,2,0,Bahia,False,False,first,Brasileirão Série A,1982
-1982-01-24,Operário-MS,2,3,Bangu,False,False,first,Brasileirão Série A,1982
-1982-01-28,Mixto,2,1,Bangu,False,False,first,Brasileirão Série A,1982
-1982-01-28,Operário-MS,1,0,Cruzeiro,False,False,first,Brasileirão Série A,1982
-1982-01-31,Mixto,4,2,Cruzeiro,False,False,first,Brasileirão Série A,1982
-1982-01-31,Bahia,1,1,Operário-MS,False,False,first,Brasileirão Série A,1982
-1982-02-03,Bangu,3,0,Operário-MS,False,False,first,Brasileirão Série A,1982
-1982-02-03,Bahia,3,0,Cruzeiro,False,False,first,Brasileirão Série A,1982
-1982-02-07,Cruzeiro,1,3,Operário-MS,False,False,first,Brasileirão Série A,1982
-1982-02-07,Bangu,3,1,Mixto,False,False,first,Brasileirão Série A,1982
-1982-02-10,Cruzeiro,3,0,Mixto,False,False,first,Brasileirão Série A,1982
-1982-02-10,Operário-MS,0,0,Bahia,False,False,first,Brasileirão Série A,1982
-1982-02-13,Cruzeiro,2,1,Bangu,False,False,first,Brasileirão Série A,1982
-1982-02-14,Mixto,0,1,Bahia,False,False,first,Brasileirão Série A,1982
-1982-02-17,Operário-MS,2,0,Mixto,False,False,first,Brasileirão Série A,1982
-1982-02-17,Bahia,1,1,Bangu,False,False,first,Brasileirão Série A,1982
-1982-01-17,Desportiva,0,2,Atlético-MG,False,False,first,Brasileirão Série A,1982
-1982-01-17,São José,1,0,Grêmio,False,False,first,Brasileirão Série A,1982
-1982-01-20,Grêmio,2,0,Desportiva,False,False,first,Brasileirão Série A,1982
-1982-01-20,Atlético-MG,1,0,Vitória,False,False,first,Brasileirão Série A,1982
-1982-01-24,Vitória,0,2,Grêmio,False,False,first,Brasileirão Série A,1982
-1982-01-24,São José,2,1,Desportiva,False,False,first,Brasileirão Série A,1982
-1982-01-28,Atlético-MG,1,1,Grêmio,False,False,first,Brasileirão Série A,1982
-1982-01-28,Vitória,1,0,São José,False,False,first,Brasileirão Série A,1982
-1982-01-31,Desportiva,3,1,Vitória,False,False,first,Brasileirão Série A,1982
-1982-01-31,Atlético-MG,0,0,São José,False,False,first,Brasileirão Série A,1982
-1982-02-03,Grêmio,0,1,Vitória,False,False,first,Brasileirão Série A,1982
-1982-02-03,Desportiva,0,1,São José,False,False,first,Brasileirão Série A,1982
-1982-02-07,São José,2,1,Vitória,False,False,first,Brasileirão Série A,1982
-1982-02-07,Grêmio,2,0,Atlético-MG,False,False,first,Brasileirão Série A,1982
-1982-02-10,São José,0,0,Atlético-MG,False,False,first,Brasileirão Série A,1982
-1982-02-10,Vitória,2,4,Desportiva,False,False,first,Brasileirão Série A,1982
-1982-02-14,Atlético-MG,7,1,Desportiva,False,False,first,Brasileirão Série A,1982
-1982-02-14,Grêmio,1,0,São José,False,False,first,Brasileirão Série A,1982
-1982-02-18,Vitória,1,0,Atlético-MG,False,False,first,Brasileirão Série A,1982
-1982-02-18,Desportiva,1,0,Grêmio,False,False,first,Brasileirão Série A,1982
-1982-01-17,Ponte Preta-SP,1,0,Goiás,False,False,first,Brasileirão Série A,1982
-1982-01-17,Internacional,3,0,Grêmio Maringá,False,False,first,Brasileirão Série A,1982
-1982-01-20,Goiás,3,0,Taguatinga,False,False,first,Brasileirão Série A,1982
-1982-01-20,Grêmio Maringá,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,1982
-1982-01-24,Taguatinga,1,2,Grêmio Maringá,False,False,first,Brasileirão Série A,1982
-1982-01-24,Internacional,1,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,1982
-1982-01-28,Taguatinga,1,2,Internacional,False,False,first,Brasileirão Série A,1982
-1982-01-28,Goiás,1,1,Grêmio Maringá,False,False,first,Brasileirão Série A,1982
-1982-01-31,Ponte Preta-SP,3,1,Taguatinga,False,False,first,Brasileirão Série A,1982
-1982-01-31,Goiás,1,0,Internacional,False,False,first,Brasileirão Série A,1982
-1982-02-03,Ponte Preta-SP,0,0,Internacional,False,False,first,Brasileirão Série A,1982
-1982-02-03,Grêmio Maringá,2,0,Taguatinga,False,False,first,Brasileirão Série A,1982
-1982-02-06,Internacional,6,1,Taguatinga,False,False,first,Brasileirão Série A,1982
-1982-02-07,Grêmio Maringá,2,2,Goiás,False,False,first,Brasileirão Série A,1982
-1982-02-10,Internacional,5,0,Goiás,False,False,first,Brasileirão Série A,1982
-1982-02-10,Taguatinga,0,2,Ponte Preta-SP,False,False,first,Brasileirão Série A,1982
-1982-02-14,Goiás,1,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,1982
-1982-02-14,Grêmio Maringá,2,0,Internacional,False,False,first,Brasileirão Série A,1982
-1982-02-17,Ponte Preta-SP,1,0,Grêmio Maringá,False,False,first,Brasileirão Série A,1982
-1982-02-17,Taguatinga,3,1,Goiás,False,False,first,Brasileirão Série A,1982
-1982-01-17,Londrina,3,0,Joinville,False,False,first,Brasileirão Série A,1982
-1982-01-17,Anapolina,1,1,XV de Novembro,False,False,first,Brasileirão Série A,1982
-1982-01-20,Joinville,0,3,Internacional-SM,False,False,first,Brasileirão Série A,1982
-1982-01-20,XV de Novembro,3,0,Londrina,False,False,first,Brasileirão Série A,1982
-1982-01-24,Anapolina,3,1,Londrina,False,False,first,Brasileirão Série A,1982
-1982-01-24,Internacional-SM,2,1,XV de Novembro,False,False,first,Brasileirão Série A,1982
-1982-01-28,Internacional-SM,0,0,Anapolina,False,False,first,Brasileirão Série A,1982
-1982-01-28,Joinville,3,0,XV de Novembro,False,False,first,Brasileirão Série A,1982
-1982-01-31,Londrina,3,0,Internacional-SM,False,False,first,Brasileirão Série A,1982
-1982-01-31,Joinville,0,1,Anapolina,False,False,first,Brasileirão Série A,1982
-1982-02-03,Londrina,1,0,Anapolina,False,False,first,Brasileirão Série A,1982
-1982-02-03,XV de Novembro,1,1,Internacional-SM,False,False,first,Brasileirão Série A,1982
-1982-02-07,XV de Novembro,1,0,Joinville,False,False,first,Brasileirão Série A,1982
-1982-02-07,Anapolina,3,1,Internacional-SM,False,False,first,Brasileirão Série A,1982
-1982-02-10,Internacional-SM,2,2,Londrina,False,False,first,Brasileirão Série A,1982
-1982-02-10,Anapolina,4,2,Joinville,False,False,first,Brasileirão Série A,1982
-1982-02-14,XV de Novembro,2,3,Anapolina,False,False,first,Brasileirão Série A,1982
-1982-02-14,Joinville,3,1,Londrina,False,False,first,Brasileirão Série A,1982
-1982-02-17,Londrina,0,1,XV de Novembro,False,False,first,Brasileirão Série A,1982
-1982-02-17,Internacional-SM,3,3,Joinville,False,False,first,Brasileirão Série A,1982
+1982-01-17,Santos,1,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Moto Club,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Santos,4,1,Moto Club,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Paysandu,1,1,Nacional-AM,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Vasco da Gama,7,0,Moto Club,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Nacional-AM,2,2,Santos,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Nacional-AM,0,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Paysandu,0,0,Santos,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Moto Club,0,0,Nacional-AM,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Paysandu,1,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Santos,3,1,Nacional-AM,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Moto Club,1,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Santos,4,1,Paysandu,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Vasco da Gama,4,0,Nacional-AM,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Vasco da Gama,2,0,Paysandu,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Nacional-AM,0,1,Moto Club,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Paysandu,0,0,Moto Club,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Vasco da Gama,3,0,Santos,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Moto Club,2,1,Santos,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Nacional-AM,1,1,Paysandu,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Botafogo,1,2,Guarani,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,América-RN,1,2,Ceará,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Guarani,4,2,América-RN,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Ceará,3,1,River,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,River,1,3,Guarani,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Botafogo,2,0,América-RN,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Ceará,1,1,Guarani,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,River,1,3,Botafogo,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,América-RN,1,0,River,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Ceará,0,0,Botafogo,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,América-RN,0,3,Botafogo,False,False,First Round,Brasileirão Série A,1982
+1982-02-04,Guarani,8,0,River,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Guarani,8,1,Ceará,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Botafogo,5,2,River,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Botafogo,1,0,Ceará,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,River,0,1,América-RN,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Guarani,4,1,Botafogo,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Ceará,3,2,América-RN,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,River,1,2,Ceará,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,América-RN,1,2,Guarani,False,False,First Round,Brasileirão Série A,1982
+1982-01-16,São Paulo,5,0,Treze,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Ferroviário,1,2,Náutico,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Flamengo,3,2,São Paulo,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Treze,1,1,Náutico,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Náutico,3,4,Flamengo,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Ferroviário,0,2,Treze,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Flamengo,5,0,Treze,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,São Paulo,4,0,Ferroviário,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Náutico,1,4,São Paulo,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Flamengo,3,0,Ferroviário,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Treze,0,3,São Paulo,False,False,First Round,Brasileirão Série A,1982
+1982-02-04,Náutico,2,3,Ferroviário,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Treze,1,3,Flamengo,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Ferroviário,1,2,São Paulo,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,São Paulo,1,1,Náutico,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Ferroviário,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1982
+1982-02-13,Flamengo,1,1,Náutico,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Treze,2,0,Ferroviário,False,False,First Round,Brasileirão Série A,1982
+1982-02-16,São Paulo,3,4,Flamengo,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Náutico,0,0,Treze,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Itabaiana,0,1,Internacional-SP,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,CSA,1,2,Sport,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Sport,4,0,Itabaiana,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Internacional-SP,2,2,Fluminense,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Fluminense,1,2,Sport,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,CSA,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Fluminense,2,0,CSA,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Internacional-SP,2,3,Sport,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Internacional-SP,2,2,CSA,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Itabaiana,0,4,Fluminense,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Sport,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1982
+1982-02-04,Itabaiana,0,0,CSA,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,CSA,3,3,Fluminense,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Sport,1,0,Internacional-SP,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Fluminense,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,CSA,1,1,Internacional-SP,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Sport,3,0,CSA,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Internacional-SP,5,1,Itabaiana,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Itabaiana,1,0,Sport,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Fluminense,0,0,Internacional-SP,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Bahia,3,2,Mixto,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Bangu,3,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Bangu,0,0,Bahia,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Mixto,1,2,Operário-MS,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Cruzeiro,2,0,Bahia,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Operário-MS,2,3,Bangu,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Mixto,2,1,Bangu,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Operário-MS,1,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Mixto,4,2,Cruzeiro,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Bahia,1,1,Operário-MS,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Bangu,3,0,Operário-MS,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Bahia,3,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Cruzeiro,1,3,Operário-MS,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Bangu,3,1,Mixto,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Cruzeiro,3,0,Mixto,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Operário-MS,0,0,Bahia,False,False,First Round,Brasileirão Série A,1982
+1982-02-13,Cruzeiro,2,1,Bangu,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Mixto,0,1,Bahia,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Operário-MS,2,0,Mixto,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Bahia,1,1,Bangu,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Desportiva,0,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,São José,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Grêmio,2,0,Desportiva,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Atlético-MG,1,0,Vitória,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Vitória,0,2,Grêmio,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,São José,2,1,Desportiva,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Atlético-MG,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Vitória,1,0,São José,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Desportiva,3,1,Vitória,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Atlético-MG,0,0,São José,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Grêmio,0,1,Vitória,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Desportiva,0,1,São José,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,São José,2,1,Vitória,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Grêmio,2,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,São José,0,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Vitória,2,4,Desportiva,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Atlético-MG,7,1,Desportiva,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Grêmio,1,0,São José,False,False,First Round,Brasileirão Série A,1982
+1982-02-18,Vitória,1,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1982
+1982-02-18,Desportiva,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Ponte Preta-SP,1,0,Goiás,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Internacional,3,0,Grêmio Maringá,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Goiás,3,0,Taguatinga,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Grêmio Maringá,0,0,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Taguatinga,1,2,Grêmio Maringá,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Internacional,1,1,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Taguatinga,1,2,Internacional,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Goiás,1,1,Grêmio Maringá,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Ponte Preta-SP,3,1,Taguatinga,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Goiás,1,0,Internacional,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Ponte Preta-SP,0,0,Internacional,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Grêmio Maringá,2,0,Taguatinga,False,False,First Round,Brasileirão Série A,1982
+1982-02-06,Internacional,6,1,Taguatinga,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Grêmio Maringá,2,2,Goiás,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Internacional,5,0,Goiás,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Taguatinga,0,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Goiás,1,1,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Grêmio Maringá,2,0,Internacional,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Ponte Preta-SP,1,0,Grêmio Maringá,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Taguatinga,3,1,Goiás,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Londrina,3,0,Joinville,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Anapolina,1,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,Joinville,0,3,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,XV de Novembro,3,0,Londrina,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Anapolina,3,1,Londrina,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Internacional-SM,2,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Internacional-SM,0,0,Anapolina,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Joinville,3,0,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Londrina,3,0,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
+1982-01-31,Joinville,0,1,Anapolina,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,Londrina,1,0,Anapolina,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,XV de Novembro,1,1,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,XV de Novembro,1,0,Joinville,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,Anapolina,3,1,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Internacional-SM,2,2,Londrina,False,False,First Round,Brasileirão Série A,1982
+1982-02-10,Anapolina,4,2,Joinville,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,XV de Novembro,2,3,Anapolina,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,Joinville,3,1,Londrina,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Londrina,0,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Internacional-SM,3,3,Joinville,False,False,First Round,Brasileirão Série A,1982
 1982-02-20,Paysandu,3,1,América-RN,False,True,relegation,Brasileirão Série A,1982
 1982-02-20,Náutico,6,2,CSA,False,True,relegation,Brasileirão Série A,1982
 1982-02-20,Londrina,0,0,Goiás,False,True,relegation,Brasileirão Série A,1982
 1982-02-24,Cruzeiro,1,0,Desportiva,False,True,relegation,Brasileirão Série A,1982
-1982-02-28,América-RJ,1,3,Vasco da Gama,False,False,second,Brasileirão Série A,1982
-1982-02-28,Internacional-SM,1,0,Operário-MS,False,False,second,Brasileirão Série A,1982
-1982-03-06,Operário-MS,2,0,Vasco da Gama,False,False,second,Brasileirão Série A,1982
-1982-03-06,América-RJ,3,0,Internacional-SM,False,False,second,Brasileirão Série A,1982
-1982-03-10,Vasco da Gama,7,0,Internacional-SM,False,False,second,Brasileirão Série A,1982
-1982-03-11,Operário-MS,1,0,América-RJ,False,False,second,Brasileirão Série A,1982
-1982-03-14,Vasco da Gama,7,1,Operário-MS,False,False,second,Brasileirão Série A,1982
-1982-03-14,Internacional-SM,0,1,América-RJ,False,False,second,Brasileirão Série A,1982
-1982-03-17,Vasco da Gama,2,2,América-RJ,False,False,second,Brasileirão Série A,1982
-1982-03-17,Operário-MS,0,0,Internacional-SM,False,False,second,Brasileirão Série A,1982
-1982-03-25,Internacional-SM,3,0,Vasco da Gama,False,False,second,Brasileirão Série A,1982
-1982-03-25,América-RJ,0,1,Operário-MS,False,False,second,Brasileirão Série A,1982
-1982-02-28,Guarani,2,0,Grêmio,False,False,second,Brasileirão Série A,1982
-1982-02-28,Náutico,3,0,Grêmio Maringá,False,False,second,Brasileirão Série A,1982
-1982-03-07,Grêmio Maringá,2,2,Grêmio,False,False,second,Brasileirão Série A,1982
-1982-03-07,Guarani,2,0,Náutico,False,False,second,Brasileirão Série A,1982
-1982-03-11,Grêmio Maringá,3,4,Guarani,False,False,second,Brasileirão Série A,1982
-1982-03-11,Grêmio,0,0,Náutico,False,False,second,Brasileirão Série A,1982
-1982-03-14,Náutico,2,2,Guarani,False,False,second,Brasileirão Série A,1982
-1982-03-14,Grêmio,4,1,Grêmio Maringá,False,False,second,Brasileirão Série A,1982
-1982-03-17,Náutico,0,1,Grêmio,False,False,second,Brasileirão Série A,1982
-1982-03-17,Guarani,3,1,Grêmio Maringá,False,False,second,Brasileirão Série A,1982
-1982-03-23,Grêmio,2,0,Guarani,False,False,second,Brasileirão Série A,1982
-1982-03-25,Grêmio Maringá,0,0,Náutico,False,False,second,Brasileirão Série A,1982
-1982-02-27,Corinthians,1,1,Flamengo,False,False,second,Brasileirão Série A,1982
-1982-02-28,Internacional,1,1,Atlético-MG,False,False,second,Brasileirão Série A,1982
-1982-03-07,Internacional,0,2,Corinthians,False,False,second,Brasileirão Série A,1982
-1982-03-07,Flamengo,2,1,Atlético-MG,False,False,second,Brasileirão Série A,1982
-1982-03-10,Atlético-MG,1,3,Corinthians,False,False,second,Brasileirão Série A,1982
-1982-03-11,Flamengo,1,1,Internacional,False,False,second,Brasileirão Série A,1982
-1982-03-14,Corinthians,1,0,Internacional,False,False,second,Brasileirão Série A,1982
-1982-03-14,Atlético-MG,3,1,Flamengo,False,False,second,Brasileirão Série A,1982
-1982-03-17,Corinthians,2,1,Atlético-MG,False,False,second,Brasileirão Série A,1982
-1982-03-17,Internacional,2,3,Flamengo,False,False,second,Brasileirão Série A,1982
-1982-03-25,Atlético-MG,2,1,Internacional,False,False,second,Brasileirão Série A,1982
-1982-03-25,Flamengo,2,0,Corinthians,False,False,second,Brasileirão Série A,1982
-1982-02-28,Paysandu,0,2,Sport,False,False,second,Brasileirão Série A,1982
-1982-02-28,Bahia,1,2,XV de Novembro,False,False,second,Brasileirão Série A,1982
-1982-03-07,Sport,4,0,XV de Novembro,False,False,second,Brasileirão Série A,1982
-1982-03-07,Bahia,2,3,Paysandu,False,False,second,Brasileirão Série A,1982
-1982-03-11,Sport,0,2,Bahia,False,False,second,Brasileirão Série A,1982
-1982-03-11,XV de Novembro,1,1,Paysandu,False,False,second,Brasileirão Série A,1982
-1982-03-14,XV de Novembro,2,2,Sport,False,False,second,Brasileirão Série A,1982
-1982-03-14,Paysandu,1,3,Bahia,False,False,second,Brasileirão Série A,1982
-1982-03-17,Paysandu,1,1,XV de Novembro,False,False,second,Brasileirão Série A,1982
-1982-03-17,Bahia,0,0,Sport,False,False,second,Brasileirão Série A,1982
-1982-03-25,XV de Novembro,1,1,Bahia,False,False,second,Brasileirão Série A,1982
-1982-03-25,Sport,3,0,Paysandu,False,False,second,Brasileirão Série A,1982
-1982-02-28,Santos,1,0,Internacional-SP,False,False,second,Brasileirão Série A,1982
-1982-02-28,São Paulo-RS,1,0,Bangu,False,False,second,Brasileirão Série A,1982
-1982-03-07,Santos,6,1,São Paulo-RS,False,False,second,Brasileirão Série A,1982
-1982-03-07,Bangu,2,0,Internacional-SP,False,False,second,Brasileirão Série A,1982
-1982-03-11,Internacional-SP,3,0,São Paulo-RS,False,False,second,Brasileirão Série A,1982
-1982-03-11,Bangu,2,0,Santos,False,False,second,Brasileirão Série A,1982
-1982-03-14,Internacional-SP,2,2,Bangu,False,False,second,Brasileirão Série A,1982
-1982-03-14,São Paulo-RS,0,0,Santos,False,False,second,Brasileirão Série A,1982
-1982-03-17,Santos,1,0,Bangu,False,False,second,Brasileirão Série A,1982
-1982-03-17,São Paulo-RS,2,2,Internacional-SP,False,False,second,Brasileirão Série A,1982
-1982-03-25,Internacional-SP,0,1,Santos,False,False,second,Brasileirão Série A,1982
-1982-03-25,Bangu,1,0,São Paulo-RS,False,False,second,Brasileirão Série A,1982
-1982-02-28,Londrina,1,1,São José,False,False,second,Brasileirão Série A,1982
-1982-02-28,Treze,0,2,Botafogo,False,False,second,Brasileirão Série A,1982
-1982-03-07,São José,0,0,Botafogo,False,False,second,Brasileirão Série A,1982
-1982-03-07,Treze,0,0,Londrina,False,False,second,Brasileirão Série A,1982
-1982-03-11,Botafogo,1,3,Londrina,False,False,second,Brasileirão Série A,1982
-1982-03-11,São José,3,1,Treze,False,False,second,Brasileirão Série A,1982
-1982-03-14,Botafogo,0,1,São José,False,False,second,Brasileirão Série A,1982
-1982-03-14,Londrina,3,1,Treze,False,False,second,Brasileirão Série A,1982
-1982-03-17,Londrina,1,1,Botafogo,False,False,second,Brasileirão Série A,1982
-1982-03-17,Treze,0,3,São José,False,False,second,Brasileirão Série A,1982
-1982-03-24,Botafogo,1,3,Treze,False,False,second,Brasileirão Série A,1982
-1982-03-24,São José,0,0,Londrina,False,False,second,Brasileirão Série A,1982
-1982-02-28,Atlético-PR,1,3,São Paulo,False,False,second,Brasileirão Série A,1982
-1982-02-28,Ceará,2,3,Ponte Preta-SP,False,False,second,Brasileirão Série A,1982
-1982-03-07,São Paulo,2,1,Ponte Preta-SP,False,False,second,Brasileirão Série A,1982
-1982-03-07,Ceará,1,0,Atlético-PR,False,False,second,Brasileirão Série A,1982
-1982-03-11,Ponte Preta-SP,1,1,Atlético-PR,False,False,second,Brasileirão Série A,1982
-1982-03-11,São Paulo,5,2,Ceará,False,False,second,Brasileirão Série A,1982
-1982-03-14,Atlético-PR,0,3,Ceará,False,False,second,Brasileirão Série A,1982
-1982-03-14,Ponte Preta-SP,1,0,São Paulo,False,False,second,Brasileirão Série A,1982
-1982-03-17,Ceará,2,3,São Paulo,False,False,second,Brasileirão Série A,1982
-1982-03-17,Atlético-PR,0,0,Ponte Preta-SP,False,False,second,Brasileirão Série A,1982
-1982-03-25,Ponte Preta-SP,0,1,Ceará,False,False,second,Brasileirão Série A,1982
-1982-03-25,São Paulo,1,0,Atlético-PR,False,False,second,Brasileirão Série A,1982
-1982-02-28,Moto Club,1,0,Anapolina,False,False,second,Brasileirão Série A,1982
-1982-02-28,Cruzeiro,2,2,Fluminense,False,False,second,Brasileirão Série A,1982
-1982-03-07,Anapolina,3,1,Fluminense,False,False,second,Brasileirão Série A,1982
-1982-03-07,Cruzeiro,1,0,Moto Club,False,False,second,Brasileirão Série A,1982
-1982-03-10,Fluminense,3,0,Moto Club,False,False,second,Brasileirão Série A,1982
-1982-03-10,Anapolina,1,0,Cruzeiro,False,False,second,Brasileirão Série A,1982
-1982-03-13,Fluminense,6,1,Anapolina,False,False,second,Brasileirão Série A,1982
-1982-03-14,Moto Club,0,1,Cruzeiro,False,False,second,Brasileirão Série A,1982
-1982-03-17,Moto Club,0,3,Fluminense,False,False,second,Brasileirão Série A,1982
-1982-03-17,Cruzeiro,0,1,Anapolina,False,False,second,Brasileirão Série A,1982
-1982-03-24,Fluminense,4,0,Cruzeiro,False,False,second,Brasileirão Série A,1982
-1982-03-24,Anapolina,3,1,Moto Club,False,False,second,Brasileirão Série A,1982
-1982-03-28,Vasco da Gama,1,1,Grêmio,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Grêmio,1,0,Vasco da Gama,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Operário-MS,1,1,Guarani,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Guarani,1,0,Operário-MS,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Anapolina,3,1,São Paulo,False,False,round16,Brasileirão Série A,1982
-1982-03-28,São Paulo,4,0,Anapolina,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Flamengo,2,0,Sport,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Sport,2,1,Flamengo,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Londrina,0,0,Santos,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Santos,1,0,Londrina,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Bangu,3,1,São José,False,False,round16,Brasileirão Série A,1982
-1982-03-28,São José,2,2,Bangu,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Bahia,1,1,Corinthians,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Corinthians,5,2,Bahia,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Ceará,1,2,Fluminense,False,False,round16,Brasileirão Série A,1982
-1982-03-28,Fluminense,2,0,Ceará,False,False,round16,Brasileirão Série A,1982
-1982-04-03,Flamengo,2,1,Santos,False,False,round16,Brasileirão Série A,1982
-1982-04-03,Santos,1,1,Flamengo,False,False,round16,Brasileirão Série A,1982
-1982-04-04,Grêmio,1,1,Fluminense,False,False,round16,Brasileirão Série A,1982
-1982-04-04,Fluminense,1,2,Grêmio,False,False,round16,Brasileirão Série A,1982
-1982-04-04,São Paulo,0,1,Guarani,False,False,round16,Brasileirão Série A,1982
-1982-04-04,Guarani,2,0,São Paulo,False,False,round16,Brasileirão Série A,1982
-1982-04-04,Bangu,0,1,Corinthians,False,False,round16,Brasileirão Série A,1982
-1982-04-04,Corinthians,1,2,Bangu,False,False,round16,Brasileirão Série A,1982
-1982-04-11,Corinthians,1,2,Grêmio,False,False,semi,Brasileirão Série A,1982
-1982-04-14,Grêmio,3,1,Corinthians,False,False,semi,Brasileirão Série A,1982
-1982-04-11,Flamengo,2,1,Guarani,False,False,semi,Brasileirão Série A,1982
-1982-04-15,Guarani,2,3,Flamengo,False,False,semi,Brasileirão Série A,1982
-1982-04-18,Flamengo,1,1,Grêmio,False,False,final,Brasileirão Série A,1982
-1982-04-21,Grêmio,0,0,Flamengo,False,False,final,Brasileirão Série A,1982
-1982-04-25,Grêmio,0,1,Flamengo,False,False,final,Brasileirão Série A,1982
+1982-02-28,América-RJ,1,3,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Internacional-SM,1,0,Operário-MS,False,False,Second Round,Brasileirão Série A,1982
+1982-03-06,Operário-MS,2,0,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1982
+1982-03-06,América-RJ,3,0,Internacional-SM,False,False,Second Round,Brasileirão Série A,1982
+1982-03-10,Vasco da Gama,7,0,Internacional-SM,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Operário-MS,1,0,América-RJ,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Vasco da Gama,7,1,Operário-MS,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Internacional-SM,0,1,América-RJ,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Vasco da Gama,2,2,América-RJ,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Operário-MS,0,0,Internacional-SM,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Internacional-SM,3,0,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,América-RJ,0,1,Operário-MS,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Guarani,2,0,Grêmio,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Náutico,3,0,Grêmio Maringá,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Grêmio Maringá,2,2,Grêmio,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Guarani,2,0,Náutico,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Grêmio Maringá,3,4,Guarani,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Grêmio,0,0,Náutico,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Náutico,2,2,Guarani,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Grêmio,4,1,Grêmio Maringá,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Náutico,0,1,Grêmio,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Guarani,3,1,Grêmio Maringá,False,False,Second Round,Brasileirão Série A,1982
+1982-03-23,Grêmio,2,0,Guarani,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Grêmio Maringá,0,0,Náutico,False,False,Second Round,Brasileirão Série A,1982
+1982-02-27,Corinthians,1,1,Flamengo,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Internacional,1,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Internacional,0,2,Corinthians,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Flamengo,2,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1982
+1982-03-10,Atlético-MG,1,3,Corinthians,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Flamengo,1,1,Internacional,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Corinthians,1,0,Internacional,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Atlético-MG,3,1,Flamengo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Corinthians,2,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Internacional,2,3,Flamengo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Atlético-MG,2,1,Internacional,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Flamengo,2,0,Corinthians,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Paysandu,0,2,Sport,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Bahia,1,2,XV de Novembro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Sport,4,0,XV de Novembro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Bahia,2,3,Paysandu,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Sport,0,2,Bahia,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,XV de Novembro,1,1,Paysandu,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,XV de Novembro,2,2,Sport,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Paysandu,1,3,Bahia,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Paysandu,1,1,XV de Novembro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Bahia,0,0,Sport,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,XV de Novembro,1,1,Bahia,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Sport,3,0,Paysandu,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Santos,1,0,Internacional-SP,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,São Paulo-RS,1,0,Bangu,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Santos,6,1,São Paulo-RS,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Bangu,2,0,Internacional-SP,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Internacional-SP,3,0,São Paulo-RS,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Bangu,2,0,Santos,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Internacional-SP,2,2,Bangu,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,São Paulo-RS,0,0,Santos,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Santos,1,0,Bangu,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,São Paulo-RS,2,2,Internacional-SP,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Internacional-SP,0,1,Santos,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Bangu,1,0,São Paulo-RS,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Londrina,1,1,São José,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Treze,0,2,Botafogo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,São José,0,0,Botafogo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Treze,0,0,Londrina,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Botafogo,1,3,Londrina,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,São José,3,1,Treze,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Botafogo,0,1,São José,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Londrina,3,1,Treze,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Londrina,1,1,Botafogo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Treze,0,3,São José,False,False,Second Round,Brasileirão Série A,1982
+1982-03-24,Botafogo,1,3,Treze,False,False,Second Round,Brasileirão Série A,1982
+1982-03-24,São José,0,0,Londrina,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Atlético-PR,1,3,São Paulo,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Ceará,2,3,Ponte Preta-SP,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,São Paulo,2,1,Ponte Preta-SP,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Ceará,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,Ponte Preta-SP,1,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,São Paulo,5,2,Ceará,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Atlético-PR,0,3,Ceará,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Ponte Preta-SP,1,0,São Paulo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Ceará,2,3,São Paulo,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Atlético-PR,0,0,Ponte Preta-SP,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,Ponte Preta-SP,0,1,Ceará,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,São Paulo,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Moto Club,1,0,Anapolina,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Cruzeiro,2,2,Fluminense,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Anapolina,3,1,Fluminense,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Cruzeiro,1,0,Moto Club,False,False,Second Round,Brasileirão Série A,1982
+1982-03-10,Fluminense,3,0,Moto Club,False,False,Second Round,Brasileirão Série A,1982
+1982-03-10,Anapolina,1,0,Cruzeiro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-13,Fluminense,6,1,Anapolina,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,Moto Club,0,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Moto Club,0,3,Fluminense,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Cruzeiro,0,1,Anapolina,False,False,Second Round,Brasileirão Série A,1982
+1982-03-24,Fluminense,4,0,Cruzeiro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-24,Anapolina,3,1,Moto Club,False,False,Second Round,Brasileirão Série A,1982
+1982-03-28,Vasco da Gama,1,1,Grêmio,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Grêmio,1,0,Vasco da Gama,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Operário-MS,1,1,Guarani,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Guarani,1,0,Operário-MS,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Anapolina,3,1,São Paulo,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,São Paulo,4,0,Anapolina,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Flamengo,2,0,Sport,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Sport,2,1,Flamengo,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Londrina,0,0,Santos,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Santos,1,0,Londrina,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Bangu,3,1,São José,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,São José,2,2,Bangu,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Bahia,1,1,Corinthians,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Corinthians,5,2,Bahia,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Ceará,1,2,Fluminense,False,False,Round of 16,Brasileirão Série A,1982
+1982-03-28,Fluminense,2,0,Ceará,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-03,Flamengo,2,1,Santos,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-03,Santos,1,1,Flamengo,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-04,Grêmio,1,1,Fluminense,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-04,Fluminense,1,2,Grêmio,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-04,São Paulo,0,1,Guarani,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-04,Guarani,2,0,São Paulo,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-04,Bangu,0,1,Corinthians,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-04,Corinthians,1,2,Bangu,False,False,Round of 16,Brasileirão Série A,1982
+1982-04-11,Corinthians,1,2,Grêmio,False,False,Semifinal,Brasileirão Série A,1982
+1982-04-14,Grêmio,3,1,Corinthians,False,False,Semifinal,Brasileirão Série A,1982
+1982-04-11,Flamengo,2,1,Guarani,False,False,Semifinal,Brasileirão Série A,1982
+1982-04-15,Guarani,2,3,Flamengo,False,False,Semifinal,Brasileirão Série A,1982
+1982-04-18,Flamengo,1,1,Grêmio,False,False,Final,Brasileirão Série A,1982
+1982-04-21,Grêmio,0,0,Flamengo,False,False,Final,Brasileirão Série A,1982
+1982-04-25,Grêmio,0,1,Flamengo,False,False,Final,Brasileirão Série A,1982

@@ -1,381 +1,381 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2013-05-25,Vasco da Gama,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-05-25,Vitória,2,2,Internacional,False,False,first,Brasileirão Série A,2013
-2013-05-25,Corinthians,1,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-05-26,Grêmio,2,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-05-26,Ponte Preta-SP,0,2,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-05-26,Criciúma,3,1,Bahia,False,False,first,Brasileirão Série A,2013
-2013-05-26,Santos,0,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-05-26,Fluminense,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-05-26,Cruzeiro,5,0,Goiás,False,False,first,Brasileirão Série A,2013
-2013-05-26,Coritiba,2,1,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-05-29,Botafogo,2,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-05-29,Atlético-PR,2,2,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-05-29,Náutico,0,3,Vitória,False,False,first,Brasileirão Série A,2013
-2013-05-29,Bahia,0,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-05-29,Flamengo,0,2,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-05-29,Goiás,1,1,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-05-29,São Paulo,5,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-05-30,Internacional,2,0,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-06-09,Atlético-MG,2,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-06-12,Portuguesa-SP,2,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-06-01,Botafogo,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-06-01,Atlético-PR,2,2,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-06-01,Vitória,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-06-01,Goiás,1,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-06-01,Santos,1,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-06-01,Corinthians,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-06-02,Atlético-MG,0,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-06-02,Fluminense,3,0,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-06-02,Internacional,1,2,Bahia,False,False,first,Brasileirão Série A,2013
-2013-06-02,Náutico,2,2,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-06-05,São Paulo,0,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-06-05,Criciúma,3,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-06-05,Portuguesa-SP,1,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-06-05,Ponte Preta-SP,3,4,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-06-05,Vasco da Gama,2,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-06-05,Grêmio,1,0,Vitória,False,False,first,Brasileirão Série A,2013
-2013-06-05,Bahia,2,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-06-05,Flamengo,0,1,Náutico,False,False,first,Brasileirão Série A,2013
-2013-06-05,Cruzeiro,1,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-06-06,Coritiba,2,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-06-08,Criciúma,0,3,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-06-08,Cruzeiro,2,2,Internacional,False,False,first,Brasileirão Série A,2013
-2013-06-08,Corinthians,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-06-08,Vasco da Gama,1,1,Bahia,False,False,first,Brasileirão Série A,2013
-2013-06-08,Ponte Preta-SP,0,2,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-06-09,Vitória,3,2,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-06-09,Fluminense,2,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-06-09,Coritiba,1,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-06-12,Grêmio,1,1,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-06-12,Santos,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-07-06,Flamengo,2,2,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-07-06,Atlético-PR,1,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-07-06,Náutico,1,3,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-07-06,Portuguesa-SP,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-07-07,Goiás,1,0,Vitória,False,False,first,Brasileirão Série A,2013
-2013-07-07,São Paulo,0,2,Santos,False,False,first,Brasileirão Série A,2013
-2013-07-07,Bahia,0,2,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-07-07,Internacional,5,3,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-07-07,Botafogo,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-07-07,Atlético-MG,3,2,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-07-13,Santos,4,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-07-13,Fluminense,2,3,Internacional,False,False,first,Brasileirão Série A,2013
-2013-07-13,Ponte Preta-SP,0,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-07-14,Vitória,3,2,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-07-14,Grêmio,2,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-07-14,Coritiba,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-07-14,Corinthians,0,1,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-07-14,Cruzeiro,3,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-07-14,Vasco da Gama,0,1,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-07-14,Criciúma,0,0,Goiás,False,False,first,Brasileirão Série A,2013
-2013-07-20,Criciúma,2,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-07-20,São Paulo,0,3,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-07-20,Botafogo,2,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-07-21,Santos,2,2,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-07-21,Vitória,0,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-07-21,Atlético-PR,1,1,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-07-21,Internacional,1,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-07-21,Fluminense,1,3,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-07-21,Goiás,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-10-03,Atlético-MG,4,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-07-27,Vasco da Gama,3,2,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-07-27,Portuguesa-SP,2,3,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-07-27,Ponte Preta-SP,1,0,Santos,False,False,first,Brasileirão Série A,2013
-2013-07-28,Cruzeiro,4,1,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-07-28,Náutico,3,0,Internacional,False,False,first,Brasileirão Série A,2013
-2013-07-28,Grêmio,2,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-07-28,Corinthians,0,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-07-28,Coritiba,1,1,Vitória,False,False,first,Brasileirão Série A,2013
-2013-07-28,Flamengo,1,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-07-28,Bahia,2,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-07-31,Fluminense,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-07-31,Atlético-MG,1,2,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-07-31,Portuguesa-SP,1,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-07-31,Coritiba,5,3,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-07-31,Corinthians,2,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-07-31,Bahia,3,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-08-01,Botafogo,2,0,Vitória,False,False,first,Brasileirão Série A,2013
-2013-08-01,Goiás,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-09-03,Náutico,0,1,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-09-10,Internacional,1,2,Santos,False,False,first,Brasileirão Série A,2013
-2013-07-10,São Paulo,1,2,Bahia,False,False,first,Brasileirão Série A,2013
-2013-08-03,Cruzeiro,1,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-08-04,Ponte Preta-SP,1,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-08-04,Flamengo,3,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-08-04,Atlético-PR,2,0,Goiás,False,False,first,Brasileirão Série A,2013
-2013-08-04,Grêmio,1,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-08-04,Criciúma,0,2,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-08-04,Vitória,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-08-04,Vasco da Gama,2,3,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-09-25,Santos,1,1,Náutico,False,False,first,Brasileirão Série A,2013
-2013-07-24,São Paulo,0,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-08-07,Vitória,1,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-08-07,Criciúma,1,2,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-08-07,Atlético-PR,1,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-08-07,Flamengo,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-08-07,Santos,1,1,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-08-07,Goiás,2,1,Náutico,False,False,first,Brasileirão Série A,2013
-2013-08-07,Atlético-MG,2,2,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-08-08,Grêmio,0,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-08-08,Vasco da Gama,1,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-08-10,Botafogo,1,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-08-10,Náutico,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-08-11,Coritiba,0,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-08-11,Corinthians,2,0,Vitória,False,False,first,Brasileirão Série A,2013
-2013-08-11,Fluminense,3,2,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-08-11,Cruzeiro,0,0,Santos,False,False,first,Brasileirão Série A,2013
-2013-08-11,Bahia,0,3,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-08-11,Portuguesa-SP,2,1,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-08-11,Internacional,2,2,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-08-11,Ponte Preta-SP,3,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-08-14,Criciúma,3,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-08-14,Santos,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-08-14,Atlético-MG,2,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-08-14,Coritiba,1,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-08-14,Vitória,3,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-08-14,Goiás,1,1,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-08-14,Grêmio,3,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-08-14,Fluminense,0,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-08-15,São Paulo,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-08-15,Botafogo,3,3,Internacional,False,False,first,Brasileirão Série A,2013
-2013-08-17,Cruzeiro,5,1,Vitória,False,False,first,Brasileirão Série A,2013
-2013-08-17,Náutico,0,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-08-17,Vasco da Gama,2,3,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-08-18,Flamengo,0,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-08-18,Corinthians,1,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-08-18,Ponte Preta-SP,0,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-08-18,Portuguesa-SP,1,3,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-08-18,Bahia,0,0,Santos,False,False,first,Brasileirão Série A,2013
-2013-08-18,Atlético-PR,2,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-08-18,Internacional,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-08-24,Flamengo,0,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-08-24,Ponte Preta-SP,0,2,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-08-24,Santos,2,0,Vitória,False,False,first,Brasileirão Série A,2013
-2013-08-24,Criciúma,2,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-08-25,Bahia,2,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-08-25,Vasco da Gama,1,1,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-08-25,São Paulo,2,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-08-25,Atlético-MG,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-08-25,Atlético-PR,2,0,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-08-25,Internacional,3,3,Goiás,False,False,first,Brasileirão Série A,2013
-2013-08-31,Goiás,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-08-31,Portuguesa-SP,4,2,Bahia,False,False,first,Brasileirão Série A,2013
-2013-08-31,Náutico,1,4,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-08-31,Grêmio,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-08-31,Fluminense,0,2,Santos,False,False,first,Brasileirão Série A,2013
-2013-09-01,Coritiba,0,0,Internacional,False,False,first,Brasileirão Série A,2013
-2013-09-01,Botafogo,0,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-09-01,Corinthians,4,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-09-01,Vitória,0,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-09-01,Cruzeiro,5,3,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-09-03,Goiás,2,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-09-04,Atlético-PR,2,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-09-04,Flamengo,2,1,Vitória,False,False,first,Brasileirão Série A,2013
-2013-09-04,Portuguesa-SP,2,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-09-04,Internacional,1,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-09-04,Bahia,1,3,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-09-04,Atlético-MG,2,2,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-09-05,Náutico,0,3,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-09-05,Botafogo,3,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-09-05,São Paulo,1,2,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-09-07,Santos,1,0,Goiás,False,False,first,Brasileirão Série A,2013
-2013-09-07,Fluminense,1,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-09-07,Ponte Preta-SP,1,3,Internacional,False,False,first,Brasileirão Série A,2013
-2013-09-07,Vitória,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-09-07,Grêmio,3,2,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-09-08,Coritiba,2,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-09-08,Cruzeiro,1,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-09-08,Corinthians,0,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-09-08,Vasco da Gama,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-09-08,Criciúma,1,2,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-09-11,Atlético-PR,1,1,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-09-11,Bahia,2,2,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-09-11,Goiás,1,2,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-09-11,Náutico,0,2,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-09-11,Botafogo,1,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-09-11,Portuguesa-SP,2,0,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-09-12,Internacional,2,2,Vitória,False,False,first,Brasileirão Série A,2013
-2013-09-12,Atlético-MG,3,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-09-12,Flamengo,2,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-09-12,São Paulo,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-09-14,Cruzeiro,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-09-14,Fluminense,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-09-15,Ponte Preta-SP,1,1,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-09-15,Criciúma,0,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-09-15,Vasco da Gama,0,2,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-09-15,Coritiba,2,2,Bahia,False,False,first,Brasileirão Série A,2013
-2013-09-15,Corinthians,1,2,Goiás,False,False,first,Brasileirão Série A,2013
-2013-09-15,Santos,1,2,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-09-15,Grêmio,0,1,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-09-15,Vitória,2,1,Náutico,False,False,first,Brasileirão Série A,2013
-2013-09-18,Grêmio,1,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-09-18,Vasco da Gama,1,2,Vitória,False,False,first,Brasileirão Série A,2013
-2013-09-18,Criciúma,1,2,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-09-18,Coritiba,2,2,Goiás,False,False,first,Brasileirão Série A,2013
-2013-09-18,Cruzeiro,3,0,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-09-18,Ponte Preta-SP,2,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-09-18,São Paulo,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-09-19,Flamengo,2,4,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-09-19,Bahia,2,0,Internacional,False,False,first,Brasileirão Série A,2013
-2013-09-19,Portuguesa-SP,3,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-09-21,Fluminense,1,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-09-21,Vitória,0,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-09-22,Internacional,0,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-09-22,Náutico,0,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-09-22,Goiás,1,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-09-22,Corinthians,0,0,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-09-22,Botafogo,1,2,Bahia,False,False,first,Brasileirão Série A,2013
-2013-09-22,Santos,2,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-09-22,Atlético-MG,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-09-22,Atlético-PR,1,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-09-28,Náutico,3,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-09-28,Goiás,1,2,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-09-28,Botafogo,0,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-09-29,Bahia,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-09-29,São Paulo,0,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-09-29,Flamengo,4,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-09-29,Portuguesa-SP,4,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-09-29,Internacional,1,2,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-09-29,Atlético-MG,3,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-09-29,Atlético-PR,3,5,Vitória,False,False,first,Brasileirão Série A,2013
-2013-09-25,Criciúma,1,1,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-10-01,Ponte Preta-SP,1,2,Náutico,False,False,first,Brasileirão Série A,2013
-2013-10-02,Cruzeiro,4,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-10-02,Grêmio,1,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-10-02,Fluminense,1,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-10-02,Vitória,2,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-10-02,Corinthians,2,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-10-02,Coritiba,0,2,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-10-02,Santos,3,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-10-03,Vasco da Gama,3,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-10-05,Botafogo,0,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-10-05,São Paulo,3,2,Vitória,False,False,first,Brasileirão Série A,2013
-2013-10-06,Atlético-MG,0,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-10-06,Náutico,1,4,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-10-06,Internacional,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-10-06,Flamengo,1,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-10-06,Atlético-PR,2,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-10-06,Bahia,1,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-10-06,Goiás,1,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-10-06,Portuguesa-SP,3,0,Santos,False,False,first,Brasileirão Série A,2013
-2013-10-09,Grêmio,1,2,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-10-09,Coritiba,1,0,Santos,False,False,first,Brasileirão Série A,2013
-2013-10-09,Bahia,2,0,Vitória,False,False,first,Brasileirão Série A,2013
-2013-10-09,Ponte Preta-SP,2,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-10-09,Náutico,1,3,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-10-09,Vasco da Gama,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-10-09,Corinthians,0,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-10-09,Cruzeiro,0,2,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-10-10,Portuguesa-SP,1,2,Goiás,False,False,first,Brasileirão Série A,2013
-2013-10-10,Flamengo,2,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-10-12,Vitória,2,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-10-12,Fluminense,1,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-10-12,Santos,2,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-10-13,Criciúma,3,2,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-10-13,Internacional,4,1,Náutico,False,False,first,Brasileirão Série A,2013
-2013-10-13,São Paulo,0,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-10-13,Atlético-MG,1,0,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-10-13,Atlético-PR,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-10-13,Goiás,3,1,Bahia,False,False,first,Brasileirão Série A,2013
-2013-10-13,Botafogo,2,1,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-10-16,Cruzeiro,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-10-16,Santos,0,0,Internacional,False,False,first,Brasileirão Série A,2013
-2013-10-16,São Paulo,3,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-10-16,Criciúma,1,3,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-10-16,Ponte Preta-SP,1,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-10-16,Flamengo,2,1,Bahia,False,False,first,Brasileirão Série A,2013
-2013-10-16,Atlético-PR,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-10-16,Grêmio,1,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-10-17,Vasco da Gama,0,2,Goiás,False,False,first,Brasileirão Série A,2013
-2013-10-17,Vitória,1,0,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-10-19,Fluminense,1,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-10-19,Náutico,1,5,Santos,False,False,first,Brasileirão Série A,2013
-2013-10-19,Corinthians,1,0,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-10-20,Bahia,0,1,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-10-20,Internacional,2,2,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-10-20,Goiás,3,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-10-20,Atlético-MG,1,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-10-20,Botafogo,2,2,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-10-20,Coritiba,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-10-20,Portuguesa-SP,1,1,Vitória,False,False,first,Brasileirão Série A,2013
-2013-10-26,Botafogo,1,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-10-26,Cruzeiro,5,3,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-10-27,Bahia,1,1,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-10-27,Ponte Preta-SP,2,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-10-27,Internacional,2,3,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-10-27,Corinthians,1,1,Santos,False,False,first,Brasileirão Série A,2013
-2013-10-27,Portuguesa-SP,0,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-10-27,Coritiba,4,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-10-27,Fluminense,2,3,Vitória,False,False,first,Brasileirão Série A,2013
-2013-10-27,Náutico,0,2,Goiás,False,False,first,Brasileirão Série A,2013
-2013-11-02,Vasco da Gama,2,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-11-02,São Paulo,2,1,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-11-02,Atlético-MG,5,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-11-03,Goiás,1,0,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-11-03,Santos,0,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-11-03,Grêmio,0,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-11-03,Vitória,1,1,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-11-03,Atlético-PR,1,0,Internacional,False,False,first,Brasileirão Série A,2013
-2013-11-03,Criciúma,1,1,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-11-03,Flamengo,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-11-09,Bahia,0,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-11-09,Portuguesa-SP,0,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-11-09,Flamengo,1,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-11-10,Internacional,2,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-11-10,Cruzeiro,3,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-11-10,Atlético-PR,3,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-11-10,Ponte Preta-SP,0,3,Vitória,False,False,first,Brasileirão Série A,2013
-2013-11-10,Corinthians,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-11-10,Náutico,0,1,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-11-10,Vasco da Gama,2,2,Santos,False,False,first,Brasileirão Série A,2013
-2013-11-13,Goiás,2,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-11-13,Grêmio,1,0,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-11-13,Criciúma,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-11-13,Botafogo,0,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-11-13,Coritiba,0,1,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-11-13,São Paulo,2,0,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-11-13,Vitória,1,3,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-11-14,Santos,3,0,Bahia,False,False,first,Brasileirão Série A,2013
-2013-11-14,Atlético-MG,2,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-11-14,Fluminense,2,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-11-16,Botafogo,4,0,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-11-16,Coritiba,1,2,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-11-17,Vitória,2,0,Santos,False,False,first,Brasileirão Série A,2013
-2013-11-17,Cruzeiro,2,2,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-11-17,Fluminense,2,1,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-11-17,Corinthians,0,0,Vasco da Gama,False,False,first,Brasileirão Série A,2013
-2013-11-17,Náutico,0,1,Bahia,False,False,first,Brasileirão Série A,2013
-2013-11-17,Portuguesa-SP,2,0,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-11-17,Goiás,3,1,Internacional,False,False,first,Brasileirão Série A,2013
-2013-11-17,Grêmio,2,1,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-11-23,Criciúma,1,1,Vitória,False,False,first,Brasileirão Série A,2013
-2013-11-23,Vasco da Gama,2,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-11-23,Atlético-MG,4,1,Goiás,False,False,first,Brasileirão Série A,2013
-2013-11-24,Flamengo,1,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-11-24,Ponte Preta-SP,1,1,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-11-24,Santos,1,0,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-11-24,Atlético-PR,6,1,Náutico,False,False,first,Brasileirão Série A,2013
-2013-11-24,Internacional,0,0,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-11-24,São Paulo,1,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-11-24,Bahia,1,0,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-11-30,Fluminense,2,2,Atlético-MG,False,False,first,Brasileirão Série A,2013
-2013-11-30,Corinthians,0,0,Internacional,False,False,first,Brasileirão Série A,2013
-2013-12-01,Coritiba,2,1,Botafogo,False,False,first,Brasileirão Série A,2013
-2013-12-01,Cruzeiro,1,2,Bahia,False,False,first,Brasileirão Série A,2013
-2013-12-01,Ponte Preta-SP,0,2,Portuguesa-SP,False,False,first,Brasileirão Série A,2013
-2013-12-01,Criciúma,1,0,São Paulo,False,False,first,Brasileirão Série A,2013
-2013-12-01,Vasco da Gama,2,0,Náutico,False,False,first,Brasileirão Série A,2013
-2013-12-01,Vitória,4,2,Flamengo,False,False,first,Brasileirão Série A,2013
-2013-12-01,Santos,2,1,Atlético-PR,False,False,first,Brasileirão Série A,2013
-2013-12-01,Grêmio,1,0,Goiás,False,False,first,Brasileirão Série A,2013
-2013-12-07,Flamengo,1,1,Cruzeiro,False,False,first,Brasileirão Série A,2013
-2013-12-07,Náutico,1,0,Corinthians,False,False,first,Brasileirão Série A,2013
-2013-12-08,Portuguesa-SP,0,0,Grêmio,False,False,first,Brasileirão Série A,2013
-2013-12-08,Botafogo,3,0,Criciúma,False,False,first,Brasileirão Série A,2013
-2013-12-08,Internacional,0,0,Ponte Preta-SP,False,False,first,Brasileirão Série A,2013
-2013-12-08,Goiás,0,3,Santos,False,False,first,Brasileirão Série A,2013
-2013-12-08,São Paulo,0,1,Coritiba,False,False,first,Brasileirão Série A,2013
-2013-12-08,Atlético-MG,2,2,Vitória,False,False,first,Brasileirão Série A,2013
-2013-12-08,Bahia,1,2,Fluminense,False,False,first,Brasileirão Série A,2013
-2013-12-08,Atlético-PR,5,1,Vasco da Gama,False,False,first,Brasileirão Série A,2013
+2013-05-25,Vasco da Gama,1,0,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-25,Vitória,2,2,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-25,Corinthians,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Grêmio,2,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Ponte Preta-SP,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Criciúma,3,1,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Santos,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Fluminense,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Cruzeiro,5,0,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-26,Coritiba,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,Botafogo,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,Atlético-PR,2,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,Náutico,0,3,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,Bahia,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,Flamengo,0,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,Goiás,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-29,São Paulo,5,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-05-30,Internacional,2,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-09,Atlético-MG,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-12,Portuguesa-SP,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-01,Botafogo,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-01,Atlético-PR,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-01,Vitória,2,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-01,Goiás,1,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-01,Santos,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-01,Corinthians,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-02,Atlético-MG,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-02,Fluminense,3,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-02,Internacional,1,2,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-02,Náutico,2,2,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,São Paulo,0,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Criciúma,3,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Portuguesa-SP,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Ponte Preta-SP,3,4,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Vasco da Gama,2,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Grêmio,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Bahia,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Flamengo,0,1,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-05,Cruzeiro,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-06,Coritiba,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-08,Criciúma,0,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-08,Cruzeiro,2,2,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-08,Corinthians,0,0,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-08,Vasco da Gama,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-08,Ponte Preta-SP,0,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-09,Vitória,3,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-09,Fluminense,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-09,Coritiba,1,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-12,Grêmio,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-06-12,Santos,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-06,Flamengo,2,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-06,Atlético-PR,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-06,Náutico,1,3,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-06,Portuguesa-SP,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-07,Goiás,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-07,São Paulo,0,2,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-07,Bahia,0,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-07,Internacional,5,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-07,Botafogo,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-07,Atlético-MG,3,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-13,Santos,4,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-13,Fluminense,2,3,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-13,Ponte Preta-SP,0,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Vitória,3,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Grêmio,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Coritiba,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Corinthians,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Cruzeiro,3,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Vasco da Gama,0,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-14,Criciúma,0,0,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-20,Criciúma,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-20,São Paulo,0,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-20,Botafogo,2,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-21,Santos,2,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-21,Vitória,0,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-21,Atlético-PR,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-21,Internacional,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-21,Fluminense,1,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-21,Goiás,2,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-03,Atlético-MG,4,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-27,Vasco da Gama,3,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-27,Portuguesa-SP,2,3,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-27,Ponte Preta-SP,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Cruzeiro,4,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Náutico,3,0,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Grêmio,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Corinthians,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Coritiba,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Flamengo,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-28,Bahia,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-31,Fluminense,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-31,Atlético-MG,1,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-31,Portuguesa-SP,1,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-31,Coritiba,5,3,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-31,Corinthians,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-31,Bahia,3,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-01,Botafogo,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-01,Goiás,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-03,Náutico,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-10,Internacional,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-10,São Paulo,1,2,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-03,Cruzeiro,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Ponte Preta-SP,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Flamengo,3,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Atlético-PR,2,0,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Grêmio,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Criciúma,0,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Vitória,2,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-04,Vasco da Gama,2,3,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-25,Santos,1,1,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-07-24,São Paulo,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Vitória,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Criciúma,1,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Atlético-PR,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Flamengo,1,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Santos,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Goiás,2,1,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-07,Atlético-MG,2,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-08,Grêmio,0,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-08,Vasco da Gama,1,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-10,Botafogo,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-10,Náutico,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Coritiba,0,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Corinthians,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Fluminense,3,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Cruzeiro,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Bahia,0,3,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Portuguesa-SP,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Internacional,2,2,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-11,Ponte Preta-SP,3,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Criciúma,3,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Santos,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Atlético-MG,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Coritiba,1,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Vitória,3,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Goiás,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Grêmio,3,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-14,Fluminense,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-15,São Paulo,1,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-15,Botafogo,3,3,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-17,Cruzeiro,5,1,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-17,Náutico,0,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-17,Vasco da Gama,2,3,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Flamengo,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Corinthians,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Ponte Preta-SP,0,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Portuguesa-SP,1,3,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Bahia,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Atlético-PR,2,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-18,Internacional,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-24,Flamengo,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-24,Ponte Preta-SP,0,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-24,Santos,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-24,Criciúma,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-25,Bahia,2,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-25,Vasco da Gama,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-25,São Paulo,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-25,Atlético-MG,2,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-25,Atlético-PR,2,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-25,Internacional,3,3,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-31,Goiás,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-31,Portuguesa-SP,4,2,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-31,Náutico,1,4,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-31,Grêmio,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-08-31,Fluminense,0,2,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-01,Coritiba,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-01,Botafogo,0,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-01,Corinthians,4,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-01,Vitória,0,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-01,Cruzeiro,5,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-03,Goiás,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-04,Atlético-PR,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-04,Flamengo,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-04,Portuguesa-SP,2,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-04,Internacional,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-04,Bahia,1,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-04,Atlético-MG,2,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-05,Náutico,0,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-05,Botafogo,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-05,São Paulo,1,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-07,Santos,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-07,Fluminense,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-07,Ponte Preta-SP,1,3,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-07,Vitória,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-07,Grêmio,3,2,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-08,Coritiba,2,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-08,Cruzeiro,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-08,Corinthians,0,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-08,Vasco da Gama,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-08,Criciúma,1,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-11,Atlético-PR,1,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-11,Bahia,2,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-11,Goiás,1,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-11,Náutico,0,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-11,Botafogo,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-11,Portuguesa-SP,2,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-12,Internacional,2,2,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-12,Atlético-MG,3,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-12,Flamengo,2,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-12,São Paulo,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-14,Cruzeiro,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-14,Fluminense,2,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Ponte Preta-SP,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Criciúma,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Vasco da Gama,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Coritiba,2,2,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Corinthians,1,2,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Santos,1,2,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Grêmio,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-15,Vitória,2,1,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,Grêmio,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,Vasco da Gama,1,2,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,Criciúma,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,Coritiba,2,2,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,Cruzeiro,3,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,Ponte Preta-SP,2,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-18,São Paulo,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-19,Flamengo,2,4,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-19,Bahia,2,0,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-19,Portuguesa-SP,3,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-21,Fluminense,1,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-21,Vitória,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Internacional,0,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Náutico,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Goiás,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Corinthians,0,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Botafogo,1,2,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Santos,2,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Atlético-MG,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-22,Atlético-PR,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-28,Náutico,3,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-28,Goiás,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-28,Botafogo,0,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,Bahia,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,São Paulo,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,Flamengo,4,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,Portuguesa-SP,4,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,Internacional,1,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,Atlético-MG,3,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-29,Atlético-PR,3,5,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-09-25,Criciúma,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-01,Ponte Preta-SP,1,2,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Cruzeiro,4,0,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Grêmio,1,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Fluminense,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Vitória,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Corinthians,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Coritiba,0,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-02,Santos,3,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-03,Vasco da Gama,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-05,Botafogo,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-05,São Paulo,3,2,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Atlético-MG,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Náutico,1,4,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Internacional,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Flamengo,1,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Atlético-PR,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Bahia,1,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Goiás,1,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-06,Portuguesa-SP,3,0,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Grêmio,1,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Coritiba,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Bahia,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Ponte Preta-SP,2,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Náutico,1,3,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Vasco da Gama,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Corinthians,0,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-09,Cruzeiro,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-10,Portuguesa-SP,1,2,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-10,Flamengo,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-12,Vitória,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-12,Fluminense,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-12,Santos,2,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,Criciúma,3,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,Internacional,4,1,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,São Paulo,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,Atlético-MG,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,Atlético-PR,1,0,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,Goiás,3,1,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-13,Botafogo,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Cruzeiro,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Santos,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,São Paulo,3,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Criciúma,1,3,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Ponte Preta-SP,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Flamengo,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Atlético-PR,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-16,Grêmio,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-17,Vasco da Gama,0,2,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-17,Vitória,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-19,Fluminense,1,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-19,Náutico,1,5,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-19,Corinthians,1,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Bahia,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Internacional,2,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Goiás,3,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Atlético-MG,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Botafogo,2,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Coritiba,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-20,Portuguesa-SP,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-26,Botafogo,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-26,Cruzeiro,5,3,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Bahia,1,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Ponte Preta-SP,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Internacional,2,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Corinthians,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Portuguesa-SP,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Coritiba,4,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Fluminense,2,3,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-10-27,Náutico,0,2,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-02,Vasco da Gama,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-02,São Paulo,2,1,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-02,Atlético-MG,5,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Goiás,1,0,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Santos,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Grêmio,0,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Vitória,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Atlético-PR,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Criciúma,1,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-03,Flamengo,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-09,Bahia,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-09,Portuguesa-SP,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-09,Flamengo,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Internacional,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Cruzeiro,3,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Atlético-PR,3,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Ponte Preta-SP,0,3,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Corinthians,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Náutico,0,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-10,Vasco da Gama,2,2,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,Goiás,2,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,Grêmio,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,Criciúma,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,Botafogo,0,0,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,Coritiba,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,São Paulo,2,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-13,Vitória,1,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-14,Santos,3,0,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-14,Atlético-MG,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-14,Fluminense,2,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-16,Botafogo,4,0,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-16,Coritiba,1,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Vitória,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Cruzeiro,2,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Fluminense,2,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Corinthians,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Náutico,0,1,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Portuguesa-SP,2,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Goiás,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-17,Grêmio,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-23,Criciúma,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-23,Vasco da Gama,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-23,Atlético-MG,4,1,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,Flamengo,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,Ponte Preta-SP,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,Santos,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,Atlético-PR,6,1,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,Internacional,0,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,São Paulo,1,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-24,Bahia,1,0,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-30,Fluminense,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2013
+2013-11-30,Corinthians,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Coritiba,2,1,Botafogo,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Cruzeiro,1,2,Bahia,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Ponte Preta-SP,0,2,Portuguesa-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Criciúma,1,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Vasco da Gama,2,0,Náutico,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Vitória,4,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Santos,2,1,Atlético-PR,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-01,Grêmio,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-07,Flamengo,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-07,Náutico,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Portuguesa-SP,0,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Botafogo,3,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Internacional,0,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Goiás,0,3,Santos,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,São Paulo,0,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Atlético-MG,2,2,Vitória,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Bahia,1,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2013
+2013-12-08,Atlético-PR,5,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2013

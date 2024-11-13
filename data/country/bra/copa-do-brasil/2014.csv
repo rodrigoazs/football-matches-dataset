@@ -1,160 +1,160 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2014-02-19,Real Noroeste-ES,1,1,Rio Branco-AC,False,False,first,Copa de Brasil,2014
-2014-02-26,Rio Branco-AC,1,0,Real Noroeste-ES,False,False,first,Copa de Brasil,2014
-2014-04-03,Resende,0,0,Vasco da Gama,False,False,first,Copa de Brasil,2014
-2014-04-17,Vasco da Gama,1,0,Resende,False,False,first,Copa de Brasil,2014
-2014-03-12,Tombense,1,1,Treze,False,False,first,Copa de Brasil,2014
-2014-04-09,Treze,2,1,Tombense,False,False,first,Copa de Brasil,2014
-2014-03-12,Náutico-RR,1,4,Ponte Preta-SP,False,False,first,Copa de Brasil,2014
-2014-03-20,São Bernardo-SP,1,1,Paraná-PR,False,False,first,Copa de Brasil,2014
-2014-04-10,Paraná-PR,3,1,São Bernardo-SP,False,False,first,Copa de Brasil,2014
-2014-03-19,J. Malucelli,1,1,Vitória,False,False,first,Copa de Brasil,2014
-2014-04-24,Vitória,1,1,J. Malucelli,False,False,first,Copa de Brasil,2014
-2014-04-09,Novo Hamburgo-RS,1,0,Joinville,False,False,first,Copa de Brasil,2014
-2014-04-22,Joinville,2,2,Novo Hamburgo-RS,False,False,first,Copa de Brasil,2014
-2014-03-12,Flamengo-PI,0,1,Atlético-GO,False,False,first,Copa de Brasil,2014
-2014-04-09,Atlético-GO,2,2,Flamengo-PI,False,False,first,Copa de Brasil,2014
-2014-03-12,Desportiva,1,0,ABC,False,False,first,Copa de Brasil,2014
-2014-04-02,ABC,4,1,Desportiva,False,False,first,Copa de Brasil,2014
-2014-04-02,Mixto,0,0,Santos,False,False,first,Copa de Brasil,2014
-2014-04-16,Santos,3,0,Mixto,False,False,first,Copa de Brasil,2014
-2014-04-16,Princesa do Solimões,3,1,Brasiliense,False,False,first,Copa de Brasil,2014
-2014-04-23,Brasiliense,4,2,Princesa do Solimões,False,False,first,Copa de Brasil,2014
-2014-03-12,Londrina,2,0,Criciúma,False,False,first,Copa de Brasil,2014
-2014-04-10,Criciúma,2,1,Londrina,False,False,first,Copa de Brasil,2014
-2014-03-12,Goianésia,2,2,Barueri,False,False,first,Copa de Brasil,2014
-2014-04-09,Barueri,0,0,Goianésia,False,False,first,Copa de Brasil,2014
-2014-03-12,Vilhena-RO,0,1,Palmeiras,False,False,first,Copa de Brasil,2014
-2014-04-02,Palmeiras,2,0,Vilhena-RO,False,False,first,Copa de Brasil,2014
-2014-03-12,Interporto,2,2,Sampaio Corrêa-MA,False,False,first,Copa de Brasil,2014
-2014-04-09,Sampaio Corrêa-MA,3,1,Interporto,False,False,first,Copa de Brasil,2014
-2014-04-02,Naviraiense-MS,1,4,Avaí,False,False,first,Copa de Brasil,2014
-2014-04-03,Paragominas-PA,0,4,ASA,False,False,first,Copa de Brasil,2014
-2014-03-20,Horizonte,3,1,Fluminense,False,False,first,Copa de Brasil,2014
-2014-04-10,Fluminense,5,0,Horizonte,False,False,first,Copa de Brasil,2014
-2014-03-12,Juazeiro,0,2,Tupi-MG,False,False,first,Copa de Brasil,2014
-2014-03-12,Sergipe-SE,1,0,Náutico-PE,False,False,first,Copa de Brasil,2014
-2014-04-09,Náutico-PE,1,0,Sergipe-SE,False,False,first,Copa de Brasil,2014
-2014-04-02,Boavista,1,2,América-RN,False,False,first,Copa de Brasil,2014
-2014-04-23,América-RN,2,0,Boavista,False,False,first,Copa de Brasil,2014
-2014-03-19,Bahia de Feira,0,2,Corinthians,False,False,first,Copa de Brasil,2014
-2014-03-12,São Luiz-RS,2,2,Nacional-AM,False,False,first,Copa de Brasil,2014
-2014-04-09,Nacional-AM,2,1,São Luiz-RS,False,False,first,Copa de Brasil,2014
-2014-03-19,Villa Nova-MG,1,1,Bahia,False,False,first,Copa de Brasil,2014
-2014-04-17,Bahia,2,0,Villa Nova-MG,False,False,first,Copa de Brasil,2014
-2014-04-02,Santos-AP,0,3,América-MG,False,False,first,Copa de Brasil,2014
-2014-04-02,Botafogo-PB,2,0,Goiás,False,False,first,Copa de Brasil,2014
-2014-04-16,Goiás,0,0,Botafogo-PB,False,False,first,Copa de Brasil,2014
-2014-04-09,Lagarto-SE,0,1,Santa Cruz-PE,False,False,first,Copa de Brasil,2014
-2014-05-07,Santa Cruz-PE,3,1,Lagarto-SE,False,False,first,Copa de Brasil,2014
-2014-04-02,Potiguar-M (EN),1,0,Portuguesa-SP,False,False,first,Copa de Brasil,2014
-2014-04-09,Portuguesa-SP,2,1,Potiguar-M (EN),False,False,first,Copa de Brasil,2014
-2014-04-02,Santa Rita-AL,0,0,Guarani-SP,False,False,first,Copa de Brasil,2014
-2014-04-09,Guarani-SP,1,2,Santa Rita-AL,False,False,first,Copa de Brasil,2014
-2014-03-12,CSA,0,1,São Paulo,False,False,first,Copa de Brasil,2014
-2014-04-09,São Paulo,3,0,CSA,False,False,first,Copa de Brasil,2014
-2014-03-13,Rondonópolis-MT,2,2,CRB,False,False,first,Copa de Brasil,2014
-2014-04-09,CRB,2,0,Rondonópolis-MT,False,False,first,Copa de Brasil,2014
-2014-04-02,Plácido de Castro-AC,0,0,Figueirense-SC,False,False,first,Copa de Brasil,2014
-2014-04-09,Figueirense-SC,3,1,Plácido de Castro-AC,False,False,first,Copa de Brasil,2014
-2014-04-02,Lajeadense-RS,0,0,RB Bragantino,False,False,first,Copa de Brasil,2014
-2014-04-09,RB Bragantino,1,0,Lajeadense-RS,False,False,first,Copa de Brasil,2014
-2014-03-13,CENE,2,2,Coritiba,False,False,first,Copa de Brasil,2014
-2014-04-16,Coritiba,2,0,CENE,False,False,first,Copa de Brasil,2014
-2014-04-02,Caldense,2,0,Duque de Caxias,False,False,first,Copa de Brasil,2014
-2014-04-16,Duque de Caxias,2,2,Caldense,False,False,first,Copa de Brasil,2014
-2014-05-01,Brasília,1,3,Sport,False,False,first,Copa de Brasil,2014
-2014-04-02,Maranhão,2,2,Paysandu,False,False,first,Copa de Brasil,2014
-2014-04-16,Paysandu,2,1,Maranhão,False,False,first,Copa de Brasil,2014
-2014-03-12,Remo,1,6,Internacional,False,False,first,Copa de Brasil,2014
-2014-04-02,Barbalha,0,0,Cuiabá,False,False,first,Copa de Brasil,2014
-2014-04-16,Cuiabá,2,0,Barbalha,False,False,first,Copa de Brasil,2014
-2014-04-30,Parnahyba-PI,0,1,Ceará,False,False,first,Copa de Brasil,2014
-2014-05-07,Ceará,4,1,Parnahyba-PI,False,False,first,Copa de Brasil,2014
-2014-04-08,Rio Branco-AC,0,2,Chapecoense,False,False,first,Copa de Brasil,2014
-2014-04-30,Treze,2,1,Vasco da Gama,False,False,second,Copa de Brasil,2014
-2014-05-07,Vasco da Gama,1,1,Treze,False,False,second,Copa de Brasil,2014
-2014-04-22,Paraná,1,1,Ponte Preta,False,False,second,Copa de Brasil,2014
-2014-05-06,Ponte Preta,1,1,Paraná,False,False,second,Copa de Brasil,2014
-2014-05-01,Novo Hamburgo,1,0,J. Malucelli,False,False,second,Copa de Brasil,2014
-2014-05-07,J. Malucelli,0,2,Novo Hamburgo,False,False,second,Copa de Brasil,2014
-2014-05-07,ABC,1,1,Atlético-GO,False,False,second,Copa de Brasil,2014
-2014-05-14,Atlético-GO,1,2,ABC,False,False,second,Copa de Brasil,2014
-2014-05-08,Princesa do Solimões,1,2,Santos,False,False,second,Copa de Brasil,2014
-2014-05-15,Santos,4,2,Princesa do Solimões,False,False,second,Copa de Brasil,2014
-2014-05-01,Londrina,0,0,Barueri,False,False,second,Copa de Brasil,2014
-2014-05-08,Barueri,3,3,Londrina,False,False,second,Copa de Brasil,2014
-2014-05-07,Sampaio Corrêa-MA,2,1,Palmeiras,False,False,second,Copa de Brasil,2014
-2014-05-14,Palmeiras,3,0,Sampaio Corrêa-MA,False,False,second,Copa de Brasil,2014
-2014-05-07,ASA,3,2,Avaí,False,False,second,Copa de Brasil,2014
-2014-05-13,Avaí,2,1,ASA,False,False,second,Copa de Brasil,2014
-2014-04-23,Tupi-MG,0,3,Fluminense,False,False,second,Copa de Brasil,2014
-2014-05-06,América-RN,3,0,Náutico,False,False,second,Copa de Brasil,2014
-2014-05-13,Náutico,2,0,América-RN,False,False,second,Copa de Brasil,2014
-2014-04-30,Nacional,0,3,Corinthians,False,False,second,Copa de Brasil,2014
-2014-05-07,América-MG,0,0,Bahia,False,False,second,Copa de Brasil,2014
-2014-05-14,Bahia,2,1,América-MG,False,False,second,Copa de Brasil,2014
-2014-05-14,Botafogo-PB,1,1,Santa Cruz,False,False,second,Copa de Brasil,2014
-2014-07-23,Santa Cruz,2,1,Botafogo-PB,False,False,second,Copa de Brasil,2014
-2014-04-24,Santa Rita,2,0,Potiguar-M,False,False,second,Copa de Brasil,2014
-2014-05-01,Potiguar-M,2,5,Santa Rita,False,False,second,Copa de Brasil,2014
-2014-04-23,CRB,2,1,São Paulo,False,False,second,Copa de Brasil,2014
-2014-05-07,São Paulo,3,0,CRB,False,False,second,Copa de Brasil,2014
-2014-05-07,RB Bragantino,2,1,Figueirense,False,False,second,Copa de Brasil,2014
-2014-07-22,Figueirense,2,1,RB Bragantino,False,False,second,Copa de Brasil,2014
-2014-04-30,Caldense,0,2,Coritiba,False,False,second,Copa de Brasil,2014
-2014-05-15,Paysandu,2,1,Sport,False,False,second,Copa de Brasil,2014
-2014-07-24,Sport,3,2,Paysandu,False,False,second,Copa de Brasil,2014
-2014-05-01,Cuiabá,1,1,Internacional,False,False,second,Copa de Brasil,2014
-2014-05-14,Internacional,4,1,Cuiabá,False,False,second,Copa de Brasil,2014
-2014-05-14,Chapecoense,1,2,Ceará,False,False,second,Copa de Brasil,2014
-2014-07-23,Ceará,1,1,Chapecoense,False,False,second,Copa de Brasil,2014
-2014-07-23,Ponte Preta,0,2,Vasco da Gama,False,False,third,Copa de Brasil,2014
-2014-07-30,Vasco da Gama,2,1,Ponte Preta,False,False,third,Copa de Brasil,2014
-2014-07-23,ABC,1,0,Novo Hamburgo,False,False,third,Copa de Brasil,2014
-2014-07-30,Novo Hamburgo,2,0,ABC,False,False,third,Copa de Brasil,2014
-2014-07-31,Londrina,2,1,Santos,False,False,third,Copa de Brasil,2014
-2014-08-14,Santos,2,0,Londrina,False,False,third,Copa de Brasil,2014
-2014-07-23,Avaí,0,2,Palmeiras,False,False,third,Copa de Brasil,2014
-2014-08-06,Palmeiras,1,0,Avaí,False,False,third,Copa de Brasil,2014
-2014-08-06,América-RN,0,2,Fluminense,False,False,third,Copa de Brasil,2014
-2014-08-13,Fluminense,2,5,América-RN,False,False,third,Copa de Brasil,2014
-2014-07-23,Corinthians,3,0,Bahia,False,False,third,Copa de Brasil,2014
-2014-08-06,Bahia,1,0,Corinthians,False,False,third,Copa de Brasil,2014
-2014-08-06,Santa Rita,3,2,Santa Cruz,False,False,third,Copa de Brasil,2014
-2014-08-14,Santa Cruz,1,1,Santa Rita,False,False,third,Copa de Brasil,2014
-2014-07-30,RB Bragantino,1,2,São Paulo,False,False,third,Copa de Brasil,2014
-2014-08-13,São Paulo,1,3,RB Bragantino,False,False,third,Copa de Brasil,2014
-2014-07-31,Coritiba,2,0,Paysandu,False,False,third,Copa de Brasil,2014
-2014-08-13,Paysandu,2,1,Coritiba,False,False,third,Copa de Brasil,2014
-2014-07-30,Internacional,1,2,Ceará,False,False,third,Copa de Brasil,2014
-2014-08-13,Ceará,3,1,Internacional,False,False,third,Copa de Brasil,2014
-2014-08-28,Grêmio,0,2,Santos,False,False,round16,Copa de Brasil,2014
-2014-08-27,Botafogo,1,2,Ceará,False,False,round16,Copa de Brasil,2014
-2014-09-03,Ceará,3,4,Botafogo,False,False,round16,Copa de Brasil,2014
-2014-08-27,Cruzeiro,5,0,Santa Rita,False,False,round16,Copa de Brasil,2014
-2014-09-03,Santa Rita,1,2,Cruzeiro,False,False,round16,Copa de Brasil,2014
-2014-08-26,Vasco da Gama,1,1,ABC,False,False,round16,Copa de Brasil,2014
-2014-09-03,ABC,2,1,Vasco da Gama,False,False,round16,Copa de Brasil,2014
-2014-08-27,Coritiba,3,0,Flamengo,False,False,round16,Copa de Brasil,2014
-2014-09-03,Flamengo,3,0,Coritiba,False,False,round16,Copa de Brasil,2014
-2014-08-27,América-RN,3,0,Atlético-PR,False,False,round16,Copa de Brasil,2014
-2014-09-03,Atlético-PR,2,0,América-RN,False,False,round16,Copa de Brasil,2014
-2014-08-27,Palmeiras,0,1,Atlético-MG,False,False,round16,Copa de Brasil,2014
-2014-09-04,Atlético-MG,2,0,Palmeiras,False,False,round16,Copa de Brasil,2014
-2014-08-27,RB Bragantino,1,0,Corinthians,False,False,round16,Copa de Brasil,2014
-2014-09-03,Corinthians,3,1,RB Bragantino,False,False,round16,Copa de Brasil,2014
-2014-10-01,Botafogo,2,3,Santos,False,False,quarter,Copa de Brasil,2014
-2014-10-16,Santos,5,0,Botafogo,False,False,quarter,Copa de Brasil,2014
-2014-10-01,Cruzeiro,1,0,ABC,False,False,quarter,Copa de Brasil,2014
-2014-10-15,ABC,3,2,Cruzeiro,False,False,quarter,Copa de Brasil,2014
-2014-10-01,América-RN,0,1,Flamengo,False,False,quarter,Copa de Brasil,2014
-2014-10-15,Flamengo,1,0,América-RN,False,False,quarter,Copa de Brasil,2014
-2014-10-01,Corinthians,2,0,Atlético-MG,False,False,quarter,Copa de Brasil,2014
-2014-10-15,Atlético-MG,4,1,Corinthians,False,False,quarter,Copa de Brasil,2014
-2014-10-29,Cruzeiro,1,0,Santos,False,False,semi,Copa de Brasil,2014
-2014-11-05,Santos,3,3,Cruzeiro,False,False,semi,Copa de Brasil,2014
-2014-10-29,Flamengo,2,0,Atlético-MG,False,False,semi,Copa de Brasil,2014
-2014-11-05,Atlético-MG,4,1,Flamengo,False,False,semi,Copa de Brasil,2014
-2014-11-12,Atlético-MG,2,0,Cruzeiro,False,False,final,Copa de Brasil,2014
-2014-11-26,Cruzeiro,0,1,Atlético-MG,False,False,final,Copa de Brasil,2014
+2014-02-19,Real Noroeste-ES,1,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,2014
+2014-02-26,Rio Branco-AC,1,0,Real Noroeste-ES,False,False,First Round,Copa de Brasil,2014
+2014-04-03,Resende,0,0,Vasco da Gama,False,False,First Round,Copa de Brasil,2014
+2014-04-17,Vasco da Gama,1,0,Resende,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Tombense,1,1,Treze,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Treze,2,1,Tombense,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Náutico-RR,1,4,Ponte Preta-SP,False,False,First Round,Copa de Brasil,2014
+2014-03-20,São Bernardo-SP,1,1,Paraná-PR,False,False,First Round,Copa de Brasil,2014
+2014-04-10,Paraná-PR,3,1,São Bernardo-SP,False,False,First Round,Copa de Brasil,2014
+2014-03-19,J. Malucelli,1,1,Vitória,False,False,First Round,Copa de Brasil,2014
+2014-04-24,Vitória,1,1,J. Malucelli,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Novo Hamburgo-RS,1,0,Joinville,False,False,First Round,Copa de Brasil,2014
+2014-04-22,Joinville,2,2,Novo Hamburgo-RS,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Flamengo-PI,0,1,Atlético-GO,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Atlético-GO,2,2,Flamengo-PI,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Desportiva,1,0,ABC,False,False,First Round,Copa de Brasil,2014
+2014-04-02,ABC,4,1,Desportiva,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Mixto,0,0,Santos,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Santos,3,0,Mixto,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Princesa do Solimões,3,1,Brasiliense,False,False,First Round,Copa de Brasil,2014
+2014-04-23,Brasiliense,4,2,Princesa do Solimões,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Londrina,2,0,Criciúma,False,False,First Round,Copa de Brasil,2014
+2014-04-10,Criciúma,2,1,Londrina,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Goianésia,2,2,Barueri,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Barueri,0,0,Goianésia,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Vilhena-RO,0,1,Palmeiras,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Palmeiras,2,0,Vilhena-RO,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Interporto,2,2,Sampaio Corrêa-MA,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Sampaio Corrêa-MA,3,1,Interporto,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Naviraiense-MS,1,4,Avaí,False,False,First Round,Copa de Brasil,2014
+2014-04-03,Paragominas-PA,0,4,ASA,False,False,First Round,Copa de Brasil,2014
+2014-03-20,Horizonte,3,1,Fluminense,False,False,First Round,Copa de Brasil,2014
+2014-04-10,Fluminense,5,0,Horizonte,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Juazeiro,0,2,Tupi-MG,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Sergipe-SE,1,0,Náutico-PE,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Náutico-PE,1,0,Sergipe-SE,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Boavista,1,2,América-RN,False,False,First Round,Copa de Brasil,2014
+2014-04-23,América-RN,2,0,Boavista,False,False,First Round,Copa de Brasil,2014
+2014-03-19,Bahia de Feira,0,2,Corinthians,False,False,First Round,Copa de Brasil,2014
+2014-03-12,São Luiz-RS,2,2,Nacional-AM,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Nacional-AM,2,1,São Luiz-RS,False,False,First Round,Copa de Brasil,2014
+2014-03-19,Villa Nova-MG,1,1,Bahia,False,False,First Round,Copa de Brasil,2014
+2014-04-17,Bahia,2,0,Villa Nova-MG,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Santos-AP,0,3,América-MG,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Botafogo-PB,2,0,Goiás,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Goiás,0,0,Botafogo-PB,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Lagarto-SE,0,1,Santa Cruz-PE,False,False,First Round,Copa de Brasil,2014
+2014-05-07,Santa Cruz-PE,3,1,Lagarto-SE,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Potiguar-M (EN),1,0,Portuguesa-SP,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Portuguesa-SP,2,1,Potiguar-M (EN),False,False,First Round,Copa de Brasil,2014
+2014-04-02,Santa Rita-AL,0,0,Guarani-SP,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Guarani-SP,1,2,Santa Rita-AL,False,False,First Round,Copa de Brasil,2014
+2014-03-12,CSA,0,1,São Paulo,False,False,First Round,Copa de Brasil,2014
+2014-04-09,São Paulo,3,0,CSA,False,False,First Round,Copa de Brasil,2014
+2014-03-13,Rondonópolis-MT,2,2,CRB,False,False,First Round,Copa de Brasil,2014
+2014-04-09,CRB,2,0,Rondonópolis-MT,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Plácido de Castro-AC,0,0,Figueirense-SC,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Figueirense-SC,3,1,Plácido de Castro-AC,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Lajeadense-RS,0,0,RB Bragantino,False,False,First Round,Copa de Brasil,2014
+2014-04-09,RB Bragantino,1,0,Lajeadense-RS,False,False,First Round,Copa de Brasil,2014
+2014-03-13,CENE,2,2,Coritiba,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Coritiba,2,0,CENE,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Caldense,2,0,Duque de Caxias,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Duque de Caxias,2,2,Caldense,False,False,First Round,Copa de Brasil,2014
+2014-05-01,Brasília,1,3,Sport,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Maranhão,2,2,Paysandu,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Paysandu,2,1,Maranhão,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Remo,1,6,Internacional,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Barbalha,0,0,Cuiabá,False,False,First Round,Copa de Brasil,2014
+2014-04-16,Cuiabá,2,0,Barbalha,False,False,First Round,Copa de Brasil,2014
+2014-04-30,Parnahyba-PI,0,1,Ceará,False,False,First Round,Copa de Brasil,2014
+2014-05-07,Ceará,4,1,Parnahyba-PI,False,False,First Round,Copa de Brasil,2014
+2014-04-08,Rio Branco-AC,0,2,Chapecoense,False,False,First Round,Copa de Brasil,2014
+2014-04-30,Treze,2,1,Vasco da Gama,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,Vasco da Gama,1,1,Treze,False,False,Second Round,Copa de Brasil,2014
+2014-04-22,Paraná,1,1,Ponte Preta,False,False,Second Round,Copa de Brasil,2014
+2014-05-06,Ponte Preta,1,1,Paraná,False,False,Second Round,Copa de Brasil,2014
+2014-05-01,Novo Hamburgo,1,0,J. Malucelli,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,J. Malucelli,0,2,Novo Hamburgo,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,ABC,1,1,Atlético-GO,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Atlético-GO,1,2,ABC,False,False,Second Round,Copa de Brasil,2014
+2014-05-08,Princesa do Solimões,1,2,Santos,False,False,Second Round,Copa de Brasil,2014
+2014-05-15,Santos,4,2,Princesa do Solimões,False,False,Second Round,Copa de Brasil,2014
+2014-05-01,Londrina,0,0,Barueri,False,False,Second Round,Copa de Brasil,2014
+2014-05-08,Barueri,3,3,Londrina,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,Sampaio Corrêa-MA,2,1,Palmeiras,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Palmeiras,3,0,Sampaio Corrêa-MA,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,ASA,3,2,Avaí,False,False,Second Round,Copa de Brasil,2014
+2014-05-13,Avaí,2,1,ASA,False,False,Second Round,Copa de Brasil,2014
+2014-04-23,Tupi-MG,0,3,Fluminense,False,False,Second Round,Copa de Brasil,2014
+2014-05-06,América-RN,3,0,Náutico,False,False,Second Round,Copa de Brasil,2014
+2014-05-13,Náutico,2,0,América-RN,False,False,Second Round,Copa de Brasil,2014
+2014-04-30,Nacional,0,3,Corinthians,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,América-MG,0,0,Bahia,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Bahia,2,1,América-MG,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Botafogo-PB,1,1,Santa Cruz,False,False,Second Round,Copa de Brasil,2014
+2014-07-23,Santa Cruz,2,1,Botafogo-PB,False,False,Second Round,Copa de Brasil,2014
+2014-04-24,Santa Rita,2,0,Potiguar-M,False,False,Second Round,Copa de Brasil,2014
+2014-05-01,Potiguar-M,2,5,Santa Rita,False,False,Second Round,Copa de Brasil,2014
+2014-04-23,CRB,2,1,São Paulo,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,São Paulo,3,0,CRB,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,RB Bragantino,2,1,Figueirense,False,False,Second Round,Copa de Brasil,2014
+2014-07-22,Figueirense,2,1,RB Bragantino,False,False,Second Round,Copa de Brasil,2014
+2014-04-30,Caldense,0,2,Coritiba,False,False,Second Round,Copa de Brasil,2014
+2014-05-15,Paysandu,2,1,Sport,False,False,Second Round,Copa de Brasil,2014
+2014-07-24,Sport,3,2,Paysandu,False,False,Second Round,Copa de Brasil,2014
+2014-05-01,Cuiabá,1,1,Internacional,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Internacional,4,1,Cuiabá,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Chapecoense,1,2,Ceará,False,False,Second Round,Copa de Brasil,2014
+2014-07-23,Ceará,1,1,Chapecoense,False,False,Second Round,Copa de Brasil,2014
+2014-07-23,Ponte Preta,0,2,Vasco da Gama,False,False,Third Round,Copa de Brasil,2014
+2014-07-30,Vasco da Gama,2,1,Ponte Preta,False,False,Third Round,Copa de Brasil,2014
+2014-07-23,ABC,1,0,Novo Hamburgo,False,False,Third Round,Copa de Brasil,2014
+2014-07-30,Novo Hamburgo,2,0,ABC,False,False,Third Round,Copa de Brasil,2014
+2014-07-31,Londrina,2,1,Santos,False,False,Third Round,Copa de Brasil,2014
+2014-08-14,Santos,2,0,Londrina,False,False,Third Round,Copa de Brasil,2014
+2014-07-23,Avaí,0,2,Palmeiras,False,False,Third Round,Copa de Brasil,2014
+2014-08-06,Palmeiras,1,0,Avaí,False,False,Third Round,Copa de Brasil,2014
+2014-08-06,América-RN,0,2,Fluminense,False,False,Third Round,Copa de Brasil,2014
+2014-08-13,Fluminense,2,5,América-RN,False,False,Third Round,Copa de Brasil,2014
+2014-07-23,Corinthians,3,0,Bahia,False,False,Third Round,Copa de Brasil,2014
+2014-08-06,Bahia,1,0,Corinthians,False,False,Third Round,Copa de Brasil,2014
+2014-08-06,Santa Rita,3,2,Santa Cruz,False,False,Third Round,Copa de Brasil,2014
+2014-08-14,Santa Cruz,1,1,Santa Rita,False,False,Third Round,Copa de Brasil,2014
+2014-07-30,RB Bragantino,1,2,São Paulo,False,False,Third Round,Copa de Brasil,2014
+2014-08-13,São Paulo,1,3,RB Bragantino,False,False,Third Round,Copa de Brasil,2014
+2014-07-31,Coritiba,2,0,Paysandu,False,False,Third Round,Copa de Brasil,2014
+2014-08-13,Paysandu,2,1,Coritiba,False,False,Third Round,Copa de Brasil,2014
+2014-07-30,Internacional,1,2,Ceará,False,False,Third Round,Copa de Brasil,2014
+2014-08-13,Ceará,3,1,Internacional,False,False,Third Round,Copa de Brasil,2014
+2014-08-28,Grêmio,0,2,Santos,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,Botafogo,1,2,Ceará,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,Ceará,3,4,Botafogo,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,Cruzeiro,5,0,Santa Rita,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,Santa Rita,1,2,Cruzeiro,False,False,Round of 16,Copa de Brasil,2014
+2014-08-26,Vasco da Gama,1,1,ABC,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,ABC,2,1,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,Coritiba,3,0,Flamengo,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,Flamengo,3,0,Coritiba,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,América-RN,3,0,Atlético-PR,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,Atlético-PR,2,0,América-RN,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,Palmeiras,0,1,Atlético-MG,False,False,Round of 16,Copa de Brasil,2014
+2014-09-04,Atlético-MG,2,0,Palmeiras,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,RB Bragantino,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,Corinthians,3,1,RB Bragantino,False,False,Round of 16,Copa de Brasil,2014
+2014-10-01,Botafogo,2,3,Santos,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-16,Santos,5,0,Botafogo,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-01,Cruzeiro,1,0,ABC,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-15,ABC,3,2,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-01,América-RN,0,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-15,Flamengo,1,0,América-RN,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-01,Corinthians,2,0,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-15,Atlético-MG,4,1,Corinthians,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-29,Cruzeiro,1,0,Santos,False,False,Semifinal,Copa de Brasil,2014
+2014-11-05,Santos,3,3,Cruzeiro,False,False,Semifinal,Copa de Brasil,2014
+2014-10-29,Flamengo,2,0,Atlético-MG,False,False,Semifinal,Copa de Brasil,2014
+2014-11-05,Atlético-MG,4,1,Flamengo,False,False,Semifinal,Copa de Brasil,2014
+2014-11-12,Atlético-MG,2,0,Cruzeiro,False,False,Final,Copa de Brasil,2014
+2014-11-26,Cruzeiro,0,1,Atlético-MG,False,False,Final,Copa de Brasil,2014
