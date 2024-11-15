@@ -3,11 +3,9 @@ from datetime import datetime
 
 
 def convert_date(date_string, year):
-    for date_format in ["%b %d"]:
+    for date_format in ["%b %d %Y", "%d %b %Y"]:
         try:
-            date_object = datetime.strptime(date_string, date_format).replace(
-                year=int(year)
-            )
+            date_object = datetime.strptime(f"{date_string} {year}", date_format)
             return date_object.strftime("%Y-%m-%d")
         except:
             continue

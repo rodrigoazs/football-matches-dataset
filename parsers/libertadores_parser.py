@@ -17,17 +17,16 @@ def libertadores_parser(text, tournment, year):
         matches = get_match(line, tournment, year, current_date, stage)
         if matches:
             results.extend(matches)
+        # else:
+        #     print(line)
 
-        if line.startswith("First Phase") or line.startswith("First Round"):
-            stage = "First Round"
+        if line.startswith("Preliminary Round") or line.startswith("Qualifying Round"):
+            stage = "Qualifying Round"
 
-        if line.startswith("Second Phase") or line.startswith("Second Round"):
-            stage = "Round of 16"
+        if line.startswith("Group Phase") or line.startswith("Group Stage"):
+            stage = "Group Stage"
 
-        if line.startswith("Third Phase") or line.startswith("Third Round"):
-            stage = "Round of 16"
-
-        if line.startswith("1/8 Finals") or line.lower().startswith("segunda fase"):
+        if line.startswith("Second Phase") or line.startswith("Second Round") or line.startswith("1/8 Finals"):
             stage = "Round of 16"
 
         if (
@@ -39,6 +38,7 @@ def libertadores_parser(text, tournment, year):
 
         if (
             line.startswith("Semifinals")
+            or line.startswith("Semi-Finals")
             or line.startswith("Semifinal")
             or line.lower().startswith("semi final")
         ):
