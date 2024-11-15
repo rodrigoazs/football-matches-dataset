@@ -2,7 +2,7 @@ from parsers.common.date import get_date
 from parsers.common.match import get_match
 
 
-def libertadores_parser(text, year):
+def libertadores_parser(text, tournment, year):
     # Initialize a list to hold the results
     results = []
     lines = text.split("\n")
@@ -14,7 +14,7 @@ def libertadores_parser(text, year):
         if dates:
             current_date = dates
 
-        matches = get_match(line, year, current_date, stage)
+        matches = get_match(line, tournment, year, current_date, stage)
         if matches:
             results.extend(matches)
 

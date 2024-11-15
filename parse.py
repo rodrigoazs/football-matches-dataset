@@ -10,11 +10,15 @@ FOLDER = "data/country/bra/brasileirao-serie-a/"
 generate_matches = {
     "international/clubs/copa-libertadores-de-america": [
         (2009, 2009, 134),
-        (2010, 2016, 138),
-        (2017, 2017, 156),
-        (2018, 2022, 155),
+        (2010, 2014, 138),
+        (2015, 2015, 137),
+        (2016, 2016, 138),
+        (2017, 2018, 156),
+        (2019, 2022, 155),
     ]
 }
+
+tournament_name = "Copa Libertadores de América"
 
 parsers = [parse for name, parse in globals().items() if name.endswith("_parser")]
 
@@ -30,7 +34,7 @@ def main():
                 for parse in parsers:
                     print(f"Parsing with {parse.__name__}")
                     try:
-                        results = parse(text, year)
+                        results = parse(text, tournament_name, year)
                         print("Matches extracted:", len(results))
                         print("Matches expected:", assert_matches)
                         if len(results) == assert_matches:
@@ -55,6 +59,8 @@ def main():
                         "neutral",
                         "knockout",
                         "stage",
+                        "tournament_name",
+                        "tournament_year",
                     ],
                 )
                 dataframe.to_csv(path, index=False)

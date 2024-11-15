@@ -3,14 +3,23 @@ import re
 from parsers.common.date import convert_date
 
 
-def get_match(line, year, date, stage):
-    # El Nacional (Quito)       Ecu  Nacional (Asunción)       Par   0-5  3-3  3-8
+def get_match(line, tournament, year, date, stage):
+    # Boca Juniors (Bs. Aires)  Arg  Newell's Old Boys         Arg   0-0  0-0  0-0  9-10p
     match_pattern = re.compile(
-        r"([A-Za-zÀ-ÿ\s/\-\(\)\.]+)\s+\w{3}\s+([A-Za-zÀ-ÿ\s/\-\(\)\.]+)\s+\w{3}\s+(\d{1,2})\-(\d{1,2})\s+(\d{1,2})\-(\d{1,2})",
+        r"([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+(\d{1,2})\-(\d{1,2})\s+(\d{1,2})\-(\d{1,2})",
         re.UNICODE,
     )
 
     match = match_pattern.search(line)
+
+    if not match:
+        # El Nacional (Quito)       Ecu  Nacional (Asunción)       Par   0-5  3-3  3-8
+        match_pattern = re.compile(
+            r"([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)(?:\s+|\))[A-Z]{1}[a-z]{2}\s+([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)(?:\s+|\))[A-Z]{1}[a-z]{2}\s+(\d{1,2})\-(\d{1,2})\s+(\d{1,2})\-(\d{1,2})",
+            re.UNICODE,
+        )
+
+        match = match_pattern.search(line)
 
     if match:
         match_home_team = match.group(1).strip()
@@ -29,6 +38,8 @@ def get_match(line, year, date, stage):
                 False,
                 False,
                 stage,
+                tournament,
+                year,
             ],
             [
                 date[1],
@@ -39,12 +50,42 @@ def get_match(line, year, date, stage):
                 False,
                 False,
                 stage,
+                tournament,
+                year,
+            ],
+        ]
+
+    # River Plate               Arg  Boca Juniors              Arg   1-0  abd  4-0x
+    match_pattern = re.compile(
+        r"([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+[A-Z]{1}[a-z]{2}\s+([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+[A-Z]{1}[a-z]{2}\s+(\d{1,2})\-(\d{1,2})\s+abd",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_home_team = match.group(1).strip()
+        match_away_team = match.group(2).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+        return [
+            [
+                date[0],
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                False,
+                False,
+                stage,
+                tournament,
+                year,
             ],
         ]
 
     # Feb 17: LDU (Quito) - Palmeiras               3-2
     match_pattern = re.compile(
-        r"(\w{3}\s+\d{1,2})\:\s*([A-Za-zÀ-ÿ\s/\-\(\)\.]+)\s*[\-\–]{1}\s*([A-Za-zÀ-ÿ\s/\-\(\)\.]+)\s+(\d{1,2})\-(\d{1,2})",
+        r"(\w{3}\s+\d{1,2})\:\s*([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s*[\-\–]{1}\s*([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})",
         re.UNICODE,
     )
 
@@ -72,12 +113,14 @@ def get_match(line, year, date, stage):
                 True,
                 knockout,
                 stage,
+                tournament,
+                year,
             ],
         ]
 
     #         Olimpia – Emelec                      2-3
     match_pattern = re.compile(
-        r"([A-Za-zÀ-ÿ\s/\-\(\)\.]+)\s*[\-\–]{1}\s*([A-Za-zÀ-ÿ\s/\-\(\)\.]+)\s+(\d{1,2})\-(\d{1,2})",
+        r"([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s*[\-\–]{1}\s*([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})",
         re.UNICODE,
     )
 
@@ -104,6 +147,42 @@ def get_match(line, year, date, stage):
                 True,
                 knockout,
                 stage,
+                tournament,
+                year,
+            ],
+        ]
+
+    # River Plate (Bs. Aires)   Arg  Flamengo (Rio de Janeiro) Bra   1-2
+    match_pattern = re.compile(
+        r"([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)(?:\s+|\))[A-Z]{1}[a-z]{2}\s+([A-Za-zÀ-ÿ\s/\-\(\)\.\']+)(?:\s+|\))[A-Z]{1}[a-z]{2}\s+(\d{1,2})\-(\d{1,2})",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_home_team = match.group(1).strip()
+        match_away_team = match.group(2).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+
+        knockout = (
+            True
+            if stage in ["Round of 16", "Quarterfinal", "Semifinal", "Final"]
+            else False
+        )
+        return [
+            [
+                date[0],
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                True,
+                knockout,
+                stage,
+                tournament,
+                year,
             ],
         ]
 

@@ -11,7 +11,7 @@ def _convert_date(date_string, year):
         raise Exception(date_string)
 
 
-def format5_parser(text, year):
+def format5_parser(text, tournament, year):
     # Initialize a list to hold the results
     results = []
     lines = text.split("\n")

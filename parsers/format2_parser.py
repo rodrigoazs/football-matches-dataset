@@ -30,7 +30,7 @@ def _convert_date(date_string):
         raise Exception(date_string)
 
 
-def format2_parser(text, year=None):
+def format2_parser(text, tournament, year=None):
     # Initialize a list to hold the results
     results = []
     stage = "first"
