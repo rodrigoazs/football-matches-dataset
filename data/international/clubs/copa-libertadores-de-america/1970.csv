@@ -12,17 +12,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1970-03-19,Bolívar,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1970
 1970-03-19,Boca Juniors,2,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1970
 1970-02-15,Deportivo Galicia,0,2,Valencia,False,False,Group Stage,Copa Libertadores de América,1970
-1970-02-15,Nacional,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1970
-1970-02-21,Deportivo Galicia,0,4,Nacional,False,False,Group Stage,Copa Libertadores de América,1970
+1970-02-15,Nacional de Montevideo,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1970
+1970-02-21,Deportivo Galicia,0,4,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1970
 1970-02-22,Valencia,0,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1970
-1970-02-25,Valencia,2,5,Nacional,False,False,Group Stage,Copa Libertadores de América,1970
+1970-02-25,Valencia,2,5,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1970
 1970-02-27,Deportivo Galicia,0,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1970
 1970-03-03,Valencia,3,1,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1970
-1970-03-06,Peñarol,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,1970
+1970-03-06,Peñarol,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1970
 1970-03-10,Peñarol,4,1,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1970
-1970-03-12,Nacional,1,0,Valencia,False,False,Group Stage,Copa Libertadores de América,1970
+1970-03-12,Nacional de Montevideo,1,0,Valencia,False,False,Group Stage,Copa Libertadores de América,1970
 1970-03-15,Peñarol,11,2,Valencia,False,False,Group Stage,Copa Libertadores de América,1970
-1970-03-16,Nacional,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1970
+1970-03-16,Nacional de Montevideo,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1970
 1970-02-11,Guaraní,1,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1970
 1970-02-15,Guaraní,2,0,Rangers,False,False,Group Stage,Copa Libertadores de América,1970
 1970-02-15,Deportivo Cali,2,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1970
@@ -77,9 +77,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1970-04-26,Peñarol,1,0,Guaraní,False,False,Round of 16,Copa Libertadores de América,1970
 1970-04-29,Guaraní,1,1,LDU Quito,False,False,Round of 16,Copa Libertadores de América,1970
 1970-05-02,Peñarol,2,1,LDU Quito,False,False,Round of 16,Copa Libertadores de América,1970
-1970-04-15,Universidad de Chile,3,0,Nacional,False,False,Round of 16,Copa Libertadores de América,1970
-1970-04-25,Nacional,2,0,Universidad de Chile,False,False,Round of 16,Copa Libertadores de América,1970
-1970-04-28,Universidad de Chile,2,1,Nacional,False,False,Round of 16,Copa Libertadores de América,1970
+1970-04-15,Universidad de Chile,3,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1970
+1970-04-25,Nacional de Montevideo,2,0,Universidad de Chile,False,False,Round of 16,Copa Libertadores de América,1970
+1970-04-28,Universidad de Chile,2,1,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1970
 1970-05-07,River Plate,0,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1970
 1970-05-15,Estudiantes,3,1,River Plate,False,False,Semifinal,Copa Libertadores de América,1970
 1970-05-08,Universidad de Chile,1,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1970

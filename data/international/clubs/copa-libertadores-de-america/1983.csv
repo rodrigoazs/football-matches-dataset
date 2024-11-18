@@ -46,25 +46,25 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1983-05-08,Barcelona,3,3,Atlético,False,False,Group Stage,Copa Libertadores de América,1983
 1983-05-08,El Nacional,3,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1983
 1983-05-11,El Nacional,1,0,Atlético,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-06,Olimpia,1,2,Nacional (Asunción),False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-06,Nacional,1,1,Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-12,Wanderers,3,1,Nacional (Asunción),False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-15,Nacional,4,2,Nacional (Asunción),False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-20,Olimpia,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-27,Nacional (Asunción),0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-27,Wanderers,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-03,Nacional (Asunción),1,1,Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-06,Olimpia,2,3,Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-11,Nacional (Asunción),0,3,Nacional,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-18,Wanderers,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-23,Nacional,3,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-26,Nacional,2,0,Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-06,Olimpia,1,2,Club Nacional,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-06,Nacional de Montevideo,1,1,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-12,Montevideo Wanderers,3,1,Club Nacional,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-15,Nacional de Montevideo,4,2,Club Nacional,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-20,Olimpia,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-27,Club Nacional,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-27,Montevideo Wanderers,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-03,Club Nacional,1,1,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-06,Olimpia,2,3,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-11,Club Nacional,0,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-18,Montevideo Wanderers,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-23,Nacional de Montevideo,3,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-26,Nacional de Montevideo,2,0,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1983
 1983-06-19,Atlético,0,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1983
-1983-06-26,Atlético,1,2,Nacional,False,False,Semifinal,Copa Libertadores de América,1983
-1983-07-05,Peñarol,2,0,Nacional,False,False,Semifinal,Copa Libertadores de América,1983
-1983-07-08,Nacional,5,1,Atlético,False,False,Semifinal,Copa Libertadores de América,1983
+1983-06-26,Atlético,1,2,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1983
+1983-07-05,Peñarol,2,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1983
+1983-07-08,Nacional de Montevideo,5,1,Atlético,False,False,Semifinal,Copa Libertadores de América,1983
 1983-07-12,Peñarol,1,0,Atlético,False,False,Semifinal,Copa Libertadores de América,1983
-1983-07-15,Nacional,1,2,Peñarol,False,False,Semifinal,Copa Libertadores de América,1983
+1983-07-15,Nacional de Montevideo,1,2,Peñarol,False,False,Semifinal,Copa Libertadores de América,1983
 1983-06-21,Grêmio,2,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1983
 1983-06-24,América,1,0,Grêmio,False,False,Semifinal,Copa Libertadores de América,1983
 1983-07-01,Estudiantes,2,0,América,False,False,Semifinal,Copa Libertadores de América,1983

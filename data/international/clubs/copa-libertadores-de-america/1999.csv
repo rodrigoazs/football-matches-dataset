@@ -12,17 +12,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-11-17,Necaxa,1,0,Univ. Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
 1999-11-19,Monterrey,4,1,Univ. Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
 1999-02-23,Estudiantes,2,1,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
-1999-02-24,Bella Vista,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1999
+1999-02-24,Bella Vista,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-02,Monterrey,1,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-06,Estudiantes,2,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-09,Monterrey,1,2,Nacional,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-13,Estudiantes,3,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-09,Monterrey,1,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-13,Estudiantes,3,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-17,Monterrey,4,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-18,Nacional,1,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-18,Nacional de Montevideo,1,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-23,Bella Vista,2,0,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-25,Nacional,2,3,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-25,Nacional de Montevideo,2,3,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-30,Bella Vista,5,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
-1999-04-02,Nacional,2,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
+1999-04-02,Nacional de Montevideo,2,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Vélez Sarsfield,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Deportivo Cali,1,0,Once Caldas,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-02,Once Caldas,4,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1999
@@ -85,8 +85,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-04-21,Universidad Católica,1,3,Bella Vista,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-14,Deportivo Cali,2,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-21,Colo Colo,1,0,Deportivo Cali,False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-14,Cerro Porteño,5,0,Nacional,False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-21,Nacional,2,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-14,Cerro Porteño,5,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-21,Nacional de Montevideo,2,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,1999
 1999-05-05,Deportivo Cali,2,1,Bella Vista,False,False,Quarterfinal,Copa Libertadores de América,1999
 1999-05-12,Bella Vista,1,1,Deportivo Cali,False,False,Quarterfinal,Copa Libertadores de América,1999
 1999-05-05,Estudiantes (Mérida),3,0,Cerro Porteño,False,False,Quarterfinal,Copa Libertadores de América,1999

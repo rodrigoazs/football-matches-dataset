@@ -1,15 +1,15 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1986-07-09,Peñarol,1,3,Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-09,Peñarol,1,3,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
 1986-07-09,Boca Juniors,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
-1986-07-16,Wanderers,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-16,Montevideo Wanderers,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
 1986-07-17,Peñarol,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
-1986-07-23,Wanderers,2,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-23,Montevideo Wanderers,2,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
 1986-07-24,Peñarol,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
-1986-07-29,Wanderers,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-29,Montevideo Wanderers,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
 1986-08-01,Boca Juniors,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
 1986-08-06,River Plate,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
-1986-08-07,Boca Juniors,3,2,Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
-1986-08-14,River Plate,4,2,Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-07,Boca Juniors,3,2,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-14,River Plate,4,2,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
 1986-08-20,River Plate,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
 1986-03-12,América,0,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
 1986-03-18,América,0,0,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
@@ -47,8 +47,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-07-25,Coritiba,3,1,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1986
 1986-07-29,Coritiba,2,0,Bangu,False,False,Group Stage,Copa Libertadores de América,1986
 1986-07-29,Deportivo Quito,0,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1986
-1986-08-07,Olimpia,3,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1986
-1986-08-13,Nacional,1,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-07,Olimpia,3,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-13,Nacional de Montevideo,1,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1986
 1986-09-04,Argentinos Jrs.,0,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1986
 1986-09-11,Barcelona,1,0,Argentinos Jrs.,False,False,Semifinal,Copa Libertadores de América,1986
 1986-09-16,Barcelona,0,3,River Plate,False,False,Semifinal,Copa Libertadores de América,1986

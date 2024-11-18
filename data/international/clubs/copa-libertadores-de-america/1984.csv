@@ -35,18 +35,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1984-05-03,Flamengo,4,2,América,False,False,Group Stage,Copa Libertadores de América,1984
 1984-05-08,Santos,1,3,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1984
 1984-05-10,Flamengo,3,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1984
-1984-03-28,Nacional,1,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1984
+1984-03-28,Nacional de Montevideo,1,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1984
 1984-04-02,El Nacional,3,1,Nueve de Octubre,False,False,Group Stage,Copa Libertadores de América,1984
 1984-04-08,Nueve de Octubre,2,2,Danubio,False,False,Group Stage,Copa Libertadores de América,1984
-1984-04-12,El Nacional,3,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1984
-1984-04-15,Nueve de Octubre,1,3,Nacional,False,False,Group Stage,Copa Libertadores de América,1984
+1984-04-12,El Nacional,3,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1984
+1984-04-15,Nueve de Octubre,1,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1984
 1984-04-15,El Nacional,3,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1984
 1984-04-25,Nueve de Octubre,2,2,El Nacional,False,False,Group Stage,Copa Libertadores de América,1984
-1984-04-28,Danubio,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1984
-1984-05-03,Nacional,1,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1984
+1984-04-28,Danubio,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1984
+1984-05-03,Nacional de Montevideo,1,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1984
 1984-05-04,Danubio,5,1,Nueve de Octubre,False,False,Group Stage,Copa Libertadores de América,1984
 1984-05-08,Danubio,1,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1984
-1984-05-09,Nacional,6,0,Nueve de Octubre,False,False,Group Stage,Copa Libertadores de América,1984
+1984-05-09,Nacional de Montevideo,6,0,Nueve de Octubre,False,False,Group Stage,Copa Libertadores de América,1984
 1984-03-11,Sport,3,2,Mariano Melgar,False,False,Group Stage,Copa Libertadores de América,1984
 1984-03-18,Univ. Los Andes,2,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1984
 1984-03-21,Portuguesa,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,1984
@@ -60,11 +60,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1984-04-08,Sport,2,0,Univ. Los Andes,False,False,Group Stage,Copa Libertadores de América,1984
 1984-04-08,Mariano Melgar,1,2,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1984
 1984-05-11,Univ. Los Andes,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,1984
-1984-05-31,Nacional,1,1,Independiente,False,False,Semifinal,Copa Libertadores de América,1984
+1984-05-31,Nacional de Montevideo,1,1,Independiente,False,False,Semifinal,Copa Libertadores de América,1984
 1984-06-07,Universidad Católica,0,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1984
 1984-06-27,Independiente,2,1,Universidad Católica,False,False,Semifinal,Copa Libertadores de América,1984
-1984-06-30,Nacional,2,0,Universidad Católica,False,False,Semifinal,Copa Libertadores de América,1984
-1984-07-04,Independiente,1,0,Nacional,False,False,Semifinal,Copa Libertadores de América,1984
+1984-06-30,Nacional de Montevideo,2,0,Universidad Católica,False,False,Semifinal,Copa Libertadores de América,1984
+1984-07-04,Independiente,1,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1984
 1984-06-26,Grêmio,5,1,Flamengo,False,False,Semifinal,Copa Libertadores de América,1984
 1984-06-30,Univ. Los Andes,0,3,Flamengo,False,False,Semifinal,Copa Libertadores de América,1984
 1984-07-03,Univ. Los Andes,0,2,Grêmio,False,False,Semifinal,Copa Libertadores de América,1984

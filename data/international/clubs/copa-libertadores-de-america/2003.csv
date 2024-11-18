@@ -72,17 +72,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-10,Bolívar,1,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-10,Pumas UNAM,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-18,Universitario,1,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-25,Nacional,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-25,Nacional de Montevideo,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-26,Universitario,2,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-06,Oriente Petrolero,2,3,Nacional,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-06,Oriente Petrolero,2,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-12,Racing Club,2,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-19,Nacional,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-19,Nacional de Montevideo,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-25,Racing Club,1,1,Universitario,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-01,Nacional,3,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-01,Nacional de Montevideo,3,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-08,Oriente Petrolero,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-09,Racing Club,4,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-09,Racing Club,4,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-16,Oriente Petrolero,0,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-16,Universitario,2,2,Nacional,False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-16,Universitario,2,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-06,Barcelona,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-20,Boca Juniors,2,0,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-26,Colo Colo,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2003
@@ -109,16 +109,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-09,The Strongest,0,2,Corinthians,False,False,Group Stage,Copa Libertadores de América,2003
 2003-05-06,Cruz Azul,0,0,Deportivo Cali,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-13,Deportivo Cali,0,0,Cruz Azul,False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-06,Boca Juniors,0,1,Paysandu SC (Belém),False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-13,Paysandu SC (Belém),2,4,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-06,Nacional (Montevideo),4,4,Santos,False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-13,Santos,2,2,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-06,Boca Juniors,0,1,Paysandu,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-13,Paysandu,2,4,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-06,Nacional de Montevideo,4,4,Santos,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-13,Santos,2,2,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-06,Pumas UNAM (Cd.de México),0,1,Cobreloa,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-13,Cobreloa,0,0,Pumas UNAM (Cd.de México),False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-06,Olimpia (Asunción),2,3,Grêmio,False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-13,Grêmio,3,0,Olimpia (Asunción),False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-06,América (Cali),1,1,Racing Club (Avellaneda),False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-13,Racing Club (Avellaneda),0,0,América (Cali),False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-06,Olimpia,2,3,Grêmio,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-13,Grêmio,3,0,Olimpia,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-06,América (Cali),1,1,Racing Club,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-13,Racing Club,0,0,América (Cali),False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-06,Cerro Porteño (Asunción),0,1,Independiente Medellín,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-13,Independiente Medellín,0,1,Cerro Porteño (Asunción),False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-01,River Plate,2,1,Corinthians,False,False,Round of 16,Copa Libertadores de América,2003

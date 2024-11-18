@@ -5,8 +5,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-02-06,Cerro Porteño,2,3,Cruzeiro,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-01-30,Atlas (Guadalajara),2,0,La Paz FC,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-02-06,La Paz FC,1,0,Atlas (Guadalajara),False,False,Qualifying Round,Copa Libertadores de América,2008
-2008-01-31,Olmedo (Riobamba),1,0,Lanús (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2008
-2008-02-05,Lanús (Buenos Aires),3,0,Olmedo (Riobamba),False,False,Qualifying Round,Copa Libertadores de América,2008
+2008-01-31,Olmedo,1,0,Lanús (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2008
+2008-02-05,Lanús (Buenos Aires),3,0,Olmedo,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-01-31,Cienciano,1,0,Montevideo Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-02-07,Montevideo Wanderers,0,0,Cienciano,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-02-07,Boyacá Chicó,4,3,Audax Italiano,False,False,Qualifying Round,Copa Libertadores de América,2008
@@ -48,17 +48,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-04-22,Colo Colo,1,1,Atlas,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-22,Boca Juniors,3,0,UA Maracaibo,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-13,Coronel Bolognesi,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2008
-2008-02-14,Cienciano,2,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2008
-2008-02-19,Coronel Bolognesi,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2008
+2008-02-14,Cienciano,2,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2008
+2008-02-19,Coronel Bolognesi,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-27,Flamengo,2,1,Cienciano,False,False,Group Stage,Copa Libertadores de América,2008
-2008-03-06,Nacional,3,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2008
+2008-03-06,Nacional de Montevideo,3,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-11,Cienciano,1,0,Coronel Bolognesi,False,False,Group Stage,Copa Libertadores de América,2008
-2008-03-19,Flamengo,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2008
+2008-03-19,Flamengo,2,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-25,Coronel Bolognesi,0,0,Cienciano,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-03,Nacional,1,0,Coronel Bolognesi,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-03,Nacional de Montevideo,1,0,Coronel Bolognesi,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-09,Cienciano,0,3,Flamengo,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-23,Flamengo,2,0,Coronel Bolognesi,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-23,Nacional,3,1,Cienciano,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-23,Nacional de Montevideo,3,1,Cienciano,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-13,Universidad San Martín,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-20,América,2,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-26,Univ. San Martín,0,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2008
@@ -117,8 +117,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-05-07,Cruzeiro,1,2,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2008
 2008-04-30,América (Cdad. de México),2,4,Flamengo,False,False,Round of 16,Copa Libertadores de América,2008
 2008-05-07,Flamengo,0,3,América (Cdad. de México),False,False,Round of 16,Copa Libertadores de América,2008
-2008-04-30,Nacional (Montevideo),0,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,2008
-2008-05-07,São Paulo,2,0,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2008
+2008-04-30,Nacional de Montevideo,0,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,2008
+2008-05-07,São Paulo,2,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2008
 2008-04-30,San Lorenzo de Almagro,2,1,River Plate,False,False,Round of 16,Copa Libertadores de América,2008
 2008-05-08,River Plate,2,2,San Lorenzo de Almagro,False,False,Round of 16,Copa Libertadores de América,2008
 2008-05-01,Santos,2,0,Cúcuta Deportivo,False,False,Round of 16,Copa Libertadores de América,2008

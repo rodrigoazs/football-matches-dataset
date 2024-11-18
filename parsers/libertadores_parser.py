@@ -29,19 +29,43 @@ def fix_name(name):
         "Sport",
         "São Paulo",
         "Vasco da Gama",
+        "Vélez Sarsfield",
+        "Unión Española",
+        "Progreso",
+        "Palestino",
+        "Pachuca",
+        "Once Caldas",
+        "Olmedo",
+        "Olimpia",
     ]
     for team in teams:
         if name.startswith(team):
             return team
         
-    if name == "EC Bahia":
-        return "Bahia"
-    
-    if name == "J. Wilstermann":
-        return "Jorge Wilstermann"
-    
-    if name == "Santos FC":
-        return "Santos"
+    mapping = {
+        "Wanderers": "Montevideo Wanderers",
+        "EC Bahia": "Bahia",
+        "J. Wilstermann": "Jorge Wilstermann",
+        "Santos FC": "Santos",
+        "Wanderers (Montevideo)": "Montevideo Wanderers",
+        "Vélez Sarfield": "Vélez Sarsfield",
+        "Vélez Sársfield": "Vélez Sarsfield",
+        "Universitario (Sucre)": "Universitario de Sucre",
+        "Universitario (Lima)": "Universitario",
+        "Racing": "Racing Club",
+        "Racing Club (Avellaneda)": "Racing Club",
+        "Racing (Montevideo)": "Racing Club de Montevideo",
+        "Paysandu SC (Belém)": "Paysandu",
+        "Nacional (A)": "Club Nacional",
+        "Nacional (A.)": "Club Nacional",
+        "Nacional (Asunción)": "Club Nacional",
+        "Nacional (M.)": "Nacional de Montevideo",
+        "Nacional (Montevideo)": "Nacional de Montevideo",
+        "Nacional": "Nacional de Montevideo",
+    }
+    for key, value in mapping.items():
+        if name == key:
+            return value
     
     # Barcelona SC (Quito)
     # Cerro

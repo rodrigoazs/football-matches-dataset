@@ -24,18 +24,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-03-26,Univ. Católica,4,1,San José,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-30,Cobreloa,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,1993
 1993-04-02,Univ. Católica,3,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1993
-1993-02-17,Nacional,2,2,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1993
+1993-02-17,Nacional de Montevideo,2,2,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-17,El Nacional,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-23,Barcelona,2,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-26,El Nacional,5,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-02,Barcelona,1,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-05,El Nacional,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-02,Barcelona,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-05,El Nacional,2,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-10,Barcelona,4,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-10,Bella Vista,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-10,Bella Vista,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-16,Bella Vista,2,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-19,Nacional,3,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-19,Nacional de Montevideo,3,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-23,Bella Vista,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-26,Nacional,5,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-26,Nacional de Montevideo,5,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-10,América,0,3,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-11,Internacional,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-16,América,2,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,1993
@@ -69,8 +69,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-04-14,Atlético Nacional,2,1,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-07,Universitario,2,1,Barcelona,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-14,Barcelona,3,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1993
-1993-04-07,Nacional,1,2,Olimpia,False,False,Round of 16,Copa Libertadores de América,1993
-1993-04-14,Olimpia,3,0,Nacional,False,False,Round of 16,Copa Libertadores de América,1993
+1993-04-07,Nacional de Montevideo,1,2,Olimpia,False,False,Round of 16,Copa Libertadores de América,1993
+1993-04-14,Olimpia,3,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-07,Flamengo,8,2,Minervén,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-14,Minervén,0,1,Flamengo,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-07,Newell's Old Boys,2,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,1993

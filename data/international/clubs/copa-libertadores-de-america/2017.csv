@@ -17,14 +17,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-02-08,Colo Colo,1,1,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-02,Montevideo Wanderers,0,2,The Strongest,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-09,The Strongest,4,0,Montevideo Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-02,Independiente del Valle,1,0,Olimpia (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-09,Olimpia (Asunción),3,1,Independiente del Valle,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-02,Deportivo Capiatá,1,3,Universitario (Lima),False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-09,Universitario (Lima),0,3,Deportivo Capiatá,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-02,Independiente del Valle,1,0,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-09,Olimpia,3,1,Independiente del Valle,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-02,Deportivo Capiatá,1,3,Universitario,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-09,Universitario,0,3,Deportivo Capiatá,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-15,Atlético Paranaense,3,3,Deportivo Capiatá,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-22,Deportivo Capiatá,0,1,Atlético Paranaense,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-15,Botafogo,1,0,Olimpia (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-22,Olimpia (Asunción),1,0,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-15,Botafogo,1,0,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-22,Olimpia,1,0,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-16,Atlético Junior,1,0,Atlético Tucumán,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-23,Atlético Tucumán,3,1,Atlético Junior,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-16,Unión Española,1,1,The Strongest,False,False,Qualifying Round,Copa Libertadores de América,2017
@@ -102,17 +102,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-05-16,Atlético Mineiro,4,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-16,Libertad,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-07,Zulia,1,2,Chapecoense,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-09,Lanús,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-15,Nacional,0,1,Zulia,False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-09,Lanús,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-15,Nacional de Montevideo,0,1,Zulia,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-16,Chapecoense,1,3,Lanús,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-18,Lanús,5,0,Zulia,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-18,Chapecoense,1,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-27,Nacional,3,0,Chapecoense,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-18,Chapecoense,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-27,Nacional de Montevideo,3,0,Chapecoense,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-27,Zulia,1,1,Lanús,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-16,Zulia,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-16,Zulia,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-17,Lanús,1,2,Chapecoense,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-23,Chapecoense,2,1,Zulia,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-23,Nacional,0,1,Lanús,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-23,Nacional de Montevideo,0,1,Lanús,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-07,Deportes Iquique,0,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-09,Zamora,0,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-11,Grêmio,3,2,Deportes Iquique,False,False,Group Stage,Copa Libertadores de América,2017
@@ -139,8 +139,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-08-08,Lanús,1,0,The Strongest,False,False,Round of 16,Copa Libertadores de América,2017
 2017-07-06,Emelec,0,1,San Lorenzo de Almagro,False,False,Round of 16,Copa Libertadores de América,2017
 2017-08-10,San Lorenzo de Almagro,0,1,Emelec,False,False,Round of 16,Copa Libertadores de América,2017
-2017-07-06,Nacional (Montevideo),0,1,Botafogo,False,False,Round of 16,Copa Libertadores de América,2017
-2017-08-10,Botafogo,2,0,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2017
+2017-07-06,Nacional de Montevideo,0,1,Botafogo,False,False,Round of 16,Copa Libertadores de América,2017
+2017-08-10,Botafogo,2,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2017
 2017-09-13,Barcelona (Guayaquil),1,1,Santos,False,False,Quarterfinal,Copa Libertadores de América,2017
 2017-09-20,Santos,0,1,Barcelona (Guayaquil),False,False,Quarterfinal,Copa Libertadores de América,2017
 2017-09-13,Botafogo,0,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2017

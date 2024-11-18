@@ -48,16 +48,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-24,Deportes Tolima,3,4,Cúcuta Deportivo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-24,Grêmio,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-13,Emelec,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
-2007-02-21,Nacional,3,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
-2007-02-28,Vélez Sarsfield,1,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-21,Nacional de Montevideo,3,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-28,Vélez Sarsfield,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-28,Internacional,3,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-14,Vélez Sarsfield,3,0,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-22,Emelec,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-22,Emelec,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-28,Internacional,0,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-03,Nacional,3,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-03,Nacional de Montevideo,3,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-10,Emelec,1,2,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-12,Nacional,2,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-19,Internacional,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-12,Nacional de Montevideo,2,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-19,Internacional,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-19,Vélez Sarsfield,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-14,Real Potosí,2,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-15,UA Maracaibo,2,4,Paraná,False,False,Group Stage,Copa Libertadores de América,2007
@@ -121,10 +121,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-05-08,Toluca,2,0,Cúcuta Deportivo,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-03,Paraná Clube (Curitiba),1,2,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-10,Libertad (Asunción),1,1,Paraná Clube (Curitiba),False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-03,Nacional (Montevideo),3,2,Necaxa,False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-10,Necaxa,0,1,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-15,Cúcuta Deportivo,2,0,Nacional (Montevideo),False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-22,Nacional (Montevideo),2,2,Cúcuta Deportivo,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-03,Nacional de Montevideo,3,2,Necaxa,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-10,Necaxa,0,1,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-15,Cúcuta Deportivo,2,0,Nacional de Montevideo,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-22,Nacional de Montevideo,2,2,Cúcuta Deportivo,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-16,América (Cd. de México),0,0,Santos,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-23,Santos,2,1,América (Cd. de México),False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-16,Defensor Sporting,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2007

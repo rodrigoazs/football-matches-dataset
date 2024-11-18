@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2009-01-27,El Nacional (Quito),0,5,Nacional (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2009
-2009-02-05,Nacional (Asunción),3,3,El Nacional (Quito),False,False,Qualifying Round,Copa Libertadores de América,2009
+2009-01-27,El Nacional (Quito),0,5,Club Nacional,False,False,Qualifying Round,Copa Libertadores de América,2009
+2009-02-05,Club Nacional,3,3,El Nacional (Quito),False,False,Qualifying Round,Copa Libertadores de América,2009
 2009-01-28,Independiente Medellín,4,0,Peñarol,False,False,Qualifying Round,Copa Libertadores de América,2009
 2009-02-03,Peñarol,0,0,Independiente Medellín,False,False,Qualifying Round,Copa Libertadores de América,2009
 2009-01-28,Universidad de Chile,1,0,Pachuca,False,False,Qualifying Round,Copa Libertadores de América,2009
@@ -35,17 +35,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-04-23,Deportivo Cuenca,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-30,Boca Juniors,3,0,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-30,Guaraní,1,1,Deportivo Cuenca,False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-12,River Plate,1,0,Nacional (Asunción),False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-12,Nacional (Montevideo),2,1,U. San Martín,False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-18,Nacional (Asunción),0,3,Nacional (M.),False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-12,River Plate,1,0,Club Nacional,False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-12,Nacional de Montevideo,2,1,U. San Martín,False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-18,Club Nacional,0,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2009
 2009-03-05,Universidad San Martín,2,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2009
-2009-03-12,Universidad San Martín,2,1,Nacional (A),False,False,Group Stage,Copa Libertadores de América,2009
-2009-03-19,Nacional (Montevideo),3,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-07,Nacional (Asunción),1,1,U. San Martín,False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-07,River Plate,0,0,Nacional (Montevideo),False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-21,U. San Martín,1,1,Nacional (Montevideo),False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-23,Nacional (Asunción),4,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-30,Nacional (Montevideo),3,1,Nacional (A.),False,False,Group Stage,Copa Libertadores de América,2009
+2009-03-12,Universidad San Martín,2,1,Club Nacional,False,False,Group Stage,Copa Libertadores de América,2009
+2009-03-19,Nacional de Montevideo,3,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-07,Club Nacional,1,1,U. San Martín,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-07,River Plate,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-21,U. San Martín,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-23,Club Nacional,4,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-30,Nacional de Montevideo,3,1,Club Nacional,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-30,River Plate,3,0,Universidad San Martín,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-10,Defensor Sporting,1,0,América,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-18,São Paulo,1,1,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2009
@@ -59,18 +59,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-04-16,América,0,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-22,Defensor Sporting,4,3,Indep. Medellín,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-22,São Paulo,2,1,América,False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-12,Universitario (Sucre),1,1,Dep. Quito,False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-12,Universitario de Sucre,1,1,Dep. Quito,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-19,Cruzeiro,3,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-25,Deportivo Quito,1,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-26,Estudiantes,1,0,Universitario (Sucre),False,False,Group Stage,Copa Libertadores de América,2009
-2009-03-04,Universitario (Sucre),0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-26,Estudiantes,1,0,Universitario de Sucre,False,False,Group Stage,Copa Libertadores de América,2009
+2009-03-04,Universitario de Sucre,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2009
 2009-03-10,Deportivo Quito,1,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2009
-2009-03-18,Cruzeiro,2,0,Universitario (Sucre),False,False,Group Stage,Copa Libertadores de América,2009
+2009-03-18,Cruzeiro,2,0,Universitario de Sucre,False,False,Group Stage,Copa Libertadores de América,2009
 2009-03-19,Estudiantes,4,0,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-08,Estudiantes,4,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-14,Dep. Quito,3,1,Universitario (Sucre),False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-14,Dep. Quito,3,1,Universitario de Sucre,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-22,Cruzeiro,2,0,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-22,Universitario (Sucre),0,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-22,Universitario de Sucre,0,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-11,Lanús,1,1,Guadalajara,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-17,Everton,1,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-25,Caracas,3,1,Lanús,False,False,Group Stage,Copa Libertadores de América,2009
@@ -96,16 +96,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-04-28,Aurora,1,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-28,Grêmio,3,0,Boyacá Chicó,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-11,San Lorenzo de Almagro,4,1,San Luis,False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-11,Libertad,2,1,Universitario (Lima),False,False,Group Stage,Copa Libertadores de América,2009
-2009-02-19,Universitario (Lima),1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-11,Libertad,2,1,Universitario,False,False,Group Stage,Copa Libertadores de América,2009
+2009-02-19,Universitario,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2009
 2009-02-26,San Luis,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2009
 2009-03-05,Libertad,2,0,San Lorenzo de Almagro,False,False,Group Stage,Copa Libertadores de América,2009
-2009-03-10,Universitario (Lima),0,0,San Luis,False,False,Group Stage,Copa Libertadores de América,2009
+2009-03-10,Universitario,0,0,San Luis,False,False,Group Stage,Copa Libertadores de América,2009
 2009-03-18,San Lorenzo de Almagro,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2009
-2009-03-18,San Luis,2,2,Universitario (Lima),False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-07,Universitario (Lima),2,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2009
+2009-03-18,San Luis,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-07,Universitario,2,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-08,San Luis,2,0,San Lorenzo de Almagro,False,False,Group Stage,Copa Libertadores de América,2009
-2009-04-28,San Lorenzo,2,0,Universitario (Lima),False,False,Group Stage,Copa Libertadores de América,2009
+2009-04-28,San Lorenzo,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2009
 2009-04-28,Libertad,0,2,San Luis,False,False,Group Stage,Copa Libertadores de América,2009
 2009-05-05,Palmeiras,1,0,Sport,False,False,Round of 16,Copa Libertadores de América,2009
 2009-05-12,Sport,1,0,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2009
@@ -123,13 +123,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-06-17,Grêmio,0,0,Caracas,False,False,Quarterfinal,Copa Libertadores de América,2009
 2009-05-27,Cruzeiro,2,1,São Paulo,False,False,Quarterfinal,Copa Libertadores de América,2009
 2009-06-18,São Paulo,0,2,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,2009
-2009-05-28,Palmeiras,1,1,Nacional (Montevideo),False,False,Quarterfinal,Copa Libertadores de América,2009
-2009-06-17,Nacional (Montevideo),0,0,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2009
+2009-05-28,Palmeiras,1,1,Nacional de Montevideo,False,False,Quarterfinal,Copa Libertadores de América,2009
+2009-06-17,Nacional de Montevideo,0,0,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2009
 2009-05-28,Defensor Sporting,0,1,Estudiantes (La Plata),False,False,Quarterfinal,Copa Libertadores de América,2009
 2009-06-18,Estudiantes (La Plata),1,0,Defensor Sporting,False,False,Quarterfinal,Copa Libertadores de América,2009
 2009-06-24,Cruzeiro,3,1,Grêmio,False,False,Semifinal,Copa Libertadores de América,2009
 2009-07-02,Grêmio,2,2,Cruzeiro,False,False,Semifinal,Copa Libertadores de América,2009
-2009-06-25,Estudiantes (La Plata),1,0,Nacional (Montevideo),False,False,Semifinal,Copa Libertadores de América,2009
-2009-07-01,Nacional (Montevideo),1,2,Estudiantes (La Plata),False,False,Semifinal,Copa Libertadores de América,2009
+2009-06-25,Estudiantes (La Plata),1,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,2009
+2009-07-01,Nacional de Montevideo,1,2,Estudiantes (La Plata),False,False,Semifinal,Copa Libertadores de América,2009
 2009-07-08,Estudiantes (La Plata),0,0,Cruzeiro,False,False,Final,Copa Libertadores de América,2009
 2009-07-15,Cruzeiro,1,2,Estudiantes (La Plata),False,False,Final,Copa Libertadores de América,2009

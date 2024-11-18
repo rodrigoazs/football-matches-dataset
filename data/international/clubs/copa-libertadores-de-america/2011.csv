@@ -9,8 +9,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-02-01,Jaguares (Tuxtla Gtz.),2,0,Alianza (Lima),False,False,Qualifying Round,Copa Libertadores de América,2011
 2011-01-27,Cerro Porteño (Asunción),1,0,Dep. Petare (Caracas),False,False,Qualifying Round,Copa Libertadores de América,2011
 2011-02-03,Dep. Petare (Caracas),1,1,Cerro Porteño (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2011
-2011-01-27,Bolívar,0,1,Unión Española (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2011
-2011-02-03,Unión Española (Santiago),0,0,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-01-27,Bolívar,0,1,Unión Española,False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-03,Unión Española,0,0,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2011
 2011-02-15,San Luis,1,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-16,Once Caldas,0,3,Univ. San Martín,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-22,Univ. San Martín,2,0,San Luis,False,False,Group Stage,Copa Libertadores de América,2011
@@ -36,16 +36,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-04-14,Oriente Petrolero,3,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-14,Junior,1,1,León de Huánuco,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-09,Fluminense,2,2,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
-2011-02-15,América,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2011
-2011-02-23,Fluminense,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-15,América,2,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-23,Fluminense,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-24,Argentinos Juniors,3,1,América,False,False,Group Stage,Copa Libertadores de América,2011
-2011-03-02,Nacional,0,1,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-02,Nacional de Montevideo,0,1,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
 2011-03-02,América,1,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
-2011-03-15,Argentinos Juniors,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-15,Argentinos Juniors,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2011
 2011-03-23,Fluminense,3,2,América,False,False,Group Stage,Copa Libertadores de América,2011
-2011-04-06,Nacional,2,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,Nacional de Montevideo,2,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-06,América,2,1,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
-2011-04-20,Nacional,0,0,América,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-20,Nacional de Montevideo,0,0,América,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-20,Argentinos Juniors,2,4,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-15,Vélez Sarsfield,3,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-16,Unión Española,2,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2011
@@ -57,7 +57,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-03-24,Vélez Sarsfield,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-06,Unión Española,1,2,Caracas,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-07,Univ. Católica,0,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2011
-2011-04-14,Caracas,0,3,Vélez Sarfield,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-14,Caracas,0,3,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-14,Univ. Católica,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-15,Deportivo Táchira,0,0,Santos,False,False,Group Stage,Copa Libertadores de América,2011
 2011-02-17,Cerro Porteño,5,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2011
@@ -109,12 +109,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-04-12,Peñarol,0,1,Independiente,False,False,Group Stage,Copa Libertadores de América,2011
 2011-04-26,Grêmio,1,2,Univ. Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,2011
 2011-05-04,Univ. Católica (Santiago),1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2011
-2011-04-26,Vélez Sarsfield (B. Aires),3,0,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2011
-2011-05-05,LDU (Quito),0,2,Vélez Sarsfield (B. Aires),False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-26,Vélez Sarsfield,3,0,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-05,LDU (Quito),0,2,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2011
 2011-04-27,Santos,1,0,América (Cdad. De México),False,False,Round of 16,Copa Libertadores de América,2011
 2011-05-03,América (Cdad. De México),0,0,Santos,False,False,Round of 16,Copa Libertadores de América,2011
-2011-04-27,Once Caldas (Manizales),1,2,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2011
-2011-05-04,Cruzeiro,0,2,Once Caldas (Manizales),False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-27,Once Caldas,1,2,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-04,Cruzeiro,0,2,Once Caldas,False,False,Round of 16,Copa Libertadores de América,2011
 2011-04-27,Jaguares (Tuxtla Gtz.),1,1,Junior (Barranquilla),False,False,Round of 16,Copa Libertadores de América,2011
 2011-05-05,Junior (Barranquilla),3,3,Jaguares (Tuxtla Gtz.),False,False,Round of 16,Copa Libertadores de América,2011
 2011-04-27,Estudiantes (La Plata),0,0,Cerro Porteño (Asunción),False,False,Round of 16,Copa Libertadores de América,2011
@@ -123,17 +123,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-05-04,Internacional,1,2,Peñarol,False,False,Round of 16,Copa Libertadores de América,2011
 2011-04-28,Fluminense,3,1,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2011
 2011-05-04,Libertad (Asunción),3,0,Fluminense,False,False,Round of 16,Copa Libertadores de América,2011
-2011-05-11,Once Caldas (Manizales),0,1,Santos,False,False,Quarterfinal,Copa Libertadores de América,2011
-2011-05-18,Santos,1,1,Once Caldas (Manizales),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-11,Once Caldas,0,1,Santos,False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-18,Santos,1,1,Once Caldas,False,False,Quarterfinal,Copa Libertadores de América,2011
 2011-05-11,Peñarol,2,0,Univ. Católica (Santiago),False,False,Quarterfinal,Copa Libertadores de América,2011
 2011-05-19,Univ. Católica (Santiago),2,1,Peñarol,False,False,Quarterfinal,Copa Libertadores de América,2011
-2011-05-12,Vélez Sarsfield (B. Aires),3,0,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2011
-2011-05-18,Libertad (Asunción),2,4,Vélez Sarsfield (B. Aires),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-12,Vélez Sarsfield,3,0,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-18,Libertad (Asunción),2,4,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,2011
 2011-05-12,Jaguares (Tuxtla Gtz.),1,1,Cerro Porteño (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2011
 2011-05-19,Cerro Porteño (Asunción),1,0,Jaguares (Tuxtla Gtz.),False,False,Quarterfinal,Copa Libertadores de América,2011
 2011-05-25,Santos,1,0,Cerro Porteño (Asunción),False,False,Semifinal,Copa Libertadores de América,2011
 2011-06-01,Cerro Porteño (Asunción),3,3,Santos,False,False,Semifinal,Copa Libertadores de América,2011
-2011-05-26,Peñarol,1,0,Vélez Sarsfield (B. Aires),False,False,Semifinal,Copa Libertadores de América,2011
-2011-06-02,Vélez Sarsfield (B. Aires),2,1,Peñarol,False,False,Semifinal,Copa Libertadores de América,2011
+2011-05-26,Peñarol,1,0,Vélez Sarsfield,False,False,Semifinal,Copa Libertadores de América,2011
+2011-06-02,Vélez Sarsfield,2,1,Peñarol,False,False,Semifinal,Copa Libertadores de América,2011
 2011-06-15,Peñarol,0,0,Santos,False,False,Final,Copa Libertadores de América,2011
 2011-06-22,Santos,2,1,Peñarol,False,False,Final,Copa Libertadores de América,2011

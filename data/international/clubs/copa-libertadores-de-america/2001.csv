@@ -36,17 +36,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-05-02,Universidad de Chile,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,2001
 2001-05-02,Palmeiras,5,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-07,Jorge Wilstermann,4,2,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2001
-2001-02-15,Nacional,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2001
-2001-02-20,Deportes Concepción,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2001
+2001-02-15,Nacional de Montevideo,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2001
+2001-02-20,Deportes Concepción,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-03-01,San Lorenzo,2,1,Deportes Concepción,False,False,Group Stage,Copa Libertadores de América,2001
 2001-03-08,Jorge Wilstermann,2,1,Dep. Concepción,False,False,Group Stage,Copa Libertadores de América,2001
-2001-03-13,Nacional,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2001
+2001-03-13,Nacional de Montevideo,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-03,San Lorenzo,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2001
-2001-04-11,Nacional,2,0,Deportes Concepción,False,False,Group Stage,Copa Libertadores de América,2001
-2001-04-17,Jorge Wilstermann,1,2,Nacional,False,False,Group Stage,Copa Libertadores de América,2001
+2001-04-11,Nacional de Montevideo,2,0,Deportes Concepción,False,False,Group Stage,Copa Libertadores de América,2001
+2001-04-17,Jorge Wilstermann,1,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-17,Deportes Concepción,3,2,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-05-03,Dep. Concepción,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2001
-2001-05-03,San Lorenzo,1,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2001
+2001-05-03,San Lorenzo,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-13,Emelec,1,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-22,Olimpia,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,2001
 2001-03-01,Sport,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2001
@@ -109,8 +109,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-05-02,Oriente Petrolero,2,2,Cobreloa,False,False,Group Stage,Copa Libertadores de América,2001
 2001-05-09,Cobreloa,2,3,Rosario Central,False,False,Round of 16,Copa Libertadores de América,2001
 2001-05-16,Rosario Central,1,1,Cobreloa,False,False,Round of 16,Copa Libertadores de América,2001
-2001-05-09,América (Cali),2,0,Nacional,False,False,Round of 16,Copa Libertadores de América,2001
-2001-05-16,Nacional,1,3,América (Cali),False,False,Round of 16,Copa Libertadores de América,2001
+2001-05-09,América (Cali),2,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2001
+2001-05-16,Nacional de Montevideo,1,3,América (Cali),False,False,Round of 16,Copa Libertadores de América,2001
 2001-05-09,Emelec,2,0,River Plate,False,False,Round of 16,Copa Libertadores de América,2001
 2001-05-16,River Plate,5,0,Emelec,False,False,Round of 16,Copa Libertadores de América,2001
 2001-05-09,Cerro Porteño,2,1,Cruz Azul,False,False,Round of 16,Copa Libertadores de América,2001
