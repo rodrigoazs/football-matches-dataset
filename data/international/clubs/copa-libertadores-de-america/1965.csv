@@ -1,0 +1,26 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1965-01-31,Deportivo Quito,0,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-07,Deportivo Quito,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-14,The Strongest,2,3,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-21,The Strongest,2,2,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-26,Boca Juniors,4,0,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1965
+1965-03-05,Boca Juniors,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-13,Universidad de Chile,1,5,Santos,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-19,Universitario,1,2,Santos,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-22,Universitario,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-26,Santos,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1965
+1965-03-06,Santos,2,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1965
+1965-03-10,Universidad de Chile,5,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-01,Deportivo Galicia,1,2,Guaraní,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-08,Deportivo Galicia,0,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-25,Guaraní,2,1,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1965
+1965-02-28,Peñarol,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1965
+1965-03-07,Guaraní,2,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1965
+1965-03-10,Peñarol,2,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1965
+1965-03-25,Independiente,2,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,1965
+1965-03-28,Boca Juniors,1,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1965
+1965-03-25,Santos,5,4,Peñarol,False,False,Semifinal,Copa Libertadores de América,1965
+1965-03-28,Peñarol,3,2,Santos,False,False,Semifinal,Copa Libertadores de América,1965
+1965-04-09,Independiente,1,0,Peñarol,False,False,Final,Copa Libertadores de América,1965
+1965-04-12,Peñarol,3,1,Independiente,False,False,Final,Copa Libertadores de América,1965
+1965-04-09,Independiente,4,1,Peñarol,False,False,Final,Copa Libertadores de América,1965

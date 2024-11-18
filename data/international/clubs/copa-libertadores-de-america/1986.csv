@@ -1,0 +1,66 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1986-07-09,Peñarol,1,3,Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-09,Boca Juniors,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-16,Wanderers,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-17,Peñarol,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-23,Wanderers,2,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-24,Peñarol,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-29,Wanderers,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-01,Boca Juniors,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-06,River Plate,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-07,Boca Juniors,3,2,Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-14,River Plate,4,2,Wanderers,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-20,River Plate,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1986
+1986-03-12,América,0,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
+1986-03-18,América,0,0,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
+1986-03-21,Deportivo Cali,1,1,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
+1986-03-26,Cobresal,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-01,América,2,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-04,Deportivo Cali,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-09,Univ. Católica,0,1,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-10,Deportivo Cali,0,1,América,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-15,Univ. Católica,1,3,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-18,Cobresal,2,2,América,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-22,Cobresal,1,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-25,Univ. Católica,1,3,América,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-27,Universitario,2,0,U.T. Cajamarca,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-27,Bolívar,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-10,Jorge Wilstermann,4,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-11,Bolívar,2,1,U.T. Cajamarca,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-13,Bolívar,4,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-14,Jorge Wilstermann,2,0,U.T. Cajamarca,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-18,U.T. Cajamarca,1,3,Universitario,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-18,Jorge Wilstermann,1,2,Bolívar,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-21,Universitario,3,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-24,U.T. Cajamarca,2,2,Bolívar,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-25,Universitario,1,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-28,U.T. Cajamarca,3,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-20,Barcelona,3,3,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-25,Barcelona,1,1,Coritiba,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-29,Deportivo Quito,2,1,Coritiba,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-01,Barcelona,1,0,Bangu,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-06,Deportivo Quito,3,1,Bangu,False,False,Group Stage,Copa Libertadores de América,1986
+1986-05-13,Bangu,1,1,Coritiba,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-15,Bangu,1,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-18,Coritiba,0,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-22,Bangu,3,3,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-25,Coritiba,3,1,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-29,Coritiba,2,0,Bangu,False,False,Group Stage,Copa Libertadores de América,1986
+1986-07-29,Deportivo Quito,0,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-07,Olimpia,3,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1986
+1986-08-13,Nacional,1,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1986
+1986-09-04,Argentinos Jrs.,0,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-11,Barcelona,1,0,Argentinos Jrs.,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-16,Barcelona,0,3,River Plate,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-23,River Plate,4,1,Barcelona,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-26,River Plate,0,2,Argentinos Jrs.,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-30,Argentinos Jrs.,1,0,Barcelona,False,False,Semifinal,Copa Libertadores de América,1986
+1986-10-04,River Plate,0,0,Argentinos Jrs.,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-11,Olimpia,3,1,Bolívar,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-16,Olimpia,1,1,América,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-20,Bolívar,2,0,América,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-24,América,2,1,Bolívar,False,False,Semifinal,Copa Libertadores de América,1986
+1986-09-30,Bolívar,1,1,Olimpia,False,False,Semifinal,Copa Libertadores de América,1986
+1986-10-05,América,1,0,Olimpia,False,False,Semifinal,Copa Libertadores de América,1986
+1986-10-22,América,1,2,River Plate,False,False,Final,Copa Libertadores de América,1986
+1986-10-29,River Plate,1,0,América,False,False,Final,Copa Libertadores de América,1986

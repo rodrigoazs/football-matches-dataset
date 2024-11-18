@@ -1,0 +1,76 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1978-06-27,LDU Quito,1,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1978
+1978-06-27,El Nacional,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1978
+1978-06-30,El Nacional,1,2,Independiente,False,False,Group Stage,Copa Libertadores de América,1978
+1978-06-30,LDU Quito,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-05,El Nacional,2,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-05,Independiente,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-11,River Plate,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-14,Independiente,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-18,River Plate,4,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-20,Independiente,2,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-26,LDU Quito,3,2,El Nacional,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-26,River Plate,0,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1978
+1978-08-02,River Plate,4,1,Independiente,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-02,The Strongest,2,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-05,Sport,2,2,Alianza,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-12,The Strongest,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-12,Oriente Petrolero,0,4,Alianza,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-16,Oriente Petrolero,0,1,Sport,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-17,The Strongest,1,2,Alianza,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-21,Alianza,4,1,Sport,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-22,Oriente Petrolero,4,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-25,Sport,1,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-28,Alianza,5,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1978
+1978-08-01,Sport,3,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1978
+1978-08-04,Alianza,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-14,Unión Española,0,0,Palestino,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-15,Atlético Mineiro,1,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-22,Unión Española,1,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-22,Palestino,0,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-26,Unión Española,1,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-26,Palestino,4,5,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-09,São Paulo,1,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-09,Palestino,2,3,Unión Española,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-16,São Paulo,1,2,Palestino,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-16,Atlético Mineiro,5,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-19,São Paulo,1,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-19,Atlético Mineiro,2,0,Palestino,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-12,Atlético Junior,0,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-19,Peñarol,4,2,Danubio,False,False,Group Stage,Copa Libertadores de América,1978
+1978-05-14,Atlético Junior,0,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1978
+1978-05-14,Deportivo Cali,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1978
+1978-05-17,Atlético Junior,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1978
+1978-05-17,Deportivo Cali,2,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-07,Danubio,1,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-09,Deportivo Cali,0,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-18,Danubio,0,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-18,Peñarol,0,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-23,Peñarol,1,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1978
+1978-07-23,Danubio,3,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-05,Cerro Porteño,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-12,Estudiantes,0,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-26,Portuguesa,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-26,Estudiantes,2,3,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-30,Estudiantes,1,1,Libertad,False,False,Group Stage,Copa Libertadores de América,1978
+1978-03-30,Portuguesa,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-02,Portuguesa,1,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-05,Libertad,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-25,Cerro Porteño,1,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1978
+1978-04-28,Libertad,2,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1978
+1978-05-09,Libertad,1,2,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1978
+1978-05-13,Cerro Porteño,1,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1978
+1978-09-19,Boca Juniors,0,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1978
+1978-09-24,Atlético Mineiro,1,2,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,1978
+1978-09-28,River Plate,1,0,Atlético Mineiro,False,False,Semifinal,Copa Libertadores de América,1978
+1978-10-05,Boca Juniors,3,1,Atlético Mineiro,False,False,Semifinal,Copa Libertadores de América,1978
+1978-10-08,Atlético Mineiro,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1978
+1978-10-17,River Plate,0,2,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,1978
+1978-09-14,Alianza,3,0,Cerro Porteño,False,False,Semifinal,Copa Libertadores de América,1978
+1978-09-17,Deportivo Cali,1,1,Cerro Porteño,False,False,Semifinal,Copa Libertadores de América,1978
+1978-09-21,Deportivo Cali,3,2,Alianza,False,False,Semifinal,Copa Libertadores de América,1978
+1978-10-05,Cerro Porteño,3,1,Alianza,False,False,Semifinal,Copa Libertadores de América,1978
+1978-10-14,Alianza,1,4,Deportivo Cali,False,False,Semifinal,Copa Libertadores de América,1978
+1978-10-18,Cerro Porteño,0,4,Deportivo Cali,False,False,Semifinal,Copa Libertadores de América,1978
+1978-11-23,Deportivo Cali,0,0,Boca Juniors,False,False,Final,Copa Libertadores de América,1978
+1978-11-28,Boca Juniors,4,0,Deportivo Cali,False,False,Final,Copa Libertadores de América,1978

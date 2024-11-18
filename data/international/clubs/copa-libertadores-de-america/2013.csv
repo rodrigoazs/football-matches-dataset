@@ -1,0 +1,139 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2013-01-22,Tigre,2,1,Deportivo Anzoátegui,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-29,Deportivo Anzoátegui,0,3,Tigre,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-22,León,1,1,Deportes Iquique,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-29,Deportes Iquique,1,1,León,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-23,LDU (Quito),1,0,Grêmio,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-30,Grêmio,1,0,LDU (Quito),False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-23,São Paulo,5,0,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-30,Bolívar,4,3,São Paulo,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-24,Deportes Tolima (Ibagué),1,0,Universidad César Vallejo,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-31,Universidad César Vallejo,1,1,Deportes Tolima (Ibagué),False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-24,Defensor Sporting,0,0,Olimpia (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-31,Olimpia (Asunción),2,0,Defensor Sporting,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-02-12,Nacional,2,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-13,Boca Juniors,1,2,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-19,Toluca,2,3,Nacional,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-27,Barcelona,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-06,Toluca,1,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-07,Boca Juniors,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-13,Barcelona,0,0,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-14,Nacional,0,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,Boca Juniors,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-04,Nacional,4,0,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-17,Barcelona,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-17,Toluca,3,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-14,Palmeiras,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-21,Tigre,0,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-28,Sport,2,0,Tigre,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-28,Libertad,2,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-06,Libertad,2,2,Sport,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-06,Tigre,1,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-12,Sport,1,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-02,Palmeiras,2,0,Tigre,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-09,Tigre,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-11,Palmeiras,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-18,Libertad,3,5,Tigre,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-18,Sport,1,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-13,Atlético Mineiro,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-14,The Strongest,2,1,Arsenal,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-26,Arsenal,2,5,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-28,São Paulo,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-07,São Paulo,1,1,Arsenal,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-07,Atlético Mineiro,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-13,The Strongest,1,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-14,Arsenal,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,Atlético Mineiro,5,2,Arsenal,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-04,The Strongest,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-17,Arsenal,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-17,São Paulo,2,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-12,Emelec,1,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-13,Deportes Iquique,1,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-19,Peñarol,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-20,Vélez Sarsfield,3,0,Deportes Iquique,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-26,Peñarol,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-27,Deportes Iquique,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-05,Emelec,2,1,Deportes Iquique,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-12,Vélez Sarsfield,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-02,Deportes Iquique,1,3,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-02,Emelec,2,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-09,Peñarol,3,0,Deportes Iquique,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-09,Vélez Sarsfield,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-19,Millonarios,0,1,Tijuana,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-20,San José,1,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-26,Tijuana,4,0,San José,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-27,Corinthians,2,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-05,Millonarios,2,1,San José,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-06,Tijuana,1,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-13,Corinthians,3,0,Tijuana,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-14,San José,2,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,San José,1,1,Tijuana,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,Millonarios,0,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-10,Corinthians,3,0,San José,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-10,Tijuana,1,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-13,Real Garcilaso,1,1,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-14,Deportes Tolima,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-21,Cerro Porteño,0,1,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-21,Indep. Santa Fe,1,1,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-26,Deportes Tolima,0,1,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-07,Cerro Porteño,1,2,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-02,Real Garcilaso,0,3,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-02,Indep. Santa Fe,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-09,Deportes Tolima,1,2,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-10,Real Garcilaso,5,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-16,Cerro Porteño,0,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-16,Indep. Santa Fe,2,0,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-12,Univ. de Chile,2,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-14,Newell's Old Boys,3,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-19,Olimpia,3,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-21,Deportivo Lara,2,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-05,Olimpia,2,2,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-05,Newell's Old Boys,1,2,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-12,Univ. de Chile,0,2,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-13,Deportivo Lara,1,5,Olimpia,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-04,Newell's Old Boys,3,1,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-13,Univ. de Chile,0,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-11,Deportivo Lara,2,3,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-11,Olimpia,4,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-13,Caracas,0,1,Fluminense,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-14,Grêmio,1,2,Huachipato,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-20,Huachipato,1,3,Caracas,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-20,Fluminense,0,3,Grêmio,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-27,Huachipato,1,2,Fluminense,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-05,Grêmio,4,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-06,Fluminense,1,1,Huachipato,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-12,Caracas,2,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,Caracas,0,4,Huachipato,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-10,Grêmio,0,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-18,Huachipato,1,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-18,Fluminense,1,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-24,Newell's Old Boys,0,1,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-15,Vélez Sarsfield,1,2,Newell's Old Boys,False,False,Round of 16,Copa Libertadores de América,2013
+2013-04-25,Real Garcilaso (Cuzco),1,0,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-09,Nacional (Montevideo),1,0,Real Garcilaso (Cuzco),False,False,Round of 16,Copa Libertadores de América,2013
+2013-04-30,Tijuana,0,0,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-14,Palmeiras,1,2,Tijuana,False,False,Round of 16,Copa Libertadores de América,2013
+2013-04-30,Tigre (Buenos Aires),2,1,Olimpia (Asunción),False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-16,Olimpia (Asunción),2,0,Tigre (Buenos Aires),False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-01,Boca Juniors,1,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-15,Corinthians,1,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-01,Grêmio,2,1,Independiente Santa Fe,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-16,Independiente Santa Fe,1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-02,São Paulo,1,2,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-08,Atlético Mineiro,4,1,São Paulo,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-02,Emelec (Guayaquil),2,1,Fluminense,False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-08,Fluminense,2,0,Emelec (Guayaquil),False,False,Round of 16,Copa Libertadores de América,2013
+2013-05-22,Real Garcilaso (Cuzco),1,3,Independiente Santa Fe,False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-28,Independiente Santa Fe,2,0,Real Garcilaso (Cuzco),False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-22,Fluminense,0,0,Olimpia (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-28,Olimpia (Asunción),2,1,Fluminense,False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-23,Boca Juniors,0,0,Newell's Old Boys,False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-29,Newell's Old Boys,0,0,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-23,Tijuana,2,2,Atlético Mineiro,False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-05-30,Atlético Mineiro,1,1,Tijuana,False,False,Quarterfinal,Copa Libertadores de América,2013
+2013-07-02,Olimpia (Asunción),2,0,Independiente Santa Fe,False,False,Semifinal,Copa Libertadores de América,2013
+2013-07-09,Independiente Santa Fe,1,0,Olimpia (Asunción),False,False,Semifinal,Copa Libertadores de América,2013
+2013-07-03,Newell's Old Boys,2,0,Atlético Mineiro,False,False,Semifinal,Copa Libertadores de América,2013
+2013-07-10,Atlético Mineiro,2,0,Newell's Old Boys,False,False,Semifinal,Copa Libertadores de América,2013
+2013-07-17,Olimpia (Asunción),2,0,Atlético Mineiro,False,False,Final,Copa Libertadores de América,2013
+2013-07-24,Atlético Mineiro,2,0,Olimpia (Asunción),False,False,Final,Copa Libertadores de América,2013

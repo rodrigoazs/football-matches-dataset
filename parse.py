@@ -51,9 +51,9 @@ generate_matches = {
         (2015, 2015, 137),
         (2016, 2016, 138),
         (2017, 2017, 156),
-        (2018, 2018, 157),
+        (2018, 2018, 156),
         (2019, 2021, 155),
-        (2022, 2022, 156),
+        (2022, 2022, 155),
     ]
 }
 
@@ -63,6 +63,7 @@ parsers = [parse for name, parse in globals().items() if name.endswith("_parser"
 
 
 def main():
+    teams = set()
     for tournament, schemas in generate_matches.items():
         for schema in schemas:
             from_year, to_year, assert_matches = schema
@@ -121,6 +122,10 @@ def main():
                     ],
                 )
                 dataframe.to_csv(path, index=False)
+                teams.update(list(dataframe["home_team"].unique()))
+                teams.update(list(dataframe["away_team"].unique()))
+    for team in sorted(list(teams)):
+        print(team)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,17 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1961-04-02,Independiente Santa Fe,3,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1961
+1961-04-09,Barcelona,2,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1961
+1961-04-19,Peñarol,5,0,Universitario,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-05-14,Universitario,2,0,Peñarol,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-04-09,Colo Colo,2,5,Olimpia,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-04-16,Olimpia,1,2,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-04-30,Jorge Wilstermann,3,2,Independiente Santa Fe,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-05-07,Independiente Santa Fe,1,0,Jorge Wilstermann,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-05-04,Independiente,0,2,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-05-11,Palmeiras,1,0,Independiente,False,False,Quarterfinal,Copa Libertadores de América,1961
+1961-05-21,Peñarol,3,1,Olimpia,False,False,Semifinal,Copa Libertadores de América,1961
+1961-05-27,Olimpia,1,2,Peñarol,False,False,Semifinal,Copa Libertadores de América,1961
+1961-05-21,Independiente Santa Fe,2,2,Palmeiras,False,False,Semifinal,Copa Libertadores de América,1961
+1961-05-27,Palmeiras,4,1,Independiente Santa Fe,False,False,Semifinal,Copa Libertadores de América,1961
+1961-06-04,Peñarol,1,0,Palmeiras,False,False,Final,Copa Libertadores de América,1961
+1961-06-11,Palmeiras,1,1,Peñarol,False,False,Final,Copa Libertadores de América,1961

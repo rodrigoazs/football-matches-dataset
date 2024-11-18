@@ -1,0 +1,14 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1960-04-19,Peñarol,7,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1960
+1960-04-30,Jorge Wilstermann,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1960
+1960-04-20,San Lorenzo,3,0,Bahia,False,False,Group Stage,Copa Libertadores de América,1960
+1960-05-03,Bahia,3,2,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1960
+1960-05-08,Universidad de Chile,0,6,Millonarios,False,False,Group Stage,Copa Libertadores de América,1960
+1960-05-15,Millonarios,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1960
+1960-05-18,Peñarol,1,1,San Lorenzo,False,False,Semifinal,Copa Libertadores de América,1960
+1960-05-24,San Lorenzo,0,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1960
+1960-05-18,Peñarol,2,1,San Lorenzo,False,False,Semifinal,Copa Libertadores de América,1960
+1960-05-29,Millonarios,0,0,Olimpia,False,False,Semifinal,Copa Libertadores de América,1960
+1960-06-05,Olimpia,5,1,Millonarios,False,False,Semifinal,Copa Libertadores de América,1960
+1960-06-12,Peñarol,1,0,Olimpia,False,False,Final,Copa Libertadores de América,1960
+1960-06-19,Olimpia,1,1,Peñarol,False,False,Final,Copa Libertadores de América,1960

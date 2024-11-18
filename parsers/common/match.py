@@ -112,7 +112,7 @@ def get_match(line, tournament, year, date, stage):
                 year,
             ],
         ]
-    
+
     # 24 Apr: Alianza - Millonarios                   0-0
     match_pattern = re.compile(
         r"(\d{1,2}\s+\w{3})\:\s*([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s*[\-\–]{1}\s*([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})",

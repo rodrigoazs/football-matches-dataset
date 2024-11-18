@@ -1,0 +1,156 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2020-01-21,Carabobo FC,1,1,Universitario (Lima),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-01-28,Universitario (Lima),1,0,Carabobo FC,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-01-22,San José (Oruro),0,1,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-01-29,Guaraní (Asunción),4,0,San José (Oruro),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-01-22,Progreso (Montevideo),0,2,Barcelona (Guayaquil),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-01-29,Barcelona (Guayaquil),3,1,Progreso (Montevideo),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-04,Universidad de Chile,0,0,Internacional,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-11,Internacional,2,0,Universidad de Chile,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-04,Independiente Medellín,4,0,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-11,Deportivo Táchira,2,0,Independiente Medellín,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-04,Macará (Ambato),0,1,Deportes Tolima (Ibagué),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-11,Deportes Tolima (Ibagué),1,0,Macará (Ambato),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-05,Cerro Largo (Melo),1,1,Palestino (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-12,Palestino (Santiago),5,1,Cerro Largo (Melo),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-05,Universitario (Lima),1,1,Cerro Porteño (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-12,Cerro Porteño (Asunción),1,0,Universitario (Lima),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-05,Guaraní (Asunción),1,0,Corinthians,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-12,Corinthians,2,1,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-05,The Strongest (La Paz),2,0,Atlético Tucumán,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-12,Atlético Tucumán,2,0,The Strongest (La Paz),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-06,Barcelona (Guayaquil),4,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-13,Sport,2,1,Barcelona (Guayaquil),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-18,Independiente Medellín,1,0,Atlético Tucumán,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-25,Atlético Tucumán,1,0,Independiente Medellín,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-19,Barcelona (Guayaquil),1,0,Cerro Porteño (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-26,Cerro Porteño (Asunción),0,4,Barcelona (Guayaquil),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-19,Deportes Tolima (Ibagué),0,0,Internacional,False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-26,Internacional,1,0,Deportes Tolima (Ibagué),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-20,Palestino (Santiago),0,1,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-02-27,Guaraní (Asunción),2,1,Palestino (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2020
+2020-03-04,Barcelona,0,3,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-04,Junior,1,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,Flamengo,3,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,Independiente del Valle,3,0,Junior,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,Independiente del Valle,5,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,Barcelona,1,2,Junior,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-22,Barcelona,1,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-22,Junior,4,1,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,Flamengo,4,0,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,Junior,0,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-21,Flamengo,3,1,Junior,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-21,Independiente del Valle,2,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-04,Tigre,0,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-04,Guaraní,2,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-10,Bolívar,2,0,Tigre,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-10,Palmeiras,3,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-16,Bolívar,1,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,Guaraní,4,1,Tigre,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-22,Tigre,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,Guaraní,0,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,Palmeiras,5,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-01,Tigre,1,3,Guaraní,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-21,Bolívar,2,3,Guaraní,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-21,Palmeiras,5,0,Tigre,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-03,Athletico Paranaense,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-04,Jorge Wilstermann,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,Colo Colo,1,0,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,Peñarol,1,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-15,Colo Colo,2,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-15,Jorge Wilstermann,2,3,Athl. Paranaense,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,Athletico Paranaense,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-24,Jorge Wilstermann,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-29,Peñarol,3,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-29,Athl. Paranaense,0,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-20,Colo Colo,0,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-20,Peñarol,3,2,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-04,LDU Quito,3,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-05,Deportivo Binacional,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,River Plate,8,0,Deportivo Binacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,São Paulo,3,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-15,Deportivo Binacional,0,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,São Paulo,2,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-22,Deportivo Binacional,0,6,River Plate,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-22,LDU Quito,4,2,São Paulo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-29,LDU Quito,4,0,Deportivo Binacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,River Plate,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-20,River Plate,3,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-20,São Paulo,5,1,Deportivo Binacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-03,Internacional,3,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-03,América de Cali,0,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-10,Univ. Católica,1,2,América de Cali,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-12,Grêmio,0,0,Internacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-16,Internacional,4,3,América de Cali,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-16,Universidad Católica,2,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,América de Cali,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,Internacional,0,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-29,Grêmio,2,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-29,América de Cali,0,0,Internacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-22,Grêmio,1,1,América de Cali,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-22,Universidad Católica,2,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-05,Estudiantes,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-05,Alianza Lima,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-12,Nacional,1,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-12,Racing Club,1,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-16,Estudiantes,3,2,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,Racing Club,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-22,Estudiantes,1,3,Nacional,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,Alianza Lima,0,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,Nacional,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,Alianza Lima,2,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-21,Nacional,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-21,Racing Club,2,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-03,Defensa y Justicia,1,2,Santos,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-04,Delfín,1,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-10,Santos,1,0,Delfín,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-11,Olimpia,2,1,Defensa y Justicia,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-15,Santos,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,Defensa y Justicia,3,0,Delfín,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,Defensa y Justicia,2,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-24,Delfín,1,2,Santos,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-01,Olimpia,2,3,Santos,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-01,Delfín,3,0,Defensa y Justicia,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-20,Olimpia,0,1,Delfín,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-20,Santos,2,1,Defensa y Justicia,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-03,Caracas,1,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-03,Independiente Medellín,1,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-10,Boca Juniors,3,0,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2020
+2020-03-10,Libertad,3,2,Caracas,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-16,Independiente Medellín,2,3,Caracas,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-17,Libertad,0,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-23,Caracas,2,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-24,Independiente Medellín,0,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-29,Boca Juniors,0,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2020
+2020-09-30,Caracas,0,2,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-22,Boca Juniors,3,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2020
+2020-10-22,Libertad,2,4,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2020
+2020-11-24,Ath. Paranaense (Curitiba,1,1,River Plate,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-01,River Plate,1,0,Ath. Paranaense (Curitiba,False,False,Round of 16,Copa Libertadores de América,2020
+2020-11-24,LDU (Quito),1,2,Santos,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-01,Santos,0,1,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2020
+2020-11-24,Racing Club (Avellaneda),1,1,Flamengo,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-01,Flamengo,1,1,Racing Club (Avellaneda),False,False,Round of 16,Copa Libertadores de América,2020
+2020-11-25,Delfín,1,3,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-02,Palmeiras,5,0,Delfín,False,False,Round of 16,Copa Libertadores de América,2020
+2020-11-25,Independiente del Valle,0,0,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-02,Nacional (Montevideo),0,0,Independiente del Valle,False,False,Round of 16,Copa Libertadores de América,2020
+2020-11-25,Libertad (Asunción),3,1,Jorge Wilstermann,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-02,Jorge Wilstermann,0,2,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2020
+2020-11-26,Guaraní (Asunción),0,2,Grêmio,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-03,Grêmio,2,0,Guaraní (Asunción),False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-03,Internacional,0,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-09,Boca Juniors,0,1,Internacional,False,False,Round of 16,Copa Libertadores de América,2020
+2020-12-08,Libertad (Asunción),1,1,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-15,Palmeiras,3,0,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-09,Grêmio,1,1,Santos,False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-16,Santos,4,1,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-10,River Plate,2,0,Nacional (Montevideo),False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-17,Nacional (Montevideo),2,6,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-16,Racing Club (Avellaneda),1,0,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2020
+2020-12-23,Boca Juniors,2,0,Racing Club (Avellaneda),False,False,Quarterfinal,Copa Libertadores de América,2020
+2021-01-05,River Plate,0,3,Palmeiras,False,False,Semifinal,Copa Libertadores de América,2020
+2021-01-12,Palmeiras,0,2,River Plate,False,False,Semifinal,Copa Libertadores de América,2020
+2021-01-06,Boca Juniors,0,0,Santos,False,False,Semifinal,Copa Libertadores de América,2020
+2021-01-13,Santos,3,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2020
+2021-01-30,Palmeiras,1,0,Santos,False,False,Final,Copa Libertadores de América,2020

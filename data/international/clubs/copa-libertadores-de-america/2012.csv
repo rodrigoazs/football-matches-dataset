@@ -1,0 +1,139 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2012-01-24,Arsenal (Buenos Aires),3,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-31,Sport,1,1,Arsenal (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-24,El Nacional (Quito),1,0,Libertad (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-31,Libertad (Asunción),4,1,El Nacional (Quito),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-25,Real Potosí,2,1,Flamengo,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-02-01,Flamengo,2,0,Real Potosí,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-25,Internacional,1,0,Once Caldas (Manizales),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-02-01,Once Caldas (Manizales),2,2,Internacional,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-25,Unión Española (Santiago),1,0,Tigres UANL (Monterrey),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-02-02,Tigres UANL (Monterrey),2,2,Unión Española (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-26,Peñarol,4,0,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-02-02,Caracas,1,1,Peñarol,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-02-09,Internacional,2,0,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-15,The Strongest,2,1,Santos,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-23,The Strongest,2,1,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-07,Santos,3,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-13,Internacional,5,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-15,Juan Aurich,1,3,Santos,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-21,The Strongest,1,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-22,Santos,2,0,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-04,Internacional,1,1,Santos,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-05,Juan Aurich,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-19,Santos,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-19,Juan Aurich,1,0,Internacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-09,Emelec,1,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-15,Lanús,1,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-23,Olimpia,2,1,Lanús,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-08,Flamengo,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-13,Lanús,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-15,Flamengo,3,3,Olimpia,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-20,Emelec,0,2,Lanús,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-28,Olimpia,3,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-03,Lanús,6,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-04,Emelec,3,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-12,Flamengo,3,0,Lanús,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-12,Olimpia,2,3,Emelec,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-08,Unión Española,2,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-09,Universidad Católica,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-21,Bolívar,1,3,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-23,Universidad Católica,2,2,Atl. Junior,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-06,Unión Española,1,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-08,Atlético Junior,0,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-20,Bolívar,2,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-28,Universidad Católica,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-04,Atlético Junior,3,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-10,Unión Española,2,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-17,Bolívar,3,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-17,Atlético Junior,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-07,Fluminense,1,0,Arsenal,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-14,Zamora,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-21,Arsenal,3,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-07,Boca Juniors,1,2,Fluminense,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-14,Arsenal,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-14,Fluminense,1,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-29,Boca Juniors,2,0,Arsenal,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-29,Zamora,0,1,Fluminense,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-10,Zamora,0,1,Arsenal,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-11,Fluminense,0,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-18,Boca Juniors,2,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-18,Arsenal,1,2,Fluminense,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-08,Vasco da Gama,1,2,Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-09,Libertad,4,1,Alianza,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-16,Nacional,1,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-06,Vasco da Gama,3,2,Alianza,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-13,Alianza,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-14,Libertad,1,1,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-21,Vasco da Gama,2,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-27,Nacional,1,0,Alianza,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-03,Alianza,1,2,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-05,Libertad,2,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-12,Alianza,1,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-12,Nacional,0,1,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-08,Nacional,1,2,Cruz Azul,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-15,Deportivo Táchira,1,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-21,Cruz Azul,4,0,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-07,Corinthians,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-13,Nacional,3,2,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-14,Cruz Azul,0,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-21,Corinthians,1,0,Cruz Azul,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-27,Deportivo Táchira,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-03,Deportivo Táchira,1,1,Cruz Azul,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-11,Nacional,1,3,Corinthians,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-18,Corinthians,6,0,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-18,Cruz Azul,4,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-07,Defensor Sporting,0,3,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-07,Guadalajara,1,1,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-14,Defensor Sporting,2,0,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-22,Vélez Sarsfield,3,0,Guadalajara,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-07,Deportivo Quito,3,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-13,Guadalajara,1,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-22,Vélez Sarsfield,1,0,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-28,Defensor Sporting,1,0,Guadalajara,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-10,Deportivo Quito,2,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-11,Guadalajara,0,2,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-17,Deportivo Quito,5,0,Guadalajara,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-17,Vélez Sarsfield,1,3,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-14,Atlético Nacional,2,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-16,Godoy Cruz,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-21,Peñarol,0,4,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-22,Universidad de Chile,5,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-06,Peñarol,1,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-08,Godoy Cruz,4,4,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-22,Atlético Nacional,2,2,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-27,Universidad de Chile,2,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-04,Godoy Cruz,0,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-10,Atlético Nacional,3,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-19,Universidad de Chile,2,1,Atl. Nacional,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-19,Peñarol,4,2,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-25,Internacional,0,0,Fluminense,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-10,Fluminense,2,1,Internacional,False,False,Round of 16,Copa Libertadores de América,2012
+2012-04-25,Bolívar,2,1,Santos,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-10,Santos,8,0,Bolívar,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-01,Atl. Nacional (Medellín),0,1,Vélez Sarsfield (B Aires),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-08,Vélez Sarsfield (B Aires),1,1,Atl. Nacional (Medellín),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-01,Cruz Azul,1,1,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-08,Libertad (Asunción),2,0,Cruz Azul,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-02,Boca Juniors,2,1,Unión Española (Santiago),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-09,Unión Española (Santiago),2,3,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-02,Vasco da Gama,2,1,Lanús (Buenos Aires),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-09,Lanús (Buenos Aires),2,1,Vasco da Gama,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-02,Emelec (Guayaquil),0,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-09,Corinthians,3,0,Emelec (Guayaquil),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-03,Deportivo Quito,4,1,Univ. de Chile (Santiago),False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-10,Univ. de Chile (Santiago),6,0,Deportivo Quito,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-16,Vasco da Gama,0,0,Corinthians,False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-23,Corinthians,1,0,Vasco da Gama,False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-16,Libertad (Asunción),1,1,Univ. de Chile (Santiago),False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-24,Univ. de Chile (Santiago),1,1,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-17,Boca Juniors,1,0,Fluminense,False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-23,Fluminense,1,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-17,Vélez Sarsfield (B Aires),1,0,Santos,False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-24,Santos,1,0,Vélez Sarsfield (B Aires),False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-06-13,Santos,0,1,Corinthians,False,False,Semifinal,Copa Libertadores de América,2012
+2012-06-20,Corinthians,1,1,Santos,False,False,Semifinal,Copa Libertadores de América,2012
+2012-06-14,Boca Juniors,2,0,Univ. de Chile (Santiago),False,False,Semifinal,Copa Libertadores de América,2012
+2012-06-21,Univ. de Chile (Santiago),0,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2012
+2012-06-27,Boca Juniors,1,1,Corinthians,False,False,Final,Copa Libertadores de América,2012
+2012-07-04,Corinthians,2,0,Boca Juniors,False,False,Final,Copa Libertadores de América,2012

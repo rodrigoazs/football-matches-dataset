@@ -1,0 +1,139 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2007-01-24,América (Cd. de México),5,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-31,Sport,2,1,América (Cd. de México),False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-30,Vélez Sarsfield,3,0,Danubio,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-06,Danubio,1,2,Vélez Sarsfield,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-30,Deportivo Táchira,1,2,Deportes Tolima,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-08,Deportes Tolima,2,0,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-31,Blooming,0,1,Santos,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-07,Santos,5,0,Blooming,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-01,Tacuary,1,1,LDU (Quito),False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-06,LDU (Quito),3,0,Tacuary,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-01,Cobreloa,0,2,Paraná,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-07,Paraná,1,1,Cobreloa,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-20,El Nacional,1,2,América,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-20,Libertad,1,0,Banfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-27,Banfield,4,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-01,América,1,4,Libertad,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-06,El Nacional,1,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-07,América,4,0,Banfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-21,Banfield,3,1,América,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-22,Libertad,1,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-03,El Nacional,0,1,Banfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-11,Libertad,1,2,América,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-18,Banfield,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-18,América,2,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-14,Audax Italiano,0,0,São Paulo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-20,Alianza Lima,1,2,Necaxa,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-28,Necaxa,2,0,Audax Italiano,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-28,São Paulo,4,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-13,Alianza Lima,1,3,Audax Italiano,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-21,Necaxa,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-27,Audax Italiano,1,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-04,São Paulo,3,0,Necaxa,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-11,Audax Italiano,2,1,Necaxa,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-18,Alianza Lima,0,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-25,Necaxa,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-25,São Paulo,2,2,Audax Italiano,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-13,Cúcuta Deportivo,0,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-15,Cerro Porteño,0,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-27,Grêmio,0,0,Cúcuta Deportivo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-07,Deportes Tolima,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-13,Cúcuta Deportivo,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-15,Deportes Tolima,1,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-20,Cerro Porteño,2,1,Cúcuta Deportivo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-27,Grêmio,1,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-10,Cerro Porteño,1,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-11,Cúcuta Deportivo,3,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-24,Deportes Tolima,3,4,Cúcuta Deportivo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-24,Grêmio,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-13,Emelec,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-21,Nacional,3,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-28,Vélez Sarsfield,1,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-28,Internacional,3,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-14,Vélez Sarsfield,3,0,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-22,Emelec,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-28,Internacional,0,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-03,Nacional,3,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-10,Emelec,1,2,Internacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-12,Nacional,2,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-19,Internacional,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-19,Vélez Sarsfield,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-14,Real Potosí,2,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-15,UA Maracaibo,2,4,Paraná,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-21,Paraná,2,0,Real Potosí,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-21,Flamengo,3,1,UA Maracaibo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-13,UA Maracaibo,1,1,Real Potosí,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-14,Paraná,0,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-20,Real Potosí,2,2,UA Maracaibo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-21,Flamengo,1,0,Paraná,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-04,UA Maracaibo,1,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-10,Real Potosí,3,1,Paraná,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-18,Flamengo,1,0,Real Potosí,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-18,Paraná,2,1,UA Maracaibo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-22,Caracas,1,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-22,Colo Colo,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-07,LDU Quito,3,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-08,River Plate,0,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-15,LDU Quito,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-20,Caracas,0,4,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-29,River Plate,0,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-30,Colo Colo,2,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-03,Colo Colo,4,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-05,Caracas,3,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-25,LDU Quito,3,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-25,River Plate,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-14,Bolívar,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-21,Cienciano,1,2,Toluca,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-27,Toluca,1,2,Bolívar,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-01,Boca Juniors,1,0,Cienciano,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-08,Cienciano,5,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-14,Toluca,2,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-22,Boca Juniors,3,0,Toluca,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-28,Bolívar,2,3,Cienciano,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-04,Cienciano,3,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-12,Bolívar,0,2,Toluca,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-26,Toluca,3,0,Cienciano,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-26,Boca Juniors,7,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-13,Defensor Sporting,3,0,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-21,Deportivo Pasto,0,1,Santos,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-01,Santos,1,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-06,Gimnasia y Esgrima,3,2,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-14,Santos,3,0,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-15,Deportivo Pasto,1,2,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-22,Gimnasia y Esgrima,1,2,Santos,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-28,Defensor Sporting,3,0,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-05,Defensor Sporting,0,2,Santos,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-05,Deportivo Pasto,0,2,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-19,Gimnasia y Esgrima,3,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-19,Santos,3,0,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
+2007-05-02,América (Cd. de México),3,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-08,Colo Colo,2,1,América (Cd. de México),False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,São Paulo,1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-09,Grêmio,2,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,Defensor Sporting,3,0,Flamengo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-09,Flamengo,2,0,Defensor Sporting,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,Boca Juniors,3,0,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-09,Vélez Sarsfield,3,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,Caracas,2,2,Santos,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-10,Santos,3,2,Caracas,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-03,Cúcuta Deportivo,5,1,Toluca,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-08,Toluca,2,0,Cúcuta Deportivo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-03,Paraná Clube (Curitiba),1,2,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-10,Libertad (Asunción),1,1,Paraná Clube (Curitiba),False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-03,Nacional (Montevideo),3,2,Necaxa,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-10,Necaxa,0,1,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-15,Cúcuta Deportivo,2,0,Nacional (Montevideo),False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-22,Nacional (Montevideo),2,2,Cúcuta Deportivo,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-16,América (Cd. de México),0,0,Santos,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-23,Santos,2,1,América (Cd. de México),False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-16,Defensor Sporting,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-23,Grêmio,2,0,Defensor Sporting,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-17,Boca Juniors,1,1,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-24,Libertad (Asunción),0,2,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-30,Grêmio,2,0,Santos,False,False,Semifinal,Copa Libertadores de América,2007
+2007-06-06,Santos,3,1,Grêmio,False,False,Semifinal,Copa Libertadores de América,2007
+2007-05-31,Cúcuta Deportivo,3,1,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2007
+2007-06-07,Boca Juniors,3,0,Cúcuta Deportivo,False,False,Semifinal,Copa Libertadores de América,2007
+2007-06-13,Boca Juniors,3,0,Grêmio,False,False,Final,Copa Libertadores de América,2007
+2007-06-20,Grêmio,0,2,Boca Juniors,False,False,Final,Copa Libertadores de América,2007

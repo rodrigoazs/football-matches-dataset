@@ -1,0 +1,139 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2011-01-25,Independiente (Avellaneda),2,0,Deportivo Quito,False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-01,Deportivo Quito,1,0,Independiente (Avellaneda),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-01-26,Corinthians,0,0,Deportes Tolima (Ibagué),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-02,Deportes Tolima (Ibagué),2,0,Corinthians,False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-01-26,Liverpool (Montevideo),2,2,Grêmio,False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-02,Grêmio,3,1,Liverpool (Montevideo),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-01-26,Alianza (Lima),0,2,Jaguares (Tuxtla Gtz.),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-01,Jaguares (Tuxtla Gtz.),2,0,Alianza (Lima),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-01-27,Cerro Porteño (Asunción),1,0,Dep. Petare (Caracas),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-03,Dep. Petare (Caracas),1,1,Cerro Porteño (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-01-27,Bolívar,0,1,Unión Española (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-03,Unión Española (Santiago),0,0,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2011
+2011-02-15,San Luis,1,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-16,Once Caldas,0,3,Univ. San Martín,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-22,Univ. San Martín,2,0,San Luis,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-22,Once Caldas,1,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-02,San Luis,1,1,Once Caldas,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-08,Libertad,5,1,Univ. San Martín,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-15,Univ. San Martín,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-15,Once Caldas,1,1,San Luis,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-22,Libertad,2,2,Once Caldas,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-22,San Luis,3,1,Univ. San Martín,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-19,Libertad,2,0,San Luis,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-19,Univ. San Martín,0,2,Once Caldas,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-17,León de Huánuco,1,2,Junior,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-17,Grêmio,3,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-23,León de Huánuco,1,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-24,Junior,2,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-03,Grêmio,2,0,León de Huánuco,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-09,Oriente Petrolero,1,2,Junior,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-17,León de Huánuco,1,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-17,Junior,2,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-24,Oriente Petrolero,2,0,León de Huánuco,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-07,Grêmio,2,0,Junior,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-14,Oriente Petrolero,3,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-14,Junior,1,1,León de Huánuco,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-09,Fluminense,2,2,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-15,América,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-23,Fluminense,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-24,Argentinos Juniors,3,1,América,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-02,Nacional,0,1,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-02,América,1,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-15,Argentinos Juniors,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-23,Fluminense,3,2,América,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,Nacional,2,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,América,2,1,Argentinos Juniors,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-20,Nacional,0,0,América,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-20,Argentinos Juniors,2,4,Fluminense,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-15,Vélez Sarsfield,3,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-16,Unión Española,2,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-03,Vélez Sarsfield,3,4,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-03,Caracas,2,0,Unión Española,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-09,Univ. Católica,1,3,Caracas,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-10,Unión Española,2,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-22,Caracas,0,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-24,Vélez Sarsfield,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,Unión Española,1,2,Caracas,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-07,Univ. Católica,0,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-14,Caracas,0,3,Vélez Sarfield,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-14,Univ. Católica,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-15,Deportivo Táchira,0,0,Santos,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-17,Cerro Porteño,5,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-01,Deportivo Táchira,2,4,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-02,Santos,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-10,Cerro Porteño,1,1,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-16,Colo Colo,3,2,Santos,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,Deportivo Táchira,0,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,Santos,3,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-12,Colo Colo,2,1,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-14,Cerro Porteño,1,2,Santos,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-20,Santos,3,1,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-20,Colo Colo,2,3,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-16,Emelec,1,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-16,Jaguares,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-22,Emelec,1,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-23,Internacional,4,0,Jaguares,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-08,Jaguares,2,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-16,Jorge Wilstermann,1,4,Internacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-16,Emelec,1,0,Jaguares,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-30,Internacional,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-06,Jaguares,1,0,Internacional,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-07,Jorge Wilstermann,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-19,Jorge Wilstermann,2,1,Jaguares,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-19,Internacional,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-15,Deportes Tolima,1,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-16,Cruzeiro,5,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-22,Cruzeiro,4,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-23,Estudiantes,1,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-02,Deportes Tolima,0,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-09,Guaraní,1,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-16,Cruzeiro,6,1,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-17,Estudiantes,5,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-30,Deportes Tolima,1,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-30,Guaraní,0,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-13,Guaraní,0,2,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-13,Estudiantes,0,3,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-17,Godoy Cruz,2,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2011
+2011-02-24,Independiente,3,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-01,Godoy Cruz,1,3,Peñarol,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-03,LDU Quito,3,0,Independiente,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-09,Peñarol,1,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-10,Independiente,1,3,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-17,LDU Quito,5,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-23,Godoy Cruz,1,1,Independiente,False,False,Group Stage,Copa Libertadores de América,2011
+2011-03-31,Peñarol,2,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-05,Independiente,1,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-12,LDU Quito,2,0,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-12,Peñarol,0,1,Independiente,False,False,Group Stage,Copa Libertadores de América,2011
+2011-04-26,Grêmio,1,2,Univ. Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-04,Univ. Católica (Santiago),1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-26,Vélez Sarsfield (B. Aires),3,0,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-05,LDU (Quito),0,2,Vélez Sarsfield (B. Aires),False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-27,Santos,1,0,América (Cdad. De México),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-03,América (Cdad. De México),0,0,Santos,False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-27,Once Caldas (Manizales),1,2,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-04,Cruzeiro,0,2,Once Caldas (Manizales),False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-27,Jaguares (Tuxtla Gtz.),1,1,Junior (Barranquilla),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-05,Junior (Barranquilla),3,3,Jaguares (Tuxtla Gtz.),False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-27,Estudiantes (La Plata),0,0,Cerro Porteño (Asunción),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-05,Cerro Porteño (Asunción),0,0,Estudiantes (La Plata),False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-28,Peñarol,1,1,Internacional,False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-04,Internacional,1,2,Peñarol,False,False,Round of 16,Copa Libertadores de América,2011
+2011-04-28,Fluminense,3,1,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-04,Libertad (Asunción),3,0,Fluminense,False,False,Round of 16,Copa Libertadores de América,2011
+2011-05-11,Once Caldas (Manizales),0,1,Santos,False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-18,Santos,1,1,Once Caldas (Manizales),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-11,Peñarol,2,0,Univ. Católica (Santiago),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-19,Univ. Católica (Santiago),2,1,Peñarol,False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-12,Vélez Sarsfield (B. Aires),3,0,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-18,Libertad (Asunción),2,4,Vélez Sarsfield (B. Aires),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-12,Jaguares (Tuxtla Gtz.),1,1,Cerro Porteño (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-19,Cerro Porteño (Asunción),1,0,Jaguares (Tuxtla Gtz.),False,False,Quarterfinal,Copa Libertadores de América,2011
+2011-05-25,Santos,1,0,Cerro Porteño (Asunción),False,False,Semifinal,Copa Libertadores de América,2011
+2011-06-01,Cerro Porteño (Asunción),3,3,Santos,False,False,Semifinal,Copa Libertadores de América,2011
+2011-05-26,Peñarol,1,0,Vélez Sarsfield (B. Aires),False,False,Semifinal,Copa Libertadores de América,2011
+2011-06-02,Vélez Sarsfield (B. Aires),2,1,Peñarol,False,False,Semifinal,Copa Libertadores de América,2011
+2011-06-15,Peñarol,0,0,Santos,False,False,Final,Copa Libertadores de América,2011
+2011-06-22,Santos,2,1,Peñarol,False,False,Final,Copa Libertadores de América,2011

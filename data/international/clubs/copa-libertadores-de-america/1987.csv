@@ -1,0 +1,77 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1987-07-18,Estudiantes,0,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1987
+1987-07-19,Táchira,3,2,Independiente,False,False,Group Stage,Copa Libertadores de América,1987
+1987-07-22,Táchira,0,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1987
+1987-07-23,Estudiantes,0,1,Independiente,False,False,Group Stage,Copa Libertadores de América,1987
+1987-07-26,Táchira,3,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-01,Rosario Central,0,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-04,Independiente,2,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-05,Rosario Central,3,2,Táchira,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-08,Rosario Central,5,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-09,Independiente,5,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-16,Independiente,3,1,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1987
+1987-08-16,Estudiantes,0,3,Táchira,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-07,América,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-07,The Strongest,3,2,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-12,The Strongest,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-15,Oriente Petrolero,0,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-19,The Strongest,1,1,América,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-22,Oriente Petrolero,1,1,América,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-26,Deportivo Cali,2,1,América,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-29,Oriente Petrolero,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-02,Deportivo Cali,5,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-05,América,3,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-09,Deportivo Cali,4,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-13,América,6,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1987
+1987-07-08,América,0,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1987
+1987-03-25,Cobreloa,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1987
+1987-03-27,Guarani,3,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,1987
+1987-04-07,Guarani,0,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1987
+1987-04-10,São Paulo,2,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-05,Guarani,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-08,São Paulo,1,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-03,Colo Colo,0,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-04,São Paulo,2,2,Guarani,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-09,Cobreloa,3,1,Guarani,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-12,Colo Colo,2,0,Guarani,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-16,Cobreloa,3,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-19,Colo Colo,2,2,São Paulo,False,False,Group Stage,Copa Libertadores de América,1987
+1987-03-15,Sol de América,2,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1987
+1987-03-22,El Nacional,2,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1987
+1987-04-01,Olimpia,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1987
+1987-04-05,Sol de América,2,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1987
+1987-04-08,Sol de América,1,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,1987
+1987-04-12,Olimpia,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-14,Barcelona,2,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-14,Olimpia,2,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-20,El Nacional,4,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-20,Barcelona,1,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-24,El Nacional,4,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-24,Barcelona,3,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-06,Alianza Lima,2,0,Col. San Agustín,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-06,Peñarol,3,2,Progreso,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-12,Col. San Agustín,3,1,Progreso,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-15,Alianza Lima,0,0,Progreso,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-18,Alianza Lima,0,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-21,Col. San Agustín,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-26,Col. San Agustín,1,2,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-26,Progreso,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1987
+1987-05-29,Progreso,0,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-02,Peñarol,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-02,Progreso,3,0,Col. San Agustín,False,False,Group Stage,Copa Libertadores de América,1987
+1987-06-05,Peñarol,2,0,Col. San Agustín,False,False,Group Stage,Copa Libertadores de América,1987
+1987-09-01,Cobreloa,3,0,Barcelona,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-04,Cobreloa,2,2,América,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-09,Barcelona,0,2,América,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-15,Barcelona,0,2,Cobreloa,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-18,América,1,1,Cobreloa,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-23,América,4,0,Barcelona,False,False,Semifinal,Copa Libertadores de América,1987
+1987-08-26,River Plate,0,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-03,Peñarol,3,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-16,Peñarol,0,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-23,Independiente,2,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1987
+1987-09-30,Independiente,2,4,Peñarol,False,False,Semifinal,Copa Libertadores de América,1987
+1987-10-07,River Plate,1,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1987
+1987-10-21,América,2,0,Peñarol,False,False,Final,Copa Libertadores de América,1987
+1987-10-28,Peñarol,2,1,América,False,False,Final,Copa Libertadores de América,1987
+1987-10-21,Peñarol,1,0,América,False,False,Final,Copa Libertadores de América,1987

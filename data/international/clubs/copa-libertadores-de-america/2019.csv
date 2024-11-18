@@ -1,0 +1,156 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2019-01-22,Delfín,3,0,Nacional (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-01-30,Nacional (Asunción),1,2,Delfín,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-01-23,Deportivo La Guaira,1,0,Real Garcilaso (Cuzco),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-01-29,Real Garcilaso (Cuzco),2,1,Deportivo La Guaira,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-01-23,Bolívar,2,4,Defensor Sporting,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-01-30,Defensor Sporting,2,3,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-05,Danubio,2,2,Atlético Mineiro,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-12,Atlético Mineiro,3,2,Danubio,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-05,Melgar (Arequipa),1,0,Universidad de Chile,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-13,Universidad de Chile,0,0,Melgar (Arequipa),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-05,The Strongest (La Paz),1,1,Libertad (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-13,Libertad (Asunción),5,1,The Strongest (La Paz),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-06,Defensor Sporting,1,2,Barcelona (Guayaquil),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-12,Barcelona (Guayaquil),1,0,Defensor Sporting,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-06,Palestino (Santiago),1,1,Independiente Medellín,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-12,Independiente Medellín,1,1,Palestino (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-06,Delfín,1,1,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-13,Caracas,0,0,Delfín,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-06,Talleres (Córdoba),2,0,São Paulo,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-13,São Paulo,0,0,Talleres (Córdoba),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-07,Deportivo La Guaira,0,1,Atl. Nacional (Medellín),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-14,Atl. Nacional (Medellín),0,0,Deportivo La Guaira,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-19,Melgar (Arequipa),2,0,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-26,Caracas,2,1,Melgar (Arequipa),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-20,Talleres (Córdoba),2,2,Palestino (Santiago),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-27,Palestino (Santiago),2,1,Talleres (Córdoba),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-20,Defensor Sporting,0,2,Atlético Mineiro,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-27,Atlético Mineiro,0,0,Defensor Sporting,False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-21,Libertad (Asunción),1,0,Atl. Nacional (Medellín),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-02-28,Atl. Nacional (Medellín),1,0,Libertad (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2019
+2019-03-06,Palestino,0,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Alianza Lima,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-13,Internacional,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-13,River Plate,0,0,Palestino,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,Palestino,3,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Internacional,2,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-09,Internacional,3,2,Palestino,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-11,River Plate,3,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,Palestino,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,Alianza Lima,0,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-07,Alianza Lima,1,2,Palestino,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-07,River Plate,2,2,Internacional,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-07,Huracán,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-08,Deportivo Lara,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-14,Emelec,0,0,Huracán,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-27,Cruzeiro,2,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Deportivo Lara,2,1,Huracán,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Emelec,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Cruzeiro,4,0,Huracán,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-11,Emelec,2,2,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Deportivo Lara,0,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Huracán,1,2,Emelec,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Cruzeiro,1,2,Emelec,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Huracán,3,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,Godoy Cruz,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Univ. de Concepción,5,4,Sport,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Olimpia,1,1,Universidad de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Sport,1,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Univ. de Concepción,0,0,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-04,Sport,0,3,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-09,Olimpia,2,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Sport,2,0,Univ. de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Universidad de Concepción,3,3,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Godoy Cruz,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-09,Godoy Cruz,1,0,Univ. de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-09,Olimpia,0,1,Sport,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,San José,0,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-07,LDU Quito,2,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-13,Flamengo,3,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-14,Peñarol,4,0,San José,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,San José,3,3,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Flamengo,0,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-09,Peñarol,1,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-11,Flamengo,6,1,San José,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,LDU Quito,2,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,San José,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,LDU Quito,4,0,San José,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Peñarol,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Atlético Mineiro,0,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Zamora,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Nacional,1,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-13,Cerro Porteño,2,1,Zamora,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,Cerro Porteño,1,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Atlético Mineiro,3,2,Zamora,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Cerro Porteño,4,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Nacional,1,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Atlético Mineiro,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-25,Zamora,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-07,Nacional,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-07,Zamora,1,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,Melgar,0,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Atlético Junior,0,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Palmeiras,3,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-13,San Lorenzo,1,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,San Lorenzo,1,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,Melgar,1,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-09,San Lorenzo,2,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Palmeiras,3,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-25,Atlético Junior,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-25,Melgar,0,4,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Atlético Junior,0,1,Melgar,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Palmeiras,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,Deportes Tolima,1,0,Athl. Paranaense,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,Jorge Wilstermann,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Boca Juniors,3,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-14,Athl. Paranaense,4,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,Athletico Paranaense,3,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-03,Deportes Tolima,2,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-09,Athl. Paranaense,1,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Boca Juniors,4,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,Jorge Wilstermann,3,2,Athl. Paranaense,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,Deportes Tolima,2,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-09,Boca Juniors,2,1,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-09,Jorge Wilstermann,0,2,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,Libertad,4,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Rosario Central,1,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Grêmio,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-13,Univ. Católica,2,1,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-04,Universidad Católica,1,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-04,Libertad,2,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Universidad Católica,2,3,Libertad,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Grêmio,3,1,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Libertad,0,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,Rosario Central,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Grêmio,2,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-08,Rosario Central,2,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2019
+2019-07-23,River Plate,0,0,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-30,Cruzeiro,0,0,River Plate,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-23,Godoy Cruz (Mendoza),2,2,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-30,Palmeiras,4,0,Godoy Cruz (Mendoza),False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-23,LDU (Quito),3,1,Olimpia (Asunción),False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-30,Olimpia (Asunción),1,1,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-24,Nacional (Montevideo),0,1,Internacional,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-31,Internacional,2,0,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-24,San Lorenzo de Almagro,0,0,Cerro Porteño (Asunción),False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-31,Cerro Porteño (Asunción),2,1,San Lorenzo de Almagro,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-24,Ath. Paranaense (Curitiba,0,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-31,Boca Juniors,2,0,Ath. Paranaense (Curitiba,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-24,Emelec (Guayaquil),2,0,Flamengo,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-31,Flamengo,2,0,Emelec (Guayaquil),False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-25,Grêmio,2,0,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2019
+2019-08-01,Libertad (Asunción),0,3,Grêmio,False,False,Round of 16,Copa Libertadores de América,2019
+2019-08-20,Grêmio,0,1,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-27,Palmeiras,1,2,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-21,LDU (Quito),0,3,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-28,Boca Juniors,0,0,LDU (Quito),False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-21,Flamengo,2,0,Internacional,False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-28,Internacional,1,1,Flamengo,False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-22,River Plate,2,0,Cerro Porteño (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-08-29,Cerro Porteño (Asunción),1,1,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2019
+2019-10-01,River Plate,2,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2019
+2019-10-22,Boca Juniors,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,2019
+2019-10-02,Grêmio,1,1,Flamengo,False,False,Semifinal,Copa Libertadores de América,2019
+2019-10-23,Flamengo,5,0,Grêmio,False,False,Semifinal,Copa Libertadores de América,2019
+2019-10-02,River Plate,1,2,Flamengo,False,False,Final,Copa Libertadores de América,2019

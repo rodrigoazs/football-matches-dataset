@@ -1,0 +1,92 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1989-02-23,Olimpia,0,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-24,Colo Colo,0,2,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-28,Colo Colo,3,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-03,Cobreloa,1,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-07,Sol de América,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-10,Olimpia,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-14,Colo Colo,2,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-17,Cobreloa,2,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-20,Sol de América,0,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-23,Olimpia,2,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-29,Cobreloa,2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-30,Sol de América,5,4,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-19,Marítimo,0,1,Táchira,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-21,Internacional,1,2,Bahia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-24,Táchira,1,0,Internacional,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-02,Marítimo,1,1,Internacional,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-04,Marítimo,0,0,Bahia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-07,Táchira,1,1,Bahia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-12,Táchira,2,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-14,Bahia,1,0,Internacional,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-17,Bahia,3,2,Marítimo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-21,Internacional,3,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-24,Bahia,4,1,Táchira,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-28,Internacional,3,1,Táchira,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-12,Emelec,1,0,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-16,Millonarios,1,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-21,Emelec,1,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-24,Deportivo Quito,1,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-28,Emelec,0,2,Millonarios,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-03,Deportivo Quito,0,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-07,Atlético Nacional,0,2,Millonarios,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-10,Deportivo Quito,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-14,Atlético Nacional,2,1,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-17,Millonarios,3,1,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-28,Atlético Nacional,3,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-31,Millonarios,4,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-12,Sport,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-14,Boca Juniors,0,0,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-20,Universitario,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-23,Sport,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-28,Universitario,2,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-02,Sport,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-08,Racing Club,2,3,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-08,Universitario,4,0,Sport,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-14,Boca Juniors,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-17,Racing Club,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-21,Boca Juniors,4,3,Sport,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-24,Racing Club,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-29,Boca Juniors,3,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-17,Danubio,4,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-17,Bolívar,0,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-21,The Strongest,1,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-24,Bolívar,3,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-28,The Strongest,1,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-03,Bolívar,3,1,Danubio,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-08,The Strongest,0,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-08,Peñarol,2,0,Danubio,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-14,Danubio,1,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-17,Peñarol,5,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-21,Danubio,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-24,Peñarol,1,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1989
+1989-04-05,Atlético Nacional,2,0,Racing Club,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Racing Club,2,1,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Bolívar,1,0,Millonarios,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Millonarios,3,2,Bolívar,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Deportivo Quito,0,0,Cobreloa,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Cobreloa,1,0,Deportivo Quito,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Nacional,1,3,Danubio,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Danubio,0,0,Nacional,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Internacional,6,2,Peñarol,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Peñarol,1,2,Internacional,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Universitario,1,1,Bahia,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Bahia,2,1,Universitario,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Sol de América,3,0,Táchira,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Táchira,3,0,Sol de América,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-05,Olimpia,2,0,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-12,Boca Juniors,5,3,Olimpia,False,False,Round of 16,Copa Libertadores de América,1989
+1989-04-19,Atlético Nacional,1,0,Millonarios,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-26,Millonarios,1,1,Atlético Nacional,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-19,Cobreloa,0,2,Danubio,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-26,Danubio,2,1,Cobreloa,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-19,Internacional,1,0,Bahia,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-26,Bahia,0,0,Internacional,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-19,Olimpia,2,0,Sol de América,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-04-26,Sol de América,4,4,Olimpia,False,False,Quarterfinal,Copa Libertadores de América,1989
+1989-05-10,Danubio,0,0,Atlético Nacional,False,False,Semifinal,Copa Libertadores de América,1989
+1989-05-17,Atlético Nacional,6,0,Danubio,False,False,Semifinal,Copa Libertadores de América,1989
+1989-05-10,Olimpia,0,1,Internacional,False,False,Semifinal,Copa Libertadores de América,1989
+1989-05-17,Internacional,2,3,Olimpia,False,False,Semifinal,Copa Libertadores de América,1989
+1989-05-24,Olimpia,2,0,Atlético Nacional,False,False,Final,Copa Libertadores de América,1989
+1989-05-31,Atlético Nacional,2,0,Olimpia,False,False,Final,Copa Libertadores de América,1989

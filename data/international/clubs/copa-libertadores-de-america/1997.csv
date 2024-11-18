@@ -1,0 +1,91 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1997-02-19,Guaraní,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Oriente Petrolero,0,4,Bolívar,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-25,Oriente Petrolero,4,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-28,Bolívar,4,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-04,Oriente Petrolero,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-07,Bolívar,3,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Cerro Porteño,2,2,Guaraní,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Bolívar,3,3,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-18,Guaraní,0,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-21,Cerro Porteño,2,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-08,Guaraní,3,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-11,Cerro Porteño,2,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Emelec,2,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Racing,1,2,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-26,El Nacional,1,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-27,Emelec,2,2,Racing,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-02,El Nacional,2,0,Racing,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-02,Emelec,2,3,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,El Nacional,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Vélez Sarsfield,1,0,Racing,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-18,Vélez Sarsfield,3,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-21,Racing,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-05,Vélez Sarsfield,1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-08,Racing,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Mineros,0,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Univ. Católica,2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-25,Univ. Católica,6,0,Mineros,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-27,Colo Colo,1,0,Mineros,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-04,Univ. Católica,6,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-06,Colo Colo,1,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Colo Colo,2,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Minervén,1,0,Mineros,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-18,Mineros,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-20,Minervén,1,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-25,Mineros,1,4,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-27,Minervén,1,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Cruzeiro,1,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Sport,0,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-25,Alianza Lima,1,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-28,Sport,1,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-04,Alianza Lima,0,4,Grêmio,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-07,Sport,1,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Grêmio,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Alianza Lima,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-18,Cruzeiro,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-21,Grêmio,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-11,Cruzeiro,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-15,Grêmio,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-26,Deportivo Cali,1,2,Millonarios,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-27,Nacional,1,4,Peñarol,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-04,Nacional,1,2,Millonarios,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-07,Peñarol,2,1,Millonarios,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-11,Deportivo Cali,2,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-14,Millonarios,1,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-19,Peñarol,0,2,Nacional,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-19,Millonarios,2,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-08,Deportivo Cali,0,1,Nacional,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-11,Millonarios,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-15,Nacional,1,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-18,Peñarol,4,3,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1997
+1997-04-23,Racing Club,3,3,River Plate,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,River Plate,1,1,Racing Club,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Sport,0,0,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Vélez Sarsfield,0,1,Sport,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Guaraní,2,1,Grêmio,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Grêmio,2,1,Guaraní,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Minervén,1,1,Bolívar,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Bolívar,7,0,Minervén,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Millonarios,2,0,Peñarol,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Peñarol,3,1,Millonarios,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Universidad Católica,4,0,Oriente Petrolero,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Oriente Petrolero,1,5,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Nacional,1,3,Colo Colo,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Colo Colo,1,2,Nacional,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,El Nacional,1,0,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Cruzeiro,2,1,El Nacional,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-21,Bolívar,2,1,Sport,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-28,Sport,3,0,Bolívar,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-21,Universidad Católica,2,1,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-28,Colo Colo,3,1,Universidad Católica,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-21,Cruzeiro,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-28,Grêmio,2,1,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-21,Peñarol,1,0,Racing Club,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-28,Racing Club,1,0,Peñarol,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-07-23,Cruzeiro,1,0,Colo Colo,False,False,Semifinal,Copa Libertadores de América,1997
+1997-07-30,Colo Colo,3,2,Cruzeiro,False,False,Semifinal,Copa Libertadores de América,1997
+1997-07-23,Racing Club,3,2,Sport,False,False,Semifinal,Copa Libertadores de América,1997
+1997-07-30,Sport,4,1,Racing Club,False,False,Semifinal,Copa Libertadores de América,1997
+1997-08-06,Sport,0,0,Cruzeiro,False,False,Final,Copa Libertadores de América,1997
+1997-08-13,Cruzeiro,1,0,Sport,False,False,Final,Copa Libertadores de América,1997

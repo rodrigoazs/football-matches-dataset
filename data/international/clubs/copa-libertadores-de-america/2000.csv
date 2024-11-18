@@ -1,0 +1,139 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2000-09-29,América,2,0,Atlas,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-09-29,Táchira,0,2,Deportivo ItalChacao,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-10-05,Táchira,1,0,América,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-10-07,Deportivo ItalChacao,1,1,América,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-10-19,Táchira,2,2,Atlas,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-10-21,Deportivo ItalChacao,3,3,Atlas,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-10-27,Atlas,6,3,América,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-10-27,Deportivo ItalChacao,0,0,Táchira,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-11-09,América,6,0,Táchira,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-11-11,Atlas,3,0,Táchira,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-11-16,América,1,1,Deportivo ItalChacao,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-11-18,Atlas,2,2,Deportivo ItalChacao,False,False,Qualifying Round,Copa Libertadores de América,2000
+2000-02-16,Alianza Lima,0,3,Atlético Paranaense,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-23,Emelec,0,2,Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-29,Alianza Lima,2,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-08,Nacional,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-09,Atlético Paranaense,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-15,Nacional,1,3,Atlético Paranaense,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,Nacional,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,Atlético Paranaense,2,1,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-04,Emelec,0,0,Atlético Paranaense,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-05,Alianza Lima,2,2,Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-12,Atlético Paranaense,2,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-12,Emelec,2,2,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-22,Universidad Católica,1,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-23,Blooming,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-02,Boca Juniors,2,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-02,Peñarol,2,1,Blooming,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-09,Blooming,3,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-16,Peñarol,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,Boca Juniors,6,1,Blooming,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-05,Peñarol,5,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-12,Universidad Católica,1,3,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-13,Blooming,3,3,Peñarol,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-19,Boca Juniors,3,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-19,Universidad Católica,5,0,Blooming,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-17,América,2,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-22,LDU Quito,0,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-01,Olimpia,3,1,América,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-03,Corinthians,6,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-14,América,1,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-14,Olimpia,2,2,Corinthians,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-05,Corinthians,2,1,América,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-05,Olimpia,1,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-11,LDU Quito,0,2,Corinthians,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-12,América,8,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-19,Corinthians,5,4,Olimpia,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-19,LDU Quito,2,2,América,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-23,Atlas,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-23,Universidad de Chile,4,0,Atl. Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-29,Atlético Nacional,2,3,Atlas,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-01,River Plate,3,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-08,Atlético Nacional,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-08,Atlas,0,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-15,River Plate,3,2,Atlas,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-16,Atl. Nacional,4,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,Atlas,5,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-06,Universidad de Chile,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-20,River Plate,2,3,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-20,Universidad de Chile,3,2,Atlas,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-17,Cerro Porteño,1,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-22,San Lorenzo,3,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-02,Atlético Junior,3,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-02,Universitario,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-07,San Lorenzo,2,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-09,Atlético Junior,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-15,Atlético Junior,2,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-16,Universitario,1,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-21,San Lorenzo,2,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-21,Cerro Porteño,3,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-06,Cerro Porteño,3,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-06,Universitario,0,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-22,Rosario Central,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-22,Atlético Colegiales,2,5,América,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-07,América,5,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-07,Sport,3,0,Atl. Colegiales,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-14,Rosario Central,4,2,Atlético Colegiales,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-14,América,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,América,2,1,Atlético Colegiales,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-23,Sport,3,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-04,Rosario Central,3,3,América,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-04,Atl. Colegiales,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-19,Atlético Colegiales,3,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-19,Sport,0,2,América,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-15,Palmeiras,4,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-16,Juventude,1,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-08,The Strongest,5,1,Juventude,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-16,El Nacional,3,1,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-21,El Nacional,0,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-21,Palmeiras,3,0,Juventude,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-06,The Strongest,4,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-06,El Nacional,2,0,Juventude,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-12,Juventude,4,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-13,Palmeiras,4,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-20,Juventude,2,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-20,The Strongest,1,4,El Nacional,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-17,Atlético Mineiro,1,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2000
+2000-02-24,Bella Vista,1,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-01,Bolívar,1,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-09,Cobreloa,1,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-14,Cobreloa,3,3,Bolívar,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-14,Atlético Mineiro,2,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,Cobreloa,1,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,2000
+2000-03-22,Bolívar,4,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-04,Bella Vista,4,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-05,Atlético Mineiro,6,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-18,Bella Vista,1,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2000
+2000-04-18,Bolívar,4,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,2000
+2000-05-03,Atlético Mineiro,1,0,Atlético Paranaense,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,Atlético Paranaense,2,1,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,Rosario Central,3,2,Corinthians,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,Corinthians,3,2,Rosario Central,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,El Nacional (Quito),0,0,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,Boca Juniors,5,3,El Nacional (Quito),False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,Cerro Porteño,0,4,River Plate,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,River Plate,1,0,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,Atlas,2,0,Atlético Junior,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,Atlético Junior,1,3,Atlas,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,Peñarol,2,0,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,Palmeiras,3,1,Peñarol,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,América (Cd. de México),2,1,América (Cali),False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,América (Cali),2,3,América (Cd. de México),False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-03,Nacional (Montevideo),3,0,Bolívar,False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-10,Bolívar,3,0,Nacional (Montevideo),False,False,Round of 16,Copa Libertadores de América,2000
+2000-05-17,Atlético Mineiro,1,1,Corinthians,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-25,Corinthians,2,1,Atlético Mineiro,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-17,River Plate,2,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-25,Boca Juniors,3,0,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-17,Atlas,0,2,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-25,Palmeiras,3,2,Atlas,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-17,América (Cd. de México),2,0,Bolívar,False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-25,Bolívar,1,2,América (Cd. de México),False,False,Quarterfinal,Copa Libertadores de América,2000
+2000-05-17,Corinthians,4,3,Palmeiras,False,False,Semifinal,Copa Libertadores de América,2000
+2000-05-25,Palmeiras,3,2,Corinthians,False,False,Semifinal,Copa Libertadores de América,2000
+2000-05-17,Boca Juniors,4,1,América (Cd. de México),False,False,Semifinal,Copa Libertadores de América,2000
+2000-05-25,América (Cd. de México),3,1,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2000
+2000-06-14,Boca Juniors,2,2,Palmeiras,False,False,Final,Copa Libertadores de América,2000
+2000-06-21,Palmeiras,0,0,Boca Juniors,False,False,Final,Copa Libertadores de América,2000

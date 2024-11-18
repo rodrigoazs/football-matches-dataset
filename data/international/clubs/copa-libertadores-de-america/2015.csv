@@ -1,0 +1,138 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2015-02-03,Alianza Lima,0,4,Huracán (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-10,Huracán (Buenos Aires),0,0,Alianza Lima,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-03,Morelia,1,1,The Strongest,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-10,The Strongest,2,0,Morelia,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-04,Corinthians,4,0,Once Caldas,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-11,Once Caldas,1,1,Corinthians,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-04,Deportivo Táchira,2,1,Cerro Porteño,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-11,Cerro Porteño,2,2,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-05,Palestino,1,0,Nacional (Montevideo),False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-12,Nacional (Montevideo),2,1,Palestino,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-05,Independiente del Valle,1,0,Estudiantes (La Plata),False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-12,Estudiantes (La Plata),4,0,Independiente del Valle,False,False,Qualifying Round,Copa Libertadores de América,2015
+2015-02-17,Atlas,0,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-18,Colo Colo,2,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-25,Atlético Mineiro,0,1,Atlas,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-26,Independiente Santa Fe,3,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-04,Colo Colo,2,0,Atlas,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-18,Indep. Santa Fe,0,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-07,Atlas,1,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-09,Atlético Mineiro,2,0,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-15,Atlas,1,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-15,Colo Colo,0,3,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-22,Atlético Mineiro,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-22,Independiente Santa Fe,3,1,Atlas,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-18,Corinthians,2,0,São Paulo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-19,Danubio,1,2,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-25,São Paulo,4,0,Danubio,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-04,San Lorenzo,0,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-17,Danubio,1,2,Corinthians,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-18,São Paulo,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-01,San Lorenzo,1,0,São Paulo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-01,Corinthians,4,0,Danubio,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-15,Danubio,1,2,São Paulo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-16,Corinthians,0,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-22,San Lorenzo,0,1,Danubio,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-22,São Paulo,2,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-24,Huracán,2,2,Mineros de Guayana,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-25,Universitario (Sucre),0,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-03,Mineros,0,1,Universitario (Sucre),False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-03,Cruzeiro,0,0,Huracán,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-10,Universitario (Sucre),0,0,Huracán,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-19,Mineros de Guayana,0,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-08,Huracán,1,1,Universitario (Sucre),False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-08,Cruzeiro,3,0,Mineros de Guayana,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-14,Huracán,3,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-14,Universitario (Sucre),2,0,Mineros,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-21,Cruzeiro,2,0,Universitario (Sucre),False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-21,Mineros de Guayana,3,0,Huracán,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-17,Universidad de Chile,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-17,The Strongest,3,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-24,Emelec,3,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-26,Internacional,3,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-04,Internacional,3,2,Emelec,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-05,Universidad de Chile,3,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-17,The Strongest,5,3,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-18,Emelec,1,1,Internacional,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-15,The Strongest,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-16,Universidad de Chile,0,4,Internacional,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-22,Emelec,2,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-22,Internacional,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-17,Montevideo Wanderers,3,2,Zamora,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-18,Palestino,0,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-26,Boca Juniors,2,1,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-26,Zamora,0,1,Palestino,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-10,Montevideo Wanderers,1,0,Palestino,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-11,Boca Juniors,5,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-17,Zamora,1,5,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-19,Palestino,1,1,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-07,Palestino,4,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-09,Montevideo Wanderers,0,3,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-16,Boca Juniors,2,0,Palestino,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-16,Zamora,0,3,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-18,Tigres UANL,3,0,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-19,San José,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-05,River Plate,1,1,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-05,Juan Aurich,2,0,San José,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-11,San José,0,1,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-12,Juan Aurich,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-17,Tigres UANL,4,0,San José,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-19,River Plate,1,1,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-07,San José,1,1,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-08,Tigres UANL,2,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-15,Juan Aurich,4,5,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-15,River Plate,3,0,San José,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-19,Libertad,2,2,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-25,Estudiantes,3,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-03,Barcelona,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-05,Atlético Nacional,1,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-11,Barcelona,1,2,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-12,Libertad,1,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-18,Estudiantes,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-19,Atlético Nacional,2,3,Barcelona,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-09,Estudiantes,0,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-09,Libertad,1,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-21,Atlético Nacional,4,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-21,Barcelona,0,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-17,Deportivo Táchira,0,5,Racing Club,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-18,Guaraní,2,2,Sport,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-24,Racing Club,4,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,2015
+2015-02-24,Sport,1,1,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-10,Guaraní,5,2,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-10,Racing Club,1,2,Sport,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-17,Sport,0,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2015
+2015-03-18,Deportivo Táchira,1,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-07,Guaraní,2,0,Racing Club,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-08,Deportivo Táchira,0,0,Sport,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-14,Racing Club,3,2,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-14,Sport,1,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,2015
+2015-04-28,Universitario de Sucre,1,2,Tigres UANL (Monterrey),False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-05,Tigres UANL (Monterrey),1,1,Universitario de Sucre,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-05,Estudiantes (La Plata),2,1,Independiente Santa Fe,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-12,Independiente Santa Fe,2,0,Estudiantes (La Plata),False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-06,Guaraní (Asunción),2,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-13,Corinthians,0,1,Guaraní (Asunción),False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-06,São Paulo,1,0,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-13,Cruzeiro,1,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-06,Atlético Mineiro,2,2,Internacional,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-13,Internacional,3,1,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-07,Montevideo Wanderers,1,1,Racing Club (Avellaneda),False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-14,Racing Club (Avellaneda),2,1,Montevideo Wanderers,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-07,River Plate,1,0,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-07,Emelec,2,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-14,Atlético Nacional,1,0,Emelec,False,False,Round of 16,Copa Libertadores de América,2015
+2015-05-19,Emelec,1,0,Tigres UANL (Monterrey),False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-26,Tigres UANL (Monterrey),2,0,Emelec,False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-20,Independiente Santa Fe,1,0,Internacional,False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-27,Internacional,2,0,Independiente Santa Fe,False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-21,River Plate,0,1,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-27,Cruzeiro,0,3,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-21,Guaraní (Asunción),1,0,Racing Club (Avellaneda),False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-05-28,Racing Club (Avellaneda),0,0,Guaraní (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2015
+2015-07-14,River Plate,2,0,Guaraní (Asunción),False,False,Semifinal,Copa Libertadores de América,2015
+2015-07-21,Guaraní (Asunción),1,1,River Plate,False,False,Semifinal,Copa Libertadores de América,2015
+2015-07-15,Internacional,2,1,Tigres UANL (Monterrey),False,False,Semifinal,Copa Libertadores de América,2015
+2015-07-22,Tigres UANL (Monterrey),3,1,Internacional,False,False,Semifinal,Copa Libertadores de América,2015
+2015-07-29,Tigres UANL (Monterrey),0,0,River Plate,False,False,Final,Copa Libertadores de América,2015
+2015-08-05,River Plate,3,0,Tigres UANL (Monterrey),False,False,Final,Copa Libertadores de América,2015

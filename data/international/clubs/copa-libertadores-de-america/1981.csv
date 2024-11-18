@@ -1,0 +1,78 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1981-03-18,Rosario Central,0,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-25,Atlético Junior,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-31,Atlético Junior,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-31,Deportivo Cali,1,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-03,Atlético Junior,1,2,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-03,Deportivo Cali,2,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-09,Deportivo Cali,4,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-22,River Plate,1,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-22,Rosario Central,5,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-24,River Plate,3,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-24,Rosario Central,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-19,River Plate,3,2,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-18,Sport,2,1,Atlético Torino,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-18,Universidad de Chile,0,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-24,Sport,3,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-24,Atlético Torino,1,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-27,Sport,0,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-27,Atlético Torino,1,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-07,Cobreloa,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-07,Atlético Torino,1,2,Sport,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-10,Cobreloa,6,1,Atlético Torino,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-10,Universidad de Chile,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-14,Universidad de Chile,3,0,Atlético Torino,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-14,Cobreloa,6,1,Sport,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-03,Atlético Mineiro,2,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-07,Cerro Porteño,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-14,Flamengo,5,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-17,Olimpia,0,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-21,Cerro Porteño,0,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-24,Flamengo,1,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-28,Atlético Mineiro,1,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1981
+1981-07-31,Atlético Mineiro,2,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1981
+1981-08-07,Flamengo,2,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1981
+1981-08-08,Olimpia,0,3,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1981
+1981-08-11,Cerro Porteño,2,4,Flamengo,False,False,Group Stage,Copa Libertadores de América,1981
+1981-08-14,Olimpia,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,1981
+1981-08-21,Flamengo,0,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-29,Jorge Wilstermann,3,2,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-29,Barcelona,2,1,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-04,Técnico Universitario,1,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-05,Barcelona,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-08,Técnico Universitario,2,3,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-08,Barcelona,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-12,Jorge Wilstermann,3,1,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-12,The Strongest,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-19,Jorge Wilstermann,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-19,The Strongest,4,2,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-26,The Strongest,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-26,Técnico Universitario,4,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-08,Jorge Wilstermann,4,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-25,Peñarol,3,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-05,Estudiantes,1,1,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-22,Portuguesa,0,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-22,Estudiantes,1,4,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-26,Portuguesa,0,4,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-26,Estudiantes,0,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-03,Portuguesa,0,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-06,Bella Vista,0,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-13,Peñarol,3,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-13,Bella Vista,3,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-17,Bella Vista,4,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1981
+1981-05-18,Peñarol,4,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1981
+1981-10-02,Deportivo Cali,0,1,Flamengo,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-13,Jorge Wilstermann,1,2,Flamengo,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-16,Deportivo Cali,1,0,Jorge Wilstermann,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-23,Flamengo,3,0,Deportivo Cali,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-27,Jorge Wilstermann,1,1,Deportivo Cali,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-30,Flamengo,4,1,Jorge Wilstermann,False,False,Semifinal,Copa Libertadores de América,1981
+1981-09-30,Peñarol,1,1,Nacional,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-08,Nacional,1,2,Cobreloa,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-13,Peñarol,0,1,Cobreloa,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-21,Nacional,1,1,Peñarol,False,False,Semifinal,Copa Libertadores de América,1981
+1981-10-28,Cobreloa,4,2,Peñarol,False,False,Semifinal,Copa Libertadores de América,1981
+1981-11-04,Cobreloa,2,2,Nacional,False,False,Semifinal,Copa Libertadores de América,1981
+1981-11-13,Flamengo,2,1,Cobreloa,False,False,Final,Copa Libertadores de América,1981
+1981-11-20,Cobreloa,1,0,Flamengo,False,False,Final,Copa Libertadores de América,1981
+1981-11-13,Flamengo,2,0,Cobreloa,False,False,Final,Copa Libertadores de América,1981

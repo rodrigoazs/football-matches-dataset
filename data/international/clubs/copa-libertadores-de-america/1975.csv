@@ -1,0 +1,77 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1975-02-28,Rosario Central,1,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-28,Cerro Porteño,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-07,Rosario Central,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-07,Olimpia,2,0,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-14,Rosario Central,1,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-14,Cerro Porteño,0,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-21,Olimpia,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-21,Newell's Old Boys,1,1,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-04,Newell's Old Boys,3,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-04,Cerro Porteño,1,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-09,Newell's Old Boys,3,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-09,Olimpia,0,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-11,Rosario Central,1,0,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-23,The Strongest,3,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-26,Huachipato,0,0,Unión Española,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-05,Jorge Wilstermann,0,0,Huachipato,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-09,The Strongest,1,0,Huachipato,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-12,Jorge Wilstermann,1,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-16,The Strongest,1,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-26,Jorge Wilstermann,1,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-26,Unión Española,7,2,Huachipato,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-01,Unión Española,4,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-04,Huachipato,4,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-08,Unión Española,4,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-11,Huachipato,4,2,The Strongest,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-23,Cruzeiro,3,2,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-23,Deportivo Cali,0,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-09,Atlético Nacional,1,1,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-09,Deportivo Cali,1,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-13,Atlético Nacional,1,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-13,Deportivo Cali,2,1,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-23,Atlético Nacional,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-23,Vasco da Gama,1,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-06,Cruzeiro,2,3,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-06,Vasco da Gama,0,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-10,Cruzeiro,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-10,Vasco da Gama,2,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-16,LDU Quito,3,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-16,Deportivo Galicia,0,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-23,LDU Quito,4,2,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1975
+1975-02-26,El Nacional,0,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-02,El Nacional,5,1,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-05,LDU Quito,1,1,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-09,Portuguesa,1,1,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-09,El Nacional,2,2,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-16,Portuguesa,1,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-16,Deportivo Galicia,0,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-18,Deportivo Galicia,4,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-19,Portuguesa,1,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-06,Peñarol,1,0,Wanderers,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-08,Unión Huaral,1,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-11,Peñarol,5,2,Unión Huaral,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-14,Wanderers,4,0,Unión Huaral,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-18,Wanderers,0,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-21,Peñarol,0,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-26,Universitario,2,2,Unión Huaral,False,False,Group Stage,Copa Libertadores de América,1975
+1975-03-26,Wanderers,1,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-01,Universitario,3,1,Wanderers,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-02,Unión Huaral,0,3,Peñarol,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-05,Unión Huaral,2,2,Wanderers,False,False,Group Stage,Copa Libertadores de América,1975
+1975-04-06,Universitario,3,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,1975
+1975-05-04,LDU Quito,0,0,Universitario,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-07,LDU Quito,4,2,Unión Española,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-16,Unión Española,2,1,Universitario,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-22,Universitario,2,1,LDU Quito,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-27,Unión Española,2,0,LDU Quito,False,False,Semifinal,Copa Libertadores de América,1975
+1975-06-03,Universitario,1,1,Unión Española,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-06,Rosario Central,2,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-21,Cruzeiro,2,0,Rosario Central,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-23,Cruzeiro,2,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1975
+1975-05-30,Independiente,2,0,Rosario Central,False,False,Semifinal,Copa Libertadores de América,1975
+1975-06-03,Rosario Central,3,1,Cruzeiro,False,False,Semifinal,Copa Libertadores de América,1975
+1975-06-06,Independiente,3,0,Cruzeiro,False,False,Semifinal,Copa Libertadores de América,1975
+1975-06-18,Unión Española,1,0,Independiente,False,False,Final,Copa Libertadores de América,1975
+1975-06-25,Independiente,3,1,Unión Española,False,False,Final,Copa Libertadores de América,1975
+1975-06-18,Unión Española,0,2,Independiente,False,False,Final,Copa Libertadores de América,1975

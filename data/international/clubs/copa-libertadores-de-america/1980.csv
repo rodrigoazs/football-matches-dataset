@@ -1,0 +1,76 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+1980-02-16,Sport,0,0,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
+1980-02-27,River Plate,0,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-01,Atlético Chalaco,0,2,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-11,River Plate,3,2,Sport,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-14,Vélez Sarsfield,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-27,Vélez Sarsfield,5,2,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-27,River Plate,3,0,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-09,Sport,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-15,Sport,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-18,Atlético Chalaco,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-23,Atlético Chalaco,1,2,Sport,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-25,Vélez Sarsfield,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
+1980-05-08,Vélez Sarsfield,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-09,Nacional,1,0,Defensor,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-09,Oriente Petrolero,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-13,Oriente Petrolero,1,3,Nacional,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-13,The Strongest,2,0,Defensor,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-16,Oriente Petrolero,0,1,Defensor,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-17,The Strongest,3,0,Nacional,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-23,Defensor,0,3,Nacional,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-23,The Strongest,3,2,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-27,Nacional,5,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-27,Defensor,1,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-30,Nacional,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-30,Defensor,1,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-23,Vasco da Gama,0,0,Internacional,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-23,Deportivo Galicia,1,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-13,Deportivo Galicia,0,0,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-13,Táchira,0,1,Internacional,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-17,Deportivo Galicia,2,1,Internacional,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-17,Táchira,0,1,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-20,Táchira,0,1,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-20,Internacional,2,1,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-27,Internacional,4,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-27,Vasco da Gama,4,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-30,Internacional,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-30,Vasco da Gama,1,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-09,Emelec,1,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-12,América,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-16,Emelec,0,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-16,Universidad Católica,4,2,América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-19,Independiente Santa Fe,1,1,América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-23,Universidad Católica,5,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-26,Universidad Católica,1,0,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-26,Emelec,1,2,América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-30,Independiente Santa Fe,1,2,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-30,América,1,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-02,Independiente Santa Fe,1,0,Uni. Católica,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-02,América,4,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-19,Colo Colo,1,1,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-21,Sol de América,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-25,Sol de América,1,4,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-28,Cerro Porteño,1,0,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-08,Cerro Porteño,5,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-11,Sol de América,2,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-16,Cerro Porteño,0,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-16,O'Higgins,1,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-22,O'Higgins,2,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-22,Colo Colo,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-25,Colo Colo,1,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-25,O'Higgins,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
+1980-06-13,Vélez Sarsfield,0,1,Internacional,False,False,Semifinal,Copa Libertadores de América,1980
+1980-06-18,América,0,0,Vélez Sarsfield,False,False,Semifinal,Copa Libertadores de América,1980
+1980-06-25,Internacional,3,1,Vélez Sarsfield,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-02,América,0,0,Internacional,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-10,Internacional,0,0,América,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-16,Vélez Sarsfield,0,0,América,False,False,Semifinal,Copa Libertadores de América,1980
+1980-05-21,O'Higgins,0,1,Nacional,False,False,Semifinal,Copa Libertadores de América,1980
+1980-06-11,O'Higgins,0,1,Olimpia,False,False,Semifinal,Copa Libertadores de América,1980
+1980-06-18,Olimpia,0,1,Nacional,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-02,Nacional,1,1,Olimpia,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-09,Olimpia,2,0,O'Higgins,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-16,Nacional,2,0,O'Higgins,False,False,Semifinal,Copa Libertadores de América,1980
+1980-07-30,Internacional,0,0,Nacional,False,False,Final,Copa Libertadores de América,1980
+1980-08-06,Nacional,1,0,Internacional,False,False,Final,Copa Libertadores de América,1980

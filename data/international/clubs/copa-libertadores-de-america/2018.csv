@@ -1,0 +1,157 @@
+date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
+2018-01-22,Montevideo Wanderers,0,0,Olimpia (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-26,Olimpia (Asunción),2,0,Montevideo Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-22,Macará (Ambato),1,1,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-26,Deportivo Táchira,0,0,Macará (Ambato),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-22,Oriente Petrolero,2,0,Universitario (Lima),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-26,Universitario (Lima),3,1,Oriente Petrolero,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-30,Carabobo FC,1,0,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-06,Guaraní (Asunción),6,0,Carabobo FC,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-30,Banfield,1,1,Independiente del Valle,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-06,Independiente del Valle,2,2,Banfield,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-30,Santiago Wanderers,1,1,Melgar (Arequipa),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-06,Melgar (Arequipa),0,1,Santiago Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-31,Chapecoense,0,1,Nacional (Montevideo),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-07,Nacional (Montevideo),1,0,Chapecoense,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-01-31,Universidad de Concepción,0,4,Vasco da Gama,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-07,Vasco da Gama,2,0,Universidad de Concepción,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-01,Deportivo Táchira,2,3,Independiente Santa Fe,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-08,Independiente Santa Fe,0,0,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-01,Olimpia (Asunción),1,0,Atlético Junior,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-08,Atlético Junior,3,1,Olimpia (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-01,Oriente Petrolero,1,2,Jorge Wilstermann,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-08,Jorge Wilstermann,2,2,Oriente Petrolero,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-13,Santiago Wanderers,1,2,Independiente Santa Fe,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-20,Independiente Santa Fe,3,0,Santiago Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-14,Banfield,2,2,Nacional (Montevideo),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-21,Nacional (Montevideo),1,0,Banfield,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-14,Vasco da Gama,4,0,Jorge Wilstermann,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-21,Jorge Wilstermann,4,0,Vasco da Gama,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-15,Atlético Junior,1,0,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-22,Guaraní (Asunción),0,0,Atlético Junior,False,False,Qualifying Round,Copa Libertadores de América,2018
+2018-02-27,Defensor Sporting,1,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-27,Monagas SC,0,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-13,Cerro Porteño,2,1,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-04,Grêmio,4,0,Monagas SC,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-17,Defensor Sporting,3,1,Monagas SC,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-17,Cerro Porteño,0,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-25,Monagas SC,1,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-01,Grêmio,5,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-15,Defensor Sporting,0,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-15,Monagas SC,1,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-23,Cerro Porteño,3,2,Monagas SC,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-23,Grêmio,1,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-27,Colo Colo,0,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-28,Delfín,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-14,Bolívar,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-14,Atlético Nacional,4,0,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-05,Colo Colo,0,2,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-05,Bolívar,1,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-24,Atlético Nacional,4,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-02,Delfín,1,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-15,Delfín,1,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-15,Colo Colo,2,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Atlético Nacional,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Bolívar,2,1,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-13,Atlético Tucumán,0,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-15,The Strongest,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-03,Libertad,3,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-04,Peñarol,3,1,Atlético Tucumán,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-18,The Strongest,1,2,Atlético Tucumán,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-18,Libertad,2,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-25,Atlético Tucumán,3,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-26,Peñarol,2,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-02,Atlético Tucumán,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-03,The Strongest,1,3,Libertad,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-17,Libertad,0,0,Atlético Tucumán,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-17,Peñarol,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-28,Flamengo,2,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-01,Independiente Santa Fe,1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-14,Emelec,1,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-05,River Plate,0,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-18,Flamengo,1,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-19,Emelec,0,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-25,Independiente Santa Fe,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-26,River Plate,2,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-03,Independiente Santa Fe,0,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-16,Flamengo,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-23,Emelec,0,3,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-23,River Plate,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-27,Racing Club,4,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-13,Vasco da Gama,0,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-03,Universidad de Chile,1,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-04,Cruzeiro,0,0,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-19,Racing Club,4,0,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-19,Universidad de Chile,0,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-26,Cruzeiro,7,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-26,Vasco da Gama,1,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-02,Vasco da Gama,0,4,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-03,Racing Club,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-22,Cruzeiro,2,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-22,Universidad de Chile,0,2,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-28,Nacional,0,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-01,Real Garcilaso,2,0,Santos,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-14,Estudiantes,3,0,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-15,Santos,3,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-03,Real Garcilaso,0,0,Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-05,Estudiantes,0,1,Santos,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-24,Santos,2,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-25,Nacional,4,0,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-01,Real Garcilaso,0,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-01,Nacional,1,0,Santos,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Estudiantes,3,1,Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Santos,0,0,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-28,Millonarios,0,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-01,Deportivo Lara,1,0,Independiente,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-14,Corinthians,2,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-15,Independiente,1,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-17,Millonarios,4,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-18,Independiente,0,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-24,Deportivo Lara,2,1,Millonarios,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-02,Corinthians,1,2,Independiente,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-17,Deportivo Lara,2,7,Corinthians,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-17,Millonarios,1,1,Independiente,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Corinthians,0,1,Millonarios,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Independiente,2,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-01,Alianza Lima,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-01,Atlético Junior,0,3,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-03,Palmeiras,2,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-04,Boca Juniors,1,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-11,Palmeiras,1,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-19,Alianza Lima,0,2,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-25,Boca Juniors,0,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-26,Atlético Junior,1,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-02,Atlético Junior,1,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-03,Alianza Lima,1,3,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-16,Boca Juniors,5,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-16,Palmeiras,3,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2018
+2018-08-07,Estudiantes (La Plata),2,1,Grêmio,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-28,Grêmio,2,1,Estudiantes (La Plata),False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-08,Colo Colo,1,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-29,Corinthians,2,1,Colo Colo,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-08,Flamengo,0,2,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-29,Cruzeiro,0,1,Flamengo,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-08,Boca Juniors,2,0,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-30,Libertad (Asunción),2,4,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-09,Atl. Tucumán (San Miguel),2,0,Atl. Nacional (Medellín),False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-28,Atl. Nacional (Medellín),1,0,Atl. Tucumán (San Miguel),False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-09,Racing Club (Avellaneda),0,0,River Plate,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-29,River Plate,3,0,Racing Club (Avellaneda),False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-09,Cerro Porteño (Asunción),0,2,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-30,Palmeiras,0,1,Cerro Porteño (Asunción),False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-21,Independiente (Avellaneda,0,0,Santos,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-28,Santos,0,0,Independiente (Avellaneda,False,False,Round of 16,Copa Libertadores de América,2018
+2018-09-18,Atl. Tucumán (San Miguel),0,2,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-10-02,Grêmio,4,0,Atl. Tucumán (San Miguel),False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-09-19,Independiente (Avellaneda,0,0,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-10-02,River Plate,3,1,Independiente (Avellaneda,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-09-19,Boca Juniors,2,0,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-10-04,Cruzeiro,1,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-09-20,Colo Colo,0,2,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-10-03,Palmeiras,2,0,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-10-23,River Plate,0,1,Grêmio,False,False,Semifinal,Copa Libertadores de América,2018
+2018-10-30,Grêmio,1,2,River Plate,False,False,Semifinal,Copa Libertadores de América,2018
+2018-10-24,Boca Juniors,2,0,Palmeiras,False,False,Semifinal,Copa Libertadores de América,2018
+2018-10-31,Palmeiras,2,2,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2018
+2018-11-11,Boca Juniors,2,2,River Plate,False,False,Final,Copa Libertadores de América,2018
+2018-12-09,River Plate,3,1,Boca Juniors,False,False,Final,Copa Libertadores de América,2018
