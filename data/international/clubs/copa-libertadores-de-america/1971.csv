@@ -45,29 +45,29 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1971-03-20,Unión Española,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1971
 1971-03-24,Colo Colo,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1971
 1971-03-31,Unión Española,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1971
-1971-02-28,Atlético Junior,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1971
-1971-02-28,Barcelona,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-03,Barcelona,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1971
+1971-02-28,Junior de Barranquilla,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1971
+1971-02-28,Barcelona de Guayaquil,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-03,Barcelona de Guayaquil,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1971
 1971-03-07,Emelec,3,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-07,Barcelona,3,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-10,Emelec,1,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-18,Atlético Junior,0,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-07,Barcelona de Guayaquil,3,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-10,Emelec,1,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-18,Junior de Barranquilla,0,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1971
 1971-03-18,Deportivo Cali,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-21,Atlético Junior,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-21,Deportivo Cali,3,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-28,Deportivo Cali,2,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-28,Emelec,1,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1971
-1971-03-31,Barcelona,3,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-21,Junior de Barranquilla,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-21,Deportivo Cali,3,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-28,Deportivo Cali,2,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-28,Emelec,1,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1971
+1971-03-31,Barcelona de Guayaquil,3,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1971
 1971-04-14,Universitario,1,2,Palmeiras,False,False,Semifinal,Copa Libertadores de América,1971
 1971-04-22,Universitario,0,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-02,Palmeiras,0,3,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-06,Palmeiras,3,0,Universitario,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-11,Nacional de Montevideo,3,0,Universitario,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-18,Nacional de Montevideo,3,1,Palmeiras,False,False,Semifinal,Copa Libertadores de América,1971
-1971-04-18,Barcelona,0,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1971
-1971-04-25,Barcelona,1,0,Unión Española,False,False,Semifinal,Copa Libertadores de América,1971
-1971-04-29,Estudiantes,0,1,Barcelona,False,False,Semifinal,Copa Libertadores de América,1971
-1971-05-05,Unión Española,3,1,Barcelona,False,False,Semifinal,Copa Libertadores de América,1971
+1971-04-18,Barcelona de Guayaquil,0,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1971
+1971-04-25,Barcelona de Guayaquil,1,0,Unión Española,False,False,Semifinal,Copa Libertadores de América,1971
+1971-04-29,Estudiantes,0,1,Barcelona de Guayaquil,False,False,Semifinal,Copa Libertadores de América,1971
+1971-05-05,Unión Española,3,1,Barcelona de Guayaquil,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-12,Unión Española,0,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-19,Estudiantes,2,1,Unión Española,False,False,Semifinal,Copa Libertadores de América,1971
 1971-05-19,Estudiantes,1,0,Nacional de Montevideo,False,False,Final,Copa Libertadores de América,1971

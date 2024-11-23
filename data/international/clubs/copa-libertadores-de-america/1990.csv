@@ -1,18 +1,18 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1990-03-14,The Strongest,2,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-14,Barcelona,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-14,Barcelona de Guayaquil,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-20,The Strongest,4,3,Emelec,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-23,Oriente Petrolero,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-27,Barcelona,2,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-27,Barcelona de Guayaquil,2,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-30,Emelec,2,2,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1990
 1990-04-04,Oriente Petrolero,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1990
-1990-04-04,Emelec,3,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1990
-1990-04-10,The Strongest,2,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1990
-1990-04-14,Oriente Petrolero,1,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1990
-1990-04-17,Barcelona,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1990
+1990-04-04,Emelec,3,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1990
+1990-04-10,The Strongest,2,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1990
+1990-04-14,Oriente Petrolero,1,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1990
+1990-04-17,Barcelona de Guayaquil,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1990
 1990-04-20,Emelec,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1990
-1990-05-09,Barcelona,3,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1990
-1990-05-16,Oriente Petrolero,3,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,1990
+1990-05-09,Barcelona de Guayaquil,3,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1990
+1990-05-16,Oriente Petrolero,3,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-25,River Plate,0,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1990
 1990-04-01,Independiente,1,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1990
 1990-04-11,Univ. Católica,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1990
@@ -27,19 +27,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1990-05-12,Colo Colo,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1990
 1990-05-15,Colo Colo,3,1,Unión Huaral,False,False,Group Stage,Copa Libertadores de América,1990
 1990-05-18,Univ. Católica,2,2,Unión Huaral,False,False,Group Stage,Copa Libertadores de América,1990
-1990-02-25,Defensor Sporting,0,0,Progreso,False,False,Group Stage,Copa Libertadores de América,1990
+1990-02-25,Defensor Sporting Club,0,0,Progreso,False,False,Group Stage,Copa Libertadores de América,1990
 1990-02-25,Mineros,1,0,Pepeganga,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-04,Mineros,1,3,Progreso,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-07,Pepeganga,1,0,Progreso,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-11,Pepeganga,1,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-14,Mineros,0,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-21,Progreso,1,1,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-11,Pepeganga,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-14,Mineros,0,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-21,Progreso,1,1,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-21,Pepeganga,2,1,Mineros,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-26,Progreso,1,1,Mineros,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-26,Defensor Sporting,1,0,Pepeganga,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-26,Defensor Sporting Club,1,0,Pepeganga,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-29,Progreso,2,0,Pepeganga,False,False,Group Stage,Copa Libertadores de América,1990
-1990-03-29,Defensor Sporting,3,1,Mineros,False,False,Group Stage,Copa Libertadores de América,1990
-1990-04-04,Progreso,4,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,1990
+1990-03-29,Defensor Sporting Club,3,1,Mineros,False,False,Group Stage,Copa Libertadores de América,1990
+1990-04-04,Progreso,4,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-14,Grêmio,2,0,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-14,Olimpia,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1990
 1990-03-27,Olimpia,1,0,Grêmio,False,False,Group Stage,Copa Libertadores de América,1990
@@ -58,25 +58,25 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1990-08-15,Colo Colo,3,3,Vasco da Gama,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-08,Cerro Porteño,0,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-15,Atlético Nacional,1,0,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,1990
-1990-08-08,Defensor Sporting,1,2,River Plate,False,False,Round of 16,Copa Libertadores de América,1990
-1990-08-15,River Plate,2,1,Defensor Sporting,False,False,Round of 16,Copa Libertadores de América,1990
+1990-08-08,Defensor Sporting Club,1,2,River Plate,False,False,Round of 16,Copa Libertadores de América,1990
+1990-08-15,River Plate,2,1,Defensor Sporting Club,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-08,Pepeganga,0,6,Independiente,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-15,Independiente,3,0,Pepeganga,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-08,Unión Huaral,1,0,Emelec,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-15,Emelec,2,0,Unión Huaral,False,False,Round of 16,Copa Libertadores de América,1990
-1990-08-08,Barcelona,2,0,Progreso,False,False,Round of 16,Copa Libertadores de América,1990
-1990-08-15,Progreso,2,2,Barcelona,False,False,Round of 16,Copa Libertadores de América,1990
+1990-08-08,Barcelona de Guayaquil,2,0,Progreso,False,False,Round of 16,Copa Libertadores de América,1990
+1990-08-15,Progreso,2,2,Barcelona de Guayaquil,False,False,Round of 16,Copa Libertadores de América,1990
 1990-08-22,Olimpia,2,0,Universidad Católica,False,False,Quarterfinal,Copa Libertadores de América,1990
 1990-08-29,Universidad Católica,4,4,Olimpia,False,False,Quarterfinal,Copa Libertadores de América,1990
 1990-08-22,Vasco da Gama,0,0,Atlético Nacional,False,False,Quarterfinal,Copa Libertadores de América,1990
 1990-08-29,Atlético Nacional,1,0,Vasco da Gama,False,False,Quarterfinal,Copa Libertadores de América,1990
 1990-08-22,River Plate,2,0,Independiente,False,False,Quarterfinal,Copa Libertadores de América,1990
 1990-08-29,Independiente,1,1,River Plate,False,False,Quarterfinal,Copa Libertadores de América,1990
-1990-08-22,Emelec,0,0,Barcelona,False,False,Quarterfinal,Copa Libertadores de América,1990
-1990-08-29,Barcelona,1,0,Emelec,False,False,Quarterfinal,Copa Libertadores de América,1990
+1990-08-22,Emelec,0,0,Barcelona de Guayaquil,False,False,Quarterfinal,Copa Libertadores de América,1990
+1990-08-29,Barcelona de Guayaquil,1,0,Emelec,False,False,Quarterfinal,Copa Libertadores de América,1990
 1990-09-05,Atlético Nacional,1,2,Olimpia,False,False,Semifinal,Copa Libertadores de América,1990
 1990-09-12,Olimpia,2,3,Atlético Nacional,False,False,Semifinal,Copa Libertadores de América,1990
-1990-09-05,River Plate,1,0,Barcelona,False,False,Semifinal,Copa Libertadores de América,1990
-1990-09-12,Barcelona,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1990
-1990-10-03,Olimpia,2,0,Barcelona,False,False,Final,Copa Libertadores de América,1990
-1990-10-10,Barcelona,1,1,Olimpia,False,False,Final,Copa Libertadores de América,1990
+1990-09-05,River Plate,1,0,Barcelona de Guayaquil,False,False,Semifinal,Copa Libertadores de América,1990
+1990-09-12,Barcelona de Guayaquil,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1990
+1990-10-03,Olimpia,2,0,Barcelona de Guayaquil,False,False,Final,Copa Libertadores de América,1990
+1990-10-10,Barcelona de Guayaquil,1,1,Olimpia,False,False,Final,Copa Libertadores de América,1990

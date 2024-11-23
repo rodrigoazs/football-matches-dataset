@@ -4,13 +4,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-03-10,Fluminense,1,1,América-GB,False,False,First Round,Brasileirão Série A,1974
 1974-03-10,Grêmio,1,0,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-03-10,Desportiva,1,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
-1974-03-10,Atlético-PR,1,0,Internacional,False,False,First Round,Brasileirão Série A,1974
+1974-03-10,Athletico-PR,1,0,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-03-10,Vitória,1,2,Tiradentes,False,False,First Round,Brasileirão Série A,1974
 1974-03-10,Remo,2,2,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-03-10,Sampaio Corrêa-MA,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-03-10,América-RN,1,1,Avaí,False,False,First Round,Brasileirão Série A,1974
 1974-03-13,Fluminense,2,1,Itabaiana,False,False,First Round,Brasileirão Série A,1974
-1974-03-13,Grêmio,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-03-13,Grêmio,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-03-13,Desportiva,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
 1974-03-13,Avaí,1,2,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-03-13,Vitória,0,0,Olaria,False,False,First Round,Brasileirão Série A,1974
@@ -20,7 +20,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-03-13,América-RN,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-03-14,Remo,2,3,Coritiba,False,False,First Round,Brasileirão Série A,1974
 1974-03-16,Botafogo,0,0,Olaria,False,False,First Round,Brasileirão Série A,1974
-1974-03-16,Vitória,2,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-03-16,Vitória,2,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-03-16,Coritiba,0,2,Grêmio,False,False,First Round,Brasileirão Série A,1974
 1974-03-17,Flamengo,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
 1974-03-17,Internacional,5,1,Paysandu,False,False,First Round,Brasileirão Série A,1974
@@ -29,7 +29,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-03-17,Sampaio Corrêa-MA,1,0,América-GB,False,False,First Round,Brasileirão Série A,1974
 1974-03-17,Desportiva,1,0,Avaí,False,False,First Round,Brasileirão Série A,1974
 1974-03-17,América-RN,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
-1974-03-20,Botafogo,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-03-20,Botafogo,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-03-20,Coritiba,0,1,América-RN,False,False,First Round,Brasileirão Série A,1974
 1974-03-20,Avaí,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
 1974-03-20,Bahia,1,0,Olaria,False,False,First Round,Brasileirão Série A,1974
@@ -38,7 +38,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-03-20,Itabaiana,1,2,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-03-20,América-GB,1,2,Vitória,False,False,First Round,Brasileirão Série A,1974
 1974-03-23,Flamengo,4,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
-1974-03-23,Atlético-PR,1,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
+1974-03-23,Athletico-PR,1,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
 1974-03-23,Fluminense,2,3,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-03-23,Grêmio,1,2,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-03-23,Coritiba,3,2,Botafogo,False,False,First Round,Brasileirão Série A,1974
@@ -52,7 +52,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-03-30,Bahia,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-03-30,Vasco da Gama,0,0,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-03-30,Internacional,2,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
-1974-03-30,Atlético-PR,3,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
+1974-03-30,Athletico-PR,3,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
 1974-03-30,Avaí,3,0,Remo,False,False,First Round,Brasileirão Série A,1974
 1974-03-30,Paysandu,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
 1974-03-30,Sampaio Corrêa-MA,0,2,Coritiba,False,False,First Round,Brasileirão Série A,1974
@@ -64,7 +64,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-04-06,Coritiba,3,2,Tiradentes,False,False,First Round,Brasileirão Série A,1974
 1974-04-06,Avaí,2,2,Fluminense,False,False,First Round,Brasileirão Série A,1974
 1974-04-06,Vitória,1,1,América-RN,False,False,First Round,Brasileirão Série A,1974
-1974-04-06,Paysandu,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-04-06,Paysandu,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-04-06,Sampaio Corrêa-MA,1,1,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-04-06,Desportiva,2,3,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-04-10,Olaria,1,2,América-RN,False,False,First Round,Brasileirão Série A,1974
@@ -75,7 +75,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-04-13,Remo,2,2,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-04-13,Itabaiana,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-04-13,Desportiva,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
-1974-04-13,Avaí,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-04-13,Avaí,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-04-14,Tiradentes,3,0,Bahia,False,False,First Round,Brasileirão Série A,1974
 1974-04-16,Botafogo,5,1,Avaí,False,False,First Round,Brasileirão Série A,1974
 1974-04-20,Internacional,3,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
@@ -84,7 +84,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-04-20,Sampaio Corrêa-MA,0,3,Vitória,False,False,First Round,Brasileirão Série A,1974
 1974-04-20,América-RN,0,2,Grêmio,False,False,First Round,Brasileirão Série A,1974
 1974-04-21,Vasco da Gama,1,2,Fluminense,False,False,First Round,Brasileirão Série A,1974
-1974-04-21,Atlético-PR,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
+1974-04-21,Athletico-PR,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-04-21,Avaí,0,2,América-GB,False,False,First Round,Brasileirão Série A,1974
 1974-04-21,Bahia,1,1,Coritiba,False,False,First Round,Brasileirão Série A,1974
 1974-04-24,Flamengo,4,0,Desportiva,False,False,First Round,Brasileirão Série A,1974
@@ -96,12 +96,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-04-27,Bahia,0,0,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-04-27,Remo,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1974
 1974-04-27,América-RN,2,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
-1974-04-27,Itabaiana,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-04-27,Itabaiana,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-04-27,Desportiva,1,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
 1974-05-02,Fluminense,2,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
 1974-05-04,Flamengo,0,0,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-05-04,Grêmio,2,1,América-GB,False,False,First Round,Brasileirão Série A,1974
-1974-05-04,Atlético-PR,1,0,Bahia,False,False,First Round,Brasileirão Série A,1974
+1974-05-04,Athletico-PR,1,0,Bahia,False,False,First Round,Brasileirão Série A,1974
 1974-05-04,Vitória,3,0,Avaí,False,False,First Round,Brasileirão Série A,1974
 1974-05-04,Remo,1,0,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-05-04,Tiradentes,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
@@ -114,14 +114,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-05-08,Tiradentes,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,Flamengo,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,Internacional,1,1,Vitória,False,False,First Round,Brasileirão Série A,1974
-1974-05-11,Atlético-PR,2,0,Remo,False,False,First Round,Brasileirão Série A,1974
+1974-05-11,Athletico-PR,2,0,Remo,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,Avaí,0,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,Bahia,1,0,América-GB,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,Paysandu,1,0,Coritiba,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,Sampaio Corrêa-MA,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-05-11,América-RN,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
 1974-05-15,Botafogo,2,3,Internacional,False,False,First Round,Brasileirão Série A,1974
-1974-05-15,Atlético-PR,4,0,Olaria,False,False,First Round,Brasileirão Série A,1974
+1974-05-15,Athletico-PR,4,0,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-05-15,Vitória,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
 1974-05-15,Paysandu,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-05-15,Tiradentes,0,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
@@ -131,7 +131,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-05-18,América-GB,3,0,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-05-18,Flamengo,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
 1974-05-18,Grêmio,4,0,Tiradentes,False,False,First Round,Brasileirão Série A,1974
-1974-05-18,Coritiba,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-05-18,Coritiba,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-05-18,Avaí,0,2,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-05-18,Vitória,3,1,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-05-18,Remo,0,0,Paysandu,False,False,First Round,Brasileirão Série A,1974
@@ -140,12 +140,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-05-18,Itabaiana,0,1,Bahia,False,False,First Round,Brasileirão Série A,1974
 1974-05-22,Olaria,2,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
 1974-05-22,Vitória,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
-1974-05-22,América-RN,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-05-22,América-RN,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,Internacional,2,0,Olaria,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,Coritiba,2,1,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,Avaí,1,2,Paysandu,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,Bahia,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1974
-1974-05-25,Tiradentes,2,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-05-25,Tiradentes,2,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,América-RN,1,0,Botafogo,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,Itabaiana,2,1,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
 1974-05-25,Desportiva,0,5,Grêmio,False,False,First Round,Brasileirão Série A,1974
@@ -161,7 +161,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-06-02,Bahia,1,1,Desportiva,False,False,First Round,Brasileirão Série A,1974
 1974-06-02,Paysandu,0,1,América-GB,False,False,First Round,Brasileirão Série A,1974
 1974-06-02,Tiradentes,2,0,Olaria,False,False,First Round,Brasileirão Série A,1974
-1974-06-02,Sampaio Corrêa-MA,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1974
+1974-06-02,Sampaio Corrêa-MA,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1974
 1974-06-02,Itabaiana,2,0,Avaí,False,False,First Round,Brasileirão Série A,1974
 1974-06-05,Botafogo,0,0,Bahia,False,False,First Round,Brasileirão Série A,1974
 1974-06-05,Internacional,3,0,América-RN,False,False,First Round,Brasileirão Série A,1974
@@ -174,7 +174,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-06-08,Coritiba,1,1,Vitória,False,False,First Round,Brasileirão Série A,1974
 1974-06-08,Paysandu,2,0,Itabaiana,False,False,First Round,Brasileirão Série A,1974
 1974-06-09,Botafogo,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1974
-1974-06-09,Atlético-PR,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
+1974-06-09,Athletico-PR,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1974
 1974-06-09,Bahia,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1974
 1974-06-09,Remo,3,1,Desportiva,False,False,First Round,Brasileirão Série A,1974
 1974-06-09,Tiradentes,2,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
@@ -183,7 +183,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-06-12,Paysandu,1,0,Sampaio Corrêa-MA,False,False,First Round,Brasileirão Série A,1974
 1974-06-13,Vasco da Gama,3,1,Internacional,False,False,First Round,Brasileirão Série A,1974
 1974-06-13,Grêmio,2,2,Botafogo,False,False,First Round,Brasileirão Série A,1974
-1974-06-13,Atlético-PR,1,2,América-GB,False,False,First Round,Brasileirão Série A,1974
+1974-06-13,Athletico-PR,1,2,América-GB,False,False,First Round,Brasileirão Série A,1974
 1974-06-13,Avaí,0,2,Bahia,False,False,First Round,Brasileirão Série A,1974
 1974-06-13,Vitória,1,0,Flamengo,False,False,First Round,Brasileirão Série A,1974
 1974-06-13,Remo,2,0,América-RN,False,False,First Round,Brasileirão Série A,1974
@@ -425,18 +425,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-06-29,Grêmio,2,1,Náutico,False,False,Second Round,Brasileirão Série A,1974
 1974-06-29,Fortaleza,3,0,América-GB,False,False,Second Round,Brasileirão Série A,1974
 1974-06-30,Fluminense,0,1,São Paulo,False,False,Second Round,Brasileirão Série A,1974
-1974-06-30,Internacional,1,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1974
+1974-06-30,Internacional,1,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1974
 1974-06-30,Goiás,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
 1974-07-03,Goiás,1,1,São Paulo,False,False,Second Round,Brasileirão Série A,1974
 1974-07-03,Internacional,2,0,Fluminense,False,False,Second Round,Brasileirão Série A,1974
-1974-07-03,Atlético-PR,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
+1974-07-03,Athletico-PR,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
 1974-07-06,Internacional,1,1,Goiás,False,False,Second Round,Brasileirão Série A,1974
-1974-07-06,Fluminense,0,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1974
+1974-07-06,Fluminense,0,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1974
 1974-07-07,São Paulo,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
-1974-07-13,São Paulo,0,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1974
+1974-07-13,São Paulo,0,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1974
 1974-07-14,Portuguesa-SP,0,1,Internacional,False,False,Second Round,Brasileirão Série A,1974
 1974-07-14,Goiás,1,1,Fluminense,False,False,Second Round,Brasileirão Série A,1974
-1974-07-17,Atlético-PR,2,1,Goiás,False,False,Second Round,Brasileirão Série A,1974
+1974-07-17,Athletico-PR,2,1,Goiás,False,False,Second Round,Brasileirão Série A,1974
 1974-07-17,São Paulo,0,1,Internacional,False,False,Second Round,Brasileirão Série A,1974
 1974-07-18,Fluminense,3,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1974
 1974-07-21,Vasco da Gama,2,1,Santos,False,False,Third Round,Brasileirão Série A,1974

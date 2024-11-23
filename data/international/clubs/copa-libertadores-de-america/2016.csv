@@ -67,7 +67,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-03-10,Colo Colo,0,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-15,Independiente del Valle,2,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-16,Atlético Mineiro,3,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2016
-2016-04-06,Independiente del Valle,3,2,Atl. Mineiro,False,False,Group Stage,Copa Libertadores de América,2016
+2016-04-06,Independiente del Valle,3,2,Atlético-MG,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-07,Melgar,1,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-14,Atlético Mineiro,4,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-14,Colo Colo,0,0,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2016
@@ -121,8 +121,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-05-04,River Plate,1,0,Independiente del Valle,False,False,Round of 16,Copa Libertadores de América,2016
 2016-04-28,São Paulo,4,0,Toluca,False,False,Round of 16,Copa Libertadores de América,2016
 2016-05-04,Toluca,3,1,São Paulo,False,False,Round of 16,Copa Libertadores de América,2016
-2016-04-28,Cerro Porteño (Asunción),1,2,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2016
-2016-05-05,Boca Juniors,3,1,Cerro Porteño (Asunción),False,False,Round of 16,Copa Libertadores de América,2016
+2016-04-28,Cerro Porteño,1,2,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2016
+2016-05-05,Boca Juniors,3,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2016
 2016-05-11,São Paulo,1,0,Atlético Mineiro,False,False,Quarterfinal,Copa Libertadores de América,2016
 2016-05-18,Atlético Mineiro,2,1,São Paulo,False,False,Quarterfinal,Copa Libertadores de América,2016
 2016-05-12,Nacional de Montevideo,1,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2016

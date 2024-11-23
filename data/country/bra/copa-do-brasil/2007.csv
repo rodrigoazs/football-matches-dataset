@@ -12,7 +12,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-02-21,Ferroviária-SP,3,1,Juventude,False,False,First Round,Copa de Brasil,2007
 2007-02-28,Juventude,2,0,Ferroviária-SP,False,False,First Round,Copa de Brasil,2007
 2007-02-21,Barra do Garças,1,4,Brasiliense,False,False,First Round,Copa de Brasil,2007
-2007-02-21,Coxim-MS,2,5,Atlético-PR,False,False,First Round,Copa de Brasil,2007
+2007-02-21,Coxim-MS,2,5,Athletico-PR,False,False,First Round,Copa de Brasil,2007
 2007-02-14,Baraúnas,1,1,Vitória,False,False,First Round,Copa de Brasil,2007
 2007-02-22,Vitória,1,1,Baraúnas,False,False,First Round,Copa de Brasil,2007
 2007-02-14,Atlético-GO,2,1,Guarani-SP,False,False,First Round,Copa de Brasil,2007
@@ -61,8 +61,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-05,Cruzeiro,2,1,Portuguesa,False,False,Second Round,Copa de Brasil,2007
 2007-03-14,Brasiliense,0,0,Juventude,False,False,Second Round,Copa de Brasil,2007
 2007-03-21,Juventude,2,3,Brasiliense,False,False,Second Round,Copa de Brasil,2007
-2007-03-21,Vitória,4,1,Atlético-PR,False,False,Second Round,Copa de Brasil,2007
-2007-04-05,Atlético-PR,3,0,Vitória,False,False,Second Round,Copa de Brasil,2007
+2007-03-21,Vitória,4,1,Athletico-PR,False,False,Second Round,Copa de Brasil,2007
+2007-04-05,Athletico-PR,3,0,Vitória,False,False,Second Round,Copa de Brasil,2007
 2007-03-14,Atlético-GO,2,3,Fortaleza,False,False,Second Round,Copa de Brasil,2007
 2007-03-21,Fortaleza,2,3,Atlético-GO,False,False,Second Round,Copa de Brasil,2007
 2007-03-14,América-RN,1,2,Fluminense,False,False,Second Round,Copa de Brasil,2007
@@ -88,8 +88,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-25,Sport,1,1,Ipatinga,False,False,Round of 16,Copa de Brasil,2007
 2007-04-18,Cruzeiro,0,1,Brasiliense,False,False,Round of 16,Copa de Brasil,2007
 2007-04-25,Brasiliense,1,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2007
-2007-04-18,Atlético-GO,3,1,Atlético-PR,False,False,Round of 16,Copa de Brasil,2007
-2007-04-25,Atlético-PR,2,0,Atlético-GO,False,False,Round of 16,Copa de Brasil,2007
+2007-04-18,Atlético-GO,3,1,Athletico-PR,False,False,Round of 16,Copa de Brasil,2007
+2007-04-25,Athletico-PR,2,0,Atlético-GO,False,False,Round of 16,Copa de Brasil,2007
 2007-04-19,Fluminense,1,1,Bahia,False,False,Round of 16,Copa de Brasil,2007
 2007-04-25,Bahia,2,2,Fluminense,False,False,Round of 16,Copa de Brasil,2007
 2007-04-18,Náutico,2,2,Corinthians,False,False,Round of 16,Copa de Brasil,2007
@@ -102,8 +102,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-25,Botafogo,3,3,Coritiba,False,False,Round of 16,Copa de Brasil,2007
 2007-05-02,Brasiliense,2,2,Ipatinga,False,False,Quarterfinal,Copa de Brasil,2007
 2007-05-09,Ipatinga,0,1,Brasiliense,False,False,Quarterfinal,Copa de Brasil,2007
-2007-05-02,Fluminense,1,1,Atlético-PR,False,False,Quarterfinal,Copa de Brasil,2007
-2007-05-09,Atlético-PR,0,1,Fluminense,False,False,Quarterfinal,Copa de Brasil,2007
+2007-05-02,Fluminense,1,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2007
+2007-05-09,Athletico-PR,0,1,Fluminense,False,False,Quarterfinal,Copa de Brasil,2007
 2007-05-02,Náutico,2,2,Figueirense,False,False,Quarterfinal,Copa de Brasil,2007
 2007-05-09,Figueirense,1,0,Náutico,False,False,Quarterfinal,Copa de Brasil,2007
 2007-05-02,Atlético-MG,0,0,Botafogo,False,False,Quarterfinal,Copa de Brasil,2007

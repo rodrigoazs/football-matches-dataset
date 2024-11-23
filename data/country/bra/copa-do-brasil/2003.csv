@@ -7,8 +7,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-03-12,Juventude,2,1,Caldense,False,False,First Round,Copa de Brasil,2003
 2003-02-05,CRB,0,1,Atlético-MG,False,False,First Round,Copa de Brasil,2003
 2003-02-19,Atlético-MG,4,0,CRB,False,False,First Round,Copa de Brasil,2003
-2003-02-19,Tuna Luso,2,2,Atlético-PR,False,False,First Round,Copa de Brasil,2003
-2003-03-12,Atlético-PR,1,0,Tuna Luso,False,False,First Round,Copa de Brasil,2003
+2003-02-19,Tuna Luso,2,2,Athletico-PR,False,False,First Round,Copa de Brasil,2003
+2003-03-12,Athletico-PR,1,0,Tuna Luso,False,False,First Round,Copa de Brasil,2003
 2003-02-19,Dom Bosco,0,5,Sport,False,False,First Round,Copa de Brasil,2003
 2003-02-06,Corinthians-AL,0,1,Flamengo-PI,False,False,First Round,Copa de Brasil,2003
 2003-02-19,Flamengo-PI,1,0,Corinthians-AL,False,False,First Round,Copa de Brasil,2003
@@ -59,8 +59,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-02,Náutico,3,1,América-RN,False,False,Second Round,Copa de Brasil,2003
 2003-03-19,Caldense,0,1,Atlético-MG,False,False,Second Round,Copa de Brasil,2003
 2003-03-26,Atlético-MG,4,0,Caldense,False,False,Second Round,Copa de Brasil,2003
-2003-03-19,Atlético-PR,2,3,Sport,False,False,Second Round,Copa de Brasil,2003
-2003-03-26,Sport,1,0,Atlético-PR,False,False,Second Round,Copa de Brasil,2003
+2003-03-19,Athletico-PR,2,3,Sport,False,False,Second Round,Copa de Brasil,2003
+2003-03-26,Sport,1,0,Athletico-PR,False,False,Second Round,Copa de Brasil,2003
 2003-03-26,Flamengo-PI,1,2,Fluminense,False,False,Second Round,Copa de Brasil,2003
 2003-04-02,Fluminense,2,0,Flamengo-PI,False,False,Second Round,Copa de Brasil,2003
 2003-04-02,Atlético Roraima,1,2,Vitória,False,False,Second Round,Copa de Brasil,2003

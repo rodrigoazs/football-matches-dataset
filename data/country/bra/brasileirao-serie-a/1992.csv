@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1992-01-26,Corinthians,1,4,Vasco da Gama,False,False,First Round,Brasileirão Série A,1992
-1992-01-26,Botafogo,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-01-26,Botafogo,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-01-26,Cruzeiro,2,0,Guarani,False,False,First Round,Brasileirão Série A,1992
 1992-01-26,Náutico,0,0,Sport,False,False,First Round,Brasileirão Série A,1992
 1992-01-26,Paysandu,2,1,Goiás,False,False,First Round,Brasileirão Série A,1992
@@ -15,7 +15,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-02-02,RB Bragantino,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1992
 1992-02-02,Fluminense,1,0,Paysandu,False,False,First Round,Brasileirão Série A,1992
 1992-02-02,Sport,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1992
-1992-02-02,Atlético-PR,0,0,Náutico,False,False,First Round,Brasileirão Série A,1992
+1992-02-02,Athletico-PR,0,0,Náutico,False,False,First Round,Brasileirão Série A,1992
 1992-02-02,Guarani,1,3,Flamengo,False,False,First Round,Brasileirão Série A,1992
 1992-02-02,Bahia,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
 1992-02-02,Vasco da Gama,1,1,Goiás,False,False,First Round,Brasileirão Série A,1992
@@ -28,10 +28,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-02-09,Paysandu,1,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1992
 1992-02-09,Náutico,2,0,Guarani,False,False,First Round,Brasileirão Série A,1992
 1992-02-10,Atlético-MG,0,1,Corinthians,False,False,First Round,Brasileirão Série A,1992
-1992-02-10,Atlético-PR,0,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1992
+1992-02-10,Athletico-PR,0,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1992
 1992-02-15,Palmeiras,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1992
 1992-02-15,São Paulo,2,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1992
-1992-02-15,Atlético-PR,0,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
+1992-02-15,Athletico-PR,0,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
 1992-02-16,Corinthians,2,0,Náutico,False,False,First Round,Brasileirão Série A,1992
 1992-02-16,Vasco da Gama,2,0,Paysandu,False,False,First Round,Brasileirão Série A,1992
 1992-02-16,Cruzeiro,3,0,RB Bragantino,False,False,First Round,Brasileirão Série A,1992
@@ -46,7 +46,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-02-19,Goiás,0,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1992
 1992-02-20,Vasco da Gama,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1992
 1992-02-20,Santos,2,1,Paysandu,False,False,First Round,Brasileirão Série A,1992
-1992-02-20,Cruzeiro,4,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-02-20,Cruzeiro,4,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-02-20,Guarani,1,3,Sport,False,False,First Round,Brasileirão Série A,1992
 1992-02-20,Náutico,2,2,Internacional,False,False,First Round,Brasileirão Série A,1992
 1992-02-22,Botafogo,2,4,Corinthians,False,False,First Round,Brasileirão Série A,1992
@@ -56,7 +56,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-02-23,Paysandu,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1992
 1992-02-23,Goiás,1,2,Internacional,False,False,First Round,Brasileirão Série A,1992
 1992-02-23,RB Bragantino,1,0,Náutico,False,False,First Round,Brasileirão Série A,1992
-1992-02-23,Bahia,2,3,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-02-23,Bahia,2,3,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-02-24,Flamengo,1,2,Cruzeiro,False,False,First Round,Brasileirão Série A,1992
 1992-02-24,Sport,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
 1992-03-07,Santos,2,0,Flamengo,False,False,First Round,Brasileirão Série A,1992
@@ -65,7 +65,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-03-08,São Paulo,0,4,Palmeiras,False,False,First Round,Brasileirão Série A,1992
 1992-03-08,Internacional,2,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1992
 1992-03-08,Fluminense,2,1,Bahia,False,False,First Round,Brasileirão Série A,1992
-1992-03-08,Atlético-PR,2,0,Goiás,False,False,First Round,Brasileirão Série A,1992
+1992-03-08,Athletico-PR,2,0,Goiás,False,False,First Round,Brasileirão Série A,1992
 1992-03-08,Náutico,5,1,Paysandu,False,False,First Round,Brasileirão Série A,1992
 1992-03-09,Vasco da Gama,1,2,Guarani,False,False,First Round,Brasileirão Série A,1992
 1992-03-09,Cruzeiro,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1992
@@ -75,12 +75,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-03-11,Sport,2,2,Santos,False,False,First Round,Brasileirão Série A,1992
 1992-03-11,Goiás,2,2,Fluminense,False,False,First Round,Brasileirão Série A,1992
 1992-03-11,Paysandu,3,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
-1992-03-11,RB Bragantino,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-03-11,RB Bragantino,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-03-12,Corinthians,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1992
 1992-03-12,Vasco da Gama,3,1,Bahia,False,False,First Round,Brasileirão Série A,1992
 1992-03-12,Botafogo,3,2,Náutico,False,False,First Round,Brasileirão Série A,1992
 1992-03-14,Flamengo,0,1,RB Bragantino,False,False,First Round,Brasileirão Série A,1992
-1992-03-14,Atlético-MG,2,3,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-03-14,Atlético-MG,2,3,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-03-15,Fluminense,1,2,Botafogo,False,False,First Round,Brasileirão Série A,1992
 1992-03-15,Palmeiras,1,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1992
 1992-03-15,Goiás,4,2,Náutico,False,False,First Round,Brasileirão Série A,1992
@@ -97,7 +97,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-03-22,Portuguesa-SP,1,2,Guarani,False,False,First Round,Brasileirão Série A,1992
 1992-03-22,Cruzeiro,2,0,Goiás,False,False,First Round,Brasileirão Série A,1992
 1992-03-23,Botafogo,2,0,Palmeiras,False,False,First Round,Brasileirão Série A,1992
-1992-03-23,São Paulo,5,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-03-23,São Paulo,5,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-03-23,Internacional,1,1,Bahia,False,False,First Round,Brasileirão Série A,1992
 1992-03-28,Portuguesa-SP,1,3,Botafogo,False,False,First Round,Brasileirão Série A,1992
 1992-03-29,Vasco da Gama,4,2,Flamengo,False,False,First Round,Brasileirão Série A,1992
@@ -108,10 +108,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-03-29,Bahia,3,0,Náutico,False,False,First Round,Brasileirão Série A,1992
 1992-03-29,RB Bragantino,3,1,Paysandu,False,False,First Round,Brasileirão Série A,1992
 1992-03-30,Santos,4,0,Internacional,False,False,First Round,Brasileirão Série A,1992
-1992-03-30,Atlético-PR,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1992
+1992-03-30,Athletico-PR,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1992
 1992-04-04,Cruzeiro,0,2,São Paulo,False,False,First Round,Brasileirão Série A,1992
 1992-04-04,Paysandu,0,2,Botafogo,False,False,First Round,Brasileirão Série A,1992
-1992-04-05,Flamengo,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-04-05,Flamengo,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-04-05,Fluminense,3,0,RB Bragantino,False,False,First Round,Brasileirão Série A,1992
 1992-04-05,Guarani,1,0,Internacional,False,False,First Round,Brasileirão Série A,1992
 1992-04-05,Náutico,0,4,Atlético-MG,False,False,First Round,Brasileirão Série A,1992
@@ -127,7 +127,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-04-12,Cruzeiro,0,0,Náutico,False,False,First Round,Brasileirão Série A,1992
 1992-04-12,Sport,0,1,Bahia,False,False,First Round,Brasileirão Série A,1992
 1992-04-12,Paysandu,3,0,Guarani,False,False,First Round,Brasileirão Série A,1992
-1992-04-13,Internacional,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-04-13,Internacional,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-04-13,RB Bragantino,2,0,Goiás,False,False,First Round,Brasileirão Série A,1992
 1992-04-18,Guarani,1,0,Corinthians,False,False,First Round,Brasileirão Série A,1992
 1992-04-18,São Paulo,0,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
@@ -137,7 +137,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-04-19,Atlético-MG,2,1,RB Bragantino,False,False,First Round,Brasileirão Série A,1992
 1992-04-19,Paysandu,0,1,Internacional,False,False,First Round,Brasileirão Série A,1992
 1992-04-20,Náutico,0,2,Santos,False,False,First Round,Brasileirão Série A,1992
-1992-04-20,Atlético-PR,1,1,Sport,False,False,First Round,Brasileirão Série A,1992
+1992-04-20,Athletico-PR,1,1,Sport,False,False,First Round,Brasileirão Série A,1992
 1992-05-06,Vasco da Gama,0,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1992
 1992-04-25,RB Bragantino,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1992
 1992-04-25,Goiás,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1992
@@ -148,9 +148,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-04-26,Atlético-MG,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
 1992-04-26,Bahia,4,0,Paysandu,False,False,First Round,Brasileirão Série A,1992
 1992-04-27,Náutico,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1992
-1992-04-27,Atlético-PR,1,1,Guarani,False,False,First Round,Brasileirão Série A,1992
+1992-04-27,Athletico-PR,1,1,Guarani,False,False,First Round,Brasileirão Série A,1992
 1992-05-02,Internacional,0,2,Botafogo,False,False,First Round,Brasileirão Série A,1992
-1992-05-02,Santos,2,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-05-02,Santos,2,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-05-02,Palmeiras,3,0,Goiás,False,False,First Round,Brasileirão Série A,1992
 1992-05-03,São Paulo,1,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1992
 1992-05-03,Fluminense,0,0,Guarani,False,False,First Round,Brasileirão Série A,1992
@@ -167,12 +167,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-05-10,Guarani,2,0,RB Bragantino,False,False,First Round,Brasileirão Série A,1992
 1992-05-10,Fluminense,1,1,Sport,False,False,First Round,Brasileirão Série A,1992
 1992-05-10,Atlético-MG,1,0,Bahia,False,False,First Round,Brasileirão Série A,1992
-1992-05-10,Atlético-PR,3,2,Paysandu,False,False,First Round,Brasileirão Série A,1992
+1992-05-10,Athletico-PR,3,2,Paysandu,False,False,First Round,Brasileirão Série A,1992
 1992-05-11,Náutico,1,0,Palmeiras,False,False,First Round,Brasileirão Série A,1992
 1992-05-23,Corinthians,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1992
 1992-05-23,Paysandu,3,0,São Paulo,False,False,First Round,Brasileirão Série A,1992
 1992-05-24,Botafogo,0,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1992
-1992-05-24,Palmeiras,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1992
+1992-05-24,Palmeiras,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1992
 1992-05-24,Flamengo,3,1,Goiás,False,False,First Round,Brasileirão Série A,1992
 1992-05-24,Guarani,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1992
 1992-05-24,Cruzeiro,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1992
@@ -183,7 +183,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-05-31,Vasco da Gama,0,0,Santos,False,False,First Round,Brasileirão Série A,1992
 1992-05-31,Flamengo,2,0,Internacional,False,False,First Round,Brasileirão Série A,1992
 1992-05-31,São Paulo,2,0,Náutico,False,False,First Round,Brasileirão Série A,1992
-1992-05-31,Atlético-PR,0,1,Corinthians,False,False,First Round,Brasileirão Série A,1992
+1992-05-31,Athletico-PR,0,1,Corinthians,False,False,First Round,Brasileirão Série A,1992
 1992-05-31,Guarani,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1992
 1992-05-31,Sport,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1992
 1992-05-31,RB Bragantino,0,0,Bahia,False,False,First Round,Brasileirão Série A,1992

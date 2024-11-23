@@ -1,14 +1,14 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1981-03-18,Rosario Central,0,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
-1981-03-25,Atlético Junior,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
-1981-03-31,Atlético Junior,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-25,Junior de Barranquilla,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-31,Junior de Barranquilla,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
 1981-03-31,Deportivo Cali,1,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-03,Atlético Junior,1,2,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-03,Junior de Barranquilla,1,2,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-03,Deportivo Cali,2,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-09,Deportivo Cali,4,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-09,Deportivo Cali,4,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-22,River Plate,1,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-22,Rosario Central,5,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-24,River Plate,3,0,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-22,Rosario Central,5,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-24,River Plate,3,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-24,Rosario Central,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1981
 1981-05-19,River Plate,3,2,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1981
 1981-03-18,Sport,2,1,Atlético Torino,False,False,Group Stage,Copa Libertadores de América,1981
@@ -37,17 +37,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1981-08-14,Olimpia,0,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,1981
 1981-08-21,Flamengo,0,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1981
 1981-03-29,Jorge Wilstermann,3,2,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
-1981-03-29,Barcelona,2,1,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
+1981-03-29,Barcelona de Guayaquil,2,1,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-04,Técnico Universitario,1,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-05,Barcelona,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-05,Barcelona de Guayaquil,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-08,Técnico Universitario,2,3,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-08,Barcelona,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-08,Barcelona de Guayaquil,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-12,Jorge Wilstermann,3,1,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-12,The Strongest,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-19,Jorge Wilstermann,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-12,The Strongest,1,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-19,Jorge Wilstermann,1,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-19,The Strongest,4,2,Técnico Universitario,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-26,The Strongest,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1981
-1981-04-26,Técnico Universitario,4,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,1981
+1981-04-26,Técnico Universitario,4,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1981
 1981-05-08,Jorge Wilstermann,4,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1981
 1981-03-25,Peñarol,3,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1981
 1981-04-05,Estudiantes,1,1,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1981

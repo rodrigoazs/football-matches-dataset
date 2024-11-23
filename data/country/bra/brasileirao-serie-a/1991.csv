@@ -6,7 +6,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-02-03,Fluminense,4,2,Palmeiras,False,False,First Round,Brasileirão Série A,1991
 1991-02-03,Botafogo,2,0,Náutico,False,False,First Round,Brasileirão Série A,1991
 1991-02-03,RB Bragantino,1,1,Bahia,False,False,First Round,Brasileirão Série A,1991
-1991-02-03,Atlético-PR,3,0,Flamengo,False,False,First Round,Brasileirão Série A,1991
+1991-02-03,Athletico-PR,3,0,Flamengo,False,False,First Round,Brasileirão Série A,1991
 1991-02-03,Cruzeiro,0,0,Internacional,False,False,First Round,Brasileirão Série A,1991
 1991-02-03,Grêmio,3,2,Goiás,False,False,First Round,Brasileirão Série A,1991
 1991-02-06,Flamengo,1,0,São Paulo,False,False,First Round,Brasileirão Série A,1991
@@ -18,12 +18,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-02-06,Sport,1,2,Palmeiras,False,False,First Round,Brasileirão Série A,1991
 1991-02-06,Internacional,2,1,Vitória,False,False,First Round,Brasileirão Série A,1991
 1991-02-07,Fluminense,3,2,Goiás,False,False,First Round,Brasileirão Série A,1991
-1991-02-07,Atlético-PR,4,2,Grêmio,False,False,First Round,Brasileirão Série A,1991
+1991-02-07,Athletico-PR,4,2,Grêmio,False,False,First Round,Brasileirão Série A,1991
 1991-02-16,Corinthians,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1991
 1991-02-16,Vasco da Gama,2,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1991
 1991-02-17,São Paulo,1,2,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-02-17,Palmeiras,0,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
-1991-02-17,Fluminense,0,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-02-17,Fluminense,0,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-02-17,Goiás,5,1,Flamengo,False,False,First Round,Brasileirão Série A,1991
 1991-02-17,Cruzeiro,2,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1991
 1991-02-17,Bahia,0,1,Vitória,False,False,First Round,Brasileirão Série A,1991
@@ -36,12 +36,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-02-24,Palmeiras,2,0,Náutico,False,False,First Round,Brasileirão Série A,1991
 1991-02-24,Botafogo,2,0,Vitória,False,False,First Round,Brasileirão Série A,1991
 1991-02-24,Atlético-MG,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1991
-1991-02-24,Internacional,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-02-24,Internacional,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-02-24,Goiás,2,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1991
 1991-02-25,Santos,3,1,Sport,False,False,First Round,Brasileirão Série A,1991
 1991-03-02,Vasco da Gama,0,1,Corinthians,False,False,First Round,Brasileirão Série A,1991
 1991-03-02,Palmeiras,2,1,Goiás,False,False,First Round,Brasileirão Série A,1991
-1991-03-23,São Paulo,2,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-03-23,São Paulo,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-03-23,RB Bragantino,1,1,Internacional,False,False,First Round,Brasileirão Série A,1991
 1991-03-23,Bahia,0,0,Botafogo,False,False,First Round,Brasileirão Série A,1991
 1991-03-23,Fluminense,2,0,Grêmio,False,False,First Round,Brasileirão Série A,1991
@@ -58,12 +58,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-03-06,Sport,1,0,Internacional,False,False,First Round,Brasileirão Série A,1991
 1991-03-07,Palmeiras,2,0,Flamengo,False,False,First Round,Brasileirão Série A,1991
 1991-03-07,Grêmio,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
-1991-03-07,Atlético-MG,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-03-07,Atlético-MG,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,São Paulo,1,0,Bahia,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,Internacional,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,Flamengo,1,0,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,Vasco da Gama,1,1,Sport,False,False,First Round,Brasileirão Série A,1991
-1991-03-09,Atlético-PR,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1991
+1991-03-09,Athletico-PR,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,Cruzeiro,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,Náutico,0,1,Fluminense,False,False,First Round,Brasileirão Série A,1991
 1991-03-09,Vitória,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1991
@@ -78,7 +78,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-03-17,Cruzeiro,5,1,Sport,False,False,First Round,Brasileirão Série A,1991
 1991-03-17,Atlético-MG,4,0,Náutico,False,False,First Round,Brasileirão Série A,1991
 1991-03-18,Santos,2,0,Vitória,False,False,First Round,Brasileirão Série A,1991
-1991-03-20,Atlético-PR,2,2,Botafogo,False,False,First Round,Brasileirão Série A,1991
+1991-03-20,Athletico-PR,2,2,Botafogo,False,False,First Round,Brasileirão Série A,1991
 1991-03-22,Palmeiras,1,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1991
 1991-03-22,São Paulo,2,0,Grêmio,False,False,First Round,Brasileirão Série A,1991
 1991-03-23,Botafogo,0,3,Santos,False,False,First Round,Brasileirão Série A,1991
@@ -88,13 +88,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-03-24,Náutico,2,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1991
 1991-03-24,Sport,1,0,RB Bragantino,False,False,First Round,Brasileirão Série A,1991
 1991-03-24,Goiás,1,1,Bahia,False,False,First Round,Brasileirão Série A,1991
-1991-03-24,Corinthians,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-03-24,Corinthians,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-03-30,Flamengo,1,3,Atlético-MG,False,False,First Round,Brasileirão Série A,1991
 1991-03-30,Internacional,1,1,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-03-31,Vasco da Gama,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1991
 1991-03-31,Portuguesa-SP,0,2,Corinthians,False,False,First Round,Brasileirão Série A,1991
 1991-03-31,RB Bragantino,1,2,São Paulo,False,False,First Round,Brasileirão Série A,1991
-1991-03-31,Bahia,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-03-31,Bahia,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-03-31,Vitória,1,1,Sport,False,False,First Round,Brasileirão Série A,1991
 1991-03-31,Náutico,2,2,Goiás,False,False,First Round,Brasileirão Série A,1991
 1991-04-01,Grêmio,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,1991
@@ -104,7 +104,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-03,Portuguesa-SP,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1991
 1991-04-03,Internacional,2,0,Botafogo,False,False,First Round,Brasileirão Série A,1991
 1991-04-03,Atlético-MG,2,0,Vitória,False,False,First Round,Brasileirão Série A,1991
-1991-04-03,Atlético-PR,3,0,Náutico,False,False,First Round,Brasileirão Série A,1991
+1991-04-03,Athletico-PR,3,0,Náutico,False,False,First Round,Brasileirão Série A,1991
 1991-04-04,São Paulo,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1991
 1991-04-04,RB Bragantino,1,1,Flamengo,False,False,First Round,Brasileirão Série A,1991
 1991-04-04,Grêmio,0,0,Bahia,False,False,First Round,Brasileirão Série A,1991
@@ -116,7 +116,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-05,Bahia,1,1,Internacional,False,False,First Round,Brasileirão Série A,1991
 1991-04-05,Náutico,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1991
 1991-04-05,Goiás,3,1,Sport,False,False,First Round,Brasileirão Série A,1991
-1991-04-05,Atlético-PR,3,1,Vitória,False,False,First Round,Brasileirão Série A,1991
+1991-04-05,Athletico-PR,3,1,Vitória,False,False,First Round,Brasileirão Série A,1991
 1991-04-06,Atlético-MG,4,1,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-05-04,Portuguesa-SP,1,2,Fluminense,False,False,First Round,Brasileirão Série A,1991
 1991-04-06,Portuguesa-SP,1,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1991
@@ -127,7 +127,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-07,Náutico,3,1,Grêmio,False,False,First Round,Brasileirão Série A,1991
 1991-04-07,Sport,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1991
 1991-04-07,Vitória,1,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1991
-1991-04-07,Goiás,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-04-07,Goiás,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-04-08,Santos,4,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1991
 1991-04-13,Goiás,1,0,Corinthians,False,False,First Round,Brasileirão Série A,1991
 1991-04-13,Atlético-MG,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1991
@@ -136,7 +136,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-14,São Paulo,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
 1991-04-14,RB Bragantino,1,0,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-04-14,Grêmio,2,0,Sport,False,False,First Round,Brasileirão Série A,1991
-1991-04-14,Atlético-PR,2,3,Cruzeiro,False,False,First Round,Brasileirão Série A,1991
+1991-04-14,Athletico-PR,2,3,Cruzeiro,False,False,First Round,Brasileirão Série A,1991
 1991-04-14,Palmeiras,2,2,Vitória,False,False,First Round,Brasileirão Série A,1991
 1991-04-14,Bahia,2,1,Náutico,False,False,First Round,Brasileirão Série A,1991
 1991-04-18,Santos,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1991
@@ -147,7 +147,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-21,Cruzeiro,0,1,Bahia,False,False,First Round,Brasileirão Série A,1991
 1991-04-21,RB Bragantino,3,1,Náutico,False,False,First Round,Brasileirão Série A,1991
 1991-04-21,Vitória,3,1,Goiás,False,False,First Round,Brasileirão Série A,1991
-1991-04-21,Sport,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-04-21,Sport,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-04-22,Botafogo,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1991
 1991-04-24,Bahia,1,0,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-04-27,Atlético-MG,2,0,Corinthians,False,False,First Round,Brasileirão Série A,1991
@@ -155,11 +155,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-28,Botafogo,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1991
 1991-04-28,São Paulo,2,0,Sport,False,False,First Round,Brasileirão Série A,1991
 1991-04-28,Grêmio,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,1991
-1991-04-28,Atlético-PR,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
+1991-04-28,Athletico-PR,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
 1991-04-28,Goiás,1,0,Internacional,False,False,First Round,Brasileirão Série A,1991
 1991-04-28,Náutico,1,1,Vitória,False,False,First Round,Brasileirão Série A,1991
 1991-04-29,Palmeiras,2,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1991
-1991-04-02,Vasco da Gama,3,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-04-02,Vasco da Gama,3,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-05-01,Corinthians,2,1,Grêmio,False,False,First Round,Brasileirão Série A,1991
 1991-05-01,Vitória,1,2,São Paulo,False,False,First Round,Brasileirão Série A,1991
 1991-05-01,RB Bragantino,1,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1991
@@ -169,7 +169,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-05-01,Fluminense,0,0,Botafogo,False,False,First Round,Brasileirão Série A,1991
 1991-05-02,Santos,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1991
 1991-05-10,Cruzeiro,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1991
-1991-04-09,Santos,3,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1991
+1991-04-09,Santos,3,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1991
 1991-04-12,Náutico,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1991
 1991-05-11,Bahia,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1991
 1991-05-11,Palmeiras,0,0,Internacional,False,False,First Round,Brasileirão Série A,1991
@@ -188,7 +188,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-05-19,Goiás,3,0,Santos,False,False,First Round,Brasileirão Série A,1991
 1991-05-19,Portuguesa-SP,1,0,Bahia,False,False,First Round,Brasileirão Série A,1991
 1991-05-19,Cruzeiro,2,0,Palmeiras,False,False,First Round,Brasileirão Série A,1991
-1991-05-19,Atlético-PR,1,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1991
+1991-05-19,Athletico-PR,1,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1991
 1991-05-25,Atlético-MG,1,1,São Paulo,False,False,Semifinal,Brasileirão Série A,1991
 1991-06-01,São Paulo,0,0,Atlético-MG,False,False,Semifinal,Brasileirão Série A,1991
 1991-05-26,Fluminense,0,1,RB Bragantino,False,False,Semifinal,Brasileirão Série A,1991

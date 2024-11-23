@@ -37,8 +37,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-04-28,Operário-PR,1,1,Criciúma,False,False,First Round,Copa de Brasil,2016
 2016-04-27,Paysandu,2,1,Independente-PA,False,False,First Round,Copa de Brasil,2016
 2016-04-30,Independente-PA,0,2,Paysandu,False,False,First Round,Copa de Brasil,2016
-2016-03-17,Atlético-PR,1,1,Brasil-RS,False,False,First Round,Copa de Brasil,2016
-2016-04-13,Brasil-RS,0,1,Atlético-PR,False,False,First Round,Copa de Brasil,2016
+2016-03-17,Athletico-PR,1,1,Brasil-RS,False,False,First Round,Copa de Brasil,2016
+2016-04-13,Brasil-RS,0,1,Athletico-PR,False,False,First Round,Copa de Brasil,2016
 2016-04-20,Nacional-AM,0,2,Dom Bosco,False,False,First Round,Copa de Brasil,2016
 2016-04-27,Dom Bosco,1,1,Nacional-AM,False,False,First Round,Copa de Brasil,2016
 2016-04-06,Chapecoense,2,1,Princesa do Solimões,False,False,First Round,Copa de Brasil,2016
@@ -91,8 +91,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-05-19,Juventude,2,2,Coritiba,False,False,Second Round,Copa de Brasil,2016
 2016-05-17,Paysandu,0,1,Operário-PR,False,False,Second Round,Copa de Brasil,2016
 2016-07-06,Operário-PR,0,2,Paysandu,False,False,Second Round,Copa de Brasil,2016
-2016-05-11,Atlético-PR,2,2,Dom Bosco,False,False,Second Round,Copa de Brasil,2016
-2016-05-17,Dom Bosco,0,5,Atlético-PR,False,False,Second Round,Copa de Brasil,2016
+2016-05-11,Athletico-PR,2,2,Dom Bosco,False,False,Second Round,Copa de Brasil,2016
+2016-05-17,Dom Bosco,0,5,Athletico-PR,False,False,Second Round,Copa de Brasil,2016
 2016-05-11,Chapecoense,1,2,Paraná,False,False,Second Round,Copa de Brasil,2016
 2016-05-18,Paraná,0,2,Chapecoense,False,False,Second Round,Copa de Brasil,2016
 2016-05-04,Flamengo,1,2,Fortaleza,False,False,Second Round,Copa de Brasil,2016
@@ -121,8 +121,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-07-20,Vitória,1,2,Cruzeiro,False,False,Third Round,Copa de Brasil,2016
 2016-07-20,Paysandu,0,0,Juventude,False,False,Third Round,Copa de Brasil,2016
 2016-07-27,Juventude,2,1,Paysandu,False,False,Third Round,Copa de Brasil,2016
-2016-07-21,Chapecoense,0,0,Atlético-PR,False,False,Third Round,Copa de Brasil,2016
-2016-07-28,Atlético-PR,1,1,Chapecoense,False,False,Third Round,Copa de Brasil,2016
+2016-07-21,Chapecoense,0,0,Athletico-PR,False,False,Third Round,Copa de Brasil,2016
+2016-07-28,Athletico-PR,1,1,Chapecoense,False,False,Third Round,Copa de Brasil,2016
 2016-07-07,Fortaleza,0,1,América-MG,False,False,Third Round,Copa de Brasil,2016
 2016-07-28,América-MG,1,4,Fortaleza,False,False,Third Round,Copa de Brasil,2016
 2016-07-06,Ypiranga-RS,1,1,Fluminense,False,False,Third Round,Copa de Brasil,2016
@@ -139,8 +139,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-09-21,Santos,2,2,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2016
 2016-08-31,Botafogo-PB,0,3,Palmeiras,False,False,Round of 16,Copa de Brasil,2016
 2016-09-21,Palmeiras,0,1,Botafogo-PB,False,False,Round of 16,Copa de Brasil,2016
-2016-08-24,Grêmio,1,0,Atlético-PR,False,False,Round of 16,Copa de Brasil,2016
-2016-09-21,Atlético-PR,1,0,Grêmio,False,False,Round of 16,Copa de Brasil,2016
+2016-08-24,Grêmio,1,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2016
+2016-09-21,Athletico-PR,1,0,Grêmio,False,False,Round of 16,Copa de Brasil,2016
 2016-08-31,Fortaleza,0,3,Internacional,False,False,Round of 16,Copa de Brasil,2016
 2016-09-22,Internacional,0,1,Fortaleza,False,False,Round of 16,Copa de Brasil,2016
 2016-09-01,Cruzeiro,5,2,Botafogo,False,False,Round of 16,Copa de Brasil,2016

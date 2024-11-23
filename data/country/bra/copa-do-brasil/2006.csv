@@ -34,7 +34,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-03-08,São Caetano-SP,4,1,Cabofriense,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Novo Hamburgo-RS,2,2,Criciúma,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Criciúma,2,1,Novo Hamburgo-RS,False,False,First Round,Copa de Brasil,2006
-2006-02-15,Moto Club,1,3,Atlético-PR,False,False,First Round,Copa de Brasil,2006
+2006-02-15,Moto Club,1,3,Athletico-PR,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Volta Redonda,2,1,América-MG,False,False,First Round,Copa de Brasil,2006
 2006-02-22,América-MG,2,1,Volta Redonda,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Piauí-PI,1,2,Grêmio,False,False,First Round,Copa de Brasil,2006
@@ -72,8 +72,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-08,Vasco da Gama,5,1,Iraty,False,False,Second Round,Copa de Brasil,2006
 2006-03-15,São Caetano,4,1,Criciúma,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,Criciúma,4,0,São Caetano,False,False,Second Round,Copa de Brasil,2006
-2006-03-22,Volta Redonda,2,1,Atlético-PR,False,False,Second Round,Copa de Brasil,2006
-2006-04-05,Atlético-PR,0,0,Volta Redonda,False,False,Second Round,Copa de Brasil,2006
+2006-03-22,Volta Redonda,2,1,Athletico-PR,False,False,Second Round,Copa de Brasil,2006
+2006-04-05,Athletico-PR,0,0,Volta Redonda,False,False,Second Round,Copa de Brasil,2006
 2006-03-15,XV de Novembro,1,0,Grêmio,False,False,Second Round,Copa de Brasil,2006
 2006-03-23,Grêmio,1,0,XV de Novembro,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,CENE,3,5,Fluminense,False,False,Second Round,Copa de Brasil,2006

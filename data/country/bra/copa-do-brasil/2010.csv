@@ -24,8 +24,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-02-25,Palmeiras,4,0,Flamengo-PI,False,False,First Round,Copa de Brasil,2010
 2010-02-10,Potyguar-CN (RN),0,0,Paysandu,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Paysandu,3,1,Potyguar-CN (RN),False,False,First Round,Copa de Brasil,2010
-2010-02-10,Vilhena-RO,2,2,Atlético-PR,False,False,First Round,Copa de Brasil,2010
-2010-02-24,Atlético-PR,4,0,Vilhena-RO,False,False,First Round,Copa de Brasil,2010
+2010-02-10,Vilhena-RO,2,2,Athletico-PR,False,False,First Round,Copa de Brasil,2010
+2010-02-24,Athletico-PR,4,0,Vilhena-RO,False,False,First Round,Copa de Brasil,2010
 2010-02-10,São Domingos-SE,1,1,Sampaio Corrêa-MA,False,False,First Round,Copa de Brasil,2010
 2010-02-25,Sampaio Corrêa-MA,2,1,São Domingos-SE,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Confiança,1,1,Fluminense,False,False,First Round,Copa de Brasil,2010
@@ -69,8 +69,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-03-31,Bahia,1,0,Atlético-GO,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Paysandu,1,2,Palmeiras,False,False,Second Round,Copa de Brasil,2010
 2010-03-31,Palmeiras,1,0,Paysandu,False,False,Second Round,Copa de Brasil,2010
-2010-03-17,Sampaio Corrêa-MA,1,1,Atlético-PR,False,False,Second Round,Copa de Brasil,2010
-2010-03-31,Atlético-PR,2,0,Sampaio Corrêa-MA,False,False,Second Round,Copa de Brasil,2010
+2010-03-17,Sampaio Corrêa-MA,1,1,Athletico-PR,False,False,Second Round,Copa de Brasil,2010
+2010-03-31,Athletico-PR,2,0,Sampaio Corrêa-MA,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Uberaba-MG,0,2,Fluminense,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Ponte Preta,1,1,Portuguesa,False,False,Second Round,Copa de Brasil,2010
 2010-03-31,Portuguesa,2,1,Ponte Preta,False,False,Second Round,Copa de Brasil,2010
@@ -91,8 +91,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-04-21,Goiás,2,2,Vitória,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Santa Cruz,1,2,Atlético-GO,False,False,Round of 16,Copa de Brasil,2010
 2010-04-22,Atlético-GO,2,0,Santa Cruz,False,False,Round of 16,Copa de Brasil,2010
-2010-04-15,Palmeiras,1,0,Atlético-PR,False,False,Round of 16,Copa de Brasil,2010
-2010-04-21,Atlético-PR,1,1,Palmeiras,False,False,Round of 16,Copa de Brasil,2010
+2010-04-15,Palmeiras,1,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2010
+2010-04-21,Athletico-PR,1,1,Palmeiras,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Portuguesa,0,1,Fluminense,False,False,Round of 16,Copa de Brasil,2010
 2010-04-22,Fluminense,3,2,Portuguesa,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Grêmio,3,1,Avaí,False,False,Round of 16,Copa de Brasil,2010

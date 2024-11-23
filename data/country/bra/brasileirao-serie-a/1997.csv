@@ -8,7 +8,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-07-05,RB Bragantino,3,1,Bahia,False,False,First Round,Brasileirão Série A,1997
 1997-07-05,Flamengo,2,3,Santos,False,False,First Round,Brasileirão Série A,1997
 1997-07-05,Cruzeiro,3,1,Guarani,False,False,First Round,Brasileirão Série A,1997
-1997-07-06,Atlético-PR,2,0,União São João,False,False,First Round,Brasileirão Série A,1997
+1997-07-06,Athletico-PR,2,0,União São João,False,False,First Round,Brasileirão Série A,1997
 1997-07-05,América-RN,1,1,Criciúma,False,False,First Round,Brasileirão Série A,1997
 1997-11-04,Vasco da Gama,2,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1997
 1997-10-07,Vitória,3,2,Botafogo,False,False,First Round,Brasileirão Série A,1997
@@ -16,7 +16,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-07-10,Criciúma,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1997
 1997-07-10,Fluminense,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1997
 1997-07-10,Internacional,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
-1997-07-09,Guarani,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-07-09,Guarani,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-07-09,União São João,0,2,Paraná,False,False,First Round,Brasileirão Série A,1997
 1997-07-09,Coritiba,1,1,Vitória,False,False,First Round,Brasileirão Série A,1997
 1997-07-09,Goiás,6,0,Grêmio,False,False,First Round,Brasileirão Série A,1997
@@ -33,7 +33,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-07-12,Corinthians,1,0,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-07-12,Vitória,4,4,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
 1997-07-12,Grêmio,1,1,União São João,False,False,First Round,Brasileirão Série A,1997
-1997-07-13,Atlético-PR,4,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1997
+1997-07-13,Athletico-PR,4,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1997
 1997-07-12,Cruzeiro,0,0,Internacional,False,False,First Round,Brasileirão Série A,1997
 1997-07-12,América-RN,1,1,Bahia,False,False,First Round,Brasileirão Série A,1997
 1997-07-23,Vasco da Gama,2,1,São Paulo,False,False,First Round,Brasileirão Série A,1997
@@ -44,7 +44,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-07-16,Bahia,1,1,Coritiba,False,False,First Round,Brasileirão Série A,1997
 1997-07-16,Criciúma,1,3,Guarani,False,False,First Round,Brasileirão Série A,1997
 1997-07-16,América-RN,3,1,União São João,False,False,First Round,Brasileirão Série A,1997
-1997-07-16,Sport,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-07-16,Sport,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-07-16,Goiás,1,4,Flamengo,False,False,First Round,Brasileirão Série A,1997
 1997-07-16,Corinthians,2,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
 1997-07-16,Cruzeiro,0,5,São Paulo,False,False,First Round,Brasileirão Série A,1997
@@ -52,7 +52,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-07-16,Internacional,2,0,Santos,False,False,First Round,Brasileirão Série A,1997
 1997-07-19,Portuguesa-SP,3,0,Flamengo,False,False,First Round,Brasileirão Série A,1997
 1997-07-19,Guarani,2,2,Corinthians,False,False,First Round,Brasileirão Série A,1997
-1997-07-19,Atlético-PR,4,3,Bahia,False,False,First Round,Brasileirão Série A,1997
+1997-07-19,Athletico-PR,4,3,Bahia,False,False,First Round,Brasileirão Série A,1997
 1997-07-20,Vasco da Gama,3,3,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-07-19,São Paulo,2,1,Fluminense,False,False,First Round,Brasileirão Série A,1997
 1997-07-20,Coritiba,3,3,Botafogo,False,False,First Round,Brasileirão Série A,1997
@@ -73,7 +73,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-07-27,Paraná,0,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
 1997-07-26,Guarani,2,1,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
 1997-07-26,Juventude,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1997
-1997-07-27,Cruzeiro,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-07-27,Cruzeiro,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-07-27,Bahia,3,3,Vitória,False,False,First Round,Brasileirão Série A,1997
 1997-07-30,Criciúma,2,1,São Paulo,False,False,First Round,Brasileirão Série A,1997
 1997-07-30,Vasco da Gama,2,0,Goiás,False,False,First Round,Brasileirão Série A,1997
@@ -82,7 +82,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-08-02,Palmeiras,3,1,Botafogo,False,False,First Round,Brasileirão Série A,1997
 1997-08-02,União São João,1,0,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-08-02,RB Bragantino,0,1,Goiás,False,False,First Round,Brasileirão Série A,1997
-1997-08-03,Atlético-PR,2,4,Paraná,False,False,First Round,Brasileirão Série A,1997
+1997-08-03,Athletico-PR,2,4,Paraná,False,False,First Round,Brasileirão Série A,1997
 1997-08-02,Guarani,1,2,América-RN,False,False,First Round,Brasileirão Série A,1997
 1997-08-03,Vasco da Gama,3,1,Fluminense,False,False,First Round,Brasileirão Série A,1997
 1997-08-02,São Paulo,1,1,Internacional,False,False,First Round,Brasileirão Série A,1997
@@ -91,7 +91,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-08-06,Vitória,1,2,Palmeiras,False,False,First Round,Brasileirão Série A,1997
 1997-08-06,Portuguesa-SP,3,2,Bahia,False,False,First Round,Brasileirão Série A,1997
 1997-08-09,Internacional,3,1,Vitória,False,False,First Round,Brasileirão Série A,1997
-1997-08-09,Botafogo,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-08-09,Botafogo,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-08-09,Paraná,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1997
 1997-08-09,América-RN,3,3,Grêmio,False,False,First Round,Brasileirão Série A,1997
 1997-08-09,Fluminense,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
@@ -103,7 +103,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-08-12,Atlético-MG,2,4,Flamengo,False,False,First Round,Brasileirão Série A,1997
 1997-08-13,Internacional,2,1,Palmeiras,False,False,First Round,Brasileirão Série A,1997
 1997-08-13,Criciúma,1,0,Botafogo,False,False,First Round,Brasileirão Série A,1997
-1997-08-16,Atlético-PR,2,1,Goiás,False,False,First Round,Brasileirão Série A,1997
+1997-08-16,Athletico-PR,2,1,Goiás,False,False,First Round,Brasileirão Série A,1997
 1997-08-16,Coritiba,2,0,Corinthians,False,False,First Round,Brasileirão Série A,1997
 1997-08-16,União São João,1,1,Sport,False,False,First Round,Brasileirão Série A,1997
 1997-08-16,Internacional,4,1,Fluminense,False,False,First Round,Brasileirão Série A,1997
@@ -113,7 +113,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-08-16,Portuguesa-SP,3,0,América-RN,False,False,First Round,Brasileirão Série A,1997
 1997-08-17,Guarani,1,2,Paraná,False,False,First Round,Brasileirão Série A,1997
 1997-08-16,Atlético-MG,2,1,Juventude,False,False,First Round,Brasileirão Série A,1997
-1997-08-19,Corinthians,1,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-08-19,Corinthians,1,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-08-20,América-RN,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
 1997-08-19,Juventude,1,1,Santos,False,False,First Round,Brasileirão Série A,1997
 1997-08-19,Botafogo,1,1,União São João,False,False,First Round,Brasileirão Série A,1997
@@ -125,7 +125,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-08-20,Goiás,1,0,Paraná,False,False,First Round,Brasileirão Série A,1997
 1997-08-19,Cruzeiro,4,3,Criciúma,False,False,First Round,Brasileirão Série A,1997
 1997-08-23,Bahia,3,3,Fluminense,False,False,First Round,Brasileirão Série A,1997
-1997-08-23,Atlético-PR,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1997
+1997-08-23,Athletico-PR,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1997
 1997-08-24,Coritiba,4,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
 1997-08-24,Santos,3,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
 1997-08-23,Grêmio,2,5,Internacional,False,False,First Round,Brasileirão Série A,1997
@@ -141,13 +141,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-08-30,Internacional,1,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1997
 1997-08-30,Vitória,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1997
 1997-08-30,Cruzeiro,3,1,Bahia,False,False,First Round,Brasileirão Série A,1997
-1997-08-31,RB Bragantino,3,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-08-31,RB Bragantino,3,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-08-31,União São João,0,1,Coritiba,False,False,First Round,Brasileirão Série A,1997
 1997-08-30,América-RN,1,0,Goiás,False,False,First Round,Brasileirão Série A,1997
 1997-08-31,Portuguesa-SP,5,0,Guarani,False,False,First Round,Brasileirão Série A,1997
 1997-08-31,Paraná,1,2,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-08-30,Corinthians,0,1,São Paulo,False,False,First Round,Brasileirão Série A,1997
-1997-09-03,Atlético-PR,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1997
+1997-09-03,Athletico-PR,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1997
 1997-08-30,União São João,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1997
 1997-09-06,Botafogo,0,2,Internacional,False,False,First Round,Brasileirão Série A,1997
 1997-09-07,Grêmio,3,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
@@ -180,7 +180,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-09-13,Portuguesa-SP,2,1,Corinthians,False,False,First Round,Brasileirão Série A,1997
 1997-09-14,Vitória,4,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
 1997-09-13,Flamengo,4,2,América-RN,False,False,First Round,Brasileirão Série A,1997
-1997-09-14,Atlético-PR,3,1,Juventude,False,False,First Round,Brasileirão Série A,1997
+1997-09-14,Athletico-PR,3,1,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-09-13,Guarani,1,3,Atlético-MG,False,False,First Round,Brasileirão Série A,1997
 1997-09-14,Santos,2,1,Coritiba,False,False,First Round,Brasileirão Série A,1997
 1997-09-14,Goiás,3,2,Criciúma,False,False,First Round,Brasileirão Série A,1997
@@ -193,7 +193,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-09-17,Vitória,2,0,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
 1997-09-17,Cruzeiro,0,1,União São João,False,False,First Round,Brasileirão Série A,1997
 1997-09-17,Paraná,0,0,América-RN,False,False,First Round,Brasileirão Série A,1997
-1997-09-17,Grêmio,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-09-17,Grêmio,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-09-17,Goiás,1,0,Coritiba,False,False,First Round,Brasileirão Série A,1997
 1997-09-17,Palmeiras,1,1,Bahia,False,False,First Round,Brasileirão Série A,1997
 1997-09-17,Atlético-MG,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1997
@@ -208,7 +208,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-09-20,Botafogo,1,3,Bahia,False,False,First Round,Brasileirão Série A,1997
 1997-09-20,Internacional,3,1,Goiás,False,False,First Round,Brasileirão Série A,1997
 1997-09-20,Atlético-MG,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
-1997-09-21,América-RN,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-09-21,América-RN,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-09-23,Coritiba,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1997
 1997-09-23,União São João,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1997
 1997-09-23,Botafogo,1,0,Corinthians,False,False,First Round,Brasileirão Série A,1997
@@ -216,7 +216,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-09-27,Santos,1,2,Botafogo,False,False,First Round,Brasileirão Série A,1997
 1997-09-27,São Paulo,0,0,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-09-28,Portuguesa-SP,1,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
-1997-09-28,Atlético-PR,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1997
+1997-09-28,Athletico-PR,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1997
 1997-09-27,Fluminense,2,4,América-RN,False,False,First Round,Brasileirão Série A,1997
 1997-09-27,Corinthians,2,2,Palmeiras,False,False,First Round,Brasileirão Série A,1997
 1997-09-27,RB Bragantino,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1997
@@ -228,7 +228,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-10-01,Vasco da Gama,2,1,Palmeiras,False,False,First Round,Brasileirão Série A,1997
 1997-10-01,Juventude,0,1,Flamengo,False,False,First Round,Brasileirão Série A,1997
 1997-10-01,Botafogo,1,0,Sport,False,False,First Round,Brasileirão Série A,1997
-1997-10-01,Atlético-PR,2,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
+1997-10-01,Athletico-PR,2,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
 1997-10-01,Grêmio,0,0,Cruzeiro,False,False,First Round,Brasileirão Série A,1997
 1997-10-01,Criciúma,0,1,Internacional,False,False,First Round,Brasileirão Série A,1997
 1997-10-01,Bahia,3,1,Goiás,False,False,First Round,Brasileirão Série A,1997
@@ -246,7 +246,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-10-04,Bahia,0,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1997
 1997-10-04,Guarani,1,1,Internacional,False,False,First Round,Brasileirão Série A,1997
 1997-10-04,Portuguesa-SP,1,1,Santos,False,False,First Round,Brasileirão Série A,1997
-1997-10-05,Vasco da Gama,2,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-10-05,Vasco da Gama,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-11-05,Juventude,2,1,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
 1997-10-29,Fluminense,2,0,Criciúma,False,False,First Round,Brasileirão Série A,1997
 1997-10-07,Flamengo,3,2,Grêmio,False,False,First Round,Brasileirão Série A,1997
@@ -257,7 +257,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-10-11,Corinthians,0,1,Paraná,False,False,First Round,Brasileirão Série A,1997
 1997-10-11,Santos,3,2,Guarani,False,False,First Round,Brasileirão Série A,1997
 1997-10-11,Botafogo,2,1,Fluminense,False,False,First Round,Brasileirão Série A,1997
-1997-10-11,Vitória,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-10-11,Vitória,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-10-11,Atlético-MG,2,1,Grêmio,False,False,First Round,Brasileirão Série A,1997
 1997-10-11,Sport,1,2,Juventude,False,False,First Round,Brasileirão Série A,1997
 1997-10-11,Palmeiras,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997
@@ -274,13 +274,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-10-18,América-RN,3,2,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
 1997-10-18,Grêmio,1,0,Criciúma,False,False,First Round,Brasileirão Série A,1997
 1997-10-19,Paraná,1,2,Vitória,False,False,First Round,Brasileirão Série A,1997
-1997-10-19,Atlético-PR,1,1,Santos,False,False,First Round,Brasileirão Série A,1997
+1997-10-19,Athletico-PR,1,1,Santos,False,False,First Round,Brasileirão Série A,1997
 1997-10-18,Guarani,1,1,Sport,False,False,First Round,Brasileirão Série A,1997
 1997-10-19,Vasco da Gama,1,0,Botafogo,False,False,First Round,Brasileirão Série A,1997
 1997-10-18,Atlético-MG,5,3,União São João,False,False,First Round,Brasileirão Série A,1997
 1997-10-21,Portuguesa-SP,3,2,Cruzeiro,False,False,First Round,Brasileirão Série A,1997
 1997-10-21,Fluminense,1,0,Corinthians,False,False,First Round,Brasileirão Série A,1997
-1997-10-22,Palmeiras,3,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-10-22,Palmeiras,3,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-10-21,Bahia,1,4,Internacional,False,False,First Round,Brasileirão Série A,1997
 1997-10-25,Internacional,4,0,Flamengo,False,False,First Round,Brasileirão Série A,1997
 1997-10-25,Santos,3,1,Bahia,False,False,First Round,Brasileirão Série A,1997
@@ -291,11 +291,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-10-26,São Paulo,7,1,União São João,False,False,First Round,Brasileirão Série A,1997
 1997-10-25,Sport,2,1,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
 1997-10-25,Guarani,0,0,Juventude,False,False,First Round,Brasileirão Série A,1997
-1997-10-26,Coritiba,0,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-10-26,Coritiba,0,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-10-25,Vitória,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1997
 1997-10-25,Atlético-MG,3,2,América-RN,False,False,First Round,Brasileirão Série A,1997
 1997-10-30,Flamengo,1,0,Vitória,False,False,First Round,Brasileirão Série A,1997
-1997-11-01,Atlético-PR,2,1,Internacional,False,False,First Round,Brasileirão Série A,1997
+1997-11-01,Athletico-PR,2,1,Internacional,False,False,First Round,Brasileirão Série A,1997
 1997-11-01,Corinthians,0,1,Sport,False,False,First Round,Brasileirão Série A,1997
 1997-11-01,Cruzeiro,2,3,Botafogo,False,False,First Round,Brasileirão Série A,1997
 1997-11-01,Vitória,2,0,Santos,False,False,First Round,Brasileirão Série A,1997
@@ -314,7 +314,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-11-08,Guarani,3,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1997
 1997-11-08,Fluminense,0,2,Grêmio,False,False,First Round,Brasileirão Série A,1997
 1997-11-08,Internacional,7,0,RB Bragantino,False,False,First Round,Brasileirão Série A,1997
-1997-11-08,Criciúma,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1997
+1997-11-08,Criciúma,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1997
 1997-11-08,Coritiba,2,0,América-RN,False,False,First Round,Brasileirão Série A,1997
 1997-11-08,São Paulo,4,4,Paraná,False,False,First Round,Brasileirão Série A,1997
 1997-11-09,Botafogo,3,3,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1997

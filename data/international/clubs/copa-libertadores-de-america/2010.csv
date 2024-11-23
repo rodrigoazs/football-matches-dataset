@@ -1,16 +1,16 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2010-01-26,Deportivo Táchira,1,0,Libertad,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-02-02,Libertad,3,1,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2010
-2010-01-26,Colón (Santa Fe),3,2,Universidad Católica,False,False,Qualifying Round,Copa Libertadores de América,2010
-2010-02-09,Universidad Católica,3,2,Colón (Santa Fe),False,False,Qualifying Round,Copa Libertadores de América,2010
+2010-01-26,Colón,3,2,Universidad Católica,False,False,Qualifying Round,Copa Libertadores de América,2010
+2010-02-09,Universidad Católica,3,2,Colón,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-01-27,Juan Aurich (Chiclayo),2,0,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-02-03,Estudiantes,1,2,Juan Aurich (Chiclayo),False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-01-27,Real Potosí,1,1,Cruzeiro,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-02-03,Cruzeiro,7,0,Real Potosí,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-01-27,Newell's Old Boys,0,0,Emelec,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-02-10,Emelec,2,1,Newell's Old Boys,False,False,Qualifying Round,Copa Libertadores de América,2010
-2010-01-28,Atlético Junior,2,2,Racing Club de Montevideo,False,False,Qualifying Round,Copa Libertadores de América,2010
-2010-02-04,Racing Club de Montevideo,2,0,Atlético Junior,False,False,Qualifying Round,Copa Libertadores de América,2010
+2010-01-28,Junior de Barranquilla,2,2,Racing Club de Montevideo,False,False,Qualifying Round,Copa Libertadores de América,2010
+2010-02-04,Racing Club de Montevideo,2,0,Junior de Barranquilla,False,False,Qualifying Round,Copa Libertadores de América,2010
 2010-02-11,Cerro Porteño,1,1,Indep. Medellín,False,False,Group Stage,Copa Libertadores de América,2010
 2010-02-24,Corinthians,2,1,Racing Club de Montevideo,False,False,Group Stage,Copa Libertadores de América,2010
 2010-03-09,Racing Club de Montevideo,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2010

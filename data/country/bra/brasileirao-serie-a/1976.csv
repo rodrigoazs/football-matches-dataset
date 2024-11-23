@@ -36,34 +36,34 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1976-10-03,Avaí,0,3,Grêmio,False,False,First Round,Brasileirão Série A,1976
 1976-10-03,Internacional,1,0,Palmeiras,False,False,First Round,Brasileirão Série A,1976
 1976-08-29,Coritiba,0,2,São Paulo,False,False,First Round,Brasileirão Série A,1976
-1976-08-29,Londrina,0,3,Atlético-PR,False,False,First Round,Brasileirão Série A,1976
+1976-08-29,Londrina,0,3,Athletico-PR,False,False,First Round,Brasileirão Série A,1976
 1976-08-29,Confiança,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1976
 1976-09-01,Londrina,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1976
-1976-09-01,Uberaba-MG,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1976
+1976-09-01,Uberaba-MG,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1976
 1976-09-04,São Paulo,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1976
 1976-09-04,Cruzeiro,0,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,1976
 1976-09-05,Confiança,1,0,Londrina,False,False,First Round,Brasileirão Série A,1976
 1976-09-07,Uberaba-MG,0,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,1976
 1976-09-07,Cruzeiro,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1976
-1976-09-08,Coritiba,2,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1976
+1976-09-08,Coritiba,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1976
 1976-09-08,Confiança,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1976
 1976-09-12,Botafogo-SP,2,0,São Paulo,False,False,First Round,Brasileirão Série A,1976
-1976-09-12,Atlético-PR,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1976
+1976-09-12,Athletico-PR,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1976
 1976-09-12,Uberaba-MG,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1976
-1976-09-15,São Paulo,0,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1976
+1976-09-15,São Paulo,0,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1976
 1976-09-15,Confiança,1,1,Coritiba,False,False,First Round,Brasileirão Série A,1976
 1976-09-16,Londrina,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1976
 1976-09-18,São Paulo,4,0,Uberaba-MG,False,False,First Round,Brasileirão Série A,1976
 1976-09-19,Londrina,1,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,1976
 1976-09-19,Cruzeiro,2,1,Coritiba,False,False,First Round,Brasileirão Série A,1976
-1976-09-19,Atlético-PR,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1976
-1976-09-22,Atlético-PR,1,0,Confiança,False,False,First Round,Brasileirão Série A,1976
+1976-09-19,Athletico-PR,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1976
+1976-09-22,Athletico-PR,1,0,Confiança,False,False,First Round,Brasileirão Série A,1976
 1976-09-23,Coritiba,1,0,Uberaba-MG,False,False,First Round,Brasileirão Série A,1976
 1976-09-23,Portuguesa-SP,3,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,1976
 1976-09-25,Botafogo-SP,3,0,Confiança,False,False,First Round,Brasileirão Série A,1976
 1976-09-26,Uberaba-MG,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1976
 1976-09-26,Coritiba,1,0,Londrina,False,False,First Round,Brasileirão Série A,1976
-1976-09-29,Botafogo-SP,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1976
+1976-09-29,Botafogo-SP,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1976
 1976-09-29,Cruzeiro,2,0,Confiança,False,False,First Round,Brasileirão Série A,1976
 1976-09-29,Uberaba-MG,1,2,Londrina,False,False,First Round,Brasileirão Série A,1976
 1976-09-29,Portuguesa-SP,0,2,Coritiba,False,False,First Round,Brasileirão Série A,1976
@@ -245,18 +245,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1976-10-24,Botafogo,0,1,Grêmio,False,False,Second Round,Brasileirão Série A,1976
 1976-10-24,Operário-MT,0,1,Coritiba,False,False,Second Round,Brasileirão Série A,1976
 1976-10-09,Bahia,3,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1976
-1976-10-10,Santos,2,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1976
+1976-10-10,Santos,2,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1976
 1976-10-13,Remo,1,2,Santos,False,False,Second Round,Brasileirão Série A,1976
 1976-10-13,Santa Cruz,2,2,Atlético-MG,False,False,Second Round,Brasileirão Série A,1976
-1976-10-13,Bahia,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1976
+1976-10-13,Bahia,1,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1976
 1976-10-16,Santos,0,0,Bahia,False,False,Second Round,Brasileirão Série A,1976
-1976-10-17,Atlético-MG,5,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1976
+1976-10-17,Atlético-MG,5,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1976
 1976-10-17,Santa Cruz,2,1,Remo,False,False,Second Round,Brasileirão Série A,1976
-1976-10-20,Atlético-PR,1,1,Remo,False,False,Second Round,Brasileirão Série A,1976
+1976-10-20,Athletico-PR,1,1,Remo,False,False,Second Round,Brasileirão Série A,1976
 1976-10-20,Santa Cruz,2,0,Santos,False,False,Second Round,Brasileirão Série A,1976
 1976-10-20,Atlético-MG,2,1,Bahia,False,False,Second Round,Brasileirão Série A,1976
 1976-10-24,Bahia,3,1,Remo,False,False,Second Round,Brasileirão Série A,1976
-1976-10-24,Atlético-PR,1,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1976
+1976-10-24,Athletico-PR,1,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1976
 1976-10-24,Atlético-MG,1,1,Santos,False,False,Second Round,Brasileirão Série A,1976
 1976-10-27,Remo,1,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1976
 1976-10-09,América-RJ,1,1,São Paulo,False,False,Second Round,Brasileirão Série A,1976

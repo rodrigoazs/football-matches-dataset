@@ -13,7 +13,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-08-25,Goiás,0,0,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-08-25,Comercial-MS,0,1,Flamengo,False,False,First Round,Brasileirão Série A,1973
 1973-08-25,Ceará,2,2,Náutico,False,False,First Round,Brasileirão Série A,1973
-1973-08-25,Atlético-PR,0,0,Vitória,False,False,First Round,Brasileirão Série A,1973
+1973-08-25,Athletico-PR,0,0,Vitória,False,False,First Round,Brasileirão Série A,1973
 1973-08-25,América-RN,0,0,Rio Negro,False,False,First Round,Brasileirão Série A,1973
 1973-08-25,Remo,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-08-26,Nacional-AM,1,1,Guarani,False,False,First Round,Brasileirão Série A,1973
@@ -36,7 +36,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-08-29,Santa Cruz,1,1,Ceará,False,False,First Round,Brasileirão Série A,1973
 1973-08-30,Nacional-AM,0,0,Internacional,False,False,First Round,Brasileirão Série A,1973
 1973-08-30,Paysandu,0,0,América-GB,False,False,First Round,Brasileirão Série A,1973
-1973-08-30,Náutico,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-08-30,Náutico,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-08-31,Sport,0,3,São Paulo,False,False,First Round,Brasileirão Série A,1973
 1973-08-31,América-MG,1,0,Fortaleza,False,False,First Round,Brasileirão Série A,1973
 1973-08-31,CEUB,2,1,Figueirense,False,False,First Round,Brasileirão Série A,1973
@@ -53,7 +53,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-09-02,Santos,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-09-02,Atlético-MG,0,0,Grêmio,False,False,First Round,Brasileirão Série A,1973
 1973-09-02,Desportiva,0,1,Remo,False,False,First Round,Brasileirão Série A,1973
-1973-09-02,Ceará,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-09-02,Ceará,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-09-02,América-RN,2,0,Sergipe,False,False,First Round,Brasileirão Série A,1973
 1973-09-02,Goiás,2,0,Comercial-MS,False,False,First Round,Brasileirão Série A,1973
 1973-09-05,Bahia,0,1,Fluminense,False,False,First Round,Brasileirão Série A,1973
@@ -67,7 +67,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-09-05,Fortaleza,3,2,Coritiba,False,False,First Round,Brasileirão Série A,1973
 1973-09-05,Desportiva,0,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
 1973-09-05,Olaria,0,1,Flamengo,False,False,First Round,Brasileirão Série A,1973
-1973-09-05,Atlético-PR,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1973
+1973-09-05,Athletico-PR,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-09-05,Santos,0,0,Grêmio,False,False,First Round,Brasileirão Série A,1973
 1973-09-05,Comercial-MS,1,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-09-05,Rio Negro,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
@@ -89,7 +89,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-09-09,Fortaleza,2,0,Figueirense,False,False,First Round,Brasileirão Série A,1973
 1973-09-09,Flamengo,0,1,Santos,False,False,First Round,Brasileirão Série A,1973
 1973-09-09,Grêmio,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1973
-1973-09-09,Atlético-PR,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
+1973-09-09,Athletico-PR,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-09-09,Náutico,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
 1973-09-09,Sergipe,1,0,Remo,False,False,First Round,Brasileirão Série A,1973
 1973-09-09,Rio Negro,0,0,Vitória,False,False,First Round,Brasileirão Série A,1973
@@ -128,7 +128,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-09-16,Náutico,2,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
 1973-09-16,Atlético-MG,3,0,Flamengo,False,False,First Round,Brasileirão Série A,1973
 1973-09-16,Palmeiras,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
-1973-09-16,Atlético-PR,0,2,Santos,False,False,First Round,Brasileirão Série A,1973
+1973-09-16,Athletico-PR,0,2,Santos,False,False,First Round,Brasileirão Série A,1973
 1973-09-16,América-RN,2,2,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
 1973-09-16,Remo,1,0,Goiás,False,False,First Round,Brasileirão Série A,1973
 1973-09-16,Desportiva,0,1,Rio Negro,False,False,First Round,Brasileirão Série A,1973
@@ -155,7 +155,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-09-23,Santa Cruz,1,0,Vitória,False,False,First Round,Brasileirão Série A,1973
 1973-09-23,Comercial-MS,1,2,Náutico,False,False,First Round,Brasileirão Série A,1973
 1973-09-23,Remo,1,2,América-RN,False,False,First Round,Brasileirão Série A,1973
-1973-09-23,Atlético-PR,1,0,Desportiva,False,False,First Round,Brasileirão Série A,1973
+1973-09-23,Athletico-PR,1,0,Desportiva,False,False,First Round,Brasileirão Série A,1973
 1973-09-26,Figueirense,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1973
 1973-09-26,Paysandu,0,1,Botafogo,False,False,First Round,Brasileirão Série A,1973
 1973-09-26,Coritiba,2,0,América-GB,False,False,First Round,Brasileirão Série A,1973
@@ -172,11 +172,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-09-26,Desportiva,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-09-26,Vitória,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-09-26,Sergipe,1,2,Grêmio,False,False,First Round,Brasileirão Série A,1973
-1973-09-26,Goiás,1,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-09-26,Goiás,1,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-09-27,Sport,1,2,Corinthians,False,False,First Round,Brasileirão Série A,1973
 1973-09-27,Remo,0,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
 1973-09-29,Nacional-AM,1,0,CEUB,False,False,First Round,Brasileirão Série A,1973
-1973-09-29,Atlético-PR,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
+1973-09-29,Athletico-PR,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
 1973-09-30,Cruzeiro,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1973
 1973-09-30,Botafogo,1,0,São Paulo,False,False,First Round,Brasileirão Série A,1973
 1973-09-30,CRB,0,3,Corinthians,False,False,First Round,Brasileirão Série A,1973
@@ -210,7 +210,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-03,Sergipe,0,3,Santos,False,False,First Round,Brasileirão Série A,1973
 1973-10-03,América-RN,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-10-03,Comercial-MS,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1973
-1973-10-03,Atlético-PR,1,0,Rio Negro,False,False,First Round,Brasileirão Série A,1973
+1973-10-03,Athletico-PR,1,0,Rio Negro,False,False,First Round,Brasileirão Série A,1973
 1973-10-03,Desportiva,0,0,Goiás,False,False,First Round,Brasileirão Série A,1973
 1973-10-04,Atlético-MG,1,1,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-10-04,Ceará,0,0,Remo,False,False,First Round,Brasileirão Série A,1973
@@ -218,7 +218,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-06,Fluminense,1,0,Sport,False,False,First Round,Brasileirão Série A,1973
 1973-10-06,América-MG,1,1,Guarani,False,False,First Round,Brasileirão Série A,1973
 1973-10-06,CEUB,0,1,Internacional,False,False,First Round,Brasileirão Série A,1973
-1973-10-06,Atlético-PR,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
+1973-10-06,Athletico-PR,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-10-07,Corinthians,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1973
 1973-10-07,Bahia,2,1,América-GB,False,False,First Round,Brasileirão Série A,1973
 1973-10-07,Tiradentes,0,2,São Paulo,False,False,First Round,Brasileirão Série A,1973
@@ -236,11 +236,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-07,Comercial-MS,0,1,Vitória,False,False,First Round,Brasileirão Série A,1973
 1973-10-07,Desportiva,2,1,América-RN,False,False,First Round,Brasileirão Série A,1973
 1973-10-10,Internacional,1,1,América-MG,False,False,First Round,Brasileirão Série A,1973
-1973-10-10,Atlético-PR,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1973
+1973-10-10,Athletico-PR,1,1,Grêmio,False,False,First Round,Brasileirão Série A,1973
 1973-10-13,Botafogo,0,1,América-GB,False,False,First Round,Brasileirão Série A,1973
 1973-10-13,CEUB,1,2,Moto Club,False,False,First Round,Brasileirão Série A,1973
 1973-10-13,Paysandu,0,2,Corinthians,False,False,First Round,Brasileirão Série A,1973
-1973-10-13,Atlético-PR,0,2,Olaria,False,False,First Round,Brasileirão Série A,1973
+1973-10-13,Athletico-PR,0,2,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-10-13,Portuguesa-SP,3,0,Flamengo,False,False,First Round,Brasileirão Série A,1973
 1973-10-14,Coritiba,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1973
 1973-10-14,São Paulo,2,1,Cruzeiro,False,False,First Round,Brasileirão Série A,1973
@@ -267,7 +267,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-17,Tiradentes,0,1,Sport,False,False,First Round,Brasileirão Série A,1973
 1973-10-17,Fortaleza,2,0,Paysandu,False,False,First Round,Brasileirão Série A,1973
 1973-10-17,América-MG,1,2,Bahia,False,False,First Round,Brasileirão Série A,1973
-1973-10-17,Remo,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-10-17,Remo,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-10-17,Comercial-MS,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
 1973-10-17,Desportiva,1,0,Flamengo,False,False,First Round,Brasileirão Série A,1973
 1973-10-17,Náutico,0,0,Olaria,False,False,First Round,Brasileirão Série A,1973
@@ -289,7 +289,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-21,Tiradentes,0,0,Nacional-AM,False,False,First Round,Brasileirão Série A,1973
 1973-10-21,Bahia,2,0,Coritiba,False,False,First Round,Brasileirão Série A,1973
 1973-10-21,Figueirense,1,0,CRB,False,False,First Round,Brasileirão Série A,1973
-1973-10-21,Atlético-PR,1,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
+1973-10-21,Athletico-PR,1,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
 1973-10-21,Remo,2,1,Flamengo,False,False,First Round,Brasileirão Série A,1973
 1973-10-21,Santos,1,2,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-10-21,América-RN,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,1973
@@ -310,7 +310,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-24,Comercial-MS,2,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-10-24,Goiás,3,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-10-24,Grêmio,1,0,Náutico,False,False,First Round,Brasileirão Série A,1973
-1973-10-24,Sergipe,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-10-24,Sergipe,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-10-24,América-RN,1,1,Vitória,False,False,First Round,Brasileirão Série A,1973
 1973-10-25,Fortaleza,1,0,Fluminense,False,False,First Round,Brasileirão Série A,1973
 1973-10-25,Corinthians,1,1,América-MG,False,False,First Round,Brasileirão Série A,1973
@@ -333,7 +333,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-27,Sergipe,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
 1973-10-27,América-RN,2,0,Náutico,False,False,First Round,Brasileirão Série A,1973
 1973-10-27,Goiás,4,1,Ceará,False,False,First Round,Brasileirão Série A,1973
-1973-10-27,Atlético-PR,4,1,Comercial-MS,False,False,First Round,Brasileirão Série A,1973
+1973-10-27,Athletico-PR,4,1,Comercial-MS,False,False,First Round,Brasileirão Série A,1973
 1973-10-31,Nacional-AM,0,0,Fluminense,False,False,First Round,Brasileirão Série A,1973
 1973-10-31,CRB,0,2,Botafogo,False,False,First Round,Brasileirão Série A,1973
 1973-10-31,América-GB,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1973
@@ -350,7 +350,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-10-31,Sergipe,1,3,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-10-31,Náutico,3,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-10-31,Desportiva,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
-1973-10-31,Atlético-PR,2,1,América-RN,False,False,First Round,Brasileirão Série A,1973
+1973-10-31,Athletico-PR,2,1,América-RN,False,False,First Round,Brasileirão Série A,1973
 1973-11-01,Rio Negro,0,0,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-11-01,Ceará,0,0,Grêmio,False,False,First Round,Brasileirão Série A,1973
 1973-11-03,Fluminense,0,1,Internacional,False,False,First Round,Brasileirão Série A,1973
@@ -364,7 +364,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-11-04,Tiradentes,1,0,Fortaleza,False,False,First Round,Brasileirão Série A,1973
 1973-11-04,Moto Club,1,1,CRB,False,False,First Round,Brasileirão Série A,1973
 1973-11-04,Vasco da Gama,2,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
-1973-11-04,Atlético-PR,1,0,Flamengo,False,False,First Round,Brasileirão Série A,1973
+1973-11-04,Athletico-PR,1,0,Flamengo,False,False,First Round,Brasileirão Série A,1973
 1973-11-04,Goiás,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-11-04,Santos,3,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-11-04,Grêmio,1,0,Vitória,False,False,First Round,Brasileirão Série A,1973
@@ -388,7 +388,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-11-11,Cruzeiro,0,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-11-11,Palmeiras,2,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-11-11,Guarani,1,0,Corinthians,False,False,First Round,Brasileirão Série A,1973
-1973-11-11,Atlético-PR,0,1,Santos,False,False,First Round,Brasileirão Série A,1973
+1973-11-11,Athletico-PR,0,1,Santos,False,False,First Round,Brasileirão Série A,1973
 1973-11-11,Grêmio,1,1,Internacional,False,False,First Round,Brasileirão Série A,1973
 1973-11-11,Bahia,0,1,Vitória,False,False,First Round,Brasileirão Série A,1973
 1973-11-11,Sergipe,2,1,Nacional-AM,False,False,First Round,Brasileirão Série A,1973
@@ -406,7 +406,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-11-14,Grêmio,0,0,Corinthians,False,False,First Round,Brasileirão Série A,1973
 1973-11-14,Guarani,1,1,Santos,False,False,First Round,Brasileirão Série A,1973
 1973-11-14,São Paulo,1,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
-1973-11-14,Coritiba,2,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-11-14,Coritiba,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-11-14,Nacional-AM,2,1,Bahia,False,False,First Round,Brasileirão Série A,1973
 1973-11-14,Vitória,1,1,CRB,False,False,First Round,Brasileirão Série A,1973
 1973-11-14,Sergipe,0,1,Rio Negro,False,False,First Round,Brasileirão Série A,1973
@@ -421,7 +421,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-11-15,Palmeiras,1,0,Internacional,False,False,First Round,Brasileirão Série A,1973
 1973-11-17,Flamengo,1,1,América-MG,False,False,First Round,Brasileirão Série A,1973
 1973-11-17,Cruzeiro,2,0,Olaria,False,False,First Round,Brasileirão Série A,1973
-1973-11-17,Portuguesa-SP,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-11-17,Portuguesa-SP,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-11-17,Grêmio,1,0,Guarani,False,False,First Round,Brasileirão Série A,1973
 1973-11-17,Moto Club,1,1,Santa Cruz,False,False,First Round,Brasileirão Série A,1973
 1973-11-17,Náutico,2,0,CEUB,False,False,First Round,Brasileirão Série A,1973
@@ -447,7 +447,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-11-25,Figueirense,2,2,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-11-25,Palmeiras,1,2,São Paulo,False,False,First Round,Brasileirão Série A,1973
 1973-11-25,Guarani,3,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
-1973-11-25,Atlético-PR,2,0,Grêmio,False,False,First Round,Brasileirão Série A,1973
+1973-11-25,Athletico-PR,2,0,Grêmio,False,False,First Round,Brasileirão Série A,1973
 1973-11-25,Internacional,1,0,Coritiba,False,False,First Round,Brasileirão Série A,1973
 1973-11-25,Tiradentes,1,1,Bahia,False,False,First Round,Brasileirão Série A,1973
 1973-11-25,Vitória,0,0,Fortaleza,False,False,First Round,Brasileirão Série A,1973
@@ -475,7 +475,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-11-28,Moto Club,1,1,Desportiva,False,False,First Round,Brasileirão Série A,1973
 1973-11-29,Fluminense,1,2,Olaria,False,False,First Round,Brasileirão Série A,1973
 1973-11-29,Atlético-MG,2,1,Flamengo,False,False,First Round,Brasileirão Série A,1973
-1973-11-29,Atlético-PR,2,2,Corinthians,False,False,First Round,Brasileirão Série A,1973
+1973-11-29,Athletico-PR,2,2,Corinthians,False,False,First Round,Brasileirão Série A,1973
 1973-11-29,Paysandu,0,0,Náutico,False,False,First Round,Brasileirão Série A,1973
 1973-12-01,Botafogo,2,1,América-GB,False,False,First Round,Brasileirão Série A,1973
 1973-12-01,Santos,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
@@ -488,7 +488,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-12-02,Figueirense,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1973
 1973-12-02,Grêmio,1,0,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-12-02,Corinthians,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1973
-1973-12-02,Atlético-PR,0,0,Internacional,False,False,First Round,Brasileirão Série A,1973
+1973-12-02,Athletico-PR,0,0,Internacional,False,False,First Round,Brasileirão Série A,1973
 1973-12-02,Nacional-AM,3,1,Ceará,False,False,First Round,Brasileirão Série A,1973
 1973-12-02,Fortaleza,2,1,Bahia,False,False,First Round,Brasileirão Série A,1973
 1973-12-02,América-RN,0,1,Vitória,False,False,First Round,Brasileirão Série A,1973
@@ -507,7 +507,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-12-08,Corinthians,1,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-12-08,Internacional,1,1,Guarani,False,False,First Round,Brasileirão Série A,1973
 1973-12-08,Palmeiras,1,1,Santos,False,False,First Round,Brasileirão Série A,1973
-1973-12-08,Atlético-PR,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1973
+1973-12-08,Athletico-PR,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1973
 1973-12-08,Grêmio,1,0,Coritiba,False,False,First Round,Brasileirão Série A,1973
 1973-12-08,Vitória,0,0,Tiradentes,False,False,First Round,Brasileirão Série A,1973
 1973-12-08,Ceará,3,0,CRB,False,False,First Round,Brasileirão Série A,1973
@@ -537,7 +537,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-12-12,Moto Club,0,2,Goiás,False,False,First Round,Brasileirão Série A,1973
 1973-12-13,Fluminense,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
 1973-12-13,Cruzeiro,2,1,Botafogo,False,False,First Round,Brasileirão Série A,1973
-1973-12-13,Atlético-PR,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1973
+1973-12-13,Athletico-PR,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-12-13,Náutico,1,0,Comercial-MS,False,False,First Round,Brasileirão Série A,1973
 1973-12-15,Flamengo,3,2,América-GB,False,False,First Round,Brasileirão Série A,1973
 1973-12-15,América-MG,2,1,Olaria,False,False,First Round,Brasileirão Série A,1973
@@ -547,7 +547,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1973-12-16,Vasco da Gama,1,0,Botafogo,False,False,First Round,Brasileirão Série A,1973
 1973-12-16,Cruzeiro,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1973
 1973-12-16,Figueirense,1,3,Atlético-MG,False,False,First Round,Brasileirão Série A,1973
-1973-12-16,Guarani,2,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1973
+1973-12-16,Guarani,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1973
 1973-12-16,Coritiba,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,1973
 1973-12-16,Grêmio,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1973
 1973-12-16,Bahia,1,1,Ceará,False,False,First Round,Brasileirão Série A,1973

@@ -1,9 +1,9 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1963-04-24,Alianza,0,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1963
-1963-05-26,Millonarios,0,1,Alianza,False,False,Group Stage,Copa Libertadores de América,1963
-1963-06-30,Alianza,0,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,1963
+1963-04-24,Alianza Lima,0,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1963
+1963-05-26,Millonarios,0,1,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1963
+1963-06-30,Alianza Lima,0,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,1963
 1963-07-07,Millonarios,0,2,Botafogo,False,False,Group Stage,Copa Libertadores de América,1963
-1963-07-24,Botafogo,2,1,Alianza,False,False,Group Stage,Copa Libertadores de América,1963
+1963-07-24,Botafogo,2,1,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1963
 1963-06-09,Everest,0,5,Peñarol,False,False,Group Stage,Copa Libertadores de América,1963
 1963-07-07,Peñarol,9,1,Everest,False,False,Group Stage,Copa Libertadores de América,1963
 1963-04-07,Olimpia,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1963

@@ -9,19 +9,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2013-01-30,Bolívar,4,3,São Paulo,False,False,Qualifying Round,Copa Libertadores de América,2013
 2013-01-24,Deportes Tolima (Ibagué),1,0,Universidad César Vallejo,False,False,Qualifying Round,Copa Libertadores de América,2013
 2013-01-31,Universidad César Vallejo,1,1,Deportes Tolima (Ibagué),False,False,Qualifying Round,Copa Libertadores de América,2013
-2013-01-24,Defensor Sporting,0,0,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2013
-2013-01-31,Olimpia,2,0,Defensor Sporting,False,False,Qualifying Round,Copa Libertadores de América,2013
-2013-02-12,Nacional de Montevideo,2,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,2013
+2013-01-24,Defensor Sporting Club,0,0,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-01-31,Olimpia,2,0,Defensor Sporting Club,False,False,Qualifying Round,Copa Libertadores de América,2013
+2013-02-12,Nacional de Montevideo,2,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-13,Boca Juniors,1,2,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-19,Toluca,2,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2013
-2013-02-27,Barcelona,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
-2013-03-06,Toluca,1,1,Barcelona,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-27,Barcelona de Guayaquil,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-06,Toluca,1,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2013
 2013-03-07,Boca Juniors,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2013
-2013-03-13,Barcelona,0,0,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-13,Barcelona de Guayaquil,0,0,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
 2013-03-14,Nacional de Montevideo,0,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
-2013-04-03,Boca Juniors,1,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,Boca Juniors,1,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2013
 2013-04-04,Nacional de Montevideo,4,0,Toluca,False,False,Group Stage,Copa Libertadores de América,2013
-2013-04-17,Barcelona,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-17,Barcelona de Guayaquil,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2013
 2013-04-17,Toluca,3,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-14,Palmeiras,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-21,Tigre,0,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2013
@@ -36,16 +36,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2013-04-18,Libertad,3,5,Tigre,False,False,Group Stage,Copa Libertadores de América,2013
 2013-04-18,Sport,1,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-13,Atlético Mineiro,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
-2013-02-14,The Strongest,2,1,Arsenal,False,False,Group Stage,Copa Libertadores de América,2013
-2013-02-26,Arsenal,2,5,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-14,The Strongest,2,1,Arsenal de Sarandí,False,False,Group Stage,Copa Libertadores de América,2013
+2013-02-26,Arsenal de Sarandí,2,5,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-28,São Paulo,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
-2013-03-07,São Paulo,1,1,Arsenal,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-07,São Paulo,1,1,Arsenal de Sarandí,False,False,Group Stage,Copa Libertadores de América,2013
 2013-03-07,Atlético Mineiro,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
 2013-03-13,The Strongest,1,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
-2013-03-14,Arsenal,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
-2013-04-03,Atlético Mineiro,5,2,Arsenal,False,False,Group Stage,Copa Libertadores de América,2013
+2013-03-14,Arsenal de Sarandí,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-03,Atlético Mineiro,5,2,Arsenal de Sarandí,False,False,Group Stage,Copa Libertadores de América,2013
 2013-04-04,The Strongest,2,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2013
-2013-04-17,Arsenal,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
+2013-04-17,Arsenal de Sarandí,2,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2013
 2013-04-17,São Paulo,2,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-12,Emelec,1,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2013
 2013-02-13,Deportes Iquique,1,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,2013

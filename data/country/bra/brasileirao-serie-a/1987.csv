@@ -127,21 +127,21 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-12-13,Flamengo,1,0,Internacional,False,False,Final,Brasileirão Série A,1987
 1987-09-13,Bangu,1,1,Joinville,False,False,First Round,Brasileirão Série A,1987
 1987-09-13,Criciúma,1,2,Ceará,False,False,First Round,Brasileirão Série A,1987
-1987-09-13,Treze,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1987
+1987-09-13,Treze,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
 1987-09-13,CSA,0,1,Guarani,False,False,First Round,Brasileirão Série A,1987
 1987-09-16,Vitória,3,1,Joinville,False,False,First Round,Brasileirão Série A,1987
 1987-09-16,Internacional,1,0,Ceará,False,False,First Round,Brasileirão Série A,1987
-1987-09-16,Sport,1,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1987
+1987-09-16,Sport,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
 1987-09-16,Treze,1,3,Guarani,False,False,First Round,Brasileirão Série A,1987
 1987-09-17,Criciúma,2,0,Náutico,False,False,First Round,Brasileirão Série A,1987
 1987-09-19,Rio Branco-ES,0,1,CSA,False,False,First Round,Brasileirão Série A,1987
-1987-09-19,Vitória,1,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1987
+1987-09-19,Vitória,1,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Internacional,2,1,Treze,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Atlético-GO,1,0,Ceará,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Sport,2,0,Guarani,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Criciúma,1,0,Bangu,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Joinville,2,1,Náutico,False,False,First Round,Brasileirão Série A,1987
-1987-09-23,Atlético-PR,1,2,Bangu,False,False,First Round,Brasileirão Série A,1987
+1987-09-23,Athletico-PR,1,2,Bangu,False,False,First Round,Brasileirão Série A,1987
 1987-09-23,Joinville,0,0,Treze,False,False,First Round,Brasileirão Série A,1987
 1987-09-23,Atlético-GO,3,1,CSA,False,False,First Round,Brasileirão Série A,1987
 1987-09-23,Sport,3,0,Criciúma,False,False,First Round,Brasileirão Série A,1987
@@ -152,7 +152,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-09-27,Guarani,0,1,Vitória,False,False,First Round,Brasileirão Série A,1987
 1987-09-27,Joinville,0,1,Sport,False,False,First Round,Brasileirão Série A,1987
 1987-09-27,Treze,2,1,Criciúma,False,False,First Round,Brasileirão Série A,1987
-1987-09-27,Atlético-PR,1,1,CSA,False,False,First Round,Brasileirão Série A,1987
+1987-09-27,Athletico-PR,1,1,CSA,False,False,First Round,Brasileirão Série A,1987
 1987-09-30,Portuguesa-SP,1,1,Sport,False,False,First Round,Brasileirão Série A,1987
 1987-09-30,Internacional,0,0,Vitória,False,False,First Round,Brasileirão Série A,1987
 1987-09-30,Bangu,0,0,Guarani,False,False,First Round,Brasileirão Série A,1987
@@ -173,42 +173,42 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-10-11,Sport,4,0,Internacional,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Guarani,4,2,Náutico,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Vitória,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1987
-1987-10-11,Ceará,0,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1987
+1987-10-11,Ceará,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
 1987-10-13,Portuguesa-SP,1,0,Treze,False,False,First Round,Brasileirão Série A,1987
-1987-10-14,Atlético-PR,2,0,Náutico,False,False,First Round,Brasileirão Série A,1987
+1987-10-14,Athletico-PR,2,0,Náutico,False,False,First Round,Brasileirão Série A,1987
 1987-10-14,Rio Branco-ES,0,0,Vitória,False,False,First Round,Brasileirão Série A,1987
 1987-10-15,Portuguesa-SP,1,0,Bangu,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Portuguesa-SP,4,0,CSA,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Guarani,1,0,Ceará,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Vitória,0,0,Atlético-GO,False,False,First Round,Brasileirão Série A,1987
-1987-10-21,Guarani,0,2,Atlético-PR,False,False,First Round,Brasileirão Série A,1987
+1987-10-21,Guarani,0,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
 1987-10-21,Rio Branco-ES,0,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
 1987-10-24,Atlético-GO,0,2,Criciúma,False,False,Second Round,Brasileirão Série A,1987
 1987-10-25,Rio Branco-ES,0,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
 1987-10-25,Guarani,2,0,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
-1987-10-25,Joinville,1,2,Atlético-PR,False,False,Second Round,Brasileirão Série A,1987
-1987-10-28,Atlético-PR,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
+1987-10-25,Joinville,1,2,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-10-28,Athletico-PR,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Criciúma,3,0,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Internacional,1,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Joinville,0,2,Guarani,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Joinville,0,0,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Guarani,2,0,Criciúma,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Portuguesa-SP,1,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
-1987-11-01,Internacional,1,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-11-01,Internacional,1,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
 1987-11-04,Criciúma,2,0,Joinville,False,False,Second Round,Brasileirão Série A,1987
-1987-11-04,Atlético-PR,3,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
+1987-11-04,Athletico-PR,3,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
 1987-11-08,Internacional,0,0,Joinville,False,False,Second Round,Brasileirão Série A,1987
 1987-11-08,Atlético-GO,1,0,Guarani,False,False,Second Round,Brasileirão Série A,1987
-1987-11-08,Atlético-PR,1,1,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
+1987-11-08,Athletico-PR,1,1,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-11-08,Portuguesa-SP,0,0,Criciúma,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Rio Branco-ES,2,3,Guarani,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Atlético-GO,0,0,Joinville,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Portuguesa-SP,1,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
-1987-11-15,Guarani,0,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-11-15,Guarani,0,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
 1987-11-15,Criciúma,0,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
 1987-11-15,Joinville,1,0,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
 1987-11-18,Guarani,0,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
-1987-11-18,Criciúma,1,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-11-18,Criciúma,1,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
 1987-11-18,Portuguesa-SP,0,1,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-10-21,Bangu,2,0,Ceará,False,False,Second Round,Brasileirão Série A,1987
 1987-10-21,Vitória,0,0,CSA,False,False,Second Round,Brasileirão Série A,1987
@@ -232,8 +232,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-11-18,Vitória,3,1,Bangu,False,False,Second Round,Brasileirão Série A,1987
 1987-11-18,Náutico,2,1,Treze,False,False,Second Round,Brasileirão Série A,1987
 1987-11-22,Bangu,1,1,Vitória,False,False,First Round,Brasileirão Série A,1987
-1987-11-28,Atlético-PR,0,0,Guarani,False,False,Semifinal,Brasileirão Série A,1987
-1987-12-02,Guarani,0,0,Atlético-PR,False,False,Semifinal,Brasileirão Série A,1987
+1987-11-28,Athletico-PR,0,0,Guarani,False,False,Semifinal,Brasileirão Série A,1987
+1987-12-02,Guarani,0,0,Athletico-PR,False,False,Semifinal,Brasileirão Série A,1987
 1987-11-29,Bangu,3,2,Sport,False,False,Semifinal,Brasileirão Série A,1987
 1987-12-03,Sport,3,1,Bangu,False,False,Semifinal,Brasileirão Série A,1987
 1987-12-06,Guarani,2,0,Sport,False,False,Final,Brasileirão Série A,1987

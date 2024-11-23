@@ -50,8 +50,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2015-04-01,Atlético-GO,1,1,Coruripe,False,False,First Round,Copa de Brasil,2015
 2015-04-30,Coruripe,0,2,Atlético-GO,False,False,First Round,Copa de Brasil,2015
 2015-04-01,América-RN,5,1,Globo,False,False,First Round,Copa de Brasil,2015
-2015-04-02,Atlético-PR,1,1,Remo,False,False,First Round,Copa de Brasil,2015
-2015-04-16,Remo,1,1,Atlético-PR,False,False,First Round,Copa de Brasil,2015
+2015-04-02,Athletico-PR,1,1,Remo,False,False,First Round,Copa de Brasil,2015
+2015-04-16,Remo,1,1,Athletico-PR,False,False,First Round,Copa de Brasil,2015
 2015-03-04,Tupi-MG,2,0,Alecrim,False,False,First Round,Copa de Brasil,2015
 2015-04-01,Ceará,0,0,Confiança,False,False,First Round,Copa de Brasil,2015
 2015-04-15,Confiança,0,1,Ceará,False,False,First Round,Copa de Brasil,2015
@@ -97,8 +97,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2015-05-20,Cuiabá,0,0,Vasco da Gama,False,False,Second Round,Copa de Brasil,2015
 2015-05-12,Atlético-GO,2,4,América-RN,False,False,Second Round,Copa de Brasil,2015
 2015-05-20,América-RN,0,1,Atlético-GO,False,False,Second Round,Copa de Brasil,2015
-2015-04-28,Atlético-PR,0,1,Tupi-MG,False,False,Second Round,Copa de Brasil,2015
-2015-05-05,Tupi-MG,1,2,Atlético-PR,False,False,Second Round,Copa de Brasil,2015
+2015-04-28,Athletico-PR,0,1,Tupi-MG,False,False,Second Round,Copa de Brasil,2015
+2015-05-05,Tupi-MG,1,2,Athletico-PR,False,False,Second Round,Copa de Brasil,2015
 2015-05-12,Ceará,1,1,América-MG,False,False,Second Round,Copa de Brasil,2015
 2015-05-20,América-MG,0,3,Ceará,False,False,Second Round,Copa de Brasil,2015
 2015-05-13,Grêmio,3,1,CRB,False,False,Second Round,Copa de Brasil,2015

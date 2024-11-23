@@ -89,8 +89,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-04-19,Corinthians,1,1,Internacional,False,False,Fourth Round,Copa de Brasil,2017
 2017-04-13,São Paulo,0,2,Cruzeiro,False,False,Fourth Round,Copa de Brasil,2017
 2017-04-19,Cruzeiro,1,2,São Paulo,False,False,Fourth Round,Copa de Brasil,2017
-2017-05-10,Santa Cruz,0,0,Atlético-PR,False,False,Round of 16,Copa de Brasil,2017
-2017-05-31,Atlético-PR,2,0,Santa Cruz,False,False,Round of 16,Copa de Brasil,2017
+2017-05-10,Santa Cruz,0,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2017
+2017-05-31,Athletico-PR,2,0,Santa Cruz,False,False,Round of 16,Copa de Brasil,2017
 2017-05-17,Grêmio,3,1,Fluminense,False,False,Round of 16,Copa de Brasil,2017
 2017-05-31,Fluminense,0,2,Grêmio,False,False,Round of 16,Copa de Brasil,2017
 2017-05-10,Flamengo,0,0,Atlético-GO,False,False,Round of 16,Copa de Brasil,2017
@@ -109,8 +109,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-07-26,Botafogo,3,0,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2017
 2017-06-28,Flamengo,2,0,Santos,False,False,Quarterfinal,Copa de Brasil,2017
 2017-07-26,Santos,4,2,Flamengo,False,False,Quarterfinal,Copa de Brasil,2017
-2017-06-28,Grêmio,4,0,Atlético-PR,False,False,Quarterfinal,Copa de Brasil,2017
-2017-07-27,Atlético-PR,2,3,Grêmio,False,False,Quarterfinal,Copa de Brasil,2017
+2017-06-28,Grêmio,4,0,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2017
+2017-07-27,Athletico-PR,2,3,Grêmio,False,False,Quarterfinal,Copa de Brasil,2017
 2017-06-28,Palmeiras,3,3,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,2017
 2017-07-26,Cruzeiro,1,1,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2017
 2017-08-16,Botafogo,0,0,Flamengo,False,False,Semifinal,Copa de Brasil,2017

@@ -16,7 +16,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-03-04,Itumbiara,0,2,Corinthians,False,False,First Round,Copa de Brasil,2009
 2009-02-18,Misto-MS,1,1,Campinense,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Campinense,1,1,Misto-MS,False,False,First Round,Copa de Brasil,2009
-2009-03-04,Tocantins-TO,0,3,Atlético-PR,False,False,First Round,Copa de Brasil,2009
+2009-03-04,Tocantins-TO,0,3,Athletico-PR,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Fast Clube,1,1,ABC,False,False,First Round,Copa de Brasil,2009
 2009-03-19,ABC,4,0,Fast Clube,False,False,First Round,Copa de Brasil,2009
 2009-02-18,Nacional-PB,0,1,Fluminense,False,False,First Round,Copa de Brasil,2009
@@ -63,8 +63,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-04-08,Juventude,1,2,Vitória,False,False,Second Round,Copa de Brasil,2009
 2009-04-15,Vitória,1,1,Juventude,False,False,Second Round,Copa de Brasil,2009
 2009-04-15,Misto-MS,0,2,Corinthians,False,False,Second Round,Copa de Brasil,2009
-2009-04-08,ABC,2,2,Atlético-PR,False,False,Second Round,Copa de Brasil,2009
-2009-04-22,Atlético-PR,3,1,ABC,False,False,Second Round,Copa de Brasil,2009
+2009-04-08,ABC,2,2,Athletico-PR,False,False,Second Round,Copa de Brasil,2009
+2009-04-22,Athletico-PR,3,1,ABC,False,False,Second Round,Copa de Brasil,2009
 2009-04-16,Águia de Marabá,2,1,Fluminense,False,False,Second Round,Copa de Brasil,2009
 2009-04-22,Fluminense,3,0,Águia de Marabá,False,False,Second Round,Copa de Brasil,2009
 2009-04-08,Brasiliense,0,1,Goiás,False,False,Second Round,Copa de Brasil,2009
@@ -88,8 +88,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-05-06,ICASA,1,4,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2009
 2009-04-29,Vitória,3,0,Atlético-MG,False,False,Round of 16,Copa de Brasil,2009
 2009-05-06,Atlético-MG,3,0,Vitória,False,False,Round of 16,Copa de Brasil,2009
-2009-04-29,Atlético-PR,3,2,Corinthians,False,False,Round of 16,Copa de Brasil,2009
-2009-05-06,Corinthians,2,0,Atlético-PR,False,False,Round of 16,Copa de Brasil,2009
+2009-04-29,Athletico-PR,3,2,Corinthians,False,False,Round of 16,Copa de Brasil,2009
+2009-05-06,Corinthians,2,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2009
 2009-04-30,Goiás,2,2,Fluminense,False,False,Round of 16,Copa de Brasil,2009
 2009-05-07,Fluminense,1,1,Goiás,False,False,Round of 16,Copa de Brasil,2009
 2009-04-29,Americano,0,0,Ponte Preta,False,False,Round of 16,Copa de Brasil,2009

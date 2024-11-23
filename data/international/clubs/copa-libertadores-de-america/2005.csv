@@ -1,28 +1,28 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2005-02-01,Quilmes (Buenos Aires),0,0,Colo Colo,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-08,Colo Colo,2,2,Quilmes (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2005
-2005-02-01,Mineros de Guayana,0,2,América (Cali),False,False,Qualifying Round,Copa Libertadores de América,2005
-2005-02-08,América (Cali),3,1,Mineros de Guayana,False,False,Qualifying Round,Copa Libertadores de América,2005
+2005-02-01,Mineros de Guayana,0,2,América de Cali,False,False,Qualifying Round,Copa Libertadores de América,2005
+2005-02-08,América de Cali,3,1,Mineros de Guayana,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-02,Guadalajara,3,1,Cienciano,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-09,Cienciano,1,5,Guadalajara,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-02,Tacuary (Asunción),2,2,Palmeiras,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-09,Palmeiras,2,0,Tacuary (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2005
-2005-02-03,Atl.Junior (Barranquilla),2,1,Oriente Petrolero,False,False,Qualifying Round,Copa Libertadores de América,2005
-2005-02-10,Oriente Petrolero,1,3,Atl.Junior (Barranquilla),False,False,Qualifying Round,Copa Libertadores de América,2005
+2005-02-03,Junior de Barranquilla,2,1,Oriente Petrolero,False,False,Qualifying Round,Copa Libertadores de América,2005
+2005-02-10,Oriente Petrolero,1,3,Junior de Barranquilla,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-03,LDU (Quito),3,0,Peñarol,False,False,Qualifying Round,Copa Libertadores de América,2005
 2005-02-10,Peñarol,4,1,LDU (Quito),False,False,Qualifying Round,Copa Libertadores de América,2005
-2005-02-15,Ind. Medellín,2,2,Atlético Paranaense,False,False,Group Stage,Copa Libertadores de América,2005
-2005-02-17,Libertad,1,2,América (Cali),False,False,Group Stage,Copa Libertadores de América,2005
-2005-02-22,América (Cali),1,0,Ind. Medellín,False,False,Group Stage,Copa Libertadores de América,2005
-2005-03-01,Atlético Paranaense,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2005
+2005-02-15,Ind. Medellín,2,2,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2005
+2005-02-17,Libertad,1,2,América de Cali,False,False,Group Stage,Copa Libertadores de América,2005
+2005-02-22,América de Cali,1,0,Ind. Medellín,False,False,Group Stage,Copa Libertadores de América,2005
+2005-03-01,Athletico-PR,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2005
 2005-03-08,Libertad,3,2,Ind. Medellín,False,False,Group Stage,Copa Libertadores de América,2005
-2005-03-10,América (Cali),3,1,Atlético Paranaense,False,False,Group Stage,Copa Libertadores de América,2005
+2005-03-10,América de Cali,3,1,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2005
 2005-03-17,Ind. Medellín,4,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2005
-2005-04-14,Atlético Paranaense,2,1,América (Cali),False,False,Group Stage,Copa Libertadores de América,2005
-2005-04-20,Libertad,1,2,Atlético Paranaense,False,False,Group Stage,Copa Libertadores de América,2005
-2005-04-26,Ind. Medellín,2,0,América (Cali),False,False,Group Stage,Copa Libertadores de América,2005
-2005-05-10,Atlético Paranaense,0,4,Ind. Medellín,False,False,Group Stage,Copa Libertadores de América,2005
-2005-05-10,América (Cali),0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2005
+2005-04-14,Athletico-PR,2,1,América de Cali,False,False,Group Stage,Copa Libertadores de América,2005
+2005-04-20,Libertad,1,2,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2005
+2005-04-26,Ind. Medellín,2,0,América de Cali,False,False,Group Stage,Copa Libertadores de América,2005
+2005-05-10,Athletico-PR,0,4,Ind. Medellín,False,False,Group Stage,Copa Libertadores de América,2005
+2005-05-10,América de Cali,0,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2005
 2005-02-16,Bolívar,4,3,Santos,False,False,Group Stage,Copa Libertadores de América,2005
 2005-02-24,Danubio,3,0,LDU (Quito),False,False,Group Stage,Copa Libertadores de América,2005
 2005-03-03,Santos,3,2,Danubio,False,False,Group Stage,Copa Libertadores de América,2005
@@ -59,18 +59,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2005-05-04,Deportivo Táchira,1,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2005
 2005-05-12,Santo Andre,6,0,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2005
 2005-05-12,Palmeiras,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2005
-2005-02-15,Nacional de Montevideo,0,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2005
+2005-02-15,Nacional de Montevideo,0,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2005
 2005-02-23,Olmedo,2,3,River Plate,False,False,Group Stage,Copa Libertadores de América,2005
-2005-03-01,Atlético Junior,2,0,Olmedo,False,False,Group Stage,Copa Libertadores de América,2005
+2005-03-01,Junior de Barranquilla,2,0,Olmedo,False,False,Group Stage,Copa Libertadores de América,2005
 2005-03-03,River Plate,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2005
 2005-03-16,Nacional de Montevideo,1,2,Olmedo,False,False,Group Stage,Copa Libertadores de América,2005
-2005-03-17,Atlético Junior,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2005
-2005-04-07,River Plate,2,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2005
+2005-03-17,Junior de Barranquilla,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2005
+2005-04-07,River Plate,2,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2005
 2005-04-07,Olmedo,2,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2005
-2005-04-19,Olmedo,3,1,Atlético Junior,False,False,Group Stage,Copa Libertadores de América,2005
+2005-04-19,Olmedo,3,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2005
 2005-04-21,Nacional de Montevideo,1,3,River Plate,False,False,Group Stage,Copa Libertadores de América,2005
 2005-05-03,River Plate,1,1,Olmedo,False,False,Group Stage,Copa Libertadores de América,2005
-2005-05-03,Atlético Junior,3,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2005
+2005-05-03,Junior de Barranquilla,3,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2005
 2005-02-15,Alianza Lima,0,0,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2005
 2005-02-17,Caracas,1,1,Banfield,False,False,Group Stage,Copa Libertadores de América,2005
 2005-02-23,Banfield,3,2,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,2005
@@ -109,8 +109,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2005-05-04,Pachuca,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,2005
 2005-05-17,LDU (Quito),2,1,River Plate,False,False,Round of 16,Copa Libertadores de América,2005
 2005-05-26,River Plate,4,2,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2005
-2005-05-17,Atlético Junior,3,3,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2005
-2005-05-26,Boca Juniors,4,0,Atlético Junior,False,False,Round of 16,Copa Libertadores de América,2005
+2005-05-17,Junior de Barranquilla,3,3,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2005
+2005-05-26,Boca Juniors,4,0,Junior de Barranquilla,False,False,Round of 16,Copa Libertadores de América,2005
 2005-05-18,Banfield,3,0,Independiente Medellín,False,False,Round of 16,Copa Libertadores de América,2005
 2005-05-24,Independiente Medellín,0,2,Banfield,False,False,Round of 16,Copa Libertadores de América,2005
 2005-05-18,Pachuca,1,1,Guadalajara,False,False,Round of 16,Copa Libertadores de América,2005
@@ -121,19 +121,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2005-05-25,Santos,3,0,Universidad de Chile,False,False,Round of 16,Copa Libertadores de América,2005
 2005-05-19,Once Caldas,1,1,Tigres UANL,False,False,Round of 16,Copa Libertadores de América,2005
 2005-05-26,Tigres UANL,2,1,Once Caldas,False,False,Round of 16,Copa Libertadores de América,2005
-2005-05-19,Atlético Paranaense,2,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2005
-2005-05-26,Cerro Porteño,2,1,Atlético Paranaense,False,False,Round of 16,Copa Libertadores de América,2005
+2005-05-19,Athletico-PR,2,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2005
+2005-05-26,Cerro Porteño,2,1,Athletico-PR,False,False,Round of 16,Copa Libertadores de América,2005
 2005-06-01,São Paulo,4,0,Tigres UANL,False,False,Quarterfinal,Copa Libertadores de América,2005
 2005-06-15,Tigres UANL,2,1,São Paulo,False,False,Quarterfinal,Copa Libertadores de América,2005
-2005-06-01,Atlético Paranaense,3,2,Santos,False,False,Quarterfinal,Copa Libertadores de América,2005
-2005-06-15,Santos,0,2,Atlético Paranaense,False,False,Quarterfinal,Copa Libertadores de América,2005
+2005-06-01,Athletico-PR,3,2,Santos,False,False,Quarterfinal,Copa Libertadores de América,2005
+2005-06-15,Santos,0,2,Athletico-PR,False,False,Quarterfinal,Copa Libertadores de América,2005
 2005-06-02,Banfield,1,1,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2005
 2005-06-16,River Plate,3,2,Banfield,False,False,Quarterfinal,Copa Libertadores de América,2005
 2005-06-02,Guadalajara,4,0,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2005
 2005-06-14,Boca Juniors,0,0,Guadalajara,False,False,Quarterfinal,Copa Libertadores de América,2005
 2005-06-22,São Paulo,2,0,River Plate,False,False,Semifinal,Copa Libertadores de América,2005
 2005-06-29,River Plate,2,3,São Paulo,False,False,Semifinal,Copa Libertadores de América,2005
-2005-06-23,Atlético Paranaense,3,0,Guadalajara,False,False,Semifinal,Copa Libertadores de América,2005
-2005-06-30,Guadalajara,2,2,Atlético Paranaense,False,False,Semifinal,Copa Libertadores de América,2005
-2005-07-06,Atlético Paranaense,1,1,São Paulo,False,False,Final,Copa Libertadores de América,2005
-2005-07-14,São Paulo,4,0,Atlético Paranaense,False,False,Final,Copa Libertadores de América,2005
+2005-06-23,Athletico-PR,3,0,Guadalajara,False,False,Semifinal,Copa Libertadores de América,2005
+2005-06-30,Guadalajara,2,2,Athletico-PR,False,False,Semifinal,Copa Libertadores de América,2005
+2005-07-06,Athletico-PR,1,1,São Paulo,False,False,Final,Copa Libertadores de América,2005
+2005-07-14,São Paulo,4,0,Athletico-PR,False,False,Final,Copa Libertadores de América,2005

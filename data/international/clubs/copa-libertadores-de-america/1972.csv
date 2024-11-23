@@ -1,27 +1,27 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1972-02-16,Rosario Central,2,2,Independiente,False,False,Group Stage,Copa Libertadores de América,1972
-1972-02-16,Independiente Santa Fe,1,1,Atl. Nacional,False,False,Group Stage,Copa Libertadores de América,1972
+1972-02-16,Independiente Santa Fe,1,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-22,Independiente Sta. Fe,0,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-22,Atlético Nacional,1,1,Independiente,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-24,Independiente Santa Fe,2,4,Independiente,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-24,Atlético Nacional,0,1,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-09,Atl. Nacional,0,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-09,Atlético Nacional,0,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-09,Independiente,2,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-21,Independiente,2,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-21,Rosario Central,3,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-23,Rosario Central,2,0,Independiente Sta. Fe,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-23,Independiente,2,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1972
-1972-02-27,Barcelona,2,1,América,False,False,Group Stage,Copa Libertadores de América,1972
+1972-02-27,Barcelona de Guayaquil,2,1,América,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-27,Oriente Petrolero,5,0,Chaco Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-05,Chaco Petrolero,1,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-05,América,0,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-12,Chaco Petrolero,1,2,Barcelona,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-05,América,0,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-12,Chaco Petrolero,1,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-12,Oriente Petrolero,4,2,América,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-15,Oriente Petrolero,0,0,Barcelona,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-15,Oriente Petrolero,0,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-15,Chaco Petrolero,1,2,América,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-22,Barcelona,3,0,Chaco Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-22,Barcelona de Guayaquil,3,0,Chaco Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-22,América,3,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-26,Barcelona,1,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-26,Barcelona de Guayaquil,1,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-26,América,1,0,Chaco Petrolero,False,False,Group Stage,Copa Libertadores de América,1972
 1972-01-30,Atlético Mineiro,2,2,São Paulo,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-20,Olimpia,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1972
@@ -35,17 +35,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1972-03-19,Cerro Porteño,1,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-23,Cerro Porteño,3,2,São Paulo,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-26,Olimpia,0,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,1972
-1972-02-25,Universitario,2,1,Alianza,False,False,Group Stage,Copa Libertadores de América,1972
+1972-02-25,Universitario,2,1,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-25,Unión San Felipe,3,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-01,Universidad de Chile,2,3,Alianza,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-04,Unión San Felipe,0,0,Alianza,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-01,Universidad de Chile,2,3,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-04,Unión San Felipe,0,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-07,Universidad de Chile,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-11,Unión San Felipe,0,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-14,Alianza,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-14,Alianza Lima,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-15,Universidad de Chile,2,1,Unión San Felipe,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-18,Alianza,1,0,Unión San Felipe,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-18,Alianza Lima,1,0,Unión San Felipe,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-21,Universitario,3,1,Unión San Felipe,False,False,Group Stage,Copa Libertadores de América,1972
-1972-03-24,Alianza,3,4,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1972
+1972-03-24,Alianza Lima,3,4,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1972
 1972-03-26,Universitario,2,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-13,Valencia,1,1,Deportivo Italia,False,False,Group Stage,Copa Libertadores de América,1972
 1972-02-19,Deportivo Italia,0,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1972
@@ -59,10 +59,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1972-04-25,Nacional de Montevideo,3,3,Universitario,False,False,Semifinal,Copa Libertadores de América,1972
 1972-04-29,Peñarol,1,1,Universitario,False,False,Semifinal,Copa Libertadores de América,1972
 1972-05-03,Peñarol,0,3,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1972
-1972-04-06,Barcelona,1,1,Independiente,False,False,Semifinal,Copa Libertadores de América,1972
-1972-04-12,Barcelona,0,0,São Paulo,False,False,Semifinal,Copa Libertadores de América,1972
-1972-04-18,Independiente,1,0,Barcelona,False,False,Semifinal,Copa Libertadores de América,1972
-1972-04-21,São Paulo,1,1,Barcelona,False,False,Semifinal,Copa Libertadores de América,1972
+1972-04-06,Barcelona de Guayaquil,1,1,Independiente,False,False,Semifinal,Copa Libertadores de América,1972
+1972-04-12,Barcelona de Guayaquil,0,0,São Paulo,False,False,Semifinal,Copa Libertadores de América,1972
+1972-04-18,Independiente,1,0,Barcelona de Guayaquil,False,False,Semifinal,Copa Libertadores de América,1972
+1972-04-21,São Paulo,1,1,Barcelona de Guayaquil,False,False,Semifinal,Copa Libertadores de América,1972
 1972-04-27,São Paulo,1,0,Independiente,False,False,Semifinal,Copa Libertadores de América,1972
 1972-05-04,Independiente,2,0,São Paulo,False,False,Semifinal,Copa Libertadores de América,1972
 1972-05-17,Universitario,0,0,Independiente,False,False,Final,Copa Libertadores de América,1972

@@ -55,17 +55,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-10-05,Coritiba,1,1,Sobradinho,False,False,First Round,Brasileirão Série A,1986
 1986-10-05,Sampaio Corrêa-MA,2,2,Remo,False,False,First Round,Brasileirão Série A,1986
 1986-08-31,Corinthians,3,0,Goiás,False,False,First Round,Brasileirão Série A,1986
-1986-08-31,Joinville,2,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1986
+1986-08-31,Joinville,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1986
 1986-08-31,Botafogo-PB,0,1,América-RJ,False,False,First Round,Brasileirão Série A,1986
 1986-08-31,Sergipe,0,4,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1986
 1986-09-02,Flamengo,4,1,Paysandu,False,False,First Round,Brasileirão Série A,1986
-1986-09-02,Grêmio,2,1,Atlético-PR,False,False,First Round,Brasileirão Série A,1986
+1986-09-02,Grêmio,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1986
 1986-09-02,Botafogo-PB,1,4,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1986
 1986-09-02,Sergipe,1,0,América-RJ,False,False,First Round,Brasileirão Série A,1986
 1986-09-04,Corinthians,1,0,Paysandu,False,False,First Round,Brasileirão Série A,1986
 1986-09-04,Flamengo,0,0,Goiás,False,False,First Round,Brasileirão Série A,1986
 1986-09-07,América-RJ,0,2,Flamengo,False,False,First Round,Brasileirão Série A,1986
-1986-09-07,Atlético-PR,0,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1986
+1986-09-07,Athletico-PR,0,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1986
 1986-09-07,Goiás,0,0,Joinville,False,False,First Round,Brasileirão Série A,1986
 1986-09-07,Paysandu,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1986
 1986-09-07,Ponte Preta-SP,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1986
@@ -73,39 +73,39 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-09-11,Ponte Preta-SP,0,1,Flamengo,False,False,First Round,Brasileirão Série A,1986
 1986-09-11,América-RJ,0,0,Corinthians,False,False,First Round,Brasileirão Série A,1986
 1986-09-11,Paysandu,1,1,Joinville,False,False,First Round,Brasileirão Série A,1986
-1986-09-11,Atlético-PR,1,0,Sergipe,False,False,First Round,Brasileirão Série A,1986
+1986-09-11,Athletico-PR,1,0,Sergipe,False,False,First Round,Brasileirão Série A,1986
 1986-09-14,Corinthians,6,0,Sergipe,False,False,First Round,Brasileirão Série A,1986
 1986-09-14,Grêmio,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1986
-1986-09-14,Goiás,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1986
+1986-09-14,Goiás,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1986
 1986-09-14,Botafogo-PB,3,2,Joinville,False,False,First Round,Brasileirão Série A,1986
 1986-09-14,Ponte Preta-SP,1,0,Paysandu,False,False,First Round,Brasileirão Série A,1986
 1986-09-17,Flamengo,1,0,Sergipe,False,False,First Round,Brasileirão Série A,1986
 1986-09-17,Paysandu,0,1,América-RJ,False,False,First Round,Brasileirão Série A,1986
 1986-09-18,Grêmio,5,2,Botafogo-PB,False,False,First Round,Brasileirão Série A,1986
-1986-09-18,Atlético-PR,4,0,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1986
+1986-09-18,Athletico-PR,4,0,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1986
 1986-09-18,Joinville,1,0,Corinthians,False,False,First Round,Brasileirão Série A,1986
 1986-09-21,América-RJ,3,1,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1986
 1986-09-21,Flamengo,2,3,Corinthians,False,False,First Round,Brasileirão Série A,1986
 1986-09-21,Grêmio,5,1,Joinville,False,False,First Round,Brasileirão Série A,1986
 1986-09-21,Paysandu,1,2,Goiás,False,False,First Round,Brasileirão Série A,1986
 1986-09-22,Sergipe,1,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1986
-1986-09-24,América-RJ,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1986
+1986-09-24,América-RJ,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1986
 1986-09-24,Botafogo-PB,0,1,Corinthians,False,False,First Round,Brasileirão Série A,1986
 1986-09-24,Joinville,1,2,Flamengo,False,False,First Round,Brasileirão Série A,1986
 1986-09-25,Ponte Preta-SP,1,0,Goiás,False,False,First Round,Brasileirão Série A,1986
 1986-09-25,Sergipe,0,0,Grêmio,False,False,First Round,Brasileirão Série A,1986
-1986-09-28,Atlético-PR,4,0,Paysandu,False,False,First Round,Brasileirão Série A,1986
+1986-09-28,Athletico-PR,4,0,Paysandu,False,False,First Round,Brasileirão Série A,1986
 1986-09-28,Goiás,3,2,América-RJ,False,False,First Round,Brasileirão Série A,1986
 1986-09-28,Corinthians,1,2,Grêmio,False,False,First Round,Brasileirão Série A,1986
 1986-09-28,Flamengo,2,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1986
 1986-09-29,Joinville,1,1,Sergipe,False,False,First Round,Brasileirão Série A,1986
-1986-10-01,Corinthians,0,0,Atlético-PR,False,False,First Round,Brasileirão Série A,1986
+1986-10-01,Corinthians,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1986
 1986-10-01,Grêmio,0,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,1986
 1986-10-01,Joinville,4,1,América-RJ,False,False,First Round,Brasileirão Série A,1986
 1986-10-01,Botafogo-PB,1,0,Goiás,False,False,First Round,Brasileirão Série A,1986
 1986-10-03,Sergipe,2,1,Paysandu,False,False,First Round,Brasileirão Série A,1986
 1986-10-05,América-RJ,2,0,Grêmio,False,False,First Round,Brasileirão Série A,1986
-1986-10-05,Atlético-PR,2,1,Flamengo,False,False,First Round,Brasileirão Série A,1986
+1986-10-05,Athletico-PR,2,1,Flamengo,False,False,First Round,Brasileirão Série A,1986
 1986-10-05,Goiás,2,0,Sergipe,False,False,First Round,Brasileirão Série A,1986
 1986-10-05,Ponte Preta-SP,4,1,Joinville,False,False,First Round,Brasileirão Série A,1986
 1986-10-08,Botafogo-PB,2,0,Paysandu,False,False,First Round,Brasileirão Série A,1986
@@ -506,31 +506,31 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-01-28,Vitória,2,1,Fluminense,False,False,Second Round,Brasileirão Série A,1986
 1986-01-28,Grêmio,3,0,Central,False,False,Second Round,Brasileirão Série A,1986
 1986-10-12,Cruzeiro,5,1,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
-1986-10-12,Bahia,0,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
-1986-10-16,Atlético-PR,1,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
+1986-10-12,Bahia,0,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-10-16,Athletico-PR,1,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-10-16,Bahia,2,0,CSA,False,False,Second Round,Brasileirão Série A,1986
 1986-10-19,Bahia,1,0,Sport,False,False,Second Round,Brasileirão Série A,1986
-1986-10-19,Internacional-SP,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-10-19,Internacional-SP,1,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-10-19,Portuguesa-SP,0,0,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-10-22,Sport,1,2,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
-1986-10-22,CSA,0,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-10-22,CSA,0,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-10-23,Internacional-SP,1,1,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-10-23,Cruzeiro,3,1,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
 1986-10-26,Bahia,1,0,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-10-26,Sport,3,2,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-10-26,Portuguesa-SP,0,0,CSA,False,False,Second Round,Brasileirão Série A,1986
-1986-10-26,Atlético-PR,2,1,Náutico,False,False,Second Round,Brasileirão Série A,1986
+1986-10-26,Athletico-PR,2,1,Náutico,False,False,Second Round,Brasileirão Série A,1986
 1986-10-29,Comercial-MS,1,2,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-10-29,Portuguesa-SP,4,0,Náutico,False,False,Second Round,Brasileirão Série A,1986
 1986-10-29,Cruzeiro,0,0,Sport,False,False,Second Round,Brasileirão Série A,1986
 1986-10-29,CSA,1,1,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-11-01,Portuguesa-SP,2,0,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-11-01,Náutico,3,1,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
-1986-11-02,Sport,1,1,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-11-02,Sport,1,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-11-02,Cruzeiro,2,0,CSA,False,False,Second Round,Brasileirão Série A,1986
 1986-11-05,Náutico,1,1,CSA,False,False,Second Round,Brasileirão Série A,1986
 1986-11-05,Comercial-MS,1,0,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
-1986-11-09,Atlético-PR,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
+1986-11-09,Athletico-PR,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-11-09,CSA,1,0,Sport,False,False,Second Round,Brasileirão Série A,1986
 1986-11-09,Náutico,1,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-11-09,Comercial-MS,0,0,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
@@ -538,34 +538,34 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-11-12,Comercial-MS,2,1,Sport,False,False,Second Round,Brasileirão Série A,1986
 1986-11-16,Sport,0,2,Náutico,False,False,Second Round,Brasileirão Série A,1986
 1986-11-16,Internacional-SP,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
-1986-11-16,Atlético-PR,1,0,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
+1986-11-16,Athletico-PR,1,0,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
 1986-11-19,CSA,0,0,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
 1986-11-20,Náutico,0,1,Bahia,False,False,Second Round,Brasileirão Série A,1986
-1986-11-23,Atlético-PR,3,1,Bahia,False,False,Second Round,Brasileirão Série A,1986
+1986-11-23,Athletico-PR,3,1,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-11-23,Comercial-MS,0,1,Náutico,False,False,Second Round,Brasileirão Série A,1986
 1986-11-23,Sport,2,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-11-23,CSA,1,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-11-26,Cruzeiro,2,0,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-11-26,Internacional-SP,2,1,Sport,False,False,Second Round,Brasileirão Série A,1986
 1986-11-26,Comercial-MS,0,3,CSA,False,False,Second Round,Brasileirão Série A,1986
-1986-11-27,Náutico,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-11-27,Náutico,1,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-11-30,Náutico,1,0,Sport,False,False,Second Round,Brasileirão Série A,1986
 1986-11-30,Portuguesa-SP,3,2,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
-1986-11-30,Cruzeiro,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-11-30,Cruzeiro,1,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-11-30,Bahia,2,1,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
-1986-12-03,Atlético-PR,2,0,Sport,False,False,Second Round,Brasileirão Série A,1986
+1986-12-03,Athletico-PR,2,0,Sport,False,False,Second Round,Brasileirão Série A,1986
 1986-12-03,Comercial-MS,3,3,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-12-03,CSA,1,0,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-12-04,Portuguesa-SP,0,0,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-12-07,Internacional-SP,1,0,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
 1986-12-07,Sport,3,1,CSA,False,False,Second Round,Brasileirão Série A,1986
-1986-12-07,Comercial-MS,0,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-12-07,Comercial-MS,0,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-12-07,Bahia,1,0,Náutico,False,False,Second Round,Brasileirão Série A,1986
-1986-12-10,Atlético-PR,2,2,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
+1986-12-10,Athletico-PR,2,2,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-12-10,CSA,2,1,Náutico,False,False,Second Round,Brasileirão Série A,1986
 1986-12-10,Bahia,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-12-11,Sport,1,1,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
-1986-12-14,Atlético-PR,2,1,CSA,False,False,Second Round,Brasileirão Série A,1986
+1986-12-14,Athletico-PR,2,1,CSA,False,False,Second Round,Brasileirão Série A,1986
 1986-12-14,Cruzeiro,2,1,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-12-14,Internacional-SP,2,0,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
 1986-12-14,Náutico,0,2,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1986
@@ -573,7 +573,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-01-25,Náutico,0,1,Internacional-SP,False,False,Second Round,Brasileirão Série A,1986
 1986-01-25,Bahia,3,1,Comercial-MS,False,False,Second Round,Brasileirão Série A,1986
 1986-01-25,CSA,0,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1986
-1986-01-28,Portuguesa-SP,1,0,Atlético-PR,False,False,Second Round,Brasileirão Série A,1986
+1986-01-28,Portuguesa-SP,1,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1986
 1986-01-28,Cruzeiro,1,0,Náutico,False,False,Second Round,Brasileirão Série A,1986
 1986-01-28,Sport,0,1,Bahia,False,False,Second Round,Brasileirão Série A,1986
 1986-01-28,Internacional-SP,2,0,CSA,False,False,Second Round,Brasileirão Série A,1986

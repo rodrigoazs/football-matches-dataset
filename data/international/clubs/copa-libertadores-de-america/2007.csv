@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2007-01-24,América (Cd. de México),5,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2007
-2007-01-31,Sport,2,1,América (Cd. de México),False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-24,Club América,5,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-31,Sport,2,1,Club América,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-01-30,Vélez Sarsfield,3,0,Danubio,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-02-06,Danubio,1,2,Vélez Sarsfield,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-01-30,Deportivo Táchira,1,2,Deportes Tolima,False,False,Qualifying Round,Copa Libertadores de América,2007
@@ -95,24 +95,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-12,Bolívar,0,2,Toluca,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-26,Toluca,3,0,Cienciano,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-26,Boca Juniors,7,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2007
-2007-02-13,Defensor Sporting,3,0,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-13,Defensor Sporting Club,3,0,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-21,Deportivo Pasto,0,1,Santos,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-01,Santos,1,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-01,Santos,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-06,Gimnasia y Esgrima,3,2,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-14,Santos,3,0,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-15,Deportivo Pasto,1,2,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-15,Deportivo Pasto,1,2,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-22,Gimnasia y Esgrima,1,2,Santos,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-28,Defensor Sporting,3,0,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-05,Defensor Sporting,0,2,Santos,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-28,Defensor Sporting Club,3,0,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-05,Defensor Sporting Club,0,2,Santos,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-05,Deportivo Pasto,0,2,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-19,Gimnasia y Esgrima,3,0,Defensor Sporting,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-19,Gimnasia y Esgrima,3,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-19,Santos,3,0,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
-2007-05-02,América (Cd. de México),3,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-08,Colo Colo,2,1,América (Cd. de México),False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,Club América,3,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-08,Colo Colo,2,1,Club América,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-02,São Paulo,1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-09,Grêmio,2,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-02,Defensor Sporting,3,0,Flamengo,False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-09,Flamengo,2,0,Defensor Sporting,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,Defensor Sporting Club,3,0,Flamengo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-09,Flamengo,2,0,Defensor Sporting Club,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-02,Boca Juniors,3,0,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-09,Vélez Sarsfield,3,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-02,Caracas,2,2,Santos,False,False,Round of 16,Copa Libertadores de América,2007
@@ -125,10 +125,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-05-10,Necaxa,0,1,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-15,Cúcuta Deportivo,2,0,Nacional de Montevideo,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-22,Nacional de Montevideo,2,2,Cúcuta Deportivo,False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-16,América (Cd. de México),0,0,Santos,False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-23,Santos,2,1,América (Cd. de México),False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-16,Defensor Sporting,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-23,Grêmio,2,0,Defensor Sporting,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-16,Club América,0,0,Santos,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-23,Santos,2,1,Club América,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-16,Defensor Sporting Club,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-23,Grêmio,2,0,Defensor Sporting Club,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-17,Boca Juniors,1,1,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-24,Libertad (Asunción),0,2,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-30,Grêmio,2,0,Santos,False,False,Semifinal,Copa Libertadores de América,2007

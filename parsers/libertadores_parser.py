@@ -62,270 +62,49 @@ def fix_name(name):
         "Nacional (M.)": "Nacional de Montevideo",
         "Nacional (Montevideo)": "Nacional de Montevideo",
         "Nacional": "Nacional de Montevideo",
+        "Alianza": "Alianza Lima",
+        "Alianza (Lima)": "Alianza Lima",
+        "América (Cali)": "América de Cali",
+        "América (Cd. de México)": "Club América",
+        "América (Cdad. De México)": "Club América",
+        "América (Cdad. de México)": "Club América",
+        "América Mineiro": "América-MG",
+        "Argentinos Jrs.": "Argentinos Juniors",
+        "Argentino Juniors": "Argentinos Juniors",
+        "Arsenal": "Arsenal de Sarandí",
+        "Arsenal (Buenos Aires)": "Arsenal de Sarandí",
+        "Ath. Paranaense (Curitiba": "Athletico-PR",
+        "Athl. Paranaense": "Athletico-PR",
+        "Athletico Paranaense": "Athletico-PR",
+        "Atl. Paranaense": "Athletico-PR",
+        "Atl. Colegiales": "Atlético Colegiales",
+        "Atlético Junior": "Junior de Barranquilla",
+        "Atl. Junior": "Junior de Barranquilla",
+        "Atl. Junior (Barranquilla": "Junior de Barranquilla",
+        "Atl.Junior (Barranquilla)": "Junior de Barranquilla",
+        "Atl. Mineiro": "Atlético-MG",
+        "Atl. Nacional": "Atlético Nacional",
+        "Atl. Nacional (Medellín)": "Atlético Nacional",
+        "Atl. Tucumán (San Miguel)": "Atlético Tucumán",
+        "Atlas (Guadalajara)": "Atlas",
+        "Atlético": "Atlético San Cristóbal",
+        "Atlético Paranaense": "Athletico-PR",
+        "Barcelona": "Barcelona de Guayaquil",
+        "Barcelona (Guayaquil)": "Barcelona de Guayaquil",
+        "Barcelona SC (Quito)": "Barcelona de Guayaquil",
+        "Cerro (Montevideo)": "Cerro",
+        "Cerro Largo (Melo)": "Cerro Largo",
+        "Cerro Porteño (Asunción)": "Cerro Porteño",
+        "Col. San Agustín": "San Agustín",
+        "Colón (Santa Fe)": "Colón",
+        "Defensor Sp. (Montevideo)": "Defensor Sporting Club",
+        "Defensor Sporting": "Defensor Sporting Club",
+        "Dep. Concepción": "Deportes Concepción",
     }
     for key, value in mapping.items():
         if name == key:
             return value
-    
-    # Barcelona SC (Quito)
-    # Cerro
-    # Cerro (Montevideo)
-    # Cerro Largo (Melo)
-    # Cerro Porteño
-    # Cerro Porteño (Asunción)
-    # Chaco Petrolero
 
-    # Defensor
-    # Defensor Arica
-    # Defensor Sp. (Montevideo)
-    # Defensor Sporting
-
-    # Dep. Concepción
-    # Dep. Indep. Medellín
-    # Dep. La Guaira
-    # Dep. Petare (Caracas)
-    # Dep. Quito
-    # Deportes Concepción
-    # Deportes Iquique
-
-    # Deportes Tolima
-    # Deportes Tolima (Ibagué)
-    # Deportivo Anzoátegui
-    # Deportivo Binacional
-    # Deportivo Cali
-    # Deportivo Canarias
-    # Deportivo Capiatá
-    # Deportivo Cuenca
-    # Deportivo Galicia
-    # Deportivo ItalChacao
-    # Deportivo Italia
-    # Deportivo La Guaira
-    # Deportivo Lara
-    # Deportivo Municipal
-    # Deportivo Municipal (Lima
-    # Deportivo Pasto
-    # Deportivo Portugués
-    # Deportivo Quito
-    # Deportivo Táchira
-    # EC Bahia
-    # El Nacional
-    # El Nacional (Quito)
-    # Emelec
-    # Emelec (Guayaquil)
-    # Espoli
-    # Estudiantes
-    # Estudiantes (La Plata)
-    # Estudiantes (Mérida)
-    # Estudiantes LP
-    # Estudiantes-LP
-    # Everest
-    # Everton
-    # Everton (Viña del Mar)
-    # Ferro Carril Oeste
-    # Filanbanco
-
-    # Fortaleza
-    # Fénix
-    # Gimnasia y Esgrima
-    # Godoy Cruz
-    # Godoy Cruz (Mendoza)
-
-    # Guabirá
-    # Guadalajara
-    # Guarani
-    # Guaraní
-    # Guaraní (Asunción)
-    # Huachipato
-    # Huracán
-    # Huracán (Buenos Aires)
-    # Ind. Medellín
-    # Indep. José Terán
-    # Indep. Medellín
-    # Indep. Petrolero
-    # Indep. Santa Fe
-    # Indep. del Valle
-    # Independiente
-    # Independiente (Avellaneda
-    # Independiente (Avellaneda)
-    # Independiente José Terán
-    # Independiente Medellín
-    # Independiente Petrolero
-    # Independiente Santa Fe
-    # Independiente Sta. Fe
-    # Independiente del Valle
-
-    # Jaguares
-    # Jaguares (Tuxtla Gtz.)
-
-    # Juan Aurich
-    # Juan Aurich (Chiclayo)
-    # Junior
-    # Junior (Barranquilla)
-    # Juventude
-    # LDU (Quito)
-    # LDU Quito
-    # LP
-    # La Paz FC
-    # Lanús
-    # Lanús (Buenos Aires)
-    # Lanús - Estudiantes
-    # León
-    # León de Huánuco
-    # Libertad
-    # Libertad (Asunción)
-    # Litoral
-    # Liverpool (Montevideo)
-    # M. Wanderers
-    # Macará (Ambato)
-    # Magallanes
-    # Mariano Melgar
-    # Marítimo
-    # Medellín
-    # Melgar
-    # Melgar (Arequipa)
-    # Millonarios
-    # Millonarios (Bogotá)
-    # Mineros
-    # Mineros de Guayana
-    # Minervén
-    # Monagas SC
-    # Monterrey
-    # Montevideo City Torque
-    # Montevideo Wanderers
-    # Morelia
-    # Nacional
-    # Nacional (A)
-    # Nacional (A.)
-    # Nacional (Asunción)
-    # Nacional (M.)
-    # Nacional (Montevideo)
-    # Nacional Táchira
-    # Necaxa
-    # Newell's Old Boys
-    # Nueve de Octubre
-    # Náutico
-    # O'Higgins
-    # Olimpia
-    # Olimpia (Asunción)
-    # Olmedo
-    # Olmedo (Riobamba)
-    # Once Caldas
-    # Once Caldas (Manizales)
-    # Oriente Petrolero
-    # Pachuca
-    # Pachuca CF
-    # Palestino
-    # Palestino (Santiago)
-
-    # Paraná
-    # Paraná Clube (Curitiba)
-    # Paulista FC
-    # Paysandu
-    # Paysandu SC (Belém)
-    # Pepeganga
-    # Peñarol
-    # Peñarol (Montevideo)
-    # Plaza Colonia
-    # Portuguesa
-    # Progreso
-    # Progreso (Montevideo)
-    # Puebla
-    # Pumas UNAM
-    # Pumas UNAM (Cd.de México)
-    # Quilmes
-    # Quilmes (Buenos Aires)
-    # RB Bragantino
-    # Racing
-    # Racing (Montevideo)
-    # Racing Club
-    # Racing Club (Avellaneda)
-    # Rangers
-    # Real Garcilaso
-    # Real Garcilaso (Cuzco)
-    # Real Potosí
-    # Rentistas
-
-    # Rocha FC
-    # Rosario Central
-    # Royal Pari (Santa Cruz)
-    # S. Wanderers
-    # San José
-    # San José (Oruro)
-    # San Lorenzo
-    # San Lorenzo de Almagro
-    # San Luis
-    # Santiago Wanderers
-    # Santo Andre
-
-    # Santos Laguna
-    # Santos Laguna (Torreón)
-    # Sol de América
-
-    # Sport Boys
-    # Sport Boys Warnes
-    # Sport Huancayo
-    # Sporting Cristal
-    # Sporting Cristal (Lima)
-    # Sportivo Luqueño
-    # São Caetano
-
-    # Tacuary
-    # Tacuary (Asunción)
-    # Talleres
-    # Talleres (Córdoba)
-    # The Strongest
-    # The Strongest (La Paz)
-    # Tigre
-    # Tigre (Buenos Aires)
-    # Tigres UANL
-    # Tigres UANL (Monterrey)
-    # Tijuana
-    # Tolima
-    # Toluca
-    # Trujillanos
-    # Tuluá
-    # Táchira
-    # Técnico Universitario
-    # U. San Martín
-    # U.T. Cajamarca
-    # UA Maracaibo
-    # Uni. Católica
-    # Univ. Católica
-    # Univ. Católica (Quito)
-    # Univ. Católica (Santiago)
-    # Univ. Los Andes
-    # Univ. San Martín
-    # Univ. de Chile
-    # Univ. de Chile (Santiago)
-    # Univ. de Concepción
-    # Universidad Católica
-    # Universidad César Vallejo
-    # Universidad San Martín
-    # Universidad de Chile
-    # Universidad de Concepción
-    # Universitario
-    # Universitario (Lima)
-    # Universitario (Sucre)
-    # Universitario de Sucre
-    # Unión Atlético Maracaibo
-    # Unión Española
-    # Unión Española (Santiago)
-    # Unión Huaral
-    # Unión La Calera
-    # Unión Magdalena
-    # Unión San Felipe
-    # Valdez S.C.
-    # Valencia
-
-    # Vélez Sarfield
-    # Vélez Sarsfield
-    # Vélez Sarsfield (B Aires)
-    # Vélez Sarsfield (B. Aires)
-    # Vélez Sársfield
-    # Wanderers
-    # Wanderers (Montevideo)
-    # Zamora
-    # Zulia
     return name
 
 
