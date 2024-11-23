@@ -23,6 +23,8 @@ def main():
                 result = df
             else:
                 result = pd.concat([result, df], axis=0)
+    result["neutral"] = result["neutral"].astype(bool)
+    result["knockout"] = result["knockout"].astype(bool)
     result.to_csv("results.csv", index=False)
 
 

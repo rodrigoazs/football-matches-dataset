@@ -108,21 +108,21 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2002-04-10,Olimpia,2,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Universidad Católica (Santiago),3,1,Once Caldas,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Universidad Católica (Santiago),1,1,São Caetano,False,False,Group Stage,Copa Libertadores de América,2002
-,São Caetano,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2002
+2002-04-25,São Caetano,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,River Plate,1,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,2002
-,Grêmio,4,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2002
+2002-05-02,Grêmio,4,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Montevideo Wanderers,2,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,2002
-,Peñarol,2,2,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,2002
+2002-04-30,Peñarol,2,2,Montevideo Wanderers,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Nacional de Montevideo,1,0,América de Cali,False,False,Group Stage,Copa Libertadores de América,2002
-,América de Cali,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2002
+2002-05-02,América de Cali,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Olmedo,0,5,Morelia,False,False,Group Stage,Copa Libertadores de América,2002
-,Morelia,3,2,Olmedo,False,False,Group Stage,Copa Libertadores de América,2002
+2002-04-30,Morelia,3,2,Olmedo,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,El Nacional,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2002
-,Boca Juniors,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,2002
+2002-05-01,Boca Juniors,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Cienciano,0,1,Club América,False,False,Group Stage,Copa Libertadores de América,2002
-,Club América,4,1,Cienciano,False,False,Group Stage,Copa Libertadores de América,2002
+2002-05-01,Club América,4,1,Cienciano,False,False,Group Stage,Copa Libertadores de América,2002
 2002-04-10,Cobreloa,1,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2002
-,Olimpia,2,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,2002
+2002-05-02,Olimpia,2,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,2002
 2002-05-08,Peñarol,1,0,São Caetano,False,False,Group Stage,Copa Libertadores de América,2002
 2002-05-15,São Caetano,2,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,2002
 2002-05-08,Grêmio,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2002

@@ -100,7 +100,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-04-25,Vitória,0,0,Corinthians,False,False,Round of 16,Copa de Brasil,2018
 2018-05-10,Corinthians,3,1,Vitória,False,False,Round of 16,Copa de Brasil,2018
 2018-05-09,América-MG,1,2,Palmeiras,False,False,Round of 16,Copa de Brasil,2018
-2018-05-23,Palmeiras,-,-,América-MG,False,False,Round of 16,Copa de Brasil,2018
+2018-05-23,Palmeiras,1,1,América-MG,False,False,Round of 16,Copa de Brasil,2018
 2018-05-02,Ponte Preta,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2018
 2018-05-10,Flamengo,0,0,Ponte Preta,False,False,Round of 16,Copa de Brasil,2018
 2018-05-10,Santos,5,1,Luverdense,False,False,Round of 16,Copa de Brasil,2018
