@@ -5,8 +5,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-02-06,Cerro Porteño,2,3,Cruzeiro,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-01-30,Atlas,2,0,La Paz FC,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-02-06,La Paz FC,1,0,Atlas,False,False,Qualifying Round,Copa Libertadores de América,2008
-2008-01-31,Olmedo,1,0,Lanús (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2008
-2008-02-05,Lanús (Buenos Aires),3,0,Olmedo,False,False,Qualifying Round,Copa Libertadores de América,2008
+2008-01-31,Olmedo,1,0,Lanús,False,False,Qualifying Round,Copa Libertadores de América,2008
+2008-02-05,Lanús,3,0,Olmedo,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-01-31,Cienciano,1,0,Montevideo Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-02-07,Montevideo Wanderers,0,0,Cienciano,False,False,Qualifying Round,Copa Libertadores de América,2008
 2008-02-07,Boyacá Chicó,4,3,Audax Italiano,False,False,Qualifying Round,Copa Libertadores de América,2008
@@ -23,18 +23,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-04-03,Cruzeiro,3,1,San Lorenzo de Almagro,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-16,Real Potosí,5,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-16,San Lorenzo de Almagro,3,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2008
-2008-02-12,Deportivo Cuenca,1,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2008
+2008-02-12,Deportivo Cuenca,1,0,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-14,Lanús,3,1,Danubio,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-21,Deportivo Cuenca,0,0,Danubio,False,False,Group Stage,Copa Libertadores de América,2008
-2008-02-26,Estudiantes,0,0,Lanús,False,False,Group Stage,Copa Libertadores de América,2008
-2008-03-05,Danubio,1,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2008
+2008-02-26,Estudiantes de La Plata,0,0,Lanús,False,False,Group Stage,Copa Libertadores de América,2008
+2008-03-05,Danubio,1,2,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-13,Lanús,0,0,Deportivo Cuenca,False,False,Group Stage,Copa Libertadores de América,2008
-2008-03-18,Estudiantes,2,0,Danubio,False,False,Group Stage,Copa Libertadores de América,2008
+2008-03-18,Estudiantes de La Plata,2,0,Danubio,False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-20,Deportivo Cuenca,1,1,Lanús,False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-27,Danubio,2,0,Deportivo Cuenca,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-02,Lanús - Estudiantes,3,3,LP,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-02,Lanús,3,3,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-15,Danubio,1,2,Lanús,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-15,Estudiantes-LP,2,0,Deportivo Cuenca,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-15,Estudiantes de La Plata,2,0,Deportivo Cuenca,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-20,UA Maracaibo,1,1,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-21,Atlas,3,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-28,UA Maracaibo,1,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2008
@@ -60,17 +60,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-04-23,Flamengo,2,0,Coronel Bolognesi,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-23,Nacional de Montevideo,3,1,Cienciano,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-13,Universidad San Martín,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2008
-2008-02-20,América,2,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2008
-2008-02-26,Univ. San Martín,0,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2008
+2008-02-20,América,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2008
+2008-02-26,Universidad San Martín,0,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-27,River Plate,2,1,América,False,False,Group Stage,Copa Libertadores de América,2008
-2008-03-12,Universidad Católica,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2008
+2008-03-12,Universidad Católica (Santiago),1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-13,América,3,1,Universidad San Martín,False,False,Group Stage,Copa Libertadores de América,2008
-2008-03-26,River Plate,2,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2008
+2008-03-26,River Plate,2,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2008
 2008-03-26,Universidad San Martín,1,0,América,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-01,Univ. Católica,1,0,Univ. San Martín,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-01,Universidad Católica (Santiago),1,0,Universidad San Martín,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-02,América,4,3,River Plate,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-17,Univ. Católica,2,0,América,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-17,River Plate,5,0,Univ. San Martín,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-17,Universidad Católica (Santiago),2,0,América,False,False,Group Stage,Copa Libertadores de América,2008
+2008-04-17,River Plate,5,0,Universidad San Martín,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-13,Cúcuta Deportivo,0,0,Santos,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-19,Guadalajara,2,0,San José,False,False,Group Stage,Copa Libertadores de América,2008
 2008-02-28,Cúcuta Deportivo,0,0,San José,False,False,Group Stage,Copa Libertadores de América,2008
@@ -107,10 +107,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2008-04-09,Arsenal de Sarandí,2,0,Fluminense,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-16,Libertad,1,2,Arsenal de Sarandí,False,False,Group Stage,Copa Libertadores de América,2008
 2008-04-17,Fluminense,1,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2008
-2008-04-29,Lanús (Buenos Aires),0,1,Atlas,False,False,Round of 16,Copa Libertadores de América,2008
-2008-05-06,Atlas,2,2,Lanús (Buenos Aires),False,False,Round of 16,Copa Libertadores de América,2008
-2008-04-29,LDU Quito,2,0,Estudiantes (La Plata),False,False,Round of 16,Copa Libertadores de América,2008
-2008-05-06,Estudiantes (La Plata),2,1,LDU Quito,False,False,Round of 16,Copa Libertadores de América,2008
+2008-04-29,Lanús,0,1,Atlas,False,False,Round of 16,Copa Libertadores de América,2008
+2008-05-06,Atlas,2,2,Lanús,False,False,Round of 16,Copa Libertadores de América,2008
+2008-04-29,LDU Quito,2,0,Estudiantes de La Plata,False,False,Round of 16,Copa Libertadores de América,2008
+2008-05-06,Estudiantes de La Plata,2,1,LDU Quito,False,False,Round of 16,Copa Libertadores de América,2008
 2008-04-30,Atlético Nacional,1,2,Fluminense,False,False,Round of 16,Copa Libertadores de América,2008
 2008-05-06,Fluminense,1,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2008
 2008-04-30,Boca Juniors,2,1,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2008

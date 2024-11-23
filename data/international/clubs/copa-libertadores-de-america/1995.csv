@@ -23,19 +23,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1995-03-31,Caracas,0,6,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1995
 1995-04-04,Olimpia,4,1,Trujillanos,False,False,Group Stage,Copa Libertadores de América,1995
 1995-04-07,Cerro Porteño,3,1,Trujillanos,False,False,Group Stage,Copa Libertadores de América,1995
-1995-02-10,Univ. de Chile,4,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1995
+1995-02-10,Universidad de Chile,4,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1995
 1995-02-14,Atlético Nacional,0,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1995
-1995-02-21,Millonarios,5,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1995
-1995-02-24,Atlético Nacional,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1995
-1995-03-07,Millonarios,1,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1995
-1995-03-10,Atlético Nacional,1,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1995
-1995-03-15,Univ. Católica,2,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1995
+1995-02-21,Millonarios,5,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1995
+1995-02-24,Atlético Nacional,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1995
+1995-03-07,Millonarios,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1995
+1995-03-10,Atlético Nacional,1,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1995
+1995-03-15,Universidad Católica (Santiago),2,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1995
 1995-03-15,Millonarios,2,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1995
-1995-03-21,Univ. Católica,4,1,Millonarios,False,False,Group Stage,Copa Libertadores de América,1995
-1995-03-24,Univ. de Chile,3,2,Millonarios,False,False,Group Stage,Copa Libertadores de América,1995
-1995-04-04,Univ. Católica,1,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1995
-1995-04-07,Univ. de Chile,0,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1995
-1995-04-12,Univ. Católica,4,1,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1995
+1995-03-21,Universidad Católica (Santiago),4,1,Millonarios,False,False,Group Stage,Copa Libertadores de América,1995
+1995-03-24,Universidad de Chile,3,2,Millonarios,False,False,Group Stage,Copa Libertadores de América,1995
+1995-04-04,Universidad Católica (Santiago),1,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1995
+1995-04-07,Universidad de Chile,0,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1995
+1995-04-12,Universidad Católica (Santiago),4,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1995
 1995-02-21,Palmeiras,3,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,1995
 1995-02-22,Emelec,1,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1995
 1995-03-07,El Nacional,1,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,1995
@@ -74,8 +74,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1995-05-03,Vélez Sarsfield,2,2,Independiente,False,False,Round of 16,Copa Libertadores de América,1995
 1995-04-26,Caracas,2,2,Sport,False,False,Round of 16,Copa Libertadores de América,1995
 1995-05-04,Sport,6,3,Caracas,False,False,Round of 16,Copa Libertadores de América,1995
-1995-04-27,Universidad Católica,2,1,River Plate,False,False,Round of 16,Copa Libertadores de América,1995
-1995-05-03,River Plate,3,1,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1995
+1995-04-27,Universidad Católica (Santiago),2,1,River Plate,False,False,Round of 16,Copa Libertadores de América,1995
+1995-05-03,River Plate,3,1,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1995
 1995-07-26,River Plate,1,1,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,1995
 1995-08-02,Vélez Sarsfield,0,0,River Plate,False,False,Quarterfinal,Copa Libertadores de América,1995
 1995-07-26,Grêmio,5,0,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,1995

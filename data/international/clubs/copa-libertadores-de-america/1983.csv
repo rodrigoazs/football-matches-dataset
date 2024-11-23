@@ -1,16 +1,16 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1983-03-16,Estudiantes,0,0,Ferro Carril Oeste,False,False,Group Stage,Copa Libertadores de América,1983
+1983-03-16,Estudiantes de La Plata,0,0,Ferro Carril Oeste,False,False,Group Stage,Copa Libertadores de América,1983
 1983-03-16,Colo Colo,2,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1983
 1983-04-05,Colo Colo,1,0,Ferro Carril Oeste,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-05,Cobreloa,3,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-08,Colo Colo,1,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-05,Cobreloa,3,0,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-08,Colo Colo,1,0,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,1983
 1983-04-08,Cobreloa,2,1,Ferro Carril Oeste,False,False,Group Stage,Copa Libertadores de América,1983
-1983-04-12,Estudiantes,4,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1983
+1983-04-12,Estudiantes de La Plata,4,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1983
 1983-04-15,Ferro Carril Oeste,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1983
 1983-05-13,Ferro Carril Oeste,1,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1983
-1983-05-19,Estudiantes,2,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1983
+1983-05-19,Estudiantes de La Plata,2,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1983
 1983-06-08,Cobreloa,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1983
-1983-06-08,Ferro Carril Oeste,1,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1983
+1983-06-08,Ferro Carril Oeste,1,2,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,1983
 1983-03-04,Grêmio,1,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,1983
 1983-03-13,Bolívar,6,0,Blooming,False,False,Group Stage,Copa Libertadores de América,1983
 1983-03-22,Blooming,0,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,1983
@@ -65,11 +65,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1983-07-08,Nacional de Montevideo,5,1,Atlético San Cristóbal,False,False,Semifinal,Copa Libertadores de América,1983
 1983-07-12,Peñarol,1,0,Atlético San Cristóbal,False,False,Semifinal,Copa Libertadores de América,1983
 1983-07-15,Nacional de Montevideo,1,2,Peñarol,False,False,Semifinal,Copa Libertadores de América,1983
-1983-06-21,Grêmio,2,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1983
+1983-06-21,Grêmio,2,1,Estudiantes de La Plata,False,False,Semifinal,Copa Libertadores de América,1983
 1983-06-24,América,1,0,Grêmio,False,False,Semifinal,Copa Libertadores de América,1983
-1983-07-01,Estudiantes,2,0,América,False,False,Semifinal,Copa Libertadores de América,1983
+1983-07-01,Estudiantes de La Plata,2,0,América,False,False,Semifinal,Copa Libertadores de América,1983
 1983-07-05,Grêmio,2,1,América,False,False,Semifinal,Copa Libertadores de América,1983
-1983-07-08,Estudiantes,3,3,Grêmio,False,False,Semifinal,Copa Libertadores de América,1983
-1983-07-15,América,0,0,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1983
+1983-07-08,Estudiantes de La Plata,3,3,Grêmio,False,False,Semifinal,Copa Libertadores de América,1983
+1983-07-15,América,0,0,Estudiantes de La Plata,False,False,Semifinal,Copa Libertadores de América,1983
 1983-07-22,Peñarol,1,1,Grêmio,False,False,Final,Copa Libertadores de América,1983
 1983-07-28,Grêmio,2,1,Peñarol,False,False,Final,Copa Libertadores de América,1983

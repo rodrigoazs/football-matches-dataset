@@ -2,7 +2,7 @@ import os
 
 import pandas as pd
 
-directory = "data"
+directory = "data/international/clubs/copa-libertadores-de-america/"
 
 
 def get_all_files(directory):

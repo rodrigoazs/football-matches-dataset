@@ -12,18 +12,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1980-04-23,Atlético Chalaco,1,2,Sport,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-25,Vélez Sarsfield,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
 1980-05-08,Vélez Sarsfield,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-09,Nacional de Montevideo,1,0,Defensor,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-09,Nacional de Montevideo,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-09,Oriente Petrolero,1,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-13,Oriente Petrolero,1,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-13,The Strongest,2,0,Defensor,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-16,Oriente Petrolero,0,1,Defensor,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-13,The Strongest,2,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-16,Oriente Petrolero,0,1,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-17,The Strongest,3,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-23,Defensor,0,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-23,Defensor Sporting Club,0,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-23,The Strongest,3,2,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-27,Nacional de Montevideo,5,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-27,Defensor,1,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-27,Defensor Sporting Club,1,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-30,Nacional de Montevideo,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-30,Defensor,1,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-30,Defensor Sporting Club,1,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-23,Vasco da Gama,0,0,Internacional,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-23,Deportivo Galicia,1,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-13,Deportivo Galicia,0,0,Vasco da Gama,False,False,Group Stage,Copa Libertadores de América,1980
@@ -36,17 +36,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1980-04-27,Vasco da Gama,4,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-30,Internacional,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-30,Vasco da Gama,1,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-09,Emelec,1,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-09,Emelec,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-12,América,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-16,Emelec,0,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-16,Universidad Católica,4,2,América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-16,Universidad Católica (Santiago),4,2,América,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-19,Independiente Santa Fe,1,1,América,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-23,Universidad Católica,5,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-26,Universidad Católica,1,0,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-23,Universidad Católica (Santiago),5,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-26,Universidad Católica (Santiago),1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-26,Emelec,1,2,América,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-30,Independiente Santa Fe,1,2,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-30,América,1,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-02,Independiente Santa Fe,1,0,Uni. Católica,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-30,América,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-02,Independiente Santa Fe,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-02,América,4,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-19,Colo Colo,1,1,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-21,Sol de América,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980

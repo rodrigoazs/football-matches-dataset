@@ -23,17 +23,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-03-21,Racing Club,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1997
 1997-04-05,Vélez Sarsfield,1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1997
 1997-04-08,Racing Club,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1997
-1997-02-19,Mineros,0,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
-1997-02-19,Univ. Católica,2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
-1997-02-25,Univ. Católica,6,0,Mineros,False,False,Group Stage,Copa Libertadores de América,1997
-1997-02-27,Colo Colo,1,0,Mineros,False,False,Group Stage,Copa Libertadores de América,1997
-1997-03-04,Univ. Católica,6,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Mineros de Guayana,0,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-19,Universidad Católica (Santiago),2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-25,Universidad Católica (Santiago),6,0,Mineros de Guayana,False,False,Group Stage,Copa Libertadores de América,1997
+1997-02-27,Colo Colo,1,0,Mineros de Guayana,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-04,Universidad Católica (Santiago),6,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
 1997-03-06,Colo Colo,1,0,Minervén,False,False,Group Stage,Copa Libertadores de América,1997
-1997-03-12,Colo Colo,2,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1997
-1997-03-12,Minervén,1,0,Mineros,False,False,Group Stage,Copa Libertadores de América,1997
-1997-03-18,Mineros,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1997
-1997-03-20,Minervén,1,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1997
-1997-03-25,Mineros,1,4,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Colo Colo,2,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-12,Minervén,1,0,Mineros de Guayana,False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-18,Mineros de Guayana,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-20,Minervén,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1997
+1997-03-25,Mineros de Guayana,1,4,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
 1997-03-27,Minervén,1,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1997
 1997-02-19,Cruzeiro,1,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,1997
 1997-02-19,Sport,0,0,Alianza Lima,False,False,Group Stage,Copa Libertadores de América,1997
@@ -69,16 +69,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-05-07,Bolívar,7,0,Minervén,False,False,Round of 16,Copa Libertadores de América,1997
 1997-04-23,Millonarios,2,0,Peñarol,False,False,Round of 16,Copa Libertadores de América,1997
 1997-05-07,Peñarol,3,1,Millonarios,False,False,Round of 16,Copa Libertadores de América,1997
-1997-04-23,Universidad Católica,4,0,Oriente Petrolero,False,False,Round of 16,Copa Libertadores de América,1997
-1997-05-07,Oriente Petrolero,1,5,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1997
+1997-04-23,Universidad Católica (Santiago),4,0,Oriente Petrolero,False,False,Round of 16,Copa Libertadores de América,1997
+1997-05-07,Oriente Petrolero,1,5,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1997
 1997-04-23,Nacional de Montevideo,1,3,Colo Colo,False,False,Round of 16,Copa Libertadores de América,1997
 1997-05-07,Colo Colo,1,2,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1997
 1997-04-23,El Nacional,1,0,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,1997
 1997-05-07,Cruzeiro,2,1,El Nacional,False,False,Round of 16,Copa Libertadores de América,1997
 1997-05-21,Bolívar,2,1,Sport,False,False,Quarterfinal,Copa Libertadores de América,1997
 1997-05-28,Sport,3,0,Bolívar,False,False,Quarterfinal,Copa Libertadores de América,1997
-1997-05-21,Universidad Católica,2,1,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,1997
-1997-05-28,Colo Colo,3,1,Universidad Católica,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-21,Universidad Católica (Santiago),2,1,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,1997
+1997-05-28,Colo Colo,3,1,Universidad Católica (Santiago),False,False,Quarterfinal,Copa Libertadores de América,1997
 1997-05-21,Cruzeiro,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,1997
 1997-05-28,Grêmio,2,1,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,1997
 1997-05-21,Peñarol,1,0,Racing Club,False,False,Quarterfinal,Copa Libertadores de América,1997

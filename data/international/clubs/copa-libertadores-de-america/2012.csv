@@ -1,14 +1,14 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2012-01-24,Arsenal de Sarandí,3,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-01-31,Sport,1,1,Arsenal de Sarandí,False,False,Qualifying Round,Copa Libertadores de América,2012
-2012-01-24,El Nacional (Quito),1,0,Libertad (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2012
-2012-01-31,Libertad (Asunción),4,1,El Nacional (Quito),False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-24,El Nacional,1,0,Libertad,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-31,Libertad,4,1,El Nacional,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-01-25,Real Potosí,2,1,Flamengo,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-02-01,Flamengo,2,0,Real Potosí,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-01-25,Internacional,1,0,Once Caldas,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-02-01,Once Caldas,2,2,Internacional,False,False,Qualifying Round,Copa Libertadores de América,2012
-2012-01-25,Unión Española,1,0,Tigres UANL (Monterrey),False,False,Qualifying Round,Copa Libertadores de América,2012
-2012-02-02,Tigres UANL (Monterrey),2,2,Unión Española,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-01-25,Unión Española,1,0,Tigres UANL,False,False,Qualifying Round,Copa Libertadores de América,2012
+2012-02-02,Tigres UANL,2,2,Unión Española,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-01-26,Peñarol,4,0,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-02-02,Caracas,1,1,Peñarol,False,False,Qualifying Round,Copa Libertadores de América,2012
 2012-02-09,Internacional,2,0,Juan Aurich,False,False,Group Stage,Copa Libertadores de América,2012
@@ -36,16 +36,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-04-12,Flamengo,3,0,Lanús,False,False,Group Stage,Copa Libertadores de América,2012
 2012-04-12,Olimpia,2,3,Emelec,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-08,Unión Española,2,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2012
-2012-02-09,Universidad Católica,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-09,Universidad Católica (Santiago),1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-21,Bolívar,1,3,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
-2012-02-23,Universidad Católica,2,2,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2012
-2012-03-06,Unión Española,1,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-23,Universidad Católica (Santiago),2,2,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-06,Unión Española,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2012
 2012-03-08,Junior de Barranquilla,0,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
 2012-03-20,Bolívar,2,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2012
-2012-03-28,Universidad Católica,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
-2012-04-04,Junior de Barranquilla,3,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2012
+2012-03-28,Universidad Católica (Santiago),2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-04,Junior de Barranquilla,3,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2012
 2012-04-10,Unión Española,2,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2012
-2012-04-17,Bolívar,3,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2012
+2012-04-17,Bolívar,3,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2012
 2012-04-17,Junior de Barranquilla,2,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-07,Fluminense,1,0,Arsenal de Sarandí,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-14,Zamora,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2012
@@ -95,7 +95,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-04-11,Guadalajara,0,2,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2012
 2012-04-17,Deportivo Quito,5,0,Guadalajara,False,False,Group Stage,Copa Libertadores de América,2012
 2012-04-17,Vélez Sarsfield,1,3,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2012
-2012-02-14,Atlético Nacional,2,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,2012
+2012-02-14,Atlético Nacional,2,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-16,Godoy Cruz,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-21,Peñarol,0,4,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2012
 2012-02-22,Universidad de Chile,5,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2012
@@ -113,27 +113,27 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-05-10,Santos,8,0,Bolívar,False,False,Round of 16,Copa Libertadores de América,2012
 2012-05-01,Atlético Nacional,0,1,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2012
 2012-05-08,Vélez Sarsfield,1,1,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-01,Cruz Azul,1,1,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-08,Libertad (Asunción),2,0,Cruz Azul,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-01,Cruz Azul,1,1,Libertad,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-08,Libertad,2,0,Cruz Azul,False,False,Round of 16,Copa Libertadores de América,2012
 2012-05-02,Boca Juniors,2,1,Unión Española,False,False,Round of 16,Copa Libertadores de América,2012
 2012-05-09,Unión Española,2,3,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-02,Vasco da Gama,2,1,Lanús (Buenos Aires),False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-09,Lanús (Buenos Aires),2,1,Vasco da Gama,False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-02,Emelec (Guayaquil),0,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-09,Corinthians,3,0,Emelec (Guayaquil),False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-03,Deportivo Quito,4,1,Univ. de Chile (Santiago),False,False,Round of 16,Copa Libertadores de América,2012
-2012-05-10,Univ. de Chile (Santiago),6,0,Deportivo Quito,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-02,Vasco da Gama,2,1,Lanús,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-09,Lanús,2,1,Vasco da Gama,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-02,Emelec,0,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-09,Corinthians,3,0,Emelec,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-03,Deportivo Quito,4,1,Universidad de Chile,False,False,Round of 16,Copa Libertadores de América,2012
+2012-05-10,Universidad de Chile,6,0,Deportivo Quito,False,False,Round of 16,Copa Libertadores de América,2012
 2012-05-16,Vasco da Gama,0,0,Corinthians,False,False,Quarterfinal,Copa Libertadores de América,2012
 2012-05-23,Corinthians,1,0,Vasco da Gama,False,False,Quarterfinal,Copa Libertadores de América,2012
-2012-05-16,Libertad (Asunción),1,1,Univ. de Chile (Santiago),False,False,Quarterfinal,Copa Libertadores de América,2012
-2012-05-24,Univ. de Chile (Santiago),1,1,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-16,Libertad,1,1,Universidad de Chile,False,False,Quarterfinal,Copa Libertadores de América,2012
+2012-05-24,Universidad de Chile,1,1,Libertad,False,False,Quarterfinal,Copa Libertadores de América,2012
 2012-05-17,Boca Juniors,1,0,Fluminense,False,False,Quarterfinal,Copa Libertadores de América,2012
 2012-05-23,Fluminense,1,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2012
 2012-05-17,Vélez Sarsfield,1,0,Santos,False,False,Quarterfinal,Copa Libertadores de América,2012
 2012-05-24,Santos,1,0,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,2012
 2012-06-13,Santos,0,1,Corinthians,False,False,Semifinal,Copa Libertadores de América,2012
 2012-06-20,Corinthians,1,1,Santos,False,False,Semifinal,Copa Libertadores de América,2012
-2012-06-14,Boca Juniors,2,0,Univ. de Chile (Santiago),False,False,Semifinal,Copa Libertadores de América,2012
-2012-06-21,Univ. de Chile (Santiago),0,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2012
+2012-06-14,Boca Juniors,2,0,Universidad de Chile,False,False,Semifinal,Copa Libertadores de América,2012
+2012-06-21,Universidad de Chile,0,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2012
 2012-06-27,Boca Juniors,1,1,Corinthians,False,False,Final,Copa Libertadores de América,2012
 2012-07-04,Corinthians,2,0,Boca Juniors,False,False,Final,Copa Libertadores de América,2012

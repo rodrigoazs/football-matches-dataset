@@ -14,15 +14,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1986-03-12,América,0,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
 1986-03-18,América,0,0,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
 1986-03-21,Deportivo Cali,1,1,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
-1986-03-26,Cobresal,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1986
-1986-04-01,América,2,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1986
-1986-04-04,Deportivo Cali,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1986
-1986-04-09,Univ. Católica,0,1,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
+1986-03-26,Cobresal,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-01,América,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-04,Deportivo Cali,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-09,Universidad Católica (Santiago),0,1,Cobresal,False,False,Group Stage,Copa Libertadores de América,1986
 1986-04-10,Deportivo Cali,0,1,América,False,False,Group Stage,Copa Libertadores de América,1986
-1986-04-15,Univ. Católica,1,3,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-15,Universidad Católica (Santiago),1,3,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
 1986-04-18,Cobresal,2,2,América,False,False,Group Stage,Copa Libertadores de América,1986
 1986-04-22,Cobresal,1,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1986
-1986-04-25,Univ. Católica,1,3,América,False,False,Group Stage,Copa Libertadores de América,1986
+1986-04-25,Universidad Católica (Santiago),1,3,América,False,False,Group Stage,Copa Libertadores de América,1986
 1986-04-27,Universitario,2,0,U.T. Cajamarca,False,False,Group Stage,Copa Libertadores de América,1986
 1986-04-27,Bolívar,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1986
 1986-05-10,Jorge Wilstermann,4,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1986

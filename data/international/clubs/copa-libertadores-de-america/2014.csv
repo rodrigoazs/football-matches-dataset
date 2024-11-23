@@ -7,8 +7,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-02-05,Athletico-PR,2,1,Sport,False,False,Qualifying Round,Copa Libertadores de América,2014
 2014-01-29,Deportivo Quito,1,0,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2014
 2014-02-05,Botafogo,4,0,Deportivo Quito,False,False,Qualifying Round,Copa Libertadores de América,2014
-2014-01-30,Universidad de Chile,1,0,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2014
-2014-02-06,Guaraní (Asunción),2,3,Universidad de Chile,False,False,Qualifying Round,Copa Libertadores de América,2014
+2014-01-30,Universidad de Chile,1,0,Guaraní,False,False,Qualifying Round,Copa Libertadores de América,2014
+2014-02-06,Guaraní,2,3,Universidad de Chile,False,False,Qualifying Round,Copa Libertadores de América,2014
 2014-01-30,Caracas,0,2,Lanús,False,False,Qualifying Round,Copa Libertadores de América,2014
 2014-02-06,Lanús,1,0,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2014
 2014-02-11,Universitario,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2014
@@ -24,17 +24,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-04-08,Vélez Sarsfield,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-08,The Strongest,2,1,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-11,Botafogo,2,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2014
-2014-02-18,Indep. José Terán,2,2,Unión Española,False,False,Group Stage,Copa Libertadores de América,2014
+2014-02-18,Independiente José Terán,2,2,Unión Española,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-26,Unión Española,1,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,2014
-2014-02-27,San Lorenzo,1,0,Indep. José Terán,False,False,Group Stage,Copa Libertadores de América,2014
+2014-02-27,San Lorenzo,1,0,Independiente José Terán,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-12,San Lorenzo,1,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-12,Independiente José Terán,2,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-18,Botafogo,1,0,Independiente José Terán,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-20,Unión Española,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2014
-2014-03-27,Indep. José Terán,1,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2014
+2014-03-27,Independiente José Terán,1,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-02,Botafogo,0,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-09,San Lorenzo,3,0,Botafogo,False,False,Group Stage,Copa Libertadores de América,2014
-2014-04-09,Unión Española,4,5,Indep. José Terán,False,False,Group Stage,Copa Libertadores de América,2014
+2014-04-09,Unión Española,4,5,Independiente José Terán,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-12,Deportivo Cali,1,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-13,Lanús,0,0,O'Higgins,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-19,O'Higgins,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2014
@@ -50,17 +50,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-02-11,Zamora,0,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-11,Independiente Santa Fe,3,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-20,Nacional de Montevideo,1,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2014
-2014-02-26,Atlético Mineiro,2,1,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2014
+2014-02-26,Atlético Mineiro,2,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-12,Zamora,2,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-12,Nacional de Montevideo,2,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-18,Independiente Santa Fe,2,2,Zamora,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-19,Atlético Mineiro,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-25,Zamora,2,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2014
-2014-04-03,Indep. Santa Fe,1,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2014
+2014-04-03,Independiente Santa Fe,1,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-10,Nacional de Montevideo,3,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-10,Atlético Mineiro,1,0,Zamora,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-12,Real Garcilaso,2,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2014
-2014-02-13,Univ. de Chile,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2014
+2014-02-13,Universidad de Chile,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-19,Defensor Sporting Club,4,1,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-25,Cruzeiro,5,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2014
 2014-03-11,Defensor Sporting Club,2,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2014
@@ -70,7 +70,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-04-01,Real Garcilaso,0,2,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-03,Universidad de Chile,0,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-09,Cruzeiro,3,0,Real Garcilaso,False,False,Group Stage,Copa Libertadores de América,2014
-2014-04-09,Defensor Sporting Club,1,1,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,2014
+2014-04-09,Defensor Sporting Club,1,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-13,Nacional de Montevideo,0,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-13,Atlético Nacional,1,0,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,2014
 2014-02-25,Grêmio,3,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2014
@@ -109,12 +109,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-04-10,Peñarol,1,1,Deportivo Anzoátegui,False,False,Group Stage,Copa Libertadores de América,2014
 2014-04-16,León,2,2,Bolívar,False,False,Round of 16,Copa Libertadores de América,2014
 2014-04-22,Bolívar,1,1,León,False,False,Round of 16,Copa Libertadores de América,2014
-2014-04-16,Lanús (Buenos Aires),2,1,Santos Laguna (Torreón),False,False,Round of 16,Copa Libertadores de América,2014
-2014-04-23,Santos Laguna (Torreón),0,2,Lanús (Buenos Aires),False,False,Round of 16,Copa Libertadores de América,2014
+2014-04-16,Lanús,2,1,Santos Laguna,False,False,Round of 16,Copa Libertadores de América,2014
+2014-04-23,Santos Laguna,0,2,Lanús,False,False,Round of 16,Copa Libertadores de América,2014
 2014-04-16,Cruzeiro,1,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2014
 2014-04-30,Cerro Porteño,0,2,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2014
-2014-04-17,The Strongest (La Paz),2,0,Defensor Sporting Club,False,False,Round of 16,Copa Libertadores de América,2014
-2014-04-29,Defensor Sporting Club,2,0,The Strongest (La Paz),False,False,Round of 16,Copa Libertadores de América,2014
+2014-04-17,The Strongest,2,0,Defensor Sporting Club,False,False,Round of 16,Copa Libertadores de América,2014
+2014-04-29,Defensor Sporting Club,2,0,The Strongest,False,False,Round of 16,Copa Libertadores de América,2014
 2014-04-23,Club Nacional,1,0,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2014
 2014-04-29,Vélez Sarsfield,2,2,Club Nacional,False,False,Round of 16,Copa Libertadores de América,2014
 2014-04-23,San Lorenzo de Almagro,1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2014
@@ -127,8 +127,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-05-14,Arsenal de Sarandí,0,0,Club Nacional,False,False,Quarterfinal,Copa Libertadores de América,2014
 2014-05-07,San Lorenzo de Almagro,1,0,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,2014
 2014-05-14,Cruzeiro,1,1,San Lorenzo de Almagro,False,False,Quarterfinal,Copa Libertadores de América,2014
-2014-05-08,Lanús (Buenos Aires),1,1,Bolívar,False,False,Quarterfinal,Copa Libertadores de América,2014
-2014-05-15,Bolívar,1,0,Lanús (Buenos Aires),False,False,Quarterfinal,Copa Libertadores de América,2014
+2014-05-08,Lanús,1,1,Bolívar,False,False,Quarterfinal,Copa Libertadores de América,2014
+2014-05-15,Bolívar,1,0,Lanús,False,False,Quarterfinal,Copa Libertadores de América,2014
 2014-05-08,Atlético Nacional,0,2,Defensor Sporting Club,False,False,Quarterfinal,Copa Libertadores de América,2014
 2014-05-15,Defensor Sporting Club,1,0,Atlético Nacional,False,False,Quarterfinal,Copa Libertadores de América,2014
 2014-07-22,Club Nacional,2,0,Defensor Sporting Club,False,False,Semifinal,Copa Libertadores de América,2014

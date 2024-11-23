@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2016-02-02,Huracán (Buenos Aires),1,0,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2016
-2016-02-09,Caracas,2,1,Huracán (Buenos Aires),False,False,Qualifying Round,Copa Libertadores de América,2016
+2016-02-02,Huracán,1,0,Caracas,False,False,Qualifying Round,Copa Libertadores de América,2016
+2016-02-09,Caracas,2,1,Huracán,False,False,Qualifying Round,Copa Libertadores de América,2016
 2016-02-02,River Plate,2,0,Universidad de Chile,False,False,Qualifying Round,Copa Libertadores de América,2016
 2016-02-09,Universidad de Chile,0,0,River Plate,False,False,Qualifying Round,Copa Libertadores de América,2016
 2016-02-03,Universidad César Vallejo,1,1,São Paulo,False,False,Qualifying Round,Copa Libertadores de América,2016
@@ -62,7 +62,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-02-17,Melgar,1,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2016
 2016-02-18,Independiente del Valle,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2016
 2016-02-24,Colo Colo,1,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2016
-2016-02-24,Atlético Mineiro,1,0,Indep. del Valle,False,False,Group Stage,Copa Libertadores de América,2016
+2016-02-24,Atlético Mineiro,1,0,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-01,Melgar,0,1,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-10,Colo Colo,0,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-15,Independiente del Valle,2,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2016
@@ -95,20 +95,20 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2016-04-06,Pumas UNAM,4,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-13,Emelec,2,3,Pumas UNAM,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-13,Olimpia,4,0,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2016
-2016-02-16,Indep. Santa Fe,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2016
+2016-02-16,Independiente Santa Fe,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2016
 2016-02-17,Cobresal,0,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2016
 2016-02-25,Cerro Porteño,2,1,Cobresal,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-02,Corinthians,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-09,Cobresal,1,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-09,Cerro Porteño,3,2,Corinthians,False,False,Group Stage,Copa Libertadores de América,2016
-2016-03-15,Indep. Santa Fe,3,0,Cobresal,False,False,Group Stage,Copa Libertadores de América,2016
+2016-03-15,Independiente Santa Fe,3,0,Cobresal,False,False,Group Stage,Copa Libertadores de América,2016
 2016-03-16,Corinthians,2,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2016
-2016-04-06,Indep. Santa Fe,1,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2016
+2016-04-06,Independiente Santa Fe,1,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-13,Cobresal,2,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2016
-2016-04-20,Cerro Porteño,1,0,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2016
+2016-04-20,Cerro Porteño,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2016
 2016-04-20,Corinthians,6,0,Cobresal,False,False,Group Stage,Copa Libertadores de América,2016
-2016-04-26,Huracán (Buenos Aires),0,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2016
-2016-05-03,Atlético Nacional,4,2,Huracán (Buenos Aires),False,False,Round of 16,Copa Libertadores de América,2016
+2016-04-26,Huracán,0,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2016
+2016-05-03,Atlético Nacional,4,2,Huracán,False,False,Round of 16,Copa Libertadores de América,2016
 2016-04-26,Deportivo Táchira,1,0,Pumas UNAM,False,False,Round of 16,Copa Libertadores de América,2016
 2016-05-03,Pumas UNAM,2,0,Deportivo Táchira,False,False,Round of 16,Copa Libertadores de América,2016
 2016-04-27,Racing Club,0,0,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2016

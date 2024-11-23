@@ -7,8 +7,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-02-08,Deportes Tolima,2,0,Deportivo Táchira,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-01-31,Blooming,0,1,Santos,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-02-07,Santos,5,0,Blooming,False,False,Qualifying Round,Copa Libertadores de América,2007
-2007-02-01,Tacuary,1,1,LDU (Quito),False,False,Qualifying Round,Copa Libertadores de América,2007
-2007-02-06,LDU (Quito),3,0,Tacuary,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-01,Tacuary,1,1,LDU Quito,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-02-06,LDU Quito,3,0,Tacuary,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-02-01,Cobreloa,0,2,Paraná,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-02-07,Paraná,1,1,Cobreloa,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-02-20,El Nacional,1,2,América,False,False,Group Stage,Copa Libertadores de América,2007
@@ -119,8 +119,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-05-10,Santos,3,2,Caracas,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-03,Cúcuta Deportivo,5,1,Toluca,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-08,Toluca,2,0,Cúcuta Deportivo,False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-03,Paraná Clube (Curitiba),1,2,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-10,Libertad (Asunción),1,1,Paraná Clube (Curitiba),False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-03,Paraná,1,2,Libertad,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-10,Libertad,1,1,Paraná,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-03,Nacional de Montevideo,3,2,Necaxa,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-10,Necaxa,0,1,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-15,Cúcuta Deportivo,2,0,Nacional de Montevideo,False,False,Quarterfinal,Copa Libertadores de América,2007
@@ -129,8 +129,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-05-23,Santos,2,1,Club América,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-16,Defensor Sporting Club,2,0,Grêmio,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-23,Grêmio,2,0,Defensor Sporting Club,False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-17,Boca Juniors,1,1,Libertad (Asunción),False,False,Quarterfinal,Copa Libertadores de América,2007
-2007-05-24,Libertad (Asunción),0,2,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-17,Boca Juniors,1,1,Libertad,False,False,Quarterfinal,Copa Libertadores de América,2007
+2007-05-24,Libertad,0,2,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2007
 2007-05-30,Grêmio,2,0,Santos,False,False,Semifinal,Copa Libertadores de América,2007
 2007-06-06,Santos,3,1,Grêmio,False,False,Semifinal,Copa Libertadores de América,2007
 2007-05-31,Cúcuta Deportivo,3,1,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,2007

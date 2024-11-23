@@ -1,24 +1,24 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1992-02-18,Colo Colo,1,0,Coquimbo,False,False,Group Stage,Copa Libertadores de América,1992
-1992-02-21,Colo Colo,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1992
+1992-02-21,Colo Colo,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1992
 1992-02-26,Newell's Old Boys,0,6,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1992
-1992-02-26,Coquimbo,3,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1992
+1992-02-26,Coquimbo,3,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-03,San Lorenzo,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-03,Newell's Old Boys,3,0,Coquimbo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-06,San Lorenzo,3,0,Coquimbo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-06,Newell's Old Boys,3,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-09,Univ. Católica,1,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-13,Univ. Católica,4,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-09,Universidad Católica (Santiago),1,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-13,Universidad Católica (Santiago),4,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-17,Coquimbo,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-20,Univ. Católica,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-25,Univ. Católica,5,1,Coquimbo,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-20,Universidad Católica (Santiago),0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-25,Universidad Católica (Santiago),5,1,Coquimbo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-25,San Lorenzo,0,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-31,Coquimbo,1,2,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-31,Colo Colo,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-03,Coquimbo,0,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-03,Colo Colo,1,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,1992
-1992-04-07,San Lorenzo,2,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1992
-1992-04-10,Newell's Old Boys,0,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1992
+1992-04-07,San Lorenzo,2,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1992
+1992-04-10,Newell's Old Boys,0,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-06,Criciúma,3,0,São Paulo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-08,Bolívar,2,1,San José,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-17,San José,0,3,São Paulo,False,False,Group Stage,Copa Libertadores de América,1992
@@ -31,19 +31,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-04-10,Criciúma,5,0,San José,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-14,São Paulo,2,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-18,Criciúma,2,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,1992
-1992-02-23,Marítimo,1,2,Univ. Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
+1992-02-23,Marítimo,1,2,Universidad Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
 1992-02-23,Barcelona de Guayaquil,0,0,Valdez S.C.,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-11,Univ. Los Andes,0,2,Valdez S.C.,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-11,Universidad Los Andes,0,2,Valdez S.C.,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-15,Marítimo,1,0,Valdez S.C.,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-18,Marítimo,1,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-22,Univ. Los Andes,0,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-22,Universidad Los Andes,0,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-29,Valdez S.C.,0,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1992
-1992-03-29,Univ. Los Andes,0,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1992
+1992-03-29,Universidad Los Andes,0,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-01,Valdez S.C.,2,1,Marítimo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-03,Barcelona de Guayaquil,3,1,Marítimo,False,False,Group Stage,Copa Libertadores de América,1992
-1992-04-07,Valdez S.C.,1,1,Univ. Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
-1992-04-10,Barcelona de Guayaquil,5,1,Univ. Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
-1992-04-22,Marítimo,2,2,Univ. Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
+1992-04-07,Valdez S.C.,1,1,Universidad Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
+1992-04-10,Barcelona de Guayaquil,5,1,Universidad Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
+1992-04-22,Marítimo,2,2,Universidad Los Andes,False,False,Group Stage,Copa Libertadores de América,1992
 1992-02-26,Sport,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1992
 1992-02-26,América,2,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,1992
 1992-03-10,América,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1992
@@ -68,8 +68,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-04-01,Cerro Porteño,1,1,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-08,Cerro Porteño,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1992
 1992-04-09,Sol de América,0,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1992
-1992-04-09,Universidad Católica,0,0,América,False,False,Round of 16,Copa Libertadores de América,1992
-,América,1,0,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1992
+1992-04-09,Universidad Católica (Santiago),0,0,América,False,False,Round of 16,Copa Libertadores de América,1992
+,América,1,0,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1992
 1992-04-09,Marítimo,0,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,1992
 ,Atlético Nacional,3,0,Marítimo,False,False,Round of 16,Copa Libertadores de América,1992
 1992-04-09,Sport,1,2,Criciúma,False,False,Round of 16,Copa Libertadores de América,1992

@@ -59,8 +59,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1994-03-25,The Strongest,7,1,Minervén,False,False,Group Stage,Copa Libertadores de América,1994
 1994-04-05,Bolívar,2,1,Marítimo,False,False,Group Stage,Copa Libertadores de América,1994
 1994-04-08,The Strongest,5,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1994
-1994-04-20,Universitario,2,1,Dep. Indep. Medellín,False,False,Round of 16,Copa Libertadores de América,1994
-1994-04-27,Dep. Indep. Medellín,2,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1994
+1994-04-20,Universitario,2,1,Independiente Medellín,False,False,Round of 16,Copa Libertadores de América,1994
+1994-04-27,Independiente Medellín,2,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1994
 1994-04-20,Defensor Sporting Club,1,1,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,1994
 1994-04-27,Vélez Sarsfield,0,0,Defensor Sporting Club,False,False,Round of 16,Copa Libertadores de América,1994
 1994-04-20,Minervén,2,0,Emelec,False,False,Round of 16,Copa Libertadores de América,1994
@@ -75,8 +75,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1994-04-27,Cruzeiro,0,0,Unión Española,False,False,Round of 16,Copa Libertadores de América,1994
 1994-04-20,Palmeiras,0,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,1994
 1994-04-27,São Paulo,2,1,Palmeiras,False,False,Round of 16,Copa Libertadores de América,1994
-1994-07-27,Dep. Indep. Medellín,0,2,Junior de Barranquilla,False,False,Quarterfinal,Copa Libertadores de América,1994
-1994-08-03,Junior de Barranquilla,0,0,Dep. Indep. Medellín,False,False,Quarterfinal,Copa Libertadores de América,1994
+1994-07-27,Independiente Medellín,0,2,Junior de Barranquilla,False,False,Quarterfinal,Copa Libertadores de América,1994
+1994-08-03,Junior de Barranquilla,0,0,Independiente Medellín,False,False,Quarterfinal,Copa Libertadores de América,1994
 1994-07-27,Minervén,0,0,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,1994
 1994-08-03,Vélez Sarsfield,2,0,Minervén,False,False,Quarterfinal,Copa Libertadores de América,1994
 1994-07-27,Bolívar,0,1,Olimpia,False,False,Quarterfinal,Copa Libertadores de América,1994

@@ -1,16 +1,16 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2003-10-22,Estudiantes,1,0,Pumas UNAM,False,False,Qualifying Round,Copa Libertadores de América,2003
+2003-10-22,Estudiantes de Mérida,1,0,Pumas UNAM,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-10-24,Nacional Táchira,1,2,Pumas UNAM,False,False,Qualifying Round,Copa Libertadores de América,2003
-2003-10-29,Estudiantes,1,1,Cruz Azul,False,False,Qualifying Round,Copa Libertadores de América,2003
+2003-10-29,Estudiantes de Mérida,1,1,Cruz Azul,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-10-31,Nacional Táchira,2,3,Cruz Azul,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-11-06,Pumas UNAM,1,1,Cruz Azul,False,False,Qualifying Round,Copa Libertadores de América,2003
-2003-11-06,Estudiantes,1,0,Nacional Táchira,False,False,Qualifying Round,Copa Libertadores de América,2003
-2003-11-12,Pumas UNAM,3,1,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,2003
-2003-11-14,Cruz Azul,2,1,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,2003
+2003-11-06,Estudiantes de Mérida,1,0,Nacional Táchira,False,False,Qualifying Round,Copa Libertadores de América,2003
+2003-11-12,Pumas UNAM,3,1,Estudiantes de Mérida,False,False,Qualifying Round,Copa Libertadores de América,2003
+2003-11-14,Cruz Azul,2,1,Estudiantes de Mérida,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-11-19,Pumas UNAM,4,0,Nacional Táchira,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-11-21,Cruz Azul,4,0,Nacional Táchira,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-11-28,Cruz Azul,0,2,Pumas UNAM,False,False,Qualifying Round,Copa Libertadores de América,2003
-2003-11-28,Nacional Táchira,3,2,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,2003
+2003-11-28,Nacional Táchira,3,2,Estudiantes de Mérida,False,False,Qualifying Round,Copa Libertadores de América,2003
 2003-02-18,Libertad,2,2,Emelec,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-19,Deportivo Cali,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-25,Emelec,0,4,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2003
@@ -23,17 +23,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-09,Libertad,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-17,River Plate,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-17,Libertad,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-06,Cerro Porteño,3,2,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-06,Cerro Porteño,3,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-13,Sport,0,2,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-19,Univ. Católica,0,1,Sport,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-19,Universidad Católica (Santiago),0,1,Sport,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-06,Paysandu,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-11,Paysandu,3,1,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-11,Paysandu,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-12,Sport,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-18,Universidad Católica,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-18,Universidad Católica (Santiago),2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-18,Paysandu,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-27,Cerro Porteño,2,6,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-27,Sport,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-15,Universidad Católica,1,1,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-27,Sport,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-15,Universidad Católica (Santiago),1,1,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-15,Cerro Porteño,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-05,12 de Octubre,3,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-05,América de Cali,1,5,Santos,False,False,Group Stage,Copa Libertadores de América,2003
@@ -113,8 +113,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-05-13,Paysandu,2,4,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-06,Nacional de Montevideo,4,4,Santos,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-13,Santos,2,2,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-06,Pumas UNAM (Cd.de México),0,1,Cobreloa,False,False,Round of 16,Copa Libertadores de América,2003
-2003-05-13,Cobreloa,0,0,Pumas UNAM (Cd.de México),False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-06,Pumas UNAM,0,1,Cobreloa,False,False,Round of 16,Copa Libertadores de América,2003
+2003-05-13,Cobreloa,0,0,Pumas UNAM,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-06,Olimpia,2,3,Grêmio,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-13,Grêmio,3,0,Olimpia,False,False,Round of 16,Copa Libertadores de América,2003
 2003-05-06,América de Cali,1,1,Racing Club,False,False,Round of 16,Copa Libertadores de América,2003

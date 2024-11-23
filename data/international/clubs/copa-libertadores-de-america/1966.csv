@@ -30,16 +30,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1966-03-23,Alianza Lima,0,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-24,Boca Juniors,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1966
 1966-02-27,Olimpia,3,3,Guaraní,False,False,Group Stage,Copa Libertadores de América,1966
-1966-03-02,Universidad de Chile,0,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1966
-1966-03-05,Univ. Católica,2,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1966
+1966-03-02,Universidad de Chile,0,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1966
+1966-03-05,Universidad Católica (Santiago),2,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-05,Universidad de Chile,1,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-08,Universidad de Chile,2,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1966
-1966-03-08,Univ. Católica,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1966
+1966-03-08,Universidad Católica (Santiago),0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-11,Guaraní,1,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1966
-1966-03-11,Olimpia,0,4,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1966
-1966-03-16,Guaraní,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1966
+1966-03-11,Olimpia,0,4,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1966
+1966-03-16,Guaraní,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-16,Olimpia,2,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1966
-1966-03-20,Univ. Católica,2,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1966
+1966-03-20,Universidad Católica (Santiago),2,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-20,Guaraní,2,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1966
 1966-03-23,Guaraní,2,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,1966
 1966-01-30,Emelec,2,1,Nueve de Octubre,False,False,Group Stage,Copa Libertadores de América,1966
@@ -85,11 +85,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1966-04-29,Independiente,0,0,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,1966
 1966-05-04,Boca Juniors,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1966
 1966-05-10,River Plate,2,1,Independiente,False,False,Semifinal,Copa Libertadores de América,1966
-1966-03-30,Univ. Católica,1,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1966
-1966-04-02,Univ. Católica,1,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1966
+1966-03-30,Universidad Católica (Santiago),1,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1966
+1966-04-02,Universidad Católica (Santiago),1,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1966
 1966-04-10,Peñarol,3,0,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1966
-1966-04-14,Nacional de Montevideo,3,2,Univ. Católica,False,False,Semifinal,Copa Libertadores de América,1966
-1966-04-19,Peñarol,2,0,Univ. Católica,False,False,Semifinal,Copa Libertadores de América,1966
+1966-04-14,Nacional de Montevideo,3,2,Universidad Católica (Santiago),False,False,Semifinal,Copa Libertadores de América,1966
+1966-04-19,Peñarol,2,0,Universidad Católica (Santiago),False,False,Semifinal,Copa Libertadores de América,1966
 1966-04-23,Nacional de Montevideo,0,1,Peñarol,False,False,Semifinal,Copa Libertadores de América,1966
 1966-05-12,Peñarol,2,0,River Plate,False,False,Final,Copa Libertadores de América,1966
 1966-05-18,River Plate,3,2,Peñarol,False,False,Final,Copa Libertadores de América,1966

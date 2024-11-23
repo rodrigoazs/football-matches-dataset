@@ -23,18 +23,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-12,Cienciano,0,2,São Paulo,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-20,São Paulo,2,0,Caracas,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-20,Guadalajara,0,0,Cienciano,False,False,Group Stage,Copa Libertadores de América,2006
-2006-02-07,Bolívar,1,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2006
-2006-02-09,Sport,1,2,Indep. Santa Fe,False,False,Group Stage,Copa Libertadores de América,2006
+2006-02-07,Bolívar,1,0,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2006
+2006-02-09,Sport,1,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-15,Independiente Santa Fe,2,2,Bolívar,False,False,Group Stage,Copa Libertadores de América,2006
-2006-02-21,Estudiantes,4,3,Sport,False,False,Group Stage,Copa Libertadores de América,2006
+2006-02-21,Estudiantes de La Plata,4,3,Sport,False,False,Group Stage,Copa Libertadores de América,2006
 2006-03-08,Sport,2,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2006
-2006-03-09,Indep. Santa Fe,3,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2006
+2006-03-09,Independiente Santa Fe,3,1,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2006
 2006-03-15,Bolívar,1,2,Sport,False,False,Group Stage,Copa Libertadores de América,2006
-2006-03-21,Estudiantes,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2006
+2006-03-21,Estudiantes de La Plata,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2006
 2006-03-28,Bolívar,1,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2006
-2006-04-04,Sport,2,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2006
-2006-04-13,Estudiantes,2,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2006
-2006-04-13,Indep. Santa Fe,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2006
+2006-04-04,Sport,2,2,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2006
+2006-04-13,Estudiantes de La Plata,2,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2006
+2006-04-13,Independiente Santa Fe,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-09,The Strongest,3,2,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-14,Unión Española,0,2,Goiás,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-21,Newell's Old Boys,2,0,Unión Española,False,False,Group Stage,Copa Libertadores de América,2006
@@ -47,18 +47,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-11,Unión Española,1,1,Newell's Old Boys,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-19,Newell's Old Boys,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-19,Goiás,0,0,Unión Española,False,False,Group Stage,Copa Libertadores de América,2006
-2006-02-08,Universidad Católica,3,2,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2006
+2006-02-08,Universidad Católica (Santiago),3,2,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-15,Deportivo Cali,0,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-21,Tigres UANL,5,4,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2006
-2006-02-22,Corinthians,2,2,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2006
+2006-02-22,Corinthians,2,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2006
 2006-03-09,Tigres UANL,2,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2006
-2006-03-21,Universidad Católica,2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2006
+2006-03-21,Universidad Católica (Santiago),2,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2006
 2006-03-22,Corinthians,1,0,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2006
-2006-03-30,Deportivo Cali,2,3,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2006
-2006-04-06,Universidad Católica,2,3,Corinthians,False,False,Group Stage,Copa Libertadores de América,2006
+2006-03-30,Deportivo Cali,2,3,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2006
+2006-04-06,Universidad Católica (Santiago),2,3,Corinthians,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-11,Deportivo Cali,2,2,Tigres UANL,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-19,Corinthians,3,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2006
-2006-04-19,Tigres UANL,1,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2006
+2006-04-19,Tigres UANL,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-07,Rocha FC,0,0,Universitario,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-07,LDU Quito,1,3,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2006
 2006-02-14,Vélez Sarsfield,3,0,Rocha FC,False,False,Group Stage,Copa Libertadores de América,2006
@@ -107,10 +107,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-12,El Nacional,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-20,River Plate,1,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2006
 2006-04-20,Paulista FC,0,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,2006
-2006-04-25,LDU (Quito),4,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2006
-2006-05-02,Atlético Nacional,0,1,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,2006
-2006-04-25,Estudiantes (La Plata),2,0,Goiás,False,False,Round of 16,Copa Libertadores de América,2006
-2006-05-04,Goiás,3,1,Estudiantes (La Plata),False,False,Round of 16,Copa Libertadores de América,2006
+2006-04-25,LDU Quito,4,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,2006
+2006-05-02,Atlético Nacional,0,1,LDU Quito,False,False,Round of 16,Copa Libertadores de América,2006
+2006-04-25,Estudiantes de La Plata,2,0,Goiás,False,False,Round of 16,Copa Libertadores de América,2006
+2006-05-04,Goiás,3,1,Estudiantes de La Plata,False,False,Round of 16,Copa Libertadores de América,2006
 2006-04-26,Guadalajara,3,0,Independiente Santa Fe,False,False,Round of 16,Copa Libertadores de América,2006
 2006-05-02,Independiente Santa Fe,3,1,Guadalajara,False,False,Round of 16,Copa Libertadores de América,2006
 2006-04-26,Palmeiras,1,1,São Paulo,False,False,Round of 16,Copa Libertadores de América,2006
@@ -125,10 +125,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-05-04,Libertad,0,0,Tigres UANL,False,False,Round of 16,Copa Libertadores de América,2006
 2006-05-09,Guadalajara,0,0,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,2006
 2006-07-20,Vélez Sarsfield,1,2,Guadalajara,False,False,Quarterfinal,Copa Libertadores de América,2006
-2006-05-10,LDU (Quito),2,1,Internacional,False,False,Quarterfinal,Copa Libertadores de América,2006
-2006-07-19,Internacional,2,0,LDU (Quito),False,False,Quarterfinal,Copa Libertadores de América,2006
-2006-05-10,Estudiantes (La Plata),1,0,São Paulo,False,False,Quarterfinal,Copa Libertadores de América,2006
-2006-07-19,São Paulo,1,0,Estudiantes (La Plata),False,False,Quarterfinal,Copa Libertadores de América,2006
+2006-05-10,LDU Quito,2,1,Internacional,False,False,Quarterfinal,Copa Libertadores de América,2006
+2006-07-19,Internacional,2,0,LDU Quito,False,False,Quarterfinal,Copa Libertadores de América,2006
+2006-05-10,Estudiantes de La Plata,1,0,São Paulo,False,False,Quarterfinal,Copa Libertadores de América,2006
+2006-07-19,São Paulo,1,0,Estudiantes de La Plata,False,False,Quarterfinal,Copa Libertadores de América,2006
 2006-05-11,River Plate,2,2,Libertad,False,False,Quarterfinal,Copa Libertadores de América,2006
 2006-07-18,Libertad,3,1,River Plate,False,False,Quarterfinal,Copa Libertadores de América,2006
 2006-07-26,Guadalajara,0,1,São Paulo,False,False,Semifinal,Copa Libertadores de América,2006

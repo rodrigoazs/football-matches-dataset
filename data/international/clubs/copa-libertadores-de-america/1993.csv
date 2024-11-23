@@ -12,18 +12,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-03-23,Minervén,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-26,Caracas,1,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-31,Minervén,1,0,Caracas,False,False,Group Stage,Copa Libertadores de América,1993
-1993-02-24,Cobreloa,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1993
+1993-02-24,Cobreloa,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-25,Bolívar,3,1,San José,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-02,Bolívar,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-05,San José,2,5,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-02,Bolívar,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-05,San José,2,5,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-09,Bolívar,3,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-12,San José,2,3,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-17,Univ. Católica,1,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-17,Universidad Católica (Santiago),1,1,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-17,San José,1,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-23,Cobreloa,2,1,San José,False,False,Group Stage,Copa Libertadores de América,1993
-1993-03-26,Univ. Católica,4,1,San José,False,False,Group Stage,Copa Libertadores de América,1993
+1993-03-26,Universidad Católica (Santiago),4,1,San José,False,False,Group Stage,Copa Libertadores de América,1993
 1993-03-30,Cobreloa,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,1993
-1993-04-02,Univ. Católica,3,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1993
+1993-04-02,Universidad Católica (Santiago),3,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-17,Nacional de Montevideo,2,2,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-17,El Nacional,1,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1993
 1993-02-23,Barcelona de Guayaquil,2,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1993
@@ -65,8 +65,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-04-14,Sport,4,0,El Nacional,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-07,Cerro Porteño,1,1,Cobreloa,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-14,Cobreloa,0,2,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,1993
-1993-04-07,Universidad Católica,2,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,1993
-1993-04-14,Atlético Nacional,2,1,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1993
+1993-04-07,Universidad Católica (Santiago),2,0,Atlético Nacional,False,False,Round of 16,Copa Libertadores de América,1993
+1993-04-14,Atlético Nacional,2,1,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-07,Universitario,2,1,Barcelona de Guayaquil,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-14,Barcelona de Guayaquil,3,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1993
 1993-04-07,Nacional de Montevideo,1,2,Olimpia,False,False,Round of 16,Copa Libertadores de América,1993
@@ -81,13 +81,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1993-04-28,Sport,2,3,América,False,False,Quarterfinal,Copa Libertadores de América,1993
 1993-04-21,Flamengo,1,1,São Paulo,False,False,Quarterfinal,Copa Libertadores de América,1993
 1993-04-28,São Paulo,2,0,Flamengo,False,False,Quarterfinal,Copa Libertadores de América,1993
-1993-04-21,Universidad Católica,3,1,Barcelona de Guayaquil,False,False,Quarterfinal,Copa Libertadores de América,1993
-1993-04-28,Barcelona de Guayaquil,0,1,Universidad Católica,False,False,Quarterfinal,Copa Libertadores de América,1993
+1993-04-21,Universidad Católica (Santiago),3,1,Barcelona de Guayaquil,False,False,Quarterfinal,Copa Libertadores de América,1993
+1993-04-28,Barcelona de Guayaquil,0,1,Universidad Católica (Santiago),False,False,Quarterfinal,Copa Libertadores de América,1993
 1993-04-21,Olimpia,1,1,Cerro Porteño,False,False,Quarterfinal,Copa Libertadores de América,1993
 1993-04-28,Cerro Porteño,0,0,Olimpia,False,False,Quarterfinal,Copa Libertadores de América,1993
 1993-05-05,São Paulo,1,0,Cerro Porteño,False,False,Semifinal,Copa Libertadores de América,1993
 1993-05-12,Cerro Porteño,0,0,São Paulo,False,False,Semifinal,Copa Libertadores de América,1993
-1993-05-05,Universidad Católica,1,0,América,False,False,Semifinal,Copa Libertadores de América,1993
-1993-05-12,América,2,2,Universidad Católica,False,False,Semifinal,Copa Libertadores de América,1993
-1993-05-19,São Paulo,5,1,Universidad Católica,False,False,Final,Copa Libertadores de América,1993
-1993-05-26,Universidad Católica,2,0,São Paulo,False,False,Final,Copa Libertadores de América,1993
+1993-05-05,Universidad Católica (Santiago),1,0,América,False,False,Semifinal,Copa Libertadores de América,1993
+1993-05-12,América,2,2,Universidad Católica (Santiago),False,False,Semifinal,Copa Libertadores de América,1993
+1993-05-19,São Paulo,5,1,Universidad Católica (Santiago),False,False,Final,Copa Libertadores de América,1993
+1993-05-26,Universidad Católica (Santiago),2,0,São Paulo,False,False,Final,Copa Libertadores de América,1993

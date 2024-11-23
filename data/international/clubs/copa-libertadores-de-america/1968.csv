@@ -1,16 +1,16 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1968-01-27,Independiente,2,4,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1968
+1968-01-27,Independiente,2,4,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-04,Millonarios,1,2,Independiente,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-07,Millonarios,0,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-07,Millonarios,0,1,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-08,Deportivo Cali,1,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-11,Deportivo Cali,1,2,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-11,Deportivo Cali,1,2,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-14,Millonarios,4,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-17,Estudiantes,3,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-17,Estudiantes de La Plata,3,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-18,Independiente,3,1,Millonarios,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-21,Estudiantes,0,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-21,Estudiantes de La Plata,0,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-22,Independiente,1,1,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-28,Deportivo Cali,1,0,Millonarios,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-29,Estudiantes,2,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-29,Estudiantes de La Plata,2,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-06,Independiente,3,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1968
 1968-01-24,Always Ready,0,3,Universitario,False,False,Group Stage,Copa Libertadores de América,1968
 1968-01-24,Jorge Wilstermann,0,1,Sport,False,False,Group Stage,Copa Libertadores de América,1968
@@ -25,16 +25,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1968-03-02,Sport,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-03,Always Ready,1,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-04,Emelec,0,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-11,El Nacional,2,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-11,El Nacional,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-11,Emelec,2,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-18,Emelec,1,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-18,Emelec,1,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-18,El Nacional,3,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-21,Univ. Católica,3,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-24,Univ. Católica,2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-21,Universidad Católica (Santiago),3,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-24,Universidad Católica (Santiago),2,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-24,Universidad de Chile,0,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-27,Univ. Católica,1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-27,Universidad Católica (Santiago),1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-27,Universidad de Chile,1,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1968
-1968-03-02,Universidad de Chile,1,2,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1968
+1968-03-02,Universidad de Chile,1,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-03,El Nacional,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-02,Peñarol,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-02,Guaraní,2,0,Libertad,False,False,Group Stage,Copa Libertadores de América,1968
@@ -60,11 +60,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1968-02-22,Palmeiras,3,0,Deportivo Portugués,False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-03,Palmeiras,0,0,Náutico,False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-03,Deportivo Portugués,1,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1968
-1968-03-14,Universitario,1,0,Estudiantes,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-14,Universitario,1,0,Estudiantes de La Plata,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-21,Universitario,0,3,Independiente,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-28,Independiente,1,2,Estudiantes,False,False,Round of 16,Copa Libertadores de América,1968
-1968-04-04,Estudiantes,1,0,Independiente,False,False,Round of 16,Copa Libertadores de América,1968
-1968-04-09,Estudiantes,1,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-28,Independiente,1,2,Estudiantes de La Plata,False,False,Round of 16,Copa Libertadores de América,1968
+1968-04-04,Estudiantes de La Plata,1,0,Independiente,False,False,Round of 16,Copa Libertadores de América,1968
+1968-04-09,Estudiantes de La Plata,1,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-11,Independiente,3,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-16,Deportivo Portugués,0,3,Peñarol,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-17,Emelec,0,2,Sport,False,False,Round of 16,Copa Libertadores de América,1968
@@ -78,17 +78,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1968-04-04,Peñarol,1,0,Emelec,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-10,Peñarol,1,1,Sport,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-10,Deportivo Portugués,2,0,Emelec,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-13,Univ. Católica,4,1,Guaraní,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-17,Guaraní,3,1,Univ. Católica,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-21,Palmeiras,4,1,Univ. Católica,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-13,Universidad Católica (Santiago),4,1,Guaraní,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-17,Guaraní,3,1,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-21,Palmeiras,4,1,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-24,Guaraní,2,0,Palmeiras,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-31,Univ. Católica,0,1,Palmeiras,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-31,Universidad Católica (Santiago),0,1,Palmeiras,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-04,Palmeiras,2,1,Guaraní,False,False,Round of 16,Copa Libertadores de América,1968
-1968-04-18,Racing Club,2,0,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1968
-1968-04-23,Estudiantes,3,0,Racing Club,False,False,Semifinal,Copa Libertadores de América,1968
-1968-04-24,Racing Club,1,1,Estudiantes,False,False,Semifinal,Copa Libertadores de América,1968
+1968-04-18,Racing Club,2,0,Estudiantes de La Plata,False,False,Semifinal,Copa Libertadores de América,1968
+1968-04-23,Estudiantes de La Plata,3,0,Racing Club,False,False,Semifinal,Copa Libertadores de América,1968
+1968-04-24,Racing Club,1,1,Estudiantes de La Plata,False,False,Semifinal,Copa Libertadores de América,1968
 1968-04-24,Palmeiras,1,0,Peñarol,False,False,Semifinal,Copa Libertadores de América,1968
 ,Peñarol,1,2,Palmeiras,False,False,Semifinal,Copa Libertadores de América,1968
-1968-05-02,Estudiantes,2,1,Palmeiras,False,False,Final,Copa Libertadores de América,1968
-1968-05-07,Palmeiras,3,1,Estudiantes,False,False,Final,Copa Libertadores de América,1968
-1968-05-02,Estudiantes,2,0,Palmeiras,False,False,Final,Copa Libertadores de América,1968
+1968-05-02,Estudiantes de La Plata,2,1,Palmeiras,False,False,Final,Copa Libertadores de América,1968
+1968-05-07,Palmeiras,3,1,Estudiantes de La Plata,False,False,Final,Copa Libertadores de América,1968
+1968-05-02,Estudiantes de La Plata,2,0,Palmeiras,False,False,Final,Copa Libertadores de América,1968

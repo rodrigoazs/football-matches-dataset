@@ -5,40 +5,40 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-02-16,Bolívar,4,0,Deportivo Lara,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-02-09,Universidad César Vallejo,0,1,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-02-16,Olimpia,2,0,Universidad César Vallejo,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-02-22,Everton (Viña del Mar),3,0,Monagas SC,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-01,Monagas SC,1,0,Everton (Viña del Mar),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-02-22,Millonarios (Bogotá),1,2,Fluminense,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-01,Fluminense,2,0,Millonarios (Bogotá),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-02-22,Plaza Colonia,2,0,The Strongest (La Paz),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-01,The Strongest (La Paz),3,0,Plaza Colonia,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-02-23,América-MG,0,1,Guaraní (Asunción),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-02,Guaraní (Asunción),2,3,América-MG,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-02-23,Bolívar,1,1,Univ. Católica (Quito),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-02,Univ. Católica (Quito),2,0,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-02-23,Audax Italiano,1,0,Estudiantes (La Plata),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-02,Estudiantes (La Plata),2,0,Audax Italiano,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-02-22,Everton,3,0,Monagas SC,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-01,Monagas SC,1,0,Everton,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-02-22,Millonarios,1,2,Fluminense,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-01,Fluminense,2,0,Millonarios,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-02-22,Plaza Colonia,2,0,The Strongest,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-01,The Strongest,3,0,Plaza Colonia,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-02-23,América-MG,0,1,Guaraní,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-02,Guaraní,2,3,América-MG,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-02-23,Bolívar,1,1,Universidad Católica (Quito),False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-02,Universidad Católica (Quito),2,0,Bolívar,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-02-23,Audax Italiano,1,0,Estudiantes de La Plata,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-02,Estudiantes de La Plata,2,0,Audax Italiano,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-02-23,Barcelona de Guayaquil,2,0,Universitario,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-03-02,Universitario,0,1,Barcelona de Guayaquil,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-02-24,Olimpia,3,1,Atlético Nacional,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-03-03,Atlético Nacional,1,1,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-03-08,América-MG,0,0,Barcelona de Guayaquil,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-03-15,Barcelona de Guayaquil,0,0,América-MG,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-09,Everton (Viña del Mar),0,1,Estudiantes (La Plata),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-16,Estudiantes (La Plata),1,0,Everton (Viña del Mar),False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-09,Everton,0,1,Estudiantes de La Plata,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-16,Estudiantes de La Plata,1,0,Everton,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-03-09,Fluminense,3,1,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-03-16,Olimpia,2,0,Fluminense,False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-10,Univ. Católica (Quito),0,0,The Strongest (La Paz),False,False,Qualifying Round,Copa Libertadores de América,2022
-2022-03-17,The Strongest (La Paz),2,1,Univ. Católica (Quito),False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-10,Universidad Católica (Quito),0,0,The Strongest,False,False,Qualifying Round,Copa Libertadores de América,2022
+2022-03-17,The Strongest,2,1,Universidad Católica (Quito),False,False,Qualifying Round,Copa Libertadores de América,2022
 2022-04-06,Deportivo Táchira,0,4,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-06,Independiente Petrolero,1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-12,Palmeiras,8,1,Independiente Petrolero,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-14,Emelec,1,1,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-26,Indep. Petrolero,1,2,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-26,Independiente Petrolero,1,2,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-27,Emelec,1,3,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-03,Deportivo Táchira,1,4,Emelec,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-03,Independiente Petrolero,0,5,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-18,Palmeiras,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-18,Deportivo Táchira,3,0,Indep. Petrolero,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-18,Deportivo Táchira,3,0,Independiente Petrolero,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-24,Emelec,7,0,Independiente Petrolero,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-24,Palmeiras,4,1,Deportivo Táchira,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-05,Caracas,0,0,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2022
@@ -54,29 +54,29 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-05-26,Athletico-PR,5,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-26,Libertad,4,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-06,RB Bragantino,2,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-07,Estudiantes,4,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-13,Nacional de Montevideo,0,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-07,Estudiantes de La Plata,4,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-13,Nacional de Montevideo,0,0,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-14,Vélez Sarsfield,2,2,RB Bragantino,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-26,Estudiantes,2,0,RB Bragantino,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-26,Estudiantes de La Plata,2,0,RB Bragantino,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-26,Vélez Sarsfield,1,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-03,Estudiantes,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-03,Estudiantes de La Plata,1,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-05,RB Bragantino,1,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-17,RB Bragantino,0,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-17,RB Bragantino,0,1,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-18,Nacional de Montevideo,2,3,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-24,Nacional de Montevideo,3,0,RB Bragantino,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-24,Vélez Sarsfield,4,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-06,América-MG,0,2,Indep. del Valle,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-24,Vélez Sarsfield,4,0,Estudiantes de La Plata,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-06,América-MG,0,2,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-06,Deportes Tolima,0,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-13,Atlético Mineiro,1,1,América-MG,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-13,Indep. del Valle,2,2,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-26,Indep. del Valle,1,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-13,Independiente del Valle,2,2,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-26,Independiente del Valle,1,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-27,América-MG,2,3,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-03,América-MG,1,2,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-04,Deportes Tolima,1,0,Indep. del Valle,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-04,Deportes Tolima,1,0,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-18,Deportes Tolima,2,2,América-MG,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-19,Atlético Mineiro,3,1,Indep. del Valle,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-19,Atlético Mineiro,3,1,Independiente del Valle,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-25,Atlético Mineiro,1,2,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-25,Indep. del Valle,3,0,América-MG,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-25,Independiente del Valle,3,0,América-MG,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-05,Always Ready,2,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-05,Deportivo Cali,2,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-12,Boca Juniors,2,0,Always Ready,False,False,Group Stage,Copa Libertadores de América,2022
@@ -114,41 +114,41 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-05-25,Cerro Porteño,0,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-25,Peñarol,2,1,Colón,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-05,Sport,0,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-06,Talleres,1,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-12,Univ. Católica,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-06,Talleres,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-12,Universidad Católica (Santiago),2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-12,Flamengo,3,1,Talleres,False,False,Group Stage,Copa Libertadores de América,2022
 2022-04-26,Talleres,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,2022
-2022-04-28,Universidad Católica,2,3,Flamengo,False,False,Group Stage,Copa Libertadores de América,2022
+2022-04-28,Universidad Católica (Santiago),2,3,Flamengo,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-04,Talleres,2,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-04,Sport,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-17,Flamengo,3,0,Universidad Católica,False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-04,Sport,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2022
+2022-05-17,Flamengo,3,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-17,Sport,0,0,Talleres,False,False,Group Stage,Copa Libertadores de América,2022
 2022-05-24,Flamengo,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2022
-2022-05-24,Universidad Católica,0,1,Talleres,False,False,Group Stage,Copa Libertadores de América,2022
-2022-06-28,Emelec (Guayaquil),1,1,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2022
-2022-07-05,Atlético Mineiro,1,0,Emelec (Guayaquil),False,False,Round of 16,Copa Libertadores de América,2022
-2022-06-28,Athletico-PR,2,1,Libertad (Asunción),False,False,Round of 16,Copa Libertadores de América,2022
-2022-07-05,Libertad (Asunción),1,1,Athletico-PR,False,False,Round of 16,Copa Libertadores de América,2022
+2022-05-24,Universidad Católica (Santiago),0,1,Talleres,False,False,Group Stage,Copa Libertadores de América,2022
+2022-06-28,Emelec,1,1,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2022
+2022-07-05,Atlético Mineiro,1,0,Emelec,False,False,Round of 16,Copa Libertadores de América,2022
+2022-06-28,Athletico-PR,2,1,Libertad,False,False,Round of 16,Copa Libertadores de América,2022
+2022-07-05,Libertad,1,1,Athletico-PR,False,False,Round of 16,Copa Libertadores de América,2022
 2022-06-28,Corinthians,0,0,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2022
 2022-07-05,Boca Juniors,0,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2022
 2022-06-29,Cerro Porteño,0,3,Palmeiras,False,False,Round of 16,Copa Libertadores de América,2022
 2022-07-06,Palmeiras,5,0,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2022
-2022-06-29,Talleres (Córdoba),1,1,Colón,False,False,Round of 16,Copa Libertadores de América,2022
-2022-07-06,Colón,0,2,Talleres (Córdoba),False,False,Round of 16,Copa Libertadores de América,2022
-2022-06-29,Deportes Tolima (Ibagué),0,1,Flamengo,False,False,Round of 16,Copa Libertadores de América,2022
-2022-07-06,Flamengo,7,1,Deportes Tolima (Ibagué),False,False,Round of 16,Copa Libertadores de América,2022
+2022-06-29,Talleres,1,1,Colón,False,False,Round of 16,Copa Libertadores de América,2022
+2022-07-06,Colón,0,2,Talleres,False,False,Round of 16,Copa Libertadores de América,2022
+2022-06-29,Deportes Tolima,0,1,Flamengo,False,False,Round of 16,Copa Libertadores de América,2022
+2022-07-06,Flamengo,7,1,Deportes Tolima,False,False,Round of 16,Copa Libertadores de América,2022
 2022-06-29,Vélez Sarsfield,1,0,River Plate,False,False,Round of 16,Copa Libertadores de América,2022
 2022-07-06,River Plate,0,0,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,2022
-2022-06-30,Fortaleza,1,1,Estudiantes (La Plata),False,False,Round of 16,Copa Libertadores de América,2022
-2022-07-07,Estudiantes (La Plata),3,0,Fortaleza,False,False,Round of 16,Copa Libertadores de América,2022
+2022-06-30,Fortaleza,1,1,Estudiantes de La Plata,False,False,Round of 16,Copa Libertadores de América,2022
+2022-07-07,Estudiantes de La Plata,3,0,Fortaleza,False,False,Round of 16,Copa Libertadores de América,2022
 2022-08-02,Corinthians,0,2,Flamengo,False,False,Quarterfinal,Copa Libertadores de América,2022
 2022-08-09,Flamengo,1,0,Corinthians,False,False,Quarterfinal,Copa Libertadores de América,2022
 2022-08-03,Atlético Mineiro,2,2,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2022
 2022-08-10,Palmeiras,0,0,Atlético Mineiro,False,False,Quarterfinal,Copa Libertadores de América,2022
-2022-08-03,Vélez Sarsfield,3,2,Talleres (Córdoba),False,False,Quarterfinal,Copa Libertadores de América,2022
-2022-08-10,Talleres (Córdoba),0,1,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,2022
-2022-08-04,Athletico-PR,0,0,Estudiantes (La Plata),False,False,Quarterfinal,Copa Libertadores de América,2022
-2022-08-11,Estudiantes (La Plata),0,1,Athletico-PR,False,False,Quarterfinal,Copa Libertadores de América,2022
+2022-08-03,Vélez Sarsfield,3,2,Talleres,False,False,Quarterfinal,Copa Libertadores de América,2022
+2022-08-10,Talleres,0,1,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,2022
+2022-08-04,Athletico-PR,0,0,Estudiantes de La Plata,False,False,Quarterfinal,Copa Libertadores de América,2022
+2022-08-11,Estudiantes de La Plata,0,1,Athletico-PR,False,False,Quarterfinal,Copa Libertadores de América,2022
 2022-08-30,Athletico-PR,1,0,Palmeiras,False,False,Semifinal,Copa Libertadores de América,2022
 2022-09-06,Palmeiras,2,2,Athletico-PR,False,False,Semifinal,Copa Libertadores de América,2022
 2022-08-31,Vélez Sarsfield,0,4,Flamengo,False,False,Semifinal,Copa Libertadores de América,2022

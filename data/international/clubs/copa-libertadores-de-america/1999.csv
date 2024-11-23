@@ -1,28 +1,28 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1999-09-16,Estudiantes,3,2,Univ. Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-09-16,Estudiantes de Mérida,3,2,Universidad Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
 1999-09-23,Necaxa,2,2,Monterrey,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-09-29,Estudiantes,0,0,Necaxa,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-10-01,Univ. Los Andes,0,0,Necaxa,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-10-13,Estudiantes,3,0,Monterrey,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-10-15,Univ. Los Andes,2,1,Monterrey,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-10-28,Univ. Los Andes,0,2,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-09-29,Estudiantes de Mérida,0,0,Necaxa,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-10-01,Universidad Los Andes,0,0,Necaxa,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-10-13,Estudiantes de Mérida,3,0,Monterrey,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-10-15,Universidad Los Andes,2,1,Monterrey,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-10-28,Universidad Los Andes,0,2,Estudiantes de Mérida,False,False,Qualifying Round,Copa Libertadores de América,1999
 1999-10-28,Monterrey,1,0,Necaxa,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-11-10,Necaxa,2,0,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-11-12,Monterrey,5,1,Estudiantes,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-11-17,Necaxa,1,0,Univ. Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-11-19,Monterrey,4,1,Univ. Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
-1999-02-23,Estudiantes,2,1,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
+1999-11-10,Necaxa,2,0,Estudiantes de Mérida,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-11-12,Monterrey,5,1,Estudiantes de Mérida,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-11-17,Necaxa,1,0,Universidad Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-11-19,Monterrey,4,1,Universidad Los Andes,False,False,Qualifying Round,Copa Libertadores de América,1999
+1999-02-23,Estudiantes de Mérida,2,1,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Bella Vista,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-02,Monterrey,1,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-06,Estudiantes,2,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-06,Estudiantes de Mérida,2,1,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-09,Monterrey,1,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-13,Estudiantes,3,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-17,Monterrey,4,0,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-13,Estudiantes de Mérida,3,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-17,Monterrey,4,0,Estudiantes de Mérida,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-18,Nacional de Montevideo,1,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-23,Bella Vista,2,0,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-25,Nacional de Montevideo,2,3,Monterrey,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-30,Bella Vista,5,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
-1999-04-02,Nacional de Montevideo,2,1,Estudiantes,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-30,Bella Vista,5,1,Estudiantes de Mérida,False,False,Group Stage,Copa Libertadores de América,1999
+1999-04-02,Nacional de Montevideo,2,1,Estudiantes de Mérida,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Vélez Sarsfield,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Deportivo Cali,1,0,Once Caldas,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-02,Once Caldas,4,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1999
@@ -48,17 +48,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-04-07,Palmeiras,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1999
 1999-04-09,Corinthians,4,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Universitario,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,1999
-1999-02-25,Colo Colo,1,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-03,Univ. Católica,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1999
+1999-02-25,Colo Colo,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-03,Universidad Católica (Santiago),1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-04,Universitario,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-10,Univ. Católica,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-10,Universidad Católica (Santiago),1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-11,Sport,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-17,Sport,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-17,Univ. Católica,3,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-17,Universidad Católica (Santiago),3,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-24,Colo Colo,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1999
-1999-03-25,Sport,1,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1999
+1999-03-25,Sport,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1999
 1999-04-07,Colo Colo,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1999
-1999-04-08,Universitario,1,3,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1999
+1999-04-08,Universitario,1,3,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-21,LDU Quito,4,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1999
 1999-02-24,Blooming,0,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1999
 1999-03-02,Emelec,3,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1999
@@ -75,22 +75,22 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-04-21,Corinthians,5,2,Jorge Wilstermann,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-14,Palmeiras,1,1,Vasco da Gama,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-21,Vasco da Gama,2,4,Palmeiras,False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-14,River Plate,1,0,LDU (Quito),False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-21,LDU (Quito),1,0,River Plate,False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-14,Emelec,1,3,Estudiantes (Mérida),False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-21,Estudiantes (Mérida),0,1,Emelec,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-14,River Plate,1,0,LDU Quito,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-21,LDU Quito,1,0,River Plate,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-14,Emelec,1,3,Estudiantes de Mérida,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-21,Estudiantes de Mérida,0,1,Emelec,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-14,Universitario,0,0,Vélez Sarsfield,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-21,Vélez Sarsfield,4,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-14,Bella Vista,2,2,Universidad Católica,False,False,Round of 16,Copa Libertadores de América,1999
-1999-04-21,Universidad Católica,1,3,Bella Vista,False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-14,Bella Vista,2,2,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1999
+1999-04-21,Universidad Católica (Santiago),1,3,Bella Vista,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-14,Deportivo Cali,2,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-21,Colo Colo,1,0,Deportivo Cali,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-14,Cerro Porteño,5,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1999
 1999-04-21,Nacional de Montevideo,2,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,1999
 1999-05-05,Deportivo Cali,2,1,Bella Vista,False,False,Quarterfinal,Copa Libertadores de América,1999
 1999-05-12,Bella Vista,1,1,Deportivo Cali,False,False,Quarterfinal,Copa Libertadores de América,1999
-1999-05-05,Estudiantes (Mérida),3,0,Cerro Porteño,False,False,Quarterfinal,Copa Libertadores de América,1999
-1999-05-12,Cerro Porteño,4,0,Estudiantes (Mérida),False,False,Quarterfinal,Copa Libertadores de América,1999
+1999-05-05,Estudiantes de Mérida,3,0,Cerro Porteño,False,False,Quarterfinal,Copa Libertadores de América,1999
+1999-05-12,Cerro Porteño,4,0,Estudiantes de Mérida,False,False,Quarterfinal,Copa Libertadores de América,1999
 1999-05-05,River Plate,2,0,Vélez Sarsfield,False,False,Quarterfinal,Copa Libertadores de América,1999
 1999-05-12,Vélez Sarsfield,1,0,River Plate,False,False,Quarterfinal,Copa Libertadores de América,1999
 1999-05-05,Palmeiras,2,0,Corinthians,False,False,Quarterfinal,Copa Libertadores de América,1999

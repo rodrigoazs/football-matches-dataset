@@ -23,30 +23,30 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1996-04-13,Peñarol,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1996
 1996-04-16,Peñarol,1,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1996
 1996-04-17,Defensor Sporting Club,0,0,Sport,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-13,Junior,1,0,América,False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-13,Junior de Barranquilla,1,0,América,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-13,San José,2,1,Guabirá,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-19,Guabirá,0,2,América,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-22,San José,1,0,América,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-26,Junior,5,1,Guabirá,False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-26,Junior de Barranquilla,5,1,Guabirá,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-29,América,5,0,Guabirá,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-03,América,2,0,Junior,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-03,América,2,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1996
 1996-04-03,Guabirá,4,1,San José,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-09,San José,2,0,Junior,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-12,Guabirá,1,1,Junior,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-16,Junior,1,0,San José,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-09,San José,2,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-12,Guabirá,1,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-16,Junior de Barranquilla,1,0,San José,False,False,Group Stage,Copa Libertadores de América,1996
 1996-04-19,América,2,0,San José,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-13,Corinthians,3,0,Botafogo,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-13,Univ. de Chile,2,0,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-19,Univ. Católica,2,3,Corinthians,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-22,Univ. de Chile,1,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-26,Botafogo,4,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1996
-1996-03-29,Corinthians,3,1,Univ. Católica,False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-13,Universidad de Chile,2,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-19,Universidad Católica (Santiago),2,3,Corinthians,False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-22,Universidad de Chile,1,0,Corinthians,False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-26,Botafogo,4,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1996
+1996-03-29,Corinthians,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1996
 1996-04-03,Botafogo,1,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-03,Univ. Católica,0,0,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-09,Univ. Católica,2,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-12,Univ. de Chile,2,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-16,Corinthians,3,1,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1996
-1996-04-19,Botafogo,3,1,Univ. de Chile,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-03,Universidad Católica (Santiago),0,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-09,Universidad Católica (Santiago),2,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-12,Universidad de Chile,2,1,Botafogo,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-16,Corinthians,3,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1996
+1996-04-19,Botafogo,3,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-13,Minervén,4,2,Caracas,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-13,San Lorenzo,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1996
 1996-03-18,Minervén,2,2,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1996
