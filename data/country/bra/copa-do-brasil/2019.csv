@@ -90,7 +90,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-04-25,Santa Cruz-PE,2,0,Fluminense,False,False,Fourth Round,Copa de Brasil,2019
 2019-04-25,Londrina,2,1,Bahia,False,False,Fourth Round,Copa de Brasil,2019
 2019-05-07,Vila Nova-GO,0,0,Juventude,False,False,Fourth Round,Copa de Brasil,2019
-2019-05-15,Corinthians,0,1,Flamengo-RJ,False,False,Round of 16,Copa de Brasil,2019
+2019-05-15,Corinthians,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2019
 2019-05-15,Fluminense,1,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2019
 2019-05-15,Atlético-MG,0,0,Santos,False,False,Round of 16,Copa de Brasil,2019
 2019-05-16,Fortaleza,0,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2019
@@ -102,15 +102,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-05-29,Grêmio,3,0,Juventude,False,False,Round of 16,Copa de Brasil,2019
 2019-05-29,Paysandu,0,1,Internacional,False,False,Round of 16,Copa de Brasil,2019
 2019-05-30,Palmeiras,2,0,Sampaio Corrêa-MA,False,False,Round of 16,Copa de Brasil,2019
-2019-06-04,Flamengo-RJ,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,2019
+2019-06-04,Flamengo,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,2019
 2019-06-05,Cruzeiro,2,2,Fluminense,False,False,Round of 16,Copa de Brasil,2019
 2019-06-05,Athletico-PR,1,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2019
 2019-06-06,Santos,1,2,Atlético-MG,False,False,Round of 16,Copa de Brasil,2019
-2019-07-10,Athletico-PR,1,1,Flamengo-RJ,False,False,Quarterfinal,Copa de Brasil,2019
+2019-07-10,Athletico-PR,1,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-10,Palmeiras,1,0,Internacional,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-10,Grêmio,1,1,Bahia,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-11,Cruzeiro,3,0,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2019
-2019-07-17,Flamengo-RJ,1,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2019
+2019-07-17,Flamengo,1,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-17,Internacional,1,0,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-17,Bahia,0,1,Grêmio,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-17,Atlético-MG,2,0,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,2019

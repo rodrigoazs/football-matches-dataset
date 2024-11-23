@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2006-02-22,ASA,1,1,Flamengo-RJ,False,False,First Round,Copa de Brasil,2006
-2006-03-08,Flamengo-RJ,2,1,ASA,False,False,First Round,Copa de Brasil,2006
+2006-02-22,ASA,1,1,Flamengo,False,False,First Round,Copa de Brasil,2006
+2006-03-08,Flamengo,2,1,ASA,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Parnahyba-PI,0,1,ABC,False,False,First Round,Copa de Brasil,2006
 2006-02-22,ABC,5,1,Parnahyba-PI,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Estrela do Norte,1,1,Guarani-SP,False,False,First Round,Copa de Brasil,2006

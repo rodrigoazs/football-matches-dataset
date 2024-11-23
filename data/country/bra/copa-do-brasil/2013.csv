@@ -1,8 +1,8 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2013-02-27,Atlético Acreano,1,1,Desportiva,False,False,First Round,Copa de Brasil,2013
 2013-03-13,Desportiva,5,4,Atlético Acreano,False,False,First Round,Copa de Brasil,2013
-2013-04-03,Remo,0,1,Flamengo-RJ,False,False,First Round,Copa de Brasil,2013
-2013-04-17,Flamengo-RJ,3,0,Remo,False,False,First Round,Copa de Brasil,2013
+2013-04-03,Remo,0,1,Flamengo,False,False,First Round,Copa de Brasil,2013
+2013-04-17,Flamengo,3,0,Remo,False,False,First Round,Copa de Brasil,2013
 2013-04-10,Campinense,0,1,Sampaio Corrêa-MA,False,False,First Round,Copa de Brasil,2013
 2013-04-17,Sampaio Corrêa-MA,0,1,Campinense,False,False,First Round,Copa de Brasil,2013
 2013-04-03,Ceilândia,0,0,Ceará,False,False,First Round,Copa de Brasil,2013

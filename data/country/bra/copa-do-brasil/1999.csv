@@ -20,8 +20,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-03-11,Grêmio,3,3,ABC,False,False,First Round,Copa de Brasil,1999
 1999-02-18,Sergipe-SE,2,0,Ponte Preta-SP,False,False,First Round,Copa de Brasil,1999
 1999-02-24,Ponte Preta-SP,5,2,Sergipe-SE,False,False,First Round,Copa de Brasil,1999
-1999-02-28,Botafogo-PB,3,3,Flamengo-RJ,False,False,First Round,Copa de Brasil,1999
-1999-03-10,Flamengo-RJ,2,1,Botafogo-PB,False,False,First Round,Copa de Brasil,1999
+1999-02-28,Botafogo-PB,3,3,Flamengo,False,False,First Round,Copa de Brasil,1999
+1999-03-10,Flamengo,2,1,Botafogo-PB,False,False,First Round,Copa de Brasil,1999
 1999-02-10,São Raimundo-AM,1,2,Palmeiras,False,False,First Round,Copa de Brasil,1999
 1999-02-21,Palmeiras,3,1,São Raimundo-AM,False,False,First Round,Copa de Brasil,1999
 1999-02-24,Interporto,1,3,Gama,False,False,First Round,Copa de Brasil,1999
@@ -64,8 +64,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-03-31,Cruzeiro,3,3,Athletico-PR,False,False,Second Round,Copa de Brasil,1999
 1999-03-24,Vila Nova-GO,2,1,Grêmio,False,False,Second Round,Copa de Brasil,1999
 1999-03-31,Grêmio,4,2,Vila Nova-GO,False,False,Second Round,Copa de Brasil,1999
-1999-03-17,Ponte Preta-SP,0,1,Flamengo-RJ,False,False,Second Round,Copa de Brasil,1999
-1999-04-07,Flamengo-RJ,3,0,Ponte Preta-SP,False,False,Second Round,Copa de Brasil,1999
+1999-03-17,Ponte Preta-SP,0,1,Flamengo,False,False,Second Round,Copa de Brasil,1999
+1999-04-07,Flamengo,3,0,Ponte Preta-SP,False,False,Second Round,Copa de Brasil,1999
 1999-03-19,Gama,0,1,Palmeiras,False,False,Second Round,Copa de Brasil,1999
 1999-03-31,Palmeiras,5,0,Gama,False,False,Second Round,Copa de Brasil,1999
 1999-03-10,América-MG,0,1,Vitória,False,False,Second Round,Copa de Brasil,1999
@@ -90,8 +90,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-04-28,Botafogo,3,1,São Paulo,False,False,Round of 16,Copa de Brasil,1999
 1999-04-08,Athletico-PR,5,2,Portuguesa-SP,False,False,Round of 16,Copa de Brasil,1999
 1999-04-28,Portuguesa-SP,2,2,Athletico-PR,False,False,Round of 16,Copa de Brasil,1999
-1999-04-21,Grêmio,1,2,Flamengo-RJ,False,False,Round of 16,Copa de Brasil,1999
-1999-04-28,Flamengo-RJ,2,2,Grêmio,False,False,Round of 16,Copa de Brasil,1999
+1999-04-21,Grêmio,1,2,Flamengo,False,False,Round of 16,Copa de Brasil,1999
+1999-04-28,Flamengo,2,2,Grêmio,False,False,Round of 16,Copa de Brasil,1999
 1999-04-09,Vitória,2,2,Palmeiras,False,False,Round of 16,Copa de Brasil,1999
 1999-04-29,Palmeiras,3,2,Vitória,False,False,Round of 16,Copa de Brasil,1999
 1999-04-27,Juventude,2,0,Corinthians,False,False,Round of 16,Copa de Brasil,1999
@@ -104,8 +104,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1999-05-05,Vasco da Gama,2,1,Goiás,False,False,Round of 16,Copa de Brasil,1999
 1999-05-05,Botafogo,2,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,1999
 1999-05-12,Athletico-PR,2,1,Botafogo,False,False,Quarterfinal,Copa de Brasil,1999
-1999-05-14,Flamengo-RJ,2,1,Palmeiras,False,False,Quarterfinal,Copa de Brasil,1999
-1999-05-21,Palmeiras,4,2,Flamengo-RJ,False,False,Quarterfinal,Copa de Brasil,1999
+1999-05-14,Flamengo,2,1,Palmeiras,False,False,Quarterfinal,Copa de Brasil,1999
+1999-05-21,Palmeiras,4,2,Flamengo,False,False,Quarterfinal,Copa de Brasil,1999
 1999-05-12,Juventude,2,2,Bahia,False,False,Quarterfinal,Copa de Brasil,1999
 1999-05-19,Bahia,2,2,Juventude,False,False,Quarterfinal,Copa de Brasil,1999
 1999-05-12,Internacional,1,0,Goiás,False,False,Quarterfinal,Copa de Brasil,1999

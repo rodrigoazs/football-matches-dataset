@@ -22,8 +22,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2015-04-01,Sport,2,1,CENE,False,False,First Round,Copa de Brasil,2015
 2015-04-16,CENE,1,4,Sport,False,False,First Round,Copa de Brasil,2015
 2015-03-18,Chapecoense,5,2,Interporto,False,False,First Round,Copa de Brasil,2015
-2015-02-25,Flamengo-RJ,2,1,Brasil-RS,False,False,First Round,Copa de Brasil,2015
-2015-03-18,Brasil-RS,0,2,Flamengo-RJ,False,False,First Round,Copa de Brasil,2015
+2015-02-25,Flamengo,2,1,Brasil-RS,False,False,First Round,Copa de Brasil,2015
+2015-03-18,Brasil-RS,0,2,Flamengo,False,False,First Round,Copa de Brasil,2015
 2015-03-31,Salgueiro-PE,5,1,Piauí-PI,False,False,First Round,Copa de Brasil,2015
 2015-04-02,Náutico-PE,1,0,Brasília,False,False,First Round,Copa de Brasil,2015
 2015-04-15,Brasília,0,2,Náutico-PE,False,False,First Round,Copa de Brasil,2015

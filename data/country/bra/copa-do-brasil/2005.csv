@@ -20,8 +20,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2005-03-02,Atlético-MG,6,0,Estrela do Norte,False,False,First Round,Copa de Brasil,2005
 2005-02-02,Serra-ES,2,2,Brasiliense,False,False,First Round,Copa de Brasil,2005
 2005-02-16,Brasiliense,4,2,Serra-ES,False,False,First Round,Copa de Brasil,2005
-2005-02-16,River,1,1,Flamengo-RJ,False,False,First Round,Copa de Brasil,2005
-2005-03-03,Flamengo-RJ,3,1,River,False,False,First Round,Copa de Brasil,2005
+2005-02-16,River,1,1,Flamengo,False,False,First Round,Copa de Brasil,2005
+2005-03-03,Flamengo,3,1,River,False,False,First Round,Copa de Brasil,2005
 2005-02-02,Ypiranga-AP,2,0,São Raimundo-AM,False,False,First Round,Copa de Brasil,2005
 2005-02-16,São Raimundo-AM,3,1,Ypiranga-AP,False,False,First Round,Copa de Brasil,2005
 2005-02-16,União Cacoalense-RO,0,1,Paysandu,False,False,First Round,Copa de Brasil,2005

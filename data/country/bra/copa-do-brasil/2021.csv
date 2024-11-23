@@ -87,10 +87,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-06-09,Atlético-GO,0,0,Corinthians,False,False,Third Round,Copa de Brasil,2021
 2021-06-10,Brasiliense,0,0,Grêmio,False,False,Third Round,Copa de Brasil,2021
 2021-06-10,Atlético-MG,2,1,Remo,False,False,Third Round,Copa de Brasil,2021
-2021-06-10,Coritiba,0,1,Flamengo-RJ,False,False,Third Round,Copa de Brasil,2021
+2021-06-10,Coritiba,0,1,Flamengo,False,False,Third Round,Copa de Brasil,2021
 2021-06-10,Ceará,0,3,Fortaleza,False,False,Third Round,Copa de Brasil,2021
 2021-06-10,Internacional,1,3,Vitória,False,False,Third Round,Copa de Brasil,2021
-2021-06-16,Flamengo-RJ,2,0,Coritiba,False,False,Third Round,Copa de Brasil,2021
+2021-06-16,Flamengo,2,0,Coritiba,False,False,Third Round,Copa de Brasil,2021
 2021-07-27,Criciúma,2,1,Fluminense,False,False,Round of 16,Copa de Brasil,2021
 2021-07-27,Vitória,0,3,Grêmio,False,False,Round of 16,Copa de Brasil,2021
 2021-07-28,Athletico-PR,2,1,Atlético-GO,False,False,Round of 16,Copa de Brasil,2021
@@ -98,7 +98,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-07-28,São Paulo,2,0,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2021
 2021-07-28,Atlético-MG,2,0,Bahia,False,False,Round of 16,Copa de Brasil,2021
 2021-07-29,Fortaleza,2,1,CRB,False,False,Round of 16,Copa de Brasil,2021
-2021-07-29,Flamengo-RJ,6,0,ABC,False,False,Round of 16,Copa de Brasil,2021
+2021-07-29,Flamengo,6,0,ABC,False,False,Round of 16,Copa de Brasil,2021
 2021-07-31,Fluminense,3,0,Criciúma,False,False,Round of 16,Copa de Brasil,2021
 2021-08-03,Grêmio,1,0,Vitória,False,False,Round of 16,Copa de Brasil,2021
 2021-08-04,CRB,0,1,Fortaleza,False,False,Round of 16,Copa de Brasil,2021
@@ -106,18 +106,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-08-04,Vasco da Gama,1,2,São Paulo,False,False,Round of 16,Copa de Brasil,2021
 2021-08-04,Bahia,2,1,Atlético-MG,False,False,Round of 16,Copa de Brasil,2021
 2021-08-05,Juazeirense,2,0,Santos,False,False,Round of 16,Copa de Brasil,2021
-2021-08-05,ABC,0,1,Flamengo-RJ,False,False,Round of 16,Copa de Brasil,2021
+2021-08-05,ABC,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2021
 2021-08-25,Athletico-PR,1,0,Santos,False,False,Quarterfinal,Copa de Brasil,2021
-2021-08-25,Grêmio,0,4,Flamengo-RJ,False,False,Quarterfinal,Copa de Brasil,2021
+2021-08-25,Grêmio,0,4,Flamengo,False,False,Quarterfinal,Copa de Brasil,2021
 2021-08-25,São Paulo,2,2,Fortaleza,False,False,Quarterfinal,Copa de Brasil,2021
 2021-08-26,Fluminense,1,2,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2021
 2021-09-14,Santos,0,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2021
 2021-09-15,Atlético-MG,1,0,Fluminense,False,False,Quarterfinal,Copa de Brasil,2021
-2021-09-15,Flamengo-RJ,2,0,Grêmio,False,False,Quarterfinal,Copa de Brasil,2021
+2021-09-15,Flamengo,2,0,Grêmio,False,False,Quarterfinal,Copa de Brasil,2021
 2021-09-15,Fortaleza,3,1,São Paulo,False,False,Quarterfinal,Copa de Brasil,2021
-2021-10-20,Athletico-PR,2,2,Flamengo-RJ,False,False,Semifinal,Copa de Brasil,2021
+2021-10-20,Athletico-PR,2,2,Flamengo,False,False,Semifinal,Copa de Brasil,2021
 2021-10-20,Atlético-MG,4,0,Fortaleza,False,False,Semifinal,Copa de Brasil,2021
-2021-10-27,Flamengo-RJ,0,3,Athletico-PR,False,False,Semifinal,Copa de Brasil,2021
+2021-10-27,Flamengo,0,3,Athletico-PR,False,False,Semifinal,Copa de Brasil,2021
 2021-10-27,Fortaleza,1,2,Atlético-MG,False,False,Semifinal,Copa de Brasil,2021
 2021-12-12,Atlético-MG,4,0,Athletico-PR,False,False,Final,Copa de Brasil,2021
 2021-12-15,Athletico-PR,1,2,Atlético-MG,False,False,Final,Copa de Brasil,2021

@@ -94,24 +94,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-10-27,Botafogo,0,1,Cuiabá,False,False,Round of 16,Copa de Brasil,2020
 2020-10-28,Santos,0,0,Ceará,False,False,Round of 16,Copa de Brasil,2020
 2020-10-28,Atlético-GO,1,2,Internacional,False,False,Round of 16,Copa de Brasil,2020
-2020-10-28,Athletico-PR,0,1,Flamengo-RJ,False,False,Round of 16,Copa de Brasil,2020
+2020-10-28,Athletico-PR,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2020
 2020-10-28,Corinthians,0,1,América-MG,False,False,Round of 16,Copa de Brasil,2020
 2020-10-29,RB Bragantino,1,3,Palmeiras,False,False,Round of 16,Copa de Brasil,2020
 2020-10-29,Grêmio,1,0,Juventude,False,False,Round of 16,Copa de Brasil,2020
 2020-11-03,Cuiabá,0,0,Botafogo,False,False,Round of 16,Copa de Brasil,2020
 2020-11-03,Internacional,2,1,Atlético-GO,False,False,Round of 16,Copa de Brasil,2020
 2020-11-04,Ceará,1,0,Santos,False,False,Round of 16,Copa de Brasil,2020
-2020-11-04,Flamengo-RJ,3,2,Athletico-PR,False,False,Round of 16,Copa de Brasil,2020
+2020-11-04,Flamengo,3,2,Athletico-PR,False,False,Round of 16,Copa de Brasil,2020
 2020-11-04,América-MG,1,1,Corinthians,False,False,Round of 16,Copa de Brasil,2020
 2020-11-05,Palmeiras,1,0,RB Bragantino,False,False,Round of 16,Copa de Brasil,2020
 2020-11-05,Juventude,0,1,Grêmio,False,False,Round of 16,Copa de Brasil,2020
 2020-11-11,Palmeiras,3,0,Ceará,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-11,Cuiabá,1,2,Grêmio,False,False,Quarterfinal,Copa de Brasil,2020
-2020-11-11,Flamengo-RJ,1,2,São Paulo,False,False,Quarterfinal,Copa de Brasil,2020
+2020-11-11,Flamengo,1,2,São Paulo,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-11,Internacional,0,1,América-MG,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-18,Grêmio,2,0,Cuiabá,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-18,Ceará,2,2,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2020
-2020-11-18,São Paulo,3,0,Flamengo-RJ,False,False,Quarterfinal,Copa de Brasil,2020
+2020-11-18,São Paulo,3,0,Flamengo,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-18,América-MG,0,1,Internacional,False,False,Quarterfinal,Copa de Brasil,2020
 2020-12-23,Grêmio,1,0,São Paulo,False,False,Semifinal,Copa de Brasil,2020
 2020-12-23,Palmeiras,1,1,América-MG,False,False,Semifinal,Copa de Brasil,2020

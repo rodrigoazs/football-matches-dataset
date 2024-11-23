@@ -4,8 +4,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1998-01-27,América-MG,2,0,Ji-Paraná,False,False,First Round,Copa de Brasil,1998
 1998-01-20,Villa Nova-MG,3,4,Santos,False,False,First Round,Copa de Brasil,1998
 1998-02-06,Santos,2,2,Villa Nova-MG,False,False,First Round,Copa de Brasil,1998
-1998-01-20,Operário-MS,0,0,Flamengo-RJ,False,False,First Round,Copa de Brasil,1998
-1998-02-06,Flamengo-RJ,4,0,Operário-MS,False,False,First Round,Copa de Brasil,1998
+1998-01-20,Operário-MS,0,0,Flamengo,False,False,First Round,Copa de Brasil,1998
+1998-02-06,Flamengo,4,0,Operário-MS,False,False,First Round,Copa de Brasil,1998
 1998-01-22,Remo,2,0,Portuguesa-SP,False,False,First Round,Copa de Brasil,1998
 1998-02-04,Portuguesa-SP,5,0,Remo,False,False,First Round,Copa de Brasil,1998
 1998-01-25,Amapá,1,1,Bare,False,False,First Round,Copa de Brasil,1998
@@ -36,7 +36,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1998-02-10,Itabaiana,0,3,Corinthians,False,False,First Round,Copa de Brasil,1998
 1998-02-11,Linhares-ES,0,0,Grêmio,False,False,First Round,Copa de Brasil,1998
 1998-02-18,Grêmio,2,0,Linhares-ES,False,False,First Round,Copa de Brasil,1998
-1998-02-17,Gama,2,4,Flamengo-RJ,False,False,First Round,Copa de Brasil,1998
+1998-02-17,Gama,2,4,Flamengo,False,False,First Round,Copa de Brasil,1998
 1998-02-18,Rio Branco-AC,0,2,Vila Nova-GO,False,False,First Round,Copa de Brasil,1998
 1998-02-18,Alvorada,1,2,Atletico-MG,False,False,First Round,Copa de Brasil,1998
 1998-02-26,Atletico-MG,7,0,Alvorada,False,False,First Round,Copa de Brasil,1998
@@ -46,8 +46,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1998-02-19,Fluminense,0,2,Paraná-PR,False,False,First Round,Copa de Brasil,1998
 1998-03-01,Vasco da Gama,2,0,Vila Nova-GO,False,False,Round of 16,Copa de Brasil,1998
 1998-03-12,Vila Nova-GO,0,0,Vasco da Gama,False,False,Round of 16,Copa de Brasil,1998
-1998-03-03,Vitória,5,0,Flamengo-RJ,False,False,Round of 16,Copa de Brasil,1998
-1998-04-09,Flamengo-RJ,5,2,Vitória,False,False,Round of 16,Copa de Brasil,1998
+1998-03-03,Vitória,5,0,Flamengo,False,False,Round of 16,Copa de Brasil,1998
+1998-04-09,Flamengo,5,2,Vitória,False,False,Round of 16,Copa de Brasil,1998
 1998-03-10,Botafogo,2,1,Palmeiras,False,False,Round of 16,Copa de Brasil,1998
 1998-03-24,Palmeiras,1,0,Botafogo,False,False,Round of 16,Copa de Brasil,1998
 1998-03-12,Paraná-PR,1,0,Atletico-MG,False,False,Round of 16,Copa de Brasil,1998
