@@ -10,7 +10,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-03-29,Coritiba,3,0,Desportiva,False,False,First Round,Copa de Brasil,2001
 2001-03-14,Nacional-AM,3,0,Paysandu,False,False,First Round,Copa de Brasil,2001
 2001-03-21,Paysandu,1,1,Nacional-AM,False,False,First Round,Copa de Brasil,2001
-2001-03-21,Operário-MS,0,6,Atlético-MG,False,False,First Round,Copa de Brasil,2001
+2001-03-21,Operário-MS,0,6,Atlético Mineiro,False,False,First Round,Copa de Brasil,2001
 2001-03-14,Americano,2,6,Goiás,False,False,First Round,Copa de Brasil,2001
 2001-03-15,Cachoeiro,0,1,Fluminense,False,False,First Round,Copa de Brasil,2001
 2001-03-21,Fluminense,2,1,Cachoeiro,False,False,First Round,Copa de Brasil,2001
@@ -29,8 +29,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-03-21,Botafogo-PB,0,1,São Paulo,False,False,First Round,Copa de Brasil,2001
 2001-03-28,São Paulo,10,0,Botafogo-PB,False,False,First Round,Copa de Brasil,2001
 2001-03-21,Joinville,1,3,Corinthians,False,False,First Round,Copa de Brasil,2001
-2001-03-14,Goiânia,1,1,América-MG,False,False,First Round,Copa de Brasil,2001
-2001-03-21,América-MG,0,1,Goiânia,False,False,First Round,Copa de Brasil,2001
+2001-03-14,Goiânia,1,1,América Mineiro,False,False,First Round,Copa de Brasil,2001
+2001-03-21,América Mineiro,0,1,Goiânia,False,False,First Round,Copa de Brasil,2001
 2001-04-04,CSA,3,4,Sport,False,False,First Round,Copa de Brasil,2001
 2001-04-11,Sport,0,1,CSA,False,False,First Round,Copa de Brasil,2001
 2001-03-14,Moto Club,1,2,Flamengo-PI,False,False,First Round,Copa de Brasil,2001
@@ -41,8 +41,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-03-21,São Raimundo-AM,6,0,Rio Negro-RR,False,False,First Round,Copa de Brasil,2001
 2001-03-14,Caxias,0,1,Guarani-SP,False,False,First Round,Copa de Brasil,2001
 2001-03-22,Guarani-SP,4,1,Caxias,False,False,First Round,Copa de Brasil,2001
-2001-03-15,Treze,2,0,Athletico-PR,False,False,First Round,Copa de Brasil,2001
-2001-03-22,Athletico-PR,2,0,Treze,False,False,First Round,Copa de Brasil,2001
+2001-03-15,Treze,2,0,Athletico Paranaense,False,False,First Round,Copa de Brasil,2001
+2001-03-22,Athletico Paranaense,2,0,Treze,False,False,First Round,Copa de Brasil,2001
 2001-03-21,Vila Nova-GO,3,3,Internacional,False,False,First Round,Copa de Brasil,2001
 2001-03-29,Internacional,3,1,Vila Nova-GO,False,False,First Round,Copa de Brasil,2001
 2001-03-15,Sampaio Corrêa-MA,0,2,Fortaleza,False,False,First Round,Copa de Brasil,2001
@@ -62,8 +62,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-04-18,Mixto,1,1,Juventude,False,False,Second Round,Copa de Brasil,2001
 2001-04-11,Nacional,2,2,Coritiba,False,False,Second Round,Copa de Brasil,2001
 2001-04-18,Coritiba,2,1,Nacional,False,False,Second Round,Copa de Brasil,2001
-2001-04-11,Goiás,3,1,Atlético-MG,False,False,Second Round,Copa de Brasil,2001
-2001-04-18,Atlético-MG,2,2,Goiás,False,False,Second Round,Copa de Brasil,2001
+2001-04-11,Goiás,3,1,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2001
+2001-04-18,Atlético Mineiro,2,2,Goiás,False,False,Second Round,Copa de Brasil,2001
 2001-04-11,Juventude-MT,4,1,Fluminense,False,False,Second Round,Copa de Brasil,2001
 2001-04-18,Fluminense,3,0,Juventude-MT,False,False,Second Round,Copa de Brasil,2001
 2001-04-18,Santa Cruz,1,0,Grêmio,False,False,Second Round,Copa de Brasil,2001
@@ -79,7 +79,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-04-18,Santos,0,2,Bahia,False,False,Second Round,Copa de Brasil,2001
 2001-04-18,Fortaleza,1,0,Internacional,False,False,Second Round,Copa de Brasil,2001
 2001-04-26,Internacional,0,0,Fortaleza,False,False,Second Round,Copa de Brasil,2001
-2001-04-05,Guarani,0,2,Athletico-PR,False,False,Second Round,Copa de Brasil,2001
+2001-04-05,Guarani,0,2,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2001
 2001-04-04,São Raimundo,1,0,Portuguesa,False,False,Second Round,Copa de Brasil,2001
 2001-04-11,Portuguesa,3,1,São Raimundo,False,False,Second Round,Copa de Brasil,2001
 2001-04-18,Flamengo-PI,2,0,Sport,False,False,Second Round,Copa de Brasil,2001
@@ -98,8 +98,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-05-09,Ponte Preta,4,1,Remo,False,False,Round of 16,Copa de Brasil,2001
 2001-05-03,Bahia,0,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2001
 2001-05-09,Fortaleza,3,0,Bahia,False,False,Round of 16,Copa de Brasil,2001
-2001-05-03,Athletico-PR,3,1,Portuguesa,False,False,Round of 16,Copa de Brasil,2001
-2001-05-09,Portuguesa,1,1,Athletico-PR,False,False,Round of 16,Copa de Brasil,2001
+2001-05-03,Athletico Paranaense,3,1,Portuguesa,False,False,Round of 16,Copa de Brasil,2001
+2001-05-09,Portuguesa,1,1,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2001
 2001-05-02,Flamengo-PI,1,8,Corinthians,False,False,Round of 16,Copa de Brasil,2001
 2001-05-09,Corinthians,3,0,Flamengo-PI,False,False,Round of 16,Copa de Brasil,2001
 2001-05-16,Coritiba,3,2,Flamengo,False,False,Quarterfinal,Copa de Brasil,2001
@@ -108,8 +108,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-05-23,São Paulo,3,4,Grêmio,False,False,Quarterfinal,Copa de Brasil,2001
 2001-05-16,Fortaleza,1,0,Ponte Preta,False,False,Quarterfinal,Copa de Brasil,2001
 2001-05-23,Ponte Preta,5,2,Fortaleza,False,False,Quarterfinal,Copa de Brasil,2001
-2001-05-17,Corinthians,0,0,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2001
-2001-05-23,Athletico-PR,0,1,Corinthians,False,False,Quarterfinal,Copa de Brasil,2001
+2001-05-17,Corinthians,0,0,Athletico Paranaense,False,False,Quarterfinal,Copa de Brasil,2001
+2001-05-23,Athletico Paranaense,0,1,Corinthians,False,False,Quarterfinal,Copa de Brasil,2001
 2001-05-30,Grêmio,3,1,Coritiba,False,False,Semifinal,Copa de Brasil,2001
 2001-06-06,Coritiba,0,1,Grêmio,False,False,Semifinal,Copa de Brasil,2001
 2001-06-03,Ponte Preta,0,2,Corinthians,False,False,Semifinal,Copa de Brasil,2001

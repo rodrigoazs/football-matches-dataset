@@ -4,8 +4,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1989-07-19,Vitória,2,0,Avaí,False,False,First Round,Copa de Brasil,1989
 1989-07-19,Guarani-SP,3,1,Flamengo-PI,False,False,First Round,Copa de Brasil,1989
 1989-07-19,Fortaleza,0,0,Sport,False,False,First Round,Copa de Brasil,1989
-1989-07-19,América-RN,0,3,Atlético-MG,False,False,First Round,Copa de Brasil,1989
-1989-07-19,Náutico-PE,1,0,Athletico-PR,False,False,First Round,Copa de Brasil,1989
+1989-07-19,América-RN,0,3,Atlético Mineiro,False,False,First Round,Copa de Brasil,1989
+1989-07-19,Náutico-PE,1,0,Athletico Paranaense,False,False,First Round,Copa de Brasil,1989
 1989-07-19,Internacional,0,0,CSA,False,False,First Round,Copa de Brasil,1989
 1989-07-19,Goiás,1,0,Ferroviário-CE,False,False,First Round,Copa de Brasil,1989
 1989-07-19,Blumenau,1,1,Operário-MS,False,False,First Round,Copa de Brasil,1989
@@ -19,8 +19,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1989-07-22,Avaí,1,0,Vitória,False,False,First Round,Copa de Brasil,1989
 1989-07-22,Flamengo-PI,1,1,Guarani-SP,False,False,First Round,Copa de Brasil,1989
 1989-07-22,Sport,1,0,Fortaleza,False,False,First Round,Copa de Brasil,1989
-1989-07-22,Atlético-MG,7,0,América-RN,False,False,First Round,Copa de Brasil,1989
-1989-07-22,Athletico-PR,0,0,Náutico-PE,False,False,First Round,Copa de Brasil,1989
+1989-07-22,Atlético Mineiro,7,0,América-RN,False,False,First Round,Copa de Brasil,1989
+1989-07-22,Athletico Paranaense,0,0,Náutico-PE,False,False,First Round,Copa de Brasil,1989
 1989-07-22,CSA,0,2,Internacional,False,False,First Round,Copa de Brasil,1989
 1989-07-22,Ferroviário-CE,1,3,Goiás,False,False,First Round,Copa de Brasil,1989
 1989-07-22,Paysandu,1,2,Flamengo,False,False,First Round,Copa de Brasil,1989
@@ -34,7 +34,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1989-07-26,Vitória,0,0,Vasco da Gama,False,False,Round of 16,Copa de Brasil,1989
 1989-07-26,Blumenau,1,3,Flamengo,False,False,Round of 16,Copa de Brasil,1989
 1989-07-26,Internacional,0,0,Goiás,False,False,Round of 16,Copa de Brasil,1989
-1989-07-26,Náutico-PE,1,1,Atlético-MG,False,False,Round of 16,Copa de Brasil,1989
+1989-07-26,Náutico-PE,1,1,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,1989
 1989-07-26,Guarani-SP,1,1,Sport,False,False,Round of 16,Copa de Brasil,1989
 1989-07-26,Cruzeiro,1,0,Bahia,False,False,Round of 16,Copa de Brasil,1989
 1989-07-26,Mixto,0,5,Grêmio,False,False,Round of 16,Copa de Brasil,1989
@@ -42,16 +42,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1989-07-22,Vasco da Gama,1,2,Vitória,False,False,Round of 16,Copa de Brasil,1989
 1989-07-22,Flamengo,3,1,Blumenau,False,False,Round of 16,Copa de Brasil,1989
 1989-07-22,Goiás,4,0,Internacional,False,False,Round of 16,Copa de Brasil,1989
-1989-07-22,Atlético-MG,3,0,Náutico-PE,False,False,Round of 16,Copa de Brasil,1989
+1989-07-22,Atlético Mineiro,3,0,Náutico-PE,False,False,Round of 16,Copa de Brasil,1989
 1989-07-22,Sport,1,0,Guarani-SP,False,False,Round of 16,Copa de Brasil,1989
 1989-07-22,Bahia,2,0,Cruzeiro,False,False,Round of 16,Copa de Brasil,1989
 1989-07-22,Tiradentes-DF,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,1989
 1989-08-02,Flamengo,2,0,Corinthians,False,False,Round of 16,Copa de Brasil,1989
 1989-08-05,Vitória,1,0,Sport,False,False,Round of 16,Copa de Brasil,1989
-1989-08-05,Goiás,2,1,Atlético-MG,False,False,Round of 16,Copa de Brasil,1989
+1989-08-05,Goiás,2,1,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,1989
 1989-08-05,Bahia,0,2,Grêmio,False,False,Round of 16,Copa de Brasil,1989
 1989-08-12,Sport,2,0,Vitória,False,False,Round of 16,Copa de Brasil,1989
-1989-08-12,Atlético-MG,2,0,Goiás,False,False,Round of 16,Copa de Brasil,1989
+1989-08-12,Atlético Mineiro,2,0,Goiás,False,False,Round of 16,Copa de Brasil,1989
 1989-08-12,Corinthians,4,2,Flamengo,False,False,Round of 16,Copa de Brasil,1989
 1989-08-12,Grêmio,1,0,Bahia,False,False,Round of 16,Copa de Brasil,1989
 1989-08-16,Goiás,2,1,Sport,False,False,Semifinal,Copa de Brasil,1989

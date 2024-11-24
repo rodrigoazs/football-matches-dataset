@@ -24,16 +24,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-04-19,Junior de Barranquilla,1,1,Universitario,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-19,Vélez Sarsfield,0,2,Rosario Central,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-08,Universidad de Chile,0,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2001
-2001-02-15,Cerro Porteño,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,2001
-2001-02-27,Sport,0,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2001
+2001-02-15,Cerro Porteño,3,1,Sport Boys,False,False,Group Stage,Copa Libertadores de América,2001
+2001-02-27,Sport Boys,0,2,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2001
 2001-03-08,Palmeiras,2,1,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2001
-2001-03-14,Sport,1,4,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2001
-2001-03-22,Sport,0,4,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2001
+2001-03-14,Sport Boys,1,4,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2001
+2001-03-22,Sport Boys,0,4,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-04,Cerro Porteño,0,0,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-10,Cerro Porteño,6,0,Universidad de Chile,False,False,Group Stage,Copa Libertadores de América,2001
-2001-04-11,Palmeiras,3,0,Sport,False,False,Group Stage,Copa Libertadores de América,2001
+2001-04-11,Palmeiras,3,0,Sport Boys,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-18,Universidad de Chile,1,2,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2001
-2001-05-02,Universidad de Chile,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,2001
+2001-05-02,Universidad de Chile,1,1,Sport Boys,False,False,Group Stage,Copa Libertadores de América,2001
 2001-05-02,Palmeiras,5,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-07,Jorge Wilstermann,4,2,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-15,Nacional de Montevideo,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2001
@@ -48,16 +48,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-05-03,Deportes Concepción,3,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2001
 2001-05-03,San Lorenzo,1,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-13,Emelec,1,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2001
-2001-02-22,Olimpia,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,2001
-2001-03-01,Sport,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2001
-2001-03-13,Sport,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2001
+2001-02-22,Olimpia,1,0,Sport Boys,False,False,Group Stage,Copa Libertadores de América,2001
+2001-03-01,Sport Boys,0,1,Emelec,False,False,Group Stage,Copa Libertadores de América,2001
+2001-03-13,Sport Boys,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-03,Cruzeiro,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-06,Olimpia,3,4,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2001
-2001-04-10,Cruzeiro,5,0,Sport,False,False,Group Stage,Copa Libertadores de América,2001
+2001-04-10,Cruzeiro,5,0,Sport Boys,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-12,Olimpia,2,2,Emelec,False,False,Group Stage,Copa Libertadores de América,2001
 2001-04-17,Emelec,0,0,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,2001
-2001-04-18,Sport,3,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,2001
-2001-05-01,Emelec,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,2001
+2001-04-18,Sport Boys,3,2,Olimpia,False,False,Group Stage,Copa Libertadores de América,2001
+2001-05-01,Emelec,3,1,Sport Boys,False,False,Group Stage,Copa Libertadores de América,2001
 2001-05-01,Cruzeiro,3,1,Olimpia,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-13,Guaraní,3,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,2001
 2001-02-22,River Plate,5,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2001

@@ -12,7 +12,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-02-23,Vitória-ES,0,1,Remo,False,True,First Round,Copa de Brasil,2023
 2023-02-23,Trem,0,4,Vasco da Gama,False,True,First Round,Copa de Brasil,2023
 2023-02-28,Resende,1,2,Ferroviário-CE,False,True,First Round,Copa de Brasil,2023
-2023-02-28,Tocantinópolis-TO,1,1,América-MG,False,True,First Round,Copa de Brasil,2023
+2023-02-28,Tocantinópolis-TO,1,1,América Mineiro,False,True,First Round,Copa de Brasil,2023
 2023-02-28,Democrata,1,1,Santa Cruz-PE,False,True,First Round,Copa de Brasil,2023
 2023-02-28,Real Noroeste-ES,1,1,Vila Nova-GO,False,True,First Round,Copa de Brasil,2023
 2023-02-28,Fluminense-PI,0,4,Ponte Preta-SP,False,True,First Round,Copa de Brasil,2023
@@ -25,7 +25,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-01,Tuntum-MA,0,5,ABC,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Campinense,0,2,Grêmio,False,True,First Round,Copa de Brasil,2023
 2023-03-01,União-MT,0,1,CRB,False,True,First Round,Copa de Brasil,2023
-2023-03-01,Atlético-MG,1,1,Brasiliense,False,True,First Round,Copa de Brasil,2023
+2023-03-01,Atlético Mineiro,1,1,Brasiliense,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Camboriú,1,0,Manaus,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Sao Bernardo Fc-SP,0,1,Náutico-PE,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Parnahyba-PI,0,0,Botafogo-SP,False,True,First Round,Copa de Brasil,2023
@@ -47,7 +47,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-08,Remo,2,1,São Luiz-RS,False,True,Second Round,Copa de Brasil,2023
 2023-03-15,Águia de Marabá,0,0,Goiás,False,True,Second Round,Copa de Brasil,2023
 2023-03-16,CSA,1,0,Brusque,False,True,Second Round,Copa de Brasil,2023
-2023-03-14,América-MG,1,0,Santa Cruz-PE,False,True,Second Round,Copa de Brasil,2023
+2023-03-14,América Mineiro,1,0,Santa Cruz-PE,False,True,Second Round,Copa de Brasil,2023
 2023-03-14,Maringá,2,0,Marcílio Dias,False,True,Second Round,Copa de Brasil,2023
 2023-03-08,Camboriú,0,1,Bahia,False,True,Second Round,Copa de Brasil,2023
 2023-03-14,Coritiba,1,1,Criciúma,False,True,Second Round,Copa de Brasil,2023
@@ -61,14 +61,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-15,Nova Iguaçu-RJ,5,2,Nova Mutum Ec-MT,False,True,Second Round,Copa de Brasil,2023
 2023-04-11,Botafogo-SP,0,2,Santos,False,False,Third Round,Copa de Brasil,2023
 2023-04-26,Santos,1,0,Botafogo-SP,False,False,Third Round,Copa de Brasil,2023
-2023-04-12,Nova Iguaçu-RJ,1,2,América-MG,False,False,Third Round,Copa de Brasil,2023
-2023-04-26,América-MG,5,0,Nova Iguaçu-RJ,False,False,Third Round,Copa de Brasil,2023
+2023-04-12,Nova Iguaçu-RJ,1,2,América Mineiro,False,False,Third Round,Copa de Brasil,2023
+2023-04-26,América Mineiro,5,0,Nova Iguaçu-RJ,False,False,Third Round,Copa de Brasil,2023
 2023-04-12,Coritiba,3,3,Sport,False,False,Third Round,Copa de Brasil,2023
 2023-04-26,Sport,2,0,Coritiba,False,False,Third Round,Copa de Brasil,2023
 2023-04-13,Náutico-PE,1,0,Cruzeiro,False,False,Third Round,Copa de Brasil,2023
 2023-04-25,Cruzeiro,2,0,Náutico-PE,False,False,Third Round,Copa de Brasil,2023
-2023-04-12,Atlético-MG,2,1,Brasil-RS,False,False,Third Round,Copa de Brasil,2023
-2023-04-26,Brasil-RS,1,1,Atlético-MG,False,False,Third Round,Copa de Brasil,2023
+2023-04-12,Atlético Mineiro,2,1,Brasil-RS,False,False,Third Round,Copa de Brasil,2023
+2023-04-26,Brasil-RS,1,1,Atlético Mineiro,False,False,Third Round,Copa de Brasil,2023
 2023-04-11,Volta Redonda,1,2,Bahia,False,False,Third Round,Copa de Brasil,2023
 2023-04-27,Bahia,4,0,Volta Redonda,False,False,Third Round,Copa de Brasil,2023
 2023-04-12,Ypiranga-RS,0,2,Botafogo,False,False,Third Round,Copa de Brasil,2023
@@ -87,34 +87,34 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-04-27,CSA,2,1,Internacional,False,False,Third Round,Copa de Brasil,2023
 2023-04-11,Fortaleza,6,1,Águia de Marabá,False,False,Third Round,Copa de Brasil,2023
 2023-04-26,Águia de Marabá,0,2,Fortaleza,False,False,Third Round,Copa de Brasil,2023
-2023-04-12,CRB,1,0,Athletico-PR,False,False,Third Round,Copa de Brasil,2023
-2023-04-25,Athletico-PR,2,1,CRB,False,False,Third Round,Copa de Brasil,2023
+2023-04-12,CRB,1,0,Athletico Paranaense,False,False,Third Round,Copa de Brasil,2023
+2023-04-25,Athletico Paranaense,2,1,CRB,False,False,Third Round,Copa de Brasil,2023
 2023-04-12,Palmeiras,4,2,Tombense,False,False,Third Round,Copa de Brasil,2023
 2023-04-26,Tombense,1,1,Palmeiras,False,False,Third Round,Copa de Brasil,2023
-2023-05-17,América-MG,2,0,Internacional,False,False,Round of 16,Copa de Brasil,2023
-2023-05-31,Internacional,3,1,América-MG,False,False,Round of 16,Copa de Brasil,2023
+2023-05-17,América Mineiro,2,0,Internacional,False,False,Round of 16,Copa de Brasil,2023
+2023-05-31,Internacional,3,1,América Mineiro,False,False,Round of 16,Copa de Brasil,2023
 2023-05-17,Sport,0,2,São Paulo,False,False,Round of 16,Copa de Brasil,2023
 2023-06-01,São Paulo,1,3,Sport,False,False,Round of 16,Copa de Brasil,2023
-2023-05-17,Athletico-PR,3,2,Botafogo,False,False,Round of 16,Copa de Brasil,2023
-2023-05-31,Botafogo,1,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2023
+2023-05-17,Athletico Paranaense,3,2,Botafogo,False,False,Round of 16,Copa de Brasil,2023
+2023-05-31,Botafogo,1,0,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2023
 2023-05-17,Fluminense,0,0,Flamengo,False,False,Round of 16,Copa de Brasil,2023
 2023-06-01,Flamengo,2,0,Fluminense,False,False,Round of 16,Copa de Brasil,2023
 2023-05-17,Santos,0,0,Bahia,False,False,Round of 16,Copa de Brasil,2023
 2023-05-31,Bahia,1,1,Santos,False,False,Round of 16,Copa de Brasil,2023
 2023-05-17,Palmeiras,3,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2023
 2023-05-31,Fortaleza,1,0,Palmeiras,False,False,Round of 16,Copa de Brasil,2023
-2023-05-17,Atlético-MG,2,0,Corinthians,False,False,Round of 16,Copa de Brasil,2023
-2023-05-31,Corinthians,2,0,Atlético-MG,False,False,Round of 16,Copa de Brasil,2023
+2023-05-17,Atlético Mineiro,2,0,Corinthians,False,False,Round of 16,Copa de Brasil,2023
+2023-05-31,Corinthians,2,0,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2023
 2023-05-17,Grêmio,1,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2023
 2023-05-31,Cruzeiro,0,1,Grêmio,False,False,Round of 16,Copa de Brasil,2023
-2023-07-05,América-MG,1,0,Corinthians,False,False,Quarterfinal,Copa de Brasil,2023
-2023-07-15,Corinthians,3,2,América-MG,False,False,Quarterfinal,Copa de Brasil,2023
+2023-07-05,América Mineiro,1,0,Corinthians,False,False,Quarterfinal,Copa de Brasil,2023
+2023-07-15,Corinthians,3,2,América Mineiro,False,False,Quarterfinal,Copa de Brasil,2023
 2023-07-05,São Paulo,1,0,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2023
 2023-07-13,Palmeiras,1,2,São Paulo,False,False,Quarterfinal,Copa de Brasil,2023
 2023-07-04,Bahia,1,1,Grêmio,False,False,Quarterfinal,Copa de Brasil,2023
 2023-07-12,Grêmio,1,1,Bahia,False,False,Quarterfinal,Copa de Brasil,2023
-2023-07-05,Flamengo,2,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2023
-2023-07-12,Athletico-PR,0,2,Flamengo,False,False,Quarterfinal,Copa de Brasil,2023
+2023-07-05,Flamengo,2,1,Athletico Paranaense,False,False,Quarterfinal,Copa de Brasil,2023
+2023-07-12,Athletico Paranaense,0,2,Flamengo,False,False,Quarterfinal,Copa de Brasil,2023
 2023-07-25,Corinthians,2,1,São Paulo,False,False,Semifinal,Copa de Brasil,2023
 2023-08-16,São Paulo,2,0,Corinthians,False,False,Semifinal,Copa de Brasil,2023
 2023-07-26,Grêmio,0,2,Flamengo,False,False,Semifinal,Copa de Brasil,2023

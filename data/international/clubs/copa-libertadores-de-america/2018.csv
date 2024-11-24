@@ -41,17 +41,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-05-15,Monagas SC,1,2,Grêmio,False,False,Group Stage,Copa Libertadores de América,2018
 2018-05-23,Cerro Porteño,3,2,Monagas SC,False,False,Group Stage,Copa Libertadores de América,2018
 2018-05-23,Grêmio,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2018
-2018-02-27,Colo Colo,0,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
+2018-02-27,Colo-Colo,0,1,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
 2018-02-28,Delfín,1,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
-2018-03-14,Bolívar,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-03-14,Bolívar,1,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2018
 2018-03-14,Atlético Nacional,4,0,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
-2018-04-05,Colo Colo,0,2,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
+2018-04-05,Colo-Colo,0,2,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
 2018-04-05,Bolívar,1,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
 2018-04-24,Atlético Nacional,4,1,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
-2018-05-02,Delfín,1,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-02,Delfín,1,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2018
 2018-05-15,Delfín,1,0,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2018
-2018-05-15,Colo Colo,2,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
-2018-05-24,Atlético Nacional,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-15,Colo-Colo,2,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,2018
+2018-05-24,Atlético Nacional,0,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2018
 2018-05-24,Bolívar,2,1,Delfín,False,False,Group Stage,Copa Libertadores de América,2018
 2018-03-13,Atlético Tucumán,0,2,Libertad,False,False,Group Stage,Copa Libertadores de América,2018
 2018-03-15,The Strongest,1,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2018
@@ -127,8 +127,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-05-16,Palmeiras,3,1,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2018
 2018-08-07,Estudiantes de La Plata,2,1,Grêmio,False,False,Round of 16,Copa Libertadores de América,2018
 2018-08-28,Grêmio,2,1,Estudiantes de La Plata,False,False,Round of 16,Copa Libertadores de América,2018
-2018-08-08,Colo Colo,1,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2018
-2018-08-29,Corinthians,2,1,Colo Colo,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-08,Colo-Colo,1,0,Corinthians,False,False,Round of 16,Copa Libertadores de América,2018
+2018-08-29,Corinthians,2,1,Colo-Colo,False,False,Round of 16,Copa Libertadores de América,2018
 2018-08-08,Flamengo,0,2,Cruzeiro,False,False,Round of 16,Copa Libertadores de América,2018
 2018-08-29,Cruzeiro,0,1,Flamengo,False,False,Round of 16,Copa Libertadores de América,2018
 2018-08-08,Boca Juniors,2,0,Libertad,False,False,Round of 16,Copa Libertadores de América,2018
@@ -147,8 +147,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-10-02,River Plate,3,1,Independiente,False,False,Quarterfinal,Copa Libertadores de América,2018
 2018-09-19,Boca Juniors,2,0,Cruzeiro,False,False,Quarterfinal,Copa Libertadores de América,2018
 2018-10-04,Cruzeiro,1,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,2018
-2018-09-20,Colo Colo,0,2,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2018
-2018-10-03,Palmeiras,2,0,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-09-20,Colo-Colo,0,2,Palmeiras,False,False,Quarterfinal,Copa Libertadores de América,2018
+2018-10-03,Palmeiras,2,0,Colo-Colo,False,False,Quarterfinal,Copa Libertadores de América,2018
 2018-10-23,River Plate,0,1,Grêmio,False,False,Semifinal,Copa Libertadores de América,2018
 2018-10-30,Grêmio,1,2,River Plate,False,False,Semifinal,Copa Libertadores de América,2018
 2018-10-24,Boca Juniors,2,0,Palmeiras,False,False,Semifinal,Copa Libertadores de América,2018

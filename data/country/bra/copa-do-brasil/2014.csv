@@ -42,7 +42,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-04-09,Nacional-AM,2,1,São Luiz-RS,False,False,First Round,Copa de Brasil,2014
 2014-03-19,Villa Nova-MG,1,1,Bahia,False,False,First Round,Copa de Brasil,2014
 2014-04-17,Bahia,2,0,Villa Nova-MG,False,False,First Round,Copa de Brasil,2014
-2014-04-02,Santos-AP,0,3,América-MG,False,False,First Round,Copa de Brasil,2014
+2014-04-02,Santos-AP,0,3,América Mineiro,False,False,First Round,Copa de Brasil,2014
 2014-04-02,Botafogo-PB,2,0,Goiás,False,False,First Round,Copa de Brasil,2014
 2014-04-16,Goiás,0,0,Botafogo-PB,False,False,First Round,Copa de Brasil,2014
 2014-04-09,Lagarto-SE,0,1,Santa Cruz-PE,False,False,First Round,Copa de Brasil,2014
@@ -92,8 +92,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-05-06,América-RN,3,0,Náutico,False,False,Second Round,Copa de Brasil,2014
 2014-05-13,Náutico,2,0,América-RN,False,False,Second Round,Copa de Brasil,2014
 2014-04-30,Nacional,0,3,Corinthians,False,False,Second Round,Copa de Brasil,2014
-2014-05-07,América-MG,0,0,Bahia,False,False,Second Round,Copa de Brasil,2014
-2014-05-14,Bahia,2,1,América-MG,False,False,Second Round,Copa de Brasil,2014
+2014-05-07,América Mineiro,0,0,Bahia,False,False,Second Round,Copa de Brasil,2014
+2014-05-14,Bahia,2,1,América Mineiro,False,False,Second Round,Copa de Brasil,2014
 2014-05-14,Botafogo-PB,1,1,Santa Cruz,False,False,Second Round,Copa de Brasil,2014
 2014-07-23,Santa Cruz,2,1,Botafogo-PB,False,False,Second Round,Copa de Brasil,2014
 2014-04-24,Santa Rita,2,0,Potiguar-M,False,False,Second Round,Copa de Brasil,2014
@@ -138,10 +138,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-09-03,ABC,2,1,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2014
 2014-08-27,Coritiba,3,0,Flamengo,False,False,Round of 16,Copa de Brasil,2014
 2014-09-03,Flamengo,3,0,Coritiba,False,False,Round of 16,Copa de Brasil,2014
-2014-08-27,América-RN,3,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2014
-2014-09-03,Athletico-PR,2,0,América-RN,False,False,Round of 16,Copa de Brasil,2014
-2014-08-27,Palmeiras,0,1,Atlético-MG,False,False,Round of 16,Copa de Brasil,2014
-2014-09-04,Atlético-MG,2,0,Palmeiras,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,América-RN,3,0,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2014
+2014-09-03,Athletico Paranaense,2,0,América-RN,False,False,Round of 16,Copa de Brasil,2014
+2014-08-27,Palmeiras,0,1,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2014
+2014-09-04,Atlético Mineiro,2,0,Palmeiras,False,False,Round of 16,Copa de Brasil,2014
 2014-08-27,RB Bragantino,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,2014
 2014-09-03,Corinthians,3,1,RB Bragantino,False,False,Round of 16,Copa de Brasil,2014
 2014-10-01,Botafogo,2,3,Santos,False,False,Quarterfinal,Copa de Brasil,2014
@@ -150,11 +150,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-10-15,ABC,3,2,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,2014
 2014-10-01,América-RN,0,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2014
 2014-10-15,Flamengo,1,0,América-RN,False,False,Quarterfinal,Copa de Brasil,2014
-2014-10-01,Corinthians,2,0,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2014
-2014-10-15,Atlético-MG,4,1,Corinthians,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-01,Corinthians,2,0,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,2014
+2014-10-15,Atlético Mineiro,4,1,Corinthians,False,False,Quarterfinal,Copa de Brasil,2014
 2014-10-29,Cruzeiro,1,0,Santos,False,False,Semifinal,Copa de Brasil,2014
 2014-11-05,Santos,3,3,Cruzeiro,False,False,Semifinal,Copa de Brasil,2014
-2014-10-29,Flamengo,2,0,Atlético-MG,False,False,Semifinal,Copa de Brasil,2014
-2014-11-05,Atlético-MG,4,1,Flamengo,False,False,Semifinal,Copa de Brasil,2014
-2014-11-12,Atlético-MG,2,0,Cruzeiro,False,False,Final,Copa de Brasil,2014
-2014-11-26,Cruzeiro,0,1,Atlético-MG,False,False,Final,Copa de Brasil,2014
+2014-10-29,Flamengo,2,0,Atlético Mineiro,False,False,Semifinal,Copa de Brasil,2014
+2014-11-05,Atlético Mineiro,4,1,Flamengo,False,False,Semifinal,Copa de Brasil,2014
+2014-11-12,Atlético Mineiro,2,0,Cruzeiro,False,False,Final,Copa de Brasil,2014
+2014-11-26,Cruzeiro,0,1,Atlético Mineiro,False,False,Final,Copa de Brasil,2014

@@ -7,7 +7,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-03-08,Guarani-SP,3,0,Estrela do Norte,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Potiguar-RN,2,0,Santo André-SP,False,False,First Round,Copa de Brasil,2006
 2006-03-08,Santo André-SP,1,2,Potiguar-RN,False,False,First Round,Copa de Brasil,2006
-2006-02-15,Atlético Hermann Aichinger,0,3,Atlético-MG,False,False,First Round,Copa de Brasil,2006
+2006-02-15,Atlético Hermann Aichinger,0,3,Atlético Mineiro,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Mineiros-GO,3,1,Americano,False,False,First Round,Copa de Brasil,2006
 2006-03-08,Americano,4,2,Mineiros-GO,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Vilhena-RO,1,3,Fortaleza,False,False,First Round,Copa de Brasil,2006
@@ -34,9 +34,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-03-08,São Caetano-SP,4,1,Cabofriense,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Novo Hamburgo-RS,2,2,Criciúma,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Criciúma,2,1,Novo Hamburgo-RS,False,False,First Round,Copa de Brasil,2006
-2006-02-15,Moto Club,1,3,Athletico-PR,False,False,First Round,Copa de Brasil,2006
-2006-02-15,Volta Redonda,2,1,América-MG,False,False,First Round,Copa de Brasil,2006
-2006-02-22,América-MG,2,1,Volta Redonda,False,False,First Round,Copa de Brasil,2006
+2006-02-15,Moto Club,1,3,Athletico Paranaense,False,False,First Round,Copa de Brasil,2006
+2006-02-15,Volta Redonda,2,1,América Mineiro,False,False,First Round,Copa de Brasil,2006
+2006-02-22,América Mineiro,2,1,Volta Redonda,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Piauí-PI,1,2,Grêmio,False,False,First Round,Copa de Brasil,2006
 2006-03-08,Grêmio,4,0,Piauí-PI,False,False,First Round,Copa de Brasil,2006
 2006-02-22,XV de Novembro-RS,4,1,Noroeste-SP,False,False,First Round,Copa de Brasil,2006
@@ -57,8 +57,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-03-22,ABC,0,1,Flamengo,False,False,Second Round,Copa de Brasil,2006
 2006-04-05,Flamengo,4,0,ABC,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,Potiguar,0,4,Guarani,False,False,Second Round,Copa de Brasil,2006
-2006-03-15,Mineiros-GO,3,2,Atlético-MG,False,False,Second Round,Copa de Brasil,2006
-2006-03-22,Atlético-MG,4,1,Mineiros-GO,False,False,Second Round,Copa de Brasil,2006
+2006-03-15,Mineiros-GO,3,2,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2006
+2006-03-22,Atlético Mineiro,4,1,Mineiros-GO,False,False,Second Round,Copa de Brasil,2006
 2006-03-15,Ceilândia,1,1,Fortaleza,False,False,Second Round,Copa de Brasil,2006
 2006-04-05,Fortaleza,3,1,Ceilândia,False,False,Second Round,Copa de Brasil,2006
 2006-03-15,Ipatinga,3,0,Botafogo,False,False,Second Round,Copa de Brasil,2006
@@ -72,8 +72,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-08,Vasco da Gama,5,1,Iraty,False,False,Second Round,Copa de Brasil,2006
 2006-03-15,São Caetano,4,1,Criciúma,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,Criciúma,4,0,São Caetano,False,False,Second Round,Copa de Brasil,2006
-2006-03-22,Volta Redonda,2,1,Athletico-PR,False,False,Second Round,Copa de Brasil,2006
-2006-04-05,Athletico-PR,0,0,Volta Redonda,False,False,Second Round,Copa de Brasil,2006
+2006-03-22,Volta Redonda,2,1,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2006
+2006-04-05,Athletico Paranaense,0,0,Volta Redonda,False,False,Second Round,Copa de Brasil,2006
 2006-03-15,XV de Novembro,1,0,Grêmio,False,False,Second Round,Copa de Brasil,2006
 2006-03-23,Grêmio,1,0,XV de Novembro,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,CENE,3,5,Fluminense,False,False,Second Round,Copa de Brasil,2006
@@ -84,8 +84,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-03-22,Vitória,3,2,Santa Cruz,False,False,Second Round,Copa de Brasil,2006
 2006-04-12,Flamengo,5,1,Guarani,False,False,Round of 16,Copa de Brasil,2006
 2006-04-19,Guarani,1,0,Flamengo,False,False,Round of 16,Copa de Brasil,2006
-2006-04-12,Atlético-MG,0,2,Fortaleza,False,False,Round of 16,Copa de Brasil,2006
-2006-04-19,Fortaleza,1,3,Atlético-MG,False,False,Round of 16,Copa de Brasil,2006
+2006-04-12,Atlético Mineiro,0,2,Fortaleza,False,False,Round of 16,Copa de Brasil,2006
+2006-04-19,Fortaleza,1,3,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2006
 2006-04-12,Ipatinga,3,1,Náutico,False,False,Round of 16,Copa de Brasil,2006
 2006-04-19,Náutico,1,3,Ipatinga,False,False,Round of 16,Copa de Brasil,2006
 2006-04-12,Santos,2,1,Brasiliense,False,False,Round of 16,Copa de Brasil,2006
@@ -98,8 +98,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-19,Fluminense,4,0,Vila Nova-GO,False,False,Round of 16,Copa de Brasil,2006
 2006-04-12,Vitória,2,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2006
 2006-04-19,Cruzeiro,4,0,Vitória,False,False,Round of 16,Copa de Brasil,2006
-2006-04-26,Flamengo,4,1,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2006
-2006-05-03,Atlético-MG,0,0,Flamengo,False,False,Quarterfinal,Copa de Brasil,2006
+2006-04-26,Flamengo,4,1,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,2006
+2006-05-03,Atlético Mineiro,0,0,Flamengo,False,False,Quarterfinal,Copa de Brasil,2006
 2006-04-26,Santos,1,1,Ipatinga,False,False,Quarterfinal,Copa de Brasil,2006
 2006-05-03,Ipatinga,1,1,Santos,False,False,Quarterfinal,Copa de Brasil,2006
 2006-04-27,Volta Redonda,0,0,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,2006

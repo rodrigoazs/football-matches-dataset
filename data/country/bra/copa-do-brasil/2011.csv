@@ -6,8 +6,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-02-23,Guarani-SP,0,0,União-MT,False,False,First Round,Copa de Brasil,2011
 2011-02-16,Horizonte,3,1,ASA,False,False,First Round,Copa de Brasil,2011
 2011-02-23,ASA,3,3,Horizonte,False,False,First Round,Copa de Brasil,2011
-2011-02-23,IAPE,2,3,Atlético-MG,False,False,First Round,Copa de Brasil,2011
-2011-03-02,Atlético-MG,8,1,IAPE,False,False,First Round,Copa de Brasil,2011
+2011-02-23,IAPE,2,3,Atlético Mineiro,False,False,First Round,Copa de Brasil,2011
+2011-03-02,Atlético Mineiro,8,1,IAPE,False,False,First Round,Copa de Brasil,2011
 2011-02-16,Iraty,3,1,Prudente-SP,False,False,First Round,Copa de Brasil,2011
 2011-02-23,Prudente-SP,3,0,Iraty,False,False,First Round,Copa de Brasil,2011
 2011-02-23,Cuiabá,0,2,Ceará,False,False,First Round,Copa de Brasil,2011
@@ -34,8 +34,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-02-23,Portuguesa-SP,1,0,Bangu,False,False,First Round,Copa de Brasil,2011
 2011-02-23,Trem,2,1,Náutico-PE,False,False,First Round,Copa de Brasil,2011
 2011-03-03,Náutico-PE,6,0,Trem,False,False,First Round,Copa de Brasil,2011
-2011-02-23,Rio Branco-AC,2,1,Athletico-PR,False,False,First Round,Copa de Brasil,2011
-2011-03-02,Athletico-PR,3,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,2011
+2011-02-23,Rio Branco-AC,2,1,Athletico Paranaense,False,False,First Round,Copa de Brasil,2011
+2011-03-02,Athletico Paranaense,3,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,2011
 2011-02-24,São José-RS,1,0,Paulista-SP,False,False,First Round,Copa de Brasil,2011
 2011-03-02,Paulista-SP,3,0,São José-RS,False,False,First Round,Copa de Brasil,2011
 2011-02-16,São Domingos-SE,0,0,Bahia,False,False,First Round,Copa de Brasil,2011
@@ -56,8 +56,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-03-16,Fortaleza,0,3,Flamengo,False,False,Second Round,Copa de Brasil,2011
 2011-03-17,Horizonte,1,1,Guarani,False,False,Second Round,Copa de Brasil,2011
 2011-03-30,Guarani,2,2,Horizonte,False,False,Second Round,Copa de Brasil,2011
-2011-03-31,Prudente,2,1,Atlético-MG,False,False,Second Round,Copa de Brasil,2011
-2011-04-06,Atlético-MG,0,0,Prudente,False,False,Second Round,Copa de Brasil,2011
+2011-03-31,Prudente,2,1,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2011
+2011-04-06,Atlético Mineiro,0,0,Prudente,False,False,Second Round,Copa de Brasil,2011
 2011-03-16,Brasiliense,0,0,Ceará,False,False,Second Round,Copa de Brasil,2011
 2011-03-30,Ceará,2,1,Brasiliense,False,False,Second Round,Copa de Brasil,2011
 2011-03-16,Botafogo-PB,0,1,Caxias,False,False,Second Round,Copa de Brasil,2011
@@ -70,7 +70,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-03-30,ABC,0,0,Vasco da Gama,False,False,Second Round,Copa de Brasil,2011
 2011-04-06,Vasco da Gama,2,1,ABC,False,False,Second Round,Copa de Brasil,2011
 2011-03-16,Bangu,0,2,Náutico,False,False,Second Round,Copa de Brasil,2011
-2011-03-16,Paulista,0,2,Athletico-PR,False,False,Second Round,Copa de Brasil,2011
+2011-03-16,Paulista,0,2,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2011
 2011-03-30,Paysandu,0,0,Bahia,False,False,Second Round,Copa de Brasil,2011
 2011-04-06,Bahia,2,1,Paysandu,False,False,Second Round,Copa de Brasil,2011
 2011-03-30,Paraná,1,2,Botafogo,False,False,Second Round,Copa de Brasil,2011
@@ -90,8 +90,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-04-21,Palmeiras,1,0,Santo André,False,False,Round of 16,Copa de Brasil,2011
 2011-04-13,Náutico,0,3,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2011
 2011-04-27,Vasco da Gama,0,0,Náutico,False,False,Round of 16,Copa de Brasil,2011
-2011-04-13,Bahia,1,1,Athletico-PR,False,False,Round of 16,Copa de Brasil,2011
-2011-04-20,Athletico-PR,5,0,Bahia,False,False,Round of 16,Copa de Brasil,2011
+2011-04-13,Bahia,1,1,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2011
+2011-04-20,Athletico Paranaense,5,0,Bahia,False,False,Round of 16,Copa de Brasil,2011
 2011-04-13,Botafogo,2,2,Avaí,False,False,Round of 16,Copa de Brasil,2011
 2011-04-20,Avaí,1,1,Botafogo,False,False,Round of 16,Copa de Brasil,2011
 2011-04-20,Goiás,0,1,São Paulo,False,False,Round of 16,Copa de Brasil,2011
@@ -100,8 +100,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2011-05-11,Ceará,2,2,Flamengo,False,False,Quarterfinal,Copa de Brasil,2011
 2011-05-05,Coritiba,6,0,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2011
 2011-05-11,Palmeiras,2,0,Coritiba,False,False,Quarterfinal,Copa de Brasil,2011
-2011-05-04,Athletico-PR,2,2,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,2011
-2011-05-12,Vasco da Gama,1,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2011
+2011-05-04,Athletico Paranaense,2,2,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,2011
+2011-05-12,Vasco da Gama,1,1,Athletico Paranaense,False,False,Quarterfinal,Copa de Brasil,2011
 2011-05-04,São Paulo,1,0,Avaí,False,False,Quarterfinal,Copa de Brasil,2011
 2011-05-12,Avaí,3,1,São Paulo,False,False,Quarterfinal,Copa de Brasil,2011
 2011-05-18,Ceará,0,0,Coritiba,False,False,Semifinal,Copa de Brasil,2011

@@ -11,18 +11,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-03-29,Boca Juniors,0,0,Bolívar,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-02,River Plate,3,1,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-05,Boca Juniors,0,0,Oriente Petrolero,False,False,Group Stage,Copa Libertadores de América,1991
-1991-02-20,Concepción,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1991
+1991-02-20,Concepción,0,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1991
 1991-02-20,Barcelona de Guayaquil,0,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1991
 1991-02-26,Concepción,1,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-01,Colo Colo,3,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-01,Colo-Colo,3,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-05,Barcelona de Guayaquil,2,2,Concepción,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-08,LDU Quito,4,0,Concepción,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-13,Colo Colo,2,0,Concepción,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-13,Colo-Colo,2,0,Concepción,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-13,LDU Quito,0,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-19,Concepción,3,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-22,Colo Colo,3,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1991
-1991-04-02,Barcelona de Guayaquil,2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1991
-1991-04-05,LDU Quito,0,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-22,Colo-Colo,3,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,1991
+1991-04-02,Barcelona de Guayaquil,2,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1991
+1991-04-05,LDU Quito,0,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1991
 1991-02-20,Flamengo,1,1,Corinthians,False,False,Group Stage,Copa Libertadores de América,1991
 1991-02-20,Nacional de Montevideo,3,0,Bella Vista,False,False,Group Stage,Copa Libertadores de América,1991
 1991-02-26,Bella Vista,2,2,Flamengo,False,False,Group Stage,Copa Libertadores de América,1991
@@ -36,15 +36,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-04,Flamengo,4,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-05,Corinthians,0,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1991
 1991-02-20,Atlético Colegiales,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1991
-1991-02-20,Sport,0,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1991
+1991-02-20,Sport Boys,0,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-06,Cerro Porteño,1,1,Atlético Colegiales,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-06,Universitario,1,3,Sport,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-12,Sport,2,2,Atlético Colegiales,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-06,Universitario,1,3,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-12,Sport Boys,2,2,Atlético Colegiales,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-15,Universitario,0,0,Atlético Colegiales,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-19,Sport,1,3,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-19,Sport Boys,1,3,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1991
 1991-03-22,Universitario,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-25,Atlético Colegiales,4,1,Sport,False,False,Group Stage,Copa Libertadores de América,1991
-1991-03-28,Cerro Porteño,3,0,Sport,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-25,Atlético Colegiales,4,1,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1991
+1991-03-28,Cerro Porteño,3,0,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-02,Atlético Colegiales,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-05,Cerro Porteño,0,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-10,Atlético Colegiales,0,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1991
@@ -62,8 +62,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-07,Atlético Nacional,2,2,Marítimo,False,False,Group Stage,Copa Libertadores de América,1991
 1991-04-17,Nacional de Montevideo,4,1,Bolívar,False,False,Round of 16,Copa Libertadores de América,1991
 1991-04-24,Bolívar,1,1,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,1991
-1991-04-17,Universitario,0,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,1991
-1991-04-24,Colo Colo,2,1,Universitario,False,False,Round of 16,Copa Libertadores de América,1991
+1991-04-17,Universitario,0,0,Colo-Colo,False,False,Round of 16,Copa Libertadores de América,1991
+1991-04-24,Colo-Colo,2,1,Universitario,False,False,Round of 16,Copa Libertadores de América,1991
 1991-04-17,Táchira,2,3,Flamengo,False,False,Round of 16,Copa Libertadores de América,1991
 1991-04-24,Flamengo,5,0,Táchira,False,False,Round of 16,Copa Libertadores de América,1991
 1991-04-17,Boca Juniors,3,1,Corinthians,False,False,Round of 16,Copa Libertadores de América,1991
@@ -76,17 +76,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1991-04-24,Atlético Colegiales,1,2,Olimpia,False,False,Round of 16,Copa Libertadores de América,1991
 1991-04-17,Oriente Petrolero,1,1,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,1991
 1991-04-24,Cerro Porteño,2,0,Oriente Petrolero,False,False,Round of 16,Copa Libertadores de América,1991
-1991-05-01,Colo Colo,4,0,Nacional de Montevideo,False,False,Quarterfinal,Copa Libertadores de América,1991
-1991-05-08,Nacional de Montevideo,2,0,Colo Colo,False,False,Quarterfinal,Copa Libertadores de América,1991
+1991-05-01,Colo-Colo,4,0,Nacional de Montevideo,False,False,Quarterfinal,Copa Libertadores de América,1991
+1991-05-08,Nacional de Montevideo,2,0,Colo-Colo,False,False,Quarterfinal,Copa Libertadores de América,1991
 1991-05-01,Flamengo,2,1,Boca Juniors,False,False,Quarterfinal,Copa Libertadores de América,1991
 1991-05-08,Boca Juniors,3,0,Flamengo,False,False,Quarterfinal,Copa Libertadores de América,1991
 1991-05-01,América,0,0,Atlético Nacional,False,False,Quarterfinal,Copa Libertadores de América,1991
 1991-05-08,Atlético Nacional,2,0,América,False,False,Quarterfinal,Copa Libertadores de América,1991
 1991-05-01,Cerro Porteño,1,0,Olimpia,False,False,Quarterfinal,Copa Libertadores de América,1991
 1991-05-08,Olimpia,3,0,Cerro Porteño,False,False,Quarterfinal,Copa Libertadores de América,1991
-1991-05-17,Boca Juniors,1,0,Colo Colo,False,False,Semifinal,Copa Libertadores de América,1991
-1991-05-22,Colo Colo,3,1,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,1991
+1991-05-17,Boca Juniors,1,0,Colo-Colo,False,False,Semifinal,Copa Libertadores de América,1991
+1991-05-22,Colo-Colo,3,1,Boca Juniors,False,False,Semifinal,Copa Libertadores de América,1991
 1991-05-17,Atlético Nacional,0,0,Olimpia,False,False,Semifinal,Copa Libertadores de América,1991
 1991-05-22,Olimpia,1,0,Atlético Nacional,False,False,Semifinal,Copa Libertadores de América,1991
-1991-05-29,Olimpia,0,0,Colo Colo,False,False,Final,Copa Libertadores de América,1991
-1991-06-05,Colo Colo,3,0,Olimpia,False,False,Final,Copa Libertadores de América,1991
+1991-05-29,Olimpia,0,0,Colo-Colo,False,False,Final,Copa Libertadores de América,1991
+1991-06-05,Colo-Colo,3,0,Olimpia,False,False,Final,Copa Libertadores de América,1991

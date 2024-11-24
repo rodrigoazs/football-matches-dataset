@@ -59,14 +59,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-03-17,Real Noroeste-ES,0,1,Juventude,False,True,Second Round,Copa de Brasil,2022
 2022-03-17,Goiás,1,0,Criciúma,False,True,Second Round,Copa de Brasil,2022
 2022-03-23,Vitória,2,0,Gloria-RS,False,True,Second Round,Copa de Brasil,2022
-2022-04-19,CSA,0,3,América-MG,False,False,Third Round,Copa de Brasil,2022
+2022-04-19,CSA,0,3,América Mineiro,False,False,Third Round,Copa de Brasil,2022
 2022-04-19,Bahia,0,0,Azuriz,False,False,Third Round,Copa de Brasil,2022
 2022-04-19,Fluminense,3,2,Vila Nova-GO,False,False,Third Round,Copa de Brasil,2022
 2022-04-19,Remo,2,1,Cruzeiro,False,False,Third Round,Copa de Brasil,2022
 2022-04-20,Goiás,1,2,RB Bragantino,False,False,Third Round,Copa de Brasil,2022
-2022-04-20,Atlético-MG,3,0,Brasiliense,False,False,Third Round,Copa de Brasil,2022
+2022-04-20,Atlético Mineiro,3,0,Brasiliense,False,False,Third Round,Copa de Brasil,2022
 2022-04-20,Fortaleza,3,0,Vitória,False,False,Third Round,Copa de Brasil,2022
-2022-04-20,Tocantinópolis-TO,2,5,Athletico-PR,False,False,Third Round,Copa de Brasil,2022
+2022-04-20,Tocantinópolis-TO,2,5,Athletico Paranaense,False,False,Third Round,Copa de Brasil,2022
 2022-04-20,Juventude,2,2,São Paulo,False,False,Third Round,Copa de Brasil,2022
 2022-04-20,Coritiba,1,0,Santos,False,False,Third Round,Copa de Brasil,2022
 2022-04-20,Tombense,0,2,Ceará,False,False,Third Round,Copa de Brasil,2022
@@ -75,9 +75,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-04-21,Atlético-GO,1,1,Cuiabá,False,False,Third Round,Copa de Brasil,2022
 2022-04-30,Palmeiras,2,1,Juazeirense,False,False,Third Round,Copa de Brasil,2022
 2022-05-01,Altos,1,2,Flamengo,False,False,Third Round,Copa de Brasil,2022
-2022-05-10,América-MG,2,0,CSA,False,False,Third Round,Copa de Brasil,2022
+2022-05-10,América Mineiro,2,0,CSA,False,False,Third Round,Copa de Brasil,2022
 2022-05-10,Azuriz,1,1,Bahia,False,False,Third Round,Copa de Brasil,2022
-2022-05-10,Athletico-PR,4,0,Tocantinópolis-TO,False,False,Third Round,Copa de Brasil,2022
+2022-05-10,Athletico Paranaense,4,0,Tocantinópolis-TO,False,False,Third Round,Copa de Brasil,2022
 2022-05-11,Ceará,2,0,Tombense,False,False,Third Round,Copa de Brasil,2022
 2022-05-11,Juazeirense,1,2,Palmeiras,False,False,Third Round,Copa de Brasil,2022
 2022-05-11,Flamengo,2,0,Altos,False,False,Third Round,Copa de Brasil,2022
@@ -89,32 +89,32 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2022-05-12,Cruzeiro,1,0,Remo,False,False,Third Round,Copa de Brasil,2022
 2022-05-12,Botafogo,3,0,Ceilândia,False,False,Third Round,Copa de Brasil,2022
 2022-05-12,Santos,3,0,Coritiba,False,False,Third Round,Copa de Brasil,2022
-2022-05-22,Brasiliense,0,1,Atlético-MG,False,False,Third Round,Copa de Brasil,2022
+2022-05-22,Brasiliense,0,1,Atlético Mineiro,False,False,Third Round,Copa de Brasil,2022
 2022-05-31,RB Bragantino,0,1,Goiás,False,False,Third Round,Copa de Brasil,2022
 2022-06-22,Atlético-GO,0,0,Goiás,False,False,Round of 16,Copa de Brasil,2022
-2022-06-22,Bahia,1,2,Athletico-PR,False,False,Round of 16,Copa de Brasil,2022
+2022-06-22,Bahia,1,2,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2022
 2022-06-22,Fortaleza,2,0,Ceará,False,False,Round of 16,Copa de Brasil,2022
 2022-06-22,Corinthians,4,0,Santos,False,False,Round of 16,Copa de Brasil,2022
-2022-06-22,Atlético-MG,2,1,Flamengo,False,False,Round of 16,Copa de Brasil,2022
+2022-06-22,Atlético Mineiro,2,1,Flamengo,False,False,Round of 16,Copa de Brasil,2022
 2022-06-23,Fluminense,2,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2022
 2022-06-23,São Paulo,1,0,Palmeiras,False,False,Round of 16,Copa de Brasil,2022
-2022-06-30,América-MG,3,0,Botafogo,False,False,Round of 16,Copa de Brasil,2022
-2022-07-12,Athletico-PR,2,1,Bahia,False,False,Round of 16,Copa de Brasil,2022
+2022-06-30,América Mineiro,3,0,Botafogo,False,False,Round of 16,Copa de Brasil,2022
+2022-07-12,Athletico Paranaense,2,1,Bahia,False,False,Round of 16,Copa de Brasil,2022
 2022-07-12,Cruzeiro,0,3,Fluminense,False,False,Round of 16,Copa de Brasil,2022
 2022-07-13,Goiás,0,3,Atlético-GO,False,False,Round of 16,Copa de Brasil,2022
 2022-07-13,Ceará,1,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2022
 2022-07-13,Santos,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,2022
-2022-07-13,Flamengo,2,0,Atlético-MG,False,False,Round of 16,Copa de Brasil,2022
+2022-07-13,Flamengo,2,0,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2022
 2022-07-14,Palmeiras,2,1,São Paulo,False,False,Round of 16,Copa de Brasil,2022
-2022-07-14,Botafogo,0,2,América-MG,False,False,Round of 16,Copa de Brasil,2022
+2022-07-14,Botafogo,0,2,América Mineiro,False,False,Round of 16,Copa de Brasil,2022
 2022-07-27,Atlético-GO,2,0,Corinthians,False,False,Quarterfinal,Copa de Brasil,2022
-2022-07-27,Flamengo,0,0,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2022
-2022-07-28,São Paulo,1,0,América-MG,False,False,Quarterfinal,Copa de Brasil,2022
+2022-07-27,Flamengo,0,0,Athletico Paranaense,False,False,Quarterfinal,Copa de Brasil,2022
+2022-07-28,São Paulo,1,0,América Mineiro,False,False,Quarterfinal,Copa de Brasil,2022
 2022-07-28,Fortaleza,0,1,Fluminense,False,False,Quarterfinal,Copa de Brasil,2022
 2022-08-17,Fluminense,2,2,Fortaleza,False,False,Quarterfinal,Copa de Brasil,2022
 2022-08-17,Corinthians,4,1,Atlético-GO,False,False,Quarterfinal,Copa de Brasil,2022
-2022-08-17,Athletico-PR,0,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2022
-2022-08-18,América-MG,2,2,São Paulo,False,False,Quarterfinal,Copa de Brasil,2022
+2022-08-17,Athletico Paranaense,0,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2022
+2022-08-18,América Mineiro,2,2,São Paulo,False,False,Quarterfinal,Copa de Brasil,2022
 2022-08-24,Fluminense,2,2,Corinthians,False,False,Semifinal,Copa de Brasil,2022
 2022-08-24,São Paulo,1,3,Flamengo,False,False,Semifinal,Copa de Brasil,2022
 2022-09-14,Flamengo,1,0,São Paulo,False,False,Semifinal,Copa de Brasil,2022

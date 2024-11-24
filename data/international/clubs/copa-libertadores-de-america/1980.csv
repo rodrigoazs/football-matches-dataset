@@ -1,15 +1,15 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-1980-02-16,Sport,0,0,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
+1980-02-16,Sporting Cristal,0,0,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
 1980-02-27,River Plate,0,0,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-01,Atlético Chalaco,0,2,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-11,River Plate,3,2,Sport,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-14,Vélez Sarsfield,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-11,River Plate,3,2,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-14,Vélez Sarsfield,2,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-27,Vélez Sarsfield,5,2,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-27,River Plate,3,0,Atlético Chalaco,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-09,Sport,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-15,Sport,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-09,Sporting Cristal,0,1,Vélez Sarsfield,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-15,Sporting Cristal,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-18,Atlético Chalaco,0,2,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-23,Atlético Chalaco,1,2,Sport,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-23,Atlético Chalaco,1,2,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-25,Vélez Sarsfield,0,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
 1980-05-08,Vélez Sarsfield,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-09,Nacional de Montevideo,1,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,1980
@@ -48,17 +48,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1980-03-30,América,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-02,Independiente Santa Fe,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-02,América,4,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1980
-1980-03-19,Colo Colo,1,1,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
+1980-03-19,Colo-Colo,1,1,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-21,Sol de América,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-25,Sol de América,1,4,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
 1980-03-28,Cerro Porteño,1,0,O'Higgins,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-08,Cerro Porteño,5,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-11,Sol de América,2,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-08,Cerro Porteño,5,3,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-11,Sol de América,2,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-16,Cerro Porteño,0,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-16,O'Higgins,1,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-16,O'Higgins,1,3,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-22,O'Higgins,2,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-22,Colo Colo,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
-1980-04-25,Colo Colo,1,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-22,Colo-Colo,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
+1980-04-25,Colo-Colo,1,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1980
 1980-04-25,O'Higgins,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1980
 1980-06-13,Vélez Sarsfield,0,1,Internacional,False,False,Semifinal,Copa Libertadores de América,1980
 1980-06-18,América,0,0,Vélez Sarsfield,False,False,Semifinal,Copa Libertadores de América,1980

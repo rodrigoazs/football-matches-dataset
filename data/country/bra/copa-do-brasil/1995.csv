@@ -19,7 +19,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1995-03-14,Volta Redonda,0,0,Bahia,False,False,First Round,Copa de Brasil,1995
 1995-03-14,Náutico-PE,1,4,São Paulo,False,False,First Round,Copa de Brasil,1995
 1995-03-16,Paraná-PR,1,0,Juventude,False,False,First Round,Copa de Brasil,1995
-1995-03-17,Atlético-MG,1,0,Sport,False,False,First Round,Copa de Brasil,1995
+1995-03-17,Atlético Mineiro,1,0,Sport,False,False,First Round,Copa de Brasil,1995
 1995-03-19,Rio Branco-AC,2,0,Palmares-RO,False,False,First Round,Copa de Brasil,1995
 1995-03-21,Pontaporanense-MS,0,2,Internacional,False,False,First Round,Copa de Brasil,1995
 1995-04-05,Gama,1,2,Flamengo,False,False,First Round,Copa de Brasil,1995
@@ -34,11 +34,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1995-03-28,Corinthians,4,0,Operário-MT,False,False,First Round,Copa de Brasil,1995
 1995-03-28,Palmares-RO,2,2,Rio Branco-AC,False,False,First Round,Copa de Brasil,1995
 1995-03-28,Vitória,2,0,Democrata-MG,False,False,First Round,Copa de Brasil,1995
-1995-03-28,Sport,2,2,Atlético-MG,False,False,First Round,Copa de Brasil,1995
+1995-03-28,Sport,2,2,Atlético Mineiro,False,False,First Round,Copa de Brasil,1995
 1995-03-28,Grêmio,2,1,Desportiva,False,False,First Round,Copa de Brasil,1995
 1995-03-30,Vasco da Gama,4,1,Flamengo-PI,False,False,First Round,Copa de Brasil,1995
 1995-04-12,Flamengo,3,0,Gama,False,False,First Round,Copa de Brasil,1995
-1995-04-04,Vitória,2,3,Atlético-MG,False,False,Round of 16,Copa de Brasil,1995
+1995-04-04,Vitória,2,3,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,1995
 1995-04-07,São Paulo,3,0,Remo,False,False,Round of 16,Copa de Brasil,1995
 1995-04-11,Rio Branco-AC,0,3,Corinthians,False,False,Round of 16,Copa de Brasil,1995
 1995-04-11,Grêmio,1,1,Palmeiras,False,False,Round of 16,Copa de Brasil,1995
@@ -50,17 +50,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1995-04-18,Remo,1,1,São Paulo,False,False,Round of 16,Copa de Brasil,1995
 1995-04-25,Corinthians,2,0,Rio Branco-AC,False,False,Round of 16,Copa de Brasil,1995
 1995-04-25,Internacional,0,1,Paraná-PR,False,False,Round of 16,Copa de Brasil,1995
-1995-04-25,Atlético-MG,1,1,Vitória,False,False,Round of 16,Copa de Brasil,1995
+1995-04-25,Atlético Mineiro,1,1,Vitória,False,False,Round of 16,Copa de Brasil,1995
 1995-04-26,Flamengo,8,0,Kaburé,False,False,Round of 16,Copa de Brasil,1995
 1995-04-27,Vasco da Gama,4,0,Nacional-AM,False,False,Round of 16,Copa de Brasil,1995
 1995-04-28,Bahia,2,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,1995
 1995-05-03,Paraná-PR,0,0,Corinthians,False,False,Quarterfinal,Copa de Brasil,1995
 1995-05-05,São Paulo,1,1,Grêmio,False,False,Quarterfinal,Copa de Brasil,1995
-1995-05-10,Vasco da Gama,0,1,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,1995
+1995-05-10,Vasco da Gama,0,1,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,1995
 1995-05-10,Cruzeiro,0,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,1995
 1995-05-12,Grêmio,2,0,São Paulo,False,False,Quarterfinal,Copa de Brasil,1995
 1995-05-16,Corinthians,2,1,Paraná-PR,False,False,Quarterfinal,Copa de Brasil,1995
-1995-05-17,Atlético-MG,0,1,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,1995
+1995-05-17,Atlético Mineiro,0,1,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,1995
 1995-05-17,Flamengo,1,1,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,1995
 1995-05-23,Flamengo,2,1,Grêmio,False,False,Semifinal,Copa de Brasil,1995
 1995-05-24,Vasco da Gama,0,1,Corinthians,False,False,Semifinal,Copa de Brasil,1995

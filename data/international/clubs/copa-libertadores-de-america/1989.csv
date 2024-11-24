@@ -1,15 +1,15 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1989-02-23,Olimpia,0,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
-1989-02-24,Colo Colo,0,2,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
-1989-02-28,Colo Colo,3,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-24,Colo-Colo,0,2,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-28,Colo-Colo,3,1,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-03,Cobreloa,1,0,Sol de América,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-07,Sol de América,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-10,Olimpia,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-14,Colo Colo,2,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-07,Sol de América,1,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-10,Olimpia,2,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-14,Colo-Colo,2,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-17,Cobreloa,2,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-20,Sol de América,0,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-23,Olimpia,2,0,Cobreloa,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-29,Cobreloa,2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-29,Cobreloa,2,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-30,Sol de América,5,4,Olimpia,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-19,Marítimo,0,1,Táchira,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-21,Internacional,1,2,Bahia,False,False,Group Stage,Copa Libertadores de América,1989
@@ -35,18 +35,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1989-03-17,Millonarios,3,1,Deportivo Quito,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-28,Atlético Nacional,3,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-31,Millonarios,4,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1989
-1989-02-12,Sport,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-12,Sporting Cristal,1,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-14,Boca Juniors,0,0,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-20,Universitario,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
-1989-02-23,Sport,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
+1989-02-23,Sporting Cristal,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-28,Universitario,2,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-02,Sport,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-02,Sporting Cristal,1,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-08,Racing Club,2,3,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-08,Universitario,4,0,Sport,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-08,Universitario,4,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-14,Boca Juniors,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-17,Racing Club,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-21,Boca Juniors,4,3,Sport,False,False,Group Stage,Copa Libertadores de América,1989
-1989-03-24,Racing Club,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-21,Boca Juniors,4,3,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1989
+1989-03-24,Racing Club,2,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1989
 1989-03-29,Boca Juniors,3,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-17,Danubio,4,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1989
 1989-02-17,Bolívar,0,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,1989

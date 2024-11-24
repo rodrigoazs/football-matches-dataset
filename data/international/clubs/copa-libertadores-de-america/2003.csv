@@ -24,17 +24,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-17,River Plate,2,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-17,Libertad,1,0,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-06,Cerro Porteño,3,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-13,Sport,0,2,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-19,Universidad Católica (Santiago),0,1,Sport,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-13,Sporting Cristal,0,2,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-19,Universidad Católica (Santiago),0,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-06,Paysandu,0,0,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-11,Paysandu,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-12,Sport,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-12,Sporting Cristal,1,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-18,Universidad Católica (Santiago),2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-18,Paysandu,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-18,Paysandu,2,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-27,Cerro Porteño,2,6,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-27,Sport,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-27,Sporting Cristal,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-15,Universidad Católica (Santiago),1,1,Paysandu,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-15,Cerro Porteño,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-15,Cerro Porteño,1,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-05,12 de Octubre,3,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-05,América de Cali,1,5,Santos,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-20,Santos,3,1,12 de Octubre,False,False,Group Stage,Copa Libertadores de América,2003
@@ -83,18 +83,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-09,Racing Club,4,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-16,Oriente Petrolero,0,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-16,Universitario,2,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-06,Barcelona de Guayaquil,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-06,Barcelona de Guayaquil,2,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-20,Boca Juniors,2,0,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2003
-2003-02-26,Colo Colo,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2003
+2003-02-26,Colo-Colo,1,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-27,Independiente Medellín,1,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-05,Boca Juniors,2,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-06,Colo Colo,2,1,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2003
-2003-03-13,Colo Colo,1,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-06,Colo-Colo,2,1,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2003
+2003-03-13,Colo-Colo,1,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2003
 2003-03-26,Independiente Medellín,1,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-03,Boca Juniors,2,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-03,Boca Juniors,2,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-03,Barcelona de Guayaquil,2,4,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2003
 2003-04-10,Barcelona de Guayaquil,2,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2003
-2003-04-10,Independiente Medellín,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2003
+2003-04-10,Independiente Medellín,2,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-05,Corinthians,1,0,Cruz Azul,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-18,Cruz Azul,3,2,The Strongest,False,False,Group Stage,Copa Libertadores de América,2003
 2003-02-19,Fénix,1,2,Corinthians,False,False,Group Stage,Copa Libertadores de América,2003

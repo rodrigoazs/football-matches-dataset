@@ -1,13 +1,13 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1974-02-28,Rosario Central,1,0,Huracán,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-02,Unión Española,2,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-02,Unión Española,2,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-05,Unión Española,1,3,Huracán,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-07,Colo Colo,1,2,Huracán,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-12,Rosario Central,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-14,Huracán,2,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-07,Colo-Colo,1,2,Huracán,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-12,Rosario Central,2,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-14,Huracán,2,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-19,Unión Española,0,1,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-21,Colo Colo,1,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-26,Colo Colo,0,2,Unión Española,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-21,Colo-Colo,1,3,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-26,Colo-Colo,0,2,Unión Española,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-26,Huracán,1,0,Rosario Central,False,False,Group Stage,Copa Libertadores de América,1974
 1974-04-02,Rosario Central,4,0,Unión Española,False,False,Group Stage,Copa Libertadores de América,1974
 1974-04-04,Huracán,5,1,Unión Española,False,False,Group Stage,Copa Libertadores de América,1974
@@ -36,17 +36,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1974-03-20,Atlético Nacional,2,1,Valencia,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-22,Millonarios,2,1,Valencia,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-22,Atlético Nacional,3,0,Portuguesa,False,False,Group Stage,Copa Libertadores de América,1974
-1974-02-17,Defensor Lima,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,1974
+1974-02-17,Defensor Lima,2,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1974
 1974-02-17,El Nacional,2,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1974
 1974-02-24,Universidad Católica (Santiago),1,0,Defensor Lima,False,False,Group Stage,Copa Libertadores de América,1974
 1974-02-27,El Nacional,0,0,Defensor Lima,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-03,Universidad Católica (Santiago),0,0,Sport,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-06,El Nacional,3,0,Sport,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-03,Universidad Católica (Santiago),0,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-06,El Nacional,3,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-10,Universidad Católica (Santiago),0,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-13,Sport,0,2,Defensor Lima,False,False,Group Stage,Copa Libertadores de América,1974
-1974-03-20,Sport,1,3,El Nacional,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-13,Sporting Cristal,0,2,Defensor Lima,False,False,Group Stage,Copa Libertadores de América,1974
+1974-03-20,Sporting Cristal,1,3,El Nacional,False,False,Group Stage,Copa Libertadores de América,1974
 1974-03-27,Defensor Lima,2,1,El Nacional,False,False,Group Stage,Copa Libertadores de América,1974
-1974-04-03,Sport,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1974
+1974-04-03,Sporting Cristal,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1974
 1974-04-09,Defensor Lima,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1974
 1974-02-05,Cerro Porteño,1,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,1974
 1974-02-06,Nacional de Montevideo,0,1,Peñarol,False,False,Group Stage,Copa Libertadores de América,1974

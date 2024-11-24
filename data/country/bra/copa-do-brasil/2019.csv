@@ -34,7 +34,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-02-13,São Raimundo-PA,0,2,Criciúma,False,True,First Round,Copa de Brasil,2019
 2019-02-13,Sergipe-SE,0,2,Goiás,False,True,First Round,Copa de Brasil,2019
 2019-02-13,Ypiranga-AP,0,1,Cuiabá,False,True,First Round,Copa de Brasil,2019
-2019-02-13,São Raimundo-RR,0,0,América-MG,False,True,First Round,Copa de Brasil,2019
+2019-02-13,São Raimundo-RR,0,0,América Mineiro,False,True,First Round,Copa de Brasil,2019
 2019-02-14,Fast Clube,1,6,Oeste-SP,False,True,First Round,Copa de Brasil,2019
 2019-02-14,Sinop-MT,1,2,Santa Cruz-PE,False,True,First Round,Copa de Brasil,2019
 2019-02-14,URT-MG,3,2,Coritiba,False,True,First Round,Copa de Brasil,2019
@@ -51,7 +51,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-02-27,URT-MG,2,2,Vila Nova-GO,False,True,Second Round,Copa de Brasil,2019
 2019-02-27,Botafogo,3,0,Cuiabá,False,True,Second Round,Copa de Brasil,2019
 2019-02-27,Foz do Iguaçu,0,0,Ceará,False,True,Second Round,Copa de Brasil,2019
-2019-02-28,Juventude,2,1,América-MG,False,True,Second Round,Copa de Brasil,2019
+2019-02-28,Juventude,2,1,América Mineiro,False,True,Second Round,Copa de Brasil,2019
 2019-02-28,Tombense,2,2,Botafogo-PB,False,True,Second Round,Copa de Brasil,2019
 2019-03-06,Mixto,1,2,Chapecoense,False,True,Second Round,Copa de Brasil,2019
 2019-03-06,Fluminense,3,0,Ypiranga-RS,False,True,Second Round,Copa de Brasil,2019
@@ -92,8 +92,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-05-07,Vila Nova-GO,0,0,Juventude,False,False,Fourth Round,Copa de Brasil,2019
 2019-05-15,Corinthians,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2019
 2019-05-15,Fluminense,1,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2019
-2019-05-15,Atlético-MG,0,0,Santos,False,False,Round of 16,Copa de Brasil,2019
-2019-05-16,Fortaleza,0,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2019
+2019-05-15,Atlético Mineiro,0,0,Santos,False,False,Round of 16,Copa de Brasil,2019
+2019-05-16,Fortaleza,0,0,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2019
 2019-05-22,Juventude,0,0,Grêmio,False,False,Round of 16,Copa de Brasil,2019
 2019-05-22,São Paulo,0,1,Bahia,False,False,Round of 16,Copa de Brasil,2019
 2019-05-22,Sampaio Corrêa-MA,0,1,Palmeiras,False,False,Round of 16,Copa de Brasil,2019
@@ -104,19 +104,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-05-30,Palmeiras,2,0,Sampaio Corrêa-MA,False,False,Round of 16,Copa de Brasil,2019
 2019-06-04,Flamengo,1,0,Corinthians,False,False,Round of 16,Copa de Brasil,2019
 2019-06-05,Cruzeiro,2,2,Fluminense,False,False,Round of 16,Copa de Brasil,2019
-2019-06-05,Athletico-PR,1,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2019
-2019-06-06,Santos,1,2,Atlético-MG,False,False,Round of 16,Copa de Brasil,2019
-2019-07-10,Athletico-PR,1,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2019
+2019-06-05,Athletico Paranaense,1,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2019
+2019-06-06,Santos,1,2,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2019
+2019-07-10,Athletico Paranaense,1,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-10,Palmeiras,1,0,Internacional,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-10,Grêmio,1,1,Bahia,False,False,Quarterfinal,Copa de Brasil,2019
-2019-07-11,Cruzeiro,3,0,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2019
-2019-07-17,Flamengo,1,1,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2019
+2019-07-11,Cruzeiro,3,0,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,2019
+2019-07-17,Flamengo,1,1,Athletico Paranaense,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-17,Internacional,1,0,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2019
 2019-07-17,Bahia,0,1,Grêmio,False,False,Quarterfinal,Copa de Brasil,2019
-2019-07-17,Atlético-MG,2,0,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,2019
+2019-07-17,Atlético Mineiro,2,0,Cruzeiro,False,False,Quarterfinal,Copa de Brasil,2019
 2019-08-07,Cruzeiro,0,1,Internacional,False,False,Semifinal,Copa de Brasil,2019
-2019-08-14,Grêmio,2,0,Athletico-PR,False,False,Semifinal,Copa de Brasil,2019
+2019-08-14,Grêmio,2,0,Athletico Paranaense,False,False,Semifinal,Copa de Brasil,2019
 2019-09-04,Internacional,3,0,Cruzeiro,False,False,Semifinal,Copa de Brasil,2019
-2019-09-04,Athletico-PR,2,0,Grêmio,False,False,Semifinal,Copa de Brasil,2019
-2019-09-11,Athletico-PR,1,0,Internacional,False,False,Final,Copa de Brasil,2019
-2019-09-18,Internacional,1,2,Athletico-PR,False,False,Final,Copa de Brasil,2019
+2019-09-04,Athletico Paranaense,2,0,Grêmio,False,False,Semifinal,Copa de Brasil,2019
+2019-09-11,Athletico Paranaense,1,0,Internacional,False,False,Final,Copa de Brasil,2019
+2019-09-18,Internacional,1,2,Athletico Paranaense,False,False,Final,Copa de Brasil,2019

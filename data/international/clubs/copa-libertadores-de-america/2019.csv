@@ -54,17 +54,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-05-08,Cruzeiro,1,2,Emelec,False,False,Group Stage,Copa Libertadores de América,2019
 2019-05-08,Huracán,3,0,Deportivo Lara,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-05,Godoy Cruz,0,0,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
-2019-03-06,Universidad de Concepción,5,4,Sport,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-06,Universidad de Concepción,5,4,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-12,Olimpia,1,1,Universidad de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
-2019-03-12,Sport,1,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-12,Sporting Cristal,1,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
 2019-04-03,Universidad de Concepción,0,0,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
-2019-04-04,Sport,0,3,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-04,Sporting Cristal,0,3,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
 2019-04-09,Olimpia,2,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2019
-2019-04-10,Sport,2,0,Universidad de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-10,Sporting Cristal,2,0,Universidad de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
 2019-04-23,Universidad de Concepción,3,3,Olimpia,False,False,Group Stage,Copa Libertadores de América,2019
-2019-04-23,Godoy Cruz,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-23,Godoy Cruz,2,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2019
 2019-05-09,Godoy Cruz,1,0,Universidad de Concepción,False,False,Group Stage,Copa Libertadores de América,2019
-2019-05-09,Olimpia,0,1,Sport,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-09,Olimpia,0,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-05,San José,0,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-07,LDU Quito,2,0,Peñarol,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-13,Flamengo,3,1,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2019
@@ -101,17 +101,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-04-25,Melgar,0,4,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2019
 2019-05-08,Junior de Barranquilla,0,1,Melgar,False,False,Group Stage,Copa Libertadores de América,2019
 2019-05-08,Palmeiras,1,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2019
-2019-03-05,Deportes Tolima,1,0,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-05,Deportes Tolima,1,0,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-05,Jorge Wilstermann,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-12,Boca Juniors,3,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
-2019-03-14,Athletico-PR,4,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
-2019-04-02,Athletico-PR,3,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
+2019-03-14,Athletico Paranaense,4,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-02,Athletico Paranaense,3,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
 2019-04-03,Deportes Tolima,2,2,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
-2019-04-09,Athletico-PR,1,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-09,Athletico Paranaense,1,0,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
 2019-04-10,Boca Juniors,4,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2019
-2019-04-24,Jorge Wilstermann,3,2,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2019
+2019-04-24,Jorge Wilstermann,3,2,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2019
 2019-04-24,Deportes Tolima,2,2,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2019
-2019-05-09,Boca Juniors,2,1,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2019
+2019-05-09,Boca Juniors,2,1,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2019
 2019-05-09,Jorge Wilstermann,0,2,Deportes Tolima,False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-05,Libertad,4,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2019
 2019-03-06,Rosario Central,1,1,Grêmio,False,False,Group Stage,Copa Libertadores de América,2019
@@ -135,8 +135,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-07-31,Internacional,2,0,Nacional de Montevideo,False,False,Round of 16,Copa Libertadores de América,2019
 2019-07-24,San Lorenzo de Almagro,0,0,Cerro Porteño,False,False,Round of 16,Copa Libertadores de América,2019
 2019-07-31,Cerro Porteño,2,1,San Lorenzo de Almagro,False,False,Round of 16,Copa Libertadores de América,2019
-2019-07-24,Athletico-PR,0,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2019
-2019-07-31,Boca Juniors,2,0,Athletico-PR,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-24,Athletico Paranaense,0,1,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2019
+2019-07-31,Boca Juniors,2,0,Athletico Paranaense,False,False,Round of 16,Copa Libertadores de América,2019
 2019-07-24,Emelec,2,0,Flamengo,False,False,Round of 16,Copa Libertadores de América,2019
 2019-07-31,Flamengo,2,0,Emelec,False,False,Round of 16,Copa Libertadores de América,2019
 2019-07-25,Grêmio,2,0,Libertad,False,False,Round of 16,Copa Libertadores de América,2019

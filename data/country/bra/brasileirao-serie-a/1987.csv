@@ -6,9 +6,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-09-13,Internacional,4,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1987
 1987-09-13,Coritiba,0,1,Grêmio,False,False,First Round,Brasileirão Série A,1987
 1987-09-13,Bahia,0,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,1987
-1987-09-13,Atlético-MG,5,1,Santos,False,False,First Round,Brasileirão Série A,1987
+1987-09-13,Atlético Mineiro,5,1,Santos,False,False,First Round,Brasileirão Série A,1987
 1987-09-18,Corinthians,0,1,Goiás,False,False,First Round,Brasileirão Série A,1987
-1987-09-19,Atlético-MG,0,0,Internacional,False,False,First Round,Brasileirão Série A,1987
+1987-09-19,Atlético Mineiro,0,0,Internacional,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Santos,0,0,Palmeiras,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Fluminense,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Bahia,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1987
@@ -22,7 +22,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-09-23,Coritiba,2,1,Corinthians,False,False,First Round,Brasileirão Série A,1987
 1987-09-24,Botafogo,0,0,Internacional,False,False,First Round,Brasileirão Série A,1987
 1987-09-24,Santos,0,0,Flamengo,False,False,First Round,Brasileirão Série A,1987
-1987-09-30,Goiás,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1987
+1987-09-30,Goiás,0,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1987
 1987-09-26,Coritiba,2,1,Bahia,False,False,First Round,Brasileirão Série A,1987
 1987-09-26,Fluminense,0,0,Grêmio,False,False,First Round,Brasileirão Série A,1987
 1987-09-26,Palmeiras,2,1,São Paulo,False,False,First Round,Brasileirão Série A,1987
@@ -30,10 +30,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-09-27,Cruzeiro,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1987
 1987-09-27,Corinthians,0,0,Santos,False,False,First Round,Brasileirão Série A,1987
 1987-09-27,Internacional,2,0,Flamengo,False,False,First Round,Brasileirão Série A,1987
-1987-09-27,Vasco da Gama,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,1987
+1987-09-27,Vasco da Gama,1,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1987
 1987-10-01,Vasco da Gama,1,0,Botafogo,False,False,First Round,Brasileirão Série A,1987
 1987-10-02,Internacional,2,0,Palmeiras,False,False,First Round,Brasileirão Série A,1987
-1987-10-03,Atlético-MG,2,0,Coritiba,False,False,First Round,Brasileirão Série A,1987
+1987-10-03,Atlético Mineiro,2,0,Coritiba,False,False,First Round,Brasileirão Série A,1987
 1987-10-03,Santos,1,0,Grêmio,False,False,First Round,Brasileirão Série A,1987
 1987-10-04,Bahia,1,0,Goiás,False,False,First Round,Brasileirão Série A,1987
 1987-10-04,Flamengo,0,1,Fluminense,False,False,First Round,Brasileirão Série A,1987
@@ -43,13 +43,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-10-07,Santa Cruz,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1987
 1987-10-07,Palmeiras,1,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,1987
 1987-10-07,Botafogo,0,0,Santos,False,False,First Round,Brasileirão Série A,1987
-1987-10-08,São Paulo,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1987
+1987-10-08,São Paulo,0,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1987
 1987-10-08,Cruzeiro,1,1,Corinthians,False,False,First Round,Brasileirão Série A,1987
 1987-10-08,Grêmio,4,0,Goiás,False,False,First Round,Brasileirão Série A,1987
 1987-10-08,Flamengo,3,1,Coritiba,False,False,First Round,Brasileirão Série A,1987
 1987-10-10,Santa Cruz,3,1,Santos,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Vasco da Gama,4,1,Corinthians,False,False,First Round,Brasileirão Série A,1987
-1987-10-11,Cruzeiro,0,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1987
+1987-10-11,Cruzeiro,0,0,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Goiás,1,1,Flamengo,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Palmeiras,1,0,Coritiba,False,False,First Round,Brasileirão Série A,1987
 1987-10-12,São Paulo,0,2,Botafogo,False,False,First Round,Brasileirão Série A,1987
@@ -62,35 +62,35 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-10-18,Corinthians,1,0,Internacional,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Coritiba,1,1,Botafogo,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Grêmio,1,0,São Paulo,False,False,First Round,Brasileirão Série A,1987
-1987-10-18,Atlético-MG,3,1,Fluminense,False,False,First Round,Brasileirão Série A,1987
-1987-10-23,Grêmio,0,0,Atlético-MG,False,False,Second Round,Brasileirão Série A,1987
+1987-10-18,Atlético Mineiro,3,1,Fluminense,False,False,First Round,Brasileirão Série A,1987
+1987-10-23,Grêmio,0,0,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1987
 1987-10-24,Flamengo,1,0,Botafogo,False,False,Second Round,Brasileirão Série A,1987
 1987-10-25,Corinthians,0,0,Palmeiras,False,False,Second Round,Brasileirão Série A,1987
 1987-10-25,Bahia,0,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1987
-1987-10-28,Botafogo,0,0,Atlético-MG,False,False,Second Round,Brasileirão Série A,1987
+1987-10-28,Botafogo,0,0,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Bahia,1,1,Corinthians,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Santa Cruz,1,2,Palmeiras,False,False,Second Round,Brasileirão Série A,1987
 1987-10-29,Flamengo,1,1,Grêmio,False,False,Second Round,Brasileirão Série A,1987
 1987-10-31,Corinthians,2,1,Santa Cruz,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Palmeiras,0,1,Bahia,False,False,Second Round,Brasileirão Série A,1987
-1987-11-01,Atlético-MG,1,0,Flamengo,False,False,Second Round,Brasileirão Série A,1987
+1987-11-01,Atlético Mineiro,1,0,Flamengo,False,False,Second Round,Brasileirão Série A,1987
 1987-11-02,Grêmio,0,2,Botafogo,False,False,Second Round,Brasileirão Série A,1987
 1987-11-07,Flamengo,2,0,Palmeiras,False,False,Second Round,Brasileirão Série A,1987
 1987-11-07,Grêmio,2,0,Bahia,False,False,Second Round,Brasileirão Série A,1987
-1987-11-07,Atlético-MG,2,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1987
+1987-11-07,Atlético Mineiro,2,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1987
 1987-11-07,Botafogo,1,0,Corinthians,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Palmeiras,2,1,Grêmio,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Santa Cruz,1,0,Botafogo,False,False,Second Round,Brasileirão Série A,1987
-1987-11-11,Corinthians,1,2,Atlético-MG,False,False,Second Round,Brasileirão Série A,1987
+1987-11-11,Corinthians,1,2,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Bahia,0,2,Flamengo,False,False,Second Round,Brasileirão Série A,1987
 1987-11-14,Santa Cruz,2,1,Grêmio,False,False,Second Round,Brasileirão Série A,1987
 1987-11-14,Palmeiras,1,0,Botafogo,False,False,Second Round,Brasileirão Série A,1987
 1987-11-15,Corinthians,1,1,Flamengo,False,False,Second Round,Brasileirão Série A,1987
-1987-11-15,Bahia,1,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1987
+1987-11-15,Bahia,1,1,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1987
 1987-11-19,Grêmio,1,0,Corinthians,False,False,Second Round,Brasileirão Série A,1987
 1987-11-21,Botafogo,2,2,Bahia,False,False,Second Round,Brasileirão Série A,1987
 1987-11-22,Flamengo,3,1,Santa Cruz,False,False,Second Round,Brasileirão Série A,1987
-1987-11-22,Atlético-MG,1,0,Palmeiras,False,False,Second Round,Brasileirão Série A,1987
+1987-11-22,Atlético Mineiro,1,0,Palmeiras,False,False,Second Round,Brasileirão Série A,1987
 1987-10-24,São Paulo,3,1,Santos,False,False,Second Round,Brasileirão Série A,1987
 1987-10-24,Vasco da Gama,0,2,Fluminense,False,False,Second Round,Brasileirão Série A,1987
 1987-10-24,Goiás,1,1,Coritiba,False,False,Second Round,Brasileirão Série A,1987
@@ -119,29 +119,29 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-11-21,Coritiba,2,1,Fluminense,False,False,Second Round,Brasileirão Série A,1987
 1987-11-22,Goiás,2,2,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1987
 1987-11-22,Santos,0,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1987
-1987-11-29,Flamengo,1,0,Atlético-MG,False,False,Semifinal,Brasileirão Série A,1987
-1987-12-02,Atlético-MG,2,3,Flamengo,False,False,Semifinal,Brasileirão Série A,1987
+1987-11-29,Flamengo,1,0,Atlético Mineiro,False,False,Semifinal,Brasileirão Série A,1987
+1987-12-02,Atlético Mineiro,2,3,Flamengo,False,False,Semifinal,Brasileirão Série A,1987
 1987-11-29,Internacional,0,0,Cruzeiro,False,False,Semifinal,Brasileirão Série A,1987
 1987-12-02,Cruzeiro,0,0,Internacional,False,False,Semifinal,Brasileirão Série A,1987
 1987-12-06,Internacional,1,1,Flamengo,False,False,Final,Brasileirão Série A,1987
 1987-12-13,Flamengo,1,0,Internacional,False,False,Final,Brasileirão Série A,1987
 1987-09-13,Bangu,1,1,Joinville,False,False,First Round,Brasileirão Série A,1987
 1987-09-13,Criciúma,1,2,Ceará,False,False,First Round,Brasileirão Série A,1987
-1987-09-13,Treze,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
+1987-09-13,Treze,0,0,Athletico Paranaense,False,False,First Round,Brasileirão Série A,1987
 1987-09-13,CSA,0,1,Guarani,False,False,First Round,Brasileirão Série A,1987
 1987-09-16,Vitória,3,1,Joinville,False,False,First Round,Brasileirão Série A,1987
 1987-09-16,Internacional,1,0,Ceará,False,False,First Round,Brasileirão Série A,1987
-1987-09-16,Sport,1,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
+1987-09-16,Sport,1,1,Athletico Paranaense,False,False,First Round,Brasileirão Série A,1987
 1987-09-16,Treze,1,3,Guarani,False,False,First Round,Brasileirão Série A,1987
 1987-09-17,Criciúma,2,0,Náutico,False,False,First Round,Brasileirão Série A,1987
 1987-09-19,Rio Branco-ES,0,1,CSA,False,False,First Round,Brasileirão Série A,1987
-1987-09-19,Vitória,1,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
+1987-09-19,Vitória,1,2,Athletico Paranaense,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Internacional,2,1,Treze,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Atlético-GO,1,0,Ceará,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Sport,2,0,Guarani,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Criciúma,1,0,Bangu,False,False,First Round,Brasileirão Série A,1987
 1987-09-20,Joinville,2,1,Náutico,False,False,First Round,Brasileirão Série A,1987
-1987-09-23,Athletico-PR,1,2,Bangu,False,False,First Round,Brasileirão Série A,1987
+1987-09-23,Athletico Paranaense,1,2,Bangu,False,False,First Round,Brasileirão Série A,1987
 1987-09-23,Joinville,0,0,Treze,False,False,First Round,Brasileirão Série A,1987
 1987-09-23,Atlético-GO,3,1,CSA,False,False,First Round,Brasileirão Série A,1987
 1987-09-23,Sport,3,0,Criciúma,False,False,First Round,Brasileirão Série A,1987
@@ -152,7 +152,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-09-27,Guarani,0,1,Vitória,False,False,First Round,Brasileirão Série A,1987
 1987-09-27,Joinville,0,1,Sport,False,False,First Round,Brasileirão Série A,1987
 1987-09-27,Treze,2,1,Criciúma,False,False,First Round,Brasileirão Série A,1987
-1987-09-27,Athletico-PR,1,1,CSA,False,False,First Round,Brasileirão Série A,1987
+1987-09-27,Athletico Paranaense,1,1,CSA,False,False,First Round,Brasileirão Série A,1987
 1987-09-30,Portuguesa-SP,1,1,Sport,False,False,First Round,Brasileirão Série A,1987
 1987-09-30,Internacional,0,0,Vitória,False,False,First Round,Brasileirão Série A,1987
 1987-09-30,Bangu,0,0,Guarani,False,False,First Round,Brasileirão Série A,1987
@@ -173,42 +173,42 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-10-11,Sport,4,0,Internacional,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Guarani,4,2,Náutico,False,False,First Round,Brasileirão Série A,1987
 1987-10-11,Vitória,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,1987
-1987-10-11,Ceará,0,1,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
+1987-10-11,Ceará,0,1,Athletico Paranaense,False,False,First Round,Brasileirão Série A,1987
 1987-10-13,Portuguesa-SP,1,0,Treze,False,False,First Round,Brasileirão Série A,1987
-1987-10-14,Athletico-PR,2,0,Náutico,False,False,First Round,Brasileirão Série A,1987
+1987-10-14,Athletico Paranaense,2,0,Náutico,False,False,First Round,Brasileirão Série A,1987
 1987-10-14,Rio Branco-ES,0,0,Vitória,False,False,First Round,Brasileirão Série A,1987
 1987-10-15,Portuguesa-SP,1,0,Bangu,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Portuguesa-SP,4,0,CSA,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Guarani,1,0,Ceará,False,False,First Round,Brasileirão Série A,1987
 1987-10-18,Vitória,0,0,Atlético-GO,False,False,First Round,Brasileirão Série A,1987
-1987-10-21,Guarani,0,2,Athletico-PR,False,False,First Round,Brasileirão Série A,1987
+1987-10-21,Guarani,0,2,Athletico Paranaense,False,False,First Round,Brasileirão Série A,1987
 1987-10-21,Rio Branco-ES,0,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
 1987-10-24,Atlético-GO,0,2,Criciúma,False,False,Second Round,Brasileirão Série A,1987
 1987-10-25,Rio Branco-ES,0,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
 1987-10-25,Guarani,2,0,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
-1987-10-25,Joinville,1,2,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
-1987-10-28,Athletico-PR,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
+1987-10-25,Joinville,1,2,Athletico Paranaense,False,False,Second Round,Brasileirão Série A,1987
+1987-10-28,Athletico Paranaense,0,1,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Criciúma,3,0,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Internacional,1,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
 1987-10-28,Joinville,0,2,Guarani,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Joinville,0,0,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Guarani,2,0,Criciúma,False,False,Second Round,Brasileirão Série A,1987
 1987-11-01,Portuguesa-SP,1,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
-1987-11-01,Internacional,1,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-11-01,Internacional,1,1,Athletico Paranaense,False,False,Second Round,Brasileirão Série A,1987
 1987-11-04,Criciúma,2,0,Joinville,False,False,Second Round,Brasileirão Série A,1987
-1987-11-04,Athletico-PR,3,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
+1987-11-04,Athletico Paranaense,3,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,1987
 1987-11-08,Internacional,0,0,Joinville,False,False,Second Round,Brasileirão Série A,1987
 1987-11-08,Atlético-GO,1,0,Guarani,False,False,Second Round,Brasileirão Série A,1987
-1987-11-08,Athletico-PR,1,1,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
+1987-11-08,Athletico Paranaense,1,1,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-11-08,Portuguesa-SP,0,0,Criciúma,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Rio Branco-ES,2,3,Guarani,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Atlético-GO,0,0,Joinville,False,False,Second Round,Brasileirão Série A,1987
 1987-11-11,Portuguesa-SP,1,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
-1987-11-15,Guarani,0,0,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-11-15,Guarani,0,0,Athletico Paranaense,False,False,Second Round,Brasileirão Série A,1987
 1987-11-15,Criciúma,0,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
 1987-11-15,Joinville,1,0,Portuguesa-SP,False,False,Second Round,Brasileirão Série A,1987
 1987-11-18,Guarani,0,0,Internacional,False,False,Second Round,Brasileirão Série A,1987
-1987-11-18,Criciúma,1,1,Athletico-PR,False,False,Second Round,Brasileirão Série A,1987
+1987-11-18,Criciúma,1,1,Athletico Paranaense,False,False,Second Round,Brasileirão Série A,1987
 1987-11-18,Portuguesa-SP,0,1,Rio Branco-ES,False,False,Second Round,Brasileirão Série A,1987
 1987-10-21,Bangu,2,0,Ceará,False,False,Second Round,Brasileirão Série A,1987
 1987-10-21,Vitória,0,0,CSA,False,False,Second Round,Brasileirão Série A,1987
@@ -232,8 +232,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-11-18,Vitória,3,1,Bangu,False,False,Second Round,Brasileirão Série A,1987
 1987-11-18,Náutico,2,1,Treze,False,False,Second Round,Brasileirão Série A,1987
 1987-11-22,Bangu,1,1,Vitória,False,False,First Round,Brasileirão Série A,1987
-1987-11-28,Athletico-PR,0,0,Guarani,False,False,Semifinal,Brasileirão Série A,1987
-1987-12-02,Guarani,0,0,Athletico-PR,False,False,Semifinal,Brasileirão Série A,1987
+1987-11-28,Athletico Paranaense,0,0,Guarani,False,False,Semifinal,Brasileirão Série A,1987
+1987-12-02,Guarani,0,0,Athletico Paranaense,False,False,Semifinal,Brasileirão Série A,1987
 1987-11-29,Bangu,3,2,Sport,False,False,Semifinal,Brasileirão Série A,1987
 1987-12-03,Sport,3,1,Bangu,False,False,Semifinal,Brasileirão Série A,1987
 1987-12-06,Guarani,2,0,Sport,False,False,Final,Brasileirão Série A,1987
@@ -365,17 +365,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1987-11-12,CA Juventus,0,0,Desportiva,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Desportiva,0,1,Americano,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,CA Juventus,4,0,Estrela do Norte,False,False,First Round,Brasileirão Série A,1987
-1987-11-12,América-MG,1,0,Goytacaz,False,False,First Round,Brasileirão Série A,1987
+1987-11-12,América Mineiro,1,0,Goytacaz,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Tupi-MG,4,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,1987
-1987-11-12,América-MG,2,1,Tupi-MG,False,False,First Round,Brasileirão Série A,1987
+1987-11-12,América Mineiro,2,1,Tupi-MG,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Goytacaz,2,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,1987
-1987-11-12,Botafogo-SP,2,0,América-MG,False,False,First Round,Brasileirão Série A,1987
+1987-11-12,Botafogo-SP,2,0,América Mineiro,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Goytacaz,0,1,Tupi-MG,False,False,First Round,Brasileirão Série A,1987
-1987-11-12,Goytacaz,2,1,América-MG,False,False,First Round,Brasileirão Série A,1987
+1987-11-12,Goytacaz,2,1,América Mineiro,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Botafogo-SP,1,0,Tupi-MG,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Botafogo-SP,2,1,Goytacaz,False,False,First Round,Brasileirão Série A,1987
-1987-11-12,Tupi-MG,1,0,América-MG,False,False,First Round,Brasileirão Série A,1987
-1987-11-12,América-MG,0,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,1987
+1987-11-12,Tupi-MG,1,0,América Mineiro,False,False,First Round,Brasileirão Série A,1987
+1987-11-12,América Mineiro,0,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Tupi-MG,2,0,Goytacaz,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Itumbiara,0,1,Santo André,False,False,First Round,Brasileirão Série A,1987
 1987-11-12,Uberaba-MG,0,1,Uberlândia-MG,False,False,First Round,Brasileirão Série A,1987

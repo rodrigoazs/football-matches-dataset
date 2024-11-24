@@ -24,8 +24,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-02-25,Palmeiras,4,0,Flamengo-PI,False,False,First Round,Copa de Brasil,2010
 2010-02-10,Potyguar-CN (RN),0,0,Paysandu,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Paysandu,3,1,Potyguar-CN (RN),False,False,First Round,Copa de Brasil,2010
-2010-02-10,Vilhena-RO,2,2,Athletico-PR,False,False,First Round,Copa de Brasil,2010
-2010-02-24,Athletico-PR,4,0,Vilhena-RO,False,False,First Round,Copa de Brasil,2010
+2010-02-10,Vilhena-RO,2,2,Athletico Paranaense,False,False,First Round,Copa de Brasil,2010
+2010-02-24,Athletico Paranaense,4,0,Vilhena-RO,False,False,First Round,Copa de Brasil,2010
 2010-02-10,São Domingos-SE,1,1,Sampaio Corrêa-MA,False,False,First Round,Copa de Brasil,2010
 2010-02-25,Sampaio Corrêa-MA,2,1,São Domingos-SE,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Confiança,1,1,Fluminense,False,False,First Round,Copa de Brasil,2010
@@ -49,7 +49,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-03-10,Guarani-SP,2,1,Araguaína,False,False,First Round,Copa de Brasil,2010
 2010-02-10,Tigres do Brasil-RJ,2,2,Fortaleza,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Fortaleza,3,2,Tigres do Brasil-RJ,False,False,First Round,Copa de Brasil,2010
-2010-02-24,Juventus-AC,0,7,Atlético-MG,False,False,First Round,Copa de Brasil,2010
+2010-02-24,Juventus-AC,0,7,Atlético Mineiro,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Chapecoense,3,0,Brasiliense,False,False,First Round,Copa de Brasil,2010
 2010-03-10,Brasiliense,2,1,Chapecoense,False,False,First Round,Copa de Brasil,2010
 2010-02-24,Brasília,2,4,Sport,False,False,First Round,Copa de Brasil,2010
@@ -69,8 +69,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-03-31,Bahia,1,0,Atlético-GO,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Paysandu,1,2,Palmeiras,False,False,Second Round,Copa de Brasil,2010
 2010-03-31,Palmeiras,1,0,Paysandu,False,False,Second Round,Copa de Brasil,2010
-2010-03-17,Sampaio Corrêa-MA,1,1,Athletico-PR,False,False,Second Round,Copa de Brasil,2010
-2010-03-31,Athletico-PR,2,0,Sampaio Corrêa-MA,False,False,Second Round,Copa de Brasil,2010
+2010-03-17,Sampaio Corrêa-MA,1,1,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2010
+2010-03-31,Athletico Paranaense,2,0,Sampaio Corrêa-MA,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Uberaba-MG,0,2,Fluminense,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Ponte Preta,1,1,Portuguesa,False,False,Second Round,Copa de Brasil,2010
 2010-03-31,Portuguesa,2,1,Ponte Preta,False,False,Second Round,Copa de Brasil,2010
@@ -81,8 +81,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-03-18,Remo,0,4,Santos,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Fortaleza,2,0,Guarani,False,False,Second Round,Copa de Brasil,2010
 2010-03-31,Guarani,2,0,Fortaleza,False,False,Second Round,Copa de Brasil,2010
-2010-03-17,Chapecoense,1,0,Atlético-MG,False,False,Second Round,Copa de Brasil,2010
-2010-04-01,Atlético-MG,6,0,Chapecoense,False,False,Second Round,Copa de Brasil,2010
+2010-03-17,Chapecoense,1,0,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2010
+2010-04-01,Atlético Mineiro,6,0,Chapecoense,False,False,Second Round,Copa de Brasil,2010
 2010-03-17,Paraná,1,1,Sport,False,False,Second Round,Copa de Brasil,2010
 2010-03-31,Sport,1,0,Paraná,False,False,Second Round,Copa de Brasil,2010
 2010-04-14,Corinthians-PR,0,1,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2010
@@ -91,24 +91,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2010-04-21,Goiás,2,2,Vitória,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Santa Cruz,1,2,Atlético-GO,False,False,Round of 16,Copa de Brasil,2010
 2010-04-22,Atlético-GO,2,0,Santa Cruz,False,False,Round of 16,Copa de Brasil,2010
-2010-04-15,Palmeiras,1,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2010
-2010-04-21,Athletico-PR,1,1,Palmeiras,False,False,Round of 16,Copa de Brasil,2010
+2010-04-15,Palmeiras,1,0,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2010
+2010-04-21,Athletico Paranaense,1,1,Palmeiras,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Portuguesa,0,1,Fluminense,False,False,Round of 16,Copa de Brasil,2010
 2010-04-22,Fluminense,3,2,Portuguesa,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Grêmio,3,1,Avaí,False,False,Round of 16,Copa de Brasil,2010
 2010-04-21,Avaí,3,2,Grêmio,False,False,Round of 16,Copa de Brasil,2010
 2010-04-14,Santos,8,1,Guarani,False,False,Round of 16,Copa de Brasil,2010
 2010-04-21,Guarani,3,2,Santos,False,False,Round of 16,Copa de Brasil,2010
-2010-04-14,Atlético-MG,1,0,Sport,False,False,Round of 16,Copa de Brasil,2010
-2010-04-21,Sport,0,2,Atlético-MG,False,False,Round of 16,Copa de Brasil,2010
+2010-04-14,Atlético Mineiro,1,0,Sport,False,False,Round of 16,Copa de Brasil,2010
+2010-04-21,Sport,0,2,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2010
 2010-04-28,Vitória,2,0,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,2010
 2010-05-05,Vasco da Gama,3,1,Vitória,False,False,Quarterfinal,Copa de Brasil,2010
 2010-04-29,Palmeiras,1,0,Atlético-GO,False,False,Quarterfinal,Copa de Brasil,2010
 2010-05-05,Atlético-GO,1,0,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2010
 2010-04-29,Fluminense,2,3,Grêmio,False,False,Quarterfinal,Copa de Brasil,2010
 2010-05-05,Grêmio,2,0,Fluminense,False,False,Quarterfinal,Copa de Brasil,2010
-2010-04-28,Atlético-MG,3,2,Santos,False,False,Quarterfinal,Copa de Brasil,2010
-2010-05-05,Santos,3,1,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2010
+2010-04-28,Atlético Mineiro,3,2,Santos,False,False,Quarterfinal,Copa de Brasil,2010
+2010-05-05,Santos,3,1,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,2010
 2010-05-12,Atlético-GO,1,0,Vitória,False,False,Semifinal,Copa de Brasil,2010
 2010-05-19,Vitória,4,0,Atlético-GO,False,False,Semifinal,Copa de Brasil,2010
 2010-05-12,Grêmio,4,3,Santos,False,False,Semifinal,Copa de Brasil,2010

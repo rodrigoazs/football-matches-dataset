@@ -11,12 +11,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1990-06-22,Moto Club,1,1,Remo,False,False,First Round,Copa de Brasil,1990
 1990-06-22,Santa Cruz-PE,3,1,América-RN,False,False,First Round,Copa de Brasil,1990
 1990-06-22,River,2,2,Ceará,False,False,First Round,Copa de Brasil,1990
-1990-06-23,Vila Nova-GO,0,0,Atlético-MG,False,False,First Round,Copa de Brasil,1990
+1990-06-23,Vila Nova-GO,0,0,Atlético Mineiro,False,False,First Round,Copa de Brasil,1990
 1990-06-23,União Bandeirante-PR,0,1,São Paulo,False,False,First Round,Copa de Brasil,1990
 1990-06-27,Internacional,1,0,Criciúma,False,False,First Round,Copa de Brasil,1990
 1990-06-27,Joinville,1,1,Grêmio,False,False,First Round,Copa de Brasil,1990
 1990-06-27,Rio Negro-AM,1,0,Juventus-AC,False,False,First Round,Copa de Brasil,1990
-1990-06-27,Atlético-MG,5,0,Vila Nova-GO,False,False,First Round,Copa de Brasil,1990
+1990-06-27,Atlético Mineiro,5,0,Vila Nova-GO,False,False,First Round,Copa de Brasil,1990
 1990-06-27,Goiás,4,0,Cruzeiro,False,False,First Round,Copa de Brasil,1990
 1990-06-27,Mixto,1,0,Operário-MS,False,False,First Round,Copa de Brasil,1990
 1990-06-27,Coritiba,0,0,São José-SP,False,False,First Round,Copa de Brasil,1990
@@ -33,13 +33,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1990-07-05,Capelense,0,4,Flamengo,False,False,First Round,Copa de Brasil,1990
 1990-07-10,Flamengo,2,0,Taguatinga-DF,False,False,Round of 16,Copa de Brasil,1990
 1990-07-10,Ceará,0,0,Náutico-PE,False,False,Round of 16,Copa de Brasil,1990
-1990-07-11,Rio Negro-AM,0,1,Atlético-MG,False,False,Round of 16,Copa de Brasil,1990
+1990-07-11,Rio Negro-AM,0,1,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,1990
 1990-07-11,Operário-MS,0,1,Goiás,False,False,Round of 16,Copa de Brasil,1990
 1990-07-11,Santa Cruz-PE,0,0,Remo,False,False,Round of 16,Copa de Brasil,1990
 1990-07-12,Bahia,1,0,Botafogo,False,False,Round of 16,Copa de Brasil,1990
 1990-08-02,Grêmio,1,1,São Paulo,False,False,Round of 16,Copa de Brasil,1990
 1990-08-08,Coritiba,0,1,Criciúma,False,False,Round of 16,Copa de Brasil,1990
-1990-07-15,Atlético-MG,2,0,Rio Negro-AM,False,False,Round of 16,Copa de Brasil,1990
+1990-07-15,Atlético Mineiro,2,0,Rio Negro-AM,False,False,Round of 16,Copa de Brasil,1990
 1990-07-15,Goiás,5,0,Operário-MS,False,False,Round of 16,Copa de Brasil,1990
 1990-07-15,Botafogo,1,1,Bahia,False,False,Round of 16,Copa de Brasil,1990
 1990-07-15,Taguatinga-DF,1,1,Flamengo,False,False,Round of 16,Copa de Brasil,1990
@@ -47,12 +47,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1990-08-05,São Paulo,0,0,Grêmio,False,False,Round of 16,Copa de Brasil,1990
 1990-08-10,Remo,1,0,Santa Cruz-PE,False,False,Round of 16,Copa de Brasil,1990
 1990-08-12,Criciúma,0,0,Coritiba,False,False,Round of 16,Copa de Brasil,1990
-1990-07-22,Atlético-MG,0,0,Goiás,False,False,Quarterfinal,Copa de Brasil,1990
+1990-07-22,Atlético Mineiro,0,0,Goiás,False,False,Quarterfinal,Copa de Brasil,1990
 1990-07-25,Bahia,1,1,Flamengo,False,False,Quarterfinal,Copa de Brasil,1990
 1990-08-22,Criciúma,2,0,São Paulo,False,False,Quarterfinal,Copa de Brasil,1990
 1990-08-29,Remo,3,1,Náutico-PE,False,False,Quarterfinal,Copa de Brasil,1990
 1990-07-28,Flamengo,1,0,Bahia,False,False,Quarterfinal,Copa de Brasil,1990
-1990-07-29,Goiás,4,3,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,1990
+1990-07-29,Goiás,4,3,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,1990
 1990-09-05,São Paulo,1,0,Criciúma,False,False,Quarterfinal,Copa de Brasil,1990
 1990-09-05,Náutico-PE,4,0,Remo,False,False,Quarterfinal,Copa de Brasil,1990
 1990-09-12,Criciúma,1,0,Goiás,False,False,Semifinal,Copa de Brasil,1990

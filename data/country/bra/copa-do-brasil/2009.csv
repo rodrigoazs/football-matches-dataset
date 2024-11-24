@@ -6,7 +6,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-03-04,Portuguesa-SP,1,1,ICASA,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Confiança,3,2,América-RN,False,False,First Round,Copa de Brasil,2009
 2009-03-18,América-RN,0,0,Confiança,False,False,First Round,Copa de Brasil,2009
-2009-02-18,Itabaiana,0,5,Atlético-MG,False,False,First Round,Copa de Brasil,2009
+2009-02-18,Itabaiana,0,5,Atlético Mineiro,False,False,First Round,Copa de Brasil,2009
 2009-02-18,Guaratinguetá,2,0,Caxias,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Caxias,2,1,Guaratinguetá,False,False,First Round,Copa de Brasil,2009
 2009-03-04,ASA,1,1,Vitória,False,False,First Round,Copa de Brasil,2009
@@ -16,13 +16,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-03-04,Itumbiara,0,2,Corinthians,False,False,First Round,Copa de Brasil,2009
 2009-02-18,Misto-MS,1,1,Campinense,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Campinense,1,1,Misto-MS,False,False,First Round,Copa de Brasil,2009
-2009-03-04,Tocantins-TO,0,3,Athletico-PR,False,False,First Round,Copa de Brasil,2009
+2009-03-04,Tocantins-TO,0,3,Athletico Paranaense,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Fast Clube,1,1,ABC,False,False,First Round,Copa de Brasil,2009
 2009-03-19,ABC,4,0,Fast Clube,False,False,First Round,Copa de Brasil,2009
 2009-02-18,Nacional-PB,0,1,Fluminense,False,False,First Round,Copa de Brasil,2009
 2009-03-05,Fluminense,3,0,Nacional-PB,False,False,First Round,Copa de Brasil,2009
-2009-03-04,Águia de Marabá,2,1,América-MG,False,False,First Round,Copa de Brasil,2009
-2009-03-19,América-MG,0,1,Águia de Marabá,False,False,First Round,Copa de Brasil,2009
+2009-03-04,Águia de Marabá,2,1,América Mineiro,False,False,First Round,Copa de Brasil,2009
+2009-03-19,América Mineiro,0,1,Águia de Marabá,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Atlético Roraima,1,3,Goiás,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Cristal,1,2,Brasiliense,False,False,First Round,Copa de Brasil,2009
 2009-03-18,Brasiliense,3,1,Cristal,False,False,First Round,Copa de Brasil,2009
@@ -58,13 +58,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-04-15,Central,0,3,Vasco da Gama,False,False,Second Round,Copa de Brasil,2009
 2009-04-15,ICASA,0,0,Confiança,False,False,Second Round,Copa de Brasil,2009
 2009-04-22,Confiança,1,2,ICASA,False,False,Second Round,Copa de Brasil,2009
-2009-04-15,Guaratinguetá,2,2,Atlético-MG,False,False,Second Round,Copa de Brasil,2009
-2009-04-23,Atlético-MG,2,0,Guaratinguetá,False,False,Second Round,Copa de Brasil,2009
+2009-04-15,Guaratinguetá,2,2,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2009
+2009-04-23,Atlético Mineiro,2,0,Guaratinguetá,False,False,Second Round,Copa de Brasil,2009
 2009-04-08,Juventude,1,2,Vitória,False,False,Second Round,Copa de Brasil,2009
 2009-04-15,Vitória,1,1,Juventude,False,False,Second Round,Copa de Brasil,2009
 2009-04-15,Misto-MS,0,2,Corinthians,False,False,Second Round,Copa de Brasil,2009
-2009-04-08,ABC,2,2,Athletico-PR,False,False,Second Round,Copa de Brasil,2009
-2009-04-22,Athletico-PR,3,1,ABC,False,False,Second Round,Copa de Brasil,2009
+2009-04-08,ABC,2,2,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2009
+2009-04-22,Athletico Paranaense,3,1,ABC,False,False,Second Round,Copa de Brasil,2009
 2009-04-16,Águia de Marabá,2,1,Fluminense,False,False,Second Round,Copa de Brasil,2009
 2009-04-22,Fluminense,3,0,Águia de Marabá,False,False,Second Round,Copa de Brasil,2009
 2009-04-08,Brasiliense,0,1,Goiás,False,False,Second Round,Copa de Brasil,2009
@@ -86,10 +86,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-04-23,Náutico,3,2,Criciúma,False,False,Second Round,Copa de Brasil,2009
 2009-04-30,Vasco da Gama,1,1,ICASA,False,False,Round of 16,Copa de Brasil,2009
 2009-05-06,ICASA,1,4,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2009
-2009-04-29,Vitória,3,0,Atlético-MG,False,False,Round of 16,Copa de Brasil,2009
-2009-05-06,Atlético-MG,3,0,Vitória,False,False,Round of 16,Copa de Brasil,2009
-2009-04-29,Athletico-PR,3,2,Corinthians,False,False,Round of 16,Copa de Brasil,2009
-2009-05-06,Corinthians,2,0,Athletico-PR,False,False,Round of 16,Copa de Brasil,2009
+2009-04-29,Vitória,3,0,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2009
+2009-05-06,Atlético Mineiro,3,0,Vitória,False,False,Round of 16,Copa de Brasil,2009
+2009-04-29,Athletico Paranaense,3,2,Corinthians,False,False,Round of 16,Copa de Brasil,2009
+2009-05-06,Corinthians,2,0,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2009
 2009-04-30,Goiás,2,2,Fluminense,False,False,Round of 16,Copa de Brasil,2009
 2009-05-07,Fluminense,1,1,Goiás,False,False,Round of 16,Copa de Brasil,2009
 2009-04-29,Americano,0,0,Ponte Preta,False,False,Round of 16,Copa de Brasil,2009

@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2007-01-24,Club América,5,0,Sport,False,False,Qualifying Round,Copa Libertadores de América,2007
-2007-01-31,Sport,2,1,Club América,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-24,Club América,5,0,Sporting Cristal,False,False,Qualifying Round,Copa Libertadores de América,2007
+2007-01-31,Sporting Cristal,2,1,Club América,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-01-30,Vélez Sarsfield,3,0,Danubio,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-02-06,Danubio,1,2,Vélez Sarsfield,False,False,Qualifying Round,Copa Libertadores de América,2007
 2007-01-30,Deportivo Táchira,1,2,Deportes Tolima,False,False,Qualifying Round,Copa Libertadores de América,2007
@@ -72,17 +72,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-18,Flamengo,1,0,Real Potosí,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-18,Paraná,2,1,UA Maracaibo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-22,Caracas,1,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
-2007-02-22,Colo Colo,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-07,LDU Quito,3,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-02-22,Colo-Colo,1,2,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-07,LDU Quito,3,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-08,River Plate,0,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-15,LDU Quito,1,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-20,Caracas,0,4,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-20,Caracas,0,4,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-03-29,River Plate,0,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
-2007-03-30,Colo Colo,2,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-03,Colo Colo,4,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
+2007-03-30,Colo-Colo,2,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-03,Colo-Colo,4,0,LDU Quito,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-05,Caracas,3,1,River Plate,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-25,LDU Quito,3,1,Caracas,False,False,Group Stage,Copa Libertadores de América,2007
-2007-04-25,River Plate,1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,2007
+2007-04-25,River Plate,1,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-14,Bolívar,0,0,Boca Juniors,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-21,Cienciano,1,2,Toluca,False,False,Group Stage,Copa Libertadores de América,2007
 2007-02-27,Toluca,1,2,Bolívar,False,False,Group Stage,Copa Libertadores de América,2007
@@ -107,8 +107,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2007-04-05,Deportivo Pasto,0,2,Gimnasia y Esgrima,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-19,Gimnasia y Esgrima,3,0,Defensor Sporting Club,False,False,Group Stage,Copa Libertadores de América,2007
 2007-04-19,Santos,3,0,Deportivo Pasto,False,False,Group Stage,Copa Libertadores de América,2007
-2007-05-02,Club América,3,0,Colo Colo,False,False,Round of 16,Copa Libertadores de América,2007
-2007-05-08,Colo Colo,2,1,Club América,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-02,Club América,3,0,Colo-Colo,False,False,Round of 16,Copa Libertadores de América,2007
+2007-05-08,Colo-Colo,2,1,Club América,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-02,São Paulo,1,0,Grêmio,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-09,Grêmio,2,0,São Paulo,False,False,Round of 16,Copa Libertadores de América,2007
 2007-05-02,Defensor Sporting Club,3,0,Flamengo,False,False,Round of 16,Copa Libertadores de América,2007

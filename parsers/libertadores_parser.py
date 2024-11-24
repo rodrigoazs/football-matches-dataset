@@ -2,46 +2,7 @@ from parsers.common.date import get_date
 from parsers.common.match import get_match
 
 
-def fix_name(name):
-    teams = [
-        "Boca Juniors",
-        "Bolívar",
-        "Botafogo",
-        "Boyacá Chicó",
-        "Caracas",
-        "Cienciano",
-        "Cobreloa",
-        "Colo Colo",
-        "Corinthians",
-        "Coritiba",
-        "Cruz Azul",
-        "Cruzeiro",
-        "Danubio",
-        "Delfín",
-        "Flamengo",
-        "Fluminense",
-        "Goiás",
-        "Grêmio",
-        "Internacional",
-        "Palmeiras",
-        "Peñarol",
-        "River Plate",
-        "Sport",
-        "São Paulo",
-        "Vasco da Gama",
-        "Vélez Sarsfield",
-        "Unión Española",
-        "Progreso",
-        "Palestino",
-        "Pachuca",
-        "Once Caldas",
-        "Olmedo",
-        "Olimpia",
-    ]
-    for team in teams:
-        if name.startswith(team):
-            return team
-        
+def fix_name(name):        
     mapping = {
         "Wanderers": "Montevideo Wanderers",
         "EC Bahia": "Bahia",

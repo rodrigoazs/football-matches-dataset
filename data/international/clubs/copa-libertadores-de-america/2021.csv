@@ -77,18 +77,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-05-19,River Plate,2,1,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-25,Independiente Santa Fe,0,0,Junior de Barranquilla,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-25,River Plate,1,3,Fluminense,False,False,Group Stage,Copa Libertadores de América,2021
-2021-04-20,Sport,0,3,São Paulo,False,False,Group Stage,Copa Libertadores de América,2021
+2021-04-20,Sporting Cristal,0,3,São Paulo,False,False,Group Stage,Copa Libertadores de América,2021
 2021-04-21,Rentistas,1,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2021
-2021-04-29,Racing Club,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,2021
+2021-04-29,Racing Club,2,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2021
 2021-04-29,São Paulo,2,0,Rentistas,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-05,Racing Club,0,0,São Paulo,False,False,Group Stage,Copa Libertadores de América,2021
-2021-05-05,Rentistas,0,0,Sport,False,False,Group Stage,Copa Libertadores de América,2021
-2021-05-11,Sport,0,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2021
+2021-05-05,Rentistas,0,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2021
+2021-05-11,Sporting Cristal,0,2,Racing Club,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-12,Rentistas,1,1,São Paulo,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-18,São Paulo,0,1,Racing Club,False,False,Group Stage,Copa Libertadores de América,2021
-2021-05-19,Sport,2,0,Rentistas,False,False,Group Stage,Copa Libertadores de América,2021
+2021-05-19,Sporting Cristal,2,0,Rentistas,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-25,Racing Club,3,0,Rentistas,False,False,Group Stage,Copa Libertadores de América,2021
-2021-05-25,São Paulo,3,0,Sport,False,False,Group Stage,Copa Libertadores de América,2021
+2021-05-25,São Paulo,3,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2021
 2021-04-20,Argentinos Juniors,2,0,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2021
 2021-04-22,Atlético Nacional,2,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2021
 2021-04-28,Nacional de Montevideo,4,4,Atlético Nacional,False,False,Group Stage,Copa Libertadores de América,2021
@@ -123,7 +123,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2021-05-13,América,1,3,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-19,Cerro Porteño,0,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-19,América,3,1,Deportivo La Guaira,False,False,Group Stage,Copa Libertadores de América,2021
-2021-05-25,Atlético-MG,4,0,Deportivo La Guaira,False,False,Group Stage,Copa Libertadores de América,2021
+2021-05-25,Atlético Mineiro,4,0,Deportivo La Guaira,False,False,Group Stage,Copa Libertadores de América,2021
 2021-05-25,Cerro Porteño,1,0,América,False,False,Group Stage,Copa Libertadores de América,2021
 2021-07-13,Boca Juniors,0,0,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2021
 2021-07-20,Atlético Mineiro,0,0,Boca Juniors,False,False,Round of 16,Copa Libertadores de América,2021

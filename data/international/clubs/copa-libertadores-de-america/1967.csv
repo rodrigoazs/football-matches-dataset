@@ -2,23 +2,23 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1967-02-11,Deportivo Italia,1,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1967
 1967-02-19,Deportivo Galicia,0,1,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1967
 1967-02-22,Deportivo Italia,0,3,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-04,Universitario,1,0,Sport,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-11,Deportivo Galicia,2,1,Sport,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-04,Universitario,1,0,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-11,Deportivo Galicia,2,1,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-11,Deportivo Italia,0,3,Universitario,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-15,Deportivo Italia,2,5,Sport,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-15,Deportivo Italia,2,5,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-15,Deportivo Galicia,2,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-18,Cruzeiro,3,1,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-20,Cruzeiro,4,0,Deportivo Italia,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-25,Universitario,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-25,Sport,0,0,Deportivo Italia,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-25,Sport Boys,0,0,Deportivo Italia,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-28,Universitario,1,0,Deportivo Italia,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-28,Sport,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-28,Sport Boys,2,0,Deportivo Galicia,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-19,Deportivo Galicia,0,0,Deportivo Italia,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-28,Cruzeiro,4,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1967
-1967-05-01,Sport,1,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1967
+1967-05-01,Sport Boys,1,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1967
 1967-05-03,Universitario,2,2,Cruzeiro,False,False,Group Stage,Copa Libertadores de América,1967
-1967-05-10,Cruzeiro,3,1,Sport,False,False,Group Stage,Copa Libertadores de América,1967
-1967-05-16,Sport,0,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1967
+1967-05-10,Cruzeiro,3,1,Sport Boys,False,False,Group Stage,Copa Libertadores de América,1967
+1967-05-16,Sport Boys,0,1,Universitario,False,False,Group Stage,Copa Libertadores de América,1967
 1967-02-19,Independiente Santa Fe,2,0,Medellín,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-08,Racing Club,2,0,River Plate,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-12,Bolívar,1,0,31 de Octubre,False,False,Group Stage,Copa Libertadores de América,1967
@@ -53,55 +53,55 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1967-02-22,Emelec,1,4,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-02-26,Barcelona de Guayaquil,2,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-02-26,Cerro Porteño,1,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-04,Universidad Católica (Santiago),5,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-04,Universidad Católica (Santiago),5,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-05,Emelec,2,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-05,Barcelona de Guayaquil,2,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-09,Emelec,0,2,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-09,Barcelona de Guayaquil,1,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-14,Nacional de Montevideo,3,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-14,Colo Colo,5,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-14,Colo-Colo,5,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-14,Universidad Católica (Santiago),1,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-17,Nacional de Montevideo,2,0,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-18,Colo Colo,1,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-18,Colo-Colo,1,0,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-18,Universidad Católica (Santiago),3,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-22,Universidad Católica (Santiago),1,2,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-22,Colo Colo,3,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1967
-1967-03-25,Colo Colo,3,2,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-22,Colo-Colo,3,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1967
+1967-03-25,Colo-Colo,3,2,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
 1967-03-25,Universidad Católica (Santiago),3,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-02,Guaraní,4,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-03,Cerro Porteño,1,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
-1967-04-05,Colo Colo,3,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-04-05,Colo-Colo,3,2,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-05,Guaraní,3,0,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-05,Cerro Porteño,1,2,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,1967
-1967-04-09,Nacional de Montevideo,5,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-04-09,Nacional de Montevideo,5,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-12,Nacional de Montevideo,0,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
-1967-04-16,Cerro Porteño,0,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-04-16,Cerro Porteño,0,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-16,Guaraní,1,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
-1967-04-19,Guaraní,4,2,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-04-19,Guaraní,4,2,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-19,Cerro Porteño,1,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-23,Nacional de Montevideo,3,1,Guaraní,False,False,Group Stage,Copa Libertadores de América,1967
-1967-04-23,Barcelona de Guayaquil,1,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-04-23,Barcelona de Guayaquil,1,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-23,Emelec,0,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-26,Barcelona de Guayaquil,0,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
-1967-04-26,Emelec,4,3,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1967
+1967-04-26,Emelec,4,3,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-27,Cerro Porteño,2,6,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-04-30,Guaraní,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-05-07,Nacional de Montevideo,4,1,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
 1967-05-08,Barcelona de Guayaquil,2,1,Emelec,False,False,Group Stage,Copa Libertadores de América,1967
 1967-05-10,Universidad Católica (Santiago),0,3,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,1967
 1967-05-15,Guaraní,1,2,Cerro Porteño,False,False,Group Stage,Copa Libertadores de América,1967
-1967-05-17,Colo Colo,4,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
-1967-05-31,Universitario,3,0,Colo Colo,False,False,Semifinal,Copa Libertadores de América,1967
+1967-05-17,Colo-Colo,4,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1967
+1967-05-31,Universitario,3,0,Colo-Colo,False,False,Semifinal,Copa Libertadores de América,1967
 1967-06-01,River Plate,0,0,Racing Club,False,False,Semifinal,Copa Libertadores de América,1967
-1967-06-07,Colo Colo,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1967
+1967-06-07,Colo-Colo,1,0,River Plate,False,False,Semifinal,Copa Libertadores de América,1967
 1967-06-07,Universitario,1,2,Racing Club,False,False,Semifinal,Copa Libertadores de América,1967
 1967-06-13,River Plate,0,1,Universitario,False,False,Semifinal,Copa Libertadores de América,1967
 1967-06-15,Racing Club,1,2,Universitario,False,False,Semifinal,Copa Libertadores de América,1967
-1967-06-22,Colo Colo,0,2,Racing Club,False,False,Semifinal,Copa Libertadores de América,1967
-1967-06-28,Racing Club,3,1,Colo Colo,False,False,Semifinal,Copa Libertadores de América,1967
+1967-06-22,Colo-Colo,0,2,Racing Club,False,False,Semifinal,Copa Libertadores de América,1967
+1967-06-28,Racing Club,3,1,Colo-Colo,False,False,Semifinal,Copa Libertadores de América,1967
 1967-06-29,Universitario,2,2,River Plate,False,False,Semifinal,Copa Libertadores de América,1967
-1967-07-05,River Plate,1,1,Colo Colo,False,False,Semifinal,Copa Libertadores de América,1967
-1967-07-12,Colo Colo,0,1,Universitario,False,False,Semifinal,Copa Libertadores de América,1967
+1967-07-05,River Plate,1,1,Colo-Colo,False,False,Semifinal,Copa Libertadores de América,1967
+1967-07-12,Colo-Colo,0,1,Universitario,False,False,Semifinal,Copa Libertadores de América,1967
 1967-07-12,Racing Club,3,1,River Plate,False,False,Semifinal,Copa Libertadores de América,1967
 1967-07-18,Racing Club,2,1,Universitario,False,False,Semifinal,Copa Libertadores de América,1967
 1967-06-11,Peñarol,0,1,Nacional de Montevideo,False,False,Semifinal,Copa Libertadores de América,1967

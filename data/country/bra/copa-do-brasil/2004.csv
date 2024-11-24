@@ -6,10 +6,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2004-03-03,Goiás,3,1,Cuiabá,False,False,First Round,Copa de Brasil,2004
 2004-02-04,ASA,1,1,Brasiliense,False,False,First Round,Copa de Brasil,2004
 2004-03-03,Brasiliense,3,0,ASA,False,False,First Round,Copa de Brasil,2004
-2004-02-18,Catuense,4,2,Atlético-MG,False,False,First Round,Copa de Brasil,2004
-2004-03-03,Atlético-MG,5,1,Catuense,False,False,First Round,Copa de Brasil,2004
+2004-02-18,Catuense,4,2,Atlético Mineiro,False,False,First Round,Copa de Brasil,2004
+2004-03-03,Atlético Mineiro,5,1,Catuense,False,False,First Round,Copa de Brasil,2004
 2004-02-18,Novo Horizonte-GO,0,5,Santo André-SP,False,False,First Round,Copa de Brasil,2004
-2004-02-18,Serra-ES,1,4,América-MG,False,False,First Round,Copa de Brasil,2004
+2004-02-18,Serra-ES,1,4,América Mineiro,False,False,First Round,Copa de Brasil,2004
 2004-02-18,União Cacoalense-RO,1,1,Guarani-SP,False,False,First Round,Copa de Brasil,2004
 2004-03-03,Guarani-SP,0,0,União Cacoalense-RO,False,False,First Round,Copa de Brasil,2004
 2004-02-04,Maranhão,0,5,Botafogo,False,False,First Round,Copa de Brasil,2004
@@ -58,10 +58,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2004-04-07,Palmeiras,4,0,São Gabriel,False,False,Second Round,Copa de Brasil,2004
 2004-03-17,Brasiliense,2,2,Goiás,False,False,Second Round,Copa de Brasil,2004
 2004-04-07,Goiás,0,0,Brasiliense,False,False,Second Round,Copa de Brasil,2004
-2004-03-24,Santo André,3,0,Atlético-MG,False,False,Second Round,Copa de Brasil,2004
-2004-04-07,Atlético-MG,2,0,Santo André,False,False,Second Round,Copa de Brasil,2004
-2004-03-17,América-MG,1,1,Guarani,False,False,Second Round,Copa de Brasil,2004
-2004-03-24,Guarani,1,0,América-MG,False,False,Second Round,Copa de Brasil,2004
+2004-03-24,Santo André,3,0,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2004
+2004-04-07,Atlético Mineiro,2,0,Santo André,False,False,Second Round,Copa de Brasil,2004
+2004-03-17,América Mineiro,1,1,Guarani,False,False,Second Round,Copa de Brasil,2004
+2004-03-24,Guarani,1,0,América Mineiro,False,False,Second Round,Copa de Brasil,2004
 2004-03-24,Gama,4,4,Botafogo,False,False,Second Round,Copa de Brasil,2004
 2004-04-07,Botafogo,2,3,Gama,False,False,Second Round,Copa de Brasil,2004
 2004-03-17,Palmas,5,0,Nacional,False,False,Second Round,Copa de Brasil,2004

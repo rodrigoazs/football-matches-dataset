@@ -11,18 +11,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-02-07,Junior de Barranquilla,3,0,Carabobo FC,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-01-31,Atlético Tucumán,2,2,El Nacional,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-07,El Nacional,0,1,Atlético Tucumán,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-01,Athletico-PR,1,0,Millonarios,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-08,Millonarios,1,0,Athletico-PR,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-01,Botafogo,2,1,Colo Colo,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-08,Colo Colo,1,1,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-01,Athletico Paranaense,1,0,Millonarios,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-08,Millonarios,1,0,Athletico Paranaense,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-01,Botafogo,2,1,Colo-Colo,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-08,Colo-Colo,1,1,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-02,Montevideo Wanderers,0,2,The Strongest,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-09,The Strongest,4,0,Montevideo Wanderers,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-02,Independiente del Valle,1,0,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-09,Olimpia,3,1,Independiente del Valle,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-02,Deportivo Capiatá,1,3,Universitario,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-09,Universitario,0,3,Deportivo Capiatá,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-15,Athletico-PR,3,3,Deportivo Capiatá,False,False,Qualifying Round,Copa Libertadores de América,2017
-2017-02-22,Deportivo Capiatá,0,1,Athletico-PR,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-15,Athletico Paranaense,3,3,Deportivo Capiatá,False,False,Qualifying Round,Copa Libertadores de América,2017
+2017-02-22,Deportivo Capiatá,0,1,Athletico Paranaense,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-15,Botafogo,1,0,Olimpia,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-22,Olimpia,1,0,Botafogo,False,False,Qualifying Round,Copa Libertadores de América,2017
 2017-02-16,Junior de Barranquilla,1,0,Atlético Tucumán,False,False,Qualifying Round,Copa Libertadores de América,2017
@@ -42,17 +42,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-05-25,Atlético Nacional,3,1,Barcelona de Guayaquil,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-25,Estudiantes de La Plata,1,0,Botafogo,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-09,The Strongest,2,0,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-09,Sport,1,1,Santos,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-16,Independiente Santa Fe,3,0,Sport,False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-09,Sporting Cristal,1,1,Santos,False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-16,Independiente Santa Fe,3,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-16,Santos,2,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-18,Sport,0,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-18,Sporting Cristal,0,0,The Strongest,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-19,Independiente Santa Fe,0,0,Santos,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-04,The Strongest,5,1,Sport,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-04,The Strongest,5,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-04,Santos,3,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-17,Sport,0,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-17,Sporting Cristal,0,2,Independiente Santa Fe,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-17,The Strongest,1,1,Santos,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-23,Independiente Santa Fe,1,1,The Strongest,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-23,Santos,4,0,Sport,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-23,Santos,4,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-14,Melgar,1,0,Emelec,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-15,Independiente Medellín,1,3,River Plate,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-13,Emelec,1,0,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2017
@@ -65,18 +65,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-05-18,Melgar,2,3,River Plate,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-25,Emelec,3,0,Melgar,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-25,River Plate,1,2,Independiente Medellín,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-07,Athletico-PR,2,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-07,Athletico Paranaense,2,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-08,Flamengo,4,0,San Lorenzo de Almagro,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-15,San Lorenzo,0,1,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-15,San Lorenzo,0,1,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-15,Universidad Católica (Santiago),1,0,Flamengo,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-12,Universidad Católica (Santiago),1,1,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-12,Flamengo,2,1,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-12,Flamengo,2,1,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-25,San Lorenzo,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-26,Athletico-PR,2,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-03,Athletico-PR,0,3,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-26,Athletico Paranaense,2,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-03,Athletico Paranaense,0,3,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-03,Flamengo,3,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-17,San Lorenzo,2,1,Flamengo,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-17,Universidad Católica (Santiago),2,3,Athletico-PR,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-17,Universidad Católica (Santiago),2,3,Athletico Paranaense,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-07,Jorge Wilstermann,6,2,Peñarol,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-08,Atlético Tucumán,1,1,Palmeiras,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-15,Palmeiras,1,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2017
@@ -90,17 +90,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-05-24,Palmeiras,3,1,Atlético Tucumán,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-24,Peñarol,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-08,Godoy Cruz,1,1,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2017
-2017-03-08,Sport,3,3,Libertad,False,False,Group Stage,Copa Libertadores de América,2017
+2017-03-08,Sporting Cristal,3,3,Libertad,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-11,Libertad,1,2,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-13,Atlético Mineiro,5,2,Sport,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-13,Atlético Mineiro,5,2,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-19,Libertad,1,0,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-20,Godoy Cruz,2,0,Sport,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-20,Godoy Cruz,2,0,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2017
 2017-04-26,Atlético Mineiro,2,0,Libertad,False,False,Group Stage,Copa Libertadores de América,2017
-2017-04-27,Sport,1,3,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-03,Sport,1,5,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2017
+2017-04-27,Sporting Cristal,1,3,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-03,Sporting Cristal,1,5,Atlético Mineiro,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-04,Godoy Cruz,1,1,Libertad,False,False,Group Stage,Copa Libertadores de América,2017
 2017-05-16,Atlético Mineiro,4,1,Godoy Cruz,False,False,Group Stage,Copa Libertadores de América,2017
-2017-05-16,Libertad,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,2017
+2017-05-16,Libertad,1,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-07,Zulia,1,2,Chapecoense,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-09,Lanús,0,1,Nacional de Montevideo,False,False,Group Stage,Copa Libertadores de América,2017
 2017-03-15,Nacional de Montevideo,0,1,Zulia,False,False,Group Stage,Copa Libertadores de América,2017
@@ -133,8 +133,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2017-08-09,Palmeiras,1,0,Barcelona de Guayaquil,False,False,Round of 16,Copa Libertadores de América,2017
 2017-07-05,Jorge Wilstermann,1,0,Atlético Mineiro,False,False,Round of 16,Copa Libertadores de América,2017
 2017-08-09,Atlético Mineiro,0,0,Jorge Wilstermann,False,False,Round of 16,Copa Libertadores de América,2017
-2017-07-05,Athletico-PR,2,3,Santos,False,False,Round of 16,Copa Libertadores de América,2017
-2017-08-10,Santos,1,0,Athletico-PR,False,False,Round of 16,Copa Libertadores de América,2017
+2017-07-05,Athletico Paranaense,2,3,Santos,False,False,Round of 16,Copa Libertadores de América,2017
+2017-08-10,Santos,1,0,Athletico Paranaense,False,False,Round of 16,Copa Libertadores de América,2017
 2017-07-06,The Strongest,1,1,Lanús,False,False,Round of 16,Copa Libertadores de América,2017
 2017-08-08,Lanús,1,0,The Strongest,False,False,Round of 16,Copa Libertadores de América,2017
 2017-07-06,Emelec,0,1,San Lorenzo de Almagro,False,False,Round of 16,Copa Libertadores de América,2017

@@ -1,8 +1,8 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2003-03-29,Guarani,4,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
-2003-03-29,Athletico-PR,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
+2003-03-29,Athletico Paranaense,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-03-30,Goiás,2,2,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
-2003-03-30,Corinthians,0,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-03-30,Corinthians,0,3,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-03-30,Flamengo,1,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-03-30,Criciúma,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-03-30,Juventude,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
@@ -12,7 +12,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-03-30,Internacional,1,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-03-30,Santos,2,2,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-05,Fluminense,1,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-05,Atlético-MG,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-05,Atlético Mineiro,0,0,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-05,Grêmio,3,1,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-05,Coritiba,0,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-06,Bahia,1,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
@@ -21,11 +21,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-06,São Paulo,2,4,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-06,Paysandu,1,2,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-06,Ponte Preta-SP,1,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-06,Paraná,3,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-06,Paraná,3,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-06,São Caetano,3,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-12,Corinthians,6,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-12,Internacional,2,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-12,Athletico-PR,1,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-12,Athletico Paranaense,1,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-12,Santos,2,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-13,Cruzeiro,3,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-13,Vitória,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
@@ -41,45 +41,45 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-04-16,Bahia,3,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-16,Grêmio,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-16,Coritiba,3,4,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-16,Atlético-MG,3,2,Guarani,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-16,Figueirense,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-16,Atlético Mineiro,3,2,Guarani,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-16,Figueirense,1,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-16,Ponte Preta-SP,1,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-17,Fluminense,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-17,Paraná,3,1,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-17,São Paulo,3,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-19,Flamengo,0,2,Santos,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-19,Bahia,2,4,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-19,Bahia,2,4,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-19,São Caetano,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,São Paulo,3,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,Fluminense,0,0,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,Cruzeiro,4,1,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,Internacional,2,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,Ponte Preta-SP,4,4,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-20,Fortaleza,1,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-20,Fortaleza,1,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,Juventude,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-20,Criciúma,1,0,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-21,Coritiba,1,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-26,Paraná,3,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-26,Guarani,1,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-26,Vitória,0,3,Internacional,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-26,Atlético-MG,1,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-26,Atlético Mineiro,1,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Grêmio,0,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Corinthians,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Vasco da Gama,1,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Goiás,7,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Paysandu,5,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Santos,4,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
-2003-04-27,Athletico-PR,5,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
+2003-04-27,Athletico Paranaense,5,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-04-27,Figueirense,0,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-03,Flamengo,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-03,Bahia,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-03,Cruzeiro,5,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-03,Cruzeiro,5,2,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,Fluminense,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,Fortaleza,1,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,São Paulo,3,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,São Caetano,2,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,Internacional,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-04,Ponte Preta-SP,2,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-04,Ponte Preta-SP,2,1,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,Juventude,1,1,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,Coritiba,2,1,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-04,Criciúma,1,3,Santos,False,False,Round-robin,Brasileirão Série A,2003
@@ -89,15 +89,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-05-10,Paraná,3,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-11,Vasco da Gama,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-11,Paysandu,2,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-11,Atlético-MG,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-11,Atlético Mineiro,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-11,Vitória,2,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-11,Grêmio,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-11,Guarani,3,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-11,Athletico-PR,2,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-11,Athletico Paranaense,2,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-11,Figueirense,3,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-17,Fluminense,3,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-17,Juventude,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-17,São Caetano,2,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-17,São Caetano,2,0,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-18,Bahia,2,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-18,São Paulo,2,0,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-18,Flamengo,1,1,Guarani,False,False,Round-robin,Brasileirão Série A,2003
@@ -106,12 +106,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-05-18,Cruzeiro,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-18,Ponte Preta-SP,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-18,Criciúma,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-18,Internacional,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-24,Atlético-MG,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-18,Internacional,1,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-24,Atlético Mineiro,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-24,Corinthians,3,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-24,Vasco da Gama,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-24,Paraná,1,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-25,Athletico-PR,4,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-25,Athletico Paranaense,4,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-25,Paysandu,1,3,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-25,Goiás,0,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-25,Grêmio,1,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
@@ -119,13 +119,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-05-25,Figueirense,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-25,Vitória,2,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-25,Santos,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
-2003-05-31,Fluminense,2,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-05-31,Fluminense,2,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-31,Internacional,2,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-31,Cruzeiro,2,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-31,Coritiba,3,2,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-05-31,Ponte Preta-SP,0,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-01,Paraná,6,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-01,Vasco da Gama,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-01,Vasco da Gama,2,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-01,Bahia,2,1,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-01,Corinthians,4,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-01,Santos,3,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
@@ -134,16 +134,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-06-07,Vitória,2,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-07,Guarani,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-07,Grêmio,3,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-07,Atlético-MG,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-07,Atlético Mineiro,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-08,Criciúma,1,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-08,Juventude,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-08,São Paulo,2,2,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-08,Goiás,1,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-08,São Caetano,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-08,Paysandu,3,0,Paraná,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-08,Athletico-PR,4,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-08,Athletico Paranaense,4,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-18,Flamengo,3,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-14,Coritiba,2,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-14,Coritiba,2,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-14,Fluminense,2,3,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-14,Ponte Preta-SP,0,2,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-15,Bahia,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
@@ -151,13 +151,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-06-15,Corinthians,1,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-15,Fortaleza,1,2,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-15,Paraná,1,2,Juventude,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-15,Cruzeiro,0,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-15,Cruzeiro,0,0,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-15,Grêmio,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-15,Santos,0,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-15,Criciúma,1,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-19,Bahia,2,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-21,Vasco da Gama,2,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-21,Atlético-MG,3,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-21,Atlético Mineiro,3,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-21,São Paulo,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-21,Internacional,2,1,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-22,Paysandu,2,2,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
@@ -166,7 +166,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-06-22,Figueirense,2,2,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-22,São Caetano,2,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-22,Juventude,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-30,Athletico-PR,0,2,Santos,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-30,Athletico Paranaense,0,2,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-28,Flamengo,0,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-28,Fortaleza,0,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-28,Coritiba,2,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
@@ -175,25 +175,25 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-06-29,Corinthians,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-29,Guarani,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-29,Criciúma,2,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-29,Vitória,1,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
-2003-06-29,Paraná,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-29,Vitória,1,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
+2003-06-29,Paraná,1,1,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-06-29,Cruzeiro,3,2,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-30,Goiás,0,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-05,Vasco da Gama,1,4,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-05,São Paulo,1,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-05,Figueirense,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-05,Atlético-MG,3,2,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-05,Atlético Mineiro,3,2,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Juventude,1,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Grêmio,2,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Fluminense,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Guarani,3,2,Goiás,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-06,Athletico-PR,3,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-06,Athletico Paranaense,3,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Fortaleza,0,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Vitória,1,4,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-06,Santos,3,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-09,Cruzeiro,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-09,Bahia,2,0,Guarani,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-09,São Caetano,0,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-09,São Caetano,0,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-09,Flamengo,2,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-09,Internacional,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-09,Goiás,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
@@ -202,12 +202,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-07-09,Paysandu,1,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-10,Paraná,3,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-10,Ponte Preta-SP,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-10,Criciúma,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-12,Athletico-PR,0,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-10,Criciúma,1,0,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-12,Athletico Paranaense,0,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-12,Vasco da Gama,0,2,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-12,Fortaleza,3,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-13,Grêmio,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-13,Atlético-MG,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-13,Atlético Mineiro,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-13,Ponte Preta-SP,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-13,Vitória,2,0,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-13,Corinthians,0,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
@@ -221,18 +221,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-07-16,Goiás,1,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-16,Bahia,0,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-16,Guarani,2,2,Vitória,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-16,Internacional,3,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-16,Internacional,3,3,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-16,Juventude,1,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-16,Coritiba,3,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-17,Paysandu,1,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-17,São Paulo,2,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-17,São Paulo,2,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-31,Paraná,2,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-19,Internacional,3,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-19,Fluminense,1,4,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-19,Corinthians,1,0,Guarani,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-19,Fortaleza,4,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-19,Fortaleza,4,3,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-20,Juventude,2,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-20,Athletico-PR,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-20,Athletico Paranaense,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-20,Cruzeiro,5,1,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-20,Vasco da Gama,2,0,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-20,Ponte Preta-SP,1,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
@@ -240,8 +240,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-07-20,Goiás,2,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-20,Vitória,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-23,Figueirense,0,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-23,Atlético-MG,2,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-23,Guarani,1,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-23,Atlético Mineiro,2,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-23,Guarani,1,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-23,Santos,3,3,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-23,Bahia,0,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-23,Paraná,4,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
@@ -252,8 +252,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-07-24,São Caetano,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-24,Grêmio,0,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-26,Santos,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-26,Goiás,1,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
-2003-07-26,Athletico-PR,1,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-26,Goiás,1,1,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
+2003-07-26,Athletico Paranaense,1,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-27,Internacional,0,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-27,Fortaleza,2,3,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-07-27,Cruzeiro,5,2,Bahia,False,False,Round-robin,Brasileirão Série A,2003
@@ -273,13 +273,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-08-03,Coritiba,1,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-03,Bahia,2,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-03,Ponte Preta-SP,1,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-03,Vasco da Gama,2,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-03,Atlético-MG,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-03,Vasco da Gama,2,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-03,Atlético Mineiro,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-06,Goiás,3,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-06,Vitória,1,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-06,Athletico-PR,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-06,Athletico Paranaense,1,0,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-06,Criciúma,0,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-06,Santos,3,3,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-06,Santos,3,3,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-06,Fortaleza,3,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-06,Juventude,0,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-06,Cruzeiro,1,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
@@ -291,17 +291,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-08-09,São Paulo,3,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-09,São Caetano,2,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-09,Paraná,1,2,Santos,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-10,Grêmio,1,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-10,Grêmio,1,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-10,Paysandu,2,2,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-10,Ponte Preta-SP,1,4,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-10,Coritiba,5,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-10,Vasco da Gama,0,0,Guarani,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-10,Atlético-MG,2,3,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-10,Atlético Mineiro,2,3,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-10,Bahia,1,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-10,Figueirense,1,2,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-16,Vasco da Gama,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-16,Bahia,1,3,Internacional,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-16,Atlético-MG,1,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-16,Atlético Mineiro,1,2,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-16,Figueirense,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-16,São Paulo,0,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-16,Coritiba,1,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
@@ -318,20 +318,20 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-08-20,Fortaleza,0,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-20,Juventude,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-20,Cruzeiro,2,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-20,Athletico-PR,1,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-20,Athletico Paranaense,1,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-20,Vitória,4,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-21,Criciúma,3,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-21,Internacional,0,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-21,Guarani,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-21,Guarani,2,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-23,Santos,2,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-23,Grêmio,0,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-23,Athletico-PR,3,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-23,Athletico Paranaense,3,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-23,Goiás,1,0,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Vasco da Gama,3,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Paysandu,3,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Paraná,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Corinthians,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-24,Atlético-MG,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-24,Atlético Mineiro,1,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Vitória,3,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Figueirense,1,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-24,Guarani,1,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
@@ -343,19 +343,19 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-08-31,São Caetano,1,0,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-31,Juventude,0,2,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-31,Flamengo,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-31,Coritiba,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
-2003-08-31,Criciúma,2,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-31,Coritiba,2,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
+2003-08-31,Criciúma,2,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-31,Bahia,4,2,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-08-31,Ponte Preta-SP,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-13,Corinthians,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-13,Grêmio,1,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-13,Santos,5,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-13,Athletico-PR,1,4,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-13,Athletico Paranaense,1,4,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Vitória,1,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Vasco da Gama,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Goiás,3,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Figueirense,2,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-14,Atlético-MG,2,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-14,Atlético Mineiro,2,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Paysandu,1,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Guarani,2,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-14,Paraná,2,3,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
@@ -368,25 +368,25 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-09-21,Criciúma,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-21,Fortaleza,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-21,Flamengo,1,1,Goiás,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-21,Juventude,4,0,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-21,Juventude,4,0,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-21,São Caetano,0,2,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-21,São Paulo,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-21,São Paulo,2,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Guarani,5,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Goiás,0,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Paraná,4,2,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Paysandu,4,0,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Vitória,1,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Grêmio,2,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-24,Athletico-PR,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-24,Athletico Paranaense,2,1,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Santos,1,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-24,Corinthians,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-25,Figueirense,2,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-25,Vasco da Gama,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-25,Atlético-MG,3,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-25,Atlético Mineiro,3,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-27,Internacional,1,0,Santos,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-27,Flamengo,2,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-27,Flamengo,2,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-27,São Paulo,3,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
-2003-09-28,Fluminense,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-09-28,Fluminense,0,1,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-28,Fortaleza,3,0,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-28,Criciúma,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-28,Juventude,6,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
@@ -395,7 +395,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-09-28,Cruzeiro,1,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-28,Coritiba,1,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-09-28,São Caetano,2,0,Paraná,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-04,Athletico-PR,0,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-04,Athletico Paranaense,0,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-04,Paysandu,0,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-04,Grêmio,3,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-04,São Caetano,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
@@ -403,7 +403,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-10-05,Vitória,1,2,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-05,Flamengo,0,3,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-05,Goiás,3,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-05,Atlético-MG,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-05,Atlético Mineiro,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-05,Juventude,2,2,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-05,Criciúma,1,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-05,Guarani,2,1,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
@@ -411,33 +411,33 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-10-08,Coritiba,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-08,Bahia,3,0,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-08,Santos,1,1,Guarani,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-08,Ponte Preta-SP,2,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-08,Ponte Preta-SP,2,2,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-08,Vasco da Gama,1,1,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-08,Corinthians,0,3,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-08,Fortaleza,2,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-09,Fluminense,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-09,Paraná,4,2,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-09,Figueirense,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-09,Figueirense,0,1,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-09,Internacional,2,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-11,São Caetano,2,2,Santos,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-11,Athletico-PR,2,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-11,Athletico Paranaense,2,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-11,Guarani,1,3,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,Vitória,2,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,Flamengo,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,Goiás,6,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,São Paulo,3,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-12,Atlético-MG,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-12,Atlético Mineiro,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,Internacional,0,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,Juventude,1,1,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-12,Figueirense,4,2,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-15,Paysandu,3,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-18,Grêmio,2,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-18,Grêmio,2,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-18,Flamengo,2,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-18,Guarani,2,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-18,Goiás,3,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-18,Coritiba,3,2,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-19,Corinthians,3,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-19,Santos,3,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-19,Santos,3,2,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-19,Paraná,4,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-19,Criciúma,2,1,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-19,Fortaleza,1,1,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
@@ -448,10 +448,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-10-22,Figueirense,0,0,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-22,Fluminense,1,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-22,São Caetano,2,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-22,Athletico-PR,1,2,Vitória,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-22,Athletico Paranaense,1,2,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-22,Ponte Preta-SP,0,2,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-23,Paysandu,4,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-23,Atlético-MG,2,2,Paraná,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-23,Atlético Mineiro,2,2,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-23,Juventude,1,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-23,Vasco da Gama,1,1,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-23,São Paulo,3,3,Guarani,False,False,Round-robin,Brasileirão Série A,2003
@@ -459,18 +459,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-10-25,Cruzeiro,1,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-25,Coritiba,0,4,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-25,Ponte Preta-SP,1,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-26,Paysandu,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-26,Paysandu,1,0,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-26,Paraná,3,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-26,Flamengo,2,1,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
-2003-10-26,Corinthians,2,3,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-10-26,Corinthians,2,3,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-26,São Caetano,0,1,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-26,Criciúma,2,2,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-26,Internacional,0,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-10-26,Goiás,3,0,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-01,Fluminense,2,2,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-01,Atlético-MG,1,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-01,Atlético Mineiro,1,1,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-01,Grêmio,0,2,Paraná,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-01,Athletico-PR,1,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-01,Athletico Paranaense,1,0,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-01,Guarani,3,2,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-02,São Paulo,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-02,Fortaleza,1,2,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
@@ -489,8 +489,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-11-05,São Paulo,1,0,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-06,Guarani,0,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-06,Bahia,1,0,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-06,Goiás,4,1,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-06,Flamengo,3,2,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-06,Goiás,4,1,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-06,Flamengo,3,2,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-08,Criciúma,1,2,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-08,Grêmio,2,0,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-08,Fluminense,3,2,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
@@ -500,26 +500,26 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-11-09,Fortaleza,4,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-09,Vasco da Gama,0,1,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-09,Corinthians,2,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-09,Athletico-PR,4,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-09,Atlético-MG,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-09,Athletico Paranaense,4,3,São Paulo,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-09,Atlético Mineiro,1,2,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-09,São Caetano,4,1,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-22,Grêmio,4,3,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-22,Flamengo,1,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-22,Coritiba,1,1,Ponte Preta-SP,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-22,Figueirense,3,2,Internacional,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-22,Atlético-MG,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-22,Atlético Mineiro,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-23,Santos,3,1,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-23,São Paulo,3,1,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-23,Paraná,1,3,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-23,São Caetano,1,0,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-23,Guarani,0,1,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-23,Paysandu,3,2,Juventude,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-23,Bahia,0,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-23,Bahia,0,2,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-29,Vasco da Gama,1,0,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-29,Juventude,1,0,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-29,Juventude,1,0,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-29,Fluminense,2,1,São Caetano,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-29,Internacional,3,1,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
-2003-11-29,Athletico-PR,3,1,Guarani,False,False,Round-robin,Brasileirão Série A,2003
+2003-11-29,Athletico Paranaense,3,1,Guarani,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-30,Cruzeiro,2,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-30,Corinthians,1,2,Bahia,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-30,Goiás,3,0,Santos,False,False,Round-robin,Brasileirão Série A,2003
@@ -528,8 +528,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-11-30,Vitória,1,0,Coritiba,False,False,Round-robin,Brasileirão Série A,2003
 2003-11-30,Criciúma,0,2,Grêmio,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-06,Goiás,0,3,Figueirense,False,False,Round-robin,Brasileirão Série A,2003
-2003-12-06,Vitória,0,1,Atlético-MG,False,False,Round-robin,Brasileirão Série A,2003
-2003-12-06,Athletico-PR,2,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
+2003-12-06,Vitória,0,1,Atlético Mineiro,False,False,Round-robin,Brasileirão Série A,2003
+2003-12-06,Athletico Paranaense,2,2,Vasco da Gama,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-06,Corinthians,1,1,Paraná,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-07,Guarani,2,1,Paysandu,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-07,Cruzeiro,5,2,Fluminense,False,False,Round-robin,Brasileirão Série A,2003
@@ -543,11 +543,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2003-12-13,Paraná,2,0,Vitória,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-13,São Caetano,5,0,Internacional,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-13,Coritiba,2,0,Criciúma,False,False,Round-robin,Brasileirão Série A,2003
-2003-12-13,Atlético-MG,3,2,Goiás,False,False,Round-robin,Brasileirão Série A,2003
+2003-12-13,Atlético Mineiro,3,2,Goiás,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-14,São Paulo,1,3,Flamengo,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-14,Vasco da Gama,1,1,Santos,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-14,Fluminense,1,0,Juventude,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-14,Grêmio,3,0,Corinthians,False,False,Round-robin,Brasileirão Série A,2003
-2003-12-14,Paysandu,2,2,Athletico-PR,False,False,Round-robin,Brasileirão Série A,2003
+2003-12-14,Paysandu,2,2,Athletico Paranaense,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-14,Ponte Preta-SP,2,0,Fortaleza,False,False,Round-robin,Brasileirão Série A,2003
 2003-12-14,Bahia,0,7,Cruzeiro,False,False,Round-robin,Brasileirão Série A,2003

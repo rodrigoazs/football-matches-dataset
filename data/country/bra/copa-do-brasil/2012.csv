@@ -9,8 +9,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-03-07,Rio Branco-AC,0,6,Cruzeiro,False,False,First Round,Copa de Brasil,2012
 2012-03-14,São Mateus-ES,2,1,Chapecoense,False,False,First Round,Copa de Brasil,2012
 2012-03-21,Chapecoense,3,1,São Mateus-ES,False,False,First Round,Copa de Brasil,2012
-2012-03-07,Sampaio Corrêa-MA,2,1,Athletico-PR,False,False,First Round,Copa de Brasil,2012
-2012-03-15,Athletico-PR,1,0,Sampaio Corrêa-MA,False,False,First Round,Copa de Brasil,2012
+2012-03-07,Sampaio Corrêa-MA,2,1,Athletico Paranaense,False,False,First Round,Copa de Brasil,2012
+2012-03-15,Athletico Paranaense,1,0,Sampaio Corrêa-MA,False,False,First Round,Copa de Brasil,2012
 2012-03-14,Madureira,0,2,Criciúma,False,False,First Round,Copa de Brasil,2012
 2012-03-07,River Plate-SE,2,3,Grêmio,False,False,First Round,Copa de Brasil,2012
 2012-03-21,Grêmio,3,1,River Plate-SE,False,False,First Round,Copa de Brasil,2012
@@ -32,11 +32,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-03-15,Atlético-GO,4,2,Gurupi,False,False,First Round,Copa de Brasil,2012
 2012-03-14,Sapucaiense-RS,0,0,Ponte Preta-SP,False,False,First Round,Copa de Brasil,2012
 2012-03-21,Ponte Preta-SP,5,2,Sapucaiense-RS,False,False,First Round,Copa de Brasil,2012
-2012-03-14,CENE,1,3,Atlético-MG,False,False,First Round,Copa de Brasil,2012
+2012-03-14,CENE,1,3,Atlético Mineiro,False,False,First Round,Copa de Brasil,2012
 2012-03-07,Penarol-AM,1,2,Santa Cruz-PE,False,False,First Round,Copa de Brasil,2012
 2012-03-14,Santa Cruz-PE,2,3,Penarol-AM,False,False,First Round,Copa de Brasil,2012
-2012-03-07,Boavista,0,0,América-MG,False,False,First Round,Copa de Brasil,2012
-2012-03-14,América-MG,2,1,Boavista,False,False,First Round,Copa de Brasil,2012
+2012-03-07,Boavista,0,0,América Mineiro,False,False,First Round,Copa de Brasil,2012
+2012-03-14,América Mineiro,2,1,Boavista,False,False,First Round,Copa de Brasil,2012
 2012-03-08,Paulista-SP,2,3,Goiás,False,False,First Round,Copa de Brasil,2012
 2012-03-21,Goiás,3,0,Paulista-SP,False,False,First Round,Copa de Brasil,2012
 2012-03-14,Nacional-AM,0,0,Coritiba,False,False,First Round,Copa de Brasil,2012
@@ -57,8 +57,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-04-18,Paraná,1,1,Ceará,False,False,Second Round,Copa de Brasil,2012
 2012-04-11,Chapecoense,1,1,Cruzeiro,False,False,Second Round,Copa de Brasil,2012
 2012-04-18,Cruzeiro,4,1,Chapecoense,False,False,Second Round,Copa de Brasil,2012
-2012-04-05,Criciúma,1,2,Athletico-PR,False,False,Second Round,Copa de Brasil,2012
-2012-04-12,Athletico-PR,5,1,Criciúma,False,False,Second Round,Copa de Brasil,2012
+2012-04-05,Criciúma,1,2,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2012
+2012-04-12,Athletico Paranaense,5,1,Criciúma,False,False,Second Round,Copa de Brasil,2012
 2012-04-04,Ipatinga,0,1,Grêmio,False,False,Second Round,Copa de Brasil,2012
 2012-04-11,Grêmio,3,0,Ipatinga,False,False,Second Round,Copa de Brasil,2012
 2012-04-12,Fortaleza,4,0,Náutico,False,False,Second Round,Copa de Brasil,2012
@@ -70,9 +70,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-04-11,Bahia de Feira,2,5,São Paulo,False,False,Second Round,Copa de Brasil,2012
 2012-04-05,Atlético-GO,2,1,Ponte Preta,False,False,Second Round,Copa de Brasil,2012
 2012-04-18,Ponte Preta,2,1,Atlético-GO,False,False,Second Round,Copa de Brasil,2012
-2012-04-11,Penarol-AM,0,5,Atlético-MG,False,False,Second Round,Copa de Brasil,2012
-2012-04-04,América-MG,0,0,Goiás,False,False,Second Round,Copa de Brasil,2012
-2012-04-11,Goiás,4,3,América-MG,False,False,Second Round,Copa de Brasil,2012
+2012-04-11,Penarol-AM,0,5,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2012
+2012-04-04,América Mineiro,0,0,Goiás,False,False,Second Round,Copa de Brasil,2012
+2012-04-11,Goiás,4,3,América Mineiro,False,False,Second Round,Copa de Brasil,2012
 2012-04-04,ASA,1,0,Coritiba,False,False,Second Round,Copa de Brasil,2012
 2012-04-11,Coritiba,3,0,ASA,False,False,Second Round,Copa de Brasil,2012
 2012-04-04,Paysandu,2,1,Sport,False,False,Second Round,Copa de Brasil,2012
@@ -83,22 +83,22 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2012-04-18,Vitória,3,2,ABC,False,False,Second Round,Copa de Brasil,2012
 2012-04-25,Paraná,1,2,Palmeiras,False,False,Round of 16,Copa de Brasil,2012
 2012-05-09,Palmeiras,4,0,Paraná,False,False,Round of 16,Copa de Brasil,2012
-2012-05-02,Athletico-PR,1,0,Cruzeiro,False,False,Round of 16,Copa de Brasil,2012
-2012-05-09,Cruzeiro,1,2,Athletico-PR,False,False,Round of 16,Copa de Brasil,2012
+2012-05-02,Athletico Paranaense,1,0,Cruzeiro,False,False,Round of 16,Copa de Brasil,2012
+2012-05-09,Cruzeiro,1,2,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2012
 2012-05-02,Fortaleza,0,2,Grêmio,False,False,Round of 16,Copa de Brasil,2012
 2012-05-09,Grêmio,2,0,Fortaleza,False,False,Round of 16,Copa de Brasil,2012
 2012-04-25,Portuguesa,0,0,Bahia,False,False,Round of 16,Copa de Brasil,2012
 2012-05-10,Bahia,2,0,Portuguesa,False,False,Round of 16,Copa de Brasil,2012
 2012-05-02,Ponte Preta,1,0,São Paulo,False,False,Round of 16,Copa de Brasil,2012
 2012-05-10,São Paulo,3,1,Ponte Preta,False,False,Round of 16,Copa de Brasil,2012
-2012-04-25,Goiás,2,0,Atlético-MG,False,False,Round of 16,Copa de Brasil,2012
-2012-05-03,Atlético-MG,2,1,Goiás,False,False,Round of 16,Copa de Brasil,2012
+2012-04-25,Goiás,2,0,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2012
+2012-05-03,Atlético Mineiro,2,1,Goiás,False,False,Round of 16,Copa de Brasil,2012
 2012-04-26,Coritiba,4,1,Paysandu,False,False,Round of 16,Copa de Brasil,2012
 2012-05-03,Paysandu,0,1,Coritiba,False,False,Round of 16,Copa de Brasil,2012
 2012-05-02,Vitória,1,1,Botafogo,False,False,Round of 16,Copa de Brasil,2012
 2012-05-09,Botafogo,1,2,Vitória,False,False,Round of 16,Copa de Brasil,2012
-2012-05-16,Athletico-PR,2,2,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2012
-2012-05-23,Palmeiras,2,0,Athletico-PR,False,False,Quarterfinal,Copa de Brasil,2012
+2012-05-16,Athletico Paranaense,2,2,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2012
+2012-05-23,Palmeiras,2,0,Athletico Paranaense,False,False,Quarterfinal,Copa de Brasil,2012
 2012-05-17,Bahia,1,2,Grêmio,False,False,Quarterfinal,Copa de Brasil,2012
 2012-05-23,Grêmio,2,0,Bahia,False,False,Quarterfinal,Copa de Brasil,2012
 2012-05-16,São Paulo,2,0,Goiás,False,False,Quarterfinal,Copa de Brasil,2012

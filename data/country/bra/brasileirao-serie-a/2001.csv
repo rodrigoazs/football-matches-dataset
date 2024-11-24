@@ -1,6 +1,6 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 2001-08-01,Guarani,1,3,Palmeiras,False,False,First Round,Brasileirão Série A,2001
-2001-08-01,Botafogo,1,1,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-01,Botafogo,1,1,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-01,Portuguesa-SP,0,1,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-08-01,Flamengo,0,0,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
 2001-08-01,Corinthians,2,0,Vitória,False,False,First Round,Brasileirão Série A,2001
@@ -10,17 +10,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-08-01,Bahia,5,0,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-08-01,Botafogo-SP,2,2,São Paulo,False,False,First Round,Brasileirão Série A,2001
 2001-08-01,Gama,0,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
-2001-08-01,Atlético-MG,1,1,Coritiba,False,False,First Round,Brasileirão Série A,2001
+2001-08-01,Atlético Mineiro,1,1,Coritiba,False,False,First Round,Brasileirão Série A,2001
 2001-08-02,Santos,1,1,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
-2001-08-02,Athletico-PR,2,0,Grêmio,False,False,First Round,Brasileirão Série A,2001
+2001-08-02,Athletico Paranaense,2,0,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-08-04,Palmeiras,2,1,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-08-04,Fluminense,2,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
-2001-08-04,América-MG,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
-2001-08-04,Juventude,1,4,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-04,América Mineiro,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
+2001-08-04,Juventude,1,4,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-05,Ponte Preta-SP,2,2,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-08-05,Vasco da Gama,7,1,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-08-05,São Paulo,0,0,Gama,False,False,First Round,Brasileirão Série A,2001
-2001-08-05,Cruzeiro,1,2,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-08-05,Cruzeiro,1,2,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-08-05,Coritiba,3,2,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-08-05,Grêmio,2,1,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-08-05,Santa Cruz,0,4,Botafogo,False,False,First Round,Brasileirão Série A,2001
@@ -36,28 +36,28 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-08-08,Santa Cruz,1,2,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-08-08,Flamengo,0,1,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-08-08,Gama,1,1,Santos,False,False,First Round,Brasileirão Série A,2001
-2001-08-08,São Caetano,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-08-08,São Caetano,0,0,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-08-09,Botafogo,3,2,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-08-09,Guarani,1,1,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-08-09,Portuguesa-SP,2,1,Sport,False,False,First Round,Brasileirão Série A,2001
-2001-08-09,América-MG,0,1,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-09,América Mineiro,0,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-11,Vasco da Gama,1,1,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-08-11,São Paulo,3,1,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
-2001-08-11,Athletico-PR,4,0,Flamengo,False,False,First Round,Brasileirão Série A,2001
+2001-08-11,Athletico Paranaense,4,0,Flamengo,False,False,First Round,Brasileirão Série A,2001
 2001-08-11,Botafogo-SP,1,4,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Paraná,3,1,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Ponte Preta-SP,3,1,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Fluminense,1,1,Vitória,False,False,First Round,Brasileirão Série A,2001
-2001-08-12,Atlético-MG,3,0,Guarani,False,False,First Round,Brasileirão Série A,2001
+2001-08-12,Atlético Mineiro,3,0,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Internacional,2,0,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Sport,2,1,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Bahia,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Goiás,0,0,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-08-12,Santos,2,0,Coritiba,False,False,First Round,Brasileirão Série A,2001
-2001-08-12,Palmeiras,3,1,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-12,Palmeiras,3,1,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-15,Flamengo,2,1,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-08-15,Corinthians,0,0,Juventude,False,False,First Round,Brasileirão Série A,2001
-2001-08-15,Cruzeiro,0,3,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-15,Cruzeiro,0,3,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-15,Paraná,1,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
 2001-08-15,Santa Cruz,3,2,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-08-15,Vitória,1,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
@@ -65,18 +65,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-08-16,Internacional,2,0,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-08-16,Botafogo,0,1,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-08-16,Portuguesa-SP,1,0,Coritiba,False,False,First Round,Brasileirão Série A,2001
-2001-08-16,Athletico-PR,1,0,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-16,Athletico Paranaense,1,0,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-16,Guarani,1,2,São Paulo,False,False,First Round,Brasileirão Série A,2001
 2001-08-16,Botafogo-SP,0,1,Santos,False,False,First Round,Brasileirão Série A,2001
 2001-08-16,Gama,2,1,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-08-18,Vasco da Gama,1,1,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-08-18,Palmeiras,3,1,Paraná,False,False,First Round,Brasileirão Série A,2001
-2001-08-18,América-MG,0,1,São Caetano,False,False,First Round,Brasileirão Série A,2001
+2001-08-18,América Mineiro,0,1,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-08-19,Sport,2,1,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-08-19,Bahia,0,2,Flamengo,False,False,First Round,Brasileirão Série A,2001
 2001-08-19,Fluminense,4,3,Gama,False,False,First Round,Brasileirão Série A,2001
-2001-08-19,São Paulo,2,1,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
-2001-08-19,Atlético-MG,2,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
+2001-08-19,São Paulo,2,1,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
+2001-08-19,Atlético Mineiro,2,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-08-19,Coritiba,3,2,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-19,Grêmio,0,0,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-08-19,Ponte Preta-SP,2,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
@@ -88,20 +88,20 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-08-25,Paraná,0,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Bahia,1,0,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Botafogo-SP,1,0,Flamengo,False,False,First Round,Brasileirão Série A,2001
-2001-08-26,Vasco da Gama,4,0,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-08-26,Vasco da Gama,4,0,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,São Paulo,4,0,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
-2001-08-26,Atlético-MG,3,0,Vitória,False,False,First Round,Brasileirão Série A,2001
+2001-08-26,Atlético Mineiro,3,0,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Coritiba,1,1,São Caetano,False,False,First Round,Brasileirão Série A,2001
-2001-08-26,Grêmio,3,1,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-26,Grêmio,3,1,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Sport,0,1,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Guarani,2,2,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Gama,0,0,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-08-26,Santos,2,2,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-08-29,Corinthians,2,2,Gama,False,False,First Round,Brasileirão Série A,2001
-2001-08-29,América-MG,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
-2001-08-29,Athletico-PR,1,1,Santos,False,False,First Round,Brasileirão Série A,2001
+2001-08-29,América Mineiro,1,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
+2001-08-29,Athletico Paranaense,1,1,Santos,False,False,First Round,Brasileirão Série A,2001
 2001-08-29,Internacional,2,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
-2001-08-29,Santa Cruz,1,1,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-08-29,Santa Cruz,1,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-08-29,Vitória,1,3,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-08-29,Ponte Preta-SP,3,2,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-08-29,Goiás,2,0,Fluminense,False,False,First Round,Brasileirão Série A,2001
@@ -112,11 +112,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-08-30,Portuguesa-SP,1,2,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-08-30,Cruzeiro,1,1,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-09-01,Fluminense,2,1,Juventude,False,False,First Round,Brasileirão Série A,2001
-2001-09-01,Palmeiras,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-09-01,Palmeiras,2,0,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-09-01,Paraná,3,0,Internacional,False,False,First Round,Brasileirão Série A,2001
-2001-09-01,Atlético-MG,3,0,Sport,False,False,First Round,Brasileirão Série A,2001
+2001-09-01,Atlético Mineiro,3,0,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-09-02,Santa Cruz,2,1,Flamengo,False,False,First Round,Brasileirão Série A,2001
-2001-09-02,América-MG,4,4,Corinthians,False,False,First Round,Brasileirão Série A,2001
+2001-09-02,América Mineiro,4,4,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-09-02,Vasco da Gama,2,2,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-09-02,São Paulo,0,1,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-09-02,Coritiba,2,3,Botafogo,False,False,First Round,Brasileirão Série A,2001
@@ -130,12 +130,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-09-08,Botafogo,0,2,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-09-08,Corinthians,3,2,Coritiba,False,False,First Round,Brasileirão Série A,2001
 2001-09-08,Cruzeiro,4,1,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
-2001-09-09,Athletico-PR,1,2,Fluminense,False,False,First Round,Brasileirão Série A,2001
+2001-09-09,Athletico Paranaense,1,2,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-09-09,Goiás,2,3,São Paulo,False,False,First Round,Brasileirão Série A,2001
-2001-09-09,Flamengo,1,1,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-09-09,Flamengo,1,1,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-09-09,Internacional,2,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
 2001-09-09,Sport,3,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
-2001-09-09,Bahia,4,0,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-09-09,Bahia,4,0,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-09-09,Guarani,1,1,Santos,False,False,First Round,Brasileirão Série A,2001
 2001-09-09,Botafogo-SP,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-09-09,São Caetano,3,2,Gama,False,False,First Round,Brasileirão Série A,2001
@@ -149,44 +149,44 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-09-16,Goiás,2,3,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-09-16,Juventude,1,1,Flamengo,False,False,First Round,Brasileirão Série A,2001
 2001-09-16,Vasco da Gama,0,1,Bahia,False,False,First Round,Brasileirão Série A,2001
-2001-09-16,Atlético-MG,2,1,Gama,False,False,First Round,Brasileirão Série A,2001
-2001-09-16,Athletico-PR,3,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
+2001-09-16,Atlético Mineiro,2,1,Gama,False,False,First Round,Brasileirão Série A,2001
+2001-09-16,Athletico Paranaense,3,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-09-16,Grêmio,2,0,Coritiba,False,False,First Round,Brasileirão Série A,2001
 2001-09-16,Santa Cruz,0,1,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-09-16,Botafogo-SP,0,2,Botafogo,False,False,First Round,Brasileirão Série A,2001
-2001-09-16,Santos,3,0,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-09-16,Santos,3,0,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,Botafogo,0,2,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,Corinthians,2,2,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,Cruzeiro,1,2,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,Paraná,2,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
-2001-09-19,Internacional,4,4,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-09-19,Internacional,4,4,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,Sport,0,2,Santos,False,False,First Round,Brasileirão Série A,2001
-2001-09-19,Ponte Preta-SP,4,3,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-09-19,Ponte Preta-SP,4,3,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,Gama,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-09-19,São Caetano,0,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-09-20,Bahia,1,1,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-09-20,Flamengo,1,1,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-09-20,Portuguesa-SP,1,2,Juventude,False,False,First Round,Brasileirão Série A,2001
-2001-09-20,América-MG,1,0,Fluminense,False,False,First Round,Brasileirão Série A,2001
+2001-09-20,América Mineiro,1,0,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-09-20,Coritiba,0,1,São Paulo,False,False,First Round,Brasileirão Série A,2001
 2001-09-22,Vasco da Gama,2,1,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-09-22,Palmeiras,0,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
 2001-09-22,Gama,1,1,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
-2001-09-23,Athletico-PR,3,2,Corinthians,False,False,First Round,Brasileirão Série A,2001
+2001-09-23,Athletico Paranaense,3,2,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Guarani,1,3,Flamengo,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Fluminense,3,1,Coritiba,False,False,First Round,Brasileirão Série A,2001
-2001-09-23,São Paulo,4,1,América-MG,False,False,First Round,Brasileirão Série A,2001
-2001-09-23,Atlético-MG,4,0,Paraná,False,False,First Round,Brasileirão Série A,2001
+2001-09-23,São Paulo,4,1,América Mineiro,False,False,First Round,Brasileirão Série A,2001
+2001-09-23,Atlético Mineiro,4,0,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Internacional,2,0,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Santa Cruz,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Vitória,3,1,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Botafogo-SP,1,2,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Santos,5,1,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-09-23,Juventude,0,3,São Caetano,False,False,First Round,Brasileirão Série A,2001
-2001-09-29,Botafogo,1,3,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-09-29,Botafogo,1,3,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-09-29,Paraná,1,0,Santos,False,False,First Round,Brasileirão Série A,2001
 2001-09-29,Portuguesa-SP,1,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
-2001-09-29,América-MG,0,2,Internacional,False,False,First Round,Brasileirão Série A,2001
+2001-09-29,América Mineiro,0,2,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-09-30,Flamengo,1,2,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-09-30,Corinthians,0,3,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-09-30,Cruzeiro,3,0,Juventude,False,False,First Round,Brasileirão Série A,2001
@@ -194,17 +194,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-09-30,Bahia,1,1,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-09-30,Ponte Preta-SP,2,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
 2001-09-30,Sport,1,0,São Paulo,False,False,First Round,Brasileirão Série A,2001
-2001-09-30,Goiás,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-09-30,Goiás,1,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-09-30,São Caetano,0,2,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-10-18,Grêmio,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-10-02,Portuguesa-SP,3,0,Internacional,False,False,First Round,Brasileirão Série A,2001
-2001-10-02,Paraná,1,2,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-10-02,Paraná,1,2,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Vasco da Gama,3,0,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Corinthians,4,2,Palmeiras,False,False,First Round,Brasileirão Série A,2001
-2001-10-03,Atlético-MG,4,0,Botafogo,False,False,First Round,Brasileirão Série A,2001
+2001-10-03,Atlético Mineiro,4,0,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Coritiba,1,1,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Grêmio,1,1,Fluminense,False,False,First Round,Brasileirão Série A,2001
-2001-10-03,Santa Cruz,1,5,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-10-03,Santa Cruz,1,5,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Vitória,1,0,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Ponte Preta-SP,1,1,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-10-03,Botafogo-SP,1,1,Guarani,False,False,First Round,Brasileirão Série A,2001
@@ -214,9 +214,9 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-10-06,Corinthians,3,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,Botafogo,1,2,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,São Paulo,0,1,Palmeiras,False,False,First Round,Brasileirão Série A,2001
-2001-10-06,Cruzeiro,2,2,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
-2001-10-06,América-MG,1,4,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
-2001-10-06,Athletico-PR,1,1,Paraná,False,False,First Round,Brasileirão Série A,2001
+2001-10-06,Cruzeiro,2,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
+2001-10-06,América Mineiro,1,4,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
+2001-10-06,Athletico Paranaense,1,1,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,Grêmio,1,0,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,Sport,1,1,Coritiba,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,Guarani,1,0,Goiás,False,False,First Round,Brasileirão Série A,2001
@@ -224,28 +224,28 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-10-06,Santos,1,2,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,Juventude,0,2,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-06,Bahia,2,1,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
-2001-10-09,América-MG,2,0,Gama,False,False,First Round,Brasileirão Série A,2001
+2001-10-09,América Mineiro,2,0,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Botafogo,2,2,Flamengo,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Cruzeiro,1,0,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Coritiba,0,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Internacional,2,0,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Santa Cruz,3,2,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Vitória,4,1,Guarani,False,False,First Round,Brasileirão Série A,2001
-2001-10-10,Ponte Preta-SP,1,5,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-10-10,Ponte Preta-SP,1,5,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Goiás,2,3,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,São Caetano,2,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Juventude,2,2,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-10-10,Palmeiras,2,1,Santos,False,False,First Round,Brasileirão Série A,2001
 2001-10-11,São Paulo,1,1,Grêmio,False,False,First Round,Brasileirão Série A,2001
-2001-10-11,Fluminense,3,2,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-10-11,Fluminense,3,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-13,Vasco da Gama,3,1,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-10-13,Portuguesa-SP,2,0,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-10-13,Paraná,2,1,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-10-13,Gama,2,0,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-10-14,Fluminense,1,1,São Paulo,False,False,First Round,Brasileirão Série A,2001
 2001-10-14,Corinthians,1,2,Flamengo,False,False,First Round,Brasileirão Série A,2001
-2001-10-14,Atlético-MG,0,1,Santos,False,False,First Round,Brasileirão Série A,2001
-2001-10-14,Athletico-PR,3,2,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-10-14,Atlético Mineiro,0,1,Santos,False,False,First Round,Brasileirão Série A,2001
+2001-10-14,Athletico Paranaense,3,2,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-14,Grêmio,2,0,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-14,Sport,1,1,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-10-14,Bahia,3,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
@@ -253,18 +253,18 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-10-14,Botafogo-SP,0,0,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-10-14,São Caetano,3,1,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-10-20,Vasco da Gama,1,2,São Caetano,False,False,First Round,Brasileirão Série A,2001
-2001-10-20,América-MG,2,2,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
+2001-10-20,América Mineiro,2,2,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,São Paulo,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Corinthians,1,2,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Cruzeiro,1,0,Fluminense,False,False,First Round,Brasileirão Série A,2001
-2001-10-21,Coritiba,0,0,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-10-21,Coritiba,0,0,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Internacional,2,2,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Sport,1,2,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Vitória,1,1,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Ponte Preta-SP,1,1,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Goiás,2,0,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-10-21,Juventude,1,1,Paraná,False,False,First Round,Brasileirão Série A,2001
-2001-10-21,Flamengo,1,2,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-10-21,Flamengo,1,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-27,São Paulo,0,0,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-10-27,Paraná,0,1,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Grêmio,2,0,Flamengo,False,False,First Round,Brasileirão Série A,2001
@@ -272,22 +272,22 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-10-28,Botafogo,3,0,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Vasco da Gama,2,2,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Palmeiras,1,2,Internacional,False,False,First Round,Brasileirão Série A,2001
-2001-10-28,Atlético-MG,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
+2001-10-28,Atlético Mineiro,1,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Coritiba,1,0,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Santa Cruz,1,3,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
-2001-10-28,Vitória,1,0,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-10-28,Vitória,1,0,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Guarani,2,1,Bahia,False,False,First Round,Brasileirão Série A,2001
-2001-10-28,Botafogo-SP,0,2,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-10-28,Botafogo-SP,0,2,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-10-28,Goiás,2,1,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-11-02,Flamengo,0,1,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-11-02,São Paulo,1,1,Corinthians,False,False,First Round,Brasileirão Série A,2001
-2001-11-02,América-MG,1,2,Coritiba,False,False,First Round,Brasileirão Série A,2001
+2001-11-02,América Mineiro,1,2,Coritiba,False,False,First Round,Brasileirão Série A,2001
 2001-11-02,Gama,3,2,Paraná,False,False,First Round,Brasileirão Série A,2001
 2001-11-04,Botafogo,3,1,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-11-04,Portuguesa-SP,5,4,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
 2001-11-04,Cruzeiro,1,0,São Caetano,False,False,First Round,Brasileirão Série A,2001
-2001-11-04,Athletico-PR,2,1,Goiás,False,False,First Round,Brasileirão Série A,2001
-2001-11-04,Internacional,1,0,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-11-04,Athletico Paranaense,2,1,Goiás,False,False,First Round,Brasileirão Série A,2001
+2001-11-04,Internacional,1,0,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-04,Sport,0,1,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-11-04,Bahia,1,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-11-04,Ponte Preta-SP,5,2,Vitória,False,False,First Round,Brasileirão Série A,2001
@@ -295,8 +295,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-11-04,Santos,4,2,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-11-07,Botafogo,1,3,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-11-07,Palmeiras,2,6,Fluminense,False,False,First Round,Brasileirão Série A,2001
-2001-11-07,América-MG,3,1,Sport,False,False,First Round,Brasileirão Série A,2001
-2001-11-07,Athletico-PR,6,3,Bahia,False,False,First Round,Brasileirão Série A,2001
+2001-11-07,América Mineiro,3,1,Sport,False,False,First Round,Brasileirão Série A,2001
+2001-11-07,Athletico Paranaense,6,3,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-11-07,Internacional,1,4,São Paulo,False,False,First Round,Brasileirão Série A,2001
 2001-11-07,Gama,5,0,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-11-07,Vitória,0,0,Juventude,False,False,First Round,Brasileirão Série A,2001
@@ -306,30 +306,30 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-11-08,Paraná,1,1,Coritiba,False,False,First Round,Brasileirão Série A,2001
 2001-11-08,Santa Cruz,3,2,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-11-08,Ponte Preta-SP,3,3,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
-2001-11-08,São Caetano,5,2,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-11-08,São Caetano,5,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-10,Fluminense,0,1,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-11-10,São Paulo,3,1,Botafogo,False,False,First Round,Brasileirão Série A,2001
-2001-11-10,Juventude,2,0,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-11-10,Juventude,2,0,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-11-10,Sport,1,2,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Flamengo,0,2,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Corinthians,0,1,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Coritiba,2,0,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Grêmio,3,0,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Bahia,3,0,Paraná,False,False,First Round,Brasileirão Série A,2001
-2001-11-11,Guarani,0,2,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-11-11,Guarani,0,2,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Botafogo-SP,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Goiás,2,1,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
-2001-11-11,Atlético-MG,2,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
+2001-11-11,Atlético Mineiro,2,1,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
 2001-11-11,Santos,4,2,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
-2001-11-13,Athletico-PR,2,1,Sport,False,False,First Round,Brasileirão Série A,2001
+2001-11-13,Athletico Paranaense,2,1,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Vasco da Gama,2,0,Grêmio,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Portuguesa-SP,1,3,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Botafogo,2,4,Corinthians,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,São Paulo,3,1,Flamengo,False,False,First Round,Brasileirão Série A,2001
-2001-11-15,Atlético-MG,2,1,Palmeiras,False,False,First Round,Brasileirão Série A,2001
+2001-11-15,Atlético Mineiro,2,1,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Paraná,0,1,Fluminense,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Internacional,3,0,Santos,False,False,First Round,Brasileirão Série A,2001
-2001-11-15,Santa Cruz,2,1,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-11-15,Santa Cruz,2,1,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Bahia,2,1,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Ponte Preta-SP,1,0,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-11-15,Botafogo-SP,2,0,Vitória,False,False,First Round,Brasileirão Série A,2001
@@ -338,15 +338,15 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-11-18,Fluminense,0,0,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Flamengo,1,0,Internacional,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Palmeiras,1,3,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
-2001-11-18,Corinthians,2,2,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-11-18,Corinthians,2,2,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Cruzeiro,1,4,São Paulo,False,False,First Round,Brasileirão Série A,2001
-2001-11-18,América-MG,1,2,Bahia,False,False,First Round,Brasileirão Série A,2001
+2001-11-18,América Mineiro,1,2,Bahia,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Coritiba,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Grêmio,1,2,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Sport,1,2,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Vitória,1,0,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Guarani,1,0,Paraná,False,False,First Round,Brasileirão Série A,2001
-2001-11-18,Gama,4,1,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-11-18,Gama,4,1,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Santos,1,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
 2001-11-18,Juventude,1,3,Botafogo,False,False,First Round,Brasileirão Série A,2001
 2001-11-24,Fluminense,2,1,Santos,False,False,First Round,Brasileirão Série A,2001
@@ -356,32 +356,32 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2001-11-25,São Caetano,2,0,Flamengo,False,False,First Round,Brasileirão Série A,2001
 2001-11-25,Vasco da Gama,7,1,São Paulo,False,False,First Round,Brasileirão Série A,2001
 2001-11-25,Palmeiras,2,1,Cruzeiro,False,False,First Round,Brasileirão Série A,2001
-2001-11-25,Atlético-MG,2,0,Grêmio,False,False,First Round,Brasileirão Série A,2001
-2001-11-25,Athletico-PR,2,2,Guarani,False,False,First Round,Brasileirão Série A,2001
+2001-11-25,Atlético Mineiro,2,0,Grêmio,False,False,First Round,Brasileirão Série A,2001
+2001-11-25,Athletico Paranaense,2,2,Guarani,False,False,First Round,Brasileirão Série A,2001
 2001-11-25,Santa Cruz,1,1,Vitória,False,False,First Round,Brasileirão Série A,2001
 2001-11-25,Ponte Preta-SP,2,1,Sport,False,False,First Round,Brasileirão Série A,2001
 2001-11-25,Botafogo-SP,0,2,Paraná,False,False,First Round,Brasileirão Série A,2001
-2001-11-25,Goiás,3,0,América-MG,False,False,First Round,Brasileirão Série A,2001
+2001-11-25,Goiás,3,0,América Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-11-25,Juventude,2,1,Gama,False,False,First Round,Brasileirão Série A,2001
 2001-12-01,Botafogo,2,4,São Caetano,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Flamengo,2,0,Palmeiras,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Corinthians,1,2,Fluminense,False,False,First Round,Brasileirão Série A,2001
-2001-12-02,São Paulo,3,0,Atlético-MG,False,False,First Round,Brasileirão Série A,2001
+2001-12-02,São Paulo,3,0,Atlético Mineiro,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Cruzeiro,4,2,Internacional,False,False,First Round,Brasileirão Série A,2001
-2001-12-02,América-MG,1,1,Juventude,False,False,First Round,Brasileirão Série A,2001
+2001-12-02,América Mineiro,1,1,Juventude,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Coritiba,1,2,Ponte Preta-SP,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Paraná,3,1,Goiás,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Grêmio,3,1,Portuguesa-SP,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Sport,0,1,Bahia,False,False,First Round,Brasileirão Série A,2001
-2001-12-02,Vitória,2,4,Athletico-PR,False,False,First Round,Brasileirão Série A,2001
+2001-12-02,Vitória,2,4,Athletico Paranaense,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Guarani,1,2,Santa Cruz,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Gama,5,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2001
 2001-12-02,Santos,2,2,Vasco da Gama,False,False,First Round,Brasileirão Série A,2001
 2001-12-05,São Caetano,0,0,Bahia,False,False,Quarterfinal,Brasileirão Série A,2001
-2001-12-05,Athletico-PR,2,1,São Paulo,False,False,Quarterfinal,Brasileirão Série A,2001
+2001-12-05,Athletico Paranaense,2,1,São Paulo,False,False,Quarterfinal,Brasileirão Série A,2001
 2001-12-05,Fluminense,1,1,Ponte Preta-SP,False,False,Quarterfinal,Brasileirão Série A,2001
-2001-12-05,Atlético-MG,3,0,Grêmio,False,False,Quarterfinal,Brasileirão Série A,2001
-2001-12-09,São Caetano,2,1,Atlético-MG,False,False,Semifinal,Brasileirão Série A,2001
-2001-12-09,Athletico-PR,3,2,Fluminense,False,False,Semifinal,Brasileirão Série A,2001
-2001-12-16,Athletico-PR,4,2,São Caetano,False,False,Final,Brasileirão Série A,2001
-2001-12-23,São Caetano,0,1,Athletico-PR,False,False,Final,Brasileirão Série A,2001
+2001-12-05,Atlético Mineiro,3,0,Grêmio,False,False,Quarterfinal,Brasileirão Série A,2001
+2001-12-09,São Caetano,2,1,Atlético Mineiro,False,False,Semifinal,Brasileirão Série A,2001
+2001-12-09,Athletico Paranaense,3,2,Fluminense,False,False,Semifinal,Brasileirão Série A,2001
+2001-12-16,Athletico Paranaense,4,2,São Caetano,False,False,Final,Brasileirão Série A,2001
+2001-12-23,São Caetano,0,1,Athletico Paranaense,False,False,Final,Brasileirão Série A,2001

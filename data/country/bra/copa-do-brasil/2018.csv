@@ -1,5 +1,5 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
-2018-01-30,Caxias,0,0,Athletico-PR,False,True,First Round,Copa de Brasil,2018
+2018-01-30,Caxias,0,0,Athletico Paranaense,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Tubarão,2,0,América-RN,False,True,First Round,Copa de Brasil,2018
 2018-02-07,Brusque,0,1,Ceará,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Real Ariquemes,0,1,Londrina,False,True,First Round,Copa de Brasil,2018
@@ -27,7 +27,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-02-07,Corumbaense,1,0,ASA,False,True,First Round,Copa de Brasil,2018
 2018-02-07,Altos,2,1,Atlético-GO,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Nova Iguaçu-RJ,1,1,RB Bragantino,False,True,First Round,Copa de Brasil,2018
-2018-02-07,Atlético Acreano,1,1,Atlético-MG,False,True,First Round,Copa de Brasil,2018
+2018-02-07,Atlético Acreano,1,1,Atlético Mineiro,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Floresta-CE,0,2,Botafogo-PB,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Treze,0,2,Figueirense-SC,False,True,First Round,Copa de Brasil,2018
 2018-02-06,Brasiliense,1,1,Oeste-SP,False,True,First Round,Copa de Brasil,2018
@@ -39,7 +39,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-01-31,Aimoré,1,2,Cuiabá,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Fluminense-BA,2,0,Santa Cruz-PE,False,True,First Round,Copa de Brasil,2018
 2018-01-31,Cordino,1,1,Náutico-PE,False,True,First Round,Copa de Brasil,2018
-2018-02-21,Athletico-PR,5,4,Tubarão,False,True,Second Round,Copa de Brasil,2018
+2018-02-21,Athletico Paranaense,5,4,Tubarão,False,True,Second Round,Copa de Brasil,2018
 2018-02-21,Londrina,1,2,Ceará,False,True,Second Round,Copa de Brasil,2018
 2018-02-21,Remo,1,2,Internacional,False,True,Second Round,Copa de Brasil,2018
 2018-02-21,Criciúma,1,1,Cianorte,False,True,Second Round,Copa de Brasil,2018
@@ -53,14 +53,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-02-15,Novo Hamburgo,1,1,CRB,False,True,Second Round,Copa de Brasil,2018
 2018-02-15,Vitória,3,0,Corumbaense,False,True,Second Round,Copa de Brasil,2018
 2018-02-21,RB Bragantino,1,0,Altos,False,True,Second Round,Copa de Brasil,2018
-2018-02-21,Botafogo-PB,0,4,Atlético-MG,False,True,Second Round,Copa de Brasil,2018
+2018-02-21,Botafogo-PB,0,4,Atlético Mineiro,False,True,Second Round,Copa de Brasil,2018
 2018-02-21,Figueirense,2,1,Oeste,False,True,Second Round,Copa de Brasil,2018
 2018-02-15,Sport,3,3,Ferroviário-CE,False,True,Second Round,Copa de Brasil,2018
 2018-02-22,Vila Nova-GO,2,2,Joinville,False,True,Second Round,Copa de Brasil,2018
 2018-02-21,Cuiabá,3,1,Aparecidense,False,True,Second Round,Copa de Brasil,2018
 2018-02-14,Fluminense-BA,0,1,Náutico,False,True,Second Round,Copa de Brasil,2018
-2018-02-28,Athletico-PR,0,0,Ceará,False,False,Third Round,Copa de Brasil,2018
-2018-03-15,Ceará,1,1,Athletico-PR,False,False,Third Round,Copa de Brasil,2018
+2018-02-28,Athletico Paranaense,0,0,Ceará,False,False,Third Round,Copa de Brasil,2018
+2018-03-15,Ceará,1,1,Athletico Paranaense,False,False,Third Round,Copa de Brasil,2018
 2018-03-01,Internacional,2,0,Cianorte,False,False,Third Round,Copa de Brasil,2018
 2018-03-14,Cianorte,0,2,Internacional,False,False,Third Round,Copa de Brasil,2018
 2018-03-01,Fluminense,1,2,Avaí,False,False,Third Round,Copa de Brasil,2018
@@ -73,34 +73,34 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2018-03-14,CRB,0,3,São Paulo,False,False,Third Round,Copa de Brasil,2018
 2018-02-28,RB Bragantino,1,0,Vitória,False,False,Third Round,Copa de Brasil,2018
 2018-03-15,Vitória,3,0,RB Bragantino,False,False,Third Round,Copa de Brasil,2018
-2018-02-28,Figueirense,0,1,Atlético-MG,False,False,Third Round,Copa de Brasil,2018
-2018-03-14,Atlético-MG,1,2,Figueirense,False,False,Third Round,Copa de Brasil,2018
+2018-02-28,Figueirense,0,1,Atlético Mineiro,False,False,Third Round,Copa de Brasil,2018
+2018-03-14,Atlético Mineiro,1,2,Figueirense,False,False,Third Round,Copa de Brasil,2018
 2018-02-28,Ferroviário,1,1,Vila Nova-GO,False,False,Third Round,Copa de Brasil,2018
 2018-03-15,Vila Nova-GO,0,1,Ferroviário,False,False,Third Round,Copa de Brasil,2018
 2018-02-28,Náutico,2,1,Cuiabá,False,False,Third Round,Copa de Brasil,2018
 2018-03-14,Cuiabá,0,1,Náutico,False,False,Third Round,Copa de Brasil,2018
 2018-04-11,Ponte Preta,3,0,Náutico,False,False,Fourth Round,Copa de Brasil,2018
 2018-04-18,Náutico,1,0,Ponte Preta,False,False,Fourth Round,Copa de Brasil,2018
-2018-04-04,Athletico-PR,2,1,São Paulo,False,False,Fourth Round,Copa de Brasil,2018
-2018-04-19,São Paulo,2,2,Athletico-PR,False,False,Fourth Round,Copa de Brasil,2018
+2018-04-04,Athletico Paranaense,2,1,São Paulo,False,False,Fourth Round,Copa de Brasil,2018
+2018-04-19,São Paulo,2,2,Athletico Paranaense,False,False,Fourth Round,Copa de Brasil,2018
 2018-04-11,Avaí,2,2,Goiás,False,False,Fourth Round,Copa de Brasil,2018
 2018-04-18,Goiás,2,0,Avaí,False,False,Fourth Round,Copa de Brasil,2018
 2018-04-11,Internacional,2,1,Vitória,False,False,Fourth Round,Copa de Brasil,2018
 2018-04-19,Vitória,1,0,Internacional,False,False,Fourth Round,Copa de Brasil,2018
-2018-04-04,Atlético-MG,4,0,Ferroviário,False,False,Fourth Round,Copa de Brasil,2018
-2018-04-18,Ferroviário,2,2,Atlético-MG,False,False,Fourth Round,Copa de Brasil,2018
-2018-05-02,Atlético-MG,0,0,Chapecoense,False,False,Round of 16,Copa de Brasil,2018
-2018-05-16,Chapecoense,0,0,Atlético-MG,False,False,Round of 16,Copa de Brasil,2018
-2018-05-16,Athletico-PR,1,2,Cruzeiro,False,False,Round of 16,Copa de Brasil,2018
-2018-07-16,Cruzeiro,1,1,Athletico-PR,False,False,Round of 16,Copa de Brasil,2018
+2018-04-04,Atlético Mineiro,4,0,Ferroviário,False,False,Fourth Round,Copa de Brasil,2018
+2018-04-18,Ferroviário,2,2,Atlético Mineiro,False,False,Fourth Round,Copa de Brasil,2018
+2018-05-02,Atlético Mineiro,0,0,Chapecoense,False,False,Round of 16,Copa de Brasil,2018
+2018-05-16,Chapecoense,0,0,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2018
+2018-05-16,Athletico Paranaense,1,2,Cruzeiro,False,False,Round of 16,Copa de Brasil,2018
+2018-07-16,Cruzeiro,1,1,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2018
 2018-05-09,Bahia,3,0,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2018
 2018-07-16,Vasco da Gama,2,0,Bahia,False,False,Round of 16,Copa de Brasil,2018
 2018-04-25,Goiás,0,2,Grêmio,False,False,Round of 16,Copa de Brasil,2018
 2018-05-02,Grêmio,3,1,Goiás,False,False,Round of 16,Copa de Brasil,2018
 2018-04-25,Vitória,0,0,Corinthians,False,False,Round of 16,Copa de Brasil,2018
 2018-05-10,Corinthians,3,1,Vitória,False,False,Round of 16,Copa de Brasil,2018
-2018-05-09,América-MG,1,2,Palmeiras,False,False,Round of 16,Copa de Brasil,2018
-2018-05-23,Palmeiras,1,1,América-MG,False,False,Round of 16,Copa de Brasil,2018
+2018-05-09,América Mineiro,1,2,Palmeiras,False,False,Round of 16,Copa de Brasil,2018
+2018-05-23,Palmeiras,1,1,América Mineiro,False,False,Round of 16,Copa de Brasil,2018
 2018-05-02,Ponte Preta,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2018
 2018-05-10,Flamengo,0,0,Ponte Preta,False,False,Round of 16,Copa de Brasil,2018
 2018-05-10,Santos,5,1,Luverdense,False,False,Round of 16,Copa de Brasil,2018

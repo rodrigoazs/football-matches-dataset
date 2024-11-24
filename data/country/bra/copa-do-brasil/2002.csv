@@ -7,8 +7,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2002-02-27,Botafogo,0,0,Alegrense,False,False,First Round,Copa de Brasil,2002
 2002-01-23,Americano,3,0,Joinville,False,False,First Round,Copa de Brasil,2002
 2002-02-06,Joinville,3,1,Americano,False,False,First Round,Copa de Brasil,2002
-2002-01-23,América-MG,1,2,Guarani-SP,False,False,First Round,Copa de Brasil,2002
-2002-02-06,Guarani-SP,2,1,América-MG,False,False,First Round,Copa de Brasil,2002
+2002-01-23,América Mineiro,1,2,Guarani-SP,False,False,First Round,Copa de Brasil,2002
+2002-02-06,Guarani-SP,2,1,América Mineiro,False,False,First Round,Copa de Brasil,2002
 2002-02-05,RB Bragantino,1,3,Paraná-PR,False,False,First Round,Copa de Brasil,2002
 2002-02-06,River-PI,1,2,Corinthians,False,False,First Round,Copa de Brasil,2002
 2002-02-13,Corinthians,2,0,River-PI,False,False,First Round,Copa de Brasil,2002
@@ -42,8 +42,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2002-02-20,América-RN,4,0,São Raimundo-AM,False,False,First Round,Copa de Brasil,2002
 2002-02-13,Comercial-MS,1,1,Internacional,False,False,First Round,Copa de Brasil,2002
 2002-02-21,Internacional,2,0,Comercial-MS,False,False,First Round,Copa de Brasil,2002
-2002-02-06,Juventude-MT,2,1,Atlético-MG,False,False,First Round,Copa de Brasil,2002
-2002-02-20,Atlético-MG,2,0,Juventude-MT,False,False,First Round,Copa de Brasil,2002
+2002-02-06,Juventude-MT,2,1,Atlético Mineiro,False,False,First Round,Copa de Brasil,2002
+2002-02-20,Atlético Mineiro,2,0,Juventude-MT,False,False,First Round,Copa de Brasil,2002
 2002-02-13,Independente-AP,1,1,Flamengo-PI,False,False,First Round,Copa de Brasil,2002
 2002-02-20,Flamengo-PI,1,0,Independente-AP,False,False,First Round,Copa de Brasil,2002
 2002-02-13,Coríntians-RN,0,2,Bahia,False,False,First Round,Copa de Brasil,2002
@@ -70,8 +70,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2002-03-13,Portuguesa,1,0,Criciúma,False,False,Second Round,Copa de Brasil,2002
 2002-02-27,Santos,3,3,Internacional,False,False,Second Round,Copa de Brasil,2002
 2002-03-06,Internacional,1,0,Santos,False,False,Second Round,Copa de Brasil,2002
-2002-03-06,Sport,2,1,Atlético-MG,False,False,Second Round,Copa de Brasil,2002
-2002-03-13,Atlético-MG,3,0,Sport,False,False,Second Round,Copa de Brasil,2002
+2002-03-06,Sport,2,1,Atlético Mineiro,False,False,Second Round,Copa de Brasil,2002
+2002-03-13,Atlético Mineiro,3,0,Sport,False,False,Second Round,Copa de Brasil,2002
 2002-02-27,Figueirense,3,1,Vitória,False,False,Second Round,Copa de Brasil,2002
 2002-03-13,Vitória,3,3,Figueirense,False,False,Second Round,Copa de Brasil,2002
 2002-02-27,Flamengo-PI,0,5,São Paulo,False,False,Second Round,Copa de Brasil,2002
@@ -92,8 +92,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2002-04-03,Brasiliense,4,1,Confiança,False,False,Round of 16,Copa de Brasil,2002
 2002-03-27,Bahia,3,0,Portuguesa,False,False,Round of 16,Copa de Brasil,2002
 2002-04-03,Portuguesa,2,2,Bahia,False,False,Round of 16,Copa de Brasil,2002
-2002-03-28,Atlético-MG,2,0,Internacional,False,False,Round of 16,Copa de Brasil,2002
-2002-04-03,Internacional,3,2,Atlético-MG,False,False,Round of 16,Copa de Brasil,2002
+2002-03-28,Atlético Mineiro,2,0,Internacional,False,False,Round of 16,Copa de Brasil,2002
+2002-04-03,Internacional,3,2,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,2002
 2002-03-28,Figueirense,3,1,São Paulo,False,False,Round of 16,Copa de Brasil,2002
 2002-04-03,São Paulo,6,1,Figueirense,False,False,Round of 16,Copa de Brasil,2002
 2002-03-27,CSA,2,1,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2002
@@ -104,14 +104,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2002-04-03,Cruzeiro,2,3,Corinthians,False,False,Round of 16,Copa de Brasil,2002
 2002-04-10,Brasiliense,1,0,Fluminense,False,False,Quarterfinal,Copa de Brasil,2002
 2002-04-17,Fluminense,0,1,Brasiliense,False,False,Quarterfinal,Copa de Brasil,2002
-2002-04-10,Atlético-MG,2,1,Bahia,False,False,Quarterfinal,Copa de Brasil,2002
-2002-04-17,Bahia,4,3,Atlético-MG,False,False,Quarterfinal,Copa de Brasil,2002
+2002-04-10,Atlético Mineiro,2,1,Bahia,False,False,Quarterfinal,Copa de Brasil,2002
+2002-04-17,Bahia,4,3,Atlético Mineiro,False,False,Quarterfinal,Copa de Brasil,2002
 2002-04-10,Vasco da Gama,1,0,São Paulo,False,False,Quarterfinal,Copa de Brasil,2002
 2002-04-17,São Paulo,4,0,Vasco da Gama,False,False,Quarterfinal,Copa de Brasil,2002
 2002-04-10,Corinthians,3,1,Paraná,False,False,Quarterfinal,Copa de Brasil,2002
 2002-04-17,Paraná,1,0,Corinthians,False,False,Quarterfinal,Copa de Brasil,2002
-2002-04-24,Atlético-MG,0,3,Brasiliense,False,False,Semifinal,Copa de Brasil,2002
-2002-05-01,Brasiliense,2,1,Atlético-MG,False,False,Semifinal,Copa de Brasil,2002
+2002-04-24,Atlético Mineiro,0,3,Brasiliense,False,False,Semifinal,Copa de Brasil,2002
+2002-05-01,Brasiliense,2,1,Atlético Mineiro,False,False,Semifinal,Copa de Brasil,2002
 2002-04-24,São Paulo,0,2,Corinthians,False,False,Semifinal,Copa de Brasil,2002
 2002-05-01,Corinthians,1,2,São Paulo,False,False,Semifinal,Copa de Brasil,2002
 2002-05-08,Corinthians,2,1,Brasiliense,False,False,Final,Copa de Brasil,2002

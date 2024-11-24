@@ -7,7 +7,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-02-05,XV de Piracicaba,1,0,Londrina,False,True,First Round,Copa de Brasil,2020
 2020-02-05,Bahia de Feira,3,1,Luverdense,False,True,First Round,Copa de Brasil,2020
 2020-02-05,Vilhenense-RO,1,1,Boa Esporte,False,True,First Round,Copa de Brasil,2020
-2020-02-05,Santos-AP,1,1,América-MG,False,True,First Round,Copa de Brasil,2020
+2020-02-05,Santos-AP,1,1,América Mineiro,False,True,First Round,Copa de Brasil,2020
 2020-02-05,River-PI,1,0,Bahia,False,True,First Round,Copa de Brasil,2020
 2020-02-05,Caxias,1,1,Botafogo,False,True,First Round,Copa de Brasil,2020
 2020-02-05,Palmas,0,2,Paraná-PR,False,True,First Round,Copa de Brasil,2020
@@ -27,7 +27,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-02-12,Gama,3,3,Brasil-RS,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Atlético-BA,0,0,Botafogo-PB,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Toledo-PR,0,2,Náutico-PE,False,True,First Round,Copa de Brasil,2020
-2020-02-12,Campinense,0,0,Atlético-MG,False,True,First Round,Copa de Brasil,2020
+2020-02-12,Campinense,0,0,Atlético Mineiro,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Galvez,0,1,Vila Nova-GO,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Altos,1,1,Vasco da Gama,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Águia Negra,2,1,Sampaio Corrêa-MA,False,True,First Round,Copa de Brasil,2020
@@ -48,7 +48,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-02-26,Paraná-PR,3,2,Bahia de Feira,False,True,Second Round,Copa de Brasil,2020
 2020-02-26,River-PI,1,1,América-RN,False,True,Second Round,Copa de Brasil,2020
 2020-02-26,Ferroviária-SP,6,2,Águia Negra,False,True,Second Round,Copa de Brasil,2020
-2020-02-26,Afogados,2,2,Atlético-MG,False,True,Second Round,Copa de Brasil,2020
+2020-02-26,Afogados,2,2,Atlético Mineiro,False,True,Second Round,Copa de Brasil,2020
 2020-02-27,São José-RS,0,0,Chapecoense,False,True,Second Round,Copa de Brasil,2020
 2020-02-27,Ponte Preta-SP,0,0,Vila Nova-GO,False,True,Second Round,Copa de Brasil,2020
 2020-03-04,Fluminense,2,0,Botafogo-PB,False,True,Second Round,Copa de Brasil,2020
@@ -57,12 +57,12 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-03-04,Boa Esporte,1,1,Cruzeiro,False,True,Second Round,Copa de Brasil,2020
 2020-03-04,Atlético-GO,1,1,Santa Cruz-PE,False,True,Second Round,Copa de Brasil,2020
 2020-03-05,Vitória,3,1,Lagarto-SE,False,True,Second Round,Copa de Brasil,2020
-2020-03-05,Operário-PR,0,2,América-MG,False,True,Second Round,Copa de Brasil,2020
+2020-03-05,Operário-PR,0,2,América Mineiro,False,True,Second Round,Copa de Brasil,2020
 2020-03-05,Vasco da Gama,1,0,ABC,False,True,Second Round,Copa de Brasil,2020
 2020-03-10,Botafogo,1,0,Paraná-PR,False,False,Third Round,Copa de Brasil,2020
 2020-03-11,Juventude,1,1,América-RN,False,False,Third Round,Copa de Brasil,2020
 2020-03-11,Figueirense-SC,1,0,Fluminense,False,False,Third Round,Copa de Brasil,2020
-2020-03-11,Ferroviária-SP,0,0,América-MG,False,False,Third Round,Copa de Brasil,2020
+2020-03-11,Ferroviária-SP,0,0,América Mineiro,False,False,Third Round,Copa de Brasil,2020
 2020-03-11,Cruzeiro,0,2,CRB,False,False,Third Round,Copa de Brasil,2020
 2020-03-11,Atlético-GO,2,0,São José-RS,False,False,Third Round,Copa de Brasil,2020
 2020-03-12,Ceará,1,0,Vitória,False,False,Third Round,Copa de Brasil,2020
@@ -70,7 +70,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-03-12,Brasil-RS,0,1,Brusque,False,False,Third Round,Copa de Brasil,2020
 2020-03-12,Vasco da Gama,0,1,Goiás,False,False,Third Round,Copa de Brasil,2020
 2020-08-25,Afogados,0,2,Ponte Preta-SP,False,False,Third Round,Copa de Brasil,2020
-2020-08-25,América-MG,1,0,Ferroviária-SP,False,False,Third Round,Copa de Brasil,2020
+2020-08-25,América Mineiro,1,0,Ferroviária-SP,False,False,Third Round,Copa de Brasil,2020
 2020-08-25,Fluminense,3,0,Figueirense-SC,False,False,Third Round,Copa de Brasil,2020
 2020-08-26,América-RN,1,1,Juventude,False,False,Third Round,Copa de Brasil,2020
 2020-08-26,CRB,1,1,Cruzeiro,False,False,Third Round,Copa de Brasil,2020
@@ -79,13 +79,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-08-26,Goiás,1,2,Vasco da Gama,False,False,Third Round,Copa de Brasil,2020
 2020-08-27,Brusque,1,0,Brasil-RS,False,False,Third Round,Copa de Brasil,2020
 2020-08-27,São José-RS,1,0,Atlético-GO,False,False,Third Round,Copa de Brasil,2020
-2020-09-16,Ponte Preta-SP,2,2,América-MG,False,False,Fourth Round,Copa de Brasil,2020
+2020-09-16,Ponte Preta-SP,2,2,América Mineiro,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-16,Fluminense,1,0,Atlético-GO,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-16,Brusque,0,2,Ceará,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-17,Juventude,2,0,CRB,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-17,Botafogo,1,0,Vasco da Gama,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-22,CRB,1,0,Juventude,False,False,Fourth Round,Copa de Brasil,2020
-2020-09-22,América-MG,3,1,Ponte Preta-SP,False,False,Fourth Round,Copa de Brasil,2020
+2020-09-22,América Mineiro,3,1,Ponte Preta-SP,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-23,Ceará,5,1,Brusque,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-23,Vasco da Gama,0,0,Botafogo,False,False,Fourth Round,Copa de Brasil,2020
 2020-09-24,Atlético-GO,3,1,Fluminense,False,False,Fourth Round,Copa de Brasil,2020
@@ -94,28 +94,28 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-10-27,Botafogo,0,1,Cuiabá,False,False,Round of 16,Copa de Brasil,2020
 2020-10-28,Santos,0,0,Ceará,False,False,Round of 16,Copa de Brasil,2020
 2020-10-28,Atlético-GO,1,2,Internacional,False,False,Round of 16,Copa de Brasil,2020
-2020-10-28,Athletico-PR,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2020
-2020-10-28,Corinthians,0,1,América-MG,False,False,Round of 16,Copa de Brasil,2020
+2020-10-28,Athletico Paranaense,0,1,Flamengo,False,False,Round of 16,Copa de Brasil,2020
+2020-10-28,Corinthians,0,1,América Mineiro,False,False,Round of 16,Copa de Brasil,2020
 2020-10-29,RB Bragantino,1,3,Palmeiras,False,False,Round of 16,Copa de Brasil,2020
 2020-10-29,Grêmio,1,0,Juventude,False,False,Round of 16,Copa de Brasil,2020
 2020-11-03,Cuiabá,0,0,Botafogo,False,False,Round of 16,Copa de Brasil,2020
 2020-11-03,Internacional,2,1,Atlético-GO,False,False,Round of 16,Copa de Brasil,2020
 2020-11-04,Ceará,1,0,Santos,False,False,Round of 16,Copa de Brasil,2020
-2020-11-04,Flamengo,3,2,Athletico-PR,False,False,Round of 16,Copa de Brasil,2020
-2020-11-04,América-MG,1,1,Corinthians,False,False,Round of 16,Copa de Brasil,2020
+2020-11-04,Flamengo,3,2,Athletico Paranaense,False,False,Round of 16,Copa de Brasil,2020
+2020-11-04,América Mineiro,1,1,Corinthians,False,False,Round of 16,Copa de Brasil,2020
 2020-11-05,Palmeiras,1,0,RB Bragantino,False,False,Round of 16,Copa de Brasil,2020
 2020-11-05,Juventude,0,1,Grêmio,False,False,Round of 16,Copa de Brasil,2020
 2020-11-11,Palmeiras,3,0,Ceará,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-11,Cuiabá,1,2,Grêmio,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-11,Flamengo,1,2,São Paulo,False,False,Quarterfinal,Copa de Brasil,2020
-2020-11-11,Internacional,0,1,América-MG,False,False,Quarterfinal,Copa de Brasil,2020
+2020-11-11,Internacional,0,1,América Mineiro,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-18,Grêmio,2,0,Cuiabá,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-18,Ceará,2,2,Palmeiras,False,False,Quarterfinal,Copa de Brasil,2020
 2020-11-18,São Paulo,3,0,Flamengo,False,False,Quarterfinal,Copa de Brasil,2020
-2020-11-18,América-MG,0,1,Internacional,False,False,Quarterfinal,Copa de Brasil,2020
+2020-11-18,América Mineiro,0,1,Internacional,False,False,Quarterfinal,Copa de Brasil,2020
 2020-12-23,Grêmio,1,0,São Paulo,False,False,Semifinal,Copa de Brasil,2020
-2020-12-23,Palmeiras,1,1,América-MG,False,False,Semifinal,Copa de Brasil,2020
+2020-12-23,Palmeiras,1,1,América Mineiro,False,False,Semifinal,Copa de Brasil,2020
 2020-12-30,São Paulo,0,0,Grêmio,False,False,Semifinal,Copa de Brasil,2020
-2020-12-30,América-MG,0,2,Palmeiras,False,False,Semifinal,Copa de Brasil,2020
+2020-12-30,América Mineiro,0,2,Palmeiras,False,False,Semifinal,Copa de Brasil,2020
 2021-02-28,Grêmio,0,1,Palmeiras,False,False,Final,Copa de Brasil,2020
 2021-03-07,Palmeiras,2,0,Grêmio,False,False,Final,Copa de Brasil,2020

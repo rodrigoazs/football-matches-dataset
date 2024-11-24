@@ -1,15 +1,15 @@
 date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament_name,tournament_year
 1988-07-20,Táchira,0,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1988
-1988-07-20,Universidad Católica (Santiago),1,0,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1988
+1988-07-20,Universidad Católica (Santiago),1,0,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1988
 1988-07-28,Táchira,0,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1988
 1988-07-31,Marítimo,0,0,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1988
-1988-08-02,Marítimo,0,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1988
-1988-08-05,Táchira,0,1,Colo Colo,False,False,Group Stage,Copa Libertadores de América,1988
-1988-08-11,Colo Colo,2,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1988
+1988-08-02,Marítimo,0,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1988
+1988-08-05,Táchira,0,1,Colo-Colo,False,False,Group Stage,Copa Libertadores de América,1988
+1988-08-11,Colo-Colo,2,2,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1988
 1988-08-11,Marítimo,1,1,Táchira,False,False,Group Stage,Copa Libertadores de América,1988
 1988-08-16,Universidad Católica (Santiago),2,1,Marítimo,False,False,Group Stage,Copa Libertadores de América,1988
-1988-08-19,Colo Colo,1,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1988
-1988-08-23,Colo Colo,2,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1988
+1988-08-19,Colo-Colo,1,0,Marítimo,False,False,Group Stage,Copa Libertadores de América,1988
+1988-08-23,Colo-Colo,2,0,Táchira,False,False,Group Stage,Copa Libertadores de América,1988
 1988-08-26,Universidad Católica (Santiago),3,1,Táchira,False,False,Group Stage,Copa Libertadores de América,1988
 1988-07-06,Newell's Old Boys,0,0,San Lorenzo,False,False,Group Stage,Copa Libertadores de América,1988
 1988-07-06,Barcelona de Guayaquil,4,2,Filanbanco,False,False,Group Stage,Copa Libertadores de América,1988
@@ -64,8 +64,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1988-09-14,Nacional de Montevideo,0,0,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1988
 1988-09-07,América,1,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1988
 1988-09-14,Universitario,2,2,América,False,False,Round of 16,Copa Libertadores de América,1988
-1988-09-07,Oriente Petrolero,2,1,Colo Colo,False,False,Round of 16,Copa Libertadores de América,1988
-1988-09-14,Colo Colo,0,0,Oriente Petrolero,False,False,Round of 16,Copa Libertadores de América,1988
+1988-09-07,Oriente Petrolero,2,1,Colo-Colo,False,False,Round of 16,Copa Libertadores de América,1988
+1988-09-14,Colo-Colo,0,0,Oriente Petrolero,False,False,Round of 16,Copa Libertadores de América,1988
 1988-09-07,San Lorenzo,1,1,Guarani,False,False,Round of 16,Copa Libertadores de América,1988
 1988-09-14,Guarani,0,1,San Lorenzo,False,False,Round of 16,Copa Libertadores de América,1988
 1988-09-07,Bolívar,1,0,Newell's Old Boys,False,False,Round of 16,Copa Libertadores de América,1988

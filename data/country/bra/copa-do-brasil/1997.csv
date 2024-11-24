@@ -16,8 +16,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-02-25,Kaburé,1,1,Portuguesa,False,False,First Round,Copa de Brasil,1997
 1997-03-04,Portuguesa,8,0,Kaburé,False,False,First Round,Copa de Brasil,1997
 1997-02-27,Ji-Paraná,1,3,Botafogo,False,False,First Round,Copa de Brasil,1997
-1997-02-27,América-MG,1,1,Bahia,False,False,First Round,Copa de Brasil,1997
-1997-03-06,Bahia,2,0,América-MG,False,False,First Round,Copa de Brasil,1997
+1997-02-27,América Mineiro,1,1,Bahia,False,False,First Round,Copa de Brasil,1997
+1997-03-06,Bahia,2,0,América Mineiro,False,False,First Round,Copa de Brasil,1997
 1997-02-20,Sergipe,3,5,Vasco da Gama,False,False,First Round,Copa de Brasil,1997
 1997-02-25,River-PI,0,0,Palmeiras,False,False,First Round,Copa de Brasil,1997
 1997-03-11,Palmeiras,7,1,River-PI,False,False,First Round,Copa de Brasil,1997
@@ -33,8 +33,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-03-20,Fluminense,0,0,Ceará,False,False,First Round,Copa de Brasil,1997
 1997-03-13,Figueirense-SC,0,1,Santos,False,False,First Round,Copa de Brasil,1997
 1997-03-18,Santos,3,2,Figueirense-SC,False,False,First Round,Copa de Brasil,1997
-1997-03-13,Remo,3,3,Atletico-MG,False,False,First Round,Copa de Brasil,1997
-1997-03-19,Atletico-MG,3,2,Remo,False,False,First Round,Copa de Brasil,1997
+1997-03-13,Remo,3,3,Atlético Mineiro,False,False,First Round,Copa de Brasil,1997
+1997-03-19,Atlético Mineiro,3,2,Remo,False,False,First Round,Copa de Brasil,1997
 1997-03-13,Rio Branco-AC,1,0,Goiás,False,False,First Round,Copa de Brasil,1997
 1997-03-20,Goiás,2,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,1997
 1997-03-13,Bahia,2,2,Coritiba,False,False,First Round,Copa de Brasil,1997
@@ -51,8 +51,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1997-04-03,Palmeiras,4,2,Coritiba,False,False,Round of 16,Copa de Brasil,1997
 1997-03-26,Santos,2,0,Internacional,False,False,Round of 16,Copa de Brasil,1997
 1997-04-03,Internacional,2,0,Santos,False,False,Round of 16,Copa de Brasil,1997
-1997-03-26,Corinthians,1,0,Atletico-MG,False,False,Round of 16,Copa de Brasil,1997
-1997-04-03,Atletico-MG,1,1,Corinthians,False,False,Round of 16,Copa de Brasil,1997
+1997-03-26,Corinthians,1,0,Atlético Mineiro,False,False,Round of 16,Copa de Brasil,1997
+1997-04-03,Atlético Mineiro,1,1,Corinthians,False,False,Round of 16,Copa de Brasil,1997
 1997-04-03,Vitória,2,1,São Paulo,False,False,Round of 16,Copa de Brasil,1997
 1997-04-08,São Paulo,2,2,Vitória,False,False,Round of 16,Copa de Brasil,1997
 1997-04-03,Ceará,3,2,Santa Cruz-PE,False,False,Round of 16,Copa de Brasil,1997

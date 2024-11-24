@@ -13,16 +13,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1968-02-29,Estudiantes de La Plata,2,0,Independiente,False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-06,Independiente,3,2,Deportivo Cali,False,False,Group Stage,Copa Libertadores de América,1968
 1968-01-24,Always Ready,0,3,Universitario,False,False,Group Stage,Copa Libertadores de América,1968
-1968-01-24,Jorge Wilstermann,0,1,Sport,False,False,Group Stage,Copa Libertadores de América,1968
-1968-01-28,Always Ready,1,4,Sport,False,False,Group Stage,Copa Libertadores de América,1968
+1968-01-24,Jorge Wilstermann,0,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1968
+1968-01-28,Always Ready,1,4,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1968
 1968-01-28,Jorge Wilstermann,0,0,Universitario,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-04,Jorge Wilstermann,3,0,Always Ready,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-15,Universitario,1,1,Sport,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-19,Sport,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-15,Universitario,1,1,Sporting Cristal,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-19,Sporting Cristal,2,0,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-22,Universitario,5,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1968
-1968-02-24,Sport,1,1,Always Ready,False,False,Group Stage,Copa Libertadores de América,1968
+1968-02-24,Sporting Cristal,1,1,Always Ready,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-27,Universitario,6,0,Always Ready,False,False,Group Stage,Copa Libertadores de América,1968
-1968-03-02,Sport,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1968
+1968-03-02,Sporting Cristal,2,2,Universitario,False,False,Group Stage,Copa Libertadores de América,1968
 1968-03-03,Always Ready,1,1,Jorge Wilstermann,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-04,Emelec,0,0,El Nacional,False,False,Group Stage,Copa Libertadores de América,1968
 1968-02-11,El Nacional,2,1,Universidad Católica (Santiago),False,False,Group Stage,Copa Libertadores de América,1968
@@ -67,16 +67,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1968-04-09,Estudiantes de La Plata,1,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-11,Independiente,3,0,Universitario,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-16,Deportivo Portugués,0,3,Peñarol,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-17,Emelec,0,2,Sport,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-17,Emelec,0,2,Sporting Cristal,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-20,Emelec,0,1,Peñarol,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-20,Deportivo Portugués,1,1,Sport,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-20,Deportivo Portugués,1,1,Sporting Cristal,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-24,Emelec,2,0,Deportivo Portugués,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-25,Sport,0,0,Peñarol,False,False,Round of 16,Copa Libertadores de América,1968
-1968-03-28,Sport,2,0,Deportivo Portugués,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-25,Sporting Cristal,0,0,Peñarol,False,False,Round of 16,Copa Libertadores de América,1968
+1968-03-28,Sporting Cristal,2,0,Deportivo Portugués,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-31,Peñarol,4,0,Deportivo Portugués,False,False,Round of 16,Copa Libertadores de América,1968
-1968-04-01,Sport,1,1,Emelec,False,False,Round of 16,Copa Libertadores de América,1968
+1968-04-01,Sporting Cristal,1,1,Emelec,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-04,Peñarol,1,0,Emelec,False,False,Round of 16,Copa Libertadores de América,1968
-1968-04-10,Peñarol,1,1,Sport,False,False,Round of 16,Copa Libertadores de América,1968
+1968-04-10,Peñarol,1,1,Sporting Cristal,False,False,Round of 16,Copa Libertadores de América,1968
 1968-04-10,Deportivo Portugués,2,0,Emelec,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-13,Universidad Católica (Santiago),4,1,Guaraní,False,False,Round of 16,Copa Libertadores de América,1968
 1968-03-17,Guaraní,3,1,Universidad Católica (Santiago),False,False,Round of 16,Copa Libertadores de América,1968

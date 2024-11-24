@@ -91,10 +91,10 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1981-02-21,Operário-MS,2,1,Grêmio,False,False,First Round,Brasileirão Série A,1981
 1981-01-18,Ferroviário,2,1,Campinense,False,False,First Round,Brasileirão Série A,1981
 1981-01-18,Sport,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1981
-1981-01-18,Atlético-MG,3,0,CSA,False,False,First Round,Brasileirão Série A,1981
+1981-01-18,Atlético Mineiro,3,0,CSA,False,False,First Round,Brasileirão Série A,1981
 1981-01-18,Mixto,1,1,Fluminense,False,False,First Round,Brasileirão Série A,1981
 1981-01-18,América-RN,2,0,River,False,False,First Round,Brasileirão Série A,1981
-1981-01-21,Atlético-MG,0,0,Campinense,False,False,First Round,Brasileirão Série A,1981
+1981-01-21,Atlético Mineiro,0,0,Campinense,False,False,First Round,Brasileirão Série A,1981
 1981-01-21,América-RN,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1981
 1981-01-21,CSA,0,2,Fluminense,False,False,First Round,Brasileirão Série A,1981
 1981-01-21,River,0,0,Mixto,False,False,First Round,Brasileirão Série A,1981
@@ -103,8 +103,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1981-01-24,São Paulo,4,0,Mixto,False,False,First Round,Brasileirão Série A,1981
 1981-01-25,Campinense,4,1,Sport,False,False,First Round,Brasileirão Série A,1981
 1981-01-25,CSA,2,1,River,False,False,First Round,Brasileirão Série A,1981
-1981-01-25,Ferroviário,1,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1981
-1981-01-28,Atlético-MG,1,1,Sport,False,False,First Round,Brasileirão Série A,1981
+1981-01-25,Ferroviário,1,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1981
+1981-01-28,Atlético Mineiro,1,1,Sport,False,False,First Round,Brasileirão Série A,1981
 1981-01-28,Ferroviário,4,1,Fluminense,False,False,First Round,Brasileirão Série A,1981
 1981-01-28,River,0,2,São Paulo,False,False,First Round,Brasileirão Série A,1981
 1981-01-28,Mixto,4,2,América-RN,False,False,First Round,Brasileirão Série A,1981
@@ -113,26 +113,26 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1981-02-01,América-RN,3,2,Ferroviário,False,False,First Round,Brasileirão Série A,1981
 1981-02-01,CSA,2,2,São Paulo,False,False,First Round,Brasileirão Série A,1981
 1981-02-01,Sport,1,1,River,False,False,First Round,Brasileirão Série A,1981
-1981-02-01,Fluminense,2,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1981
+1981-02-01,Fluminense,2,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1981
 1981-02-04,São Paulo,0,0,Ferroviário,False,False,First Round,Brasileirão Série A,1981
 1981-02-04,Mixto,3,0,CSA,False,False,First Round,Brasileirão Série A,1981
 1981-02-04,América-RN,1,1,Sport,False,False,First Round,Brasileirão Série A,1981
-1981-02-04,River,1,0,Atlético-MG,False,False,First Round,Brasileirão Série A,1981
+1981-02-04,River,1,0,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1981
 1981-02-04,Fluminense,4,1,Campinense,False,False,First Round,Brasileirão Série A,1981
 1981-02-07,Campinense,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1981
 1981-02-07,River,3,1,Fluminense,False,False,First Round,Brasileirão Série A,1981
 1981-02-07,CSA,0,0,Ferroviário,False,False,First Round,Brasileirão Série A,1981
 1981-02-11,Sport,1,0,Mixto,False,False,First Round,Brasileirão Série A,1981
-1981-02-11,Atlético-MG,2,1,América-RN,False,False,First Round,Brasileirão Série A,1981
+1981-02-11,Atlético Mineiro,2,1,América-RN,False,False,First Round,Brasileirão Série A,1981
 1981-02-14,CSA,3,2,América-RN,False,False,First Round,Brasileirão Série A,1981
-1981-02-14,São Paulo,2,1,Atlético-MG,False,False,First Round,Brasileirão Série A,1981
+1981-02-14,São Paulo,2,1,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1981
 1981-02-14,Fluminense,0,1,Sport,False,False,First Round,Brasileirão Série A,1981
 1981-02-14,Ferroviário,3,2,Mixto,False,False,First Round,Brasileirão Série A,1981
 1981-02-14,Campinense,4,0,River,False,False,First Round,Brasileirão Série A,1981
 1981-02-21,São Paulo,2,1,Fluminense,False,False,First Round,Brasileirão Série A,1981
 1981-02-26,América-RN,2,0,Campinense,False,False,First Round,Brasileirão Série A,1981
 1981-02-26,Sport,2,1,CSA,False,False,First Round,Brasileirão Série A,1981
-1981-02-26,Mixto,0,4,Atlético-MG,False,False,First Round,Brasileirão Série A,1981
+1981-02-26,Mixto,0,4,Atlético Mineiro,False,False,First Round,Brasileirão Série A,1981
 1981-02-26,Ferroviário,2,1,River,False,False,First Round,Brasileirão Série A,1981
 1981-01-17,Santa Cruz,3,0,Paysandu,False,False,First Round,Brasileirão Série A,1981
 1981-01-18,CRB,1,1,Fortaleza,False,False,First Round,Brasileirão Série A,1981
@@ -263,17 +263,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1981-03-28,Mixto,2,2,Botafogo,False,False,Second Round,Brasileirão Série A,1981
 1981-04-03,Santos,0,0,Botafogo,False,False,Second Round,Brasileirão Série A,1981
 1981-04-04,Mixto,1,2,Bangu,False,False,Second Round,Brasileirão Série A,1981
-1981-03-07,Flamengo,2,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1981
+1981-03-07,Flamengo,2,1,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1981
 1981-03-07,Colorado,1,1,Uberaba-MG,False,False,Second Round,Brasileirão Série A,1981
-1981-03-11,Atlético-MG,1,1,Colorado,False,False,Second Round,Brasileirão Série A,1981
+1981-03-11,Atlético Mineiro,1,1,Colorado,False,False,Second Round,Brasileirão Série A,1981
 1981-03-11,Uberaba-MG,1,1,Flamengo,False,False,Second Round,Brasileirão Série A,1981
 1981-03-15,Colorado,4,0,Flamengo,False,False,Second Round,Brasileirão Série A,1981
-1981-03-15,Uberaba-MG,1,1,Atlético-MG,False,False,Second Round,Brasileirão Série A,1981
+1981-03-15,Uberaba-MG,1,1,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1981
 1981-03-21,Uberaba-MG,0,0,Colorado,False,False,Second Round,Brasileirão Série A,1981
-1981-03-25,Atlético-MG,0,0,Flamengo,False,False,Second Round,Brasileirão Série A,1981
-1981-04-01,Colorado,1,3,Atlético-MG,False,False,Second Round,Brasileirão Série A,1981
+1981-03-25,Atlético Mineiro,0,0,Flamengo,False,False,Second Round,Brasileirão Série A,1981
+1981-04-01,Colorado,1,3,Atlético Mineiro,False,False,Second Round,Brasileirão Série A,1981
 1981-04-01,Flamengo,4,2,Uberaba-MG,False,False,Second Round,Brasileirão Série A,1981
-1981-04-04,Atlético-MG,2,0,Uberaba-MG,False,False,Second Round,Brasileirão Série A,1981
+1981-04-04,Atlético Mineiro,2,0,Uberaba-MG,False,False,Second Round,Brasileirão Série A,1981
 1981-04-04,Flamengo,2,1,Colorado,False,False,Second Round,Brasileirão Série A,1981
 1981-04-08,Bahia,0,0,Flamengo,False,False,Round of 16,Brasileirão Série A,1981
 1981-04-11,Flamengo,2,0,Bahia,False,False,Round of 16,Brasileirão Série A,1981
@@ -287,8 +287,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1981-04-12,Vasco da Gama,2,3,Fluminense,False,False,Round of 16,Brasileirão Série A,1981
 1981-04-09,Vitória,2,1,Grêmio,False,False,Round of 16,Brasileirão Série A,1981
 1981-04-12,Grêmio,2,0,Vitória,False,False,Round of 16,Brasileirão Série A,1981
-1981-04-09,Atlético-MG,0,1,Internacional,False,False,Round of 16,Brasileirão Série A,1981
-1981-04-12,Internacional,1,1,Atlético-MG,False,False,Round of 16,Brasileirão Série A,1981
+1981-04-09,Atlético Mineiro,0,1,Internacional,False,False,Round of 16,Brasileirão Série A,1981
+1981-04-12,Internacional,1,1,Atlético Mineiro,False,False,Round of 16,Brasileirão Série A,1981
 1981-04-09,CSA,0,0,Botafogo,False,False,Round of 16,Brasileirão Série A,1981
 1981-04-12,Botafogo,2,0,CSA,False,False,Round of 16,Brasileirão Série A,1981
 1981-04-15,Vasco da Gama,0,0,Ponte Preta-SP,False,False,Quarterfinal,Brasileirão Série A,1981
