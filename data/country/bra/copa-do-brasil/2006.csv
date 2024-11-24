@@ -18,8 +18,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-02-22,Serra-ES,1,3,Ipatinga,False,False,First Round,Copa de Brasil,2006
 2006-02-22,ICASA,0,0,Coritiba,False,False,First Round,Copa de Brasil,2006
 2006-03-08,Coritiba,3,1,ICASA,False,False,First Round,Copa de Brasil,2006
-2006-02-22,Rio Branco-AC,0,1,Náutico-PE,False,False,First Round,Copa de Brasil,2006
-2006-03-08,Náutico-PE,4,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,2006
+2006-02-22,Rio Branco-AC,0,1,Náutico,False,False,First Round,Copa de Brasil,2006
+2006-03-08,Náutico,4,1,Rio Branco-AC,False,False,First Round,Copa de Brasil,2006
 2006-02-15,Sergipe-SE,0,0,Santos,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Santos,3,0,Sergipe-SE,False,False,First Round,Copa de Brasil,2006
 2006-02-15,URT-MG,3,2,Londrina,False,False,First Round,Copa de Brasil,2006

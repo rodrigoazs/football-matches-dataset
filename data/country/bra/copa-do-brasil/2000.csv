@@ -25,8 +25,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-03-15,Treze,0,1,ABC,False,False,First Round,Copa de Brasil,2000
 2000-03-23,ABC,2,1,Treze,False,False,First Round,Copa de Brasil,2000
 2000-03-15,Pinheiros-RO,0,2,Vitória,False,False,First Round,Copa de Brasil,2000
-2000-03-22,Náutico-PE,2,1,CSA,False,False,First Round,Copa de Brasil,2000
-2000-03-29,CSA,0,1,Náutico-PE,False,False,First Round,Copa de Brasil,2000
+2000-03-22,Náutico,2,1,CSA,False,False,First Round,Copa de Brasil,2000
+2000-03-29,CSA,0,1,Náutico,False,False,First Round,Copa de Brasil,2000
 2000-03-23,Confiança,0,1,Goiás,False,False,First Round,Copa de Brasil,2000
 2000-03-30,Goiás,4,0,Confiança,False,False,First Round,Copa de Brasil,2000
 2000-03-22,Sergipe-SE,3,2,Vila Nova-GO,False,False,First Round,Copa de Brasil,2000
@@ -71,8 +71,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-04-27,Sampaio Corrêa-MA,2,2,América-RN,False,False,Second Round,Copa de Brasil,2000
 2000-03-29,ABC,1,0,Vitória,False,False,Second Round,Copa de Brasil,2000
 2000-04-12,Vitória,1,2,ABC,False,False,Second Round,Copa de Brasil,2000
-2000-04-12,Náutico-PE,1,1,Goiás,False,False,Second Round,Copa de Brasil,2000
-2000-04-19,Goiás,1,1,Náutico-PE,False,False,Second Round,Copa de Brasil,2000
+2000-04-12,Náutico,1,1,Goiás,False,False,Second Round,Copa de Brasil,2000
+2000-04-19,Goiás,1,1,Náutico,False,False,Second Round,Copa de Brasil,2000
 2000-04-12,Caxias,1,0,Sergipe-SE,False,False,Second Round,Copa de Brasil,2000
 2000-04-19,Sergipe-SE,2,1,Caxias,False,False,Second Round,Copa de Brasil,2000
 2000-04-06,Paraná Clube-PR,0,2,Cruzeiro,False,False,Second Round,Copa de Brasil,2000

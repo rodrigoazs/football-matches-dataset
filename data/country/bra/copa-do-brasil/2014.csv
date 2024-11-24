@@ -33,8 +33,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2014-03-20,Horizonte,3,1,Fluminense,False,False,First Round,Copa de Brasil,2014
 2014-04-10,Fluminense,5,0,Horizonte,False,False,First Round,Copa de Brasil,2014
 2014-03-12,Juazeiro,0,2,Tupi-MG,False,False,First Round,Copa de Brasil,2014
-2014-03-12,Sergipe-SE,1,0,Náutico-PE,False,False,First Round,Copa de Brasil,2014
-2014-04-09,Náutico-PE,1,0,Sergipe-SE,False,False,First Round,Copa de Brasil,2014
+2014-03-12,Sergipe-SE,1,0,Náutico,False,False,First Round,Copa de Brasil,2014
+2014-04-09,Náutico,1,0,Sergipe-SE,False,False,First Round,Copa de Brasil,2014
 2014-04-02,Boavista,1,2,América-RN,False,False,First Round,Copa de Brasil,2014
 2014-04-23,América-RN,2,0,Boavista,False,False,First Round,Copa de Brasil,2014
 2014-03-19,Bahia de Feira,0,2,Corinthians,False,False,First Round,Copa de Brasil,2014

@@ -7,7 +7,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-07-14,Corinthians,3,0,América-RN,False,False,First Round,Copa de Brasil,1992
 1992-07-14,Sampaio Corrêa-MA,0,1,Palmeiras,False,False,First Round,Copa de Brasil,1992
 1992-07-15,Fortaleza,1,0,Taguatinga-DF,False,False,First Round,Copa de Brasil,1992
-1992-07-21,Sergipe-SE,1,2,Náutico-PE,False,False,First Round,Copa de Brasil,1992
+1992-07-21,Sergipe-SE,1,2,Náutico,False,False,First Round,Copa de Brasil,1992
 1992-07-21,Juventude-MT,0,5,Criciúma,False,False,First Round,Copa de Brasil,1992
 1992-07-21,Ji-Paraná,0,4,Grêmio,False,False,First Round,Copa de Brasil,1992
 1992-07-21,Campinense,1,1,Bahia,False,False,First Round,Copa de Brasil,1992
@@ -25,7 +25,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1992-08-04,Bahia,0,0,Campinense,False,False,First Round,Copa de Brasil,1992
 1992-08-11,Sport,3,0,Amapá,False,False,First Round,Copa de Brasil,1992
 1992-08-11,Internacional,5,0,Muniz Freire-ES,False,False,First Round,Copa de Brasil,1992
-1992-08-18,Náutico-PE,0,2,Sergipe-SE,False,False,First Round,Copa de Brasil,1992
+1992-08-18,Náutico,0,2,Sergipe-SE,False,False,First Round,Copa de Brasil,1992
 1992-08-18,Taguatinga-DF,1,0,Fortaleza,False,False,First Round,Copa de Brasil,1992
 1992-08-18,Paraná Clube-PR,2,1,Democrata-MG,False,False,First Round,Copa de Brasil,1992
 1992-08-25,América-RN,0,3,Corinthians,False,False,First Round,Copa de Brasil,1992

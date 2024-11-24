@@ -59,8 +59,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2013-04-17,Santos,2,0,Flamengo-PI,False,False,First Round,Copa de Brasil,2013
 2013-04-10,Aracruz,1,1,Joinville,False,False,First Round,Copa de Brasil,2013
 2013-04-17,Joinville,1,0,Aracruz,False,False,First Round,Copa de Brasil,2013
-2013-04-10,CRAC,3,1,Náutico-PE,False,False,First Round,Copa de Brasil,2013
-2013-04-18,Náutico-PE,1,1,CRAC,False,False,First Round,Copa de Brasil,2013
+2013-04-10,CRAC,3,1,Náutico,False,False,First Round,Copa de Brasil,2013
+2013-04-18,Náutico,1,1,CRAC,False,False,First Round,Copa de Brasil,2013
 2013-04-03,Bangu,1,2,Betim,False,False,First Round,Copa de Brasil,2013
 2013-04-17,Betim,1,0,Bangu,False,False,First Round,Copa de Brasil,2013
 2013-04-11,Maranhão,0,2,Bahia,False,False,First Round,Copa de Brasil,2013

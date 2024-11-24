@@ -27,7 +27,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-01,União-MT,0,1,CRB,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Atlético Mineiro,1,1,Brasiliense,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Camboriú,1,0,Manaus,False,True,First Round,Copa de Brasil,2023
-2023-03-01,Sao Bernardo Fc-SP,0,1,Náutico-PE,False,True,First Round,Copa de Brasil,2023
+2023-03-01,Sao Bernardo Fc-SP,0,1,Náutico,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Parnahyba-PI,0,0,Botafogo-SP,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Princesa do Solimões,1,1,Ituano,False,True,First Round,Copa de Brasil,2023
 2023-03-01,Operário-MS,1,0,Operário-PR,False,True,First Round,Copa de Brasil,2023
@@ -52,7 +52,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-03-08,Camboriú,0,1,Bahia,False,True,Second Round,Copa de Brasil,2023
 2023-03-14,Coritiba,1,1,Criciúma,False,True,Second Round,Copa de Brasil,2023
 2023-03-15,Atlético-GO,1,1,Volta Redonda,False,True,Second Round,Copa de Brasil,2023
-2023-03-09,Náutico-PE,2,1,Vila Nova-GO,False,True,Second Round,Copa de Brasil,2023
+2023-03-09,Náutico,2,1,Vila Nova-GO,False,True,Second Round,Copa de Brasil,2023
 2023-03-15,Ypiranga-RS,3,1,RB Bragantino,False,True,Second Round,Copa de Brasil,2023
 2023-03-16,Vasco da Gama,0,0,ABC,False,True,Second Round,Copa de Brasil,2023
 2023-03-09,Santos,3,0,Iguatu,False,True,Second Round,Copa de Brasil,2023
@@ -65,8 +65,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2023-04-26,América Mineiro,5,0,Nova Iguaçu-RJ,False,False,Third Round,Copa de Brasil,2023
 2023-04-12,Coritiba,3,3,Sport,False,False,Third Round,Copa de Brasil,2023
 2023-04-26,Sport,2,0,Coritiba,False,False,Third Round,Copa de Brasil,2023
-2023-04-13,Náutico-PE,1,0,Cruzeiro,False,False,Third Round,Copa de Brasil,2023
-2023-04-25,Cruzeiro,2,0,Náutico-PE,False,False,Third Round,Copa de Brasil,2023
+2023-04-13,Náutico,1,0,Cruzeiro,False,False,Third Round,Copa de Brasil,2023
+2023-04-25,Cruzeiro,2,0,Náutico,False,False,Third Round,Copa de Brasil,2023
 2023-04-12,Atlético Mineiro,2,1,Brasil-RS,False,False,Third Round,Copa de Brasil,2023
 2023-04-26,Brasil-RS,1,1,Atlético Mineiro,False,False,Third Round,Copa de Brasil,2023
 2023-04-11,Volta Redonda,1,2,Bahia,False,False,Third Round,Copa de Brasil,2023

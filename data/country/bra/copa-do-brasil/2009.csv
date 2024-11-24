@@ -51,8 +51,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2009-02-18,União-MT,1,0,Internacional,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Internacional,2,0,União-MT,False,False,First Round,Copa de Brasil,2009
 2009-02-18,J. Malucelli,0,2,Guarani-SP,False,False,First Round,Copa de Brasil,2009
-2009-03-04,Moto Club,1,1,Náutico-PE,False,False,First Round,Copa de Brasil,2009
-2009-03-18,Náutico-PE,2,0,Moto Club,False,False,First Round,Copa de Brasil,2009
+2009-03-04,Moto Club,1,1,Náutico,False,False,First Round,Copa de Brasil,2009
+2009-03-18,Náutico,2,0,Moto Club,False,False,First Round,Copa de Brasil,2009
 2009-02-18,Tupi-MG,2,0,Criciúma,False,False,First Round,Copa de Brasil,2009
 2009-03-04,Criciúma,3,0,Tupi-MG,False,False,First Round,Copa de Brasil,2009
 2009-04-15,Central,0,3,Vasco da Gama,False,False,Second Round,Copa de Brasil,2009

@@ -14,7 +14,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-02-06,Altos,1,7,Santos,False,True,First Round,Copa de Brasil,2019
 2019-02-07,Ferroviário-CE,2,2,Corinthians,False,True,First Round,Copa de Brasil,2019
 2019-02-07,Americano,1,2,Londrina,False,True,First Round,Copa de Brasil,2019
-2019-02-12,Imperatriz,1,1,Náutico-PE,False,True,First Round,Copa de Brasil,2019
+2019-02-12,Imperatriz,1,1,Náutico,False,True,First Round,Copa de Brasil,2019
 2019-02-12,Aparecidense,1,0,Ponte Preta-SP,False,True,First Round,Copa de Brasil,2019
 2019-02-13,Bragantino-PA,1,0,ASA,False,True,First Round,Copa de Brasil,2019
 2019-02-13,Brasiliense,0,0,CRB,False,True,First Round,Copa de Brasil,2019
@@ -42,7 +42,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2019-04-03,Aparecidense,2,0,Ponte Preta-SP,False,True,First Round,Copa de Brasil,2019
 2019-02-19,Londrina,1,1,Paraná-PR,False,True,Second Round,Copa de Brasil,2019
 2019-02-20,Corinthians,4,2,Avenida,False,True,Second Round,Copa de Brasil,2019
-2019-02-20,Santa Cruz-PE,1,1,Náutico-PE,False,True,Second Round,Copa de Brasil,2019
+2019-02-20,Santa Cruz-PE,1,1,Náutico,False,True,Second Round,Copa de Brasil,2019
 2019-02-20,Serra-ES,0,2,Vasco da Gama,False,True,Second Round,Copa de Brasil,2019
 2019-02-20,Luverdense,1,0,Figueirense-SC,False,True,Second Round,Copa de Brasil,2019
 2019-02-21,Goiás,1,1,CRB,False,True,Second Round,Copa de Brasil,2019

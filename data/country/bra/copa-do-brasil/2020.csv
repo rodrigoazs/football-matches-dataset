@@ -26,7 +26,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-02-12,Brusque,2,1,Sport,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Gama,3,3,Brasil-RS,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Atlético-BA,0,0,Botafogo-PB,False,True,First Round,Copa de Brasil,2020
-2020-02-12,Toledo-PR,0,2,Náutico-PE,False,True,First Round,Copa de Brasil,2020
+2020-02-12,Toledo-PR,0,2,Náutico,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Campinense,0,0,Atlético Mineiro,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Galvez,0,1,Vila Nova-GO,False,True,First Round,Copa de Brasil,2020
 2020-02-12,Altos,1,1,Vasco da Gama,False,True,First Round,Copa de Brasil,2020
@@ -41,7 +41,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2020-02-26,Moto Club,2,4,Fluminense,False,True,First Round,Copa de Brasil,2020
 2020-02-18,Vitória-ES,0,1,Figueirense-SC,False,True,Second Round,Copa de Brasil,2020
 2020-02-19,Paysandu,1,1,CRB,False,True,Second Round,Copa de Brasil,2020
-2020-02-19,Náutico-PE,1,1,Botafogo,False,True,Second Round,Copa de Brasil,2020
+2020-02-19,Náutico,1,1,Botafogo,False,True,Second Round,Copa de Brasil,2020
 2020-02-19,Oeste-SP,1,1,Ceará,False,True,Second Round,Copa de Brasil,2020
 2020-02-20,Brusque,5,1,Remo,False,True,Second Round,Copa de Brasil,2020
 2020-02-26,XV de Piracicaba,1,1,Juventude,False,True,Second Round,Copa de Brasil,2020
