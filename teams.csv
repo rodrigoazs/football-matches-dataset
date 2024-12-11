@@ -5,7 +5,7 @@ ABC,ABC Futebol Clube,Brazil
 ADAP Galo Maringá,ADAP/Galo Maringá Futebol Clube,Brazil
 ASA,Agremiação Sportiva Arapiraquense,Brazil
 ASSU,Associação Sportiva Sociedade Unida,Brazil
-Abkhazia,,National/Non-FIFA
+Abkhazia,Abkhazia,National/Non-FIFA
 Adesg,Associação Desportiva Senador Guiomard,Brazil
 Afghanistan,Afghanistan,National
 Afogados,Afogados da Ingazeira Futebol Clube,Brazil
@@ -102,7 +102,7 @@ Bandeirante,,Brazil
 Banfield,,From Libertadores (country to define)
 Bangladesh,Bangladesh,National
 Bangu,,Brazil
-Barawa,,National/Non-FIFA
+Barawa,Barawa,National/Non-FIFA
 Baraúnas,,Brazil
 Barbados,Barbados,National
 Barbalha,,Brazil
@@ -122,7 +122,7 @@ Benin,Benin,National
 Bermuda,Bermuda,National
 Betim,,Brazil
 Bhutan,Bhutan,National
-Biafra,,National/Non-FIFA
+Biafra,Biafra,National/Non-FIFA
 Blooming,,From Libertadores (country to define)
 Blumenau,,Brazil
 Boa Esporte,,Brazil
@@ -130,27 +130,27 @@ Boavista,,Brazil
 Boca Juniors,Club Atlético Boca Juniors,Argentina
 Bolivia,Bolivia,National
 Bolívar,Club Bolívar,Bolivia
-Bonaire,,National
+Bonaire,Bonaire,National
 Bosnia and Herzegovina,Bosnia and Herzegovina,National
 Botafogo,Botafogo de Futebol e Regatas,Brazil
 Botafogo-PB,,Brazil
 Botafogo-SP,,Brazil
-Botswana,,National
+Botswana,Botswana,National
 Boyacá Chicó,,From Libertadores (country to define)
 Bragantino-PA,,Brazil
 Brasil-RS,,Brazil
 Brasiliense,,Brazil
 Brasília,,Brazil
 Brazil,Brazil,National
-British Virgin Islands,,National
-Brittany,,National/Non-FIFA
-Brunei,,National
+British Virgin Islands,British Virgin Islands,National
+Brittany,Brittany,National/Non-FIFA
+Brunei,Brunei,National
 Brusque,,Brazil
 Bucaramanga,,From Libertadores (country to define)
 Bulgaria,Bulgaria,National
 Burkina Faso,Burkina Faso,National
-Burma,,National/Non-FIFA
-Burundi,,National
+Burma,Burma,National/Non-FIFA
+Burundi,Burundi,National
 CA Juventus,,Brazil
 CE Nova Esperança,,Brazil
 CENE,,Brazil
@@ -174,41 +174,41 @@ Cametá,,Brazil
 Campinense,,Brazil
 Campo Grande,,Brazil
 Canada,Canada,National
-Canary Islands,,National/Non-FIFA
+Canary Islands,Canary Islands,National/Non-FIFA
 Cape Verde,Cape Verde,National
 Capelense,,Brazil
 Capivariano,,Brazil
 Carabobo FC,,From Libertadores (country to define)
 Caracas,Caracas Fútbol Club,Venezuela
-Cascadia,,National/Non-FIFA
+Cascadia,Cascadia,National/Non-FIFA
 Cascavel,,Brazil
 Castanhal,,Brazil
-Catalonia,,National/Non-FIFA
+Catalonia,Catalonia,National/Non-FIFA
 Catuense,,Brazil
 Caucaia,,Brazil
 Caxias,,Brazil
 Caxias-SC,,Brazil
-Cayman Islands,,National
+Cayman Islands,Cayman Islands,National
 Ceará,,Brazil
 Ceilândia,,Brazil
 Central,,Brazil
-Central African Republic,,National
-Central Spain,,National/Non-FIFA
+Central African Republic,Central African Republic,National
+Central Spain,Central Spain,National/Non-FIFA
 Cerro,,From Libertadores (country to define)
 Cerro Largo,,From Libertadores (country to define)
 Cerro Porteño,Club Cerro Porteño,Paraguay
 Cerâmica,,Brazil
 Chaco Petrolero,,From Libertadores (country to define)
-Chad,,National
-Chagos Islands,,National
-Chameria,,National/Non-FIFA
+Chad,Chad,National
+Chagos Islands,Chagos Islands,National
+Chameria,Chameria,National/Non-FIFA
 Chapecoense,,Brazil
-Chechnya,,National/Non-FIFA
+Chechnya,Chechnya,National/Non-FIFA
 Chile,Chile,National
 China PR,China PR,National/Non-FIFA
 Cianorte,,Brazil
 Cienciano,,From Libertadores (country to define)
-Cilento,,National/Non-FIFA
+Cilento,Cilento,National/Non-FIFA
 Club América,,From Libertadores (country to define)
 Club Nacional,,From Libertadores (country to define)
 Cobreloa,,From Libertadores (country to define)
@@ -224,11 +224,11 @@ Comercial-MS,,Brazil
 Comercial-MT,,Brazil
 Comercial-PI,,Brazil
 Comercial-SP,,Brazil
-Comoros,,National
+Comoros,Comoros,National
 Concepción,,From Libertadores (country to define)
 Confiança,,Brazil
 Congo,Congo,National
-Cook Islands,,National
+Cook Islands,Cook Islands,National
 Coquimbo,,From Libertadores (country to define)
 Cordino,,Brazil
 Cori-Sabba,,Brazil
@@ -237,30 +237,30 @@ Corinthians-AL,,Brazil
 Corinthians-PR,,Brazil
 Coritiba,,Brazil
 Coronel Bolognesi,,From Libertadores (country to define)
-Corsica,,National/Non-FIFA
+Corsica,Corsica,National/Non-FIFA
 Corumbaense,,Brazil
 Coruripe,,Brazil
 Coríntians-RN,,Brazil
 Costa Rica,Costa Rica,National
 Costa Rica-MS,,Brazil
-County of Nice,,National/Non-FIFA
+County of Nice,County of Nice,National/Non-FIFA
 Coxim-MS,,Brazil
 Criciúma,,Brazil
-Crimea,,National/Non-FIFA
+Crimea,Crimea,National/Non-FIFA
 Cristal,,Brazil
 Croatia,Croatia,National
 Cruz Azul,,From Libertadores (country to define)
 Cruzeiro,Cruzeiro Esporte Clube,Brazil
 Cuba,Cuba,National
 Cuiabá,,Brazil
-Curaçao,,National
+Curaçao,ao,National
 Cyprus,Cyprus,National
 Czech Republic,Czech Republic,National/Non-FIFA
-Czechoslovakia,,National/Non-FIFA
+Czechoslovakia,Czechoslovakia,National/Non-FIFA
 Cúcuta Deportivo,,From Libertadores (country to define)
-DR Congo,,National/Non-FIFA
+DR Congo,DR Congo,National/Non-FIFA
 Danubio,,From Libertadores (country to define)
-Darfur,,National/Non-FIFA
+Darfur,Darfur,National/Non-FIFA
 Defensa y Justicia,,From Libertadores (country to define)
 Defensor Arica,,From Libertadores (country to define)
 Defensor Lima,,From Libertadores (country to define)
@@ -292,25 +292,25 @@ Deportivo Portugués,,From Libertadores (country to define)
 Deportivo Quito,,From Libertadores (country to define)
 Deportivo Táchira,Deportivo Táchira Fútbol Club,Venezuela
 Desportiva,,Brazil
-Djibouti,,National
+Djibouti,Djibouti,National
 Dom Bosco,,Brazil
 Dom Pedro II,,Brazil
-Dominica,,National
+Dominica,Dominica,National
 Dominican Republic,Dominican Republic,National
-Donetsk PR,,National/Non-FIFA
+Donetsk PR,Donetsk PR,National/Non-FIFA
 Duque de Caxias,,Brazil
-Délvidék,,National/Non-FIFA
-East Timor,,National
+Délvidék,k,National/Non-FIFA
+East Timor,East Timor,National
 Ecuador,Ecuador,National
 Egypt,Egypt,National
 El Nacional,,From Libertadores (country to define)
 El Salvador,El Salvador,National
-Elba Island,,National/Non-FIFA
-Ellan Vannin,,National/Non-FIFA
+Elba Island,Elba Island,National/Non-FIFA
+Ellan Vannin,Ellan Vannin,National/Non-FIFA
 Emelec,Club Sport Emelec,Ecuador
 England,England,National
 Equatorial Guinea,Equatorial Guinea,National
-Eritrea,,National
+Eritrea,Eritrea,National
 Espigão,,Brazil
 Espoli,,From Libertadores (country to define)
 Esportivo,,Brazil
@@ -320,16 +320,16 @@ Estonia,Estonia,National
 Estrela do Norte,,Brazil
 Estudiantes de La Plata,Club Estudiantes de La Plata,Argentina
 Estudiantes de Mérida,,From Libertadores (country to define)
-Eswatini,,National
+Eswatini,Eswatini,National
 Ethiopia,Ethiopia,National
 Etti Jundiaí,,Brazil
 Everest,,From Libertadores (country to define)
 Everton,Everton de Viña del Mar,Chile
 Falcon-SE,,Brazil
-Falkland Islands,,National
-Faroe Islands,,National
+Falkland Islands,Falkland Islands,National
+Faroe Islands,Faroe Islands,National
 Fast Clube,,Brazil
-Felvidék,,National/Non-FIFA
+Felvidék,k,National/Non-FIFA
 Ferro Carril Oeste,,From Libertadores (country to define)
 Ferrovia-CE,,Brazil
 Ferroviária,,Brazil
@@ -350,26 +350,26 @@ Fluminense-PI,,Brazil
 Fortaleza,Fortaleza Esporte Clube,Brazil
 Foz do Iguaçu,,Brazil
 Francana,,Brazil
-France,,National
-Franconia,,National/Non-FIFA
+France,France,National
+Franconia,Franconia,National/Non-FIFA
 Frei Paulistano,,Brazil
-French Guiana,,National
+French Guiana,French Guiana,National
 Friburguense,,Brazil
-Frøya,,National/Non-FIFA
+Frøya,ya,National/Non-FIFA
 Fénix,,From Libertadores (country to define)
 GE Brasil,,Brazil
-Gabon,,National
-Galicia,,National/Non-FIFA
+Gabon,Gabon,National
+Galicia,Galicia,National/Non-FIFA
 Galvez,,Brazil
 Galícia,,Brazil
 Gama,,Brazil
-Gambia,,National
+Gambia,Gambia,National
 Genus,,Brazil
-Georgia,,National
-German DR,,National/Non-FIFA
-Germany,,National
-Ghana,,National
-Gibraltar,,National
+Georgia,Georgia,National
+German DR,German DR,National/Non-FIFA
+Germany,Germany,National
+Ghana,Ghana,National
+Gibraltar,Gibraltar,National
 Gimnasia y Esgrima,,From Libertadores (country to define)
 Globo,,Brazil
 Gloria-RS,,Brazil
@@ -378,12 +378,12 @@ Goianésia,,Brazil
 Goiatuba,,Brazil
 Goiás,Goiás Esporte Clube,Brazil
 Goiânia,,Brazil
-Gotland,,National/Non-FIFA
+Gotland,Gotland,National/Non-FIFA
 Goytacaz,,Brazil
-Gozo,,National/Non-FIFA
-Greece,,National
-Greenland,,National
-Grenada,,National
+Gozo,Gozo,National/Non-FIFA
+Greece,Greece,National
+Greenland,Greenland,National
+Grenada,Grenada,National
 Grêmio,Grêmio Foot-Ball Porto Alegrense,Brazil
 Grêmio Anápolis,,Brazil
 Grêmio Coariense,,Brazil
@@ -391,9 +391,9 @@ Grêmio Jaciara,,Brazil
 Grêmio Maringá,,Brazil
 Guabirá,,From Libertadores (country to define)
 Guadalajara,,From Libertadores (country to define)
-Guadeloupe,,National
+Guadeloupe,Guadeloupe,National
 Guajará,,Brazil
-Guam,,National
+Guam,Guam,National
 Guarani,,Brazil
 Guarani-J,,Brazil
 Guarani-RS,,Brazil
@@ -403,29 +403,29 @@ Guarany de Sobral,,Brazil
 Guaraní,Club Guaraní,Paraguay
 Guaratinguetá,,Brazil
 Guará,,Brazil
-Guatemala,,National
-Guernsey,,National/Non-FIFA
-Guinea,,National
-Guinea-Bissau,,National
+Guatemala,Guatemala,National
+Guernsey,Guernsey,National/Non-FIFA
+Guinea,Guinea,National
+Guinea-Bissau,Bissau,National
 Gurupi,,Brazil
-Guyana,,National
-Găgăuzia,,National/Non-FIFA
-Haiti,,National
-Hitra,,National/Non-FIFA
-Hmong,,National/Non-FIFA
+Guyana,Guyana,National
+Găgăuzia,uzia,National/Non-FIFA
+Haiti,Haiti,National
+Hitra,Hitra,National/Non-FIFA
+Hmong,Hmong,National/Non-FIFA
 Holanda-AM,,Brazil
-Honduras,,National
-Hong Kong,,National
+Honduras,Honduras,National
+Hong Kong,Hong Kong,National
 Horizonte,,Brazil
 Huachipato,,From Libertadores (country to define)
 Humaitá,,Brazil
-Hungary,,National
+Hungary,Hungary,National
 Huracán,,From Libertadores (country to define)
 IAPE,,Brazil
 ICASA,,Brazil
 IV de Julho-PI,,Brazil
 Ibiraçu,,Brazil
-Iceland,,National
+Iceland,Iceland,National
 Iguatu,,Brazil
 Imperatriz,,Brazil
 Independente-AP,,Brazil
@@ -437,42 +437,42 @@ Independiente Petrolero,Club Independiente Petrolero,Bolivia
 Independiente Santa Fe,,From Libertadores (country to define)
 Independiente del Valle,Club Deportivo Independiente del Valle,Ecuador
 Independência-AC,,Brazil
-India,,National
-Indonesia,,National
+India,India,National
+Indonesia,Indonesia,National
 Internacional,Sport Club Internacional,Brazil
 Internacional-SC,,Brazil
 Internacional-SM,,Brazil
 Internacional-SP,,Brazil
 Interporto,,Brazil
 Ipatinga,,Brazil
-Iran,,National
-Iraq,,National
-Iraqi Kurdistan,,National/Non-FIFA
+Iran,Iran,National
+Iraq,Iraq,National
+Iraqi Kurdistan,Iraqi Kurdistan,National/Non-FIFA
 Iraty,,Brazil
-Isle of Man,,National/Non-FIFA
-Isle of Wight,,National/Non-FIFA
-Israel,,National
+Isle of Man,Isle of Man,National/Non-FIFA
+Isle of Wight,Isle of Wight,National/Non-FIFA
+Israel,Israel,National
 Itabaiana,,Brazil
 Itabuna,,Brazil
-Italy,,National
+Italy,Italy,National
 Ituano,,Brazil
 Ituiutaba,,Brazil
 Itumbiara,,Brazil
 Ivinhema-MS,,Brazil
-Ivory Coast,,National
+Ivory Coast,Ivory Coast,National
 J. Malucelli,,Brazil
 JV Lideral-MA,,Brazil
 Jacuipense,,Brazil
 Jaguares,,From Libertadores (country to define)
 Jaguares (Tuxtla Gtz.),,From Libertadores (country to define)
 Jaguaré-ES,,Brazil
-Jamaica,,National
-Japan,,National
+Jamaica,Jamaica,National
+Japan,Japan,National
 Jaraguá-GO,,Brazil
-Jersey,,National/Non-FIFA
+Jersey,Jersey,National/Non-FIFA
 Ji-Paraná,,Brazil
 Joinville,,Brazil
-Jordan,,National
+Jordan,Jordan,National
 Jorge Wilstermann,,From Libertadores (country to define)
 Juan Aurich,,From Libertadores (country to define)
 Juazeirense,,Brazil
@@ -484,77 +484,77 @@ Juventude-MT,,Brazil
 Juventus-AC,,Brazil
 Juventus-SP,,Brazil
 Kaburé,,Brazil
-Kabylia,,National/Non-FIFA
-Kazakhstan,,National
-Kenya,,National
-Kernow,,National/Non-FIFA
-Kiribati,,National
-Kosovo,,National
-Kuwait,,National
-Kyrgyzstan,,National
-Kárpátalja,,National/Non-FIFA
+Kabylia,Kabylia,National/Non-FIFA
+Kazakhstan,Kazakhstan,National
+Kenya,Kenya,National
+Kernow,Kernow,National/Non-FIFA
+Kiribati,Kiribati,National
+Kosovo,Kosovo,National
+Kuwait,Kuwait,National
+Kyrgyzstan,Kyrgyzstan,National
+Kárpátalja,talja,National/Non-FIFA
 LDU Quito,Liga Deportiva Universitaria de Quito,Ecuador
 La Paz FC,,From Libertadores (country to define)
 Lagartense-SE,,Brazil
 Lagarto-SE,,Brazil
 Lajeadense-RS,,Brazil
 Lanús,,From Libertadores (country to define)
-Laos,,National
-Latvia,,National
-Lebanon,,National
-Lesotho,,National
+Laos,Laos,National
+Latvia,Latvia,National
+Lebanon,Lebanon,National
+Lesotho,Lesotho,National
 León,,From Libertadores (country to define)
 León de Huánuco,,From Libertadores (country to define)
 Leônico,,Brazil
-Liberia,,National
+Liberia,Liberia,National
 Libertad,Club Libertad,Paraguay
-Libya,,National
-Liechtenstein,,National
+Libya,Libya,National
+Liechtenstein,Liechtenstein,National
 Linense-SP,,Brazil
 Linhares-ES,,Brazil
-Lithuania,,National
+Lithuania,Lithuania,National
 Litoral,,From Libertadores (country to define)
 Liverpool (Montevideo),,From Libertadores (country to define)
 Londrina,,Brazil
-Luhansk PR,,National/Non-FIFA
+Luhansk PR,Luhansk PR,National/Non-FIFA
 Luverdense,,Brazil
-Luxembourg,,National
+Luxembourg,Luxembourg,National
 Luziânia,,Brazil
 Macará (Ambato),,From Libertadores (country to define)
-Macau,,National/Non-FIFA
-Madagascar,,National
-Madrid,,National/Non-FIFA
+Macau,Macau,National/Non-FIFA
+Madagascar,Madagascar,National
+Madrid,Madrid,National/Non-FIFA
 Madureira,,Brazil
 Magallanes,,From Libertadores (country to define)
-Malawi,,National
-Malaya,,National/Non-FIFA
-Malaysia,,National
-Maldives,,National
-Mali,,National
-Malta,,National
+Malawi,Malawi,National
+Malaya,Malaya,National/Non-FIFA
+Malaysia,Malaysia,National
+Maldives,Maldives,National
+Mali,Mali,National
+Malta,Malta,National
 Malutrom,,Brazil
 Manaus,,Brazil
-Manchukuo,,National/Non-FIFA
-Mapuche,,National/Non-FIFA
+Manchukuo,Manchukuo,National/Non-FIFA
+Mapuche,Mapuche,National/Non-FIFA
 Maranhão,,Brazil
 Marcílio Dias,,Brazil
 Mariano Melgar,,From Libertadores (country to define)
 Maricá,,Brazil
 Maringá,,Brazil
-Martinique,,National
+Martinique,Martinique,National
 Marília,,Brazil
 Marítimo,,From Libertadores (country to define)
-Matabeleland,,National/Non-FIFA
+Matabeleland,Matabeleland,National/Non-FIFA
 Matonense,,Brazil
-Maule Sur,,National/Non-FIFA
-Mauritania,,National
-Mauritius,,National
-Mayotte,,National
+Maule Sur,Maule Sur,National/Non-FIFA
+Mauritania,Mauritania,National
+Mauritius,Mauritius,National
+Mayotte,Mayotte,National
 Medellín,,From Libertadores (country to define)
 Melgar,,From Libertadores (country to define)
-Menorca,,National/Non-FIFA
-Mexico,,National
-Micronesia,,National
+Menorca,Menorca,National/Non-FIFA
+Mexico,Mexico,National
+Micronesia,Micronesia,National
 Millonarios,Millonarios Fútbol Club,Colombia
 Mineiros-GO,,Brazil
 Mineros de Guayana,,From Libertadores (country to define)
@@ -563,52 +563,52 @@ Mirassol-SP,,Brazil
 Misto-MS,,Brazil
 Mixto,,Brazil
 Mogi Mirim,,Brazil
-Moldova,,National
-Monaco,,National
+Moldova,Moldova,National
+Monaco,Monaco,National
 Monagas SC,Monagas Sport Club,Venezuela
-Mongolia,,National
-Montenegro,,National
+Mongolia,Mongolia,National
+Montenegro,Montenegro,National
 Monterrey,Club de Fútbol Monterrey,Mexico
 Montevideo City Torque,Montevideo City Torque,Uruguay
 Montevideo Wanderers,Montevideo Wanderers Fútbol Club,Uruguay
-Montserrat,,National
+Montserrat,Montserrat,National
 Morelia,,From Libertadores (country to define)
-Morocco,,National
+Morocco,Morocco,National
 Moto Club,,Brazil
-Mozambique,,National
+Mozambique,Mozambique,National
 Muniz Freire-ES,,Brazil
 Murici-AL,,Brazil
 Mutum-MT,,Brazil
-Myanmar,,National
+Myanmar,Myanmar,National
 Nacional,,Brazil
 Nacional Táchira,,From Libertadores (country to define)
 Nacional de Montevideo,Club Nacional de Football,Uruguay
 Nacional-AM,,Brazil
 Nacional-PB,,Brazil
 Nacional-SP,,Brazil
-Namibia,,National
+Namibia,Namibia,National
 Nautico-PE,,Brazil
 Naviraiense,,Brazil
 Naviraiense-MS,,Brazil
 Necaxa,,From Libertadores (country to define)
-Nepal,,National
-Netherlands,,National
-New Caledonia,,National
-New Zealand,,National
+Nepal,Nepal,National
+Netherlands,Netherlands,National
+New Caledonia,New Caledonia,National
+New Zealand,New Zealand,National
 Newell's Old Boys,,From Libertadores (country to define)
-Nicaragua,,National
-Niger,,National
-Nigeria,,National
-Niue,,National
+Nicaragua,Nicaragua,National
+Niger,Niger,National
+Nigeria,Nigeria,National
+Niue,Niue,National
 Noroeste,,Brazil
 Noroeste-SP,,Brazil
-North Korea,,National
-North Macedonia,,National
-North Vietnam,,National/Non-FIFA
-Northern Cyprus,,National
-Northern Ireland,,National
-Northern Mariana Islands,,National
-Norway,,National
+North Korea,North Korea,National
+North Macedonia,North Macedonia,National
+North Vietnam,North Vietnam,National/Non-FIFA
+Northern Cyprus,Northern Cyprus,National
+Northern Ireland,Northern Ireland,National
+Northern Mariana Islands,Northern Mariana Islands,National
+Norway,Norway,National
 Nova Esperança-MS,,Brazil
 Nova Iguaçu-RJ,,Brazil
 Nova Mutum Ec-MT,,Brazil
@@ -623,7 +623,7 @@ Nueve de Octubre,,From Libertadores (country to define)
 Náutico,Clube Náutico Capibaribe,Brazil
 Náutico-RR,,Brazil
 O'Higgins,,From Libertadores (country to define)
-Occitania,,National/Non-FIFA
+Occitania,Occitania,National/Non-FIFA
 Oeste,,Brazil
 Oeste-SP,,Brazil
 Olaria,,Brazil
@@ -631,7 +631,7 @@ Olimpia,Club Olimpia,Paraguay
 Olmedo,,From Libertadores (country to define)
 Olímpia,Olímpia Futebol Clube,Brazil
 Olímpico Pirambu-SE,,Brazil
-Oman,,National
+Oman,Oman,National
 Once Caldas,,From Libertadores (country to define)
 Operário-CG,,Brazil
 Operário-MS,,Brazil
@@ -639,31 +639,31 @@ Operário-MT,,Brazil
 Operário-PR,,Brazil
 Oratório-AP,,Brazil
 Oriente Petrolero,,From Libertadores (country to define)
-Orkney,,National/Non-FIFA
+Orkney,Orkney,National/Non-FIFA
 Osasco Audax,,Brazil
 PSTC,,Brazil
 Pachuca,,From Libertadores (country to define)
-Padania,,National/Non-FIFA
-Pakistan,,National
-Palau,,National
-Palestine,,National/Non-FIFA
+Padania,Padania,National/Non-FIFA
+Pakistan,Pakistan,National
+Palau,Palau,National
+Palestine,Palestine,National/Non-FIFA
 Palestino,,From Libertadores (country to define)
 Palmares-RO,,Brazil
 Palmas,,Brazil
 Palmas-TO,,Brazil
 Palmeiras,Sociedade Esportiva Palmeiras,Brazil
-Panama,,National
-Panjab,,National/Non-FIFA
-Papua New Guinea,,National
+Panama,Panama,National
+Panjab,Panjab,National/Non-FIFA
+Papua New Guinea,Papua New Guinea,National
 Paragominas-PA,,Brazil
-Paraguay,,National
+Paraguay,Paraguay,National
 Paraná,Paraná Clube,Brazil
 Paraná Clube-PR,,Brazil
 Paraná-PR,,Brazil
 Paranávaí,,Brazil
 Paranávaí-PR,,Brazil
 Parauapebas-PA,,Brazil
-Parishes of Jersey,,National/Non-FIFA
+Parishes of Jersey,Parishes of Jersey,National/Non-FIFA
 Parnahyba-PI,,Brazil
 Paulista,,Brazil
 Paulista FC,,Brazil
@@ -672,9 +672,9 @@ Paysandu,,Brazil
 Pelotas-RS,,Brazil
 Penarol-AM,,Brazil
 Pepeganga,,From Libertadores (country to define)
-Peru,,National
+Peru,Peru,National
 Peñarol,Club Atlético Peñarol,Uruguay
-Philippines,,National
+Philippines,Philippines,National
 Piauí,,Brazil
 Piauí-PI,,Brazil
 Picos-PI,,Brazil
@@ -683,13 +683,13 @@ Pinheiros-PR,,Brazil
 Pinheiros-RO,,Brazil
 Plaza Colonia,Club Plaza Colonia de Deportes,Uruguay
 Plácido de Castro-AC,,Brazil
-Poland,,National
+Poland,Poland,National
 Pontaporanense-MS,,Brazil
 Ponte Preta,,Brazil
 Ponte Preta-SP,,Brazil
 Porto Velho-RO,,Brazil
 Porto-PE,,Brazil
-Portugal,,National
+Portugal,Portugal,National
 Portuguesa,,Brazil
 Portuguesa-RJ,,Brazil
 Portuguesa-SP,,Brazil
@@ -704,20 +704,20 @@ Pouso Alegre-MG,,Brazil
 Poções-BA,,Brazil
 Princesa do Solimões,,Brazil
 Progreso,,From Libertadores (country to define)
-Provence,,National/Non-FIFA
+Provence,Provence,National/Non-FIFA
 Prudente,,Brazil
 Prudente-SP,,Brazil
 Prudentópolis,,Brazil
 Prudentópolis-PR,,Brazil
 Puebla,,From Libertadores (country to define)
-Puerto Rico,,National
+Puerto Rico,Puerto Rico,National
 Pumas UNAM,,From Libertadores (country to define)
-Qatar,,National
+Qatar,Qatar,National
 Quilmes,,From Libertadores (country to define)
 RB Bragantino,Red Bull Bragantino,Brazil
 Racing Club,Racing Club,Argentina
 Racing Club de Montevideo,,From Libertadores (country to define)
-Raetia,,National/Non-FIFA
+Raetia,Raetia,National/Non-FIFA
 Rangers,,From Libertadores (country to define)
 Real Ariquemes,,Brazil
 Real Brasília,,Brazil
@@ -728,12 +728,12 @@ Real Potosí,,From Libertadores (country to define)
 Real-RR,,Brazil
 Remo,,Brazil
 Rentistas,,From Libertadores (country to define)
-Republic of Ireland,,National/Non-FIFA
-Republic of St. Pauli,,National/Non-FIFA
+Republic of Ireland,Republic of Ireland,National/Non-FIFA
+Republic of St. Pauli, Pauli,National/Non-FIFA
 Resende,,Brazil
 Resende-PA,,Brazil
 Retrô-PE,,Brazil
-Rhodes,,National/Non-FIFA
+Rhodes,Rhodes,National/Non-FIFA
 Rio Branco,,Brazil
 Rio Branco-AC,,Brazil
 Rio Branco-ES,,Brazil
@@ -749,39 +749,39 @@ River Plate-SE,,Brazil
 River-PI,,Brazil
 Rocha FC,,From Libertadores (country to define)
 Roma Apucarana-PR,,Brazil
-Romani people,,National/Non-FIFA
-Romania,,National
+Romani people,Romani people,National/Non-FIFA
+Romania,Romania,National
 Rondoniense,,Brazil
 Rondonópolis-MT,,Brazil
 Roraima-RR,,Brazil
 Rosario Central,,From Libertadores (country to define)
 Royal Pari (Santa Cruz),,From Libertadores (country to define)
-Russia,,National
-Rwanda,,National
+Russia,Russia,National
+Rwanda,Rwanda,National
 Ryūkyū,,National/Non-FIFA
-Réunion,,National
+Réunion,union,National
 S.Correa(MA),,Brazil
 S.Raimundo(AM),,Brazil
 SER Chapadão-MS,,Brazil
-Saare County,,National/Non-FIFA
-Saarland,,National/Non-FIFA
-Saint Barthélemy,,National
-Saint Helena,,National/Non-FIFA
-Saint Kitts and Nevis,,National
-Saint Lucia,,National
-Saint Martin,,National
-Saint Pierre and Miquelon,,National
-Saint Vincent and the Grenadines,,National
+Saare County,Saare County,National/Non-FIFA
+Saarland,Saarland,National/Non-FIFA
+Saint Barthélemy,lemy,National
+Saint Helena,Saint Helena,National/Non-FIFA
+Saint Kitts and Nevis,Saint Kitts and Nevis,National
+Saint Lucia,Saint Lucia,National
+Saint Martin,Saint Martin,National
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,National
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,National
 Salgueiro,,Brazil
 Salgueiro-PE,,Brazil
-Samoa,,National
+Samoa,Samoa,National
 Sampaio Corrêa-MA,,Brazil
 San Agustín,,From Libertadores (country to define)
 San José,,From Libertadores (country to define)
 San Lorenzo,,From Libertadores (country to define)
 San Lorenzo de Almagro,,From Libertadores (country to define)
 San Luis,,From Libertadores (country to define)
-San Marino,,National
+San Marino,San Marino,National
 Santa Cruz,,Brazil
 Santa Cruz-PB,,Brazil
 Santa Cruz-PE,,Brazil
@@ -800,61 +800,61 @@ Santos-AP,,Brazil
 Sao Bernardo Fc-SP,,Brazil
 Sao Francisco-AC,,Brazil
 Sapucaiense-RS,,Brazil
-Sark,,National/Non-FIFA
-Saudi Arabia,,National
-Saugeais,,National/Non-FIFA
-Scotland,,National
-Sealand,,National/Non-FIFA
-Seborga,,National/Non-FIFA
-Senegal,,National
-Serbia,,National
+Sark,Sark,National/Non-FIFA
+Saudi Arabia,Saudi Arabia,National
+Saugeais,Saugeais,National/Non-FIFA
+Scotland,Scotland,National
+Sealand,Sealand,National/Non-FIFA
+Seborga,Seborga,National/Non-FIFA
+Senegal,Senegal,National
+Serbia,Serbia,National
 Sergipe,,Brazil
 Sergipe-SE,,Brazil
 Serra,,Brazil
 Serra-ES,,Brazil
 Serrano,,Brazil
 Sete de Setembro,,Brazil
-Seychelles,,National
-Shetland,,National/Non-FIFA
-Sierra Leone,,National
-Silesia,,National/Non-FIFA
-Singapore,,National
+Seychelles,Seychelles,National
+Shetland,Shetland,National/Non-FIFA
+Sierra Leone,Sierra Leone,National
+Silesia,Silesia,National/Non-FIFA
+Singapore,Singapore,National
 Sinop,,Brazil
 Sinop-MT,,Brazil
-Sint Maarten,,National
-Slovakia,,National
-Slovenia,,National
+Sint Maarten,Sint Maarten,National
+Slovakia,Slovakia,National
+Slovenia,Slovenia,National
 Sobradinho,,Brazil
 Sobradinho-DF,,Brazil
 Sol de América,,From Libertadores (country to define)
-Solomon Islands,,National
-Somalia,,National
-Somaliland,,National
+Solomon Islands,Solomon Islands,National
+Somalia,Somalia,National
+Somaliland,Somaliland,National
 Sorriso-MT,,Brazil
 Sousa-PB,,Brazil
-South Africa,,National
-South Korea,,National
-South Ossetia,,National/Non-FIFA
-South Sudan,,National
-South Yemen,,National/Non-FIFA
+South Africa,South Africa,National
+South Korea,South Korea,National
+South Ossetia,South Ossetia,National/Non-FIFA
+South Sudan,South Sudan,National
+South Yemen,South Yemen,National/Non-FIFA
 Souza-PB,,Brazil
-Spain,,National
+Spain,Spain,National
 Sport,Sport Club do Recife,Brazil
 Sport Boys,Sport Boys Association,Peru
 Sport Huancayo,Club Sport Huancayo,Peru
 Sport-PA,,Brazil
 Sporting Cristal,Club Sporting Cristal,Peru
 Sportivo Luqueño,Club Sportivo Luqueño,Paraguay
-Sri Lanka,,National
-Sudan,,National
+Sri Lanka,Sri Lanka,National
+Sudan,Sudan,National
 Sul América-AM,,Brazil
-Suriname,,National
-Surrey,,National/Non-FIFA
-Sweden,,National
-Switzerland,,National
-Syria,,National
-Székely Land,,National/Non-FIFA
-Sápmi,,National/Non-FIFA
+Suriname,Suriname,National
+Surrey,Surrey,National/Non-FIFA
+Sweden,Sweden,National
+Switzerland,Switzerland,National
+Syria,Syria,National
+Székely Land,kely Land,National/Non-FIFA
+Sápmi,pmi,National/Non-FIFA
 São Bento,,Brazil
 São Bernardo,,Brazil
 São Bernardo-SP,,Brazil
@@ -878,50 +878,50 @@ São Raimundo,,Brazil
 São Raimundo-AM,,Brazil
 São Raimundo-PA,,Brazil
 São Raimundo-RR,,Brazil
-São Tomé and Príncipe,,National
+São Tomé and Príncipe,ncipe,National
 Tacuary,,From Libertadores (country to define)
 Taguatinga,,Brazil
 Taguatinga-DF,,Brazil
-Tahiti,,National
-Taiwan,,National
-Tajikistan,,National
+Tahiti,Tahiti,National
+Taiwan,Taiwan,National
+Tajikistan,Tajikistan,National
 Talleres,Club Atlético Talleres,Argentina
-Tamil Eelam,,National/Non-FIFA
-Tanzania,,National
-Thailand,,National
+Tamil Eelam,Tamil Eelam,National/Non-FIFA
+Tanzania,Tanzania,National
+Thailand,Thailand,National
 The Strongest,Club The Strongest,Bolivia
-Tibet,,National
-Ticino,,National/Non-FIFA
+Tibet,Tibet,National
+Ticino,Ticino,National/Non-FIFA
 Tigre,,From Libertadores (country to define)
 Tigres UANL,,From Libertadores (country to define)
 Tigres do Brasil-RJ,,Brazil
 Tijuana,,From Libertadores (country to define)
-Timor-Leste,,National/Non-FIFA
+Timor-Leste,Leste,National/Non-FIFA
 Tiradentes,,Brazil
 Tiradentes-DF,,Brazil
 Tocantins-TO,,Brazil
 Tocantinópolis-TO,,Brazil
-Togo,,National
+Togo,Togo,National
 Toledo-PR,,Brazil
 Tolima,,From Libertadores (country to define)
 Toluca,,From Libertadores (country to define)
 Tombense,,Brazil
-Tonga,,National
+Tonga,Tonga,National
 Trem,,Brazil
 Treze,,Brazil
-Trinidad and Tobago,,National
+Trinidad and Tobago,Trinidad and Tobago,National
 Trujillanos,,From Libertadores (country to define)
 Tubarão,,Brazil
 Tuluá,,From Libertadores (country to define)
 Tuna Luso,,Brazil
-Tunisia,,National
+Tunisia,Tunisia,National
 Tuntum-MA,,Brazil
 Tupi-MG,,Brazil
-Turkey,,National
-Turkmenistan,,National
-Turks and Caicos Islands,,National
-Tuvalu,,National
-Two Sicilies,,National/Non-FIFA
+Turkey,Turkey,National
+Turkmenistan,Turkmenistan,National
+Turks and Caicos Islands,Turks and Caicos Islands,National
+Tuvalu,Tuvalu,National
+Two Sicilies,Two Sicilies,National/Non-FIFA
 Táchira,,From Libertadores (country to define)
 Técnico Universitario,,From Libertadores (country to define)
 U.T. Cajamarca,,From Libertadores (country to define)
@@ -932,15 +932,15 @@ Uberaba-MG,,Brazil
 Uberlândia-MG,,Brazil
 Ubiratan-MS,,Brazil
 Ubiratan-MT,,Brazil
-Uganda,,National
-Ukraine,,National
+Uganda,Uganda,National
+Ukraine,Ukraine,National
 Ulbra Ji-Paraná,,Brazil
 Ulbra-RS,,Brazil
 Uniclinic,,Brazil
-United Arab Emirates,,National
-United Koreans in Japan,,National/Non-FIFA
-United States,,National
-United States Virgin Islands,,National/Non-FIFA
+United Arab Emirates,United Arab Emirates,National
+United Koreans in Japan,United Koreans in Japan,National/Non-FIFA
+United States,United States,National
+United States Virgin Islands,United States Virgin Islands,National/Non-FIFA
 Universidad Católica (Quito),Club Deportivo Universidad Católica,Ecuador
 Universidad Católica (Santiago),Club Deportivo Universidad Católica,Chile
 Universidad César Vallejo,Club Deportivo Universidad César Vallejo,Peru
@@ -966,18 +966,18 @@ Unión La Calera,,From Libertadores (country to define)
 Unión Magdalena,,From Libertadores (country to define)
 Unión San Felipe,,From Libertadores (country to define)
 Urt-MG,,Brazil
-Uruguay,,National
-Uzbekistan,,National
+Uruguay,Uruguay,National
+Uzbekistan,Uzbekistan,National
 Valdez S.C.,,From Libertadores (country to define)
 Valencia,,From Libertadores (country to define)
-Vanuatu,,National
+Vanuatu,Vanuatu,National
 Vasco da Gama,Club de Regatas Vasco da Gama,Brazil
 Vasco da Gama-AC,,Brazil
-Vatican City,,National/Non-FIFA
-Venezuela,,National
+Vatican City,Vatican City,National/Non-FIFA
+Venezuela,Venezuela,National
 Veranópolis-RS,,Brazil
-Vietnam,,National
-Vietnam Republic,,National/Non-FIFA
+Vietnam,Vietnam,National
+Vietnam Republic,Vietnam Republic,National/Non-FIFA
 Vila Aurora-MT,,Brazil
 Vila Nova-GO,,Brazil
 Vilavelhense-ES,,Brazil
@@ -990,34 +990,32 @@ Vitória da Conquista-BA,,Brazil
 Vitória-ES,,Brazil
 Volta Redonda,,Brazil
 Votoraty,,Brazil
-Votuporanguense-SP,,Brazil
+Votuporanguense,Clube Atlético Votuporanguense,Brazil
 Vélez Sarsfield,Club Atlético Vélez Sarsfield,Argentina
-Wales,,National
-Wallis Islands and Futuna,,National/Non-FIFA
-West Papua,,National/Non-FIFA
-Western Armenia,,National/Non-FIFA
-Western Australia,,National/Non-FIFA
-Western Isles,,National/Non-FIFA
-Western Sahara,,National
-Western Samoa,,National/Non-FIFA
-XV de Novembro,,Brazil
-XV de Novembro de Jaú,,Brazil
-XV de Novembro-RS,,Brazil
-XV de Piracicaba,,Brazil
-Yemen,,National
-Yemen DPR,,National/Non-FIFA
-Ynys Môn,,National/Non-FIFA
-Yorkshire,,National/Non-FIFA
-Yoruba Nation,,National/Non-FIFA
-Ypiranga,,Brazil
-Ypiranga-AP,,Brazil
-Ypiranga-RS,,Brazil
-Yugoslavia,,National/Non-FIFA
-Zambia,,National
+Wales,Wales,National
+Wallis Islands and Futuna,Wallis Islands and Futuna,National/Non-FIFA
+West Papua,West Papua,National/Non-FIFA
+Western Armenia,Western Armenia,National/Non-FIFA
+Western Australia,Western Australia,National/Non-FIFA
+Western Isles,Western Isles,National/Non-FIFA
+Western Sahara,Western Sahara,National
+Western Samoa,Western Samoa,National/Non-FIFA
+XV de Jaú,Esporte Clube XV de Novembro (Jaú),Brazil
+XV de Novembro,Clube 15 de Novembro,Brazil
+XV de Piracicaba,Esporte Clube XV de Novembro (Piracicaba),Brazil
+Yemen,Yemen,National
+Yemen DPR,Yemen DPR,National/Non-FIFA
+Ynys Môn,Ynys Môn,National/Non-FIFA
+Yorkshire,Yorkshire,National/Non-FIFA
+Yoruba Nation,Yoruba Nation,National/Non-FIFA
+Ypiranga-AP,Ypiranga Clube,Brazil
+Ypiranga-RS,Ypiranga Futebol Clube,Brazil
+Yugoslavia,Yugoslavia,National/Non-FIFA
+Zambia,Zambia,National
 Zamora,Zamora Fútbol Club,Venezuela
-Zanzibar,,National
-Zimbabwe,,National
+Zanzibar,Zanzibar,National
+Zimbabwe,Zimbabwe,National
 Zulia,Zulia Fútbol Club,Venezuela
-Águia Negra,,Brazil
-Águia de Marabá,,Brazil
-Åland Islands,,National/Non-FIFA
+Águia Negra,Esporte Clube Águia Negra,Brazil
+Águia de Marabá,Águia de Marabá Futebol Clube,Brazil
+Åland Islands,land Islands,National/Non-FIFA

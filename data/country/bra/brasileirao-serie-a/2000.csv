@@ -302,14 +302,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-08-08,Botafogo-SP,1,1,União São João,False,False,First Round,Brasileirão Série A,2000
 2000-08-08,São Caetano,3,1,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-08-08,Bangu,0,1,América-RJ,False,False,First Round,Brasileirão Série A,2000
-2000-08-09,XV de Novembro,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
+2000-08-09,XV de Piracicaba,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,Paraná,1,0,Marcílio Dias,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,Joinville,0,0,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,Criciúma,2,0,Londrina,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,Caxias,1,1,Americano,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,GE Brasil,0,2,Avaí,False,False,First Round,Brasileirão Série A,2000
 2000-08-11,América-RJ,1,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2000
-2000-08-13,Londrina,0,3,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-08-13,Londrina,0,3,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-08-13,Figueirense,3,0,Joinville,False,False,First Round,Brasileirão Série A,2000
 2000-08-13,Avaí,2,0,Criciúma,False,False,First Round,Brasileirão Série A,2000
 2000-08-13,Marcílio Dias,1,0,GE Brasil,False,False,First Round,Brasileirão Série A,2000
@@ -321,14 +321,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-08-16,Joinville,1,1,Londrina,False,False,First Round,Brasileirão Série A,2000
 2000-08-16,Botafogo-SP,0,0,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-08-16,GE Brasil,1,1,União São João,False,False,First Round,Brasileirão Série A,2000
-2000-08-16,XV de Novembro,1,0,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
+2000-08-16,XV de Piracicaba,1,0,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
 2000-08-16,São Caetano,2,1,Marcílio Dias,False,False,First Round,Brasileirão Série A,2000
 2000-08-16,América-RJ,2,1,Avaí,False,False,First Round,Brasileirão Série A,2000
 2000-08-17,Bangu,3,0,Criciúma,False,False,First Round,Brasileirão Série A,2000
 2000-08-17,Caxias,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,Villa Nova-MG,1,0,Paraná,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,Criciúma,1,3,São Caetano,False,False,First Round,Brasileirão Série A,2000
-2000-08-20,Figueirense,1,0,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-08-20,Figueirense,1,0,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,RB Bragantino,2,2,GE Brasil,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,Botafogo-SP,0,0,Avaí,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,Americano,2,1,Bangu,False,False,First Round,Brasileirão Série A,2000
@@ -337,7 +337,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-08-21,União São João,0,0,Caxias,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,São Caetano,5,3,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,América-RJ,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
-2000-08-23,XV de Novembro,3,1,Criciúma,False,False,First Round,Brasileirão Série A,2000
+2000-08-23,XV de Piracicaba,3,1,Criciúma,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,Paraná,3,0,Londrina,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,Joinville,3,0,Americano,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,Avaí,2,2,Bangu,False,False,First Round,Brasileirão Série A,2000
@@ -346,13 +346,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-08-26,Criciúma,1,0,Paraná,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,São Caetano,4,3,Avaí,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,Botafogo-SP,3,1,GE Brasil,False,False,First Round,Brasileirão Série A,2000
-2000-08-27,União São João,2,2,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-08-27,União São João,2,2,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,RB Bragantino,2,1,Londrina,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,Figueirense,3,2,Caxias,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,Marcílio Dias,1,2,Americano,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,Bangu,1,0,Joinville,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,Villa Nova-MG,2,1,América-RJ,False,False,First Round,Brasileirão Série A,2000
-2000-08-30,XV de Novembro,0,1,Avaí,False,False,First Round,Brasileirão Série A,2000
+2000-08-30,XV de Piracicaba,0,1,Avaí,False,False,First Round,Brasileirão Série A,2000
 2000-08-30,Paraná,2,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,2000
 2000-08-30,América-RJ,0,0,Criciúma,False,False,First Round,Brasileirão Série A,2000
 2000-08-30,Americano,2,0,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
@@ -361,7 +361,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-08-30,Joinville,0,0,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-08-30,Londrina,1,1,União São João,False,False,First Round,Brasileirão Série A,2000
 2000-08-30,GE Brasil,4,1,Bangu,False,False,First Round,Brasileirão Série A,2000
-2000-09-02,XV de Novembro,2,3,Caxias,False,False,First Round,Brasileirão Série A,2000
+2000-09-02,XV de Piracicaba,2,3,Caxias,False,False,First Round,Brasileirão Série A,2000
 2000-09-02,Bangu,1,1,São Caetano,False,False,First Round,Brasileirão Série A,2000
 2000-09-02,RB Bragantino,0,0,Marcílio Dias,False,False,First Round,Brasileirão Série A,2000
 2000-09-02,Villa Nova-MG,0,0,Figueirense,False,False,First Round,Brasileirão Série A,2000
@@ -376,20 +376,20 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-06,Americano,1,1,América-RJ,False,False,First Round,Brasileirão Série A,2000
 2000-09-06,Londrina,1,0,Bangu,False,False,First Round,Brasileirão Série A,2000
 2000-09-06,RB Bragantino,1,1,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
-2000-09-06,GE Brasil,0,0,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-09-06,GE Brasil,0,0,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-09-06,Marcílio Dias,2,2,Avaí,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,Americano,2,1,Londrina,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,Bangu,0,0,Paraná,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,Criciúma,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,Botafogo-SP,5,2,Marcílio Dias,False,False,First Round,Brasileirão Série A,2000
-2000-09-10,XV de Novembro,1,0,Joinville,False,False,First Round,Brasileirão Série A,2000
+2000-09-10,XV de Piracicaba,1,0,Joinville,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,União São João,4,3,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,São Caetano,3,0,GE Brasil,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,Avaí,1,1,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-09-11,América-RJ,2,3,Caxias,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,Paraná,0,0,São Caetano,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,Botafogo-SP,3,0,Bangu,False,False,First Round,Brasileirão Série A,2000
-2000-09-13,Marcílio Dias,2,1,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-09-13,Marcílio Dias,2,1,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,RB Bragantino,0,0,Americano,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,Londrina,0,1,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,Avaí,1,1,União São João,False,False,First Round,Brasileirão Série A,2000
@@ -398,7 +398,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-14,GE Brasil,2,1,América-RJ,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,GE Brasil,3,1,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,Caxias,3,1,Londrina,False,False,First Round,Brasileirão Série A,2000
-2000-09-17,XV de Novembro,1,2,Paraná,False,False,First Round,Brasileirão Série A,2000
+2000-09-17,XV de Piracicaba,1,2,Paraná,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,São Caetano,1,1,União São João,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,Americano,1,1,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,Marcílio Dias,0,0,Bangu,False,False,First Round,Brasileirão Série A,2000
@@ -407,14 +407,14 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-17,Avaí,1,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,União São João,4,2,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Joinville,2,0,Botafogo-SP,False,False,First Round,Brasileirão Série A,2000
-2000-09-20,São Caetano,5,0,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-09-20,São Caetano,5,0,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Villa Nova-MG,0,0,Marcílio Dias,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Figueirense,2,0,América-RJ,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Bangu,3,2,Caxias,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Londrina,2,1,GE Brasil,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Criciúma,3,0,Americano,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Paraná,4,1,Avaí,False,False,First Round,Brasileirão Série A,2000
-2000-09-24,Bangu,5,1,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-09-24,Bangu,5,1,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,América-RJ,3,2,São Caetano,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Botafogo-SP,2,1,Villa Nova-MG,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Paraná,0,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
@@ -423,7 +423,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-24,GE Brasil,0,1,Joinville,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Americano,0,0,União São João,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Avaí,1,1,Caxias,False,False,First Round,Brasileirão Série A,2000
-2000-09-27,XV de Novembro,0,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,2000
+2000-09-27,XV de Piracicaba,0,1,Botafogo-SP,False,False,First Round,Brasileirão Série A,2000
 2000-09-27,RB Bragantino,1,1,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-09-27,União São João,0,2,Criciúma,False,False,First Round,Brasileirão Série A,2000
 2000-09-27,Joinville,1,0,São Caetano,False,False,First Round,Brasileirão Série A,2000
@@ -435,7 +435,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-30,GE Brasil,0,2,Figueirense,False,False,First Round,Brasileirão Série A,2000
 2000-09-30,Caxias,1,0,Criciúma,False,False,First Round,Brasileirão Série A,2000
 2000-10-02,Botafogo-SP,2,1,Americano,False,False,First Round,Brasileirão Série A,2000
-2000-10-04,XV de Novembro,3,1,América-RJ,False,False,First Round,Brasileirão Série A,2000
+2000-10-04,XV de Piracicaba,3,1,América-RJ,False,False,First Round,Brasileirão Série A,2000
 2000-10-04,São Caetano,3,1,RB Bragantino,False,False,First Round,Brasileirão Série A,2000
 2000-10-04,Bangu,2,1,União São João,False,False,First Round,Brasileirão Série A,2000
 2000-10-04,Paraná,2,1,Figueirense,False,False,First Round,Brasileirão Série A,2000
@@ -443,7 +443,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-10-04,Criciúma,1,0,GE Brasil,False,False,First Round,Brasileirão Série A,2000
 2000-10-04,Caxias,3,3,Marcílio Dias,False,False,First Round,Brasileirão Série A,2000
 2000-10-04,Joinville,2,2,Avaí,False,False,First Round,Brasileirão Série A,2000
-2000-10-07,Americano,2,2,XV de Novembro,False,False,First Round,Brasileirão Série A,2000
+2000-10-07,Americano,2,2,XV de Piracicaba,False,False,First Round,Brasileirão Série A,2000
 2000-10-07,RB Bragantino,0,2,Botafogo-SP,False,False,First Round,Brasileirão Série A,2000
 2000-10-07,União São João,1,1,Joinville,False,False,First Round,Brasileirão Série A,2000
 2000-10-07,Figueirense,1,1,Bangu,False,False,First Round,Brasileirão Série A,2000
@@ -723,38 +723,38 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-24,Camaçari,0,0,Sergipe,False,False,First Round,Brasileirão Série A,2000
 2000-08-06,Rio Branco-AC,4,2,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
 2000-08-06,Genus,2,1,Rio Negro,False,False,First Round,Brasileirão Série A,2000
-2000-08-06,Ypiranga,3,0,Baré,False,False,First Round,Brasileirão Série A,2000
+2000-08-06,Ypiranga-AP,3,0,Baré,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,Rio Branco-AC,2,0,Genus,False,False,First Round,Brasileirão Série A,2000
 2000-08-09,Rio Negro,0,2,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
 2000-08-30,Baré,2,1,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
-2000-08-12,Flamengo-PI,4,0,Ypiranga,False,False,First Round,Brasileirão Série A,2000
+2000-08-12,Flamengo-PI,4,0,Ypiranga-AP,False,False,First Round,Brasileirão Série A,2000
 2000-08-13,Genus,1,3,Baré,False,False,First Round,Brasileirão Série A,2000
 2000-08-15,Tocantinópolis-TO,1,1,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
-2000-08-16,Ypiranga,5,3,Genus,False,False,First Round,Brasileirão Série A,2000
+2000-08-16,Ypiranga-AP,5,3,Genus,False,False,First Round,Brasileirão Série A,2000
 2000-08-16,Baré,0,0,Rio Negro,False,False,First Round,Brasileirão Série A,2000
 2000-08-17,Flamengo-PI,2,0,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,Rio Negro,0,2,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
-2000-08-20,Rio Branco-AC,2,2,Ypiranga,False,False,First Round,Brasileirão Série A,2000
+2000-08-20,Rio Branco-AC,2,2,Ypiranga-AP,False,False,First Round,Brasileirão Série A,2000
 2000-08-20,Genus,0,1,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,Tocantinópolis-TO,4,0,Genus,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,Baré,2,1,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
-2000-08-23,Ypiranga,1,0,Rio Negro,False,False,First Round,Brasileirão Série A,2000
+2000-08-23,Ypiranga-AP,1,0,Rio Negro,False,False,First Round,Brasileirão Série A,2000
 2000-08-26,Flamengo-PI,1,0,Baré,False,False,First Round,Brasileirão Série A,2000
 2000-08-27,Rio Negro,2,1,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
-2000-08-27,Tocantinópolis-TO,1,0,Ypiranga,False,False,First Round,Brasileirão Série A,2000
+2000-08-27,Tocantinópolis-TO,1,0,Ypiranga-AP,False,False,First Round,Brasileirão Série A,2000
 2000-09-02,Rio Branco-AC,3,0,Rio Negro,False,False,First Round,Brasileirão Série A,2000
-2000-09-02,Ypiranga,3,0,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
+2000-09-02,Ypiranga-AP,3,0,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
 2000-09-02,Baré,1,0,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
 2000-09-06,Genus,2,3,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
 2000-09-06,Rio Branco-AC,1,0,Baré,False,False,First Round,Brasileirão Série A,2000
-2000-09-06,Rio Negro,2,0,Ypiranga,False,False,First Round,Brasileirão Série A,2000
+2000-09-06,Rio Negro,2,0,Ypiranga-AP,False,False,First Round,Brasileirão Série A,2000
 2000-09-09,Flamengo-PI,1,0,Genus,False,False,First Round,Brasileirão Série A,2000
 2000-09-10,Tocantinópolis-TO,3,1,Rio Negro,False,False,First Round,Brasileirão Série A,2000
-2000-09-10,Ypiranga,1,0,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
+2000-09-10,Ypiranga-AP,1,0,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,Tocantinópolis-TO,1,0,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
-2000-09-13,Genus,3,2,Ypiranga,False,False,First Round,Brasileirão Série A,2000
+2000-09-13,Genus,3,2,Ypiranga-AP,False,False,First Round,Brasileirão Série A,2000
 2000-09-13,Rio Negro,1,0,Baré,False,False,First Round,Brasileirão Série A,2000
-2000-09-17,Ypiranga,3,1,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
+2000-09-17,Ypiranga-AP,3,1,Flamengo-PI,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,Rio Branco-AC,2,1,Tocantinópolis-TO,False,False,First Round,Brasileirão Série A,2000
 2000-09-17,Baré,9,1,Genus,False,False,First Round,Brasileirão Série A,2000
 2000-09-20,Flamengo-PI,1,1,Rio Negro,False,False,First Round,Brasileirão Série A,2000
@@ -762,7 +762,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-20,Genus,2,2,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Rio Negro,4,2,Genus,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Flamengo-PI,3,1,Rio Branco-AC,False,False,First Round,Brasileirão Série A,2000
-2000-09-24,Baré,3,3,Ypiranga,False,False,First Round,Brasileirão Série A,2000
+2000-09-24,Baré,3,3,Ypiranga-AP,False,False,First Round,Brasileirão Série A,2000
 2000-08-04,Comercial-MS,1,0,Operário-MS,False,False,First Round,Brasileirão Série A,2000
 2000-08-23,Brasília,0,1,Atlético-GO,False,False,First Round,Brasileirão Série A,2000
 2000-08-06,Operário-MS,1,2,Atlético-GO,False,False,First Round,Brasileirão Série A,2000
@@ -794,17 +794,17 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2000-09-24,Atlético-GO,0,1,Operário-MS,False,False,First Round,Brasileirão Série A,2000
 2000-09-24,Dom Pedro II,2,0,Brasília,False,False,First Round,Brasileirão Série A,2000
 2000-09-30,Tuna Luso,2,0,Juazeiro,False,False,Second Round,Brasileirão Série A,2000
-2000-09-30,Ypiranga,2,1,Atlético-GO,False,False,Second Round,Brasileirão Série A,2000
-2000-10-04,Juazeiro,2,1,Ypiranga,False,False,Second Round,Brasileirão Série A,2000
+2000-09-30,Ypiranga-AP,2,1,Atlético-GO,False,False,Second Round,Brasileirão Série A,2000
+2000-10-04,Juazeiro,2,1,Ypiranga-AP,False,False,Second Round,Brasileirão Série A,2000
 2000-10-04,Atlético-GO,0,1,Tuna Luso,False,False,Second Round,Brasileirão Série A,2000
-2000-10-07,Tuna Luso,1,0,Ypiranga,False,False,Second Round,Brasileirão Série A,2000
+2000-10-07,Tuna Luso,1,0,Ypiranga-AP,False,False,Second Round,Brasileirão Série A,2000
 2000-10-07,Atlético-GO,1,2,Juazeiro,False,False,Second Round,Brasileirão Série A,2000
 2000-10-11,Juazeiro,2,0,Atlético-GO,False,False,Second Round,Brasileirão Série A,2000
-2000-10-11,Ypiranga,2,1,Tuna Luso,False,False,Second Round,Brasileirão Série A,2000
+2000-10-11,Ypiranga-AP,2,1,Tuna Luso,False,False,Second Round,Brasileirão Série A,2000
 2000-10-15,Tuna Luso,3,2,Atlético-GO,False,False,Second Round,Brasileirão Série A,2000
-2000-10-15,Ypiranga,3,2,Juazeiro,False,False,Second Round,Brasileirão Série A,2000
+2000-10-15,Ypiranga-AP,3,2,Juazeiro,False,False,Second Round,Brasileirão Série A,2000
 2000-10-19,Juazeiro,5,0,Tuna Luso,False,False,Second Round,Brasileirão Série A,2000
-2000-10-19,Atlético-GO,3,2,Ypiranga,False,False,Second Round,Brasileirão Série A,2000
+2000-10-19,Atlético-GO,3,2,Ypiranga-AP,False,False,Second Round,Brasileirão Série A,2000
 2000-09-30,Corinthians-AL,1,3,Central,False,False,Second Round,Brasileirão Série A,2000
 2000-09-30,Dom Pedro II,2,1,Tocantinópolis-TO,False,False,Second Round,Brasileirão Série A,2000
 2000-10-04,Central,0,0,Dom Pedro II,False,False,Second Round,Brasileirão Série A,2000

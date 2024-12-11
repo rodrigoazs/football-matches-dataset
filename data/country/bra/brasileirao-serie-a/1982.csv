@@ -140,24 +140,24 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1982-02-17,Ponte Preta-SP,1,0,Grêmio Maringá,False,False,First Round,Brasileirão Série A,1982
 1982-02-17,Taguatinga,3,1,Goiás,False,False,First Round,Brasileirão Série A,1982
 1982-01-17,Londrina,3,0,Joinville,False,False,First Round,Brasileirão Série A,1982
-1982-01-17,Anapolina,1,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-01-17,Anapolina,1,1,XV de Jaú,False,False,First Round,Brasileirão Série A,1982
 1982-01-20,Joinville,0,3,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
-1982-01-20,XV de Novembro,3,0,Londrina,False,False,First Round,Brasileirão Série A,1982
+1982-01-20,XV de Jaú,3,0,Londrina,False,False,First Round,Brasileirão Série A,1982
 1982-01-24,Anapolina,3,1,Londrina,False,False,First Round,Brasileirão Série A,1982
-1982-01-24,Internacional-SM,2,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-01-24,Internacional-SM,2,1,XV de Jaú,False,False,First Round,Brasileirão Série A,1982
 1982-01-28,Internacional-SM,0,0,Anapolina,False,False,First Round,Brasileirão Série A,1982
-1982-01-28,Joinville,3,0,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-01-28,Joinville,3,0,XV de Jaú,False,False,First Round,Brasileirão Série A,1982
 1982-01-31,Londrina,3,0,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
 1982-01-31,Joinville,0,1,Anapolina,False,False,First Round,Brasileirão Série A,1982
 1982-02-03,Londrina,1,0,Anapolina,False,False,First Round,Brasileirão Série A,1982
-1982-02-03,XV de Novembro,1,1,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
-1982-02-07,XV de Novembro,1,0,Joinville,False,False,First Round,Brasileirão Série A,1982
+1982-02-03,XV de Jaú,1,1,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
+1982-02-07,XV de Jaú,1,0,Joinville,False,False,First Round,Brasileirão Série A,1982
 1982-02-07,Anapolina,3,1,Internacional-SM,False,False,First Round,Brasileirão Série A,1982
 1982-02-10,Internacional-SM,2,2,Londrina,False,False,First Round,Brasileirão Série A,1982
 1982-02-10,Anapolina,4,2,Joinville,False,False,First Round,Brasileirão Série A,1982
-1982-02-14,XV de Novembro,2,3,Anapolina,False,False,First Round,Brasileirão Série A,1982
+1982-02-14,XV de Jaú,2,3,Anapolina,False,False,First Round,Brasileirão Série A,1982
 1982-02-14,Joinville,3,1,Londrina,False,False,First Round,Brasileirão Série A,1982
-1982-02-17,Londrina,0,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1982
+1982-02-17,Londrina,0,1,XV de Jaú,False,False,First Round,Brasileirão Série A,1982
 1982-02-17,Internacional-SM,3,3,Joinville,False,False,First Round,Brasileirão Série A,1982
 1982-02-20,Paysandu,3,1,América-RN,False,True,relegation,Brasileirão Série A,1982
 1982-02-20,Náutico,6,2,CSA,False,True,relegation,Brasileirão Série A,1982
@@ -200,16 +200,16 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1982-03-25,Atlético Mineiro,2,1,Internacional,False,False,Second Round,Brasileirão Série A,1982
 1982-03-25,Flamengo,2,0,Corinthians,False,False,Second Round,Brasileirão Série A,1982
 1982-02-28,Paysandu,0,2,Sport,False,False,Second Round,Brasileirão Série A,1982
-1982-02-28,Bahia,1,2,XV de Novembro,False,False,Second Round,Brasileirão Série A,1982
-1982-03-07,Sport,4,0,XV de Novembro,False,False,Second Round,Brasileirão Série A,1982
+1982-02-28,Bahia,1,2,XV de Jaú,False,False,Second Round,Brasileirão Série A,1982
+1982-03-07,Sport,4,0,XV de Jaú,False,False,Second Round,Brasileirão Série A,1982
 1982-03-07,Bahia,2,3,Paysandu,False,False,Second Round,Brasileirão Série A,1982
 1982-03-11,Sport,0,2,Bahia,False,False,Second Round,Brasileirão Série A,1982
-1982-03-11,XV de Novembro,1,1,Paysandu,False,False,Second Round,Brasileirão Série A,1982
-1982-03-14,XV de Novembro,2,2,Sport,False,False,Second Round,Brasileirão Série A,1982
+1982-03-11,XV de Jaú,1,1,Paysandu,False,False,Second Round,Brasileirão Série A,1982
+1982-03-14,XV de Jaú,2,2,Sport,False,False,Second Round,Brasileirão Série A,1982
 1982-03-14,Paysandu,1,3,Bahia,False,False,Second Round,Brasileirão Série A,1982
-1982-03-17,Paysandu,1,1,XV de Novembro,False,False,Second Round,Brasileirão Série A,1982
+1982-03-17,Paysandu,1,1,XV de Jaú,False,False,Second Round,Brasileirão Série A,1982
 1982-03-17,Bahia,0,0,Sport,False,False,Second Round,Brasileirão Série A,1982
-1982-03-25,XV de Novembro,1,1,Bahia,False,False,Second Round,Brasileirão Série A,1982
+1982-03-25,XV de Jaú,1,1,Bahia,False,False,Second Round,Brasileirão Série A,1982
 1982-03-25,Sport,3,0,Paysandu,False,False,Second Round,Brasileirão Série A,1982
 1982-02-28,Santos,1,0,Internacional-SP,False,False,Second Round,Brasileirão Série A,1982
 1982-02-28,São Paulo-RS,1,0,Bangu,False,False,Second Round,Brasileirão Série A,1982

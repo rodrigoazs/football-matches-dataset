@@ -39,8 +39,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-02-22,América Mineiro,2,1,Volta Redonda,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Piauí-PI,1,2,Grêmio,False,False,First Round,Copa de Brasil,2006
 2006-03-08,Grêmio,4,0,Piauí-PI,False,False,First Round,Copa de Brasil,2006
-2006-02-22,XV de Novembro-RS,4,1,Noroeste-SP,False,False,First Round,Copa de Brasil,2006
-2006-03-08,Noroeste-SP,2,0,XV de Novembro-RS,False,False,First Round,Copa de Brasil,2006
+2006-02-22,15 de Novembro,4,1,Noroeste-SP,False,False,First Round,Copa de Brasil,2006
+2006-03-08,Noroeste-SP,2,0,15 de Novembro,False,False,First Round,Copa de Brasil,2006
 2006-02-22,Operário-MT,2,3,Fluminense,False,False,First Round,Copa de Brasil,2006
 2006-03-09,Fluminense,3,1,Operário-MT,False,False,First Round,Copa de Brasil,2006
 2006-02-22,CENE,2,1,Treze,False,False,First Round,Copa de Brasil,2006
@@ -74,8 +74,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-03-22,Criciúma,4,0,São Caetano,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,Volta Redonda,2,1,Athletico Paranaense,False,False,Second Round,Copa de Brasil,2006
 2006-04-05,Athletico Paranaense,0,0,Volta Redonda,False,False,Second Round,Copa de Brasil,2006
-2006-03-15,XV de Novembro,1,0,Grêmio,False,False,Second Round,Copa de Brasil,2006
-2006-03-23,Grêmio,1,0,XV de Novembro,False,False,Second Round,Copa de Brasil,2006
+2006-03-15,15 de Novembro,1,0,Grêmio,False,False,Second Round,Copa de Brasil,2006
+2006-03-23,Grêmio,1,0,15 de Novembro,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,CENE,3,5,Fluminense,False,False,Second Round,Copa de Brasil,2006
 2006-03-22,Vila Nova-GO,3,1,Paysandu,False,False,Second Round,Copa de Brasil,2006
 2006-04-05,Paysandu,1,0,Vila Nova-GO,False,False,Second Round,Copa de Brasil,2006
@@ -92,8 +92,8 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 2006-04-19,Brasiliense,1,1,Santos,False,False,Round of 16,Copa de Brasil,2006
 2006-04-12,Criciúma,1,2,Vasco da Gama,False,False,Round of 16,Copa de Brasil,2006
 2006-04-20,Vasco da Gama,1,0,Criciúma,False,False,Round of 16,Copa de Brasil,2006
-2006-04-12,Volta Redonda,1,0,XV de Novembro,False,False,Round of 16,Copa de Brasil,2006
-2006-04-19,XV de Novembro,2,1,Volta Redonda,False,False,Round of 16,Copa de Brasil,2006
+2006-04-12,Volta Redonda,1,0,15 de Novembro,False,False,Round of 16,Copa de Brasil,2006
+2006-04-19,15 de Novembro,2,1,Volta Redonda,False,False,Round of 16,Copa de Brasil,2006
 2006-04-12,Vila Nova-GO,2,2,Fluminense,False,False,Round of 16,Copa de Brasil,2006
 2006-04-19,Fluminense,4,0,Vila Nova-GO,False,False,Round of 16,Copa de Brasil,2006
 2006-04-12,Vitória,2,1,Cruzeiro,False,False,Round of 16,Copa de Brasil,2006

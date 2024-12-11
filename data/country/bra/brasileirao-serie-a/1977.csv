@@ -45,32 +45,32 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1977-11-27,Avaí,0,0,Internacional,False,False,First Round,Brasileirão Série A,1977
 1977-11-27,Joinville,2,1,Grêmio Maringá,False,False,First Round,Brasileirão Série A,1977
 1977-10-16,Botafogo-PB,1,0,Sport,False,False,First Round,Brasileirão Série A,1977
-1977-10-16,XV de Novembro,0,0,CSA,False,False,First Round,Brasileirão Série A,1977
+1977-10-16,XV de Piracicaba,0,0,CSA,False,False,First Round,Brasileirão Série A,1977
 1977-10-16,Náutico,0,1,São Paulo,False,False,First Round,Brasileirão Série A,1977
 1977-10-19,Treze,2,2,Sport,False,False,First Round,Brasileirão Série A,1977
 1977-10-19,Palmeiras,1,0,CSA,False,False,First Round,Brasileirão Série A,1977
 1977-10-19,Botafogo-PB,0,2,São Paulo,False,False,First Round,Brasileirão Série A,1977
-1977-10-20,CRB,0,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1977
+1977-10-20,CRB,0,1,XV de Piracicaba,False,False,First Round,Brasileirão Série A,1977
 1977-10-23,Treze,1,1,Palmeiras,False,False,First Round,Brasileirão Série A,1977
 1977-10-23,CSA,0,0,São Paulo,False,False,First Round,Brasileirão Série A,1977
-1977-10-23,Sport,1,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1977
+1977-10-23,Sport,1,1,XV de Piracicaba,False,False,First Round,Brasileirão Série A,1977
 1977-10-23,Botafogo-PB,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1977
-1977-10-26,Treze,0,0,XV de Novembro,False,False,First Round,Brasileirão Série A,1977
+1977-10-26,Treze,0,0,XV de Piracicaba,False,False,First Round,Brasileirão Série A,1977
 1977-10-26,Sport,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1977
 1977-10-27,Náutico,1,0,CRB,False,False,First Round,Brasileirão Série A,1977
 1977-10-30,Santa Cruz,6,0,Treze,False,False,First Round,Brasileirão Série A,1977
 1977-10-30,Botafogo-PB,0,1,CRB,False,False,First Round,Brasileirão Série A,1977
 1977-10-30,CSA,2,0,Náutico,False,False,First Round,Brasileirão Série A,1977
-1977-10-30,Palmeiras,1,1,XV de Novembro,False,False,First Round,Brasileirão Série A,1977
-1977-11-02,XV de Novembro,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1977
+1977-10-30,Palmeiras,1,1,XV de Piracicaba,False,False,First Round,Brasileirão Série A,1977
+1977-11-02,XV de Piracicaba,1,1,São Paulo,False,False,First Round,Brasileirão Série A,1977
 1977-11-02,Santa Cruz,5,1,CRB,False,False,First Round,Brasileirão Série A,1977
 1977-11-03,Palmeiras,3,2,Náutico,False,False,First Round,Brasileirão Série A,1977
 1977-11-06,São Paulo,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1977
 1977-11-06,Botafogo-PB,0,0,Treze,False,False,First Round,Brasileirão Série A,1977
 1977-11-06,CSA,1,1,CRB,False,False,First Round,Brasileirão Série A,1977
 1977-11-06,Santa Cruz,1,1,Sport,False,False,First Round,Brasileirão Série A,1977
-1977-11-06,XV de Novembro,0,0,Náutico,False,False,First Round,Brasileirão Série A,1977
-1977-11-10,XV de Novembro,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1977
+1977-11-06,XV de Piracicaba,0,0,Náutico,False,False,First Round,Brasileirão Série A,1977
+1977-11-10,XV de Piracicaba,0,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1977
 1977-11-12,CSA,3,1,Botafogo-PB,False,False,First Round,Brasileirão Série A,1977
 1977-11-13,São Paulo,1,0,Santa Cruz,False,False,First Round,Brasileirão Série A,1977
 1977-11-13,Náutico,0,0,Sport,False,False,First Round,Brasileirão Série A,1977
@@ -79,7 +79,7 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1977-11-16,CSA,0,1,Santa Cruz,False,False,First Round,Brasileirão Série A,1977
 1977-11-17,Palmeiras,2,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1977
 1977-11-20,Náutico,1,2,Santa Cruz,False,False,First Round,Brasileirão Série A,1977
-1977-11-20,XV de Novembro,2,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1977
+1977-11-20,XV de Piracicaba,2,0,Botafogo-PB,False,False,First Round,Brasileirão Série A,1977
 1977-11-20,CRB,6,4,Sport,False,False,First Round,Brasileirão Série A,1977
 1977-11-23,CRB,0,2,Palmeiras,False,False,First Round,Brasileirão Série A,1977
 1977-11-23,Treze,0,1,CSA,False,False,First Round,Brasileirão Série A,1977
@@ -329,13 +329,13 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1977-12-14,Botafogo,3,1,CSA,False,False,Second Round,Brasileirão Série A,1977
 1977-12-15,Fluminense,0,0,Botafogo-SP,False,False,Second Round,Brasileirão Série A,1977
 1977-12-18,CSA,0,2,Operário-MT,False,False,Second Round,Brasileirão Série A,1977
-1977-12-01,ABC,1,0,XV de Novembro,False,False,Second Round,Brasileirão Série A,1977
+1977-12-01,ABC,1,0,XV de Piracicaba,False,False,Second Round,Brasileirão Série A,1977
 1977-12-04,Flamengo,3,1,Cruzeiro,False,False,Second Round,Brasileirão Série A,1977
-1977-12-04,XV de Novembro,3,0,Grêmio Maringá,False,False,Second Round,Brasileirão Série A,1977
-1977-12-07,XV de Novembro,1,0,Flamengo,False,False,Second Round,Brasileirão Série A,1977
+1977-12-04,XV de Piracicaba,3,0,Grêmio Maringá,False,False,Second Round,Brasileirão Série A,1977
+1977-12-07,XV de Piracicaba,1,0,Flamengo,False,False,Second Round,Brasileirão Série A,1977
 1977-12-11,Grêmio Maringá,0,1,Flamengo,False,False,Second Round,Brasileirão Série A,1977
 1977-12-11,ABC,2,2,Cruzeiro,False,False,Second Round,Brasileirão Série A,1977
-1977-12-14,Cruzeiro,2,0,XV de Novembro,False,False,Second Round,Brasileirão Série A,1977
+1977-12-14,Cruzeiro,2,0,XV de Piracicaba,False,False,Second Round,Brasileirão Série A,1977
 1977-12-14,Grêmio Maringá,3,0,ABC,False,False,Second Round,Brasileirão Série A,1977
 1977-12-15,Flamengo,1,0,ABC,False,False,Second Round,Brasileirão Série A,1977
 1977-12-18,Cruzeiro,0,0,Grêmio Maringá,False,False,Second Round,Brasileirão Série A,1977
@@ -448,21 +448,21 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1978-02-22,América-RN,2,2,Cruzeiro,False,False,Third Round,Brasileirão Série A,1977
 1978-02-22,Atlético Mineiro,4,0,Bahia,False,False,Third Round,Brasileirão Série A,1977
 1978-02-22,Botafogo,3,1,Fast Clube,False,False,Third Round,Brasileirão Série A,1977
-1978-01-28,São Paulo,4,2,XV de Novembro,False,False,Third Round,Brasileirão Série A,1977
+1978-01-28,São Paulo,4,2,XV de Piracicaba,False,False,Third Round,Brasileirão Série A,1977
 1978-01-29,Grêmio,1,0,Sport,False,False,Third Round,Brasileirão Série A,1977
 1978-01-29,Ponte Preta-SP,4,1,Botafogo-SP,False,False,Third Round,Brasileirão Série A,1977
-1978-02-01,XV de Novembro,0,1,Grêmio,False,False,Third Round,Brasileirão Série A,1977
+1978-02-01,XV de Piracicaba,0,1,Grêmio,False,False,Third Round,Brasileirão Série A,1977
 1978-02-01,Ponte Preta-SP,1,3,São Paulo,False,False,Third Round,Brasileirão Série A,1977
 1978-02-01,Sport,1,2,Botafogo-SP,False,False,Third Round,Brasileirão Série A,1977
-1978-02-12,XV de Novembro,0,1,Sport,False,False,Third Round,Brasileirão Série A,1977
+1978-02-12,XV de Piracicaba,0,1,Sport,False,False,Third Round,Brasileirão Série A,1977
 1978-02-12,Botafogo-SP,1,0,São Paulo,False,False,Third Round,Brasileirão Série A,1977
 1978-02-12,Grêmio,1,0,Ponte Preta-SP,False,False,Third Round,Brasileirão Série A,1977
-1978-02-15,Ponte Preta-SP,1,0,XV de Novembro,False,False,Third Round,Brasileirão Série A,1977
+1978-02-15,Ponte Preta-SP,1,0,XV de Piracicaba,False,False,Third Round,Brasileirão Série A,1977
 1978-02-15,Grêmio,1,1,Botafogo-SP,False,False,Third Round,Brasileirão Série A,1977
 1978-02-15,São Paulo,4,3,Sport,False,False,Third Round,Brasileirão Série A,1977
 1978-02-19,São Paulo,3,1,Grêmio,False,False,Third Round,Brasileirão Série A,1977
 1978-02-19,Sport,1,0,Ponte Preta-SP,False,False,Third Round,Brasileirão Série A,1977
-1978-02-19,Botafogo-SP,0,0,XV de Novembro,False,False,Third Round,Brasileirão Série A,1977
+1978-02-19,Botafogo-SP,0,0,XV de Piracicaba,False,False,Third Round,Brasileirão Série A,1977
 1978-01-29,Santa Cruz,2,2,América-RJ,False,False,Third Round,Brasileirão Série A,1977
 1978-01-29,Remo,3,0,Palmeiras,False,False,Third Round,Brasileirão Série A,1977
 1978-02-01,Operário-MT,0,0,Santa Cruz,False,False,Third Round,Brasileirão Série A,1977

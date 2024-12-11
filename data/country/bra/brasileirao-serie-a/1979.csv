@@ -443,29 +443,29 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1979-11-07,Santa Cruz,2,0,Gama,False,False,Second Round,Brasileirão Série A,1979
 1979-11-08,Grêmio,1,0,Náutico,False,False,Second Round,Brasileirão Série A,1979
 1979-11-08,Bahia,0,1,Londrina,False,False,Second Round,Brasileirão Série A,1979
-1979-11-08,Flamengo,3,0,XV de Novembro,False,False,Second Round,Brasileirão Série A,1979
+1979-11-08,Flamengo,3,0,XV de Piracicaba,False,False,Second Round,Brasileirão Série A,1979
 1979-11-11,Gama,0,2,Londrina,False,False,Second Round,Brasileirão Série A,1979
 1979-11-11,Santa Cruz,1,0,Bahia,False,False,Second Round,Brasileirão Série A,1979
 1979-11-11,Flamengo,2,0,Náutico,False,False,Second Round,Brasileirão Série A,1979
-1979-11-11,XV de Novembro,3,0,Grêmio,False,False,Second Round,Brasileirão Série A,1979
-1979-11-15,Náutico,2,1,XV de Novembro,False,False,Second Round,Brasileirão Série A,1979
+1979-11-11,XV de Piracicaba,3,0,Grêmio,False,False,Second Round,Brasileirão Série A,1979
+1979-11-15,Náutico,2,1,XV de Piracicaba,False,False,Second Round,Brasileirão Série A,1979
 1979-11-15,Gama,1,2,Flamengo,False,False,Second Round,Brasileirão Série A,1979
 1979-11-15,Grêmio,2,0,Bahia,False,False,Second Round,Brasileirão Série A,1979
 1979-11-15,Londrina,6,2,Santa Cruz,False,False,Second Round,Brasileirão Série A,1979
 1979-11-18,Santa Cruz,2,0,Náutico,False,False,Second Round,Brasileirão Série A,1979
-1979-11-18,XV de Novembro,2,1,Londrina,False,False,Second Round,Brasileirão Série A,1979
+1979-11-18,XV de Piracicaba,2,1,Londrina,False,False,Second Round,Brasileirão Série A,1979
 1979-11-18,Flamengo,2,0,Grêmio,False,False,Second Round,Brasileirão Série A,1979
 1979-11-18,Bahia,2,1,Gama,False,False,Second Round,Brasileirão Série A,1979
 1979-11-21,Náutico,0,1,Bahia,False,False,Second Round,Brasileirão Série A,1979
 1979-11-21,Grêmio,2,0,Santa Cruz,False,False,Second Round,Brasileirão Série A,1979
-1979-11-21,XV de Novembro,5,0,Gama,False,False,Second Round,Brasileirão Série A,1979
+1979-11-21,XV de Piracicaba,5,0,Gama,False,False,Second Round,Brasileirão Série A,1979
 1979-11-21,Londrina,1,1,Flamengo,False,False,Second Round,Brasileirão Série A,1979
 1979-11-25,Gama,0,3,Grêmio,False,False,Second Round,Brasileirão Série A,1979
-1979-11-25,Bahia,1,2,XV de Novembro,False,False,Second Round,Brasileirão Série A,1979
+1979-11-25,Bahia,1,2,XV de Piracicaba,False,False,Second Round,Brasileirão Série A,1979
 1979-11-25,Santa Cruz,0,0,Flamengo,False,False,Second Round,Brasileirão Série A,1979
 1979-11-25,Londrina,4,2,Náutico,False,False,Second Round,Brasileirão Série A,1979
 1979-11-28,Flamengo,4,0,Bahia,False,False,Second Round,Brasileirão Série A,1979
-1979-11-28,XV de Novembro,2,1,Santa Cruz,False,False,Second Round,Brasileirão Série A,1979
+1979-11-28,XV de Piracicaba,2,1,Santa Cruz,False,False,Second Round,Brasileirão Série A,1979
 1979-11-28,Náutico,2,2,Gama,False,False,Second Round,Brasileirão Série A,1979
 1979-11-28,Grêmio,1,0,Londrina,False,False,Second Round,Brasileirão Série A,1979
 1979-11-07,Ceará,2,1,Central,False,False,Second Round,Brasileirão Série A,1979
@@ -497,30 +497,30 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1979-11-28,Botafogo-PB,1,1,Operário-MT,False,False,Second Round,Brasileirão Série A,1979
 1979-11-28,ASA,0,1,Vasco da Gama,False,False,Second Round,Brasileirão Série A,1979
 1979-11-08,Vila Nova-GO,2,0,Vitória,False,False,Second Round,Brasileirão Série A,1979
-1979-11-08,Maranhão,1,0,XV de Novembro de Jaú,False,False,Second Round,Brasileirão Série A,1979
+1979-11-08,Maranhão,1,0,XV de Jaú,False,False,Second Round,Brasileirão Série A,1979
 1979-11-08,Campo Grande,1,1,Fluminense,False,False,Second Round,Brasileirão Série A,1979
-1979-11-11,XV de Novembro de Jaú,2,2,Fluminense,False,False,Second Round,Brasileirão Série A,1979
+1979-11-11,XV de Jaú,2,2,Fluminense,False,False,Second Round,Brasileirão Série A,1979
 1979-11-11,Itabaiana,1,1,Vila Nova-GO,False,False,Second Round,Brasileirão Série A,1979
 1979-11-11,Campo Grande,5,0,Maranhão,False,False,Second Round,Brasileirão Série A,1979
 1979-11-11,Vitória,3,0,Uberlândia-MG,False,False,Second Round,Brasileirão Série A,1979
 1979-11-15,Vila Nova-GO,2,2,Fluminense,False,False,Second Round,Brasileirão Série A,1979
 1979-11-15,Uberlândia-MG,2,1,Campo Grande,False,False,Second Round,Brasileirão Série A,1979
-1979-11-15,Vitória,3,1,XV de Novembro de Jaú,False,False,Second Round,Brasileirão Série A,1979
+1979-11-15,Vitória,3,1,XV de Jaú,False,False,Second Round,Brasileirão Série A,1979
 1979-11-15,Maranhão,1,0,Itabaiana,False,False,Second Round,Brasileirão Série A,1979
-1979-11-17,Vila Nova-GO,0,0,XV de Novembro de Jaú,False,False,Second Round,Brasileirão Série A,1979
+1979-11-17,Vila Nova-GO,0,0,XV de Jaú,False,False,Second Round,Brasileirão Série A,1979
 1979-11-17,Fluminense,2,1,Vitória,False,False,Second Round,Brasileirão Série A,1979
 1979-11-18,Maranhão,0,1,Uberlândia-MG,False,False,Second Round,Brasileirão Série A,1979
 1979-11-18,Campo Grande,2,1,Itabaiana,False,False,Second Round,Brasileirão Série A,1979
 1979-11-21,Campo Grande,0,0,Vila Nova-GO,False,False,Second Round,Brasileirão Série A,1979
 1979-11-21,Fluminense,5,0,Itabaiana,False,False,Second Round,Brasileirão Série A,1979
 1979-11-21,Vitória,2,1,Maranhão,False,False,Second Round,Brasileirão Série A,1979
-1979-11-21,XV de Novembro de Jaú,1,2,Uberlândia-MG,False,False,Second Round,Brasileirão Série A,1979
+1979-11-21,XV de Jaú,1,2,Uberlândia-MG,False,False,Second Round,Brasileirão Série A,1979
 1979-11-23,Uberlândia-MG,3,0,Itabaiana,False,False,Second Round,Brasileirão Série A,1979
 1979-11-25,Itabaiana,1,2,Vitória,False,False,Second Round,Brasileirão Série A,1979
 1979-11-25,Uberlândia-MG,0,0,Fluminense,False,False,Second Round,Brasileirão Série A,1979
 1979-11-25,Maranhão,0,1,Vila Nova-GO,False,False,Second Round,Brasileirão Série A,1979
-1979-11-25,Campo Grande,1,2,XV de Novembro de Jaú,False,False,Second Round,Brasileirão Série A,1979
-1979-11-28,XV de Novembro de Jaú,2,1,Itabaiana,False,False,Second Round,Brasileirão Série A,1979
+1979-11-25,Campo Grande,1,2,XV de Jaú,False,False,Second Round,Brasileirão Série A,1979
+1979-11-28,XV de Jaú,2,1,Itabaiana,False,False,Second Round,Brasileirão Série A,1979
 1979-11-28,Vitória,1,0,Campo Grande,False,False,Second Round,Brasileirão Série A,1979
 1979-11-29,Fluminense,6,0,Maranhão,False,False,Second Round,Brasileirão Série A,1979
 1979-11-29,Vila Nova-GO,0,0,Uberlândia-MG,False,False,Second Round,Brasileirão Série A,1979
@@ -552,11 +552,11 @@ date,home_team,home_score,away_score,away_team,neutral,knockout,stage,tournament
 1979-11-28,Comercial-SP,1,0,CSA,False,False,Second Round,Brasileirão Série A,1979
 1979-11-28,Dom Bosco,0,1,Uberaba-MG,False,False,Second Round,Brasileirão Série A,1979
 1979-11-29,Cruzeiro,1,0,Leônico,False,False,Second Round,Brasileirão Série A,1979
-1979-12-02,XV de Novembro,0,2,Guarani,False,False,Third Round,Brasileirão Série A,1979
+1979-12-02,XV de Piracicaba,0,2,Guarani,False,False,Third Round,Brasileirão Série A,1979
 1979-12-04,Coritiba,4,0,Vitória,False,False,Third Round,Brasileirão Série A,1979
-1979-12-06,Vitória,3,1,XV de Novembro,False,False,Third Round,Brasileirão Série A,1979
+1979-12-06,Vitória,3,1,XV de Piracicaba,False,False,Third Round,Brasileirão Série A,1979
 1979-12-06,Guarani,0,0,Coritiba,False,False,Third Round,Brasileirão Série A,1979
-1979-12-08,Coritiba,1,0,XV de Novembro,False,False,Third Round,Brasileirão Série A,1979
+1979-12-08,Coritiba,1,0,XV de Piracicaba,False,False,Third Round,Brasileirão Série A,1979
 1979-12-08,Vitória,3,0,Guarani,False,False,Third Round,Brasileirão Série A,1979
 1979-12-02,Palmeiras,5,1,Comercial-SP,False,False,Third Round,Brasileirão Série A,1979
 1979-12-02,Flamengo,4,0,São Bento,False,False,Third Round,Brasileirão Série A,1979
