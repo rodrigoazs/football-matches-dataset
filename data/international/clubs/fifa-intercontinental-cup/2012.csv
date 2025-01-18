@@ -1,0 +1,9 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2012-12-06,Sanfrecce Hiroshima,1,0,Auckland City,True,,FIFA Intercontinental Cup,2012
+2012-12-09,Ulsan Hyundai,1,3,Monterrey,True,,FIFA Intercontinental Cup,2012
+2012-12-09,Sanfrecce Hiroshima,1,2,Al-Ahly,True,,FIFA Intercontinental Cup,2012
+2012-12-12,Al-Ahly,0,1,Corinthians,True,Semifinal,FIFA Intercontinental Cup,2012
+2012-12-13,Monterrey,1,3,Chelsea,True,Semifinal,FIFA Intercontinental Cup,2012
+2012-12-12,Sanfrecce Hiroshima,3,2,Ulsan Hyundai,True,Semifinal,FIFA Intercontinental Cup,2012
+2012-12-16,Al-Ahly,0,2,Monterrey,True,Semifinal,FIFA Intercontinental Cup,2012
+2012-12-16,Corinthians,1,0,Chelsea,True,Final,FIFA Intercontinental Cup,2012

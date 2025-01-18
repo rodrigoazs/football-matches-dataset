@@ -1,0 +1,8 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2023-02-01,Al-Ahly,3,0,Auckland City,True,,FIFA Intercontinental Cup,2022
+2023-02-04,WAC Casablanca,1,1,Al-Hilal,True,,FIFA Intercontinental Cup,2022
+2023-02-04,Seattle Sounders,0,1,Al-Ahly,True,,FIFA Intercontinental Cup,2022
+2023-02-07,Flamengo,2,3,Al-Hilal,True,Semifinal,FIFA Intercontinental Cup,2022
+2023-02-08,Al-Ahly,1,4,Real Madrid,True,Semifinal,FIFA Intercontinental Cup,2022
+2023-02-11,Flamengo,4,2,Al-Ahly,True,Semifinal,FIFA Intercontinental Cup,2022
+2023-02-11,Al-Hilal,3,5,Real Madrid,True,Final,FIFA Intercontinental Cup,2022

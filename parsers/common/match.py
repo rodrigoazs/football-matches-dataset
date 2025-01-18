@@ -36,7 +36,6 @@ def get_match(line, tournament, year, date, stage):
                 match1_away_score,
                 match_away_team,
                 False,
-                False,
                 stage,
                 tournament,
                 year,
@@ -47,7 +46,6 @@ def get_match(line, tournament, year, date, stage):
                 match2_home_score,
                 match2_away_score,
                 match_home_team,
-                False,
                 False,
                 stage,
                 tournament,
@@ -75,7 +73,6 @@ def get_match(line, tournament, year, date, stage):
                 match1_home_score,
                 match1_away_score,
                 match_away_team,
-                False,
                 False,
                 stage,
                 tournament,
@@ -106,7 +103,6 @@ def get_match(line, tournament, year, date, stage):
                 match1_away_score,
                 match_away_team,
                 False,
-                False,
                 stage,
                 tournament,
                 year,
@@ -136,6 +132,150 @@ def get_match(line, tournament, year, date, stage):
                 match1_away_score,
                 match_away_team,
                 False,
+                stage,
+                tournament,
+                year,
+            ],
+        ]
+    
+    # 2005-12-11 19:20    Al-Ittihad      1-0 Al-Ahly           (Tokyo)
+    match_pattern = re.compile(
+        r"(\d{4}-\d{2}-\d{2})\s+\d{2}:\d{2}\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+\(.*?\)",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_date = match.group(1)
+        match_home_team = match.group(2).strip()
+        match_away_team = match.group(5).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+
+        return [
+            [
+                convert_date(match_date, year),
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                False,
+                stage,
+                tournament,
+                year,
+            ],
+        ]
+    
+    # 17-12-08 19:30    Pachuca       0-2 LDU de Quito            Tokyo
+    match_pattern = re.compile(
+        r"(\d{2}-\d{2}-\d{2})\s+\d{2}:\d{2}\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+[A-Za-z\s]+",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_date = match.group(1)
+        match_home_team = match.group(2).strip()
+        match_away_team = match.group(5).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+
+        return [
+            [
+                convert_date(match_date, year),
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                False,
+                stage,
+                tournament,
+                year,
+            ],
+        ]
+    
+    # 10-12-06    Auckland City    0-2 Al-Ahly          (19:20 Toyota)
+    match_pattern = re.compile(
+        r"(\d{2}-\d{2}-\d{2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+[\(\[].*?\)",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_date = match.group(1)
+        match_home_team = match.group(2).strip()
+        match_away_team = match.group(5).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+
+        return [
+            [
+                convert_date(match_date, year),
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                False,
+                stage,
+                tournament,
+                year,
+            ],
+        ]
+    
+    # 1-2-23    Al-Ahly               3-0 Auckland City                        Tanger
+    match_pattern = re.compile(
+        r"(\d{1,2}-\d{1,2}-\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s\s+",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_date = match.group(1)
+        match_home_team = match.group(2).strip()
+        match_away_team = match.group(5).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+
+        return [
+            [
+                convert_date(match_date, year),
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                False,
+                stage,
+                tournament,
+                year,
+            ],
+        ]
+    
+    # 09-12-09       Al-Ahli Dubai    0-2 Auckland City
+    match_pattern = re.compile(
+        r"(\d{1,2}-\d{1,2}-\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(\d{1,2})\-(\d{1,2})\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_date = match.group(1)
+        match_home_team = match.group(2).strip()
+        match_away_team = match.group(5).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+
+        return [
+            [
+                convert_date(match_date, year),
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
                 False,
                 stage,
                 tournament,
@@ -165,7 +305,6 @@ def get_match(line, tournament, year, date, stage):
                 match1_away_score,
                 match_away_team,
                 False,
-                False,
                 stage,
                 tournament,
                 year,
@@ -193,7 +332,6 @@ def get_match(line, tournament, year, date, stage):
                 match1_home_score,
                 match1_away_score,
                 match_away_team,
-                False,
                 False,
                 stage,
                 tournament,

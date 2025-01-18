@@ -9,6 +9,12 @@ def convert_date(date_string, year):
             return date_object.strftime("%Y-%m-%d")
         except:
             continue
+    for date_format in ["%Y-%m-%d", "%d-%m-%y"]:
+        try:
+            date_object = datetime.strptime(f"{date_string}", date_format)
+            return date_object.strftime("%Y-%m-%d")
+        except:
+            continue
     raise Exception(f"Date error: {date_string}.")
 
 

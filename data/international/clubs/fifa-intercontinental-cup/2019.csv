@@ -1,0 +1,9 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2019-12-11,Al-Sadd,3,1,Hienghène Sport,False,,FIFA Intercontinental Cup,2019
+2019-12-14,Al-Hilal,1,0,Espérance,True,,FIFA Intercontinental Cup,2019
+2019-12-14,Al-Sadd,2,3,Monterrey,False,,FIFA Intercontinental Cup,2019
+2019-12-17,Flamengo,3,1,Al-Hilal,True,Semifinal,FIFA Intercontinental Cup,2019
+2019-12-18,Monterrey,1,2,Liverpool,True,Semifinal,FIFA Intercontinental Cup,2019
+2019-12-17,Al-Sadd,2,6,Espérance,True,Semifinal,FIFA Intercontinental Cup,2019
+2019-12-21,Monterrey,2,2,Al-Hilal,True,Semifinal,FIFA Intercontinental Cup,2019
+2019-12-21,Liverpool,1,0,Flamengo,True,Final,FIFA Intercontinental Cup,2019
