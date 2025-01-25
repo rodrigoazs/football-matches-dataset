@@ -1,0 +1,67 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2008-07-29,River Plate (Montevideo),2,0,Universidad Católica,False,Qualifying Round,Copa Sudamericana,2008
+2008-08-07,Universidad Católica,4,0,River Plate (Montevideo),False,Qualifying Round,Copa Sudamericana,2008
+2008-07-30,Universitario,0,0,Deportivo Quito,False,Qualifying Round,Copa Sudamericana,2008
+2008-08-05,Deportivo Quito,2,1,Universitario,False,Qualifying Round,Copa Sudamericana,2008
+2008-07-31,Unión Atlético Maracaibo,0,0,América (Cali),False,Qualifying Round,Copa Sudamericana,2008
+2008-08-07,América (Cali),4,2,Unión Atlético Maracaibo,False,Qualifying Round,Copa Sudamericana,2008
+2008-08-12,Olimpia (Asunción),4,2,Blooming,False,Qualifying Round,Copa Sudamericana,2008
+2008-08-21,Blooming,1,0,Olimpia (Asunción),False,Qualifying Round,Copa Sudamericana,2008
+2008-08-05,Independiente (Avellaneda,2,1,Estudiantes (La Plata),False,Group Stage,Copa Sudamericana,2008
+2008-08-20,Estudiantes (La Plata),2,1,Independiente (Avellaneda,False,Group Stage,Copa Sudamericana,2008
+2008-08-06,Argentinos Juniors,0,0,San Lorenzo de Almagro,False,Group Stage,Copa Sudamericana,2008
+2008-08-21,San Lorenzo de Almagro,0,2,Argentinos Juniors,False,Group Stage,Copa Sudamericana,2008
+2008-08-12,Atlético Paranaense,0,0,São Paulo FC,False,Group Stage,Copa Sudamericana,2008
+2008-08-27,São Paulo FC,0,0,Atlético Paranaense,False,Group Stage,Copa Sudamericana,2008
+2008-08-13,Internacional,1,1,Grêmio,False,Group Stage,Copa Sudamericana,2008
+2008-08-28,Grêmio,2,2,Internacional,False,Group Stage,Copa Sudamericana,2008
+2008-08-13,Vasco da Gama,3,1,Palmeiras,False,Group Stage,Copa Sudamericana,2008
+2008-09-17,Palmeiras,3,0,Vasco da Gama,False,Group Stage,Copa Sudamericana,2008
+2008-08-14,Botafogo (Rio de Janeiro),3,1,Atlético Mineiro,False,Group Stage,Copa Sudamericana,2008
+2008-08-27,Atlético Mineiro,2,5,Botafogo (Rio de Janeiro),False,Group Stage,Copa Sudamericana,2008
+2008-08-14,América (Cali),2,0,Deportivo Cali,False,Group Stage,Copa Sudamericana,2008
+2008-09-16,Deportivo Cali,1,0,América (Cali),False,Group Stage,Copa Sudamericana,2008
+2008-08-14,LDU de Quito,4,2,Bolívar,False,Group Stage,Copa Sudamericana,2008
+2008-09-18,Bolívar,2,1,LDU de Quito,False,Group Stage,Copa Sudamericana,2008
+2008-08-19,Defensor Sporting,2,1,Libertad,False,Group Stage,Copa Sudamericana,2008
+2008-08-26,Libertad,3,3,Defensor Sporting,False,Group Stage,Copa Sudamericana,2008
+2008-08-19,Arsenal,4,0,Motagua,False,Group Stage,Copa Sudamericana,2008
+2008-09-04,Motagua,1,2,Arsenal,False,Group Stage,Copa Sudamericana,2008
+2008-08-26,San Luis,3,1,Deportivo Quito,False,Group Stage,Copa Sudamericana,2008
+2008-09-17,Deportivo Quito,3,2,San Luis,False,Group Stage,Copa Sudamericana,2008
+2008-08-27,Aragua FC,1,2,Guadalajara,False,Group Stage,Copa Sudamericana,2008
+2008-09-17,Guadalajara,1,1,Aragua FC,False,Group Stage,Copa Sudamericana,2008
+2008-08-28,Universidad Católica,4,0,Olimpia (Asunción),False,Group Stage,Copa Sudamericana,2008
+2008-09-17,Olimpia (Asunción),2,2,Universidad Católica,False,Group Stage,Copa Sudamericana,2008
+2008-09-04,Ñublense,1,0,Sport Áncash,False,Group Stage,Copa Sudamericana,2008
+2008-09-16,Sport Áncash,4,0,Ñublense,False,Group Stage,Copa Sudamericana,2008
+2008-09-23,Boca Juniors,4,0,LDU de Quito,False,Round of 16,Copa Sudamericana,2008
+2008-10-01,LDU de Quito,1,1,Boca Juniors,False,Round of 16,Copa Sudamericana,2008
+2008-09-23,Estudiantes (La Plata),2,1,Arsenal,False,Round of 16,Copa Sudamericana,2008
+2008-10-02,Arsenal,0,0,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2008
+2008-09-24,Guadalajara,2,2,Atlético Paranaense,False,Round of 16,Copa Sudamericana,2008
+2008-09-30,Atlético Paranaense,3,4,Guadalajara,False,Round of 16,Copa Sudamericana,2008
+2008-09-24,Sport Áncash,0,0,Palmeiras,False,Round of 16,Copa Sudamericana,2008
+2008-10-01,Palmeiras,1,0,Sport Áncash,False,Round of 16,Copa Sudamericana,2008
+2008-09-24,San Luis,2,1,Argentinos Juniors,False,Round of 16,Copa Sudamericana,2008
+2008-10-01,Argentinos Juniors,2,0,San Luis,False,Round of 16,Copa Sudamericana,2008
+2008-09-24,América (Cali),1,0,Botafogo (Rio de Janeiro),False,Round of 16,Copa Sudamericana,2008
+2008-10-01,Botafogo (Rio de Janeiro),3,1,América (Cali),False,Round of 16,Copa Sudamericana,2008
+2008-09-25,Universidad Católica,1,1,Internacional,False,Round of 16,Copa Sudamericana,2008
+2008-10-01,Internacional,0,0,Universidad Católica,False,Round of 16,Copa Sudamericana,2008
+2008-09-25,Defensor Sporting,1,2,River Plate,False,Round of 16,Copa Sudamericana,2008
+2008-10-02,River Plate,2,1,Defensor Sporting,False,Round of 16,Copa Sudamericana,2008
+2008-10-21,Estudiantes (La Plata),2,0,Botafogo (Rio de Janeiro),False,Quarterfinal,Copa Sudamericana,2008
+2008-11-05,Botafogo (Rio de Janeiro),2,2,Estudiantes (La Plata),False,Quarterfinal,Copa Sudamericana,2008
+2008-10-22,Palmeiras,0,1,Argentinos Juniors,False,Quarterfinal,Copa Sudamericana,2008
+2008-11-05,Argentinos Juniors,2,0,Palmeiras,False,Quarterfinal,Copa Sudamericana,2008
+2008-10-22,River Plate,1,2,Guadalajara,False,Quarterfinal,Copa Sudamericana,2008
+2008-11-06,Guadalajara,2,2,River Plate,False,Quarterfinal,Copa Sudamericana,2008
+2008-10-22,Internacional,2,0,Boca Juniors,False,Quarterfinal,Copa Sudamericana,2008
+2008-11-06,Boca Juniors,1,2,Internacional,False,Quarterfinal,Copa Sudamericana,2008
+2008-11-12,Guadalajara,0,2,Internacional,False,Semifinal,Copa Sudamericana,2008
+2008-11-19,Internacional,4,0,Guadalajara,False,Semifinal,Copa Sudamericana,2008
+2008-11-13,Argentinos Juniors,1,1,Estudiantes (La Plata),False,Semifinal,Copa Sudamericana,2008
+2008-11-20,Estudiantes (La Plata),1,0,Argentinos Juniors,False,Semifinal,Copa Sudamericana,2008
+2008-11-26,Estudiantes (La Plata),0,1,Internacional,False,Final,Copa Sudamericana,2008
+2008-12-03,Internacional,1,1,Estudiantes (La Plata),False,Final,Copa Sudamericana,2008

@@ -1,0 +1,107 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2018-02-13,Zamora FC (Barinas),0,2,Colón (Santa Fe),False,Group Stage,Copa Sudamericana,2018
+2018-03-06,Colón (Santa Fe),1,0,Zamora FC (Barinas),False,Group Stage,Copa Sudamericana,2018
+2018-02-13,Sportivo Luqueño,2,0,Deportico Cuenca,False,Group Stage,Copa Sudamericana,2018
+2018-03-07,Deportico Cuenca,2,0,Sportivo Luqueño,False,Group Stage,Copa Sudamericana,2018
+2018-02-13,Univ. Técnica Cajamarca,2,0,Rampla Juniors,False,Group Stage,Copa Sudamericana,2018
+2018-03-08,Rampla Juniors,4,0,Univ. Técnica Cajamarca,False,Group Stage,Copa Sudamericana,2018
+2018-02-15,Nacional (Asunción),0,0,Mineros de Guayana,False,Group Stage,Copa Sudamericana,2018
+2018-03-08,Mineros de Guayana,0,0,Nacional (Asunción),False,Group Stage,Copa Sudamericana,2018
+2018-02-15,Defensa y Justicia,0,1,América (Cali),False,Group Stage,Copa Sudamericana,2018
+2018-03-08,América (Cali),0,3,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2018
+2018-02-15,Unión Española (Santiago),0,0,Sport Huancayo,False,Group Stage,Copa Sudamericana,2018
+2018-03-08,Sport Huancayo,3,0,Unión Española (Santiago),False,Group Stage,Copa Sudamericana,2018
+2018-02-20,Sport Rosario (Huaraz),0,0,Cerro (Montevideo),False,Group Stage,Copa Sudamericana,2018
+2018-03-07,Cerro (Montevideo),2,0,Sport Rosario (Huaraz),False,Group Stage,Copa Sudamericana,2018
+2018-02-20,Barcelona (Guayaquil),0,0,General Díaz (Luque),False,Group Stage,Copa Sudamericana,2018
+2018-03-07,General Díaz (Luque),2,1,Barcelona (Guayaquil),False,Group Stage,Copa Sudamericana,2018
+2018-02-21,Lanús,4,2,Sporting Cristal (Lima),False,Group Stage,Copa Sudamericana,2018
+2018-03-07,Sporting Cristal (Lima),2,1,Lanús,False,Group Stage,Copa Sudamericana,2018
+2018-02-22,El Nacional (Quito),3,2,San José (Oruro),False,Group Stage,Copa Sudamericana,2018
+2018-03-06,San José (Oruro),1,1,El Nacional (Quito),False,Group Stage,Copa Sudamericana,2018
+2018-02-22,Everton (Viña del Mar),1,2,Caracas FC,False,Group Stage,Copa Sudamericana,2018
+2018-03-06,Caracas FC,0,1,Everton (Viña del Mar),False,Group Stage,Copa Sudamericana,2018
+2018-04-10,LDU de Quito,2,1,Guabirá (Montero),False,Group Stage,Copa Sudamericana,2018
+2018-05-08,Guabirá (Montero),3,2,LDU de Quito,False,Group Stage,Copa Sudamericana,2018
+2018-04-10,Deportivo Cali,3,0,Danubio (Montevideo),False,Group Stage,Copa Sudamericana,2018
+2018-05-08,Danubio (Montevideo),3,2,Deportivo Cali,False,Group Stage,Copa Sudamericana,2018
+2018-04-10,Jaguares (Montería),2,1,Boston River (Montevideo),False,Group Stage,Copa Sudamericana,2018
+2018-05-10,Boston River (Montevideo),3,0,Jaguares (Montería),False,Group Stage,Copa Sudamericana,2018
+2018-04-11,San Lorenzo de Almagro,1,0,Atlético Mineiro,False,Group Stage,Copa Sudamericana,2018
+2018-05-08,Atlético Mineiro,0,0,San Lorenzo de Almagro,False,Group Stage,Copa Sudamericana,2018
+2018-04-11,Fluminense,3,0,Nacional (Potosí),False,Group Stage,Copa Sudamericana,2018
+2018-05-10,Nacional (Potosí),2,0,Fluminense,False,Group Stage,Copa Sudamericana,2018
+2018-04-11,Blooming (Santa Cruz),1,0,Bahia (Salvador),False,Group Stage,Copa Sudamericana,2018
+2018-05-23,Bahia (Salvador),4,0,Blooming (Santa Cruz),False,Group Stage,Copa Sudamericana,2018
+2018-04-12,Audax Italiano (Santiago),1,2,Botafogo (Rio de Janeiro),False,Group Stage,Copa Sudamericana,2018
+2018-05-09,Botafogo (Rio de Janeiro),1,1,Audax Italiano (Santiago),False,Group Stage,Copa Sudamericana,2018
+2018-04-12,Rosario Central,0,0,São Paulo,False,Group Stage,Copa Sudamericana,2018
+2018-05-09,São Paulo,1,0,Rosario Central,False,Group Stage,Copa Sudamericana,2018
+2018-04-12,Atlético Paranaense,3,0,Newell's Old Boys,False,Group Stage,Copa Sudamericana,2018
+2018-05-10,Newell's Old Boys,2,1,Atlético Paranaense,False,Group Stage,Copa Sudamericana,2018
+2018-04-12,Sol de América (Asunción),2,0,Independiente Medellín,False,Group Stage,Copa Sudamericana,2018
+2018-05-10,Independiente Medellín,3,1,Sol de América (Asunción),False,Group Stage,Copa Sudamericana,2018
+2018-04-18,Estudiantes de Mérida,1,1,Deportes Temuco,False,Group Stage,Copa Sudamericana,2018
+2018-05-09,Deportes Temuco,2,0,Estudiantes de Mérida,False,Group Stage,Copa Sudamericana,2018
+2018-07-17,Caracas FC,2,0,Sport Huancayo,False,Round of 16,Copa Sudamericana,2018
+2018-07-24,Sport Huancayo,3,4,Caracas FC,False,Round of 16,Copa Sudamericana,2018
+2018-07-17,Lanús,1,0,Atlético Junior,False,Round of 16,Copa Sudamericana,2018
+2018-07-24,Atlético Junior,1,0,Lanús,False,Round of 16,Copa Sudamericana,2018
+2018-07-18,Defensa y Justicia,2,0,El Nacional (Quito),False,Round of 16,Copa Sudamericana,2018
+2018-07-31,El Nacional (Quito),1,0,Defensa y Justicia,False,Round of 16,Copa Sudamericana,2018
+2018-07-18,Deportivo Cali,4,0,Bolívar (La Paz),False,Round of 16,Copa Sudamericana,2018
+2018-08-02,Bolívar (La Paz),1,2,Deportivo Cali,False,Round of 16,Copa Sudamericana,2018
+2018-07-18,Sol de América (Asunción),0,0,Nacional (Montevideo),False,Round of 16,Copa Sudamericana,2018
+2018-08-14,Nacional (Montevideo),1,0,Sol de América (Asunción),False,Round of 16,Copa Sudamericana,2018
+2018-07-19,Deportico Cuenca,2,2,Jorge Wilstermann,False,Round of 16,Copa Sudamericana,2018
+2018-07-31,Jorge Wilstermann,2,2,Deportico Cuenca,False,Round of 16,Copa Sudamericana,2018
+2018-07-19,Rampla Juniors,0,0,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2018
+2018-07-31,Independiente Santa Fe,2,0,Rampla Juniors,False,Round of 16,Copa Sudamericana,2018
+2018-07-25,Boston River (Montevideo),1,0,Banfield,False,Round of 16,Copa Sudamericana,2018
+2018-08-01,Banfield,2,0,Boston River (Montevideo),False,Round of 16,Copa Sudamericana,2018
+2018-07-25,Bahia (Salvador),2,0,Cerro (Montevideo),False,Round of 16,Copa Sudamericana,2018
+2018-08-08,Cerro (Montevideo),1,1,Bahia (Salvador),False,Round of 16,Copa Sudamericana,2018
+2018-07-25,LDU de Quito,3,1,Vasco da Gama,False,Round of 16,Copa Sudamericana,2018
+2018-08-09,Vasco da Gama,1,0,LDU de Quito,False,Round of 16,Copa Sudamericana,2018
+2018-07-26,Atlético Paranaense,2,0,Peñarol (Montevideo),False,Round of 16,Copa Sudamericana,2018
+2018-08-07,Peñarol (Montevideo),1,4,Atlético Paranaense,False,Round of 16,Copa Sudamericana,2018
+2018-07-26,General Díaz (Luque),1,1,Millonarios (Bogotá),False,Round of 16,Copa Sudamericana,2018
+2018-08-15,Millonarios (Bogotá),4,0,General Díaz (Luque),False,Round of 16,Copa Sudamericana,2018
+2018-07-26,San Lorenzo de Almagro,1,2,Deportes Temuco,False,Round of 16,Copa Sudamericana,2018
+2018-08-15,Deportes Temuco,1,0,San Lorenzo de Almagro,False,Round of 16,Copa Sudamericana,2018
+2018-08-01,Nacional (Asunción),2,1,Botafogo (Rio de Janeiro),False,Round of 16,Copa Sudamericana,2018
+2018-08-16,Botafogo (Rio de Janeiro),2,0,Nacional (Asunción),False,Round of 16,Copa Sudamericana,2018
+2018-08-02,São Paulo,0,1,Colón (Santa Fe),False,Round of 16,Copa Sudamericana,2018
+2018-08-16,Colón (Santa Fe),0,1,São Paulo,False,Round of 16,Copa Sudamericana,2018
+2018-08-02,Fluminense,2,0,Defensor Sporting,False,Round of 16,Copa Sudamericana,2018
+2018-08-16,Defensor Sporting,0,1,Fluminense,False,Round of 16,Copa Sudamericana,2018
+2018-08-21,Defensa y Justicia,0,0,Banfield,False,Round of 16,Copa Sudamericana,2018
+2018-09-27,Banfield,0,2,Defensa y Justicia,False,Round of 16,Copa Sudamericana,2018
+2018-08-22,LDU de Quito,1,0,Deportivo Cali,False,Round of 16,Copa Sudamericana,2018
+2018-09-19,Deportivo Cali,1,0,LDU de Quito,False,Round of 16,Copa Sudamericana,2018
+2018-08-22,San Lorenzo de Almagro,3,1,Nacional (Montevideo),False,Round of 16,Copa Sudamericana,2018
+2018-09-25,Nacional (Montevideo),2,0,San Lorenzo de Almagro,False,Round of 16,Copa Sudamericana,2018
+2018-09-18,Independiente Santa Fe,0,0,Millonarios (Bogotá),False,Round of 16,Copa Sudamericana,2018
+2018-10-02,Millonarios (Bogotá),0,0,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2018
+2018-09-19,Caracas FC,0,2,Atlético Paranaense,False,Round of 16,Copa Sudamericana,2018
+2018-10-03,Atlético Paranaense,2,1,Caracas FC,False,Round of 16,Copa Sudamericana,2018
+2018-09-20,Bahia (Salvador),2,1,Botafogo (Rio de Janeiro),False,Round of 16,Copa Sudamericana,2018
+2018-10-03,Botafogo (Rio de Janeiro),2,1,Bahia (Salvador),False,Round of 16,Copa Sudamericana,2018
+2018-09-20,Deportico Cuenca,0,2,Fluminense,False,Round of 16,Copa Sudamericana,2018
+2018-10-04,Fluminense,2,0,Deportico Cuenca,False,Round of 16,Copa Sudamericana,2018
+2018-09-26,Atlético Junior,1,0,Colón (Santa Fe),False,Round of 16,Copa Sudamericana,2018
+2018-10-04,Colón (Santa Fe),1,1,Atlético Junior,False,Round of 16,Copa Sudamericana,2018
+2018-10-23,Independiente Santa Fe,1,1,Deportivo Cali,False,Quarterfinal,Copa Sudamericana,2018
+2018-10-30,Deportivo Cali,1,2,Independiente Santa Fe,False,Quarterfinal,Copa Sudamericana,2018
+2018-10-24,Fluminense,1,1,Nacional (Montevideo),False,Quarterfinal,Copa Sudamericana,2018
+2018-10-31,Nacional (Montevideo),0,1,Fluminense,False,Quarterfinal,Copa Sudamericana,2018
+2018-10-24,Bahia (Salvador),0,1,Atlético Paranaense,False,Quarterfinal,Copa Sudamericana,2018
+2018-10-31,Atlético Paranaense,0,1,Bahia (Salvador),False,Quarterfinal,Copa Sudamericana,2018
+2018-10-25,Atlético Junior,2,0,Defensa y Justicia,False,Quarterfinal,Copa Sudamericana,2018
+2018-11-01,Defensa y Justicia,3,1,Atlético Junior,False,Quarterfinal,Copa Sudamericana,2018
+2018-11-07,Atlético Paranaense,2,0,Fluminense,False,Semifinal,Copa Sudamericana,2018
+2018-11-28,Fluminense,0,2,Atlético Paranaense,False,Semifinal,Copa Sudamericana,2018
+2018-11-08,Independiente Santa Fe,0,2,Atlético Junior,False,Semifinal,Copa Sudamericana,2018
+2018-11-29,Atlético Junior,1,0,Independiente Santa Fe,False,Semifinal,Copa Sudamericana,2018
+2018-12-05,Atlético Junior,1,1,Atlético Paranaense,False,Final,Copa Sudamericana,2018
+2018-12-12,Atlético Paranaense,1,1,Atlético Junior,False,Final,Copa Sudamericana,2018

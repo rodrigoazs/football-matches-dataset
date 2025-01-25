@@ -1,0 +1,158 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2022-03-08,Estudiantes FC (Mérida),0,2,Metropolitanos FC,False,Group Stage,Copa Sudamericana,2022
+2022-03-15,Metropolitanos FC,4,0,Estudiantes FC (Mérida),False,Group Stage,Copa Sudamericana,2022
+2022-03-08,Royal Pari (Santa Cruz),2,3,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2022
+2022-03-15,Oriente Petrolero,3,0,Royal Pari (Santa Cruz),False,Group Stage,Copa Sudamericana,2022
+2022-03-08,Sol de América (Asunción),0,3,General Caballero JLM,False,Group Stage,Copa Sudamericana,2022
+2022-03-15,General Caballero JLM,2,1,Sol de América (Asunción),False,Group Stage,Copa Sudamericana,2022
+2022-03-08,Cienciano (Cusco),1,1,FBC Melgar (Arequipa),False,Group Stage,Copa Sudamericana,2022
+2022-03-15,FBC Melgar (Arequipa),1,0,Cienciano (Cusco),False,Group Stage,Copa Sudamericana,2022
+2022-03-08,Ñublense (Chillán),0,0,Unión La Calera,False,Group Stage,Copa Sudamericana,2022
+2022-03-15,Unión La Calera,2,1,Ñublense (Chillán),False,Group Stage,Copa Sudamericana,2022
+2022-03-09,Liverpool (Montevideo),0,1,River Plate (Montevideo),False,Group Stage,Copa Sudamericana,2022
+2022-03-16,River Plate (Montevideo),2,0,Liverpool (Montevideo),False,Group Stage,Copa Sudamericana,2022
+2022-03-09,Ayacucho FC,2,0,Sport Boys (Callao),False,Group Stage,Copa Sudamericana,2022
+2022-03-16,Sport Boys (Callao),3,2,Ayacucho FC,False,Group Stage,Copa Sudamericana,2022
+2022-03-09,Independiente Medellín,2,1,América (Cali),False,Group Stage,Copa Sudamericana,2022
+2022-03-16,América (Cali),2,1,Independiente Medellín,False,Group Stage,Copa Sudamericana,2022
+2022-03-09,Mushuc Runa (Ambato),0,2,LDU (Quito),False,Group Stage,Copa Sudamericana,2022
+2022-03-16,LDU (Quito),1,1,Mushuc Runa (Ambato),False,Group Stage,Copa Sudamericana,2022
+2022-03-10,Hermanos Colmenárez,2,0,Deportivo La Guaira,False,Group Stage,Copa Sudamericana,2022
+2022-03-17,Deportivo La Guaira,3,0,Hermanos Colmenárez,False,Group Stage,Copa Sudamericana,2022
+2022-03-10,Nacional (Asunción),0,1,Guaireña FC,False,Group Stage,Copa Sudamericana,2022
+2022-03-17,Guaireña FC,0,0,Nacional (Asunción),False,Group Stage,Copa Sudamericana,2022
+2022-03-10,Unión Española (Santiago),1,2,Deportes Antofagasta,False,Group Stage,Copa Sudamericana,2022
+2022-03-17,Deportes Antofagasta,0,1,Unión Española (Santiago),False,Group Stage,Copa Sudamericana,2022
+2022-03-10,Delfín (Manta),1,1,9 de Octubre (Guayaquil),False,Group Stage,Copa Sudamericana,2022
+2022-03-17,9 de Octubre (Guayaquil),2,0,Delfín (Manta),False,Group Stage,Copa Sudamericana,2022
+2022-03-10,Jorge Wilstermann,4,0,Guabirá (Montero),False,Group Stage,Copa Sudamericana,2022
+2022-03-17,Guabirá (Montero),3,0,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2022
+2022-03-10,La Equidad (Bogotá),0,0,Atl. Junior (Barranquilla,False,Group Stage,Copa Sudamericana,2022
+2022-03-17,Atl. Junior (Barranquilla,3,1,La Equidad (Bogotá),False,Group Stage,Copa Sudamericana,2022
+2022-03-10,Wanderers (Montevideo),2,1,Cerro Largo (Melo),False,Group Stage,Copa Sudamericana,2022
+2022-03-17,Cerro Largo (Melo),0,1,Wanderers (Montevideo),False,Group Stage,Copa Sudamericana,2022
+2022-04-07,Barcelona,4,2,Wanderers,False,Group Stage,Copa Sudamericana,2022
+2022-04-07,Metropolitanos,0,0,Lanús,False,Group Stage,Copa Sudamericana,2022
+2022-04-14,Wanderers,1,1,Metropolitanos,False,Group Stage,Copa Sudamericana,2022
+2022-04-14,Lanús,3,1,Barcelona,False,Group Stage,Copa Sudamericana,2022
+2022-04-28,Barcelona,1,0,Metropolitanos,False,Group Stage,Copa Sudamericana,2022
+2022-04-28,Wanderers,0,1,Lanús,False,Group Stage,Copa Sudamericana,2022
+2022-05-04,Metropolitanos,0,1,Wanderers,False,Group Stage,Copa Sudamericana,2022
+2022-05-04,Barcelona,1,1,Lanús,False,Group Stage,Copa Sudamericana,2022
+2022-05-19,Lanús,1,2,Wanderers,False,Group Stage,Copa Sudamericana,2022
+2022-05-19,Metropolitanos,2,2,Barcelona,False,Group Stage,Copa Sudamericana,2022
+2022-05-25,Lanús,1,0,Metropolitanos,False,Group Stage,Copa Sudamericana,2022
+2022-05-25,Wanderers,0,0,Barcelona,False,Group Stage,Copa Sudamericana,2022
+2022-04-07,Cuiabá,2,0,Melgar,False,Group Stage,Copa Sudamericana,2022
+2022-04-07,River Plate,0,1,Racing Club,False,Group Stage,Copa Sudamericana,2022
+2022-04-13,Melgar,2,0,River Plate,False,Group Stage,Copa Sudamericana,2022
+2022-04-13,Racing Club,2,0,Cuiabá,False,Group Stage,Copa Sudamericana,2022
+2022-04-27,Cuiabá,1,2,River Plate,False,Group Stage,Copa Sudamericana,2022
+2022-04-27,Melgar,3,1,Racing Club,False,Group Stage,Copa Sudamericana,2022
+2022-05-03,Cuiabá,1,2,Racing Club,False,Group Stage,Copa Sudamericana,2022
+2022-05-03,River Plate,1,2,Melgar,False,Group Stage,Copa Sudamericana,2022
+2022-05-18,River Plate,1,2,Cuiabá,False,Group Stage,Copa Sudamericana,2022
+2022-05-18,Racing Club,1,0,Melgar,False,Group Stage,Copa Sudamericana,2022
+2022-05-26,Melgar,3,1,Cuiabá,False,Group Stage,Copa Sudamericana,2022
+2022-05-26,Racing Club,0,1,River Plate,False,Group Stage,Copa Sudamericana,2022
+2022-04-05,Banfield,1,0,Santos,False,Group Stage,Copa Sudamericana,2022
+2022-04-05,Univ. Católica,0,0,Unión La Calera,False,Group Stage,Copa Sudamericana,2022
+2022-04-13,Santos,3,2,Universidad Católica,False,Group Stage,Copa Sudamericana,2022
+2022-04-14,Unión La Calera,1,0,Banfield,False,Group Stage,Copa Sudamericana,2022
+2022-04-27,Universidad Católica,2,0,Banfield,False,Group Stage,Copa Sudamericana,2022
+2022-04-28,Unión La Calera,1,1,Santos,False,Group Stage,Copa Sudamericana,2022
+2022-05-05,Banfield,0,1,Unión La Calera,False,Group Stage,Copa Sudamericana,2022
+2022-05-05,Universidad Católica,0,1,Santos,False,Group Stage,Copa Sudamericana,2022
+2022-05-17,Banfield,1,1,Universidad Católica,False,Group Stage,Copa Sudamericana,2022
+2022-05-18,Santos,1,0,Unión La Calera,False,Group Stage,Copa Sudamericana,2022
+2022-05-24,Santos,1,1,Banfield,False,Group Stage,Copa Sudamericana,2022
+2022-05-24,Unión La Calera,3,2,Univ. Católica,False,Group Stage,Copa Sudamericana,2022
+2022-04-05,Everton,1,1,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2022
+2022-04-07,Ayacucho FC,2,3,São Paulo,False,Group Stage,Copa Sudamericana,2022
+2022-04-13,Jorge Wilstermann,0,2,Ayacucho FC,False,Group Stage,Copa Sudamericana,2022
+2022-04-14,São Paulo,2,0,Everton,False,Group Stage,Copa Sudamericana,2022
+2022-04-26,Everton,2,1,Ayacucho FC,False,Group Stage,Copa Sudamericana,2022
+2022-04-28,Jorge Wilstermann,1,3,São Paulo,False,Group Stage,Copa Sudamericana,2022
+2022-05-05,Everton,0,0,São Paulo,False,Group Stage,Copa Sudamericana,2022
+2022-05-05,Ayacucho FC,0,0,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2022
+2022-05-18,Ayacucho FC,0,2,Everton,False,Group Stage,Copa Sudamericana,2022
+2022-05-19,São Paulo,3,0,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2022
+2022-05-25,Jorge Wilstermann,0,2,Everton,False,Group Stage,Copa Sudamericana,2022
+2022-05-25,São Paulo,1,0,Ayacucho FC,False,Group Stage,Copa Sudamericana,2022
+2022-04-06,9 de Octubre,2,2,Internacional,False,Group Stage,Copa Sudamericana,2022
+2022-04-07,Guaireña FC,3,3,Indep. Medellín,False,Group Stage,Copa Sudamericana,2022
+2022-04-14,Indep. Medellín,2,1,9 de Octubre,False,Group Stage,Copa Sudamericana,2022
+2022-04-14,Internacional,1,1,Guaireña FC,False,Group Stage,Copa Sudamericana,2022
+2022-04-26,Indep. Medellín,0,1,Internacional,False,Group Stage,Copa Sudamericana,2022
+2022-04-27,Guaireña FC,1,0,9 de Octubre,False,Group Stage,Copa Sudamericana,2022
+2022-05-03,9 de Octubre,3,2,Indep. Medellín,False,Group Stage,Copa Sudamericana,2022
+2022-05-05,Guaireña FC,1,1,Internacional,False,Group Stage,Copa Sudamericana,2022
+2022-05-17,Internacional,2,0,Indep. Medellín,False,Group Stage,Copa Sudamericana,2022
+2022-05-17,9 de Octubre,2,3,Guaireña FC,False,Group Stage,Copa Sudamericana,2022
+2022-05-24,Indep. Medellín,1,1,Guaireña FC,False,Group Stage,Copa Sudamericana,2022
+2022-05-24,Internacional,5,1,9 de Octubre,False,Group Stage,Copa Sudamericana,2022
+2022-04-05,Atlético Goianiense,4,0,LDU Quito,False,Group Stage,Copa Sudamericana,2022
+2022-04-06,Dep. Antofagasta,1,3,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2022
+2022-04-12,Defensa y Justicia,0,1,Atl. Goianiense,False,Group Stage,Copa Sudamericana,2022
+2022-04-12,LDU Quito,4,0,Deportes Antofagasta,False,Group Stage,Copa Sudamericana,2022
+2022-04-27,Dep. Antofagasta,2,1,Atl. Goianiense,False,Group Stage,Copa Sudamericana,2022
+2022-04-28,Defensa y Justicia,1,2,LDU Quito,False,Group Stage,Copa Sudamericana,2022
+2022-05-04,Atl. Goianiense,3,2,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2022
+2022-05-04,Deportes Antofagasta,1,2,LDU Quito,False,Group Stage,Copa Sudamericana,2022
+2022-05-17,Atl. Goianiense,1,0,Dep. Antofagasta,False,Group Stage,Copa Sudamericana,2022
+2022-05-18,LDU Quito,2,2,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2022
+2022-05-24,Defensa y Justicia,0,2,Dep. Antofagasta,False,Group Stage,Copa Sudamericana,2022
+2022-05-24,LDU Quito,1,1,Atlético Goianiense,False,Group Stage,Copa Sudamericana,2022
+2022-04-05,Ceará,2,1,Independiente,False,Group Stage,Copa Sudamericana,2022
+2022-04-06,Gral. Caballero,1,1,Deportivo La Guaira,False,Group Stage,Copa Sudamericana,2022
+2022-04-12,Deportivo La Guaira,0,2,Ceará,False,Group Stage,Copa Sudamericana,2022
+2022-04-12,Independiente,2,0,General Caballero,False,Group Stage,Copa Sudamericana,2022
+2022-04-26,Deportivo La Guaira,0,2,Independiente,False,Group Stage,Copa Sudamericana,2022
+2022-04-26,General Caballero,0,2,Ceará,False,Group Stage,Copa Sudamericana,2022
+2022-05-03,Ceará,3,0,Deportivo La Guaira,False,Group Stage,Copa Sudamericana,2022
+2022-05-03,General Caballero,0,4,Independiente,False,Group Stage,Copa Sudamericana,2022
+2022-05-17,Ceará,6,0,General Caballero,False,Group Stage,Copa Sudamericana,2022
+2022-05-19,Independiente,4,0,Deportivo La Guaira,False,Group Stage,Copa Sudamericana,2022
+2022-05-25,Deportivo La Guaira,0,1,Gral. Caballero,False,Group Stage,Copa Sudamericana,2022
+2022-05-25,Independiente,0,2,Ceará,False,Group Stage,Copa Sudamericana,2022
+2022-04-06,Fluminense,3,0,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2022
+2022-04-06,Unión,1,1,Atlético Junior,False,Group Stage,Copa Sudamericana,2022
+2022-04-12,Oriente Petrolero,1,3,Unión,False,Group Stage,Copa Sudamericana,2022
+2022-04-13,Atlético Junior,3,0,Fluminense,False,Group Stage,Copa Sudamericana,2022
+2022-04-26,Fluminense,0,0,Unión,False,Group Stage,Copa Sudamericana,2022
+2022-04-28,Oriente Petrolero,1,3,Atlético Junior,False,Group Stage,Copa Sudamericana,2022
+2022-05-04,Fluminense,2,1,Atlético Junior,False,Group Stage,Copa Sudamericana,2022
+2022-05-05,Unión,2,0,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2022
+2022-05-17,Atlético Junior,2,0,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2022
+2022-05-19,Unión,0,0,Fluminense,False,Group Stage,Copa Sudamericana,2022
+2022-05-26,Atlético Junior,0,4,Unión,False,Group Stage,Copa Sudamericana,2022
+2022-05-26,Oriente Petrolero,1,10,Fluminense,False,Group Stage,Copa Sudamericana,2022
+2022-06-28,Nacional (Montevideo),2,0,Unión (Santa Fe),False,Round of 16,Copa Sudamericana,2022
+2022-07-05,Unión (Santa Fe),1,2,Nacional (Montevideo),False,Round of 16,Copa Sudamericana,2022
+2022-06-28,Colo Colo (Santiago),2,0,Internacional (P. Alegre),False,Round of 16,Copa Sudamericana,2022
+2022-07-05,Internacional (P. Alegre),4,1,Colo Colo (Santiago),False,Round of 16,Copa Sudamericana,2022
+2022-06-29,The Strongest (La Paz),1,2,Ceará (Fortaleza),False,Round of 16,Copa Sudamericana,2022
+2022-07-06,Ceará (Fortaleza),3,0,The Strongest (La Paz),False,Round of 16,Copa Sudamericana,2022
+2022-06-29,Deportivo Cali,0,0,FBC Melgar (Arequipa),False,Round of 16,Copa Sudamericana,2022
+2022-07-06,FBC Melgar (Arequipa),2,1,Deportivo Cali,False,Round of 16,Copa Sudamericana,2022
+2022-06-29,Deportivo Táchira,1,1,Santos,False,Round of 16,Copa Sudamericana,2022
+2022-07-06,Santos,1,1,Deportivo Táchira,False,Round of 16,Copa Sudamericana,2022
+2022-06-30,Independiente del Valle,2,1,Lanús,False,Round of 16,Copa Sudamericana,2022
+2022-07-07,Lanús,0,0,Independiente del Valle,False,Round of 16,Copa Sudamericana,2022
+2022-06-30,Olimpia (Asunción),2,0,Atlético Goianiense,False,Round of 16,Copa Sudamericana,2022
+2022-07-07,Atlético Goianiense,2,0,Olimpia (Asunción),False,Round of 16,Copa Sudamericana,2022
+2022-06-30,Universidad Católica,2,4,São Paulo,False,Round of 16,Copa Sudamericana,2022
+2022-07-07,São Paulo,4,1,Universidad Católica,False,Round of 16,Copa Sudamericana,2022
+2022-08-02,Nacional (Montevideo),0,1,Atlético Goianiense,False,Quarterfinal,Copa Sudamericana,2022
+2022-08-09,Atlético Goianiense,3,0,Nacional (Montevideo),False,Quarterfinal,Copa Sudamericana,2022
+2022-08-02,Deportivo Táchira,0,1,Independiente del Valle,False,Quarterfinal,Copa Sudamericana,2022
+2022-08-09,Independiente del Valle,4,1,Deportivo Táchira,False,Quarterfinal,Copa Sudamericana,2022
+2022-08-03,São Paulo,1,0,Ceará (Fortaleza),False,Quarterfinal,Copa Sudamericana,2022
+2022-08-10,Ceará (Fortaleza),2,1,São Paulo,False,Quarterfinal,Copa Sudamericana,2022
+2022-08-04,FBC Melgar (Arequipa),0,0,Internacional (P. Alegre),False,Quarterfinal,Copa Sudamericana,2022
+2022-08-11,Internacional (P. Alegre),0,0,FBC Melgar (Arequipa),False,Quarterfinal,Copa Sudamericana,2022
+2022-08-31,Independiente del Valle,3,0,FBC Melgar (Arequipa),False,Semifinal,Copa Sudamericana,2022
+2022-09-07,FBC Melgar (Arequipa),0,3,Independiente del Valle,False,Semifinal,Copa Sudamericana,2022
+2022-09-01,Atlético Goianiense,3,1,São Paulo,False,Semifinal,Copa Sudamericana,2022
+2022-09-08,São Paulo,2,0,Atlético Goianiense,False,Semifinal,Copa Sudamericana,2022
+2022-10-01,Independiente del Valle,2,0,São Paulo,False,Final,Copa Sudamericana,2022

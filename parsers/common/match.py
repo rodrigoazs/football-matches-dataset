@@ -6,7 +6,7 @@ from parsers.common.date import convert_date
 def get_match(line, tournament, year, date, stage):
     # Boca Juniors (Bs. Aires)  Arg  Newell's Old Boys         Arg   0-0  0-0  0-0  9-10p
     match_pattern = re.compile(
-        r"([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+(\d{1,2})\-(\d{1,2})\s+(\d{1,2})\-(\d{1,2})",
+        r"([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex|USA|CRi)\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex|USA|CRi)\s+(\d{1,2})\-(\d{1,2})\s+(\d{1,2})\-(\d{1,2})",
         re.UNICODE,
     )
 
@@ -82,7 +82,7 @@ def get_match(line, tournament, year, date, stage):
     
     # Tacuary FC                Par  Club General Caballero    Par   2-2
     match_pattern = re.compile(
-        r"([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+(\d{1,2})\-(\d{1,2})",
+        r"([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex|USA|CRi)\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex|USA|CRi)\s+(\d{1,2})\-(\d{1,2})",
         re.UNICODE,
     )
 

@@ -1,0 +1,106 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2020-02-04,Coquimbo Unido,3,0,Aragua FC,False,Group Stage,Copa Sudamericana,2020
+2020-02-18,Aragua FC,1,0,Coquimbo Unido,False,Group Stage,Copa Sudamericana,2020
+2020-02-04,Nacional Potosí,0,2,Melgar (Arequipa),False,Group Stage,Copa Sudamericana,2020
+2020-02-18,Melgar (Arequipa),0,2,Nacional Potosí,False,Group Stage,Copa Sudamericana,2020
+2020-02-04,Fluminense (Rio de Jan.),1,1,Unión La Calera,False,Group Stage,Copa Sudamericana,2020
+2020-02-18,Unión La Calera,0,0,Fluminense (Rio de Jan.),False,Group Stage,Copa Sudamericana,2020
+2020-02-04,Vélez Sársfield (B.Aires),1,0,Aucas (Quito),False,Group Stage,Copa Sudamericana,2020
+2020-02-18,Aucas (Quito),2,1,Vélez Sársfield (B.Aires),False,Group Stage,Copa Sudamericana,2020
+2020-02-05,Mineros de Guayana,2,3,Sportivo Luqueño,False,Group Stage,Copa Sudamericana,2020
+2020-02-19,Sportivo Luqueño,2,2,Mineros de Guayana,False,Group Stage,Copa Sudamericana,2020
+2020-02-05,Atl. Nacional (Medellín),3,0,Huracán (Buenos Aires),False,Group Stage,Copa Sudamericana,2020
+2020-02-19,Huracán (Buenos Aires),1,1,Atl. Nacional (Medellín),False,Group Stage,Copa Sudamericana,2020
+2020-02-05,Vasco da Gama (Rio de J.),1,0,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2020
+2020-02-19,Oriente Petrolero,0,0,Vasco da Gama (Rio de J.),False,Group Stage,Copa Sudamericana,2020
+2020-02-05,Fénix (Montevideo),1,0,El Nacional (Quito),False,Group Stage,Copa Sudamericana,2020
+2020-02-20,El Nacional (Quito),2,2,Fénix (Montevideo),False,Group Stage,Copa Sudamericana,2020
+2020-02-06,Blooming (Santa Cruz),0,3,Emelec (Guayaquil),False,Group Stage,Copa Sudamericana,2020
+2020-02-20,Emelec (Guayaquil),2,0,Blooming (Santa Cruz),False,Group Stage,Copa Sudamericana,2020
+2020-02-06,Millonarios (Bogotá),2,0,Always Ready (La Paz),False,Group Stage,Copa Sudamericana,2020
+2020-02-20,Always Ready (La Paz),1,0,Millonarios (Bogotá),False,Group Stage,Copa Sudamericana,2020
+2020-02-06,Unión (Santa Fe),3,0,Atlético Mineiro,False,Group Stage,Copa Sudamericana,2020
+2020-02-20,Atlético Mineiro,2,0,Unión (Santa Fe),False,Group Stage,Copa Sudamericana,2020
+2020-02-11,Argentinos Juniors,1,1,Sport Huancayo,False,Group Stage,Copa Sudamericana,2020
+2020-02-25,Sport Huancayo,0,0,Argentinos Juniors,False,Group Stage,Copa Sudamericana,2020
+2020-02-11,Atlético Grau (Piura),1,2,River Plate (Montevideo),False,Group Stage,Copa Sudamericana,2020
+2020-02-25,River Plate (Montevideo),1,0,Atlético Grau (Piura),False,Group Stage,Copa Sudamericana,2020
+2020-02-11,Deportivo Cali,2,1,River Plate (Asunción),False,Group Stage,Copa Sudamericana,2020
+2020-02-25,River Plate (Asunción),1,3,Deportivo Cali,False,Group Stage,Copa Sudamericana,2020
+2020-02-11,Sol de América (Asunción),1,0,Goiás (Goiânia),False,Group Stage,Copa Sudamericana,2020
+2020-02-25,Goiás (Goiânia),0,1,Sol de América (Asunción),False,Group Stage,Copa Sudamericana,2020
+2020-02-12,Huachipato (Talcahuano),1,0,Deportivo Pasto,False,Group Stage,Copa Sudamericana,2020
+2020-02-26,Deportivo Pasto,0,1,Huachipato (Talcahuano),False,Group Stage,Copa Sudamericana,2020
+2020-02-12,Lanús,3,0,Univ. Católica (Quito),False,Group Stage,Copa Sudamericana,2020
+2020-02-26,Univ. Católica (Quito),2,0,Lanús,False,Group Stage,Copa Sudamericana,2020
+2020-02-12,Bahia (Salvador),3,0,Nacional (Asunción),False,Group Stage,Copa Sudamericana,2020
+2020-02-26,Nacional (Asunción),1,3,Bahia (Salvador),False,Group Stage,Copa Sudamericana,2020
+2020-02-12,Llaneros de Guanare,0,2,Liverpool (Montevideo),False,Group Stage,Copa Sudamericana,2020
+2020-02-26,Liverpool (Montevideo),5,0,Llaneros de Guanare,False,Group Stage,Copa Sudamericana,2020
+2020-02-13,Zamora FC (Barinas),1,0,Plaza (Colonia),False,Group Stage,Copa Sudamericana,2020
+2020-02-27,Plaza (Colonia),3,0,Zamora FC (Barinas),False,Group Stage,Copa Sudamericana,2020
+2020-02-13,Independiente (Avellaneda,1,0,Fortaleza,False,Group Stage,Copa Sudamericana,2020
+2020-02-27,Fortaleza,2,1,Independiente (Avellaneda,False,Group Stage,Copa Sudamericana,2020
+2020-02-13,Real Garcilaso (Cusco),2,0,Audax Italiano (Santiago),False,Group Stage,Copa Sudamericana,2020
+2020-02-27,Audax Italiano (Santiago),3,0,Real Garcilaso (Cusco),False,Group Stage,Copa Sudamericana,2020
+2020-10-27,Sport Huancayo,1,1,Liverpool (Montevideo),False,Round of 16,Copa Sudamericana,2020
+2020-11-03,Liverpool (Montevideo),1,2,Sport Huancayo,False,Round of 16,Copa Sudamericana,2020
+2020-10-27,Audax Italiano (Santiago),2,1,Bolívar (La Paz),False,Round of 16,Copa Sudamericana,2020
+2020-11-03,Bolívar (La Paz),3,0,Audax Italiano (Santiago),False,Round of 16,Copa Sudamericana,2020
+2020-10-27,Unión La Calera,0,0,Deportes Tolima (Ibagué),False,Round of 16,Copa Sudamericana,2020
+2020-11-03,Deportes Tolima (Ibagué),1,1,Unión La Calera,False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Atl. Nacional (Medellín),1,1,River Plate (Montevideo),False,Round of 16,Copa Sudamericana,2020
+2020-11-04,River Plate (Montevideo),3,1,Atl. Nacional (Medellín),False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Fénix (Montevideo),3,1,Huachipato (Talcahuano),False,Round of 16,Copa Sudamericana,2020
+2020-11-04,Huachipato (Talcahuano),1,1,Fénix (Montevideo),False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Lanús,3,2,São Paulo,False,Round of 16,Copa Sudamericana,2020
+2020-11-04,São Paulo,4,3,Lanús,False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Sportivo Luqueño,1,2,Defensa y Justicia (Fl.V.,False,Round of 16,Copa Sudamericana,2020
+2020-11-04,Defensa y Justicia (Fl.V.,1,1,Sportivo Luqueño,False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Millonarios (Bogotá),1,2,Deportivo Cali,False,Round of 16,Copa Sudamericana,2020
+2020-11-04,Deportivo Cali,1,2,Millonarios (Bogotá),False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Vasco da Gama (Rio de J.),1,0,Caracas FC,False,Round of 16,Copa Sudamericana,2020
+2020-11-04,Caracas FC,0,0,Vasco da Gama (Rio de J.),False,Round of 16,Copa Sudamericana,2020
+2020-10-28,Vélez Sársfield (B.Aires),0,0,Peñarol (Montevideo),False,Round of 16,Copa Sudamericana,2020
+2020-11-04,Peñarol (Montevideo),1,1,Vélez Sársfield (B.Aires),False,Round of 16,Copa Sudamericana,2020
+2020-10-29,Coquimbo Unido,3,0,Estudiantes (Mérida),False,Round of 16,Copa Sudamericana,2020
+2020-11-05,Estudiantes (Mérida),0,2,Coquimbo Unido,False,Round of 16,Copa Sudamericana,2020
+2020-10-29,Sol de América (Asunción),0,0,Univ. Católica (Santiago),False,Round of 16,Copa Sudamericana,2020
+2020-11-05,Univ. Católica (Santiago),2,1,Sol de América (Asunción),False,Round of 16,Copa Sudamericana,2020
+2020-10-29,Unión (Santa Fe),0,1,Emelec (Guayaquil),False,Round of 16,Copa Sudamericana,2020
+2020-11-05,Emelec (Guayaquil),1,2,Unión (Santa Fe),False,Round of 16,Copa Sudamericana,2020
+2020-10-29,Independiente (Avellaneda,1,0,Atlético Tucumán,False,Round of 16,Copa Sudamericana,2020
+2020-11-05,Atlético Tucumán,1,1,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2020
+2020-10-29,Melgar (Arequipa),1,0,Bahia (Salvador),False,Round of 16,Copa Sudamericana,2020
+2020-11-05,Bahia (Salvador),4,0,Melgar (Arequipa),False,Round of 16,Copa Sudamericana,2020
+2020-10-29,Plaza (Colonia),0,1,Atl. Junior (Barranquilla,False,Round of 16,Copa Sudamericana,2020
+2020-11-05,Atl. Junior (Barranquilla,0,0,Plaza (Colonia),False,Round of 16,Copa Sudamericana,2020
+2020-11-24,Bahia (Salvador),1,0,Unión (Santa Fe),False,Round of 16,Copa Sudamericana,2020
+2020-12-01,Unión (Santa Fe),0,0,Bahia (Salvador),False,Round of 16,Copa Sudamericana,2020
+2020-11-24,Vélez Sársfield (B.Aires),2,0,Deportivo Cali,False,Round of 16,Copa Sudamericana,2020
+2020-12-01,Deportivo Cali,1,5,Vélez Sársfield (B.Aires),False,Round of 16,Copa Sudamericana,2020
+2020-11-25,Bolívar (La Paz),2,1,Lanús,False,Round of 16,Copa Sudamericana,2020
+2020-12-02,Lanús,6,2,Bolívar (La Paz),False,Round of 16,Copa Sudamericana,2020
+2020-11-25,Coquimbo Unido,0,0,Sport Huancayo,False,Round of 16,Copa Sudamericana,2020
+2020-12-02,Sport Huancayo,0,2,Coquimbo Unido,False,Round of 16,Copa Sudamericana,2020
+2020-11-25,Fénix (Montevideo),1,4,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2020
+2020-12-02,Independiente (Avellaneda,1,0,Fénix (Montevideo),False,Round of 16,Copa Sudamericana,2020
+2020-11-26,River Plate (Montevideo),1,2,Univ. Católica (Santiago),False,Round of 16,Copa Sudamericana,2020
+2020-12-03,Univ. Católica (Santiago),0,1,River Plate (Montevideo),False,Round of 16,Copa Sudamericana,2020
+2020-11-26,Defensa y Justicia (Fl.V.,1,1,Vasco da Gama (Rio de J.),False,Round of 16,Copa Sudamericana,2020
+2020-12-03,Vasco da Gama (Rio de J.),0,1,Defensa y Justicia (Fl.V.,False,Round of 16,Copa Sudamericana,2020
+2020-11-26,Atl. Junior (Barranquilla,2,1,Unión La Calera,False,Round of 16,Copa Sudamericana,2020
+2020-12-03,Unión La Calera,2,1,Atl. Junior (Barranquilla,False,Round of 16,Copa Sudamericana,2020
+2020-12-08,Vélez Sársfield (B.Aires),1,2,Univ. Católica (Santiago),False,Quarterfinal,Copa Sudamericana,2020
+2020-12-15,Univ. Católica (Santiago),1,3,Vélez Sársfield (B.Aires),False,Quarterfinal,Copa Sudamericana,2020
+2020-12-09,Bahia (Salvador),2,3,Defensa y Justicia (Fl.V.,False,Quarterfinal,Copa Sudamericana,2020
+2020-12-16,Defensa y Justicia (Fl.V.,1,0,Bahia (Salvador),False,Quarterfinal,Copa Sudamericana,2020
+2020-12-09,Atl. Junior (Barranquilla,1,2,Coquimbo Unido,False,Quarterfinal,Copa Sudamericana,2020
+2020-12-16,Coquimbo Unido,0,1,Atl. Junior (Barranquilla,False,Quarterfinal,Copa Sudamericana,2020
+2020-12-10,Lanús,0,0,Independiente (Avellaneda,False,Quarterfinal,Copa Sudamericana,2020
+2020-12-17,Independiente (Avellaneda,1,3,Lanús,False,Quarterfinal,Copa Sudamericana,2020
+2021-01-06,Vélez Sársfield (B.Aires),0,1,Lanús,False,Semifinal,Copa Sudamericana,2020
+2021-01-13,Lanús,3,0,Vélez Sársfield (B.Aires),False,Semifinal,Copa Sudamericana,2020
+2021-01-12,Coquimbo Unido,0,0,Defensa y Justicia (Fl.V.,False,Semifinal,Copa Sudamericana,2020
+2021-01-16,Defensa y Justicia (Fl.V.,4,2,Coquimbo Unido,False,Semifinal,Copa Sudamericana,2020
+2021-01-23,Lanús,0,3,Defensa y Justicia (Fl.V.,False,Final,Copa Sudamericana,2020

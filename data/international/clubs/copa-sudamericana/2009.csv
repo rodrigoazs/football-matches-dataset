@@ -1,0 +1,61 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2009-08-04,Universidad de Chile,2,1,Deportivo Cali,False,,Copa Sudamericana,2009
+2009-08-18,Deportivo Cali,0,1,Universidad de Chile,False,,Copa Sudamericana,2009
+2009-08-05,La Equidad,2,2,Unión Española,False,,Copa Sudamericana,2009
+2009-08-25,Unión Española,1,0,La Equidad,False,,Copa Sudamericana,2009
+2009-08-05,Zamora FC,0,1,Emelec,False,,Copa Sudamericana,2009
+2009-08-27,Emelec,2,1,Zamora FC,False,,Copa Sudamericana,2009
+2009-08-06,Alianza Atlético,0,0,Deportivo Anzoátegui SC,False,,Copa Sudamericana,2009
+2009-09-15,Deportivo Anzoátegui SC,1,2,Alianza Atlético,False,,Copa Sudamericana,2009
+2009-08-11,LDU de Quito,1,0,Libertad,False,,Copa Sudamericana,2009
+2009-08-25,Libertad,1,1,LDU de Quito,False,,Copa Sudamericana,2009
+2009-08-11,Blooming,0,1,River Plate (Montevideo),False,,Copa Sudamericana,2009
+2009-08-27,River Plate (Montevideo),2,1,Blooming,False,,Copa Sudamericana,2009
+2009-08-12,Cerro Porteño,2,0,La Paz FC,False,,Copa Sudamericana,2009
+2009-08-20,La Paz FC,1,2,Cerro Porteño,False,,Copa Sudamericana,2009
+2009-08-12,Fluminense,0,0,Flamengo,False,,Copa Sudamericana,2009
+2009-08-26,Flamengo,1,1,Fluminense,False,,Copa Sudamericana,2009
+2009-08-13,Liverpool (Montevideo),0,0,Cienciano,False,,Copa Sudamericana,2009
+2009-08-20,Cienciano,2,0,Liverpool (Montevideo),False,,Copa Sudamericana,2009
+2009-08-13,EC Vitória,2,0,Coritiba,False,,Copa Sudamericana,2009
+2009-08-25,Coritiba,2,0,EC Vitória,False,,Copa Sudamericana,2009
+2009-08-18,Tigre,2,1,San Lorenzo de Almagro,False,,Copa Sudamericana,2009
+2009-09-15,San Lorenzo de Almagro,1,0,Tigre,False,,Copa Sudamericana,2009
+2009-08-19,River Plate (Buenos Aires,1,2,Lanús,False,,Copa Sudamericana,2009
+2009-09-17,Lanús,1,0,River Plate (Buenos Aires,False,,Copa Sudamericana,2009
+2009-08-20,Boca Juniors,1,1,Vélez Sarsfield,False,,Copa Sudamericana,2009
+2009-09-16,Vélez Sarsfield,1,0,Boca Juniors,False,,Copa Sudamericana,2009
+2009-08-26,Atlético-MG,1,1,EC Goiás,False,,Copa Sudamericana,2009
+2009-09-19,EC Goiás,1,1,Atlético-MG,False,,Copa Sudamericana,2009
+2009-09-02,Atlético-PR,0,0,Botafogo (Rio de Janeiro),False,,Copa Sudamericana,2009
+2009-09-16,Botafogo (Rio de Janeiro),3,2,Atlético-PR,False,,Copa Sudamericana,2009
+2009-09-22,River Plate (Montevideo),4,1,EC Vitória,False,Round of 16,Copa Sudamericana,2009
+2009-09-30,EC Vitória,1,1,River Plate (Montevideo),False,Round of 16,Copa Sudamericana,2009
+2009-09-23,Internacional,1,1,Universidad de Chile,False,Round of 16,Copa Sudamericana,2009
+2009-09-30,Universidad de Chile,1,0,Internacional,False,Round of 16,Copa Sudamericana,2009
+2009-09-23,Botafogo (Rio de Janeiro),2,0,Emelec,False,Round of 16,Copa Sudamericana,2009
+2009-09-30,Emelec,2,1,Botafogo (Rio de Janeiro),False,Round of 16,Copa Sudamericana,2009
+2009-09-23,Vélez Sarsfield,3,2,Unión Española,False,Round of 16,Copa Sudamericana,2009
+2009-10-01,Unión Española,2,2,Vélez Sarsfield,False,Round of 16,Copa Sudamericana,2009
+2009-09-23,Alianza Atlético,2,2,Fluminense,False,Round of 16,Copa Sudamericana,2009
+2009-10-01,Fluminense,4,1,Alianza Atlético,False,Round of 16,Copa Sudamericana,2009
+2009-09-24,San Lorenzo de Almagro,3,0,Cienciano,False,Round of 16,Copa Sudamericana,2009
+2009-09-30,Cienciano,0,2,San Lorenzo de Almagro,False,Round of 16,Copa Sudamericana,2009
+2009-09-24,Cerro Porteño,2,0,EC Goiás,False,Round of 16,Copa Sudamericana,2009
+2009-10-01,EC Goiás,3,1,Cerro Porteño,False,Round of 16,Copa Sudamericana,2009
+2009-09-24,LDU Quito,4,0,Lanús,False,Round of 16,Copa Sudamericana,2009
+2009-10-01,Lanús,1,1,LDU Quito,False,Round of 16,Copa Sudamericana,2009
+2009-10-20,Vélez Sarsfield,1,1,LDU Quito,False,Quarterfinal,Copa Sudamericana,2009
+2009-11-05,LDU Quito,2,1,Vélez Sarsfield,False,Quarterfinal,Copa Sudamericana,2009
+2009-10-21,Cerro Porteño,2,1,Botafogo (Rio de Janeiro),False,Quarterfinal,Copa Sudamericana,2009
+2009-11-04,Botafogo (Rio de Janeiro),1,3,Cerro Porteño,False,Quarterfinal,Copa Sudamericana,2009
+2009-10-21,River Plate (Montevideo),0,1,San Lorenzo de Almagro,False,Quarterfinal,Copa Sudamericana,2009
+2009-11-04,San Lorenzo de Almagro,0,1,River Plate (Montevideo),False,Quarterfinal,Copa Sudamericana,2009
+2009-10-22,Fluminense,2,2,Universidad de Chile,False,Quarterfinal,Copa Sudamericana,2009
+2009-11-05,Universidad de Chile,0,1,Fluminense,False,Quarterfinal,Copa Sudamericana,2009
+2009-11-11,Cerro Porteño,0,1,Fluminense,False,Semifinal,Copa Sudamericana,2009
+2009-11-18,Fluminense,2,1,Cerro Porteño,False,Semifinal,Copa Sudamericana,2009
+2009-11-12,River Plate (Montevideo),2,1,LDU Quito,False,Semifinal,Copa Sudamericana,2009
+2009-11-19,LDU Quito,7,0,River Plate (Montevideo),False,Semifinal,Copa Sudamericana,2009
+2009-11-25,LDU Quito,5,1,Fluminense,False,Final,Copa Sudamericana,2009
+2009-12-02,Fluminense,3,0,LDU Quito,False,Final,Copa Sudamericana,2009

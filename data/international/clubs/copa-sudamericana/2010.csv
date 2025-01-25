@@ -1,0 +1,77 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2010-08-03,Defensor Sporting,2,0,Olimpia (Asunción),False,,Copa Sudamericana,2010
+2010-08-31,Olimpia (Asunción),1,1,Defensor Sporting,False,,Copa Sudamericana,2010
+2010-08-04,Deportivo Quito,3,2,Universidad San Martín,False,,Copa Sudamericana,2010
+2010-08-10,Universidad San Martín,2,1,Deportivo Quito,False,,Copa Sudamericana,2010
+2010-08-04,Atlético Huila,4,1,Trujillanos FC,False,,Copa Sudamericana,2010
+2010-09-01,Trujillanos FC,1,1,Atlético Huila,False,,Copa Sudamericana,2010
+2010-08-12,Universidad César Vallejo,1,2,Barcelona (Guayaquil),False,,Copa Sudamericana,2010
+2010-08-24,Barcelona (Guayaquil),3,1,Universidad César Vallejo,False,,Copa Sudamericana,2010
+2010-08-17,Universitario (Sucre),2,0,Colo Colo,False,,Copa Sudamericana,2010
+2010-08-25,Colo Colo,3,1,Universitario (Sucre),False,,Copa Sudamericana,2010
+2010-08-17,CD Lara,2,0,Independiente Santa Fe,False,,Copa Sudamericana,2010
+2010-08-26,Independiente Santa Fe,4,0,CD Lara,False,,Copa Sudamericana,2010
+2010-08-19,Guaraní (Asunción),2,0,River Plate,False,,Copa Sudamericana,2010
+2010-09-01,River Plate,4,2,Guaraní (Asunción),False,,Copa Sudamericana,2010
+2010-08-24,Universidad de Chile,2,2,Oriente Petrolero,False,,Copa Sudamericana,2010
+2010-08-31,Oriente Petrolero,1,0,Universidad de Chile,False,,Copa Sudamericana,2010
+2010-08-04,Grêmio Prudente,0,0,Atlético Mineiro,False,Round of 16,Copa Sudamericana,2010
+2010-08-11,Atlético Mineiro,1,0,Grêmio Prudente,False,Round of 16,Copa Sudamericana,2010
+2010-08-05,Goiás EC,1,1,Grêmio (Porto Alegre),False,Round of 16,Copa Sudamericana,2010
+2010-08-12,Grêmio (Porto Alegre),0,2,Goiás EC,False,Round of 16,Copa Sudamericana,2010
+2010-08-11,Vitória (Salvador),2,0,Palmeiras,False,Round of 16,Copa Sudamericana,2010
+2010-08-19,Palmeiras,3,0,Vitória (Salvador),False,Round of 16,Copa Sudamericana,2010
+2010-08-12,Santos FC,1,3,Avaí,False,Round of 16,Copa Sudamericana,2010
+2010-08-18,Avaí,0,1,Santos FC,False,Round of 16,Copa Sudamericana,2010
+2010-08-26,Independiente,1,0,Argentinos Juniors,False,Round of 16,Copa Sudamericana,2010
+2010-09-09,Argentinos Juniors,1,1,Independiente,False,Round of 16,Copa Sudamericana,2010
+2010-08-31,Barcelona (Guayaquil),0,1,Peñarol,False,Round of 16,Copa Sudamericana,2010
+2010-09-14,Peñarol,2,1,Barcelona (Guayaquil),False,Round of 16,Copa Sudamericana,2010
+2010-09-02,Vélez Sarsfield,0,1,Banfield,False,Round of 16,Copa Sudamericana,2010
+2010-09-15,Banfield,1,1,Vélez Sarsfield,False,Round of 16,Copa Sudamericana,2010
+2010-09-07,Atlético Huila,1,1,San José (Oruro),False,Round of 16,Copa Sudamericana,2010
+2010-09-22,San José (Oruro),4,0,Atlético Huila,False,Round of 16,Copa Sudamericana,2010
+2010-09-07,Guaraní (Asunción),1,1,Unión San Felipe,False,Round of 16,Copa Sudamericana,2010
+2010-09-23,Unión San Felipe,1,1,Guaraní (Asunción),False,Round of 16,Copa Sudamericana,2010
+2010-09-09,Universitario (Sucre),1,0,Cerro Porteño (Asunción),False,Round of 16,Copa Sudamericana,2010
+2010-09-21,Cerro Porteño (Asunción),2,2,Universitario (Sucre),False,Round of 16,Copa Sudamericana,2010
+2010-09-14,Oriente Petrolero,1,0,Deportes Tolima,False,Round of 16,Copa Sudamericana,2010
+2010-09-21,Deportes Tolima,2,0,Oriente Petrolero,False,Round of 16,Copa Sudamericana,2010
+2010-09-15,Universidad San Martín,2,1,Emelec,False,Round of 16,Copa Sudamericana,2010
+2010-09-23,Emelec,5,0,Universidad San Martín,False,Round of 16,Copa Sudamericana,2010
+2010-09-16,Newell's Old Boys,1,0,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2010
+2010-09-22,Estudiantes (La Plata),1,1,Newell's Old Boys,False,Round of 16,Copa Sudamericana,2010
+2010-09-16,Defensor Sporting,9,0,Sport Huancayo,False,Round of 16,Copa Sudamericana,2010
+2010-09-22,Sport Huancayo,2,0,Defensor Sporting,False,Round of 16,Copa Sudamericana,2010
+2010-09-16,Independiente Santa Fe,2,1,Caracas FC,False,Round of 16,Copa Sudamericana,2010
+2010-09-23,Caracas FC,0,0,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2010
+2010-09-28,Defensor Sporting,1,0,Independiente,False,Round of 16,Copa Sudamericana,2010
+2010-10-19,Independiente,4,2,Defensor Sporting,False,Round of 16,Copa Sudamericana,2010
+2010-09-29,Banfield,2,0,Deportes Tolima,False,Round of 16,Copa Sudamericana,2010
+2010-10-12,Deportes Tolima,3,0,Banfield,False,Round of 16,Copa Sudamericana,2010
+2010-10-06,Newell's Old Boys,6,0,San José (Oruro),False,Round of 16,Copa Sudamericana,2010
+2010-10-21,San José (Oruro),2,0,Newell's Old Boys,False,Round of 16,Copa Sudamericana,2010
+2010-10-12,Unión San Felipe,4,2,LDU Quito,False,Round of 16,Copa Sudamericana,2010
+2010-10-19,LDU Quito,6,1,Unión San Felipe,False,Round of 16,Copa Sudamericana,2010
+2010-10-13,Goiás EC,1,0,Peñarol,False,Round of 16,Copa Sudamericana,2010
+2010-10-20,Peñarol,3,2,Goiás EC,False,Round of 16,Copa Sudamericana,2010
+2010-10-13,Atlético Mineiro,2,0,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2010
+2010-10-20,Independiente Santa Fe,1,0,Atlético Mineiro,False,Round of 16,Copa Sudamericana,2010
+2010-10-13,Emelec,2,1,Avaí,False,Round of 16,Copa Sudamericana,2010
+2010-10-21,Avaí,3,1,Emelec,False,Round of 16,Copa Sudamericana,2010
+2010-10-14,Universitario (Sucre),0,1,Palmeiras,False,Round of 16,Copa Sudamericana,2010
+2010-10-20,Palmeiras,3,1,Universitario (Sucre),False,Round of 16,Copa Sudamericana,2010
+2010-10-27,Atlético Mineiro,1,1,Palmeiras,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-10,Palmeiras,2,0,Atlético Mineiro,False,Quarterfinal,Copa Sudamericana,2010
+2010-10-27,Goiás EC,2,2,Avaí,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-11,Avaí,0,1,Goiás EC,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-02,Newell's Old Boys,0,0,LDU Quito,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-10,LDU Quito,1,0,Newell's Old Boys,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-03,Deportes Tolima,2,2,Independiente,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-11,Independiente,0,0,Deportes Tolima,False,Quarterfinal,Copa Sudamericana,2010
+2010-11-17,Goiás EC,0,1,Palmeiras,False,Semifinal,Copa Sudamericana,2010
+2010-11-24,Palmeiras,1,2,Goiás EC,False,Semifinal,Copa Sudamericana,2010
+2010-11-18,LDU Quito,3,2,Independiente,False,Semifinal,Copa Sudamericana,2010
+2010-11-25,Independiente,2,1,LDU Quito,False,Semifinal,Copa Sudamericana,2010
+2010-12-01,Goiás EC,2,0,Independiente,False,Final,Copa Sudamericana,2010
+2010-12-08,Independiente,3,1,Goiás EC,False,Final,Copa Sudamericana,2010

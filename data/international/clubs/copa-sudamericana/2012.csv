@@ -1,0 +1,92 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2012-07-24,Danubio,0,0,Olimpia,False,,Copa Sudamericana,2012
+2012-08-07,Olimpia,2,1,Danubio,False,,Copa Sudamericana,2012
+2012-07-31,Iquique,2,0,Nacional,False,,Copa Sudamericana,2012
+2012-08-14,Nacional,4,0,Iquique,False,,Copa Sudamericana,2012
+2012-08-02,Blooming,1,1,Universidad Católica,False,,Copa Sudamericana,2012
+2012-08-09,Universidad Católica,3,0,Blooming,False,,Copa Sudamericana,2012
+2012-07-26,Guaraní (Asunción),0,1,Oriente Petrolero,False,,Copa Sudamericana,2012
+2012-08-09,Oriente Petrolero,1,2,Guaraní (Asunción),False,,Copa Sudamericana,2012
+2012-07-25,Liverpool,3,0,Universitario (Sucre),False,,Copa Sudamericana,2012
+2012-08-16,Universitario (Sucre),1,2,Liverpool,False,,Copa Sudamericana,2012
+2012-07-26,Aurora,2,1,Cerro Largo,False,,Copa Sudamericana,2012
+2012-08-14,Cerro Largo,0,0,Aurora,False,,Copa Sudamericana,2012
+2012-07-24,Tacuary,0,1,Cobreloa,False,,Copa Sudamericana,2012
+2012-08-07,Cobreloa,2,2,Tacuary,False,,Copa Sudamericana,2012
+2012-07-26,O'Higgins,3,3,Cerro Porteño,False,,Copa Sudamericana,2012
+2012-08-08,Cerro Porteño,4,0,O'Higgins,False,,Copa Sudamericana,2012
+2012-08-02,Inti Gas,0,0,Millonarios,False,,Copa Sudamericana,2012
+2012-08-14,Millonarios,3,0,Inti Gas,False,,Copa Sudamericana,2012
+2012-07-31,Emelec,1,0,Universidad San Martín,False,,Copa Sudamericana,2012
+2012-08-21,Universidad San Martín,1,1,Emelec,False,,Copa Sudamericana,2012
+2012-08-02,La Equidad,0,1,Mineros,False,,Copa Sudamericana,2012
+2012-08-09,Mineros,2,1,La Equidad,False,,Copa Sudamericana,2012
+2012-07-25,Deportivo Táchira,0,0,Barcelona,False,,Copa Sudamericana,2012
+2012-08-08,Barcelona,5,1,Deportivo Táchira,False,,Copa Sudamericana,2012
+2012-07-31,Deportes Tolima,3,1,Deportivo Lara,False,,Copa Sudamericana,2012
+2012-08-16,Deportivo Lara,0,0,Deportes Tolima,False,,Copa Sudamericana,2012
+2012-08-01,Deportivo Quito,1,0,León de Huánuco,False,,Copa Sudamericana,2012
+2012-08-23,León de Huánuco,2,3,Deportivo Quito,False,,Copa Sudamericana,2012
+2012-07-31,Unión Comercio,0,0,Envigado,False,,Copa Sudamericana,2012
+2012-08-15,Envigado,2,0,Unión Comercio,False,,Copa Sudamericana,2012
+2012-08-02,Monagas,0,2,LDU Loja,False,,Copa Sudamericana,2012
+2012-08-15,LDU Loja,4,2,Monagas,False,,Copa Sudamericana,2012
+2012-08-30,Guaraní (Asunción),2,4,Millonarios,False,Round of 16,Copa Sudamericana,2012
+2012-09-19,Millonarios,1,1,Guaraní (Asunción),False,Round of 16,Copa Sudamericana,2012
+2012-08-01,Bahía,0,2,São Paulo,False,Round of 16,Copa Sudamericana,2012
+2012-08-21,São Paulo,2,0,Bahía,False,Round of 16,Copa Sudamericana,2012
+2012-08-28,Envigado,1,1,Liverpool,False,Round of 16,Copa Sudamericana,2012
+2012-09-20,Liverpool,1,0,Envigado,False,Round of 16,Copa Sudamericana,2012
+2012-08-16,Argentinos Juniors,1,2,Tigre,False,Round of 16,Copa Sudamericana,2012
+2012-08-30,Tigre,4,1,Argentinos Juniors,False,Round of 16,Copa Sudamericana,2012
+2012-08-29,Mineros,2,2,Cerro Porteño,False,Round of 16,Copa Sudamericana,2012
+2012-09-19,Cerro Porteño,4,0,Mineros,False,Round of 16,Copa Sudamericana,2012
+2012-08-01,Atlético Goianiense,1,1,Figueirense,False,Round of 16,Copa Sudamericana,2012
+2012-08-23,Figueirense,1,1,Atlético Goianiense,False,Round of 16,Copa Sudamericana,2012
+2012-08-28,Olimpia,0,1,Emelec,False,Round of 16,Copa Sudamericana,2012
+2012-09-18,Emelec,0,0,Olimpia,False,Round of 16,Copa Sudamericana,2012
+2012-07-31,Grêmio,1,0,Coritiba,False,Round of 16,Copa Sudamericana,2012
+2012-08-22,Coritiba,3,2,Grêmio,False,Round of 16,Copa Sudamericana,2012
+2012-08-28,Cobreloa,0,0,Barcelona,False,Round of 16,Copa Sudamericana,2012
+2012-09-19,Barcelona,4,3,Cobreloa,False,Round of 16,Copa Sudamericana,2012
+2012-08-29,Universidad Católica,2,0,Deportes Tolima,False,Round of 16,Copa Sudamericana,2012
+2012-09-18,Deportes Tolima,3,1,Universidad Católica,False,Round of 16,Copa Sudamericana,2012
+2012-08-23,Colón (Santa Fe),3,1,Racing Club,False,Round of 16,Copa Sudamericana,2012
+2012-08-30,Racing Club,1,2,Colón (Santa Fe),False,Round of 16,Copa Sudamericana,2012
+2012-08-30,Deportivo Quito,2,1,Aurora,False,Round of 16,Copa Sudamericana,2012
+2012-09-18,Aurora,1,3,Deportivo Quito,False,Round of 16,Copa Sudamericana,2012
+2012-08-22,Boca Juniors,3,3,Independiente,False,Round of 16,Copa Sudamericana,2012
+2012-08-29,Independiente,0,0,Boca Juniors,False,Round of 16,Copa Sudamericana,2012
+2012-08-29,LDU Loja,0,1,Nacional,False,Round of 16,Copa Sudamericana,2012
+2012-09-18,Nacional,1,2,LDU Loja,False,Round of 16,Copa Sudamericana,2012
+2012-08-01,Palmeiras,2,0,Botafogo,False,Round of 16,Copa Sudamericana,2012
+2012-08-22,Botafogo,3,1,Palmeiras,False,Round of 16,Copa Sudamericana,2012
+2012-10-02,Palmeiras,3,1,Millonarios,False,Round of 16,Copa Sudamericana,2012
+2012-10-23,Millonarios,3,0,Palmeiras,False,Round of 16,Copa Sudamericana,2012
+2012-09-26,LDU Loja,1,1,São Paulo,False,Round of 16,Copa Sudamericana,2012
+2012-10-24,São Paulo,0,0,LDU Loja,False,Round of 16,Copa Sudamericana,2012
+2012-09-25,Independiente,2,1,Liverpool,False,Round of 16,Copa Sudamericana,2012
+2012-10-25,Liverpool,1,2,Independiente,False,Round of 16,Copa Sudamericana,2012
+2012-09-25,Deportivo Quito,2,0,Tigre,False,Round of 16,Copa Sudamericana,2012
+2012-10-25,Tigre,4,0,Deportivo Quito,False,Round of 16,Copa Sudamericana,2012
+2012-09-27,Colón (Santa Fe),1,2,Cerro Porteño,False,Round of 16,Copa Sudamericana,2012
+2012-10-23,Cerro Porteño,2,1,Colón (Santa Fe),False,Round of 16,Copa Sudamericana,2012
+2012-10-03,Universidad Católica,2,0,Atlético Goianiense,False,Round of 16,Copa Sudamericana,2012
+2012-10-24,Atlético Goianiense,3,1,Universidad Católica,False,Round of 16,Copa Sudamericana,2012
+2012-10-02,Universidad de Chile,2,2,Emelec,False,Round of 16,Copa Sudamericana,2012
+2012-10-25,Emelec,0,1,Universidad de Chile,False,Round of 16,Copa Sudamericana,2012
+2012-09-26,Barcelona,0,1,Grêmio,False,Round of 16,Copa Sudamericana,2012
+2012-10-24,Grêmio,2,1,Barcelona,False,Round of 16,Copa Sudamericana,2012
+2012-10-30,Grêmio,1,0,Millonarios,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-15,Millonarios,3,1,Grêmio,False,Quarterfinal,Copa Sudamericana,2012
+2012-10-31,Universidad de Chile,0,2,São Paulo,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-07,São Paulo,5,0,Universidad de Chile,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-01,Independiente,2,2,Universidad Católica,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-08,Universidad Católica,2,1,Independiente,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-01,Cerro Porteño,1,0,Tigre,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-08,Tigre,4,2,Cerro Porteño,False,Quarterfinal,Copa Sudamericana,2012
+2012-11-22,Tigre,0,0,Millonarios,False,Semifinal,Copa Sudamericana,2012
+2012-11-29,Millonarios,1,1,Tigre,False,Semifinal,Copa Sudamericana,2012
+2012-11-22,Universidad Católica,1,1,São Paulo,False,Semifinal,Copa Sudamericana,2012
+2012-11-28,São Paulo,0,0,Universidad Católica,False,Semifinal,Copa Sudamericana,2012
+2012-12-05,Tigre,0,0,São Paulo,False,Final,Copa Sudamericana,2012

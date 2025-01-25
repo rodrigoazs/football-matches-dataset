@@ -1,0 +1,158 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2021-03-16,12 de Octubre,0,0,Nacional (Asunción),False,Group Stage,Copa Sudamericana,2021
+2021-04-06,Nacional (Asunción),0,0,12 de Octubre,False,Group Stage,Copa Sudamericana,2021
+2021-03-16,Macará (Ambato),2,2,Emelec (Guayaquil),False,Group Stage,Copa Sudamericana,2021
+2021-04-06,Emelec (Guayaquil),2,0,Macará (Ambato),False,Group Stage,Copa Sudamericana,2021
+2021-03-16,Deportes Antofagasta,0,1,Huachipato (Talcahuano),False,Group Stage,Copa Sudamericana,2021
+2021-04-06,Huachipato (Talcahuano),3,0,Deportes Antofagasta,False,Group Stage,Copa Sudamericana,2021
+2021-03-16,Deportes Tolima (Ibagué),3,0,Deportivo Cali,False,Group Stage,Copa Sudamericana,2021
+2021-04-06,Deportivo Cali,0,0,Deportes Tolima (Ibagué),False,Group Stage,Copa Sudamericana,2021
+2021-03-17,Guabirá (Montero),4,1,Nacional (Potosí),False,Group Stage,Copa Sudamericana,2021
+2021-04-07,Nacional (Potosí),1,2,Guabirá (Montero),False,Group Stage,Copa Sudamericana,2021
+2021-03-17,Aragua FC,0,1,Mineros de Guayana,False,Group Stage,Copa Sudamericana,2021
+2021-04-07,Mineros de Guayana,1,2,Aragua FC,False,Group Stage,Copa Sudamericana,2021
+2021-03-17,Jorge Wilstermann,2,1,Atlético Palmaflor,False,Group Stage,Copa Sudamericana,2021
+2021-04-07,Atlético Palmaflor,1,2,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2021
+2021-03-17,Univ. Técnica Cajamarca,0,1,Sport Huancayo,False,Group Stage,Copa Sudamericana,2021
+2021-04-07,Sport Huancayo,4,0,Univ. Técnica Cajamarca,False,Group Stage,Copa Sudamericana,2021
+2021-03-18,Aucas (Quito),2,1,Guayaquil City,False,Group Stage,Copa Sudamericana,2021
+2021-04-08,Guayaquil City,0,3,Aucas (Quito),False,Group Stage,Copa Sudamericana,2021
+2021-03-18,Guaireña FC,1,2,River Plate (Asunción),False,Group Stage,Copa Sudamericana,2021
+2021-04-08,River Plate (Asunción),4,2,Guaireña FC,False,Group Stage,Copa Sudamericana,2021
+2021-03-18,Metropolitanos FC,2,0,Academia Puerto Cabello,False,Group Stage,Copa Sudamericana,2021
+2021-04-08,Academia Puerto Cabello,0,1,Metropolitanos FC,False,Group Stage,Copa Sudamericana,2021
+2021-03-18,Carlos A. Mannucci,1,2,FBC Melgar (Arequipa),False,Group Stage,Copa Sudamericana,2021
+2021-04-08,FBC Melgar (Arequipa),3,2,Carlos A. Mannucci,False,Group Stage,Copa Sudamericana,2021
+2021-03-18,Cobresal (El Salvador),0,0,Palestino (Santiago),False,Group Stage,Copa Sudamericana,2021
+2021-04-08,Palestino (Santiago),2,1,Cobresal (El Salvador),False,Group Stage,Copa Sudamericana,2021
+2021-03-18,La Equidad (Bogotá),1,2,Deportivo Pasto,False,Group Stage,Copa Sudamericana,2021
+2021-04-08,Deportivo Pasto,0,2,La Equidad (Bogotá),False,Group Stage,Copa Sudamericana,2021
+2021-04-06,Cerro Largo (Melo),2,2,Peñarol (Montevideo),False,Group Stage,Copa Sudamericana,2021
+2021-04-13,Peñarol (Montevideo),4,1,Cerro Largo (Melo),False,Group Stage,Copa Sudamericana,2021
+2021-04-07,Montevideo City Torque,0,0,Fénix (Montevideo),False,Group Stage,Copa Sudamericana,2021
+2021-04-14,Fénix (Montevideo),0,2,Montevideo City Torque,False,Group Stage,Copa Sudamericana,2021
+2021-04-20,12 de Octubre,1,0,Rosario Central,False,Group Stage,Copa Sudamericana,2021
+2021-04-21,San Lorenzo de Almagro,0,1,Huachipato,False,Group Stage,Copa Sudamericana,2021
+2021-04-27,Huachipato,0,0,12 de Octubre,False,Group Stage,Copa Sudamericana,2021
+2021-04-28,Rosario Central,2,0,San Lorenzo,False,Group Stage,Copa Sudamericana,2021
+2021-05-05,Huachipato,1,1,Rosario Central,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,San Lorenzo de Almagro,1,1,12 de Octubre,False,Group Stage,Copa Sudamericana,2021
+2021-05-12,12 de Octubre,1,2,Huachipato,False,Group Stage,Copa Sudamericana,2021
+2021-05-12,San Lorenzo,1,2,Rosario Central,False,Group Stage,Copa Sudamericana,2021
+2021-05-19,Rosario Central,5,0,Huachipato,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,12 de Octubre,0,2,San Lorenzo de Almagro,False,Group Stage,Copa Sudamericana,2021
+2021-05-26,Huachipato,0,3,San Lorenzo de Almagro,False,Group Stage,Copa Sudamericana,2021
+2021-05-26,Rosario Central,0,0,12 de Octubre,False,Group Stage,Copa Sudamericana,2021
+2021-04-21,Guabirá,1,3,Independiente,False,Group Stage,Copa Sudamericana,2021
+2021-04-21,Torque,1,1,Bahia,False,Group Stage,Copa Sudamericana,2021
+2021-04-27,Bahia,5,0,Guabirá,False,Group Stage,Copa Sudamericana,2021
+2021-04-28,Independiente,3,1,Torque,False,Group Stage,Copa Sudamericana,2021
+2021-05-04,Bahia,2,2,Independiente,False,Group Stage,Copa Sudamericana,2021
+2021-05-05,Torque,4,0,Guabirá,False,Group Stage,Copa Sudamericana,2021
+2021-05-11,Torque,1,1,Independiente,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,Guabirá,0,1,Bahia,False,Group Stage,Copa Sudamericana,2021
+2021-05-18,Independiente,1,0,Bahia,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,Guabirá,0,4,Torque,False,Group Stage,Copa Sudamericana,2021
+2021-05-26,Bahia,2,4,Torque,False,Group Stage,Copa Sudamericana,2021
+2021-05-26,Independiente,1,0,Guabirá,False,Group Stage,Copa Sudamericana,2021
+2021-04-21,Ceará,3,1,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,Bolívar,2,1,Arsenal,False,Group Stage,Copa Sudamericana,2021
+2021-04-27,Arsenal,0,0,Ceará,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,Jorge Wilstermann,0,0,Bolívar,False,Group Stage,Copa Sudamericana,2021
+2021-05-05,Bolívar,0,0,Ceará,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,Arsenal,3,0,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2021
+2021-05-12,Ceará,0,0,Arsenal,False,Group Stage,Copa Sudamericana,2021
+2021-05-12,Bolívar,2,2,Jorge Wilstermann,False,Group Stage,Copa Sudamericana,2021
+2021-05-19,Jorge Wilstermann,1,2,Arsenal,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,Ceará,2,0,Bolívar,False,Group Stage,Copa Sudamericana,2021
+2021-05-27,Arsenal,3,1,Bolívar,False,Group Stage,Copa Sudamericana,2021
+2021-05-27,Jorge Wilstermann,1,0,Ceará,False,Group Stage,Copa Sudamericana,2021
+2021-04-20,Metropolitanos,2,3,Melgar,False,Group Stage,Copa Sudamericana,2021
+2021-04-20,Aucas,0,1,Athletico Paranaense,False,Group Stage,Copa Sudamericana,2021
+2021-04-28,Athletico Paranaense,1,0,Metropolitanos,False,Group Stage,Copa Sudamericana,2021
+2021-04-28,Melgar,2,0,Aucas,False,Group Stage,Copa Sudamericana,2021
+2021-05-04,Metropolitanos,3,2,Aucas,False,Group Stage,Copa Sudamericana,2021
+2021-05-04,Melgar,1,0,Athletico Paranaense,False,Group Stage,Copa Sudamericana,2021
+2021-05-11,Metropolitanos,0,1,Athletico Paranaense,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,Aucas,2,1,Melgar,False,Group Stage,Copa Sudamericana,2021
+2021-05-19,Athletico Paranaense,1,0,Melgar,False,Group Stage,Copa Sudamericana,2021
+2021-05-19,Aucas,3,0,Metropolitanos,False,Group Stage,Copa Sudamericana,2021
+2021-05-27,Athletico Paranaense,4,0,Aucas,False,Group Stage,Copa Sudamericana,2021
+2021-05-27,Melgar,0,0,Metropolitanos,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,Peñarol,5,1,Sport Huancayo,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,River Plate,0,0,Corinthians,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,Corinthians,0,2,Peñarol,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,Sport Huancayo,1,2,River Plate,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,Peñarol,3,0,River Plate,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,Sport Huancayo,0,3,Corinthians,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,Peñarol,4,0,Corinthians,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,River Plate,2,1,Sport Huancayo,False,Group Stage,Copa Sudamericana,2021
+2021-05-18,River Plate,2,1,Peñarol,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,Corinthians,5,0,Sport Huancayo,False,Group Stage,Copa Sudamericana,2021
+2021-05-26,Corinthians,4,0,River Plate,False,Group Stage,Copa Sudamericana,2021
+2021-05-26,Sport Huancayo,0,0,Peñarol,False,Group Stage,Copa Sudamericana,2021
+2021-04-20,Atl. Goianiense,0,0,Newell's Old Boys,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,Libertad,2,0,Palestino,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,Newell's Old Boys,1,3,Libertad,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,Palestino,0,1,Atlético Goianiense,False,Group Stage,Copa Sudamericana,2021
+2021-05-04,Palestino,0,1,Newell's Old Boys,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,Libertad,1,2,Atlético Goianiense,False,Group Stage,Copa Sudamericana,2021
+2021-05-12,Atlético Goianiense,0,0,Palestino,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,Libertad,1,0,Newell's Old Boys,False,Group Stage,Copa Sudamericana,2021
+2021-05-19,Atlético Goianiense,0,0,Libertad,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,Newell's Old Boys,3,1,Palestino,False,Group Stage,Copa Sudamericana,2021
+2021-05-25,Newell's Old Boys,1,1,Atl. Goianiense,False,Group Stage,Copa Sudamericana,2021
+2021-05-25,Palestino,1,2,Libertad,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,Talleres,1,2,Emelec,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,RB Bragantino,2,1,Deportes Tolima,False,Group Stage,Copa Sudamericana,2021
+2021-04-28,Deportes Tolima,1,1,Talleres,False,Group Stage,Copa Sudamericana,2021
+2021-04-28,Emelec,3,0,RB Bragantino,False,Group Stage,Copa Sudamericana,2021
+2021-05-05,RB Bragantino,0,1,Talleres,False,Group Stage,Copa Sudamericana,2021
+2021-05-07,Deportes Tolima,1,1,Emelec,False,Group Stage,Copa Sudamericana,2021
+2021-05-11,Talleres,0,0,Deportes Tolima,False,Group Stage,Copa Sudamericana,2021
+2021-05-11,RB Bragantino,2,0,Emelec,False,Group Stage,Copa Sudamericana,2021
+2021-05-18,Talleres,0,1,RB Bragantino,False,Group Stage,Copa Sudamericana,2021
+2021-05-19,Emelec,2,0,Deportes Tolima,False,Group Stage,Copa Sudamericana,2021
+2021-05-25,Deportes Tolima,1,2,RB Bragantino,False,Group Stage,Copa Sudamericana,2021
+2021-05-25,Emelec,1,4,Talleres,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,Aragua FC,0,1,Lanús,False,Group Stage,Copa Sudamericana,2021
+2021-04-22,Grêmio,2,1,La Equidad,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,La Equidad,2,1,Aragua FC,False,Group Stage,Copa Sudamericana,2021
+2021-04-29,Lanús,1,2,Grêmio,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,Grêmio,8,0,Aragua FC,False,Group Stage,Copa Sudamericana,2021
+2021-05-06,La Equidad,0,1,Lanús,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,Aragua FC,1,2,La Equidad,False,Group Stage,Copa Sudamericana,2021
+2021-05-13,Grêmio,3,1,Lanús,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,Aragua FC,2,6,Grêmio,False,Group Stage,Copa Sudamericana,2021
+2021-05-20,Lanús,4,1,La Equidad,False,Group Stage,Copa Sudamericana,2021
+2021-05-27,La Equidad,0,0,Grêmio,False,Group Stage,Copa Sudamericana,2021
+2021-05-27,Lanús,0,0,Aragua FC,False,Group Stage,Copa Sudamericana,2021
+2021-07-13,LDU (Quito),0,1,Grêmio (Porto Alegre),False,Round of 16,Copa Sudamericana,2021
+2021-07-20,Grêmio (Porto Alegre),1,2,LDU (Quito),False,Round of 16,Copa Sudamericana,2021
+2021-07-13,América (Cali),0,1,Athletico Paranaense,False,Round of 16,Copa Sudamericana,2021
+2021-07-20,Athletico Paranaense,4,1,América (Cali),False,Round of 16,Copa Sudamericana,2021
+2021-07-14,Sporting Cristal (Lima),2,1,Arsenal de Sarandí,False,Round of 16,Copa Sudamericana,2021
+2021-07-21,Arsenal de Sarandí,1,1,Sporting Cristal (Lima),False,Round of 16,Copa Sudamericana,2021
+2021-07-14,Atlético Junior,3,4,Libertad (Asunción),False,Round of 16,Copa Sudamericana,2021
+2021-07-21,Libertad (Asunción),0,1,Atlético Junior,False,Round of 16,Copa Sudamericana,2021
+2021-07-14,Independiente del Valle,0,2,RB Bragantino (Bragança),False,Round of 16,Copa Sudamericana,2021
+2021-07-21,RB Bragantino (Bragança),1,1,Independiente del Valle,False,Round of 16,Copa Sudamericana,2021
+2021-07-15,Santos,1,0,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2021
+2021-07-22,Independiente (Avellaneda,1,1,Santos,False,Round of 16,Copa Sudamericana,2021
+2021-07-15,Deportivo Táchira,2,2,Rosario Central,False,Round of 16,Copa Sudamericana,2021
+2021-07-22,Rosario Central,1,0,Deportivo Táchira,False,Round of 16,Copa Sudamericana,2021
+2021-07-15,Nacional (Montevideo),1,2,Peñarol (Montevideo),False,Round of 16,Copa Sudamericana,2021
+2021-07-22,Peñarol (Montevideo),0,1,Nacional (Montevideo),False,Round of 16,Copa Sudamericana,2021
+2021-08-10,Rosario Central,3,4,RB Bragantino (Bragança),False,Quarterfinal,Copa Sudamericana,2021
+2021-08-17,RB Bragantino (Bragança),1,0,Rosario Central,False,Quarterfinal,Copa Sudamericana,2021
+2021-08-11,Sporting Cristal (Lima),1,3,Peñarol (Montevideo),False,Quarterfinal,Copa Sudamericana,2021
+2021-08-18,Peñarol (Montevideo),1,0,Sporting Cristal (Lima),False,Quarterfinal,Copa Sudamericana,2021
+2021-08-12,LDU (Quito),1,0,Athletico Paranaense,False,Quarterfinal,Copa Sudamericana,2021
+2021-08-19,Athletico Paranaense,4,2,LDU (Quito),False,Quarterfinal,Copa Sudamericana,2021
+2021-08-12,Santos,2,1,Libertad (Asunción),False,Quarterfinal,Copa Sudamericana,2021
+2021-08-19,Libertad (Asunción),1,0,Santos,False,Quarterfinal,Copa Sudamericana,2021
+2021-09-22,RB Bragantino (Bragança),2,0,Libertad (Asunción),False,Semifinal,Copa Sudamericana,2021
+2021-09-29,Libertad (Asunción),1,3,RB Bragantino (Bragança),False,Semifinal,Copa Sudamericana,2021
+2021-09-23,Peñarol (Montevideo),1,2,Athletico Paranaense,False,Semifinal,Copa Sudamericana,2021
+2021-09-30,Athletico Paranaense,2,0,Peñarol (Montevideo),False,Semifinal,Copa Sudamericana,2021
+2021-11-20,Athletico Paranaense,1,0,RB Bragantino (Bragança),False,Final,Copa Sudamericana,2021

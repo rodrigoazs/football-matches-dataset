@@ -1,0 +1,158 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2023-03-07,Tacuary FC,2,2,Club General Caballero,False,Group Stage,Copa Sudamericana,2023
+2023-03-07,Caracas FC,0,1,Puerto Cabello CF,False,Group Stage,Copa Sudamericana,2023
+2023-03-07,CA River Plate,0,4,CA Peñarol,False,Group Stage,Copa Sudamericana,2023
+2023-03-07,LDU (Quito),4,0,Delfín SC,False,Group Stage,Copa Sudamericana,2023
+2023-03-07,Audax Italiano,3,2,CD Universidad Católica,False,Group Stage,Copa Sudamericana,2023
+2023-03-08,Club Guaraní,3,1,CS Ameliano,False,Group Stage,Copa Sudamericana,2023
+2023-03-08,CDU César Vallejo,3,1,Deportivo Binacional FC,False,Group Stage,Copa Sudamericana,2023
+2023-03-08,Águilas Doradas,1,2,CI Santa Fe,False,Group Stage,Copa Sudamericana,2023
+2023-03-08,Estudiantes de Mérida,1,1,Deportivo Táchira FC,False,Group Stage,Copa Sudamericana,2023
+2023-03-08,Defensor Sporting Club,0,0,Danubio FC,False,Group Stage,Copa Sudamericana,2023
+2023-03-08,CDSC Guabirá,0,1,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2023
+2023-03-09,CS Emelec,2,1,CD Cuenca,False,Group Stage,Copa Sudamericana,2023
+2023-03-09,Deportes Tolima,1,0,CDP Junior FC,False,Group Stage,Copa Sudamericana,2023
+2023-03-09,Universitario de Deportes,2,0,Club Cienciano,False,Group Stage,Copa Sudamericana,2023
+2023-03-09,CD Cobresal,0,1,CD Palestino,False,Group Stage,Copa Sudamericana,2023
+2023-03-09,Club Blooming,6,0,CAM Vinto Palma Flor,False,Group Stage,Copa Sudamericana,2023
+2023-04-04,CDU César Vallejo,1,2,LDU (Quito),False,Group Stage,Copa Sudamericana,2023
+2023-04-06,CD Magallanes,2,2,Botafogo FR,False,Group Stage,Copa Sudamericana,2023
+2023-04-19,LDU Quito,4,0,CD Magallanes,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,Botafogo FR,4,0,CDU César Vallejo,False,Group Stage,Copa Sudamericana,2023
+2023-05-02,CD Magallanes,2,2,CDU César Vallejo,False,Group Stage,Copa Sudamericana,2023
+2023-05-04,Botafogo FR,0,0,LDU (Quito),False,Group Stage,Copa Sudamericana,2023
+2023-05-23,CD Magallanes,1,1,LDU (Quito),False,Group Stage,Copa Sudamericana,2023
+2023-05-25,CDU César Vallejo,2,3,Botafogo FR,False,Group Stage,Copa Sudamericana,2023
+2023-06-06,LDU (Quito),0,0,Botafogo FR,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,CDU César Vallejo,3,2,CD Magallanes,False,Group Stage,Copa Sudamericana,2023
+2023-06-29,LDU (Quito),3,0,CDU César Vallejo,False,Group Stage,Copa Sudamericana,2023
+2023-06-29,Botafogo FR,1,1,CD Magallanes,False,Group Stage,Copa Sudamericana,2023
+2023-04-05,Danubio FC,2,0,CS Emelec,False,Group Stage,Copa Sudamericana,2023
+2023-04-06,CA Huracán,4,1,Club Guaraní,False,Group Stage,Copa Sudamericana,2023
+2023-04-19,Club Guaraní,2,1,Danubio FC,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,CS Emelec,1,0,CA Huracán,False,Group Stage,Copa Sudamericana,2023
+2023-05-02,CA Huracán,1,1,Danubio FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-03,Club Guaraní,1,1,CS Emelec,False,Group Stage,Copa Sudamericana,2023
+2023-05-25,Danubio FC,0,2,Club Guaraní,False,Group Stage,Copa Sudamericana,2023
+2023-05-25,CA Huracán,2,2,CS Emelec,False,Group Stage,Copa Sudamericana,2023
+2023-06-07,CS Emelec,1,1,Club Guaraní,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,Danubio FC,1,0,CA Huracán,False,Group Stage,Copa Sudamericana,2023
+2023-06-28,CS Emelec,2,1,Danubio FC,False,Group Stage,Copa Sudamericana,2023
+2023-06-28,Club Guaraní,2,0,CA Huracán,False,Group Stage,Copa Sudamericana,2023
+2023-04-05,Oriente Petrolero,0,1,Estudiantes LP,False,Group Stage,Copa Sudamericana,2023
+2023-04-06,Tacuary FC,1,4,RB Bragantino,False,Group Stage,Copa Sudamericana,2023
+2023-04-18,RC Bragantino,5,0,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2023
+2023-04-18,Estudiantes LP,4,0,Tacuary FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-02,Tacuary FC,3,1,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2023
+2023-05-02,RB Bragantino,0,0,Estudiantes LP,False,Group Stage,Copa Sudamericana,2023
+2023-05-25,Tacuary FC,0,4,Estudiantes LP,False,Group Stage,Copa Sudamericana,2023
+2023-05-25,Oriente Petrolero,0,4,RB Bragantino,False,Group Stage,Copa Sudamericana,2023
+2023-06-07,Estudiantes LP,1,1,RB Bragantino,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,Oriente Petrolero,1,3,Tacuary FC,False,Group Stage,Copa Sudamericana,2023
+2023-06-28,Estudiantes LP,4,0,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2023
+2023-06-28,RD Bragantino,7,1,Tacuary FC,False,Group Stage,Copa Sudamericana,2023
+2023-04-06,CA Tigre,0,2,São Paulo FC,False,Group Stage,Copa Sudamericana,2023
+2023-04-06,Puerto Cabello CF,0,2,Deportes Tolima,False,Group Stage,Copa Sudamericana,2023
+2023-04-18,São Paulo FC,2,0,Puerto Cabello CF,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,Deportes Tolima,1,2,CA Tigre,False,Group Stage,Copa Sudamericana,2023
+2023-05-02,Deportes Tolima,0,0,São Paulo FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-03,Puerto Cabello CF,0,3,CA Tigre,False,Group Stage,Copa Sudamericana,2023
+2023-05-23,Puerto Cabello CF,0,2,São Paulo FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-24,CA Tigre,0,0,Deportes Tolima,False,Group Stage,Copa Sudamericana,2023
+2023-06-06,CA Tigre,2,1,Puerto Cabello CF,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,São Paulo FC,5,0,Deportes Tolima,False,Group Stage,Copa Sudamericana,2023
+2023-06-27,São Paulo FC,2,0,CA Tigre,False,Group Stage,Copa Sudamericana,2023
+2023-06-27,Deportes Tolima,3,1,Puerto Cabello CF,False,Group Stage,Copa Sudamericana,2023
+2023-04-04,Audax Italiano,0,1,CA Newell's Old Boys,False,Group Stage,Copa Sudamericana,2023
+2023-04-04,Club Blooming,0,1,Santos FC,False,Group Stage,Copa Sudamericana,2023
+2023-04-18,CA Newell's Old Boys,3,0,Club Blooming,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,Santos FC,0,0,Audax Italiano,False,Group Stage,Copa Sudamericana,2023
+2023-05-02,CA Newell's Old Boys,1,0,Santos FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-04,Audax Italiano,2,0,Club Blooming,False,Group Stage,Copa Sudamericana,2023
+2023-05-24,Audax Italiano,2,1,Santos FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-24,Club Blooming,2,3,CA Newell's Old Boys,False,Group Stage,Copa Sudamericana,2023
+2023-06-06,Santos FC,1,2,CA Newell's Old Boys,False,Group Stage,Copa Sudamericana,2023
+2023-06-07,Club Blooming,1,2,Audax Italiano,False,Group Stage,Copa Sudamericana,2023
+2023-06-29,Santos FC,0,0,Club Blooming,False,Group Stage,Copa Sudamericana,2023
+2023-06-29,CA Newell's Old Boys,1,1,Audax Italiano,False,Group Stage,Copa Sudamericana,2023
+2023-04-04,Millonarios FC,3,0,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2023
+2023-04-05,América FC-MG,4,1,CA Peñarol,False,Group Stage,Copa Sudamericana,2023
+2023-04-19,Defensa y Justicia - América FC,2,1,MG,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,CA Peñarol,0,2,Millonarios FC,False,Group Stage,Copa Sudamericana,2023
+2023-05-03,Millonarios FC - América FC,1,1,MG,False,Group Stage,Copa Sudamericana,2023
+2023-05-04,Defensa y Justicia,4,1,CA Peñarol,False,Group Stage,Copa Sudamericana,2023
+2023-05-23,América FC-MG,2,3,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2023
+2023-05-23,Millonarios FC,3,1,CA Peñarol,False,Group Stage,Copa Sudamericana,2023
+2023-06-06,CA Peñarol,0,3,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2023
+2023-06-06,América FC-MG,2,0,Millonarios FC,False,Group Stage,Copa Sudamericana,2023
+2023-06-29,CA Peñarol - América FC,1,2,MG,False,Group Stage,Copa Sudamericana,2023
+2023-06-29,Defensa y Justicia,3,1,Millonarios FC,False,Group Stage,Copa Sudamericana,2023
+2023-04-04,Goiás EC,0,0,CI Santa Fe,False,Group Stage,Copa Sudamericana,2023
+2023-04-05,Gimnasia y Esgrima LP,0,1,Universitario,False,Group Stage,Copa Sudamericana,2023
+2023-04-18,CI Santa Fe,2,1,Gimnasia y Esgrima LP,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,Universitario,2,2,Goiás EC,False,Group Stage,Copa Sudamericana,2023
+2023-05-04,Gimnasia y Esgrima LP,0,2,Goiás EC,False,Group Stage,Copa Sudamericana,2023
+2023-05-04,Universitario,2,0,CI Santa Fe,False,Group Stage,Copa Sudamericana,2023
+2023-05-23,Gimnasia y Esgrima LP,1,0,CI Santa Fe,False,Group Stage,Copa Sudamericana,2023
+2023-05-23,Goiás EC,1,0,Universitario,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,Goiás EC,0,0,Gimnasia y Esgrima LP,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,CI Santa Fe,2,0,Universitario,False,Group Stage,Copa Sudamericana,2023
+2023-06-28,CI Santa Fe,1,2,Goiás EC,False,Group Stage,Copa Sudamericana,2023
+2023-06-28,Universitario,1,0,Gimnasia y Esgrima LP,False,Group Stage,Copa Sudamericana,2023
+2023-04-04,Estudiantes de Mérida,0,1,San Lorenzo,False,Group Stage,Copa Sudamericana,2023
+2023-04-05,Fortaleza EC,4,0,CD Palestino,False,Group Stage,Copa Sudamericana,2023
+2023-04-18,CD Palestino,1,0,Estudiantes de Mérida,False,Group Stage,Copa Sudamericana,2023
+2023-04-20,San Lorenzo,3,2,Fortaleza EC,False,Group Stage,Copa Sudamericana,2023
+2023-05-03,CD Palestino,0,0,San Lorenzo,False,Group Stage,Copa Sudamericana,2023
+2023-05-03,Fortaleza EC,6,1,Estudiantes de Mérida,False,Group Stage,Copa Sudamericana,2023
+2023-05-24,Fortaleza EC,3,2,San Lorenzo,False,Group Stage,Copa Sudamericana,2023
+2023-05-25,Estudiantes de Mérida,1,5,CD Palestino,False,Group Stage,Copa Sudamericana,2023
+2023-06-06,Estudiantes de Mérida,1,0,Fortaleza EC,False,Group Stage,Copa Sudamericana,2023
+2023-06-08,San Lorenzo,0,0,CD Palestino,False,Group Stage,Copa Sudamericana,2023
+2023-06-27,San Lorenzo,4,1,Estudiantes de Mérida,False,Group Stage,Copa Sudamericana,2023
+2023-06-27,CD Palestino,1,2,Fortaleza EC,False,Group Stage,Copa Sudamericana,2023
+2023-07-11,SC Corinthians Paulista,1,0,Universitario,False,Group Stage,Copa Sudamericana,2023
+2023-07-18,Universitario,1,2,SC Corinthians Paulista,False,Group Stage,Copa Sudamericana,2023
+2023-07-11,CSD Colo-Colo,2,1,América FC-MG,False,Group Stage,Copa Sudamericana,2023
+2023-07-18,América FC-MG,5,1,CSD Colo-Colo,False,Group Stage,Copa Sudamericana,2023
+2023-07-11,Barcelona SC,2,1,Estudiantes LP,False,Group Stage,Copa Sudamericana,2023
+2023-07-18,Estudiantes LP,4,0,Barcelona SC,False,Group Stage,Copa Sudamericana,2023
+2023-07-12,Sporting Cristal,0,1,CS Emelec,False,Group Stage,Copa Sudamericana,2023
+2023-07-19,CS Emelec,0,0,Sporting Cristal,False,Group Stage,Copa Sudamericana,2023
+2023-07-12,Independiente Medellín,0,1,San Lorenzo,False,Group Stage,Copa Sudamericana,2023
+2023-07-19,San Lorenzo,2,0,Independiente Medellín,False,Group Stage,Copa Sudamericana,2023
+2023-07-12,CA Patronato,0,2,Botafogo FR,False,Group Stage,Copa Sudamericana,2023
+2023-07-19,Botafogo FR,1,1,CA Patronato,False,Group Stage,Copa Sudamericana,2023
+2023-07-13,Club Libertad,2,1,CA Tigre,False,Group Stage,Copa Sudamericana,2023
+2023-07-20,CA Tigre,0,1,Club Libertad,False,Group Stage,Copa Sudamericana,2023
+2023-07-13,CD Ñublense,0,0,Audax Italiano,False,Group Stage,Copa Sudamericana,2023
+2023-07-21,Audax Italiano,0,1,CD Ñublense,False,Group Stage,Copa Sudamericana,2023
+2023-08-01,CS Emelec,1,2,Defensa y Justicia,False,Round of 16,Copa Sudamericana,2023
+2023-08-08,Defensa y Justicia,1,0,CS Emelec,False,Round of 16,Copa Sudamericana,2023
+2023-08-01,Club Libertad,0,1,Fortaleza EC,False,Round of 16,Copa Sudamericana,2023
+2023-08-08,Fortaleza EC,1,1,Club Libertad,False,Round of 16,Copa Sudamericana,2023
+2023-08-01,SC Corinthians Pauliata,2,1,CA Newell's Old Boys,False,Round of 16,Copa Sudamericana,2023
+2023-08-08,CA Newell's Old Boys,0,0,SC Corinthians Pauliata,False,Round of 16,Copa Sudamericana,2023
+2023-08-02,Estudiantes LP,3,0,Goiás EC,False,Round of 16,Copa Sudamericana,2023
+2023-08-09,Goiás EC,0,2,Estudiantes LP,False,Round of 16,Copa Sudamericana,2023
+2023-08-02,Botafogo FR,2,1,Club Guaraní,False,Round of 16,Copa Sudamericana,2023
+2023-08-09,Club Guaraní,0,0,Botafogo FR,False,Round of 16,Copa Sudamericana,2023
+2023-08-03,América FC-MG,1,1,RD Bragantino,False,Round of 16,Copa Sudamericana,2023
+2023-08-10,RD Bragantino,3,3,América FC-MG,False,Round of 16,Copa Sudamericana,2023
+2023-08-03,San Lorenzo,1,0,São Paulo FC,False,Round of 16,Copa Sudamericana,2023
+2023-08-10,São Paulo FC,2,0,San Lorenzo,False,Round of 16,Copa Sudamericana,2023
+2023-08-03,CD Ñublense,0,1,LDU (Quito),False,Round of 16,Copa Sudamericana,2023
+2023-08-10,LDU (Quito),2,3,CD Ñublense,False,Round of 16,Copa Sudamericana,2023
+2023-08-22,SC Corinthians Paulista,1,0,Estudiantes LP,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-29,Estudiantes LP,1,0,SC Corinthians Paulista,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-23,Botafogo FR,1,1,Defensa y Justicia,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-30,Defensa y Justicia,2,1,Botafogo FR,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-24,América FC-MG,1,3,Fortaleza EC,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-31,Fortaleza EC,2,1,América FC-MG,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-24,LDU (Quito),2,1,São Paulo FC,False,Quarterfinal,Copa Sudamericana,2023
+2023-08-31,São Paulo FC,1,0,LDU (Quito),False,Quarterfinal,Copa Sudamericana,2023
+2023-09-26,SC Corinthians Paulista,1,1,Fortaleza EC,False,Semifinal,Copa Sudamericana,2023
+2023-10-03,Fortaleza EC,2,0,SC Corinthians Paulista,False,Semifinal,Copa Sudamericana,2023
+2023-09-27,LDU (Quito),3,0,Defensa y Justicia,False,Semifinal,Copa Sudamericana,2023
+2023-10-04,Defensa y Justicia,0,0,LDU (Quito),False,Semifinal,Copa Sudamericana,2023
+2023-10-28,Fortaleza EC,1,1,LDU (Quito),False,Final,Copa Sudamericana,2023

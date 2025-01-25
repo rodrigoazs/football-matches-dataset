@@ -1,0 +1,65 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2003-08-12,Colón (Santa Fe),3,1,Vélez Sarsfield,False,,Copa Sudamericana,2003
+2003-08-28,Vélez Sarsfield,1,4,Colón (Santa Fe),False,,Copa Sudamericana,2003
+2003-08-06,Independiente,1,1,Rosario Central,False,,Copa Sudamericana,2003
+2003-09-04,Rosario Central,0,1,Independiente,False,,Copa Sudamericana,2003
+2003-09-17,Independiente,1,4,River Plate,False,,Copa Sudamericana,2003
+2003-10-08,River Plate,4,0,Independiente,False,,Copa Sudamericana,2003
+2003-09-24,Colón (Santa Fe),1,1,Boca Juniors,False,,Copa Sudamericana,2003
+2003-10-09,Boca Juniors,2,1,Colón (Santa Fe),False,,Copa Sudamericana,2003
+2003-08-13,Santos,1,1,Internacional,False,,Copa Sudamericana,2003
+2003-08-27,Internacional,3,1,Flamengo,False,,Copa Sudamericana,2003
+2003-09-03,Flamengo,0,3,Santos,False,,Copa Sudamericana,2003
+2003-07-30,Corinthians - Atlético,0,2,MG,False,,Copa Sudamericana,2003
+2003-08-13,Fluminense,2,0,Corinthians,False,,Copa Sudamericana,2003
+2003-09-03,Atlético-MG,0,2,Fluminense,False,,Copa Sudamericana,2003
+2003-07-30,Grêmio,0,4,São Paulo,False,,Copa Sudamericana,2003
+2003-08-27,Vasco da Gama,1,1,Grêmio,False,,Copa Sudamericana,2003
+2003-09-03,São Paulo,2,1,Vasco da Gama,False,,Copa Sudamericana,2003
+2003-07-30,São Caetano,3,0,Palmeiras,False,,Copa Sudamericana,2003
+2003-08-13,Palmeiras,0,1,Cruzeiro,False,,Copa Sudamericana,2003
+2003-08-27,Cruzeiro,1,1,São Caetano,False,,Copa Sudamericana,2003
+2003-09-17,São Caetano,0,1,Santos,False,,Copa Sudamericana,2003
+2003-10-01,Santos,1,1,São Caetano,False,,Copa Sudamericana,2003
+2003-09-17,São Paulo,1,0,Fluminense,False,,Copa Sudamericana,2003
+2003-10-01,Fluminense,1,1,São Paulo,False,,Copa Sudamericana,2003
+2003-07-31,Monagas SC,1,2,Deportivo Italchacao,False,,Copa Sudamericana,2003
+2003-08-05,Deportivo Italchacao,1,0,Monagas SC,False,,Copa Sudamericana,2003
+2003-08-14,Deportivo Italchacao,1,2,San Lorenzo,False,,Copa Sudamericana,2003
+2003-08-20,San Lorenzo,6,0,Deportivo Italchacao,False,,Copa Sudamericana,2003
+2003-08-07,The Strongest,2,2,Bolívar,False,,Copa Sudamericana,2003
+2003-08-19,Bolívar,1,1,The Strongest,False,,Copa Sudamericana,2003
+2003-09-16,The Strongest,2,0,San Lorenzo,False,,Copa Sudamericana,2003
+2003-10-07,San Lorenzo,2,1,The Strongest,False,,Copa Sudamericana,2003
+2003-08-05,Universidad Católica,0,1,Provincial Osorno,False,,Copa Sudamericana,2003
+2003-09-02,Provincial Osorno,1,2,Universidad Católica,False,,Copa Sudamericana,2003
+2003-08-07,Cienciano (Cuzco),1,0,Alianza Lima,False,,Copa Sudamericana,2003
+2003-08-26,Alianza Lima,0,1,Cienciano (Cuzco),False,,Copa Sudamericana,2003
+2003-09-25,Cienciano (Cuzco),4,0,Universidad Católica,False,,Copa Sudamericana,2003
+2003-10-02,Universidad Católica,3,1,Cienciano (Cuzco),False,,Copa Sudamericana,2003
+2003-08-06,Deportivo Pasto,0,0,Atlético Nacional,False,,Copa Sudamericana,2003
+2003-08-21,Atlético Nacional,2,1,Deportivo Pasto,False,,Copa Sudamericana,2003
+2003-07-29,LDU Quito,2,0,Barcelona,False,,Copa Sudamericana,2003
+2003-08-12,Barcelona,2,1,LDU Quito,False,,Copa Sudamericana,2003
+2003-09-18,LDU Quito,1,1,Atlético Nacional,False,,Copa Sudamericana,2003
+2003-10-02,Atlético Nacional,1,0,LDU Quito,False,,Copa Sudamericana,2003
+2003-08-14,Guaraní,0,1,Libertad,False,,Copa Sudamericana,2003
+2003-08-28,Libertad,0,1,Guaraní,False,,Copa Sudamericana,2003
+2003-08-26,Danubio,0,1,Nacional,False,,Copa Sudamericana,2003
+2003-09-18,Nacional,2,2,Danubio,False,,Copa Sudamericana,2003
+2003-09-24,Nacional,3,0,Libertad,False,,Copa Sudamericana,2003
+2003-09-30,Libertad,3,0,Nacional,False,,Copa Sudamericana,2003
+2003-10-23,River Plate,2,0,Libertad,False,Quarterfinal,Copa Sudamericana,2003
+2003-11-05,Libertad,1,0,River Plate,False,Quarterfinal,Copa Sudamericana,2003
+2003-10-22,Boca Juniors,0,1,Atlético Nacional,False,Quarterfinal,Copa Sudamericana,2003
+2003-11-05,Atlético Nacional,4,1,Boca Juniors,False,Quarterfinal,Copa Sudamericana,2003
+2003-10-16,Santos,1,1,Cienciano (Cuzco),False,Quarterfinal,Copa Sudamericana,2003
+2003-10-29,Cienciano (Cuzco),2,1,Santos,False,Quarterfinal,Copa Sudamericana,2003
+2003-10-29,The Strongest,1,4,São Paulo,False,Quarterfinal,Copa Sudamericana,2003
+2003-11-12,São Paulo,3,1,The Strongest,False,Quarterfinal,Copa Sudamericana,2003
+2003-11-26,River Plate,3,1,São Paulo,False,Semifinal,Copa Sudamericana,2003
+2003-12-03,São Paulo,2,0,River Plate,False,Semifinal,Copa Sudamericana,2003
+2003-11-13,Atlético Nacional,1,2,Cienciano (Cuzco),False,Semifinal,Copa Sudamericana,2003
+2003-12-04,Cienciano (Cuzco),1,0,Atlético Nacional,False,Semifinal,Copa Sudamericana,2003
+2003-12-10,River Plate,3,3,Cienciano (Cuzco),False,Final,Copa Sudamericana,2003
+2003-12-19,Cienciano (Cuzco),1,0,River Plate,False,Final,Copa Sudamericana,2003

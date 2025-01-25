@@ -1,0 +1,27 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2002-08-28,Deportivo Táchira,2,0,Monagas SC,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-06,Monagas SC,3,0,Deportivo Táchira,False,Qualifying Round,Copa Sudamericana,2002
+2002-08-29,Aucas,1,2,Barcelona,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-12,Barcelona,1,0,Aucas,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-03,Cerro Porteño,0,2,Libertad,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-10,Libertad,1,0,Cerro Porteño,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-03,Bolívar,4,2,Oriente Petrolero,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-12,Oriente Petrolero,1,0,Bolívar,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-04,Alianza Lima,1,0,Universitario,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-11,Universitario,0,1,Alianza Lima,False,Qualifying Round,Copa Sudamericana,2002
+2002-09-03,Cobreloa,0,1,Santiago Wanderers,False,Group Stage,Copa Sudamericana,2002
+2002-09-24,Santiago Wanderers,3,2,Cobreloa,False,Group Stage,Copa Sudamericana,2002
+2002-09-04,Racing Club,1,0,River Plate,False,Group Stage,Copa Sudamericana,2002
+2002-09-25,River Plate,0,0,Racing Club,False,Group Stage,Copa Sudamericana,2002
+2002-09-05,Danubio,1,1,Nacional,False,Group Stage,Copa Sudamericana,2002
+2002-09-17,Nacional,2,0,Danubio,False,Group Stage,Copa Sudamericana,2002
+2002-09-10,Atlético Nacional,1,0,América (Cali),False,Group Stage,Copa Sudamericana,2002
+2002-09-25,América (Cali),1,2,Atlético Nacional,False,Group Stage,Copa Sudamericana,2002
+2002-09-11,Gimnasia y Esgrima (LP),3,1,Boca Juniors,False,Group Stage,Copa Sudamericana,2002
+2002-09-18,Boca Juniors,0,0,Gimnasia y Esgrima (LP),False,Group Stage,Copa Sudamericana,2002
+2002-09-18,Barcelona,1,0,Alianza Lima,False,Group Stage,Copa Sudamericana,2002
+2002-09-26,Alianza Lima,2,1,Barcelona,False,Group Stage,Copa Sudamericana,2002
+2002-09-19,Bolívar,2,0,Libertad,False,Group Stage,Copa Sudamericana,2002
+2002-09-24,Libertad,1,1,Bolívar,False,Group Stage,Copa Sudamericana,2002
+2002-09-19,Monagas SC,0,3,San Lorenzo de Almagro,False,Group Stage,Copa Sudamericana,2002
+2002-09-26,San Lorenzo de Almagro,5,1,Monagas SC,False,Group Stage,Copa Sudamericana,2002

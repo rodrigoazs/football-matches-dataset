@@ -1,0 +1,69 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2004-08-18,Quilmes,0,2,San Lorenzo,False,,Copa Sudamericana,2004
+2004-09-01,San Lorenzo,0,0,Quilmes,False,,Copa Sudamericana,2004
+2004-08-10,Arsenal,1,1,Banfield,False,,Copa Sudamericana,2004
+2004-09-02,Banfield,3,4,Arsenal,False,,Copa Sudamericana,2004
+2004-09-07,Arsenal,2,1,River Plate,False,,Copa Sudamericana,2004
+2004-09-30,River Plate,0,0,Arsenal,False,,Copa Sudamericana,2004
+2004-09-16,San Lorenzo,1,0,Boca Juniors,False,,Copa Sudamericana,2004
+2004-09-29,Boca Juniors,2,1,San Lorenzo,False,,Copa Sudamericana,2004
+2004-08-25,Paraná,2,1,Santos,False,,Copa Sudamericana,2004
+2004-09-04,Santos,3,0,Paraná,False,,Copa Sudamericana,2004
+2004-08-25,Figueirense,0,0,Internacional,False,,Copa Sudamericana,2004
+2004-09-04,Internacional,1,1,Figueirense,False,,Copa Sudamericana,2004
+2004-08-25,Goiás,4,2,Atlético-MG,False,,Copa Sudamericana,2004
+2004-09-04,Atlético-MG,1,1,Goiás,False,,Copa Sudamericana,2004
+2004-08-25,Coritiba,1,2,São Caetano,False,,Copa Sudamericana,2004
+2004-09-04,São Caetano,2,2,Coritiba,False,,Copa Sudamericana,2004
+2004-09-15,Santos,0,0,Flamengo,False,,Copa Sudamericana,2004
+2004-09-22,Flamengo,2,2,Santos,False,,Copa Sudamericana,2004
+2004-09-15,Internacional,2,0,Grêmio,False,,Copa Sudamericana,2004
+2004-09-22,Grêmio,2,1,Internacional,False,,Copa Sudamericana,2004
+2004-09-15,Goiás,2,2,Cruzeiro,False,,Copa Sudamericana,2004
+2004-09-22,Cruzeiro,3,2,Goiás,False,,Copa Sudamericana,2004
+2004-09-15,São Caetano,1,1,São Paulo,False,,Copa Sudamericana,2004
+2004-09-22,São Paulo,1,1,São Caetano,False,,Copa Sudamericana,2004
+2004-10-10,Santos,1,0,São Paulo,False,,Copa Sudamericana,2004
+2004-10-20,São Paulo,1,1,Santos,False,,Copa Sudamericana,2004
+2004-10-10,Internacional,3,1,Cruzeiro,False,,Copa Sudamericana,2004
+2004-10-20,Cruzeiro,0,1,Internacional,False,,Copa Sudamericana,2004
+2004-08-12,Deportivo Italchacao,0,0,Carabobo FC,False,,Copa Sudamericana,2004
+2004-08-17,Carabobo FC,2,0,Deportivo Italchacao,False,,Copa Sudamericana,2004
+2004-08-24,Carabobo FC,1,2,Cienciano,False,,Copa Sudamericana,2004
+2004-08-31,Cienciano,6,1,Carabobo FC,False,,Copa Sudamericana,2004
+2004-08-11,LDU de Quito,1,0,Aucas,False,,Copa Sudamericana,2004
+2004-09-14,Aucas,1,1,LDU de Quito,False,,Copa Sudamericana,2004
+2004-09-28,LDU de Quito,4,0,Cienciano,False,,Copa Sudamericana,2004
+2004-10-05,Cienciano,2,2,LDU de Quito,False,,Copa Sudamericana,2004
+2004-08-12,Aurora,1,2,Bolívar,False,,Copa Sudamericana,2004
+2004-08-19,Bolívar,3,1,Aurora,False,,Copa Sudamericana,2004
+2004-08-31,Universidad de Concepción,2,1,Santiago Wanderers,False,,Copa Sudamericana,2004
+2004-09-08,Santiago Wanderers,0,1,Universidad de Concepción,False,,Copa Sudamericana,2004
+2004-09-28,Universidad de Concepción,0,0,Bolívar,False,,Copa Sudamericana,2004
+2004-10-19,Bolívar,4,2,Universidad de Concepción,False,,Copa Sudamericana,2004
+2004-08-17,Coronel Bolognesi,1,0,Alianza Atlético,False,,Copa Sudamericana,2004
+2004-09-14,Alianza Atlético,4,1,Coronel Bolognesi,False,,Copa Sudamericana,2004
+2004-08-19,Millonarios,1,0,Atlético Junior,False,,Copa Sudamericana,2004
+2004-09-09,Atlético Junior,2,0,Millonarios,False,,Copa Sudamericana,2004
+2004-09-30,Alianza Atlético,0,2,Atlético Junior,False,,Copa Sudamericana,2004
+2004-10-19,Atlético Junior,4,1,Alianza Atlético,False,,Copa Sudamericana,2004
+2004-08-11,Cerro Porteño,1,1,Libertad,False,,Copa Sudamericana,2004
+2004-08-24,Libertad,0,2,Cerro Porteño,False,,Copa Sudamericana,2004
+2004-09-09,Danubio,1,2,Peñarol,False,,Copa Sudamericana,2004
+2004-09-21,Peñarol,1,1,Danubio,False,,Copa Sudamericana,2004
+2004-10-07,Peñarol,1,3,Cerro Porteño,False,,Copa Sudamericana,2004
+2004-10-21,Cerro Porteño,1,2,Peñarol,False,,Copa Sudamericana,2004
+2004-11-03,Boca Juniors,1,1,Cerro Porteño,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-10,Cerro Porteño,0,0,Boca Juniors,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-03,Arsenal,1,0,Bolívar,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-10,Bolívar,3,0,Arsenal,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-03,LDU de Quito,3,2,Santos,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-10,Santos,1,2,LDU de Quito,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-03,Internacional,1,0,Atlético Junior,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-10,Atlético Junior,1,1,Internacional,False,Quarterfinal,Copa Sudamericana,2004
+2004-11-24,Boca Juniors,4,2,Internacional,False,Semifinal,Copa Sudamericana,2004
+2004-12-01,Internacional,0,0,Boca Juniors,False,Semifinal,Copa Sudamericana,2004
+2004-11-25,LDU de Quito,1,1,Bolívar,False,Semifinal,Copa Sudamericana,2004
+2004-12-02,Bolívar,2,1,LDU de Quito,False,Semifinal,Copa Sudamericana,2004
+2004-12-08,Bolívar,1,0,Boca Juniors,False,Final,Copa Sudamericana,2004
+2004-12-17,Boca Juniors,2,0,Bolívar,False,Final,Copa Sudamericana,2004

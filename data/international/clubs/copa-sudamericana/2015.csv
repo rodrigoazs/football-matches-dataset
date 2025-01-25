@@ -1,0 +1,93 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2015-08-11,Universidad Católica,1,1,Deportivo La Guaira,False,,Copa Sudamericana,2015
+2015-08-18,Deportivo La Guaira,1,0,Universidad Católica,False,,Copa Sudamericana,2015
+2015-08-11,Carabobo FC,0,0,Tolima,False,,Copa Sudamericana,2015
+2015-08-19,Tolima,0,0,Carabobo FC,False,,Copa Sudamericana,2015
+2015-08-11,Universidad Católica,1,0,Danubio,False,,Copa Sudamericana,2015
+2015-08-19,Danubio,1,2,Universidad Católica,False,,Copa Sudamericana,2015
+2015-08-11,Oriente Petrolero,0,3,Nacional (Montevideo),False,,Copa Sudamericana,2015
+2015-08-20,Nacional (Montevideo),0,0,Oriente Petrolero,False,,Copa Sudamericana,2015
+2015-08-11,Universitario (Lima),3,1,Deportivo Anzoátegui,False,,Copa Sudamericana,2015
+2015-08-20,Deportivo Anzoátegui,1,3,Universitario (Lima),False,,Copa Sudamericana,2015
+2015-08-12,Defensor Sporting,3,0,Bolívar,False,,Copa Sudamericana,2015
+2015-08-18,Bolívar,2,0,Defensor Sporting,False,,Copa Sudamericana,2015
+2015-08-12,Atlético Junior,5,0,FBC Melgar,False,,Copa Sudamericana,2015
+2015-08-18,FBC Melgar,4,0,Atlético Junior,False,,Copa Sudamericana,2015
+2015-08-12,Santiago Wanderers,0,0,Libertad,False,,Copa Sudamericana,2015
+2015-08-18,Libertad,2,1,Santiago Wanderers,False,,Copa Sudamericana,2015
+2015-08-12,Olimpia (Asunción),2,0,Huachipato,False,,Copa Sudamericana,2015
+2015-08-19,Huachipato,0,2,Olimpia (Asunción),False,,Copa Sudamericana,2015
+2015-08-12,LDU de Loja,0,0,Independiente Santa Fe,False,,Copa Sudamericana,2015
+2015-08-20,Independiente Santa Fe,3,0,LDU de Loja,False,,Copa Sudamericana,2015
+2015-08-13,Aurora,1,2,Sportivo Luqueño,False,,Copa Sudamericana,2015
+2015-08-19,Sportivo Luqueño,5,1,Aurora,False,,Copa Sudamericana,2015
+2015-08-13,Zamora FC,1,1,LDU de Quito,False,,Copa Sudamericana,2015
+2015-08-19,LDU de Quito,2,0,Zamora FC,False,,Copa Sudamericana,2015
+2015-08-13,Águilas Doradas,2,0,Unión Comercio,False,,Copa Sudamericana,2015
+2015-08-20,Unión Comercio,1,1,Águilas Doradas,False,,Copa Sudamericana,2015
+2015-08-13,Juventud (Las Piedras),4,1,Real Potosí,False,,Copa Sudamericana,2015
+2015-08-20,Real Potosí,2,0,Juventud (Las Piedras),False,,Copa Sudamericana,2015
+2015-08-13,León de Huanuco,1,3,Emelec,False,,Copa Sudamericana,2015
+2015-08-20,Emelec,3,0,León de Huanuco,False,,Copa Sudamericana,2015
+2015-08-13,Nacional (Asunción),2,1,Universidad de Concepción,False,,Copa Sudamericana,2015
+2015-08-20,Universidad de Concepción,1,3,Nacional (Asunción),False,,Copa Sudamericana,2015
+2015-08-18,Brasília,0,0,Goiás,False,Round of 16,Copa Sudamericana,2015
+2015-08-25,Goiás,0,2,Brasília,False,Round of 16,Copa Sudamericana,2015
+2015-08-19,Bahia,1,0,Sport Recife,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Sport Recife,4,1,Bahia,False,Round of 16,Copa Sudamericana,2015
+2015-08-19,Ponte Preta,1,1,Chapecoense,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Chapecoense,3,0,Ponte Preta,False,Round of 16,Copa Sudamericana,2015
+2015-08-20,Joinville,0,2,Atlético Paranaense,False,Round of 16,Copa Sudamericana,2015
+2015-08-27,Atlético Paranaense,1,0,Joinville,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Defensor Sporting,3,0,Universitario (Lima),False,Round of 16,Copa Sudamericana,2015
+2015-09-15,Universitario (Lima),0,1,Defensor Sporting,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Olimpia (Asunción),1,1,Águilas Doradas,False,Round of 16,Copa Sudamericana,2015
+2015-09-15,Águilas Doradas,1,2,Olimpia (Asunción),False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Arsenal de Sarandí,1,1,Independiente,False,Round of 16,Copa Sudamericana,2015
+2015-09-16,Independiente,1,0,Arsenal de Sarandí,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Tigre,2,5,Huracán,False,Round of 16,Copa Sudamericana,2015
+2015-09-16,Huracán,1,0,Tigre,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,LDU de Quito,1,0,Nacional (Asunción),False,Round of 16,Copa Sudamericana,2015
+2015-09-16,Nacional (Asunción),0,1,LDU de Quito,False,Round of 16,Copa Sudamericana,2015
+2015-08-26,Tolima,0,1,Atlético Junior,False,Round of 16,Copa Sudamericana,2015
+2015-09-17,Atlético Junior,0,2,Tolima,False,Round of 16,Copa Sudamericana,2015
+2015-08-27,Deportivo La Guaira,1,1,Sportivo Luqueño,False,Round of 16,Copa Sudamericana,2015
+2015-09-15,Sportivo Luqueño,4,0,Deportivo La Guaira,False,Round of 16,Copa Sudamericana,2015
+2015-08-27,Nacional (Montevideo),0,2,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2015
+2015-09-16,Independiente Santa Fe,0,1,Nacional (Montevideo),False,Round of 16,Copa Sudamericana,2015
+2015-08-27,Belgrano (Córdoba),1,1,Lanús,False,Round of 16,Copa Sudamericana,2015
+2015-09-17,Lanús,5,1,Belgrano (Córdoba),False,Round of 16,Copa Sudamericana,2015
+2015-08-27,Emelec,0,0,Juventud (Las Piedras),False,Round of 16,Copa Sudamericana,2015
+2015-09-17,Juventud (Las Piedras),0,0,Emelec,False,Round of 16,Copa Sudamericana,2015
+2015-08-27,Universidad Católica,2,3,Libertad,False,Round of 16,Copa Sudamericana,2015
+2015-09-17,Libertad,1,0,Universidad Católica,False,Round of 16,Copa Sudamericana,2015
+2015-09-22,Tolima,1,1,Sportivo Luqueño,False,Round of 16,Copa Sudamericana,2015
+2015-09-29,Sportivo Luqueño,1,0,Tolima,False,Round of 16,Copa Sudamericana,2015
+2015-09-23,Emelec,2,1,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2015
+2015-09-29,Independiente Santa Fe,1,0,Emelec,False,Round of 16,Copa Sudamericana,2015
+2015-09-23,Atlético Paranaense,1,0,Brasília,False,Round of 16,Copa Sudamericana,2015
+2015-09-30,Brasília,0,0,Atlético Paranaense,False,Round of 16,Copa Sudamericana,2015
+2015-09-23,Independiente,1,0,Olimpia (Asunción),False,Round of 16,Copa Sudamericana,2015
+2015-09-30,Olimpia (Asunción),0,0,Independiente,False,Round of 16,Copa Sudamericana,2015
+2015-09-23,River Plate,2,0,LDU de Quito,False,Round of 16,Copa Sudamericana,2015
+2015-09-30,LDU de Quito,1,0,River Plate,False,Round of 16,Copa Sudamericana,2015
+2015-09-23,Sport Recife,1,1,Huracán,False,Round of 16,Copa Sudamericana,2015
+2015-09-30,Huracán,3,0,Sport Recife,False,Round of 16,Copa Sudamericana,2015
+2015-09-24,Lanús,0,0,Defensor Sporting,False,Round of 16,Copa Sudamericana,2015
+2015-10-01,Defensor Sporting,0,0,Lanús,False,Round of 16,Copa Sudamericana,2015
+2015-09-24,Libertad,1,1,Chapecoense,False,Round of 16,Copa Sudamericana,2015
+2015-10-01,Chapecoense,1,1,Libertad,False,Round of 16,Copa Sudamericana,2015
+2015-10-20,Huracán,1,0,Defensor Sporting,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-27,Defensor Sporting,0,0,Huracán,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-21,Atlético Paranaense,1,0,Sportivo Luqueño,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-28,Sportivo Luqueño,2,0,Atlético Paranaense,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-21,River Plate,3,1,Chapecoense,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-28,Chapecoense,2,1,River Plate,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-22,Independiente,0,1,Independiente Santa Fe,False,Quarterfinal,Copa Sudamericana,2015
+2015-10-29,Independiente Santa Fe,1,1,Independiente,False,Quarterfinal,Copa Sudamericana,2015
+2015-11-04,Sportivo Luqueño,1,1,Independiente Santa Fe,False,Semifinal,Copa Sudamericana,2015
+2015-11-25,Independiente Santa Fe,0,0,Sportivo Luqueño,False,Semifinal,Copa Sudamericana,2015
+2015-11-05,River Plate,0,1,Huracán,False,Semifinal,Copa Sudamericana,2015
+2015-11-26,Huracán,2,2,River Plate,False,Semifinal,Copa Sudamericana,2015
+2015-12-02,Huracán,0,0,Independiente Santa Fe,False,Final,Copa Sudamericana,2015
+2015-12-09,Independiente Santa Fe,0,0,Huracán,False,Final,Copa Sudamericana,2015

@@ -1,0 +1,107 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2017-02-28,Deportivo Cali,1,0,Sportivo Luqueño,False,Group Stage,Copa Sudamericana,2017
+2017-05-09,Sportivo Luqueño,2,1,Deportivo Cali,False,Group Stage,Copa Sudamericana,2017
+2017-02-28,LDU de Quito,2,2,Defensor Sporting,False,Group Stage,Copa Sudamericana,2017
+2017-05-30,Defensor Sporting,1,2,LDU de Quito,False,Group Stage,Copa Sudamericana,2017
+2017-02-28,O'Higgins,1,0,Fuerza Amarilla,False,Group Stage,Copa Sudamericana,2017
+2017-05-31,Fuerza Amarilla,2,0,O'Higgins,False,Group Stage,Copa Sudamericana,2017
+2017-02-28,Boston River,3,1,Comerciantes Unidos,False,Group Stage,Copa Sudamericana,2017
+2017-06-01,Comerciantes Unidos,1,1,Boston River,False,Group Stage,Copa Sudamericana,2017
+2017-03-01,Nacional Potosí,3,1,Sport Huancayo,False,Group Stage,Copa Sudamericana,2017
+2017-05-09,Sport Huancayo,2,1,Nacional Potosí,False,Group Stage,Copa Sudamericana,2017
+2017-03-01,Palestino,0,1,Atlético Venezuela,False,Group Stage,Copa Sudamericana,2017
+2017-05-10,Atlético Venezuela,0,1,Palestino,False,Group Stage,Copa Sudamericana,2017
+2017-03-01,Deportivo Anzoátegui,3,0,Huracán (Buenos Aires),False,Group Stage,Copa Sudamericana,2017
+2017-05-31,Huracán (Buenos Aires),4,0,Deportivo Anzoátegui,False,Group Stage,Copa Sudamericana,2017
+2017-03-01,Racing Club (Avellaneda),1,0,Rionegro Águilas,False,Group Stage,Copa Sudamericana,2017
+2017-06-01,Rionegro Águilas,1,1,Racing Club (Avellaneda),False,Group Stage,Copa Sudamericana,2017
+2017-03-02,Juan Aurich,0,2,Arsenal de Sarandí,False,Group Stage,Copa Sudamericana,2017
+2017-05-11,Arsenal de Sarandí,6,1,Juan Aurich,False,Group Stage,Copa Sudamericana,2017
+2017-03-02,Cerro Porteño,1,1,Caracas FC,False,Group Stage,Copa Sudamericana,2017
+2017-05-11,Caracas FC,1,2,Cerro Porteño,False,Group Stage,Copa Sudamericana,2017
+2017-03-02,Deportes Tolima,2,1,Bolívar,False,Group Stage,Copa Sudamericana,2017
+2017-06-01,Bolívar,1,0,Deportes Tolima,False,Group Stage,Copa Sudamericana,2017
+2017-04-04,Cruzeiro,2,1,Nacional (Asunción),False,Group Stage,Copa Sudamericana,2017
+2017-05-10,Nacional (Asunción),2,1,Cruzeiro,False,Group Stage,Copa Sudamericana,2017
+2017-04-04,Petrolero Yacuiba,1,3,Univ. Católica (Quito),False,Group Stage,Copa Sudamericana,2017
+2017-05-30,Univ. Católica (Quito),3,0,Petrolero Yacuiba,False,Group Stage,Copa Sudamericana,2017
+2017-04-04,Independiente (Avellaneda,0,0,Alianza Lima,False,Group Stage,Copa Sudamericana,2017
+2017-05-31,Alianza Lima,0,1,Independiente (Avellaneda,False,Group Stage,Copa Sudamericana,2017
+2017-04-05,Ponte Preta,0,0,Gimnasia y Esgrima (LP),False,Group Stage,Copa Sudamericana,2017
+2017-05-09,Gimnasia y Esgrima (LP),1,1,Ponte Preta,False,Group Stage,Copa Sudamericana,2017
+2017-04-05,Corinthians,2,0,Universidad de Chile,False,Group Stage,Copa Sudamericana,2017
+2017-05-10,Universidad de Chile,1,2,Corinthians,False,Group Stage,Copa Sudamericana,2017
+2017-04-05,Fluminense,2,0,Liverpool (Montevideo),False,Group Stage,Copa Sudamericana,2017
+2017-05-10,Liverpool (Montevideo),1,0,Fluminense,False,Group Stage,Copa Sudamericana,2017
+2017-04-05,Defensa y Justicia,0,0,São Paulo,False,Group Stage,Copa Sudamericana,2017
+2017-05-11,São Paulo,1,1,Defensa y Justicia,False,Group Stage,Copa Sudamericana,2017
+2017-04-05,Everton (Viña del Mar),1,0,Patriotas (Tunja),False,Group Stage,Copa Sudamericana,2017
+2017-05-30,Patriotas (Tunja),1,0,Everton (Viña del Mar),False,Group Stage,Copa Sudamericana,2017
+2017-04-06,Sport Recife,3,0,Danubio,False,Group Stage,Copa Sudamericana,2017
+2017-05-11,Danubio,3,0,Sport Recife,False,Group Stage,Copa Sudamericana,2017
+2017-04-06,Estudiantes SC (Caracas),2,3,Sol de América,False,Group Stage,Copa Sudamericana,2017
+2017-05-31,Sol de América,7,1,Estudiantes SC (Caracas),False,Group Stage,Copa Sudamericana,2017
+2017-04-06,Oriente Petrolero,1,1,Deportivo Cuenca,False,Group Stage,Copa Sudamericana,2017
+2017-06-01,Deportivo Cuenca,1,1,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2017
+2017-06-27,Fuerza Amarilla,1,1,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2017
+2017-07-25,Independiente Santa Fe,1,0,Fuerza Amarilla,False,Round of 16,Copa Sudamericana,2017
+2017-06-28,Defensa y Justicia,1,0,Chapecoense,False,Round of 16,Copa Sudamericana,2017
+2017-07-25,Chapecoense,1,0,Defensa y Justicia,False,Round of 16,Copa Sudamericana,2017
+2017-06-28,Patriotas (Tunja),1,1,Corinthians,False,Round of 16,Copa Sudamericana,2017
+2017-07-26,Corinthians,2,0,Patriotas (Tunja),False,Round of 16,Copa Sudamericana,2017
+2017-06-29,Ponte Preta,1,0,Sol de América,False,Round of 16,Copa Sudamericana,2017
+2017-07-26,Sol de América,1,3,Ponte Preta,False,Round of 16,Copa Sudamericana,2017
+2017-06-29,Fluminense,4,0,Univ. Católica (Quito),False,Round of 16,Copa Sudamericana,2017
+2017-07-26,Univ. Católica (Quito),1,2,Fluminense,False,Round of 16,Copa Sudamericana,2017
+2017-06-29,Racing Club (Avellaneda),3,1,Dep. Indep. Medellín,False,Round of 16,Copa Sudamericana,2017
+2017-07-27,Dep. Indep. Medellín,2,3,Racing Club (Avellaneda),False,Round of 16,Copa Sudamericana,2017
+2017-07-05,Palestino,2,5,Flamengo,False,Round of 16,Copa Sudamericana,2017
+2017-08-09,Flamengo,5,0,Palestino,False,Round of 16,Copa Sudamericana,2017
+2017-07-06,Sport Recife,2,0,Arsenal de Sarandí,False,Round of 16,Copa Sudamericana,2017
+2017-07-27,Arsenal de Sarandí,2,1,Sport Recife,False,Round of 16,Copa Sudamericana,2017
+2017-07-11,Cerro Porteño,2,1,Boston River,False,Round of 16,Copa Sudamericana,2017
+2017-07-26,Boston River,1,4,Cerro Porteño,False,Round of 16,Copa Sudamericana,2017
+2017-07-11,Huracán (Buenos Aires),1,5,Libertad (Asunción),False,Round of 16,Copa Sudamericana,2017
+2017-08-01,Libertad (Asunción),2,0,Huracán (Buenos Aires),False,Round of 16,Copa Sudamericana,2017
+2017-07-11,Oriente Petrolero,2,3,Atlético Tucumán,False,Round of 16,Copa Sudamericana,2017
+2017-08-01,Atlético Tucumán,3,0,Oriente Petrolero,False,Round of 16,Copa Sudamericana,2017
+2017-07-12,Bolívar,1,0,LDU de Quito,False,Round of 16,Copa Sudamericana,2017
+2017-08-02,LDU de Quito,1,0,Bolívar,False,Round of 16,Copa Sudamericana,2017
+2017-07-12,Independiente (Avellaneda,4,2,Deportes Iquique,False,Round of 16,Copa Sudamericana,2017
+2017-08-02,Deportes Iquique,1,2,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2017
+2017-07-12,Nacional (Asunción),1,1,Olimpia (Asunción),False,Round of 16,Copa Sudamericana,2017
+2017-08-02,Olimpia (Asunción),2,2,Nacional (Asunción),False,Round of 16,Copa Sudamericana,2017
+2017-07-13,Nacional Potosí,0,1,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2017
+2017-08-03,Estudiantes (La Plata),2,0,Nacional Potosí,False,Round of 16,Copa Sudamericana,2017
+2017-07-13,Deportivo Cali,1,1,Atlético Junior,False,Round of 16,Copa Sudamericana,2017
+2017-08-03,Atlético Junior,1,1,Deportivo Cali,False,Round of 16,Copa Sudamericana,2017
+2017-08-22,Atlético Tucumán,1,0,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2017
+2017-09-12,Independiente (Avellaneda,2,0,Atlético Tucumán,False,Round of 16,Copa Sudamericana,2017
+2017-08-23,Nacional (Asunción),1,0,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2017
+2017-09-19,Estudiantes (La Plata),0,1,Nacional (Asunción),False,Round of 16,Copa Sudamericana,2017
+2017-08-24,Libertad (Asunción),1,0,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2017
+2017-09-14,Independiente Santa Fe,1,1,Libertad (Asunción),False,Round of 16,Copa Sudamericana,2017
+2017-09-12,Cerro Porteño,0,0,Atlético Junior,False,Round of 16,Copa Sudamericana,2017
+2017-09-19,Atlético Junior,3,1,Cerro Porteño,False,Round of 16,Copa Sudamericana,2017
+2017-09-13,Chapecoense,0,0,Flamengo,False,Round of 16,Copa Sudamericana,2017
+2017-09-20,Flamengo,4,0,Chapecoense,False,Round of 16,Copa Sudamericana,2017
+2017-09-13,Corinthians,1,1,Racing Club (Avellaneda),False,Round of 16,Copa Sudamericana,2017
+2017-09-20,Racing Club (Avellaneda),0,0,Corinthians,False,Round of 16,Copa Sudamericana,2017
+2017-09-13,Sport Recife,3,1,Ponte Preta,False,Round of 16,Copa Sudamericana,2017
+2017-09-20,Ponte Preta,1,0,Sport Recife,False,Round of 16,Copa Sudamericana,2017
+2017-09-14,Fluminense,1,0,LDU de Quito,False,Round of 16,Copa Sudamericana,2017
+2017-09-21,LDU de Quito,2,1,Fluminense,False,Round of 16,Copa Sudamericana,2017
+2017-10-24,Libertad (Asunción),1,0,Racing Club (Avellaneda),False,Quarterfinal,Copa Sudamericana,2017
+2017-11-01,Racing Club (Avellaneda),0,0,Libertad (Asunción),False,Quarterfinal,Copa Sudamericana,2017
+2017-10-25,Fluminense,0,1,Flamengo,False,Quarterfinal,Copa Sudamericana,2017
+2017-11-01,Flamengo,3,3,Fluminense,False,Quarterfinal,Copa Sudamericana,2017
+2017-10-25,Nacional (Asunción),1,4,Independiente (Avellaneda,False,Quarterfinal,Copa Sudamericana,2017
+2017-11-02,Independiente (Avellaneda,2,0,Nacional (Asunción),False,Quarterfinal,Copa Sudamericana,2017
+2017-10-26,Sport Recife,0,2,Atlético Junior,False,Quarterfinal,Copa Sudamericana,2017
+2017-11-02,Atlético Junior,0,0,Sport Recife,False,Quarterfinal,Copa Sudamericana,2017
+2017-11-21,Libertad (Asunción),1,0,Independiente (Avellaneda,False,Semifinal,Copa Sudamericana,2017
+2017-11-28,Independiente (Avellaneda,3,1,Libertad (Asunción),False,Semifinal,Copa Sudamericana,2017
+2017-11-23,Flamengo,2,1,Atlético Junior,False,Semifinal,Copa Sudamericana,2017
+2017-11-30,Atlético Junior,0,2,Flamengo,False,Semifinal,Copa Sudamericana,2017
+2017-12-06,Independiente (Avellaneda,2,1,Flamengo,False,Final,Copa Sudamericana,2017
+2017-12-13,Flamengo,1,1,Independiente (Avellaneda,False,Final,Copa Sudamericana,2017

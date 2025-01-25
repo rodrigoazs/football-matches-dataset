@@ -1,0 +1,77 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2011-08-03,San José (Oruro),0,0,Nacional (Asunción),False,,Copa Sudamericana,2011
+2011-08-17,Nacional (Asunción),1,0,San José (Oruro),False,,Copa Sudamericana,2011
+2011-08-02,Universidad César Vallejo,1,1,Independiente Santa Fe,False,,Copa Sudamericana,2011
+2011-08-23,Independiente Santa Fe,2,0,Universidad César Vallejo,False,,Copa Sudamericana,2011
+2011-08-09,Universidad de Chile,1,0,Fénix,False,,Copa Sudamericana,2011
+2011-08-18,Fénix,0,0,Universidad de Chile,False,,Copa Sudamericana,2011
+2011-08-03,Deportivo Quito,1,0,Deportivo Anzoátegui,False,,Copa Sudamericana,2011
+2011-08-16,Deportivo Anzoátegui,2,0,Deportivo Quito,False,,Copa Sudamericana,2011
+2011-08-03,Olimpia,2,0,The Strongest,False,,Copa Sudamericana,2011
+2011-08-11,The Strongest,2,1,Olimpia,False,,Copa Sudamericana,2011
+2011-08-18,La Equidad,2,0,Juan Aurich,False,,Copa Sudamericana,2011
+2011-08-25,Juan Aurich,1,2,La Equidad,False,,Copa Sudamericana,2011
+2011-08-02,Bella Vista,1,1,Universidad Católica,False,,Copa Sudamericana,2011
+2011-08-16,Universidad Católica,3,0,Bella Vista,False,,Copa Sudamericana,2011
+2011-08-04,Yaracuyaños,1,1,LDU Quito,False,,Copa Sudamericana,2011
+2011-08-17,LDU Quito,1,0,Yaracuyaños,False,,Copa Sudamericana,2011
+2011-09-01,Argentinos Juniors,0,0,Vélez Sarsfield,False,Round of 16,Copa Sudamericana,2011
+2011-09-08,Vélez Sarsfield,4,0,Argentinos Juniors,False,Round of 16,Copa Sudamericana,2011
+2011-09-13,Universidad de Chile,1,0,Nacional,False,Round of 16,Copa Sudamericana,2011
+2011-09-21,Nacional,0,2,Universidad de Chile,False,Round of 16,Copa Sudamericana,2011
+2011-08-11,Vasco da Gama,2,0,Palmeiras,False,Round of 16,Copa Sudamericana,2011
+2011-08-25,Palmeiras,3,1,Vasco da Gama,False,Round of 16,Copa Sudamericana,2011
+2011-09-13,La Equidad,0,1,Libertad,False,Round of 16,Copa Sudamericana,2011
+2011-09-21,Libertad,1,0,La Equidad,False,Round of 16,Copa Sudamericana,2011
+2011-09-01,Deportivo Anzoátegui,1,2,Universitario,False,Round of 16,Copa Sudamericana,2011
+2011-09-14,Universitario,2,0,Deportivo Anzoátegui,False,Round of 16,Copa Sudamericana,2011
+2011-08-30,Arsenal (Sarandí),2,0,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2011
+2011-09-06,Estudiantes (La Plata),1,0,Arsenal (Sarandí),False,Round of 16,Copa Sudamericana,2011
+2011-09-15,Independiente Santa Fe,1,1,Deportivo Cali,False,Round of 16,Copa Sudamericana,2011
+2011-09-22,Deportivo Cali,1,1,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2011
+2011-08-10,Atlético Mineiro,1,2,Botafogo,False,Round of 16,Copa Sudamericana,2011
+2011-08-23,Botafogo,1,0,Atlético Mineiro,False,Round of 16,Copa Sudamericana,2011
+2011-09-15,Olimpia,2,1,Emelec,False,Round of 16,Copa Sudamericana,2011
+2011-09-20,Emelec,1,2,Olimpia,False,Round of 16,Copa Sudamericana,2011
+2011-08-31,Lanús,2,2,Godoy Cruz (Mendoza),False,Round of 16,Copa Sudamericana,2011
+2011-09-07,Godoy Cruz (Mendoza),0,0,Lanús,False,Round of 16,Copa Sudamericana,2011
+2011-09-13,LDU Quito,4,1,Trujillanos,False,Round of 16,Copa Sudamericana,2011
+2011-09-22,Trujillanos,0,1,LDU Quito,False,Round of 16,Copa Sudamericana,2011
+2011-08-10,Ceará,2,1,São Paulo,False,Round of 16,Copa Sudamericana,2011
+2011-08-24,São Paulo,3,0,Ceará,False,Round of 16,Copa Sudamericana,2011
+2011-08-30,Nacional (Asunción),1,1,Aurora,False,Round of 16,Copa Sudamericana,2011
+2011-09-20,Aurora,5,2,Nacional (Asunción),False,Round of 16,Copa Sudamericana,2011
+2011-08-10,Flamengo,1,0,Atlético Paranaense,False,Round of 16,Copa Sudamericana,2011
+2011-08-24,Atlético Paranaense,0,1,Flamengo,False,Round of 16,Copa Sudamericana,2011
+2011-09-08,Universidad Católica,2,1,Iquique,False,Round of 16,Copa Sudamericana,2011
+2011-09-14,Iquique,0,0,Universidad Católica,False,Round of 16,Copa Sudamericana,2011
+2011-10-05,Universidad Católica,0,2,Vélez Sarsfield,False,Round of 16,Copa Sudamericana,2011
+2011-10-20,Vélez Sarsfield,1,1,Universidad Católica,False,Round of 16,Copa Sudamericana,2011
+2011-09-29,Botafogo,1,1,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2011
+2011-10-12,Independiente Santa Fe,4,1,Botafogo,False,Round of 16,Copa Sudamericana,2011
+2011-09-28,LDU Quito,2,0,Independiente,False,Round of 16,Copa Sudamericana,2011
+2011-10-12,Independiente,1,0,LDU Quito,False,Round of 16,Copa Sudamericana,2011
+2011-10-19,São Paulo,1,0,Libertad,False,Round of 16,Copa Sudamericana,2011
+2011-10-26,Libertad,2,0,São Paulo,False,Round of 16,Copa Sudamericana,2011
+2011-10-19,Flamengo,0,4,Universidad de Chile,False,Round of 16,Copa Sudamericana,2011
+2011-10-26,Universidad de Chile,1,0,Flamengo,False,Round of 16,Copa Sudamericana,2011
+2011-09-29,Olimpia,0,0,Arsenal (Sarandí),False,Round of 16,Copa Sudamericana,2011
+2011-10-19,Arsenal (Sarandí),3,2,Olimpia,False,Round of 16,Copa Sudamericana,2011
+2011-09-29,Godoy Cruz (Mendoza),1,1,Universitario,False,Round of 16,Copa Sudamericana,2011
+2011-10-20,Universitario,1,1,Godoy Cruz (Mendoza),False,Round of 16,Copa Sudamericana,2011
+2011-10-05,Aurora,3,1,Vasco da Gama,False,Round of 16,Copa Sudamericana,2011
+2011-10-26,Vasco da Gama,8,3,Aurora,False,Round of 16,Copa Sudamericana,2011
+2011-11-01,Independiente Santa Fe,1,1,Vélez Sarsfield,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-10,Vélez Sarsfield,3,2,Independiente Santa Fe,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-03,LDU Quito,1,0,Libertad,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-17,Libertad,1,0,LDU Quito,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-03,Arsenal (Sarandí),1,2,Universidad de Chile,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-17,Universidad de Chile,3,0,Arsenal (Sarandí),False,Quarterfinal,Copa Sudamericana,2011
+2011-11-02,Universitario,2,0,Vasco da Gama,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-09,Vasco da Gama,5,2,Universitario,False,Quarterfinal,Copa Sudamericana,2011
+2011-11-23,Vasco da Gama,1,1,Universidad de Chile,False,Semifinal,Copa Sudamericana,2011
+2011-11-30,Universidad de Chile,2,0,Vasco da Gama,False,Semifinal,Copa Sudamericana,2011
+2011-11-24,LDU Quito,2,0,Vélez Sarsfield,False,Semifinal,Copa Sudamericana,2011
+2011-11-29,Vélez Sarsfield,0,1,LDU Quito,False,Semifinal,Copa Sudamericana,2011
+2011-12-08,LDU Quito,0,1,Universidad de Chile,False,Final,Copa Sudamericana,2011
+2011-12-14,Universidad de Chile,3,0,LDU Quito,False,Final,Copa Sudamericana,2011

@@ -1,0 +1,93 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2014-08-19,Huachipato,3,1,San José (Oruro),False,,Copa Sudamericana,2014
+2014-08-26,San José (Oruro),2,3,Huachipato,False,,Copa Sudamericana,2014
+2014-08-19,Universitario (Sucre),2,0,Deportes Iquique,False,,Copa Sudamericana,2014
+2014-08-26,Deportes Iquique,1,0,Universitario (Sucre),False,,Copa Sudamericana,2014
+2014-08-19,Rentistas,0,2,Cerro Porteño,False,,Copa Sudamericana,2014
+2014-08-26,Cerro Porteño,0,1,Rentistas,False,,Copa Sudamericana,2014
+2014-08-19,Águilas Doradas,1,1,Emelec,False,,Copa Sudamericana,2014
+2014-08-26,Emelec,2,1,Águilas Doradas,False,,Copa Sudamericana,2014
+2014-08-19,Universidad Católica,1,1,Deportivo Anzoátegui,False,,Copa Sudamericana,2014
+2014-08-26,Deportivo Anzoátegui,1,1,Universidad Católica,False,,Copa Sudamericana,2014
+2014-08-20,General Díaz,2,1,Cobresal,False,,Copa Sudamericana,2014
+2014-08-27,Cobresal,2,2,General Díaz,False,,Copa Sudamericana,2014
+2014-08-20,Nacional (Potosí),1,0,Libertad,False,,Copa Sudamericana,2014
+2014-08-27,Libertad,3,0,Nacional (Potosí),False,,Copa Sudamericana,2014
+2014-08-20,Deportivo La Guaira,1,1,Atlético Nacional,False,,Copa Sudamericana,2014
+2014-08-27,Atlético Nacional,1,0,Deportivo La Guaira,False,,Copa Sudamericana,2014
+2014-08-20,Peñarol,2,0,Jorge Wilstermann,False,,Copa Sudamericana,2014
+2014-08-28,Jorge Wilstermann,0,4,Peñarol,False,,Copa Sudamericana,2014
+2014-08-20,Univ. Técnica Cajamarca,0,0,Deportivo Cali,False,,Copa Sudamericana,2014
+2014-08-28,Deportivo Cali,3,0,Univ. Técnica Cajamarca,False,,Copa Sudamericana,2014
+2014-08-21,Universidad Católica,0,1,River Plate (Montevideo),False,,Copa Sudamericana,2014
+2014-08-27,River Plate (Montevideo),3,0,Universidad Católica,False,,Copa Sudamericana,2014
+2014-08-21,Barcelona (Guayaquil),3,0,Alianza Lima,False,,Copa Sudamericana,2014
+2014-08-27,Alianza Lima,0,0,Barcelona (Guayaquil),False,,Copa Sudamericana,2014
+2014-08-21,Trujillanos FC,0,1,Independiente del Valle,False,,Copa Sudamericana,2014
+2014-08-27,Independiente del Valle,1,1,Trujillanos FC,False,,Copa Sudamericana,2014
+2014-08-21,Deportivo Capiatá,3,1,Danubio,False,,Copa Sudamericana,2014
+2014-08-28,Danubio,2,2,Deportivo Capiatá,False,,Copa Sudamericana,2014
+2014-08-21,Inti Gas,0,1,Caracas FC,False,,Copa Sudamericana,2014
+2014-08-28,Caracas FC,1,0,Inti Gas,False,,Copa Sudamericana,2014
+2014-08-21,Millonarios,1,2,Universidad César Vallejo,False,,Copa Sudamericana,2014
+2014-08-28,Universidad César Vallejo,2,2,Millonarios,False,,Copa Sudamericana,2014
+2014-08-27,Internacional (P. Alegre),0,2,Bahia,False,Round of 16,Copa Sudamericana,2014
+2014-09-04,Bahia,1,1,Internacional (P. Alegre),False,Round of 16,Copa Sudamericana,2014
+2014-08-28,Sport Recife,0,1,Vitória,False,Round of 16,Copa Sudamericana,2014
+2014-09-03,Vitória,2,1,Sport Recife,False,Round of 16,Copa Sudamericana,2014
+2014-08-28,Fluminense,2,1,Goiás,False,Round of 16,Copa Sudamericana,2014
+2014-09-03,Goiás,1,0,Fluminense,False,Round of 16,Copa Sudamericana,2014
+2014-08-28,Criciúma,2,1,São Paulo,False,Round of 16,Copa Sudamericana,2014
+2014-09-04,São Paulo,2,0,Criciúma,False,Round of 16,Copa Sudamericana,2014
+2014-09-03,Gimnasia y Esgrima (LP),0,0,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2014
+2014-09-16,Estudiantes (La Plata),1,0,Gimnasia y Esgrima (LP),False,Round of 16,Copa Sudamericana,2014
+2014-09-03,Godoy Cruz Antonio Tomba,0,1,River Plate,False,Round of 16,Copa Sudamericana,2014
+2014-09-17,River Plate,2,0,Godoy Cruz Antonio Tomba,False,Round of 16,Copa Sudamericana,2014
+2014-09-04,Rosario Central,1,1,Boca Juniors,False,Round of 16,Copa Sudamericana,2014
+2014-09-18,Boca Juniors,3,0,Rosario Central,False,Round of 16,Copa Sudamericana,2014
+2014-09-10,Atlético Nacional,0,2,General Díaz,False,Round of 16,Copa Sudamericana,2014
+2014-09-25,General Díaz,1,3,Atlético Nacional,False,Round of 16,Copa Sudamericana,2014
+2014-09-11,Barcelona (Guayaquil),1,0,Libertad,False,Round of 16,Copa Sudamericana,2014
+2014-09-17,Libertad,2,0,Barcelona (Guayaquil),False,Round of 16,Copa Sudamericana,2014
+2014-09-16,Independiente del Valle,1,0,Cerro Porteño,False,Round of 16,Copa Sudamericana,2014
+2014-09-23,Cerro Porteño,3,0,Independiente del Valle,False,Round of 16,Copa Sudamericana,2014
+2014-09-16,Deportivo Capiatá,1,1,Caracas FC,False,Round of 16,Copa Sudamericana,2014
+2014-09-24,Caracas FC,1,3,Deportivo Capiatá,False,Round of 16,Copa Sudamericana,2014
+2014-09-16,Peñarol,2,2,Deportivo Cali,False,Round of 16,Copa Sudamericana,2014
+2014-09-24,Deportivo Cali,0,1,Peñarol,False,Round of 16,Copa Sudamericana,2014
+2014-09-17,Universitario (Sucre),2,2,Universidad César Vallejo,False,Round of 16,Copa Sudamericana,2014
+2014-09-23,Universidad César Vallejo,3,0,Universitario (Sucre),False,Round of 16,Copa Sudamericana,2014
+2014-09-17,Huachipato,2,0,Universidad Católica,False,Round of 16,Copa Sudamericana,2014
+2014-09-24,Universidad Católica,1,0,Huachipato,False,Round of 16,Copa Sudamericana,2014
+2014-09-18,Emelec,2,1,River Plate (Montevideo),False,Round of 16,Copa Sudamericana,2014
+2014-09-25,River Plate (Montevideo),1,1,Emelec,False,Round of 16,Copa Sudamericana,2014
+2014-09-30,São Paulo,1,0,Huachipato,False,Round of 16,Copa Sudamericana,2014
+2014-10-15,Huachipato,2,3,São Paulo,False,Round of 16,Copa Sudamericana,2014
+2014-10-01,Bahia,2,0,Universidad César Vallejo,False,Round of 16,Copa Sudamericana,2014
+2014-10-15,Universidad César Vallejo,2,0,Bahia,False,Round of 16,Copa Sudamericana,2014
+2014-10-01,Emelec,1,0,Goiás,False,Round of 16,Copa Sudamericana,2014
+2014-10-15,Goiás,1,0,Emelec,False,Round of 16,Copa Sudamericana,2014
+2014-10-01,Atlético Nacional,2,2,Vitória,False,Round of 16,Copa Sudamericana,2014
+2014-10-16,Vitória,0,1,Atlético Nacional,False,Round of 16,Copa Sudamericana,2014
+2014-10-14,Cerro Porteño,2,1,Lanús,False,Round of 16,Copa Sudamericana,2014
+2014-10-21,Lanús,1,1,Cerro Porteño,False,Round of 16,Copa Sudamericana,2014
+2014-10-14,Estudiantes (La Plata),2,1,Peñarol,False,Round of 16,Copa Sudamericana,2014
+2014-10-22,Peñarol,2,1,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2014
+2014-10-15,Boca Juniors,0,1,Deportivo Capiatá,False,Round of 16,Copa Sudamericana,2014
+2014-10-23,Deportivo Capiatá,0,1,Boca Juniors,False,Round of 16,Copa Sudamericana,2014
+2014-10-16,Libertad,1,3,River Plate,False,Round of 16,Copa Sudamericana,2014
+2014-10-22,River Plate,2,0,Libertad,False,Round of 16,Copa Sudamericana,2014
+2014-10-29,Atlético Nacional,1,0,Universidad César Vallejo,False,Quarterfinal,Copa Sudamericana,2014
+2014-11-05,Universidad César Vallejo,0,1,Atlético Nacional,False,Quarterfinal,Copa Sudamericana,2014
+2014-10-29,Estudiantes (La Plata),1,2,River Plate,False,Quarterfinal,Copa Sudamericana,2014
+2014-11-06,River Plate,3,2,Estudiantes (La Plata),False,Quarterfinal,Copa Sudamericana,2014
+2014-10-30,São Paulo,4,2,Emelec,False,Quarterfinal,Copa Sudamericana,2014
+2014-11-05,Emelec,3,2,São Paulo,False,Quarterfinal,Copa Sudamericana,2014
+2014-10-30,Boca Juniors,1,0,Cerro Porteño,False,Quarterfinal,Copa Sudamericana,2014
+2014-11-06,Cerro Porteño,1,4,Boca Juniors,False,Quarterfinal,Copa Sudamericana,2014
+2014-11-19,Atlético Nacional,1,0,São Paulo,False,Semifinal,Copa Sudamericana,2014
+2014-11-26,São Paulo,1,0,Atlético Nacional,False,Semifinal,Copa Sudamericana,2014
+2014-11-20,Boca Juniors,0,0,River Plate,False,Semifinal,Copa Sudamericana,2014
+2014-11-27,River Plate,1,0,Boca Juniors,False,Semifinal,Copa Sudamericana,2014
+2014-12-03,Atlético Nacional,1,1,River Plate,False,Final,Copa Sudamericana,2014
+2014-12-10,River Plate,2,0,Atlético Nacional,False,Final,Copa Sudamericana,2014

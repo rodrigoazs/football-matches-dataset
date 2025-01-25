@@ -1,0 +1,91 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2016-08-09,Deportivo Lara,1,3,Atlético Junior,False,,Copa Sudamericana,2016
+2016-08-16,Atlético Junior,2,1,Deportivo Lara,False,,Copa Sudamericana,2016
+2016-08-09,Sportivo Luqueño,0,0,Peñarol,False,,Copa Sudamericana,2016
+2016-08-16,Peñarol,1,1,Sportivo Luqueño,False,,Copa Sudamericana,2016
+2016-08-09,Universitario (Lima),0,3,Emelec,False,,Copa Sudamericana,2016
+2016-08-16,Emelec,3,1,Universitario (Lima),False,,Copa Sudamericana,2016
+2016-08-09,Fénix,1,0,Cerro Porteño,False,,Copa Sudamericana,2016
+2016-08-17,Cerro Porteño,2,0,Fénix,False,,Copa Sudamericana,2016
+2016-08-09,Real Potosí,3,1,Universidad Católica,False,,Copa Sudamericana,2016
+2016-08-17,Universidad Católica,1,1,Real Potosí,False,,Copa Sudamericana,2016
+2016-08-10,Univ. de Concepción,2,0,Bolívar,False,,Copa Sudamericana,2016
+2016-08-16,Bolívar,3,0,Univ. de Concepción,False,,Copa Sudamericana,2016
+2016-08-10,Montevideo Wanderers,0,0,O'Higgins,False,,Copa Sudamericana,2016
+2016-08-16,O'Higgins,0,0,Montevideo Wanderers,False,,Copa Sudamericana,2016
+2016-08-10,Dep. Indep. Medellín,1,1,Universidad Católica,False,,Copa Sudamericana,2016
+2016-08-17,Universidad Católica,0,1,Dep. Indep. Medellín,False,,Copa Sudamericana,2016
+2016-08-10,Sol de América,1,1,Jorge Wilstermann,False,,Copa Sudamericana,2016
+2016-08-18,Jorge Wilstermann,1,1,Sol de América,False,,Copa Sudamericana,2016
+2016-08-10,Barcelona (Guayaquil),1,1,Zamora FC,False,,Copa Sudamericana,2016
+2016-08-18,Zamora FC,1,1,Barcelona (Guayaquil),False,,Copa Sudamericana,2016
+2016-08-11,Aucas,2,1,Real Garcilaso,False,,Copa Sudamericana,2016
+2016-08-17,Real Garcilaso,1,0,Aucas,False,,Copa Sudamericana,2016
+2016-08-11,Blooming,1,0,Plaza (Colonia),False,,Copa Sudamericana,2016
+2016-08-17,Plaza (Colonia),1,0,Blooming,False,,Copa Sudamericana,2016
+2016-08-11,Tolima,0,0,Deportivo La Guaira,False,,Copa Sudamericana,2016
+2016-08-17,Deportivo La Guaira,1,0,Tolima,False,,Copa Sudamericana,2016
+2016-08-11,Deportivo Municipal,0,5,Atlético Nacional,False,,Copa Sudamericana,2016
+2016-08-17,Atlético Nacional,1,0,Deportivo Municipal,False,,Copa Sudamericana,2016
+2016-08-11,Deportivo Anzoátegui,2,1,Sport Huancayo,False,,Copa Sudamericana,2016
+2016-08-18,Sport Huancayo,1,0,Deportivo Anzoátegui,False,,Copa Sudamericana,2016
+2016-08-11,Palestino,1,0,Libertad,False,,Copa Sudamericana,2016
+2016-08-18,Libertad,0,3,Palestino,False,,Copa Sudamericana,2016
+2016-08-23,Banfield,2,0,San Lorenzo de Almagro,False,Round of 16,Copa Sudamericana,2016
+2016-09-13,San Lorenzo de Almagro,4,1,Banfield,False,Round of 16,Copa Sudamericana,2016
+2016-08-23,Deportivo La Guaira,4,2,Emelec,False,Round of 16,Copa Sudamericana,2016
+2016-09-14,Emelec,0,0,Deportivo La Guaira,False,Round of 16,Copa Sudamericana,2016
+2016-08-23,Blooming,0,2,Atlético Junior,False,Round of 16,Copa Sudamericana,2016
+2016-09-14,Atlético Junior,1,1,Blooming,False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Figueirense,4,2,Flamengo,False,Round of 16,Copa Sudamericana,2016
+2016-08-31,Flamengo,3,1,Figueirense,False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Santa Cruz,0,0,Sport (Recife),False,Round of 16,Copa Sudamericana,2016
+2016-08-31,Sport (Recife),0,1,Santa Cruz,False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Bolívar,1,1,Atlético Nacional,False,Round of 16,Copa Sudamericana,2016
+2016-09-13,Atlético Nacional,1,0,Bolívar,False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Real Garcilaso,2,2,Palestino,False,Round of 16,Copa Sudamericana,2016
+2016-09-15,Palestino,1,0,Real Garcilaso,False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Cerro Porteño,6,0,Real Potosí,False,Round of 16,Copa Sudamericana,2016
+2016-09-15,Real Potosí,0,1,Cerro Porteño,False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Estudiantes (La Plata),1,0,Belgrano (Córdoba),False,Round of 16,Copa Sudamericana,2016
+2016-09-15,Belgrano (Córdoba),2,0,Estudiantes (La Plata),False,Round of 16,Copa Sudamericana,2016
+2016-08-24,Dep. Indep. Medellín,3,0,Sportivo Luqueño,False,Round of 16,Copa Sudamericana,2016
+2016-09-15,Sportivo Luqueño,2,0,Dep. Indep. Medellín,False,Round of 16,Copa Sudamericana,2016
+2016-08-25,Cuiabá,1,0,Chapecoense,False,Round of 16,Copa Sudamericana,2016
+2016-08-31,Chapecoense,3,1,Cuiabá,False,Round of 16,Copa Sudamericana,2016
+2016-08-25,Vitória (Salvador),2,1,Coritiba,False,Round of 16,Copa Sudamericana,2016
+2016-08-31,Coritiba,1,0,Vitória (Salvador),False,Round of 16,Copa Sudamericana,2016
+2016-08-25,Zamora FC,0,1,Montevideo Wanderers,False,Round of 16,Copa Sudamericana,2016
+2016-09-14,Montevideo Wanderers,1,0,Zamora FC,False,Round of 16,Copa Sudamericana,2016
+2016-08-25,Lanús,0,2,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2016
+2016-09-14,Independiente (Avellaneda,1,0,Lanús,False,Round of 16,Copa Sudamericana,2016
+2016-08-25,Sol de América,1,0,Sport Huancayo,False,Round of 16,Copa Sudamericana,2016
+2016-09-15,Sport Huancayo,1,1,Sol de América,False,Round of 16,Copa Sudamericana,2016
+2016-09-20,Sol de América,1,1,Atlético Nacional,False,Round of 16,Copa Sudamericana,2016
+2016-09-27,Atlético Nacional,2,0,Sol de América,False,Round of 16,Copa Sudamericana,2016
+2016-09-21,Independiente (Avellaneda,0,0,Chapecoense,False,Round of 16,Copa Sudamericana,2016
+2016-09-28,Chapecoense,0,0,Independiente (Avellaneda,False,Round of 16,Copa Sudamericana,2016
+2016-09-21,Montevideo Wanderers,0,0,Atlético Junior,False,Round of 16,Copa Sudamericana,2016
+2016-09-28,Atlético Junior,0,0,Montevideo Wanderers,False,Round of 16,Copa Sudamericana,2016
+2016-09-21,Coritiba,1,2,Belgrano (Córdoba),False,Round of 16,Copa Sudamericana,2016
+2016-09-28,Belgrano (Córdoba),1,2,Coritiba,False,Round of 16,Copa Sudamericana,2016
+2016-09-21,Dep. Indep. Medellín,2,0,Santa Cruz,False,Round of 16,Copa Sudamericana,2016
+2016-09-28,Santa Cruz,3,1,Dep. Indep. Medellín,False,Round of 16,Copa Sudamericana,2016
+2016-09-21,Palestino,0,1,Flamengo,False,Round of 16,Copa Sudamericana,2016
+2016-09-28,Flamengo,1,2,Palestino,False,Round of 16,Copa Sudamericana,2016
+2016-09-22,San Lorenzo de Almagro,2,1,Deportivo La Guaira,False,Round of 16,Copa Sudamericana,2016
+2016-09-29,Deportivo La Guaira,0,2,San Lorenzo de Almagro,False,Round of 16,Copa Sudamericana,2016
+2016-09-22,Independiente Santa Fe,2,0,Cerro Porteño,False,Round of 16,Copa Sudamericana,2016
+2016-09-29,Cerro Porteño,4,1,Independiente Santa Fe,False,Round of 16,Copa Sudamericana,2016
+2016-10-18,Dep. Indep. Medellín,0,0,Cerro Porteño,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-25,Cerro Porteño,2,0,Dep. Indep. Medellín,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-19,Coritiba,1,1,Atlético Nacional,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-26,Atlético Nacional,3,1,Coritiba,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-19,Atlético Junior,1,0,Chapecoense,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-26,Chapecoense,3,0,Atlético Junior,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-20,San Lorenzo de Almagro,2,0,Palestino,False,Quarterfinal,Copa Sudamericana,2016
+2016-10-27,Palestino,1,0,San Lorenzo de Almagro,False,Quarterfinal,Copa Sudamericana,2016
+2016-11-01,Cerro Porteño,1,1,Atlético Nacional,False,Semifinal,Copa Sudamericana,2016
+2016-11-24,Atlético Nacional,0,0,Cerro Porteño,False,Semifinal,Copa Sudamericana,2016
+2016-11-02,San Lorenzo de Almagro,1,1,Chapecoense,False,Semifinal,Copa Sudamericana,2016
+2016-11-23,Chapecoense,0,0,San Lorenzo de Almagro,False,Semifinal,Copa Sudamericana,2016

@@ -1,0 +1,106 @@
+date,home_team,home_score,away_score,away_team,neutral,stage,tournament_name,tournament_year
+2019-02-05,Unión La Calera,0,0,Chapecoense,False,Group Stage,Copa Sudamericana,2019
+2019-02-19,Chapecoense,1,1,Unión La Calera,False,Group Stage,Copa Sudamericana,2019
+2019-02-06,Botafogo (Rio de Janeiro),1,0,Defensa y Justicia (F.V.),False,Group Stage,Copa Sudamericana,2019
+2019-02-20,Defensa y Justicia (F.V.),0,3,Botafogo (Rio de Janeiro),False,Group Stage,Copa Sudamericana,2019
+2019-02-07,Bahia (Salvador),0,1,Liverpool (Montevideo),False,Group Stage,Copa Sudamericana,2019
+2019-02-21,Liverpool (Montevideo),0,0,Bahia (Salvador),False,Group Stage,Copa Sudamericana,2019
+2019-02-07,Dep. Santaní (Asunción),1,1,Once Caldas (Manizales),False,Group Stage,Copa Sudamericana,2019
+2019-02-21,Once Caldas (Manizales),0,2,Dep. Santaní (Asunción),False,Group Stage,Copa Sudamericana,2019
+2019-02-12,River Plate (Montevideo),0,0,Santos,False,Group Stage,Copa Sudamericana,2019
+2019-02-26,Santos,1,1,River Plate (Montevideo),False,Group Stage,Copa Sudamericana,2019
+2019-02-12,Macará,2,1,Guabirá (Montero),False,Group Stage,Copa Sudamericana,2019
+2019-02-28,Guabirá (Montero),0,3,Macará,False,Group Stage,Copa Sudamericana,2019
+2019-02-14,Royal Pari (Santa Cruz),2,1,Monagas SC (Maturín),False,Group Stage,Copa Sudamericana,2019
+2019-02-27,Monagas SC (Maturín),2,1,Royal Pari (Santa Cruz),False,Group Stage,Copa Sudamericana,2019
+2019-02-14,Corinthians (São Paulo),1,1,Racing Club (Avellaneda),False,Group Stage,Copa Sudamericana,2019
+2019-02-27,Racing Club (Avellaneda),1,1,Corinthians (São Paulo),False,Group Stage,Copa Sudamericana,2019
+2019-02-26,Fluminense (Rio de Jan.),0,0,Deportes Antofagasta,False,Group Stage,Copa Sudamericana,2019
+2019-03-21,Deportes Antofagasta,1,2,Fluminense (Rio de Jan.),False,Group Stage,Copa Sudamericana,2019
+2019-03-19,Dep. Municipal (Lima),0,3,Colón (Santa Fe),False,Group Stage,Copa Sudamericana,2019
+2019-04-16,Colón (Santa Fe),2,0,Dep. Municipal (Lima),False,Group Stage,Copa Sudamericana,2019
+2019-03-19,Nacional (Potosí),0,1,Zulia FC (Maracaibo),False,Group Stage,Copa Sudamericana,2019
+2019-04-16,Zulia FC (Maracaibo),0,1,Nacional (Potosí),False,Group Stage,Copa Sudamericana,2019
+2019-03-19,Unión Española (Santiago),1,1,Mushuc Runa,False,Group Stage,Copa Sudamericana,2019
+2019-04-18,Mushuc Runa,1,1,Unión Española (Santiago),False,Group Stage,Copa Sudamericana,2019
+2019-03-20,Independiente (CG),0,0,La Equidad (Bogotá),False,Group Stage,Copa Sudamericana,2019
+2019-04-16,La Equidad (Bogotá),0,0,Independiente (CG),False,Group Stage,Copa Sudamericana,2019
+2019-03-20,Unión (Santa Fe),2,0,Independiente del Valle,False,Group Stage,Copa Sudamericana,2019
+2019-04-17,Independiente del Valle,2,0,Unión (Santa Fe),False,Group Stage,Copa Sudamericana,2019
+2019-03-21,Rionegro Águilas Doradas,1,1,Oriente Petrolero,False,Group Stage,Copa Sudamericana,2019
+2019-04-17,Oriente Petrolero,1,1,Rionegro Águilas Doradas,False,Group Stage,Copa Sudamericana,2019
+2019-03-21,Wanderers (Montevideo),2,0,Sport Huancayo,False,Group Stage,Copa Sudamericana,2019
+2019-04-18,Sport Huancayo,1,1,Wanderers (Montevideo),False,Group Stage,Copa Sudamericana,2019
+2019-04-02,Univ. Católica (Quito),0,1,Colo-Colo (Santiago),False,Group Stage,Copa Sudamericana,2019
+2019-04-30,Colo-Colo (Santiago),0,1,Univ. Católica (Quito),False,Group Stage,Copa Sudamericana,2019
+2019-04-02,Mineros de Guayana,1,0,Sol de América,False,Group Stage,Copa Sudamericana,2019
+2019-05-01,Sol de América,1,0,Mineros de Guayana,False,Group Stage,Copa Sudamericana,2019
+2019-04-03,Univ. Técnica Cajamarca,1,1,Cerro (Montevideo),False,Group Stage,Copa Sudamericana,2019
+2019-04-30,Cerro (Montevideo),3,1,Univ. Técnica Cajamarca,False,Group Stage,Copa Sudamericana,2019
+2019-04-03,Independiente (Avelleneda,4,1,EMD Binacional (Juliaca),False,Group Stage,Copa Sudamericana,2019
+2019-05-01,EMD Binacional (Juliaca),1,2,Independiente (Avelleneda,False,Group Stage,Copa Sudamericana,2019
+2019-04-04,Deportivo Cali,1,0,Guaraní (Asunción),False,Group Stage,Copa Sudamericana,2019
+2019-05-02,Guaraní (Asunción),1,0,Deportivo Cali,False,Group Stage,Copa Sudamericana,2019
+2019-04-04,Argentinos Juniors,2,0,Estudiantes de Mérida,False,Group Stage,Copa Sudamericana,2019
+2019-05-08,Estudiantes de Mérida,1,0,Argentinos Juniors,False,Group Stage,Copa Sudamericana,2019
+2019-05-21,Univ. Católica (Quito),6,0,Melgar (Arequipa),False,Round of 16,Copa Sudamericana,2019
+2019-05-28,Melgar (Arequipa),0,0,Univ. Católica (Quito),False,Round of 16,Copa Sudamericana,2019
+2019-05-21,River Plate (Montevideo),0,0,Colón (Santa Fe),False,Round of 16,Copa Sudamericana,2019
+2019-05-28,Colón (Santa Fe),3,1,River Plate (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-05-21,Unión La Calera,1,0,Atlético Mineiro,False,Round of 16,Copa Sudamericana,2019
+2019-05-28,Atlético Mineiro,1,0,Unión La Calera,False,Round of 16,Copa Sudamericana,2019
+2019-05-21,Rionegro Águilas Doradas,3,2,Independiente (Avelleneda,False,Round of 16,Copa Sudamericana,2019
+2019-05-28,Independiente (Avelleneda,2,0,Rionegro Águilas Doradas,False,Round of 16,Copa Sudamericana,2019
+2019-05-21,Unión Española (Santiago),0,3,Sporting Cristal (Lima),False,Round of 16,Copa Sudamericana,2019
+2019-05-28,Sporting Cristal (Lima),3,0,Unión Española (Santiago),False,Round of 16,Copa Sudamericana,2019
+2019-05-21,Royal Pari (Santa Cruz),1,0,Macará,False,Round of 16,Copa Sudamericana,2019
+2019-05-29,Macará,3,2,Royal Pari (Santa Cruz),False,Round of 16,Copa Sudamericana,2019
+2019-05-22,Liverpool (Montevideo),1,0,Caracas FC,False,Round of 16,Copa Sudamericana,2019
+2019-05-28,Caracas FC,2,0,Liverpool (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-05-22,Zulia FC (Maracaibo),2,1,Palestino (Santiago),False,Round of 16,Copa Sudamericana,2019
+2019-05-29,Palestino (Santiago),0,1,Zulia FC (Maracaibo),False,Round of 16,Copa Sudamericana,2019
+2019-05-22,Deportivo Cali,1,1,Peñarol (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-05-29,Peñarol (Montevideo),2,0,Deportivo Cali,False,Round of 16,Copa Sudamericana,2019
+2019-05-22,Sol de América,0,1,Botafogo (Rio de Janeiro),False,Round of 16,Copa Sudamericana,2019
+2019-05-29,Botafogo (Rio de Janeiro),4,0,Sol de América,False,Round of 16,Copa Sudamericana,2019
+2019-05-22,La Equidad (Bogotá),2,0,Dep. Santaní (Asunción),False,Round of 16,Copa Sudamericana,2019
+2019-05-29,Dep. Santaní (Asunción),1,2,La Equidad (Bogotá),False,Round of 16,Copa Sudamericana,2019
+2019-05-23,Fluminense (Rio de Jan.),4,1,Atl. Nacional (Medellín),False,Round of 16,Copa Sudamericana,2019
+2019-05-29,Atl. Nacional (Medellín),1,0,Fluminense (Rio de Jan.),False,Round of 16,Copa Sudamericana,2019
+2019-05-23,Corinthians (São Paulo),2,0,Dep. Lara (Barquisimeto),False,Round of 16,Copa Sudamericana,2019
+2019-05-30,Dep. Lara (Barquisimeto),0,2,Corinthians (São Paulo),False,Round of 16,Copa Sudamericana,2019
+2019-05-23,Wanderers (Montevideo),0,0,Cerro (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-05-30,Cerro (Montevideo),0,1,Wanderers (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-05-23,Argentinos Juniors,1,0,Deportes Tolima (Ibagué),False,Round of 16,Copa Sudamericana,2019
+2019-05-30,Deportes Tolima (Ibagué),0,0,Argentinos Juniors,False,Round of 16,Copa Sudamericana,2019
+2019-05-23,Independiente del Valle,5,0,Univ. Católica (Santiago),False,Round of 16,Copa Sudamericana,2019
+2019-05-30,Univ. Católica (Santiago),3,2,Independiente del Valle,False,Round of 16,Copa Sudamericana,2019
+2019-07-09,Royal Pari (Santa Cruz),1,2,La Equidad (Bogotá),False,Round of 16,Copa Sudamericana,2019
+2019-07-16,La Equidad (Bogotá),2,1,Royal Pari (Santa Cruz),False,Round of 16,Copa Sudamericana,2019
+2019-07-10,Caracas FC,0,0,Independiente del Valle,False,Round of 16,Copa Sudamericana,2019
+2019-07-17,Independiente del Valle,2,0,Caracas FC,False,Round of 16,Copa Sudamericana,2019
+2019-07-11,Colón (Santa Fe),0,1,Argentinos Juniors,False,Round of 16,Copa Sudamericana,2019
+2019-07-18,Argentinos Juniors,0,1,Colón (Santa Fe),False,Round of 16,Copa Sudamericana,2019
+2019-07-23,Zulia FC (Maracaibo),1,0,Sporting Cristal (Lima),False,Round of 16,Copa Sudamericana,2019
+2019-07-30,Sporting Cristal (Lima),3,2,Zulia FC (Maracaibo),False,Round of 16,Copa Sudamericana,2019
+2019-07-23,Peñarol (Montevideo),1,2,Fluminense (Rio de Jan.),False,Round of 16,Copa Sudamericana,2019
+2019-07-30,Fluminense (Rio de Jan.),3,1,Peñarol (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-07-24,Botafogo (Rio de Janeiro),0,1,Atlético Mineiro,False,Round of 16,Copa Sudamericana,2019
+2019-07-31,Atlético Mineiro,2,0,Botafogo (Rio de Janeiro),False,Round of 16,Copa Sudamericana,2019
+2019-07-25,Corinthians (São Paulo),2,0,Wanderers (Montevideo),False,Round of 16,Copa Sudamericana,2019
+2019-08-01,Wanderers (Montevideo),1,2,Corinthians (São Paulo),False,Round of 16,Copa Sudamericana,2019
+2019-07-25,Independiente (Avelleneda,1,0,Univ. Católica (Quito),False,Round of 16,Copa Sudamericana,2019
+2019-08-01,Univ. Católica (Quito),3,2,Independiente (Avelleneda,False,Round of 16,Copa Sudamericana,2019
+2019-08-06,Independiente (Avelleneda,2,1,Independiente del Valle,False,Quarterfinal,Copa Sudamericana,2019
+2019-08-13,Independiente del Valle,1,0,Independiente (Avelleneda,False,Quarterfinal,Copa Sudamericana,2019
+2019-08-08,Zulia FC (Maracaibo),1,0,Colón (Santa Fe),False,Quarterfinal,Copa Sudamericana,2019
+2019-08-15,Colón (Santa Fe),4,0,Zulia FC (Maracaibo),False,Quarterfinal,Copa Sudamericana,2019
+2019-08-20,Atlético Mineiro,2,1,La Equidad (Bogotá),False,Quarterfinal,Copa Sudamericana,2019
+2019-08-27,La Equidad (Bogotá),1,3,Atlético Mineiro,False,Quarterfinal,Copa Sudamericana,2019
+2019-08-22,Corinthians (São Paulo),0,0,Fluminense (Rio de Jan.),False,Quarterfinal,Copa Sudamericana,2019
+2019-08-29,Fluminense (Rio de Jan.),1,1,Corinthians (São Paulo),False,Quarterfinal,Copa Sudamericana,2019
+2019-09-18,Corinthians (São Paulo),0,2,Independiente del Valle,False,Semifinal,Copa Sudamericana,2019
+2019-09-25,Independiente del Valle,2,2,Corinthians (São Paulo),False,Semifinal,Copa Sudamericana,2019
+2019-09-19,Colón (Santa Fe),2,1,Atlético Mineiro,False,Semifinal,Copa Sudamericana,2019
+2019-09-26,Atlético Mineiro,2,1,Colón (Santa Fe),False,Semifinal,Copa Sudamericana,2019
+2019-11-09,Independiente del Valle,3,1,Colón (Santa Fe),False,Final,Copa Sudamericana,2019
