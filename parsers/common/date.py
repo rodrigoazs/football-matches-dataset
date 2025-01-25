@@ -97,5 +97,68 @@ def get_date(line, year):
             convert_date(match_date_1, match_year),
             None,
         ]
+    
+    # (Aug 28 and Sep 6)
+    match_date = re.compile(
+        r"[\[\(](\w{3} +\d{1,2})\s(?:and|&)\s(\w{3} +\d{1,2})[\]\)]",
+        re.UNICODE,
+    )
+
+    match = match_date.search(line)
+
+    if match:
+        match_day_1 = match.group(1)
+        match_day_2 = match.group(2)
+        return [
+            convert_date(f"{match_day_1}", year),
+            convert_date(f"{match_day_2}", year),
+        ]
+    
+    # (Sep 18 and 26)
+    match_date = re.compile(
+        r"[\[\(](\w{3})\s(\d{1,2})\s(?:and|&)\s(\d{1,2})[\]\)]",
+        re.UNICODE,
+    )
+
+    match = match_date.search(line)
+
+    if match:
+        match_month = match.group(1)
+        match_day_1 = match.group(2)
+        match_day_2 = match.group(3)
+        return [
+            convert_date(f"{match_month} {match_day_1}", year),
+            convert_date(f"{match_month} {match_day_2}", year),
+        ]
+    
+    # (Jul 30)
+    match_date = re.compile(
+        r"[\[\(](\w{3} \d{1,2})[\]\)]",
+        re.UNICODE,
+    )
+
+    match = match_date.search(line)
+
+    if match:
+        match_day_1 = match.group(1)
+        return [
+            convert_date(f"{match_day_1}", year),
+            None,
+        ]
+    
+    # (Mar 7, Asunción)
+    match_date = re.compile(
+        r"[\[\(](\w{3} \d{1,2})\,\s[A-Za-zÀ-ÿ]+[\]\)]",
+        re.UNICODE,
+    )
+
+    match = match_date.search(line)
+
+    if match:
+        match_day_1 = match.group(1)
+        return [
+            convert_date(f"{match_day_1}", year),
+            None,
+        ]
 
     return None

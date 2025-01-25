@@ -5,8 +5,8 @@ import pandas as pd
 
 from parsers import *
 
-tournament = "international/clubs/fifa-intercontinental-cup"
-tournament_name = "FIFA Intercontinental Cup"
+tournament = "international/clubs/copa-sudamericana"
+tournament_name = "Copa Sudamericana"
 
 parsers = [parse for name, parse in globals().items() if name.endswith("_parser")]
 

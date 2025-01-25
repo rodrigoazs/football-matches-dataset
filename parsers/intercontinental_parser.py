@@ -14,11 +14,15 @@ def intercontinental_parser(text, tournment, year):
         if dates:
             current_date = dates
 
-        matches = get_match(line, tournment, year, current_date, stage)
-        if matches:
-            results.extend(matches)
-        # else:
-        #     print(line)
+        try:
+            matches = get_match(line, tournment, year, current_date, stage)
+            if matches:
+                results.extend(matches)
+            # else:
+            #     print(line)
+        except:
+            print('Error in:', f"'{line}'", tournment, year, current_date, stage)
+            raise
 
         if line.startswith("Preliminary Round") or line.startswith("Qualifying Round"):
             stage = "Qualifying Round"

@@ -79,6 +79,33 @@ def get_match(line, tournament, year, date, stage):
                 year,
             ],
         ]
+    
+    # Tacuary FC                Par  Club General Caballero    Par   2-2
+    match_pattern = re.compile(
+        r"([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+([0-9A-Za-zÀ-ÿ\s/\-\(\)\.\']+)\s+(?:Arg|Chi|Ven|Bra|Uru|Par|Bol|Ecu|Col|Per|Mex)\s+(\d{1,2})\-(\d{1,2})",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        match_home_team = match.group(1).strip()
+        match_away_team = match.group(2).strip()
+        match1_home_score = match.group(3)
+        match1_away_score = match.group(4)
+        return [
+            [
+                date[0],
+                match_home_team,
+                match1_home_score,
+                match1_away_score,
+                match_away_team,
+                False,
+                stage,
+                tournament,
+                year,
+            ],
+        ]
 
     # Feb 17: LDU (Quito) - Palmeiras               3-2
     match_pattern = re.compile(
@@ -338,5 +365,16 @@ def get_match(line, tournament, year, date, stage):
                 year,
             ],
         ]
+
+    # check if should be parsed
+    match_pattern = re.compile(
+        r"[^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)]\s\d{1,2}\-\d{1,2}",
+        re.UNICODE,
+    )
+
+    match = match_pattern.search(line)
+
+    if match:
+        raise Exception("Not parsed", line)
 
     return None
